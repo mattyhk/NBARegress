@@ -1,0 +1,396 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2012-01-22,12.8833333333,Washington Wizards,Boston Celtics,2,20-23,1,two point jumper,True,14,True,True
+2012-01-22,14.8166666667,Washington Wizards,Boston Celtics,2,26-25,-3,two point jumper,True,11,False,True
+2012-01-22,15.8166666667,Washington Wizards,Boston Celtics,2,26-28,1,free throw,True,15,True,True
+2012-01-22,15.8166666667,Washington Wizards,Boston Celtics,2,26-28,1,free throw,True,15,False,True
+2012-01-22,23.9833333333,Washington Wizards,Boston Celtics,2,49-40,-11,two point jumper,True,16,False,True
+2012-03-25,13.7166666667,Washington Wizards,Boston Celtics,2,12-31,-21,two point jumper,False,15,False,False
+2012-03-25,38.3166666667,Washington Wizards,Boston Celtics,4,57-69,-13,free throw,False,15,False,False
+2012-03-25,38.3166666667,Washington Wizards,Boston Celtics,4,58-69,-12,free throw,False,15,True,False
+2012-03-25,47.0,Washington Wizards,Boston Celtics,4,72-88,-18,two point jumper,False,17,False,False
+2012-03-25,47.6333333333,Washington Wizards,Boston Celtics,4,74-88,-16,two point jumper,False,7,False,False
+2012-12-26,16.2,Washington Wizards,Brooklyn Nets,2,10-33,21,two point jumper,True,20,False,False
+2012-12-26,39.9666666667,Washington Wizards,Brooklyn Nets,4,72-74,-1,three point jumper,True,26,False,False
+2012-03-21,23.3833333333,Washington Wizards,Brooklyn Nets,2,54-51,1,two point jumper,False,19,True,False
+2012-03-21,37.95,Washington Wizards,Brooklyn Nets,4,89-74,14,free throw,False,15,True,False
+2012-03-21,37.95,Washington Wizards,Brooklyn Nets,4,89-74,14,free throw,False,15,False,False
+2012-03-21,39.8,Washington Wizards,Brooklyn Nets,4,90-78,10,layup,False,0,False,False
+2012-04-06,12.8166666667,Washington Wizards,Brooklyn Nets,2,22-33,-13,layup,False,0,True,True
+2012-04-06,13.7666666667,Washington Wizards,Brooklyn Nets,2,25-37,-13,free throw,False,15,True,True
+2012-04-06,13.7666666667,Washington Wizards,Brooklyn Nets,2,26-37,-12,free throw,False,15,True,True
+2012-04-06,16.6,Washington Wizards,Brooklyn Nets,2,32-45,-15,two point jumper,False,23,False,True
+2012-04-06,40.6,Washington Wizards,Brooklyn Nets,4,76-94,-20,layup,False,0,True,True
+2012-04-06,45.8,Washington Wizards,Brooklyn Nets,4,89-106,-19,layup,False,0,True,True
+2012-04-06,47.9666666667,Washington Wizards,Brooklyn Nets,4,97-110,-14,free throw,False,15,True,True
+2012-04-06,47.9666666667,Washington Wizards,Brooklyn Nets,4,98-110,-13,free throw,False,15,True,True
+2012-02-08,14.6833333333,Washington Wizards,New York Knicks,2,24-29,2,three point jumper,True,23,False,True
+2012-04-13,14.4666666667,Washington Wizards,New York Knicks,2,13-28,-17,two point jumper,False,19,False,True
+2012-04-13,41.2833333333,Washington Wizards,New York Knicks,4,50-86,-38,layup,False,0,True,True
+2012-04-13,41.7833333333,Washington Wizards,New York Knicks,4,52-86,-36,two point shot,False,5,True,True
+2012-04-13,43.5666666667,Washington Wizards,New York Knicks,4,55-94,-40,free throw,False,15,True,True
+2012-04-13,43.5666666667,Washington Wizards,New York Knicks,4,56-94,-39,free throw,False,15,True,True
+2012-04-13,45.15,Washington Wizards,New York Knicks,4,60-97,-39,two point jumper,False,21,True,True
+2012-04-13,47.55,Washington Wizards,New York Knicks,4,65-103,-40,layup,False,0,False,True
+2012-01-13,14.6166666667,Washington Wizards,Philadelphia 76ers,2,26-37,-14,three point jumper,False,25,True,True
+2012-01-13,33.5333333333,Washington Wizards,Philadelphia 76ers,3,53-81,-30,two point shot,False,16,True,True
+2012-01-13,40.75,Washington Wizards,Philadelphia 76ers,4,77-99,-24,layup,False,0,True,True
+2012-01-13,44.2666666667,Washington Wizards,Philadelphia 76ers,4,86-107,-24,three point jumper,False,26,False,True
+2012-01-13,47.2666666667,Washington Wizards,Philadelphia 76ers,4,88-117,-32,three point jumper,False,23,False,True
+2012-01-14,36.3166666667,Washington Wizards,Philadelphia 76ers,4,77-62,-17,two point shot,True,15,True,True
+2012-01-23,14.8833333333,Washington Wizards,Philadelphia 76ers,2,20-39,-21,two point jumper,False,1,True,True
+2012-01-23,34.3833333333,Washington Wizards,Philadelphia 76ers,3,56-81,-27,dunk,False,0,True,True
+2012-01-23,37.75,Washington Wizards,Philadelphia 76ers,4,64-88,-26,layup,False,0,True,True
+2012-03-30,14.7,Washington Wizards,Philadelphia 76ers,2,19-27,5,three point jumper,True,25,False,True
+2012-03-30,34.1166666667,Washington Wizards,Philadelphia 76ers,3,55-74,17,two point jumper,True,18,False,True
+2012-03-30,37.1166666667,Washington Wizards,Philadelphia 76ers,4,64-79,13,two point jumper,True,14,False,True
+2012-01-10,13.4333333333,Washington Wizards,Toronto Raptors,2,20-21,-1,two point jumper,True,1,True,True
+2012-01-10,35.5333333333,Washington Wizards,Toronto Raptors,3,52-71,16,three point jumper,True,25,False,True
+2012-01-10,38.75,Washington Wizards,Toronto Raptors,4,52-77,23,two point jumper,True,8,False,True
+2012-01-10,47.75,Washington Wizards,Toronto Raptors,4,78-93,13,two point jumper,True,20,True,True
+2012-02-03,10.6333333333,Washington Wizards,Toronto Raptors,1,15-19,-6,two point shot,False,1,False,True
+2012-02-03,11.1333333333,Washington Wizards,Toronto Raptors,1,16-19,-4,free throw,False,15,True,True
+2012-02-03,11.1333333333,Washington Wizards,Toronto Raptors,1,17-19,-3,free throw,False,15,True,True
+2012-02-03,16.0666666667,Washington Wizards,Toronto Raptors,2,31-32,-3,layup,False,0,True,True
+2012-02-03,16.0666666667,Washington Wizards,Toronto Raptors,2,31-32,-2,free throw,False,15,False,True
+2012-02-03,35.5,Washington Wizards,Toronto Raptors,3,69-80,-14,three point jumper,False,23,False,True
+2012-02-03,44.65,Washington Wizards,Toronto Raptors,4,79-99,-22,two point shot,False,1,False,True
+2012-02-03,46.4833333333,Washington Wizards,Toronto Raptors,4,85-104,-22,three point jumper,False,25,True,True
+2012-02-06,13.1166666667,Washington Wizards,Toronto Raptors,2,19-31,10,two point shot,True,18,True,True
+2012-02-06,15.3166666667,Washington Wizards,Toronto Raptors,2,23-40,15,layup,True,0,True,True
+2012-04-01,36.2166666667,Washington Wizards,Toronto Raptors,4,61-71,-12,two point shot,False,21,False,False
+2012-04-01,36.7,Washington Wizards,Toronto Raptors,4,63-74,-13,layup,False,0,True,False
+2012-04-01,37.3166666667,Washington Wizards,Toronto Raptors,4,64-76,-13,free throw,False,15,True,False
+2012-04-01,37.3166666667,Washington Wizards,Toronto Raptors,4,65-76,-12,free throw,False,15,True,False
+2012-03-05,14.8166666667,Washington Wizards,Golden State Warriors,2,46-24,-24,two point jumper,True,19,False,False
+2012-03-05,37.45,Washington Wizards,Golden State Warriors,4,91-72,-21,two point jumper,True,19,False,False
+2012-03-05,46.3666666667,Washington Wizards,Golden State Warriors,4,118-97,-22,free throw,True,15,False,False
+2012-03-05,46.3666666667,Washington Wizards,Golden State Warriors,4,118-98,-21,free throw,True,15,True,False
+2012-03-05,47.3833333333,Washington Wizards,Golden State Warriors,4,118-100,-20,layup,True,0,False,False
+2012-02-04,14.55,Washington Wizards,Los Angeles Clippers,2,32-17,-18,three point jumper,True,23,False,True
+2012-02-04,15.55,Washington Wizards,Los Angeles Clippers,2,34-22,-15,three point jumper,True,24,True,True
+2012-02-04,33.8666666667,Washington Wizards,Los Angeles Clippers,3,77-50,-30,three point jumper,True,24,True,True
+2012-02-04,36.3,Washington Wizards,Los Angeles Clippers,4,87-53,-36,two point jumper,True,9,False,True
+2012-02-04,46.6,Washington Wizards,Los Angeles Clippers,4,106-74,-34,layup,True,0,False,True
+2012-02-15,13.4,Washington Wizards,Los Angeles Clippers,2,22-25,-5,layup,False,0,True,True
+2012-02-15,48.0,Washington Wizards,Los Angeles Clippers,4,84-102,-20,layup,False,0,True,True
+2012-03-07,14.5,Washington Wizards,Los Angeles Lakers,2,34-27,-9,two point shot,True,1,True,True
+2012-03-07,15.5833333333,Washington Wizards,Los Angeles Lakers,2,37-30,-8,free throw,True,15,True,True
+2012-03-07,15.5833333333,Washington Wizards,Los Angeles Lakers,2,37-31,-7,free throw,True,15,True,True
+2012-03-07,34.6166666667,Washington Wizards,Los Angeles Lakers,3,83-72,-14,three point jumper,True,23,False,True
+2012-03-07,39.9666666667,Washington Wizards,Los Angeles Lakers,4,89-89,-2,layup,True,0,False,True
+2012-03-07,41.35,Washington Wizards,Los Angeles Lakers,4,90-91,-1,two point jumper,True,17,False,True
+2012-02-20,16.3833333333,Washington Wizards,Phoenix Suns,2,33-36,-6,three point jumper,False,23,False,True
+2012-02-20,38.8166666667,Washington Wizards,Phoenix Suns,4,72-92,-22,layup,False,0,True,True
+2012-02-20,41.45,Washington Wizards,Phoenix Suns,4,75-99,-25,free throw,False,15,False,True
+2012-02-20,41.45,Washington Wizards,Phoenix Suns,4,76-99,-24,free throw,False,15,True,True
+2012-02-20,46.2166666667,Washington Wizards,Phoenix Suns,4,83-102,-21,two point jumper,False,17,False,True
+2012-02-20,47.6166666667,Washington Wizards,Phoenix Suns,4,88-104,-18,layup,False,0,False,True
+2012-02-22,12.9666666667,Washington Wizards,Sacramento Kings,2,29-38,7,two point shot,True,12,True,False
+2012-02-22,15.0,Washington Wizards,Sacramento Kings,2,33-43,8,two point shot,True,1,True,False
+2012-02-22,15.65,Washington Wizards,Sacramento Kings,2,36-43,5,two point jumper,True,18,False,False
+2012-01-11,14.7,Washington Wizards,Chicago Bulls,2,20-26,-8,two point jumper,False,18,False,False
+2012-01-11,16.4833333333,Washington Wizards,Chicago Bulls,2,25-31,-7,free throw,False,15,True,False
+2012-01-11,16.4833333333,Washington Wizards,Chicago Bulls,2,26-31,-6,free throw,False,15,True,False
+2012-01-11,33.8666666667,Washington Wizards,Chicago Bulls,3,51-53,-4,two point jumper,False,21,False,False
+2012-01-11,47.9666666667,Washington Wizards,Chicago Bulls,4,64-78,-16,two point jumper,False,17,False,False
+2012-01-30,10.9,Washington Wizards,Chicago Bulls,1,26-14,-14,two point jumper,True,13,False,False
+2012-01-30,11.9833333333,Washington Wizards,Chicago Bulls,1,26-16,-13,three point jumper,True,25,False,False
+2012-01-30,34.0,Washington Wizards,Chicago Bulls,3,75-55,-22,two point jumper,True,19,False,False
+2012-04-16,13.95,Washington Wizards,Chicago Bulls,2,25-25,-2,two point shot,False,1,False,True
+2012-04-16,16.85,Washington Wizards,Chicago Bulls,2,30-27,1,two point jumper,False,18,False,True
+2012-04-16,17.85,Washington Wizards,Chicago Bulls,2,30-29,-2,three point jumper,False,26,False,True
+2012-04-16,40.6333333333,Washington Wizards,Chicago Bulls,4,70-68,0,two point jumper,False,8,True,True
+2012-04-16,42.3166666667,Washington Wizards,Chicago Bulls,4,72-73,-3,two point shot,False,6,True,True
+2012-04-16,45.2166666667,Washington Wizards,Chicago Bulls,4,78-77,-1,layup,False,0,False,True
+2012-03-03,11.9833333333,Washington Wizards,Cleveland Cavaliers,1,33-24,-11,layup,True,0,False,False
+2012-03-03,13.4666666667,Washington Wizards,Cleveland Cavaliers,2,33-26,-10,three point jumper,True,25,False,False
+2012-04-14,35.9333333333,Washington Wizards,Cleveland Cavaliers,3,73-69,-6,two point jumper,True,20,False,False
+2012-04-14,37.1333333333,Washington Wizards,Cleveland Cavaliers,4,76-75,-3,two point shot,True,1,True,False
+2012-04-14,39.0666666667,Washington Wizards,Cleveland Cavaliers,4,81-78,-5,two point jumper,True,18,False,False
+2012-04-25,11.9666666667,Washington Wizards,Cleveland Cavaliers,1,21-27,-8,two point jumper,False,14,False,True
+2012-04-25,13.0,Washington Wizards,Cleveland Cavaliers,2,21-28,-9,two point jumper,False,19,False,True
+2012-04-25,16.2,Washington Wizards,Cleveland Cavaliers,2,29-34,-7,two point jumper,False,19,True,True
+2012-04-25,16.7,Washington Wizards,Cleveland Cavaliers,2,31-34,-5,layup,False,0,True,True
+2012-04-25,18.1333333333,Washington Wizards,Cleveland Cavaliers,2,34-36,-3,free throw,False,15,True,True
+2012-04-25,18.1333333333,Washington Wizards,Cleveland Cavaliers,2,35-36,-2,free throw,False,15,True,True
+2012-04-25,18.9166666667,Washington Wizards,Cleveland Cavaliers,2,35-38,-5,two point jumper,False,12,False,True
+2012-04-25,36.3666666667,Washington Wizards,Cleveland Cavaliers,4,77-63,12,two point jumper,False,18,False,True
+2012-04-25,41.4166666667,Washington Wizards,Cleveland Cavaliers,4,85-73,10,layup,False,0,True,True
+2012-02-12,13.5,Washington Wizards,Detroit Pistons,2,30-22,6,two point shot,False,15,True,True
+2012-02-12,16.1666666667,Washington Wizards,Detroit Pistons,2,31-30,0,free throw,False,15,False,True
+2012-02-12,16.1666666667,Washington Wizards,Detroit Pistons,2,32-30,1,free throw,False,15,True,True
+2012-02-12,16.8166666667,Washington Wizards,Detroit Pistons,2,35-30,2,three point jumper,False,28,True,True
+2012-02-12,34.7833333333,Washington Wizards,Detroit Pistons,3,98-73,23,two point jumper,False,19,False,True
+2012-03-26,13.2,Washington Wizards,Detroit Pistons,2,16-14,-5,three point jumper,True,25,False,False
+2012-03-26,14.75,Washington Wizards,Detroit Pistons,2,19-18,-3,layup,True,0,False,False
+2012-03-26,35.9666666667,Washington Wizards,Detroit Pistons,3,53-62,7,layup,True,0,True,False
+2012-03-26,36.95,Washington Wizards,Detroit Pistons,4,53-62,7,two point jumper,True,14,False,False
+2012-04-05,14.4,Washington Wizards,Detroit Pistons,2,26-34,-10,layup,False,0,True,False
+2012-04-05,35.9666666667,Washington Wizards,Detroit Pistons,3,64-76,-15,three point jumper,False,24,False,False
+2012-04-05,36.3833333333,Washington Wizards,Detroit Pistons,4,64-76,-14,two point jumper,False,20,False,False
+2012-03-22,13.95,Washington Wizards,Indiana Pacers,2,18-36,16,layup,True,0,True,False
+2012-03-22,15.0666666667,Washington Wizards,Indiana Pacers,2,18-36,16,two point jumper,True,19,False,False
+2012-03-22,16.1333333333,Washington Wizards,Indiana Pacers,2,18-38,18,two point shot,True,21,True,False
+2012-03-29,15.6333333333,Washington Wizards,Indiana Pacers,2,33-32,-1,two point shot,False,9,True,False
+2012-03-29,17.2333333333,Washington Wizards,Indiana Pacers,2,35-34,-1,two point jumper,False,17,False,False
+2012-03-29,37.45,Washington Wizards,Indiana Pacers,4,69-74,-8,three point jumper,False,25,False,False
+2012-04-04,15.4,Washington Wizards,Indiana Pacers,2,43-34,-11,layup,True,0,False,True
+2012-04-04,21.2166666667,Washington Wizards,Indiana Pacers,2,50-49,-3,two point jumper,True,14,False,True
+2012-04-04,40.6,Washington Wizards,Indiana Pacers,4,97-79,-19,free throw,True,15,False,True
+2012-04-04,40.6,Washington Wizards,Indiana Pacers,4,97-80,-18,free throw,True,15,True,True
+2012-04-04,41.3833333333,Washington Wizards,Indiana Pacers,4,99-82,-19,two point shot,True,1,True,True
+2012-04-04,44.7,Washington Wizards,Indiana Pacers,4,106-91,-17,layup,True,0,True,True
+2012-04-04,46.6833333333,Washington Wizards,Indiana Pacers,4,109-94,-17,two point shot,True,1,True,True
+2012-04-04,47.9166666667,Washington Wizards,Indiana Pacers,4,109-96,-15,layup,True,0,False,True
+2012-12-30,12.65,Washington Wizards,Milwaukee Bucks,2,27-38,-14,three point jumper,False,26,True,True
+2012-12-30,14.0,Washington Wizards,Milwaukee Bucks,2,29-38,-11,layup,False,0,True,True
+2012-12-30,47.15,Washington Wizards,Milwaukee Bucks,4,81-100,-21,layup,False,0,True,True
+2012-02-28,12.6333333333,Washington Wizards,Milwaukee Bucks,2,26-35,-11,two point jumper,False,15,True,False
+2012-04-02,46.5166666667,Washington Wizards,Milwaukee Bucks,4,112-89,-25,layup,True,0,False,True
+2012-04-02,47.3333333333,Washington Wizards,Milwaukee Bucks,4,112-95,-18,free throw,True,15,True,True
+2012-04-02,47.3333333333,Washington Wizards,Milwaukee Bucks,4,112-96,-17,free throw,True,15,True,True
+2012-04-18,11.0,Washington Wizards,Milwaukee Bucks,1,29-28,-3,two point shot,True,21,True,True
+2012-04-18,15.2,Washington Wizards,Milwaukee Bucks,2,33-32,-3,two point jumper,True,17,False,True
+2012-04-18,41.7333333333,Washington Wizards,Milwaukee Bucks,4,93-100,5,layup,True,0,False,True
+2012-03-13,15.7666666667,Washington Wizards,Dallas Mavericks,2,36-38,-4,two point jumper,False,20,True,True
+2012-01-16,17.0666666667,Washington Wizards,Houston Rockets,2,39-42,1,two point jumper,True,1,True,False
+2012-01-27,13.5,Washington Wizards,Houston Rockets,2,23-17,4,two point jumper,False,18,False,True
+2012-01-27,34.3833333333,Washington Wizards,Houston Rockets,3,62-73,-13,two point shot,False,21,False,True
+2012-01-27,46.0,Washington Wizards,Houston Rockets,4,74-99,-27,two point jumper,False,15,True,True
+2012-03-18,13.2,Washington Wizards,Memphis Grizzlies,2,20-23,-6,three point jumper,False,25,False,False
+2012-03-18,17.6666666667,Washington Wizards,Memphis Grizzlies,2,27-31,-6,layup,False,0,False,False
+2012-03-18,36.65,Washington Wizards,Memphis Grizzlies,4,68-74,-8,layup,False,0,True,False
+2012-03-18,37.15,Washington Wizards,Memphis Grizzlies,4,70-76,-8,layup,False,0,True,False
+2012-03-18,39.0,Washington Wizards,Memphis Grizzlies,4,77-80,-5,two point jumper,False,8,True,False
+2012-03-18,39.0,Washington Wizards,Memphis Grizzlies,4,78-80,-3,free throw,False,15,True,False
+2012-03-15,18.6,Washington Wizards,New Orleans Pelicans,2,40-39,-1,two point jumper,False,22,True,True
+2012-03-15,20.5,Washington Wizards,New Orleans Pelicans,2,46-43,0,three point jumper,False,25,True,True
+2012-03-15,44.0166666667,Washington Wizards,New Orleans Pelicans,4,90-81,7,two point jumper,False,5,False,True
+2012-03-12,16.6333333333,Washington Wizards,San Antonio Spurs,2,33-49,-19,three point jumper,False,25,False,True
+2012-03-12,36.0,Washington Wizards,San Antonio Spurs,3,74-88,-17,three point jumper,False,28,False,True
+2012-03-12,38.45,Washington Wizards,San Antonio Spurs,4,81-93,-14,layup,False,0,True,True
+2012-12-28,10.3833333333,Washington Wizards,Atlanta Hawks,1,12-22,-12,two point shot,False,20,False,True
+2012-12-28,12.0,Washington Wizards,Atlanta Hawks,1,17-26,-12,three point jumper,False,29,False,True
+2012-12-28,14.7,Washington Wizards,Atlanta Hawks,2,22-30,-10,layup,False,0,False,True
+2012-12-28,15.0666666667,Washington Wizards,Atlanta Hawks,2,24-31,-9,two point jumper,False,17,False,True
+2012-12-28,41.25,Washington Wizards,Atlanta Hawks,4,72-89,-19,two point jumper,False,18,False,True
+2012-03-16,12.4,Washington Wizards,Atlanta Hawks,2,26-30,-6,two point shot,False,11,False,True
+2012-03-16,14.8666666667,Washington Wizards,Atlanta Hawks,2,33-37,-7,three point jumper,False,24,True,True
+2012-03-16,20.0833333333,Washington Wizards,Atlanta Hawks,2,47-41,4,two point jumper,False,18,False,True
+2012-03-16,35.85,Washington Wizards,Atlanta Hawks,3,64-69,-7,layup,False,0,True,True
+2012-03-24,10.0,Washington Wizards,Atlanta Hawks,1,17-19,0,two point jumper,True,16,False,False
+2012-03-24,12.3833333333,Washington Wizards,Atlanta Hawks,2,23-25,0,two point jumper,True,19,True,False
+2012-03-24,16.7,Washington Wizards,Atlanta Hawks,2,28-33,3,two point jumper,True,7,False,False
+2012-03-24,34.9666666667,Washington Wizards,Atlanta Hawks,3,63-75,10,two point jumper,True,8,False,False
+2012-03-24,39.6333333333,Washington Wizards,Atlanta Hawks,4,76-84,6,two point jumper,True,16,False,False
+2012-03-24,40.3166666667,Washington Wizards,Atlanta Hawks,4,76-84,6,two point jumper,True,12,False,False
+2012-01-25,13.2,Washington Wizards,Charlotte Bobcats,2,17-31,11,three point jumper,True,24,False,True
+2012-01-25,34.8666666667,Washington Wizards,Charlotte Bobcats,3,46-70,23,free throw,True,15,False,True
+2012-01-25,34.8666666667,Washington Wizards,Charlotte Bobcats,3,46-71,24,free throw,True,15,True,True
+2012-01-25,35.9833333333,Washington Wizards,Charlotte Bobcats,3,49-71,20,two point jumper,True,19,False,True
+2012-01-25,36.4333333333,Washington Wizards,Charlotte Bobcats,4,49-71,20,two point jumper,True,16,False,True
+2012-01-25,40.1666666667,Washington Wizards,Charlotte Bobcats,4,56-82,23,three point jumper,True,27,True,True
+2012-01-28,35.3666666667,Washington Wizards,Charlotte Bobcats,3,81-76,3,layup,False,0,True,False
+2012-04-09,13.3166666667,Washington Wizards,Charlotte Bobcats,2,34-23,10,free throw,False,15,True,False
+2012-04-09,13.3166666667,Washington Wizards,Charlotte Bobcats,2,34-23,10,free throw,False,15,False,False
+2012-04-09,13.9666666667,Washington Wizards,Charlotte Bobcats,2,35-23,11,free throw,False,15,True,False
+2012-04-09,13.9666666667,Washington Wizards,Charlotte Bobcats,2,36-23,12,free throw,False,15,True,False
+2012-04-09,15.8833333333,Washington Wizards,Charlotte Bobcats,2,40-27,11,two point shot,False,1,True,False
+2012-04-09,18.7,Washington Wizards,Charlotte Bobcats,2,48-32,15,free throw,False,15,False,False
+2012-04-09,18.7,Washington Wizards,Charlotte Bobcats,2,48-32,15,free throw,False,15,False,False
+2012-04-09,36.0,Washington Wizards,Charlotte Bobcats,3,85-58,25,two point jumper,False,14,True,False
+2012-04-09,39.2666666667,Washington Wizards,Charlotte Bobcats,4,93-65,27,free throw,False,15,True,False
+2012-04-09,39.2666666667,Washington Wizards,Charlotte Bobcats,4,94-65,28,free throw,False,15,True,False
+2012-04-09,41.8833333333,Washington Wizards,Charlotte Bobcats,4,99-71,25,three point jumper,False,23,False,False
+2012-04-09,43.7833333333,Washington Wizards,Charlotte Bobcats,4,103-77,25,free throw,False,15,True,False
+2012-04-09,43.7833333333,Washington Wizards,Charlotte Bobcats,4,104-77,26,free throw,False,15,True,False
+2012-04-23,13.5,Washington Wizards,Charlotte Bobcats,2,22-35,11,two point jumper,True,16,True,False
+2012-04-23,16.0,Washington Wizards,Charlotte Bobcats,2,24-44,18,two point shot,True,5,True,False
+2012-04-23,39.0,Washington Wizards,Charlotte Bobcats,4,65-89,22,layup,True,0,True,False
+2012-04-23,41.6333333333,Washington Wizards,Charlotte Bobcats,4,67-91,22,two point jumper,True,19,False,False
+2012-04-23,45.2666666667,Washington Wizards,Charlotte Bobcats,4,73-99,24,layup,True,0,True,False
+2012-04-23,45.2666666667,Washington Wizards,Charlotte Bobcats,4,73-99,25,free throw,True,15,False,False
+2012-02-10,47.6833333333,Washington Wizards,Miami Heat,4,106-88,-19,free throw,True,15,False,True
+2012-02-10,47.6833333333,Washington Wizards,Miami Heat,4,106-89,-18,free throw,True,15,True,True
+2012-04-26,11.4,Washington Wizards,Miami Heat,1,18-26,6,layup,True,0,True,False
+2012-04-26,11.8666666667,Washington Wizards,Miami Heat,1,18-27,8,free throw,True,15,True,False
+2012-04-26,11.8666666667,Washington Wizards,Miami Heat,1,18-28,9,free throw,True,15,True,False
+2012-04-26,46.6666666667,Washington Wizards,Miami Heat,4,66-104,36,layup,True,0,True,False
+2012-01-04,46.4833333333,Washington Wizards,Orlando Magic,4,77-103,-28,two point jumper,False,21,True,True
+2012-01-04,46.9166666667,Washington Wizards,Orlando Magic,4,79-103,-26,layup,False,0,True,True
+2012-02-01,11.8333333333,Washington Wizards,Orlando Magic,1,20-25,-7,layup,False,0,True,False
+2012-02-01,13.15,Washington Wizards,Orlando Magic,2,22-27,-7,layup,False,0,True,False
+2012-02-01,14.7666666667,Washington Wizards,Orlando Magic,2,26-27,-3,layup,False,0,True,False
+2012-02-01,15.3666666667,Washington Wizards,Orlando Magic,2,29-27,-1,three point jumper,False,25,True,False
+2012-02-01,19.1333333333,Washington Wizards,Orlando Magic,2,38-35,0,three point jumper,False,26,False,False
+2012-02-01,20.5333333333,Washington Wizards,Orlando Magic,2,38-41,-6,three point jumper,False,24,False,False
+2012-02-01,34.55,Washington Wizards,Orlando Magic,3,68-69,-4,three point jumper,False,27,True,False
+2012-02-01,35.4166666667,Washington Wizards,Orlando Magic,3,68-69,-3,two point jumper,False,13,False,False
+2012-02-01,36.0,Washington Wizards,Orlando Magic,3,68-69,-4,three point jumper,False,26,False,False
+2012-02-01,37.3,Washington Wizards,Orlando Magic,4,71-71,-2,two point jumper,False,4,False,False
+2012-02-01,37.5666666667,Washington Wizards,Orlando Magic,4,71-71,-2,two point jumper,False,19,False,False
+2012-02-28,15.3666666667,Washington Wizards,Orlando Magic,2,34-23,-13,two point jumper,True,17,False,True
+2012-02-28,47.75,Washington Wizards,Orlando Magic,4,100-94,-7,free throw,True,15,True,True
+2012-02-28,47.75,Washington Wizards,Orlando Magic,4,100-95,-6,free throw,True,15,True,True
+2012-04-10,16.0,Washington Wizards,Orlando Magic,2,32-26,-7,free throw,True,15,False,True
+2012-04-10,16.0,Washington Wizards,Orlando Magic,2,32-27,-6,free throw,True,15,True,True
+2012-04-10,35.35,Washington Wizards,Orlando Magic,3,57-60,0,three point jumper,True,24,False,True
+2012-04-10,37.2,Washington Wizards,Orlando Magic,4,63-62,-2,free throw,True,15,False,True
+2012-04-10,37.2,Washington Wizards,Orlando Magic,4,63-63,-1,free throw,True,15,True,True
+2012-04-10,40.0666666667,Washington Wizards,Orlando Magic,4,69-69,-2,two point jumper,True,18,False,True
+2012-01-08,45.7,Washington Wizards,Minnesota Timberwolves,4,93-72,-23,two point jumper,True,19,False,False
+2012-01-18,12.5166666667,Washington Wizards,Oklahoma City Thunder,2,22-18,-6,two point jumper,True,20,False,True
+2012-01-20,9.15,Washington Wizards,Denver Nuggets,1,19-27,6,two point jumper,True,4,True,False
+2012-01-20,36.6333333333,Washington Wizards,Denver Nuggets,4,86-84,-4,layup,True,0,True,False
+2012-01-20,37.0666666667,Washington Wizards,Denver Nuggets,4,86-84,-4,two point jumper,True,12,False,False
+2012-01-20,38.8166666667,Washington Wizards,Denver Nuggets,4,89-90,-2,three point jumper,True,24,True,False
+2012-01-20,40.2,Washington Wizards,Denver Nuggets,4,91-92,-1,layup,True,0,True,False
+2012-01-20,41.0333333333,Washington Wizards,Denver Nuggets,4,93-92,-4,three point jumper,True,26,False,False
+2012-02-14,14.95,Washington Wizards,Portland Trail Blazers,2,34-29,3,layup,False,0,True,True
+2012-02-17,11.0166666667,Washington Wizards,Utah Jazz,1,20-30,-13,three point jumper,False,23,False,False
+2012-02-17,13.75,Washington Wizards,Utah Jazz,2,24-36,-13,free throw,False,15,False,False
+2012-02-17,13.75,Washington Wizards,Utah Jazz,2,25-36,-12,free throw,False,15,True,False
+2012-02-17,14.25,Washington Wizards,Utah Jazz,2,25-36,-14,three point jumper,False,24,False,False
+2012-02-17,41.95,Washington Wizards,Utah Jazz,4,92-108,-19,three point jumper,False,25,False,False
+2012-02-17,46.8666666667,Washington Wizards,Utah Jazz,4,96-114,-20,layup,False,0,False,False
+2012-02-17,47.9333333333,Washington Wizards,Utah Jazz,4,100-114,-16,layup,False,0,True,False
+2012-03-10,13.3833333333,Washington Wizards,Portland Trail Blazers,2,31-27,-6,two point jumper,True,20,False,True
+2012-03-10,18.1333333333,Washington Wizards,Portland Trail Blazers,2,40-39,-3,layup,True,0,True,True
+2012-03-10,37.4666666667,Washington Wizards,Portland Trail Blazers,4,86-78,-10,two point jumper,True,15,True,True
+2013-03-29,13.0833333333,Atlanta Hawks,Boston Celtics,2,34-34,-2,two point shot,False,6,True,False
+2013-03-29,13.8166666667,Atlanta Hawks,Boston Celtics,2,36-34,-1,three point jumper,False,25,False,False
+2013-03-29,20.5333333333,Atlanta Hawks,Boston Celtics,2,48-56,-10,two point shot,False,1,True,False
+2013-03-29,21.0833333333,Atlanta Hawks,Boston Celtics,2,48-56,-10,two point jumper,False,9,False,False
+2013-03-29,23.5166666667,Atlanta Hawks,Boston Celtics,2,56-63,-10,three point jumper,False,23,True,False
+2013-03-29,36.8333333333,Atlanta Hawks,Boston Celtics,4,82-94,-14,two point jumper,False,14,True,False
+2013-03-29,38.3,Atlanta Hawks,Boston Celtics,4,87-94,-9,layup,False,0,True,False
+2013-03-29,39.65,Atlanta Hawks,Boston Celtics,4,87-98,-12,free throw,False,15,False,False
+2013-03-29,39.65,Atlanta Hawks,Boston Celtics,4,88-98,-11,free throw,False,15,True,False
+2013-03-29,43.7,Atlanta Hawks,Boston Celtics,4,96-107,-13,two point jumper,False,18,False,False
+2013-01-04,10.25,Washington Wizards,Brooklyn Nets,1,18-26,6,two point jumper,True,16,True,False
+2013-01-04,14.45,Washington Wizards,Brooklyn Nets,2,25-36,8,three point jumper,True,23,False,False
+2013-01-04,37.5833333333,Washington Wizards,Brooklyn Nets,4,80-84,2,two point jumper,True,19,False,False
+2013-01-04,39.7,Washington Wizards,Brooklyn Nets,4,82-84,-1,three point jumper,True,26,False,False
+2013-03-09,45.3333333333,Atlanta Hawks,Brooklyn Nets,4,92-72,-23,three point jumper,True,26,False,False
+2013-01-26,47.4666666667,Philadelphia 76ers,New York Knicks,4,78-97,16,three point jumper,True,25,False,True
+2013-04-03,11.5333333333,Atlanta Hawks,New York Knicks,1,21-18,-6,three point jumper,True,25,True,False
+2013-04-03,12.0,Atlanta Hawks,New York Knicks,1,23-18,-8,three point jumper,True,27,False,False
+2013-04-03,14.25,Atlanta Hawks,New York Knicks,2,28-25,-5,two point jumper,True,20,True,False
+2013-04-03,15.0666666667,Atlanta Hawks,New York Knicks,2,28-25,-6,three point jumper,True,24,False,False
+2013-04-03,34.4333333333,Atlanta Hawks,New York Knicks,3,64-64,-2,two point shot,True,7,True,False
+2013-04-03,43.9166666667,Atlanta Hawks,New York Knicks,4,87-76,-12,free throw,True,15,False,False
+2013-04-03,43.9166666667,Atlanta Hawks,New York Knicks,4,87-77,-11,free throw,True,15,True,False
+2013-04-03,46.1833333333,Atlanta Hawks,New York Knicks,4,91-78,-16,three point jumper,True,25,False,False
+2013-04-17,4.2,Atlanta Hawks,New York Knicks,1,4-8,-6,two point shot,False,5,False,False
+2013-04-17,7.5,Atlanta Hawks,New York Knicks,1,10-20,-12,two point shot,False,1,True,False
+2013-04-17,12.8333333333,Atlanta Hawks,New York Knicks,2,18-28,-12,layup,False,0,True,False
+2013-04-17,14.2666666667,Atlanta Hawks,New York Knicks,2,24-31,-9,two point shot,False,14,True,False
+2013-04-17,16.9166666667,Atlanta Hawks,New York Knicks,2,29-31,-3,free throw,False,15,True,False
+2013-04-17,16.9166666667,Atlanta Hawks,New York Knicks,2,30-31,-2,free throw,False,15,True,False
+2013-04-17,19.1333333333,Atlanta Hawks,New York Knicks,2,32-35,-6,three point jumper,False,24,False,False
+2013-04-17,20.3666666667,Atlanta Hawks,New York Knicks,2,34-37,-5,two point jumper,False,15,False,False
+2013-04-17,27.2166666667,Atlanta Hawks,New York Knicks,3,43-52,-11,layup,False,0,True,False
+2013-04-17,31.0666666667,Atlanta Hawks,New York Knicks,3,55-62,-9,layup,False,0,True,False
+2013-04-17,40.1666666667,Atlanta Hawks,New York Knicks,4,76-85,-12,three point jumper,False,25,False,False
+2013-04-17,43.6333333333,Atlanta Hawks,New York Knicks,4,78-95,-20,three point jumper,False,25,False,False
+2013-04-17,46.35,Atlanta Hawks,New York Knicks,4,86-95,-11,two point shot,False,4,True,False
+2013-01-21,23.2833333333,Philadelphia 76ers,San Antonio Spurs,2,47-33,-16,two point jumper,True,17,True,False
+2013-03-06,47.3166666667,Atlanta Hawks,Philadelphia 76ers,4,95-107,10,unknown,True,4,False,False
+2013-04-05,11.1833333333,Atlanta Hawks,Philadelphia 76ers,1,38-24,-16,unknown,True,7,False,True
+2013-04-05,11.8833333333,Atlanta Hawks,Philadelphia 76ers,1,38-26,-14,layup,True,0,True,True
+2013-04-05,23.9833333333,Atlanta Hawks,Philadelphia 76ers,2,58-45,-16,three point jumper,True,25,False,True
+2013-04-05,34.65,Atlanta Hawks,Philadelphia 76ers,3,77-63,-15,free throw,True,15,False,True
+2013-04-05,34.65,Atlanta Hawks,Philadelphia 76ers,3,77-63,-15,free throw,True,15,False,True
+2013-04-05,35.7833333333,Atlanta Hawks,Philadelphia 76ers,3,80-65,-17,two point jumper,True,17,True,True
+2013-04-05,37.65,Atlanta Hawks,Philadelphia 76ers,4,87-69,-20,two point jumper,True,20,True,True
+2013-04-10,40.25,Atlanta Hawks,Philadelphia 76ers,4,104-83,18,three point jumper,False,24,True,True
+2013-04-10,40.7333333333,Atlanta Hawks,Philadelphia 76ers,4,104-85,17,two point jumper,False,20,False,True
+2013-04-10,45.8166666667,Atlanta Hawks,Philadelphia 76ers,4,118-93,22,three point jumper,False,23,False,True
+2013-04-10,46.4,Atlanta Hawks,Philadelphia 76ers,4,120-95,23,two point jumper,False,17,True,True
+2013-03-27,13.3333333333,Atlanta Hawks,Toronto Raptors,2,23-25,-5,three point jumper,False,25,True,False
+2013-03-27,35.9833333333,Atlanta Hawks,Toronto Raptors,3,75-75,-2,two point jumper,False,20,False,False
+2013-03-27,47.5,Atlanta Hawks,Toronto Raptors,4,107-88,16,three point jumper,False,26,False,False
+2013-04-16,9.06666666667,Atlanta Hawks,Toronto Raptors,1,28-23,-7,two point jumper,True,17,False,True
+2013-04-16,11.6833333333,Atlanta Hawks,Toronto Raptors,1,30-27,-5,two point shot,True,1,True,True
+2013-04-16,23.9333333333,Atlanta Hawks,Toronto Raptors,2,66-51,-18,three point jumper,True,27,True,True
+2013-04-16,34.9,Atlanta Hawks,Toronto Raptors,3,94-75,-20,free throw,True,15,True,True
+2013-04-16,34.9,Atlanta Hawks,Toronto Raptors,3,94-75,-20,free throw,True,15,False,True
+2013-04-16,37.2666666667,Atlanta Hawks,Toronto Raptors,4,98-78,-23,three point jumper,True,25,True,True
+2013-04-16,42.0333333333,Atlanta Hawks,Toronto Raptors,4,105-87,-20,two point shot,True,9,True,True
+2013-04-16,47.5666666667,Atlanta Hawks,Toronto Raptors,4,111-96,-18,three point jumper,True,26,False,True
+2013-03-13,8.3,Atlanta Hawks,Los Angeles Lakers,1,12-12,-2,two point jumper,True,16,False,True
+2013-03-13,11.7833333333,Atlanta Hawks,Los Angeles Lakers,1,19-26,5,two point jumper,True,20,True,True
+2013-03-13,14.0166666667,Atlanta Hawks,Los Angeles Lakers,2,23-31,6,two point jumper,True,20,True,True
+2013-03-13,34.2833333333,Atlanta Hawks,Los Angeles Lakers,3,69-71,-1,three point jumper,True,25,False,True
+2013-03-13,35.0,Atlanta Hawks,Los Angeles Lakers,3,72-74,-1,three point jumper,True,26,True,True
+2013-12-29,12.0,Washington Wizards,Chicago Bulls,1,26-22,2,two point jumper,False,19,False,False
+2013-12-29,14.8166666667,Washington Wizards,Chicago Bulls,2,26-28,-4,two point shot,False,1,False,False
+2013-12-29,24.0,Washington Wizards,Chicago Bulls,2,39-45,-8,two point jumper,False,12,True,False
+2013-12-29,30.3833333333,Washington Wizards,Chicago Bulls,3,54-60,-8,two point jumper,False,21,True,False
+2013-12-29,33.0,Washington Wizards,Chicago Bulls,3,58-62,-6,two point jumper,False,22,False,False
+2013-12-29,36.0,Washington Wizards,Chicago Bulls,3,63-70,-9,two point shot,False,1,True,False
+2013-12-29,37.05,Washington Wizards,Chicago Bulls,4,65-72,-9,layup,False,0,False,False
+2013-12-29,42.5666666667,Washington Wizards,Chicago Bulls,4,73-79,-8,two point jumper,False,22,False,False
+2013-12-29,42.6333333333,Washington Wizards,Chicago Bulls,4,74-79,-6,free throw,False,15,True,False
+2013-12-29,42.6333333333,Washington Wizards,Chicago Bulls,4,74-79,-6,free throw,False,15,False,False
+2013-12-26,3.58333333333,Washington Wizards,Cleveland Cavaliers,1,5-9,1,three point jumper,True,23,False,False
+2013-12-26,9.48333333333,Washington Wizards,Cleveland Cavaliers,1,15-22,5,two point jumper,True,1,False,False
+2013-12-26,21.25,Washington Wizards,Cleveland Cavaliers,2,36-39,1,two point jumper,True,1,False,False
+2013-12-26,23.1166666667,Washington Wizards,Cleveland Cavaliers,2,42-41,-3,two point jumper,True,20,False,False
+2013-12-26,27.4333333333,Washington Wizards,Cleveland Cavaliers,3,53-56,0,three point jumper,True,24,True,False
+2013-12-26,28.4166666667,Washington Wizards,Cleveland Cavaliers,3,53-59,3,three point jumper,True,24,True,False
+2013-04-01,9.9,Atlanta Hawks,Cleveland Cavaliers,1,17-25,6,two point jumper,True,21,True,False
+2013-04-01,12.7,Atlanta Hawks,Cleveland Cavaliers,2,19-25,3,three point jumper,True,24,False,False
+2013-01-02,9.33333333333,Washington Wizards,Indiana Pacers,1,13-28,-17,two point jumper,False,20,False,False
+2013-01-02,10.6833333333,Washington Wizards,Indiana Pacers,1,15-28,-15,two point jumper,False,17,False,False
+2013-01-02,15.0,Washington Wizards,Indiana Pacers,2,27-33,-8,layup,False,0,True,False
+2013-01-02,23.5833333333,Washington Wizards,Indiana Pacers,2,39-47,-10,two point jumper,False,9,False,False
+2013-01-02,40.1666666667,Washington Wizards,Indiana Pacers,4,64-77,-16,three point jumper,False,26,False,False
+2013-01-02,40.6333333333,Washington Wizards,Indiana Pacers,4,66-77,-13,layup,False,0,True,False
+2013-03-25,13.5666666667,Atlanta Hawks,Indiana Pacers,2,28-30,-5,three point jumper,False,26,False,True
+2013-03-25,15.7166666667,Atlanta Hawks,Indiana Pacers,2,33-38,-7,two point jumper,False,16,True,True
+2013-03-25,16.3166666667,Atlanta Hawks,Indiana Pacers,2,35-40,-7,two point jumper,False,18,True,True
+2013-03-25,38.3,Atlanta Hawks,Indiana Pacers,4,72-87,-18,unknown,False,27,True,True
+2013-03-25,42.3166666667,Atlanta Hawks,Indiana Pacers,4,79-89,-12,layup,False,0,False,True
+2013-03-25,43.2,Atlanta Hawks,Indiana Pacers,4,79-92,-16,three point jumper,False,23,False,True
+2013-03-25,45.5833333333,Atlanta Hawks,Indiana Pacers,4,86-94,-11,three point jumper,False,27,True,True
+2013-03-24,39.4666666667,Atlanta Hawks,Milwaukee Bucks,4,78-78,-2,layup,False,0,False,False
+2013-03-24,41.0666666667,Atlanta Hawks,Milwaukee Bucks,4,85-79,4,two point jumper,False,19,True,False
+2013-03-24,41.6333333333,Atlanta Hawks,Milwaukee Bucks,4,85-79,4,two point jumper,False,18,False,False
+2013-01-01,9.78333333333,Washington Wizards,Dallas Mavericks,1,18-23,3,two point jumper,True,19,True,True
+2013-01-01,12.9666666667,Washington Wizards,Dallas Mavericks,2,23-32,7,two point jumper,True,15,False,True
+2013-01-01,28.6666666667,Washington Wizards,Dallas Mavericks,3,61-60,-3,two point shot,True,1,True,True
+2013-01-01,33.4166666667,Washington Wizards,Dallas Mavericks,3,74-67,-10,three point jumper,True,25,True,True
+2013-01-01,34.0,Washington Wizards,Dallas Mavericks,3,77-67,-13,three point jumper,True,25,False,True
+2013-03-18,43.7333333333,Atlanta Hawks,Dallas Mavericks,4,119-102,-20,three point jumper,True,23,True,False
+2013-03-18,45.9333333333,Atlanta Hawks,Dallas Mavericks,4,123-106,-19,two point jumper,True,19,False,False
+2013-04-06,8.6,Atlanta Hawks,San Antonio Spurs,1,14-17,-6,three point jumper,False,25,False,False
+2013-04-06,10.8833333333,Atlanta Hawks,San Antonio Spurs,1,20-21,-3,two point jumper,False,15,True,False
+2013-04-06,11.8666666667,Atlanta Hawks,San Antonio Spurs,1,20-21,-3,two point jumper,False,17,False,False
+2013-04-06,23.0,Atlanta Hawks,San Antonio Spurs,2,36-45,-11,two point jumper,False,19,False,False
+2013-04-06,32.8333333333,Atlanta Hawks,San Antonio Spurs,3,57-67,-12,two point jumper,False,6,False,False
+2013-04-06,34.4333333333,Atlanta Hawks,San Antonio Spurs,3,64-71,-10,three point jumper,False,27,True,False
+2013-04-06,35.8666666667,Atlanta Hawks,San Antonio Spurs,3,69-73,-7,three point jumper,False,26,True,False
+2013-04-06,44.25,Atlanta Hawks,San Antonio Spurs,4,84-90,-7,free throw,False,15,True,False
+2013-04-06,44.25,Atlanta Hawks,San Antonio Spurs,4,85-90,-6,free throw,False,15,True,False
+2013-04-06,45.3666666667,Atlanta Hawks,San Antonio Spurs,4,85-92,-10,three point jumper,False,25,False,False
+2013-04-06,46.0,Atlanta Hawks,San Antonio Spurs,4,87-94,-9,layup,False,0,True,False
+2013-03-12,47.3833333333,Atlanta Hawks,Miami Heat,4,80-98,-21,three point jumper,False,26,False,False
+2013-03-12,47.6166666667,Atlanta Hawks,Miami Heat,4,80-98,-19,free throw,False,15,False,False
+2013-03-12,47.6166666667,Atlanta Hawks,Miami Heat,4,81-98,-18,free throw,False,15,True,False
+2013-03-30,10.7666666667,Atlanta Hawks,Orlando Magic,1,23-20,-6,three point jumper,True,25,False,True
+2013-03-30,34.4833333333,Atlanta Hawks,Orlando Magic,3,56-64,6,two point jumper,True,20,True,True
+2013-03-30,34.9833333333,Atlanta Hawks,Orlando Magic,3,56-64,6,two point jumper,True,9,False,True
+2013-03-30,35.9166666667,Atlanta Hawks,Orlando Magic,3,59-67,5,three point jumper,True,23,True,True
+2013-03-30,36.5166666667,Atlanta Hawks,Orlando Magic,4,60-67,4,three point jumper,True,26,False,True
+2013-03-30,44.15,Atlanta Hawks,Orlando Magic,4,75-87,9,three point jumper,True,23,True,True
+2013-01-06,17.2833333333,Washington Wizards,Miami Heat,2,28-33,-7,two point shot,False,18,True,False
+2013-01-06,35.6,Washington Wizards,Miami Heat,3,60-69,-12,three point jumper,False,24,True,False
+2013-01-06,40.2,Washington Wizards,Miami Heat,4,69-78,-11,two point shot,False,10,True,False
+2013-01-06,46.3666666667,Washington Wizards,Miami Heat,4,71-94,-25,two point jumper,False,15,False,False
+2013-12-28,2.63333333333,Washington Wizards,Orlando Magic,1,5-4,-4,three point jumper,True,27,False,False
+2013-12-28,5.81666666667,Washington Wizards,Orlando Magic,1,20-8,-15,three point jumper,True,25,False,False
+2013-12-28,32.35,Washington Wizards,Orlando Magic,3,63-73,8,two point jumper,True,22,True,False
+2013-12-28,33.6666666667,Washington Wizards,Orlando Magic,3,63-78,13,layup,True,0,True,False
+2013-12-28,35.9833333333,Washington Wizards,Orlando Magic,3,72-80,5,three point jumper,True,23,False,False
+2013-12-28,37.1166666667,Washington Wizards,Orlando Magic,4,74-82,5,three point jumper,True,25,False,False

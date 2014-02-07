@@ -1,0 +1,510 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2007-11-01,21.1,Toronto Raptors,Brooklyn Nets,2,43-45,-3,free throw,False,15,False,True
+2007-11-01,21.1,Toronto Raptors,Brooklyn Nets,2,44-45,-2,free throw,False,15,True,True
+2007-11-01,21.9666666667,Toronto Raptors,Brooklyn Nets,2,44-45,-3,layup,False,0,False,True
+2007-11-01,47.4,Toronto Raptors,Brooklyn Nets,4,89-102,-14,free throw,False,15,True,True
+2007-11-01,47.4,Toronto Raptors,Brooklyn Nets,4,90-102,-13,free throw,False,15,True,True
+2007-11-03,46.85,Toronto Raptors,Milwaukee Bucks,4,87-105,16,two point jumper,True,10,False,False
+2007-11-28,47.3833333333,Toronto Raptors,New Orleans Pelicans,4,91-74,15,two point shot,False,1,False,True
+2007-11-29,44.55,Toronto Raptors,Dallas Mavericks,4,89-109,-22,two point jumper,False,6,False,True
+2007-11-29,45.4666666667,Toronto Raptors,Dallas Mavericks,4,89-111,-24,two point shot,False,1,False,True
+2007-11-29,45.7833333333,Toronto Raptors,Dallas Mavericks,4,93-113,-22,layup,False,0,True,True
+2007-12-10,10.1166666667,Toronto Raptors,Portland Trail Blazers,1,19-16,-5,layup,True,0,True,False
+2007-12-19,31.1333333333,Toronto Raptors,Phoenix Suns,3,53-77,-26,tip shot,False,0,False,True
+2007-12-19,32.0,Toronto Raptors,Phoenix Suns,3,55-80,-27,two point shot,False,1,True,True
+2007-12-19,33.5833333333,Toronto Raptors,Phoenix Suns,3,62-84,-24,layup,False,0,True,True
+2007-12-19,39.75,Toronto Raptors,Phoenix Suns,4,75-101,-28,tip shot,False,0,False,True
+2007-12-19,40.7,Toronto Raptors,Phoenix Suns,4,78-103,-26,free throw,False,15,True,True
+2007-12-19,40.7,Toronto Raptors,Phoenix Suns,4,79-103,-25,free throw,False,15,True,True
+2007-12-19,41.6,Toronto Raptors,Phoenix Suns,4,81-103,-24,layup,False,0,True,True
+2007-12-19,42.25,Toronto Raptors,Phoenix Suns,4,83-103,-22,layup,False,0,True,True
+2007-12-19,42.9833333333,Toronto Raptors,Phoenix Suns,4,87-105,-20,two point shot,False,1,True,True
+2007-12-20,19.9833333333,Toronto Raptors,Los Angeles Clippers,2,48-39,7,hook shot,False,1,False,True
+2007-12-20,23.7333333333,Toronto Raptors,Los Angeles Clippers,2,57-48,7,layup,False,0,True,True
+2007-12-20,23.7333333333,Toronto Raptors,Los Angeles Clippers,2,58-48,9,free throw,False,15,True,True
+2007-12-22,31.6333333333,Toronto Raptors,Portland Trail Blazers,3,66-63,2,free throw,False,15,False,True
+2007-12-22,31.6333333333,Toronto Raptors,Portland Trail Blazers,3,66-63,2,free throw,False,15,False,True
+2007-12-22,32.2833333333,Toronto Raptors,Portland Trail Blazers,3,68-64,2,layup,False,0,True,True
+2007-03-03,39.8166666667,Toronto Raptors,Cleveland Cavaliers,4,83-99,-18,layup,False,0,True,True
+2007-03-03,45.0666666667,Toronto Raptors,Cleveland Cavaliers,4,89-110,-22,free throw,False,15,True,True
+2007-03-03,45.0666666667,Toronto Raptors,Cleveland Cavaliers,4,89-110,-22,free throw,False,15,False,True
+2007-03-03,45.45,Toronto Raptors,Cleveland Cavaliers,4,89-110,-22,free throw,False,15,False,True
+2007-03-03,45.45,Toronto Raptors,Cleveland Cavaliers,4,89-110,-22,free throw,False,15,False,True
+2007-03-03,46.4833333333,Toronto Raptors,Cleveland Cavaliers,4,91-113,-24,layup,False,0,False,True
+2007-03-03,46.75,Toronto Raptors,Cleveland Cavaliers,4,93-115,-24,layup,False,0,True,True
+2007-03-03,46.75,Toronto Raptors,Cleveland Cavaliers,4,94-115,-22,free throw,False,15,True,True
+2013-01-09,8.48333333333,Phoenix Suns,Boston Celtics,1,15-15,-2,two point jumper,False,9,False,False
+2013-01-09,8.73333333333,Phoenix Suns,Boston Celtics,1,15-15,-2,two point jumper,False,5,False,False
+2013-01-09,9.43333333333,Phoenix Suns,Boston Celtics,1,20-15,2,three point jumper,False,23,True,False
+2013-01-09,24.75,Phoenix Suns,Boston Celtics,3,43-55,-14,two point shot,False,10,True,False
+2013-01-09,28.0,Phoenix Suns,Boston Celtics,3,52-55,-5,layup,False,0,False,False
+2013-01-09,30.0333333333,Phoenix Suns,Boston Celtics,3,58-55,1,two point shot,False,1,True,False
+2013-01-09,32.8,Phoenix Suns,Boston Celtics,3,58-61,-6,three point jumper,False,23,False,False
+2013-01-09,35.15,Phoenix Suns,Boston Celtics,3,62-65,-6,three point jumper,False,26,False,False
+2013-01-09,37.8333333333,Phoenix Suns,Boston Celtics,4,66-72,-8,two point shot,False,1,True,False
+2013-01-09,44.4166666667,Phoenix Suns,Boston Celtics,4,71-82,-13,two point jumper,False,5,False,False
+2013-02-22,2.7,Phoenix Suns,Boston Celtics,1,8-0,-11,three point jumper,True,23,False,True
+2013-02-22,9.3,Phoenix Suns,Boston Celtics,1,21-13,-10,layup,True,0,True,True
+2013-02-22,10.4833333333,Phoenix Suns,Boston Celtics,1,21-17,-6,two point shot,True,5,True,True
+2013-02-22,22.4833333333,Phoenix Suns,Boston Celtics,2,49-39,-12,two point shot,True,9,False,True
+2013-02-22,30.45,Phoenix Suns,Boston Celtics,3,65-55,-13,three point jumper,True,23,True,True
+2013-01-11,19.5,Phoenix Suns,Brooklyn Nets,2,38-37,-2,three point jumper,False,23,False,False
+2013-01-11,29.9166666667,Phoenix Suns,Brooklyn Nets,3,60-56,2,hook shot,False,1,False,False
+2013-03-24,4.1,Phoenix Suns,Brooklyn Nets,1,10-6,-6,two point jumper,True,15,True,False
+2013-03-24,4.6,Phoenix Suns,Brooklyn Nets,1,10-8,-4,layup,True,0,True,False
+2013-03-24,5.78333333333,Phoenix Suns,Brooklyn Nets,1,10-8,-4,layup,True,0,False,False
+2013-03-24,6.31666666667,Phoenix Suns,Brooklyn Nets,1,10-12,0,dunk,True,0,True,False
+2013-03-24,8.86666666667,Phoenix Suns,Brooklyn Nets,1,16-15,-4,three point jumper,True,23,False,False
+2013-03-24,11.5833333333,Phoenix Suns,Brooklyn Nets,1,25-25,-2,layup,True,0,True,False
+2013-03-24,29.25,Phoenix Suns,Brooklyn Nets,3,64-54,-12,two point shot,True,2,True,False
+2013-03-24,32.1833333333,Phoenix Suns,Brooklyn Nets,3,66-62,-6,two point shot,True,1,True,False
+2013-03-24,38.8,Phoenix Suns,Brooklyn Nets,4,80-82,0,two point shot,True,3,True,False
+2013-12-02,14.75,Phoenix Suns,New York Knicks,2,26-31,-7,layup,False,0,True,True
+2013-12-02,15.9333333333,Phoenix Suns,New York Knicks,2,27-33,-9,three point jumper,False,23,False,True
+2013-12-02,19.1,Phoenix Suns,New York Knicks,2,33-42,-11,two point jumper,False,1,True,True
+2013-12-02,33.3,Phoenix Suns,New York Knicks,3,68-84,-18,two point jumper,False,16,True,True
+2013-12-02,44.4833333333,Phoenix Suns,New York Knicks,4,89-99,-12,layup,False,0,True,True
+2013-12-02,47.0833333333,Phoenix Suns,New York Knicks,4,97-103,-8,layup,False,0,True,True
+2013-12-26,13.5,Phoenix Suns,New York Knicks,2,30-31,-2,three point jumper,True,23,False,False
+2013-12-26,44.2,Phoenix Suns,New York Knicks,4,93-90,-5,hook shot,True,9,False,False
+2013-11-25,14.0166666667,Phoenix Suns,Philadelphia 76ers,2,25-23,0,two point jumper,False,1,False,False
+2013-01-02,1.93333333333,Phoenix Suns,Philadelphia 76ers,1,4-2,-4,two point jumper,True,21,False,True
+2013-01-02,2.93333333333,Phoenix Suns,Philadelphia 76ers,1,6-6,-2,two point shot,True,1,True,True
+2013-01-02,7.41666666667,Phoenix Suns,Philadelphia 76ers,1,18-15,-5,two point shot,True,1,False,True
+2013-01-02,7.5,Phoenix Suns,Philadelphia 76ers,1,18-17,-3,layup,True,0,True,True
+2013-01-02,20.05,Phoenix Suns,Philadelphia 76ers,2,41-41,-3,three point jumper,True,24,False,True
+2013-01-02,22.3833333333,Phoenix Suns,Philadelphia 76ers,2,45-46,-1,two point jumper,True,1,True,True
+2013-01-02,27.95,Phoenix Suns,Philadelphia 76ers,3,53-58,3,layup,True,0,True,True
+2013-01-02,29.85,Phoenix Suns,Philadelphia 76ers,3,59-60,-1,two point shot,True,1,False,True
+2013-01-02,30.5666666667,Phoenix Suns,Philadelphia 76ers,3,59-61,0,two point jumper,True,18,False,True
+2013-01-02,46.7166666667,Phoenix Suns,Philadelphia 76ers,4,85-91,4,two point jumper,True,1,True,True
+2013-11-30,17.8166666667,Phoenix Suns,Toronto Raptors,2,36-38,-4,unknown,False,13,False,True
+2013-03-06,5.1,Phoenix Suns,Toronto Raptors,1,11-9,-4,layup,True,0,True,False
+2013-03-06,6.78333333333,Phoenix Suns,Toronto Raptors,1,15-13,-4,layup,True,0,True,False
+2013-03-06,11.7,Phoenix Suns,Toronto Raptors,1,25-24,-3,two point jumper,True,18,True,False
+2013-03-06,12.0,Phoenix Suns,Toronto Raptors,1,28-24,-7,three point jumper,True,33,False,False
+2013-03-06,26.5666666667,Phoenix Suns,Toronto Raptors,3,61-42,-21,two point shot,True,4,True,False
+2013-02-02,5.28333333333,Phoenix Suns,Golden State Warriors,1,15-15,-2,layup,False,0,True,True
+2013-02-02,6.95,Phoenix Suns,Golden State Warriors,1,17-19,-4,two point jumper,False,20,False,True
+2013-02-02,27.25,Phoenix Suns,Golden State Warriors,3,58-53,3,two point shot,False,26,False,True
+2013-02-02,30.95,Phoenix Suns,Golden State Warriors,3,64-64,-2,layup,False,0,True,True
+2013-02-02,32.0833333333,Phoenix Suns,Golden State Warriors,3,65-68,-4,free throw,False,15,True,True
+2013-02-02,32.0833333333,Phoenix Suns,Golden State Warriors,3,66-68,-3,free throw,False,15,True,True
+2013-02-02,32.7,Phoenix Suns,Golden State Warriors,3,68-70,-4,two point shot,False,7,True,True
+2013-02-02,35.9,Phoenix Suns,Golden State Warriors,3,74-81,-9,two point shot,False,1,True,True
+2013-02-02,46.9666666667,Phoenix Suns,Golden State Warriors,4,91-110,-21,layup,False,0,True,True
+2013-02-20,4.73333333333,Phoenix Suns,Golden State Warriors,1,8-11,-5,layup,False,0,False,True
+2013-02-20,29.75,Phoenix Suns,Golden State Warriors,3,67-68,-3,two point shot,False,1,True,True
+2013-02-20,40.5333333333,Phoenix Suns,Golden State Warriors,4,84-91,-9,layup,False,0,True,True
+2013-02-20,45.5833333333,Phoenix Suns,Golden State Warriors,4,90-101,-13,two point jumper,False,18,False,True
+2013-02-20,47.2166666667,Phoenix Suns,Golden State Warriors,4,96-104,-10,dunk,False,0,True,True
+2013-04-05,2.3,Phoenix Suns,Golden State Warriors,1,4-2,-4,layup,True,0,False,False
+2013-04-05,6.53333333333,Phoenix Suns,Golden State Warriors,1,16-18,0,layup,True,0,True,False
+2013-04-05,26.6166666667,Phoenix Suns,Golden State Warriors,3,59-70,9,layup,True,0,True,False
+2013-04-05,31.0333333333,Phoenix Suns,Golden State Warriors,3,75-74,-3,two point jumper,True,18,False,False
+2013-04-05,34.4166666667,Phoenix Suns,Golden State Warriors,3,81-76,-7,two point shot,True,8,False,False
+2013-04-05,35.9833333333,Phoenix Suns,Golden State Warriors,3,87-78,-11,layup,True,0,True,False
+2013-04-05,42.1,Phoenix Suns,Golden State Warriors,4,98-91,-9,layup,True,0,True,False
+2013-04-05,44.5333333333,Phoenix Suns,Golden State Warriors,4,102-98,-6,layup,True,0,True,False
+2013-12-23,15.75,Phoenix Suns,Los Angeles Clippers,2,38-32,-8,layup,True,0,True,True
+2013-01-24,9.86666666667,Phoenix Suns,Los Angeles Clippers,1,13-23,8,two point jumper,True,9,False,True
+2013-01-24,26.95,Phoenix Suns,Los Angeles Clippers,3,52-54,-1,three point jumper,True,23,False,True
+2013-01-24,28.1333333333,Phoenix Suns,Los Angeles Clippers,3,55-57,0,layup,True,0,True,True
+2013-01-24,28.6,Phoenix Suns,Los Angeles Clippers,3,55-59,2,layup,True,0,True,True
+2013-01-24,43.1333333333,Phoenix Suns,Los Angeles Clippers,4,77-80,1,dunk,True,0,True,True
+2013-04-03,4.85,Phoenix Suns,Los Angeles Clippers,1,2-15,-15,hook shot,False,1,False,False
+2013-04-03,5.25,Phoenix Suns,Los Angeles Clippers,1,2-15,-15,two point jumper,False,21,False,False
+2013-04-03,5.56666666667,Phoenix Suns,Los Angeles Clippers,1,4-15,-13,layup,False,0,True,False
+2013-04-03,19.8833333333,Phoenix Suns,Los Angeles Clippers,2,41-45,-6,layup,False,0,True,False
+2013-04-03,35.8,Phoenix Suns,Los Angeles Clippers,3,68-95,-29,two point jumper,False,1,False,False
+2013-11-16,45.5666666667,Phoenix Suns,Los Angeles Lakers,4,99-112,-15,layup,False,0,True,False
+2013-11-16,45.5666666667,Phoenix Suns,Los Angeles Lakers,4,99-112,-14,free throw,False,15,False,False
+2013-01-30,1.81666666667,Phoenix Suns,Los Angeles Lakers,1,2-2,-2,two point shot,True,6,False,True
+2013-01-30,5.16666666667,Phoenix Suns,Los Angeles Lakers,1,10-14,2,dunk,True,0,True,True
+2013-01-30,7.25,Phoenix Suns,Los Angeles Lakers,1,16-18,0,two point shot,True,1,True,True
+2013-01-30,20.9166666667,Phoenix Suns,Los Angeles Lakers,2,35-32,-5,hook shot,True,6,False,True
+2013-01-30,31.7333333333,Phoenix Suns,Los Angeles Lakers,3,60-51,-12,three point jumper,True,24,False,True
+2013-01-30,32.9166666667,Phoenix Suns,Los Angeles Lakers,3,64-53,-13,layup,True,0,True,True
+2013-02-12,1.56666666667,Phoenix Suns,Los Angeles Lakers,1,3-4,-4,three point jumper,False,23,True,False
+2013-02-12,9.75,Phoenix Suns,Los Angeles Lakers,1,15-23,-10,layup,False,0,True,False
+2013-02-12,11.9833333333,Phoenix Suns,Los Angeles Lakers,1,22-30,-11,three point jumper,False,25,True,False
+2013-02-12,24.4,Phoenix Suns,Los Angeles Lakers,3,47-56,-11,two point jumper,False,17,False,False
+2013-02-12,25.5166666667,Phoenix Suns,Los Angeles Lakers,3,51-58,-9,layup,False,0,True,False
+2013-02-12,28.35,Phoenix Suns,Los Angeles Lakers,3,53-63,-13,three point jumper,False,23,False,False
+2013-02-12,29.3833333333,Phoenix Suns,Los Angeles Lakers,3,60-63,-5,layup,False,0,True,False
+2013-02-12,29.3833333333,Phoenix Suns,Los Angeles Lakers,3,60-63,-4,free throw,False,15,True,False
+2013-02-12,46.2166666667,Phoenix Suns,Los Angeles Lakers,4,81-89,-10,layup,False,0,False,False
+2013-02-12,47.25,Phoenix Suns,Los Angeles Lakers,4,83-89,-9,three point jumper,False,27,False,False
+2013-03-18,0.883333333333,Phoenix Suns,Los Angeles Lakers,1,2-4,0,layup,True,0,True,True
+2013-03-18,1.88333333333,Phoenix Suns,Los Angeles Lakers,1,2-6,2,two point jumper,True,8,False,True
+2013-03-18,5.31666666667,Phoenix Suns,Los Angeles Lakers,1,12-8,-6,two point jumper,True,3,False,True
+2013-03-18,9.25,Phoenix Suns,Los Angeles Lakers,1,21-16,-8,three point jumper,True,23,False,True
+2013-03-18,24.7,Phoenix Suns,Los Angeles Lakers,3,44-49,3,two point shot,True,1,True,True
+2013-03-18,27.6333333333,Phoenix Suns,Los Angeles Lakers,3,48-56,6,layup,True,0,True,True
+2013-11-02,39.95,Phoenix Suns,Detroit Pistons,4,69-77,6,two point jumper,True,20,False,True
+2013-11-02,47.7833333333,Phoenix Suns,Detroit Pistons,4,86-91,3,layup,True,0,True,True
+2013-11-04,33.9666666667,Phoenix Suns,Orlando Magic,3,75-79,-5,free throw,False,15,False,True
+2013-11-04,33.9666666667,Phoenix Suns,Orlando Magic,3,76-79,-4,free throw,False,15,True,True
+2013-11-05,34.2833333333,Phoenix Suns,Miami Heat,3,71-93,-24,unknown,False,5,False,True
+2013-11-05,44.7166666667,Phoenix Suns,Miami Heat,4,89-116,-28,free throw,False,15,True,True
+2013-11-05,44.7166666667,Phoenix Suns,Miami Heat,4,90-116,-27,free throw,False,15,True,True
+2013-11-05,45.3666666667,Phoenix Suns,Miami Heat,4,90-116,-28,layup,False,0,False,True
+2013-11-05,46.5833333333,Phoenix Suns,Miami Heat,4,94-119,-27,layup,False,0,False,True
+2013-11-05,47.0,Phoenix Suns,Miami Heat,4,96-122,-28,two point jumper,False,19,True,True
+2013-11-05,47.5,Phoenix Suns,Miami Heat,4,96-124,-30,hook shot,False,5,False,True
+2013-11-07,43.0333333333,Phoenix Suns,Charlotte Bobcats,4,102-97,3,two point jumper,False,16,True,True
+2013-11-07,43.7333333333,Phoenix Suns,Charlotte Bobcats,4,102-97,4,free throw,False,15,False,True
+2013-11-07,43.7333333333,Phoenix Suns,Charlotte Bobcats,4,103-97,5,free throw,False,15,True,True
+2013-11-07,45.5833333333,Phoenix Suns,Charlotte Bobcats,4,108-101,6,free throw,False,15,False,True
+2013-11-07,45.5833333333,Phoenix Suns,Charlotte Bobcats,4,109-101,7,free throw,False,15,True,True
+2013-11-09,9.9,Phoenix Suns,Cleveland Cavaliers,1,29-11,-20,hook shot,True,3,False,True
+2013-11-09,10.8666666667,Phoenix Suns,Cleveland Cavaliers,1,32-13,-21,two point jumper,True,1,True,True
+2013-11-09,36.6833333333,Phoenix Suns,Cleveland Cavaliers,4,83-76,-9,two point jumper,True,16,False,True
+2013-11-09,39.3333333333,Phoenix Suns,Cleveland Cavaliers,4,85-85,-2,two point shot,True,1,True,True
+2013-11-09,44.6666666667,Phoenix Suns,Cleveland Cavaliers,4,98-97,-3,layup,True,0,True,True
+2013-11-09,46.4833333333,Phoenix Suns,Cleveland Cavaliers,4,102-103,-1,two point jumper,True,1,True,True
+2013-11-10,10.9333333333,Phoenix Suns,Utah Jazz,1,15-27,-14,two point jumper,False,20,True,False
+2013-11-10,37.9666666667,Phoenix Suns,Utah Jazz,4,68-79,-13,layup,False,0,True,False
+2013-11-10,39.0666666667,Phoenix Suns,Utah Jazz,4,70-79,-11,two point jumper,False,1,False,False
+2013-11-14,33.2166666667,Phoenix Suns,Chicago Bulls,3,79-63,-18,layup,True,0,True,False
+2013-11-14,36.6166666667,Phoenix Suns,Chicago Bulls,4,83-71,-14,layup,True,0,True,False
+2013-11-14,41.2833333333,Phoenix Suns,Chicago Bulls,4,90-86,-6,layup,True,0,False,False
+2013-11-14,47.85,Phoenix Suns,Chicago Bulls,4,100-100,-2,layup,True,0,True,False
+2013-11-14,21.9666666667,Phoenix Suns,Chicago Bulls,5,112-106,-8,layup,True,0,False,False
+2013-11-17,39.5,Phoenix Suns,Miami Heat,4,79-79,-2,layup,True,0,False,False
+2013-11-17,42.85,Phoenix Suns,Miami Heat,4,88-78,-11,free throw,True,15,True,False
+2013-11-21,15.1166666667,Phoenix Suns,Portland Trail Blazers,2,32-36,2,layup,True,0,True,False
+2013-11-21,15.1166666667,Phoenix Suns,Portland Trail Blazers,2,32-36,3,free throw,True,15,False,False
+2013-11-21,17.3166666667,Phoenix Suns,Portland Trail Blazers,2,34-43,7,layup,True,0,True,False
+2013-11-21,37.2,Phoenix Suns,Portland Trail Blazers,4,72-91,17,two point jumper,True,17,False,False
+2013-11-21,39.8666666667,Phoenix Suns,Portland Trail Blazers,4,78-95,15,two point jumper,True,18,True,False
+2013-11-21,41.6333333333,Phoenix Suns,Portland Trail Blazers,4,78-101,21,two point shot,True,1,True,False
+2013-11-21,44.6833333333,Phoenix Suns,Portland Trail Blazers,4,82-107,23,layup,True,0,False,False
+2013-11-21,47.5333333333,Phoenix Suns,Portland Trail Blazers,4,85-114,26,three point jumper,True,23,True,False
+2013-11-23,11.2166666667,Phoenix Suns,New Orleans Pelicans,1,31-23,-10,two point jumper,True,17,True,True
+2013-11-23,14.5666666667,Phoenix Suns,New Orleans Pelicans,2,37-28,-11,two point jumper,True,7,True,True
+2013-11-23,14.5666666667,Phoenix Suns,New Orleans Pelicans,2,37-28,-10,free throw,True,15,False,True
+2013-11-23,17.7833333333,Phoenix Suns,New Orleans Pelicans,2,37-34,-5,two point shot,True,1,False,True
+2013-11-23,19.6,Phoenix Suns,New Orleans Pelicans,2,43-36,-9,two point jumper,True,6,False,True
+2013-11-23,33.9,Phoenix Suns,New Orleans Pelicans,3,78-71,-9,two point jumper,True,1,True,True
+2013-11-23,34.6333333333,Phoenix Suns,New Orleans Pelicans,3,78-72,-7,free throw,True,15,True,True
+2013-11-23,34.6333333333,Phoenix Suns,New Orleans Pelicans,3,78-72,-7,free throw,True,15,False,True
+2013-11-23,36.0,Phoenix Suns,New Orleans Pelicans,3,81-77,-7,three point jumper,True,25,True,True
+2013-11-23,40.8166666667,Phoenix Suns,New Orleans Pelicans,4,83-92,6,three point jumper,True,25,True,True
+2013-11-23,44.1666666667,Phoenix Suns,New Orleans Pelicans,4,90-98,5,three point jumper,True,26,False,True
+2013-11-23,22.0166666667,Phoenix Suns,New Orleans Pelicans,5,105-109,3,free throw,True,15,True,True
+2013-11-23,22.0166666667,Phoenix Suns,New Orleans Pelicans,5,105-110,4,free throw,True,15,True,True
+2013-11-27,12.6166666667,Phoenix Suns,Cleveland Cavaliers,2,19-13,4,layup,False,0,False,True
+2013-11-27,18.3833333333,Phoenix Suns,Cleveland Cavaliers,2,32-23,8,free throw,False,15,True,True
+2013-11-27,18.3833333333,Phoenix Suns,Cleveland Cavaliers,2,33-23,9,free throw,False,15,True,True
+2013-11-27,39.2,Phoenix Suns,Cleveland Cavaliers,4,77-63,12,layup,False,0,False,True
+2013-11-28,15.9333333333,Phoenix Suns,Detroit Pistons,2,28-35,-10,three point jumper,False,23,False,True
+2013-11-28,32.0833333333,Phoenix Suns,Detroit Pistons,3,50-75,-27,two point jumper,False,19,False,True
+2013-11-28,43.5666666667,Phoenix Suns,Detroit Pistons,4,67-109,-43,free throw,False,15,False,True
+2013-11-28,43.5666666667,Phoenix Suns,Detroit Pistons,4,68-109,-42,free throw,False,15,True,True
+2013-11-28,44.05,Phoenix Suns,Detroit Pistons,4,68-109,-44,three point jumper,False,26,False,True
+2013-11-28,47.2833333333,Phoenix Suns,Detroit Pistons,4,74-114,-41,free throw,False,15,False,True
+2013-11-28,47.2833333333,Phoenix Suns,Detroit Pistons,4,75-114,-40,free throw,False,15,True,True
+2013-12-04,18.7833333333,Phoenix Suns,Memphis Grizzlies,2,40-26,13,free throw,False,15,True,True
+2013-12-04,18.7833333333,Phoenix Suns,Memphis Grizzlies,2,41-26,14,free throw,False,15,True,True
+2013-12-04,37.95,Phoenix Suns,Memphis Grizzlies,4,77-72,4,free throw,False,15,True,True
+2013-12-04,37.95,Phoenix Suns,Memphis Grizzlies,4,78-72,5,free throw,False,15,True,True
+2013-12-04,43.9833333333,Phoenix Suns,Memphis Grizzlies,4,90-87,1,layup,False,0,False,True
+2013-12-06,13.5833333333,Phoenix Suns,Dallas Mavericks,2,26-27,-1,two point shot,True,7,True,False
+2013-12-06,15.6833333333,Phoenix Suns,Dallas Mavericks,2,28-27,-3,layup,True,0,False,False
+2013-12-06,29.6666666667,Phoenix Suns,Dallas Mavericks,3,54-47,-9,two point jumper,True,20,False,False
+2013-12-06,34.7333333333,Phoenix Suns,Dallas Mavericks,3,67-61,-9,three point jumper,True,24,True,False
+2013-12-12,15.6333333333,Phoenix Suns,Memphis Grizzlies,2,36-25,-13,two point jumper,True,1,False,True
+2013-12-14,12.75,Phoenix Suns,Utah Jazz,2,22-36,12,layup,True,0,True,True
+2013-12-14,14.8833333333,Phoenix Suns,Utah Jazz,2,24-42,16,layup,True,0,True,True
+2013-12-14,15.1833333333,Phoenix Suns,Utah Jazz,2,26-44,16,two point shot,True,1,True,True
+2013-12-14,38.0166666667,Phoenix Suns,Utah Jazz,4,72-79,5,two point jumper,True,8,False,True
+2013-12-14,39.65,Phoenix Suns,Utah Jazz,4,72-83,9,tip shot,True,0,False,True
+2013-12-14,40.0333333333,Phoenix Suns,Utah Jazz,4,72-85,11,layup,True,0,True,True
+2013-12-14,40.35,Phoenix Suns,Utah Jazz,4,72-85,12,free throw,True,15,False,True
+2013-12-14,40.35,Phoenix Suns,Utah Jazz,4,72-85,12,free throw,True,15,False,True
+2013-12-14,41.3833333333,Phoenix Suns,Utah Jazz,4,74-89,13,layup,True,0,True,True
+2013-12-14,43.8833333333,Phoenix Suns,Utah Jazz,4,75-91,13,three point jumper,True,23,False,True
+2013-12-17,13.2,Phoenix Suns,Sacramento Kings,2,27-18,-11,two point jumper,True,8,True,False
+2013-12-17,15.9333333333,Phoenix Suns,Sacramento Kings,2,35-25,-12,layup,True,0,True,False
+2013-12-17,17.95,Phoenix Suns,Sacramento Kings,2,42-29,-15,layup,True,0,True,False
+2013-12-19,15.3,Phoenix Suns,Charlotte Bobcats,2,29-38,7,two point shot,True,1,True,True
+2013-12-19,17.8833333333,Phoenix Suns,Charlotte Bobcats,2,33-46,11,layup,True,0,True,True
+2013-12-19,19.6666666667,Phoenix Suns,Charlotte Bobcats,2,35-52,15,layup,True,0,True,True
+2013-12-19,20.7166666667,Phoenix Suns,Charlotte Bobcats,2,38-57,17,layup,True,0,True,True
+2013-12-19,21.6666666667,Phoenix Suns,Charlotte Bobcats,2,39-57,16,two point jumper,True,18,False,True
+2013-12-19,22.9833333333,Phoenix Suns,Charlotte Bobcats,2,41-61,18,dunk,True,0,True,True
+2013-12-22,14.2166666667,Phoenix Suns,Portland Trail Blazers,2,29-30,-3,two point shot,False,1,True,False
+2013-12-22,38.05,Phoenix Suns,Portland Trail Blazers,4,76-78,-4,hook shot,False,6,False,False
+2013-12-22,39.0666666667,Phoenix Suns,Portland Trail Blazers,4,80-80,-2,layup,False,0,True,False
+2013-12-22,40.1666666667,Phoenix Suns,Portland Trail Blazers,4,82-81,-1,layup,False,0,True,False
+2013-12-22,42.6666666667,Phoenix Suns,Portland Trail Blazers,4,83-84,-3,two point shot,False,1,False,False
+2013-12-29,39.9,Phoenix Suns,Minnesota Timberwolves,4,94-94,-2,layup,False,0,True,False
+2013-12-29,47.0,Phoenix Suns,Minnesota Timberwolves,4,106-107,-3,two point jumper,False,3,False,False
+2013-12-31,3.21666666667,Phoenix Suns,Oklahoma City Thunder,1,7-6,-2,three point jumper,False,24,False,True
+2013-12-31,3.75,Phoenix Suns,Oklahoma City Thunder,1,9-6,1,two point jumper,False,1,True,True
+2013-12-31,6.45,Phoenix Suns,Oklahoma City Thunder,1,13-12,-1,two point shot,False,16,False,True
+2013-12-31,23.4166666667,Phoenix Suns,Oklahoma City Thunder,2,50-50,-3,three point jumper,False,27,False,True
+2013-12-31,27.95,Phoenix Suns,Oklahoma City Thunder,3,55-66,-13,two point shot,False,7,True,True
+2013-12-31,44.6666666667,Phoenix Suns,Oklahoma City Thunder,4,89-102,-16,three point jumper,False,24,False,True
+2013-12-31,47.2,Phoenix Suns,Oklahoma City Thunder,4,94-112,-21,three point jumper,False,23,False,True
+2013-01-04,23.9833333333,Phoenix Suns,Utah Jazz,2,42-40,-4,two point shot,True,1,False,False
+2013-01-06,1.8,Phoenix Suns,Memphis Grizzlies,1,2-0,-4,hook shot,True,4,False,False
+2013-01-06,1.86666666667,Phoenix Suns,Memphis Grizzlies,1,2-0,-4,two point shot,True,8,False,False
+2013-01-06,3.76666666667,Phoenix Suns,Memphis Grizzlies,1,6-2,-6,layup,True,0,True,False
+2013-01-06,7.13333333333,Phoenix Suns,Memphis Grizzlies,1,10-8,-4,two point jumper,True,4,False,False
+2013-01-06,7.6,Phoenix Suns,Memphis Grizzlies,1,12-9,-4,free throw,True,15,True,False
+2013-01-06,7.6,Phoenix Suns,Memphis Grizzlies,1,12-10,-3,free throw,True,15,True,False
+2013-01-06,8.65,Phoenix Suns,Memphis Grizzlies,1,16-10,-8,two point shot,True,1,False,False
+2013-01-06,28.0,Phoenix Suns,Memphis Grizzlies,3,51-45,-9,three point jumper,True,23,True,False
+2013-01-06,29.0666666667,Phoenix Suns,Memphis Grizzlies,3,53-46,-8,free throw,True,15,True,False
+2013-01-06,29.0666666667,Phoenix Suns,Memphis Grizzlies,3,53-46,-8,free throw,True,15,False,False
+2013-01-06,32.0333333333,Phoenix Suns,Memphis Grizzlies,3,59-51,-10,two point jumper,True,1,True,False
+2013-01-06,34.1,Phoenix Suns,Memphis Grizzlies,3,63-55,-10,layup,True,0,True,False
+2013-01-06,35.9666666667,Phoenix Suns,Memphis Grizzlies,3,71-62,-12,three point jumper,True,25,True,False
+2013-01-06,46.0,Phoenix Suns,Memphis Grizzlies,4,88-74,-16,layup,True,0,True,False
+2013-01-08,0.433333333333,Phoenix Suns,Milwaukee Bucks,1,0-0,-2,two point jumper,False,15,False,True
+2013-01-08,4.1,Phoenix Suns,Milwaukee Bucks,1,6-5,-2,three point jumper,False,23,False,True
+2013-01-08,7.63333333333,Phoenix Suns,Milwaukee Bucks,1,22-13,7,two point jumper,False,15,False,True
+2013-01-08,9.06666666667,Phoenix Suns,Milwaukee Bucks,1,24-15,7,layup,False,0,True,True
+2013-01-08,19.25,Phoenix Suns,Milwaukee Bucks,2,45-42,1,layup,False,0,True,True
+2013-01-08,20.9833333333,Phoenix Suns,Milwaukee Bucks,2,48-44,3,free throw,False,15,True,True
+2013-01-08,20.9833333333,Phoenix Suns,Milwaukee Bucks,2,48-44,3,free throw,False,15,False,True
+2013-01-08,30.2833333333,Phoenix Suns,Milwaukee Bucks,3,66-69,-5,two point jumper,False,15,False,True
+2013-01-08,45.5333333333,Phoenix Suns,Milwaukee Bucks,4,92-99,-8,free throw,False,15,True,True
+2013-01-08,45.5333333333,Phoenix Suns,Milwaukee Bucks,4,92-99,-8,free throw,False,15,False,True
+2013-01-12,5.45,Phoenix Suns,Chicago Bulls,1,6-10,-7,three point jumper,False,24,False,True
+2013-01-12,8.35,Phoenix Suns,Chicago Bulls,1,14-16,-4,two point jumper,False,21,True,True
+2013-01-12,10.6666666667,Phoenix Suns,Chicago Bulls,1,18-18,-2,two point jumper,False,1,False,True
+2013-01-12,29.7333333333,Phoenix Suns,Chicago Bulls,3,60-52,6,two point jumper,False,1,False,True
+2013-01-12,34.1833333333,Phoenix Suns,Chicago Bulls,3,71-61,7,three point jumper,False,23,False,True
+2013-01-14,0.65,Phoenix Suns,Oklahoma City Thunder,1,2-2,-2,layup,True,0,True,True
+2013-01-14,1.75,Phoenix Suns,Oklahoma City Thunder,1,2-4,0,two point jumper,True,17,False,True
+2013-01-14,4.98333333333,Phoenix Suns,Oklahoma City Thunder,1,8-11,1,two point jumper,True,21,False,True
+2013-01-17,4.73333333333,Phoenix Suns,Milwaukee Bucks,1,13-7,-9,three point jumper,True,23,False,False
+2013-01-17,5.41666666667,Phoenix Suns,Milwaukee Bucks,1,13-11,-4,layup,True,0,True,False
+2013-01-17,5.88333333333,Phoenix Suns,Milwaukee Bucks,1,13-11,-4,two point jumper,True,17,False,False
+2013-01-17,8.58333333333,Phoenix Suns,Milwaukee Bucks,1,24-15,-11,two point shot,True,1,False,False
+2013-01-17,22.55,Phoenix Suns,Milwaukee Bucks,2,48-46,-3,free throw,True,15,True,False
+2013-01-17,23.0666666667,Phoenix Suns,Milwaukee Bucks,2,51-50,-3,two point shot,True,1,True,False
+2013-01-17,27.5666666667,Phoenix Suns,Milwaukee Bucks,3,53-63,7,three point jumper,True,25,True,False
+2013-01-17,28.1333333333,Phoenix Suns,Milwaukee Bucks,3,55-63,6,hook shot,True,7,False,False
+2013-01-23,6.35,Phoenix Suns,Sacramento Kings,1,12-16,-6,two point jumper,False,3,False,False
+2013-01-23,6.38333333333,Phoenix Suns,Sacramento Kings,1,14-16,-4,two point shot,False,1,True,False
+2013-01-23,23.5333333333,Phoenix Suns,Sacramento Kings,2,49-55,-8,two point jumper,False,1,False,False
+2013-01-23,24.0,Phoenix Suns,Sacramento Kings,2,49-57,-10,two point jumper,False,5,False,False
+2013-01-23,30.1,Phoenix Suns,Sacramento Kings,3,62-66,-6,layup,False,0,False,False
+2013-01-26,8.05,Phoenix Suns,San Antonio Spurs,1,19-22,-4,free throw,False,15,False,True
+2013-01-26,8.05,Phoenix Suns,San Antonio Spurs,1,20-22,-3,free throw,False,15,True,True
+2013-01-26,8.36666666667,Phoenix Suns,San Antonio Spurs,1,22-22,-2,two point jumper,False,16,True,True
+2013-01-26,15.9333333333,Phoenix Suns,San Antonio Spurs,2,34-40,-7,free throw,False,15,False,True
+2013-01-26,15.9333333333,Phoenix Suns,San Antonio Spurs,2,35-40,-6,free throw,False,15,True,True
+2013-01-26,19.35,Phoenix Suns,San Antonio Spurs,2,46-48,-3,free throw,False,15,True,True
+2013-01-26,19.35,Phoenix Suns,San Antonio Spurs,2,47-48,-2,free throw,False,15,True,True
+2013-01-26,28.2,Phoenix Suns,San Antonio Spurs,3,63-65,-4,two point shot,False,4,True,True
+2013-01-26,28.2,Phoenix Suns,San Antonio Spurs,3,64-65,-2,free throw,False,15,True,True
+2013-01-26,29.5666666667,Phoenix Suns,San Antonio Spurs,3,68-65,1,layup,False,0,False,True
+2013-01-26,33.0666666667,Phoenix Suns,San Antonio Spurs,3,74-73,-1,two point jumper,False,1,False,True
+2013-01-26,36.5833333333,Phoenix Suns,San Antonio Spurs,4,84-81,1,two point jumper,False,16,True,True
+2013-01-26,39.0,Phoenix Suns,San Antonio Spurs,4,88-86,0,two point jumper,False,1,False,True
+2013-01-27,2.25,Phoenix Suns,Dallas Mavericks,1,6-0,4,two point shot,False,11,True,True
+2013-01-27,9.61666666667,Phoenix Suns,Dallas Mavericks,1,18-24,-8,two point shot,False,1,True,True
+2013-01-27,21.75,Phoenix Suns,Dallas Mavericks,2,36-54,-20,hook shot,False,7,False,True
+2013-01-27,22.0166666667,Phoenix Suns,Dallas Mavericks,2,37-54,-18,free throw,False,15,True,True
+2013-01-27,22.0166666667,Phoenix Suns,Dallas Mavericks,2,38-54,-17,free throw,False,15,True,True
+2013-01-27,24.6333333333,Phoenix Suns,Dallas Mavericks,3,44-57,-15,layup,False,0,True,True
+2013-01-27,28.1666666667,Phoenix Suns,Dallas Mavericks,3,58-64,-8,two point shot,False,1,True,True
+2013-01-27,34.1166666667,Phoenix Suns,Dallas Mavericks,3,67-76,-11,two point shot,False,1,False,True
+2013-01-27,47.2166666667,Phoenix Suns,Dallas Mavericks,4,93-110,-19,two point jumper,False,1,False,True
+2013-01-27,47.65,Phoenix Suns,Dallas Mavericks,4,94-110,-17,free throw,False,15,True,True
+2013-01-27,47.65,Phoenix Suns,Dallas Mavericks,4,95-110,-16,free throw,False,15,True,True
+2013-02-01,6.95,Phoenix Suns,Dallas Mavericks,1,12-18,4,layup,True,0,True,True
+2013-02-01,22.1666666667,Phoenix Suns,Dallas Mavericks,2,50-50,-2,two point shot,True,7,False,True
+2013-02-01,26.5166666667,Phoenix Suns,Dallas Mavericks,3,57-60,1,two point jumper,True,1,True,True
+2013-02-01,28.0333333333,Phoenix Suns,Dallas Mavericks,3,61-62,-2,three point jumper,True,23,False,True
+2013-02-05,5.73333333333,Phoenix Suns,Memphis Grizzlies,1,11-10,-1,two point jumper,False,22,False,True
+2013-02-05,18.6333333333,Phoenix Suns,Memphis Grizzlies,2,41-36,3,layup,False,0,True,True
+2013-02-05,19.2,Phoenix Suns,Memphis Grizzlies,2,44-36,5,three point jumper,False,23,True,True
+2013-02-05,26.5166666667,Phoenix Suns,Memphis Grizzlies,3,50-54,-6,two point jumper,False,13,False,True
+2013-02-05,27.2,Phoenix Suns,Memphis Grizzlies,3,52-54,-4,two point shot,False,3,True,True
+2013-02-05,29.7833333333,Phoenix Suns,Memphis Grizzlies,3,55-56,-3,two point jumper,False,1,True,True
+2013-02-05,46.1666666667,Phoenix Suns,Memphis Grizzlies,4,88-88,-3,three point jumper,False,27,False,True
+2013-02-06,5.5,Phoenix Suns,New Orleans Pelicans,1,11-10,-1,layup,False,0,True,False
+2013-02-06,6.98333333333,Phoenix Suns,New Orleans Pelicans,1,16-17,-3,two point jumper,False,1,False,False
+2013-02-06,28.25,Phoenix Suns,New Orleans Pelicans,3,59-60,-3,dunk,False,0,True,False
+2013-02-06,30.1333333333,Phoenix Suns,New Orleans Pelicans,3,61-64,-5,two point jumper,False,11,False,False
+2013-02-06,32.65,Phoenix Suns,New Orleans Pelicans,3,65-73,-10,two point shot,False,1,True,False
+2013-02-10,0.75,Phoenix Suns,Oklahoma City Thunder,1,0-0,-2,two point jumper,True,19,False,False
+2013-02-10,3.86666666667,Phoenix Suns,Oklahoma City Thunder,1,4-0,-7,three point jumper,True,25,False,False
+2013-02-10,4.13333333333,Phoenix Suns,Oklahoma City Thunder,1,4-2,-4,layup,True,0,True,False
+2013-02-10,19.35,Phoenix Suns,Oklahoma City Thunder,2,35-32,-5,layup,True,0,True,False
+2013-02-10,28.6,Phoenix Suns,Oklahoma City Thunder,3,59-43,-17,free throw,True,15,True,False
+2013-02-10,28.6,Phoenix Suns,Oklahoma City Thunder,3,59-44,-16,free throw,True,15,True,False
+2013-02-10,30.3166666667,Phoenix Suns,Oklahoma City Thunder,3,64-44,-22,two point jumper,True,20,False,False
+2013-02-10,30.85,Phoenix Suns,Oklahoma City Thunder,3,66-46,-22,layup,True,0,True,False
+2013-02-10,31.6333333333,Phoenix Suns,Oklahoma City Thunder,3,68-46,-24,two point jumper,True,21,False,False
+2013-02-19,0.566666666667,Phoenix Suns,Portland Trail Blazers,1,2-0,0,two point jumper,False,23,True,False
+2013-02-19,4.13333333333,Phoenix Suns,Portland Trail Blazers,1,12-0,10,two point shot,False,1,True,False
+2013-02-19,24.95,Phoenix Suns,Portland Trail Blazers,3,63-47,13,three point jumper,False,23,False,False
+2013-02-24,2.15,Phoenix Suns,San Antonio Spurs,1,2-2,-2,two point jumper,True,19,False,False
+2013-02-24,3.38333333333,Phoenix Suns,San Antonio Spurs,1,2-6,2,layup,True,0,True,False
+2013-02-24,7.91666666667,Phoenix Suns,San Antonio Spurs,1,12-13,-1,two point jumper,True,18,False,False
+2013-02-24,9.71666666667,Phoenix Suns,San Antonio Spurs,1,16-17,-1,two point jumper,True,4,True,False
+2013-02-24,13.5666666667,Phoenix Suns,San Antonio Spurs,2,27-21,-8,two point shot,True,1,False,False
+2013-02-24,29.1333333333,Phoenix Suns,San Antonio Spurs,3,63-49,-16,two point jumper,True,11,True,False
+2013-02-24,29.5666666667,Phoenix Suns,San Antonio Spurs,3,63-49,-16,layup,True,0,False,False
+2013-02-24,35.1,Phoenix Suns,San Antonio Spurs,3,74-61,-16,three point jumper,True,23,False,False
+2013-02-24,46.05,Phoenix Suns,San Antonio Spurs,4,94-80,-16,two point jumper,True,23,False,False
+2013-02-26,1.8,Phoenix Suns,Minnesota Timberwolves,1,2-0,-4,two point jumper,True,23,False,True
+2013-02-26,7.2,Phoenix Suns,Minnesota Timberwolves,1,9-10,-1,two point shot,True,19,False,True
+2013-02-26,26.5,Phoenix Suns,Minnesota Timberwolves,3,38-49,9,layup,True,0,False,True
+2013-02-26,29.95,Phoenix Suns,Minnesota Timberwolves,3,43-53,8,two point shot,True,4,True,True
+2013-02-26,20.8833333333,Phoenix Suns,Minnesota Timberwolves,5,78-82,2,dunk,True,0,True,True
+2013-02-27,1.2,Phoenix Suns,San Antonio Spurs,1,2-2,-2,two point jumper,False,22,True,True
+2013-02-27,20.6,Phoenix Suns,San Antonio Spurs,2,37-43,-8,two point jumper,False,20,False,True
+2013-02-27,21.3,Phoenix Suns,San Antonio Spurs,2,37-43,-8,two point jumper,False,19,False,True
+2013-02-27,22.9333333333,Phoenix Suns,San Antonio Spurs,2,41-47,-9,three point jumper,False,23,False,True
+2013-02-27,23.05,Phoenix Suns,San Antonio Spurs,2,43-47,-6,two point shot,False,1,True,True
+2013-02-27,26.05,Phoenix Suns,San Antonio Spurs,3,45-56,-13,two point jumper,False,17,False,True
+2013-02-27,42.0,Phoenix Suns,San Antonio Spurs,4,82-86,-6,layup,False,0,True,True
+2013-02-27,22.0166666667,Phoenix Suns,San Antonio Spurs,5,104-101,2,free throw,False,15,False,True
+2013-02-27,22.0166666667,Phoenix Suns,San Antonio Spurs,5,105-101,3,free throw,False,15,True,True
+2013-03-01,0.9,Phoenix Suns,Atlanta Hawks,1,2-2,-2,two point jumper,True,19,True,True
+2013-03-01,24.6833333333,Phoenix Suns,Atlanta Hawks,3,39-46,5,two point jumper,True,7,False,True
+2013-03-08,15.1833333333,Phoenix Suns,Sacramento Kings,2,41-34,5,two point jumper,False,17,False,False
+2013-03-08,15.75,Phoenix Suns,Sacramento Kings,2,41-34,4,three point jumper,False,24,False,False
+2013-03-08,16.35,Phoenix Suns,Sacramento Kings,2,43-36,5,layup,False,0,True,False
+2013-03-08,36.0,Phoenix Suns,Sacramento Kings,3,82-89,-10,three point jumper,False,45,False,False
+2013-03-09,13.0666666667,Phoenix Suns,Houston Rockets,2,28-27,-3,layup,True,0,True,True
+2013-03-09,14.3,Phoenix Suns,Houston Rockets,2,30-29,-3,two point shot,True,6,True,True
+2013-03-09,18.25,Phoenix Suns,Houston Rockets,2,35-39,2,two point jumper,True,7,True,True
+2013-03-09,20.45,Phoenix Suns,Houston Rockets,2,35-45,8,two point jumper,True,1,False,True
+2013-03-09,20.95,Phoenix Suns,Houston Rockets,2,36-45,7,tip shot,True,0,False,True
+2013-03-09,41.2833333333,Phoenix Suns,Houston Rockets,4,86-90,3,free throw,True,15,True,True
+2013-03-09,41.2833333333,Phoenix Suns,Houston Rockets,4,86-91,4,free throw,True,15,True,True
+2013-03-09,43.7833333333,Phoenix Suns,Houston Rockets,4,89-93,2,two point shot,True,11,False,True
+2013-03-11,18.2,Phoenix Suns,Denver Nuggets,2,35-41,4,tip shot,True,0,False,True
+2013-03-11,44.0333333333,Phoenix Suns,Denver Nuggets,4,95-85,-12,layup,True,0,False,True
+2013-03-13,44.85,Phoenix Suns,Houston Rockets,4,75-108,-35,two point jumper,False,17,False,True
+2013-03-16,6.48333333333,Phoenix Suns,Washington Wizards,1,14-15,-3,layup,False,0,False,False
+2013-03-16,8.18333333333,Phoenix Suns,Washington Wizards,1,19-21,-4,two point shot,False,1,True,False
+2013-03-16,10.3833333333,Phoenix Suns,Washington Wizards,1,25-25,-2,two point jumper,False,12,False,False
+2013-03-16,13.3333333333,Phoenix Suns,Washington Wizards,2,32-31,0,free throw,False,15,True,False
+2013-03-16,33.9833333333,Phoenix Suns,Washington Wizards,3,75-94,-20,free throw,False,15,False,False
+2013-03-16,33.9833333333,Phoenix Suns,Washington Wizards,3,76-94,-19,free throw,False,15,True,False
+2013-03-16,36.0,Phoenix Suns,Washington Wizards,3,83-102,-22,three point jumper,False,34,True,False
+2013-03-16,37.9,Phoenix Suns,Washington Wizards,4,90-109,-21,two point shot,False,1,True,False
+2013-03-16,38.5833333333,Phoenix Suns,Washington Wizards,4,90-112,-24,layup,False,0,False,False
+2013-03-16,39.9666666667,Phoenix Suns,Washington Wizards,4,92-114,-24,layup,False,0,False,False
+2013-03-16,40.0333333333,Phoenix Suns,Washington Wizards,4,94-114,-22,layup,False,0,True,False
+2013-03-20,3.58333333333,Phoenix Suns,Washington Wizards,1,5-7,0,layup,True,0,True,False
+2013-03-20,7.28333333333,Phoenix Suns,Washington Wizards,1,15-16,-2,three point jumper,True,23,False,False
+2013-03-20,8.25,Phoenix Suns,Washington Wizards,1,16-20,2,two point shot,True,1,True,False
+2013-03-20,10.0833333333,Phoenix Suns,Washington Wizards,1,19-24,2,three point jumper,True,26,False,False
+2013-03-20,20.4333333333,Phoenix Suns,Washington Wizards,2,45-31,-15,free throw,True,15,True,False
+2013-03-20,20.4333333333,Phoenix Suns,Washington Wizards,2,45-32,-14,free throw,True,15,True,False
+2013-03-20,25.9333333333,Phoenix Suns,Washington Wizards,3,62-50,-14,layup,True,0,True,False
+2013-03-20,27.4,Phoenix Suns,Washington Wizards,3,63-52,-13,layup,True,0,False,False
+2013-03-20,29.5333333333,Phoenix Suns,Washington Wizards,3,66-54,-14,two point jumper,True,1,False,False
+2013-03-20,31.2166666667,Phoenix Suns,Washington Wizards,3,68-56,-14,layup,True,0,False,False
+2013-03-20,32.65,Phoenix Suns,Washington Wizards,3,68-58,-12,layup,True,0,True,False
+2013-03-20,33.0833333333,Phoenix Suns,Washington Wizards,3,70-58,-14,two point jumper,True,7,False,False
+2013-03-22,3.7,Phoenix Suns,Minnesota Timberwolves,1,9-8,-3,dunk,True,0,True,True
+2013-03-22,4.75,Phoenix Suns,Minnesota Timberwolves,1,11-10,-3,layup,True,0,True,True
+2013-03-22,5.73333333333,Phoenix Suns,Minnesota Timberwolves,1,15-10,-7,two point jumper,True,10,False,True
+2013-03-22,7.98333333333,Phoenix Suns,Minnesota Timberwolves,1,21-14,-10,three point jumper,True,23,False,True
+2013-03-22,8.6,Phoenix Suns,Minnesota Timberwolves,1,23-14,-11,two point shot,True,1,False,True
+2013-03-22,28.3166666667,Phoenix Suns,Minnesota Timberwolves,3,73-50,-25,two point jumper,True,1,True,True
+2013-03-22,33.0,Phoenix Suns,Minnesota Timberwolves,3,84-65,-21,two point shot,True,1,True,True
+2013-03-22,33.8666666667,Phoenix Suns,Minnesota Timberwolves,3,88-65,-25,dunk,True,0,False,True
+2013-03-22,41.1333333333,Phoenix Suns,Minnesota Timberwolves,4,103-75,-30,layup,True,0,True,True
+2013-03-22,44.0666666667,Phoenix Suns,Minnesota Timberwolves,4,107-77,-32,layup,True,0,False,True
+2013-03-22,44.4,Phoenix Suns,Minnesota Timberwolves,4,109-77,-33,free throw,True,15,False,True
+2013-03-22,44.4,Phoenix Suns,Minnesota Timberwolves,4,109-78,-32,free throw,True,15,True,True
+2013-03-27,7.1,Phoenix Suns,Utah Jazz,1,18-23,-7,layup,False,0,False,True
+2013-03-27,7.66666666667,Phoenix Suns,Utah Jazz,1,18-25,-9,two point shot,False,1,False,True
+2013-03-27,25.8666666667,Phoenix Suns,Utah Jazz,3,48-58,-13,three point jumper,False,24,False,True
+2013-03-27,32.0666666667,Phoenix Suns,Utah Jazz,3,59-71,-13,free throw,False,15,True,True
+2013-03-27,32.0666666667,Phoenix Suns,Utah Jazz,3,60-71,-12,free throw,False,15,True,True
+2013-03-27,33.75,Phoenix Suns,Utah Jazz,3,65-75,-12,layup,False,0,True,True
+2013-03-28,1.31666666667,Phoenix Suns,Sacramento Kings,1,0-2,0,two point shot,True,17,True,False
+2013-03-28,3.7,Phoenix Suns,Sacramento Kings,1,8-9,-1,two point shot,True,1,True,False
+2013-03-28,5.6,Phoenix Suns,Sacramento Kings,1,15-12,-5,unknown,True,6,False,False
+2013-03-28,7.06666666667,Phoenix Suns,Sacramento Kings,1,18-16,-3,free throw,True,15,False,False
+2013-03-28,7.06666666667,Phoenix Suns,Sacramento Kings,1,18-17,-2,free throw,True,15,True,False
+2013-03-28,9.41666666667,Phoenix Suns,Sacramento Kings,1,29-24,-6,free throw,True,15,False,False
+2013-03-28,9.41666666667,Phoenix Suns,Sacramento Kings,1,29-25,-5,free throw,True,15,True,False
+2013-03-28,9.7,Phoenix Suns,Sacramento Kings,1,29-27,-4,layup,True,0,True,False
+2013-03-28,25.1833333333,Phoenix Suns,Sacramento Kings,3,64-52,-14,two point jumper,True,22,True,False
+2013-03-28,25.5666666667,Phoenix Suns,Sacramento Kings,3,66-52,-17,three point jumper,True,23,False,False
+2013-03-28,25.8666666667,Phoenix Suns,Sacramento Kings,3,66-54,-14,layup,True,0,True,False
+2013-03-28,30.0,Phoenix Suns,Sacramento Kings,3,75-65,-12,layup,True,0,True,False
+2013-03-28,31.4166666667,Phoenix Suns,Sacramento Kings,3,75-69,-8,layup,True,0,False,False
+2013-03-28,36.8166666667,Phoenix Suns,Sacramento Kings,4,90-78,-14,two point jumper,True,5,False,False
+2013-03-28,39.5,Phoenix Suns,Sacramento Kings,4,94-84,-12,dunk,True,0,True,False
+2013-03-28,45.2166666667,Phoenix Suns,Sacramento Kings,4,109-93,-18,layup,True,0,True,False
+2013-03-30,1.88333333333,Phoenix Suns,Indiana Pacers,1,0-6,4,two point jumper,True,1,True,False
+2013-03-30,4.31666666667,Phoenix Suns,Indiana Pacers,1,9-13,1,three point jumper,True,23,True,False
+2013-03-30,5.1,Phoenix Suns,Indiana Pacers,1,11-13,0,two point jumper,True,15,False,False
+2013-03-30,5.16666666667,Phoenix Suns,Indiana Pacers,1,11-15,2,layup,True,0,True,False
+2013-03-30,20.1,Phoenix Suns,Indiana Pacers,2,44-39,-7,layup,True,0,True,False
+2013-03-30,34.2666666667,Phoenix Suns,Indiana Pacers,3,82-75,-9,two point shot,True,1,True,False
+2013-03-30,34.9333333333,Phoenix Suns,Indiana Pacers,3,82-75,-10,three point jumper,True,23,False,False
+2013-03-30,35.85,Phoenix Suns,Indiana Pacers,3,84-76,-10,two point jumper,True,1,False,False
+2013-03-30,36.0,Phoenix Suns,Indiana Pacers,3,86-76,-13,three point jumper,True,46,False,False
+2013-04-07,5.28333333333,Phoenix Suns,New Orleans Pelicans,1,10-13,1,two point jumper,True,1,True,False
+2013-04-07,17.75,Phoenix Suns,New Orleans Pelicans,2,25-34,6,three point jumper,True,23,False,False
+2013-04-07,20.2,Phoenix Suns,New Orleans Pelicans,2,29-38,7,two point jumper,True,1,False,False
+2013-04-07,23.6333333333,Phoenix Suns,New Orleans Pelicans,2,39-43,2,two point jumper,True,1,False,False
+2013-04-07,28.1666666667,Phoenix Suns,New Orleans Pelicans,3,53-49,-6,layup,True,0,False,False
+2013-04-07,32.95,Phoenix Suns,New Orleans Pelicans,3,66-60,-8,two point shot,True,2,True,False
+2013-04-09,2.01666666667,Phoenix Suns,Houston Rockets,1,5-4,0,free throw,False,15,True,True
+2013-04-09,2.01666666667,Phoenix Suns,Houston Rockets,1,6-4,1,free throw,False,15,True,True
+2013-04-09,4.53333333333,Phoenix Suns,Houston Rockets,1,10-12,-4,two point jumper,False,19,False,True
+2013-04-09,8.15,Phoenix Suns,Houston Rockets,1,17-20,-5,dunk,False,0,True,True
+2013-04-09,24.0,Phoenix Suns,Houston Rockets,2,53-51,0,two point jumper,False,16,False,True
+2013-04-09,28.7,Phoenix Suns,Houston Rockets,3,57-63,-8,two point shot,False,9,False,True
+2013-04-09,40.6666666667,Phoenix Suns,Houston Rockets,4,84-88,-5,free throw,False,15,True,True
+2013-04-09,40.6666666667,Phoenix Suns,Houston Rockets,4,85-88,-4,free throw,False,15,True,True
+2013-04-09,41.9166666667,Phoenix Suns,Houston Rockets,4,87-90,-5,layup,False,0,True,True
+2013-04-10,3.0,Phoenix Suns,Dallas Mavericks,1,4-7,-5,two point jumper,False,6,False,False
+2013-04-10,8.01666666667,Phoenix Suns,Dallas Mavericks,1,19-12,4,three point jumper,False,23,True,False
+2013-04-10,20.5333333333,Phoenix Suns,Dallas Mavericks,2,51-39,9,three point jumper,False,25,True,False
+2013-04-10,24.3833333333,Phoenix Suns,Dallas Mavericks,3,61-51,7,three point jumper,False,24,False,False
+2013-04-10,26.8333333333,Phoenix Suns,Dallas Mavericks,3,63-59,2,two point shot,False,1,True,False
+2013-04-10,30.8833333333,Phoenix Suns,Dallas Mavericks,3,68-63,3,two point shot,False,2,True,False
+2013-04-10,31.6666666667,Phoenix Suns,Dallas Mavericks,3,72-63,8,free throw,False,15,True,False
+2013-04-10,31.6666666667,Phoenix Suns,Dallas Mavericks,3,73-63,9,free throw,False,15,True,False
+2013-04-10,46.4333333333,Phoenix Suns,Dallas Mavericks,4,95-89,4,two point shot,False,1,True,False
+2013-04-10,47.0,Phoenix Suns,Dallas Mavericks,4,98-89,6,three point jumper,False,22,True,False
+2013-04-13,4.45,Phoenix Suns,Minnesota Timberwolves,1,13-5,6,two point shot,False,19,True,True
+2013-04-13,10.6333333333,Phoenix Suns,Minnesota Timberwolves,1,24-18,4,layup,False,0,False,True
+2013-04-13,27.0166666667,Phoenix Suns,Minnesota Timberwolves,3,59-54,3,two point jumper,False,22,True,True
+2013-04-13,34.8,Phoenix Suns,Minnesota Timberwolves,3,70-72,-4,two point jumper,False,21,True,True
+2013-04-13,35.5,Phoenix Suns,Minnesota Timberwolves,3,73-77,-7,three point jumper,False,24,True,True
+2013-04-15,2.01666666667,Phoenix Suns,Houston Rockets,1,5-4,-4,three point jumper,True,23,False,True
+2013-04-15,5.38333333333,Phoenix Suns,Houston Rockets,1,15-18,1,two point jumper,True,19,True,True
+2013-04-15,8.5,Phoenix Suns,Houston Rockets,1,23-31,6,layup,True,0,True,True
+2013-04-15,19.2833333333,Phoenix Suns,Houston Rockets,2,55-52,-5,layup,True,0,True,True
+2013-04-15,22.9333333333,Phoenix Suns,Houston Rockets,2,57-65,6,layup,True,0,True,True
+2013-04-15,24.2666666667,Phoenix Suns,Houston Rockets,3,61-67,4,two point jumper,True,16,False,True
+2013-04-15,24.9666666667,Phoenix Suns,Houston Rockets,3,61-69,6,layup,True,0,False,True
+2013-04-15,26.6333333333,Phoenix Suns,Houston Rockets,3,66-73,5,layup,True,0,True,True
+2013-04-15,31.85,Phoenix Suns,Houston Rockets,3,73-81,7,free throw,True,15,True,True
+2013-04-15,31.85,Phoenix Suns,Houston Rockets,3,73-82,8,free throw,True,15,True,True
+2013-04-15,33.2833333333,Phoenix Suns,Houston Rockets,3,78-85,6,free throw,True,15,True,True
+2013-04-15,33.2833333333,Phoenix Suns,Houston Rockets,3,78-86,7,free throw,True,15,True,True
+2013-04-15,34.8,Phoenix Suns,Houston Rockets,3,78-90,10,layup,True,0,True,True
+2013-04-15,43.7833333333,Phoenix Suns,Houston Rockets,4,104-112,5,three point jumper,True,23,True,True
+2013-04-15,46.4333333333,Phoenix Suns,Houston Rockets,4,108-114,3,three point jumper,True,23,False,True
+2013-04-15,46.9166666667,Phoenix Suns,Houston Rockets,4,109-116,5,layup,True,0,True,True
+2013-04-17,5.41666666667,Phoenix Suns,Denver Nuggets,1,10-18,-10,layup,False,0,True,True
+2013-04-17,7.91666666667,Phoenix Suns,Denver Nuggets,1,15-22,-8,free throw,False,15,True,True
+2013-04-17,7.91666666667,Phoenix Suns,Denver Nuggets,1,16-22,-7,free throw,False,15,True,True
+2013-04-17,10.5,Phoenix Suns,Denver Nuggets,1,18-31,-16,three point jumper,False,23,False,True
+2013-04-17,21.8666666667,Phoenix Suns,Denver Nuggets,2,36-59,-24,free throw,False,15,True,True
+2013-04-17,21.8666666667,Phoenix Suns,Denver Nuggets,2,37-59,-23,free throw,False,15,True,True
+2013-04-17,25.4666666667,Phoenix Suns,Denver Nuggets,3,47-71,-27,three point jumper,False,25,True,True
+2013-04-17,25.95,Phoenix Suns,Denver Nuggets,3,50-73,-26,three point jumper,False,23,True,True
+2013-04-17,28.3166666667,Phoenix Suns,Denver Nuggets,3,50-75,-28,three point jumper,False,23,False,True
+2013-04-17,32.0,Phoenix Suns,Denver Nuggets,3,56-83,-29,dunk,False,0,True,True

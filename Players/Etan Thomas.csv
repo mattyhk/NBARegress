@@ -1,0 +1,915 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2006-01-07,11.45,Washington Wizards,Boston Celtics,1,26-25,-2,free throw,True,15,False,True
+2006-01-07,11.45,Washington Wizards,Boston Celtics,1,26-26,-1,free throw,True,15,True,True
+2006-01-07,12.8,Washington Wizards,Boston Celtics,2,28-30,0,two point shot,True,1,True,True
+2006-01-07,38.2666666667,Washington Wizards,Boston Celtics,4,78-85,5,hook shot,True,4,True,True
+2006-01-07,40.9833333333,Washington Wizards,Boston Celtics,4,80-88,6,two point jumper,True,5,False,True
+2006-01-07,42.0333333333,Washington Wizards,Boston Celtics,4,82-90,6,two point jumper,True,1,False,True
+2006-03-07,12.75,Washington Wizards,Boston Celtics,2,26-27,-1,hook shot,True,3,True,False
+2006-03-07,14.3166666667,Washington Wizards,Boston Celtics,2,30-32,0,two point jumper,True,1,False,False
+2006-03-07,17.6666666667,Washington Wizards,Boston Celtics,2,38-39,-1,two point jumper,True,3,False,False
+2006-03-07,18.6666666667,Washington Wizards,Boston Celtics,2,40-42,0,two point jumper,True,4,False,False
+2006-03-07,14.3333333333,Washington Wizards,Boston Celtics,5,86-95,7,two point jumper,True,1,False,False
+2006-04-05,1.76666666667,Washington Wizards,Boston Celtics,1,4-4,-2,hook shot,False,1,True,False
+2006-04-05,3.2,Washington Wizards,Boston Celtics,1,6-8,-4,two point jumper,False,4,False,False
+2006-04-05,3.33333333333,Washington Wizards,Boston Celtics,1,7-8,-2,free throw,False,15,True,False
+2006-04-05,3.33333333333,Washington Wizards,Boston Celtics,1,7-8,-2,free throw,False,15,False,False
+2006-04-05,8.3,Washington Wizards,Boston Celtics,1,25-16,7,dunk,False,0,True,False
+2006-04-05,9.71666666667,Washington Wizards,Boston Celtics,1,29-20,7,hook shot,False,9,False,False
+2006-04-05,27.3166666667,Washington Wizards,Boston Celtics,3,63-61,0,layup,False,0,True,False
+2006-04-05,29.1666666667,Washington Wizards,Boston Celtics,3,67-61,4,layup,False,0,False,False
+2006-11-19,10.0833333333,Washington Wizards,Brooklyn Nets,1,20-14,4,dunk,False,0,True,False
+2006-11-19,13.6166666667,Washington Wizards,Brooklyn Nets,2,29-21,6,hook shot,False,5,False,False
+2006-11-19,16.95,Washington Wizards,Brooklyn Nets,2,30-32,-4,hook shot,False,6,False,False
+2006-11-19,32.4833333333,Washington Wizards,Brooklyn Nets,3,55-63,-9,free throw,False,15,False,False
+2006-11-19,32.4833333333,Washington Wizards,Brooklyn Nets,3,55-63,-9,free throw,False,15,False,False
+2006-11-19,35.3333333333,Washington Wizards,Brooklyn Nets,3,60-68,-10,layup,False,0,True,False
+2006-11-19,35.3333333333,Washington Wizards,Brooklyn Nets,3,60-68,-9,free throw,False,15,False,False
+2006-11-19,37.55,Washington Wizards,Brooklyn Nets,4,64-68,-6,dunk,False,0,True,False
+2006-12-13,10.7833333333,Washington Wizards,Brooklyn Nets,1,12-24,11,free throw,True,15,True,True
+2006-12-13,10.7833333333,Washington Wizards,Brooklyn Nets,1,12-25,12,free throw,True,15,True,True
+2006-12-13,12.45,Washington Wizards,Brooklyn Nets,2,14-31,15,dunk,True,0,True,True
+2006-12-13,17.4833333333,Washington Wizards,Brooklyn Nets,2,18-35,16,free throw,True,15,False,True
+2006-12-13,17.4833333333,Washington Wizards,Brooklyn Nets,2,18-36,17,free throw,True,15,True,True
+2006-12-13,36.0,Washington Wizards,Brooklyn Nets,3,51-72,19,layup,True,0,True,True
+2006-12-13,36.0,Washington Wizards,Brooklyn Nets,3,51-73,21,free throw,True,15,True,True
+2006-12-13,39.5666666667,Washington Wizards,Brooklyn Nets,4,55-82,25,two point jumper,True,11,True,True
+2006-12-13,40.2,Washington Wizards,Brooklyn Nets,4,57-84,25,two point jumper,True,13,True,True
+2006-12-13,41.2,Washington Wizards,Brooklyn Nets,4,61-85,23,free throw,True,15,False,True
+2006-12-13,41.2,Washington Wizards,Brooklyn Nets,4,61-85,23,free throw,True,15,False,True
+2006-03-21,17.7833333333,Washington Wizards,Brooklyn Nets,2,35-35,-2,dunk,True,0,True,False
+2006-03-21,21.0166666667,Washington Wizards,Brooklyn Nets,2,41-39,-4,two point jumper,True,4,False,False
+2006-01-06,37.0,Washington Wizards,New York Knicks,4,68-82,-16,layup,False,0,False,True
+2006-01-06,40.2166666667,Washington Wizards,New York Knicks,4,75-94,-21,layup,False,0,True,True
+2006-01-06,42.3166666667,Washington Wizards,New York Knicks,4,78-100,-23,free throw,False,15,True,True
+2006-01-06,42.3166666667,Washington Wizards,New York Knicks,4,78-100,-23,free throw,False,15,False,True
+2006-01-06,45.1833333333,Washington Wizards,New York Knicks,4,88-106,-20,dunk,False,0,True,True
+2006-01-06,45.7833333333,Washington Wizards,New York Knicks,4,90-109,-21,hook shot,False,1,True,True
+2006-02-25,11.5833333333,Washington Wizards,New York Knicks,1,25-38,11,two point shot,True,1,True,False
+2006-02-25,12.75,Washington Wizards,New York Knicks,2,27-40,11,two point shot,True,4,True,False
+2006-02-25,16.9833333333,Washington Wizards,New York Knicks,2,36-51,14,free throw,True,15,True,False
+2006-02-25,16.9833333333,Washington Wizards,New York Knicks,2,36-52,15,free throw,True,15,True,False
+2006-02-25,16.6166666667,Washington Wizards,New York Knicks,5,80-106,24,layup,True,0,True,False
+2006-04-04,1.61666666667,Washington Wizards,New York Knicks,1,2-4,0,two point jumper,True,4,False,False
+2006-04-04,3.36666666667,Washington Wizards,New York Knicks,1,2-9,6,free throw,True,15,False,False
+2006-04-04,3.36666666667,Washington Wizards,New York Knicks,1,2-9,6,free throw,True,15,False,False
+2006-04-04,4.1,Washington Wizards,New York Knicks,1,2-12,8,dunk,True,0,True,False
+2006-04-04,28.8833333333,Washington Wizards,New York Knicks,3,24-40,14,two point shot,True,1,True,False
+2006-04-04,30.0333333333,Washington Wizards,New York Knicks,3,26-42,14,two point shot,True,1,True,False
+2006-04-04,36.4,Washington Wizards,New York Knicks,4,39-62,22,free throw,True,15,True,False
+2006-04-04,36.4,Washington Wizards,New York Knicks,4,39-63,23,free throw,True,15,True,False
+2006-04-04,38.2,Washington Wizards,New York Knicks,4,42-66,22,layup,True,0,True,False
+2006-04-04,38.2,Washington Wizards,New York Knicks,4,42-67,24,free throw,True,15,True,False
+2006-04-04,39.2666666667,Washington Wizards,New York Knicks,4,42-69,25,layup,True,0,True,False
+2006-01-16,15.1333333333,Washington Wizards,Philadelphia 76ers,2,28-31,1,two point jumper,True,1,False,False
+2006-01-16,17.9166666667,Washington Wizards,Philadelphia 76ers,2,35-36,-1,layup,True,0,True,False
+2006-02-12,11.2333333333,Washington Wizards,Philadelphia 76ers,1,22-20,-4,two point jumper,True,4,False,False
+2006-03-03,16.6666666667,Washington Wizards,Philadelphia 76ers,2,37-38,-3,two point shot,False,4,True,False
+2006-03-03,18.5333333333,Washington Wizards,Philadelphia 76ers,2,41-43,-4,dunk,False,0,True,False
+2006-03-03,20.15,Washington Wizards,Philadelphia 76ers,2,43-49,-8,layup,False,0,False,False
+2006-03-03,23.5,Washington Wizards,Philadelphia 76ers,2,51-55,-5,free throw,False,15,True,False
+2006-03-03,23.5,Washington Wizards,Philadelphia 76ers,2,52-55,-4,free throw,False,15,True,False
+2006-03-03,30.9166666667,Washington Wizards,Philadelphia 76ers,3,68-76,-10,hook shot,False,1,False,False
+2006-11-02,7.06666666667,Washington Wizards,Toronto Raptors,1,13-20,-8,free throw,False,15,False,True
+2006-11-02,7.06666666667,Washington Wizards,Toronto Raptors,1,14-20,-7,free throw,False,15,True,True
+2006-12-06,10.7833333333,Washington Wizards,Toronto Raptors,5,79-85,4,dunk,True,0,True,True
+2006-12-06,12.6,Washington Wizards,Toronto Raptors,5,81-85,2,layup,True,0,False,True
+2006-02-01,10.1833333333,Washington Wizards,Toronto Raptors,1,20-21,-3,two point shot,False,1,False,False
+2006-02-01,12.45,Washington Wizards,Toronto Raptors,2,24-25,-3,tip shot,False,0,True,False
+2006-02-01,13.5666666667,Washington Wizards,Toronto Raptors,2,28-27,-1,two point shot,False,9,True,False
+2006-02-01,14.75,Washington Wizards,Toronto Raptors,2,30-27,1,dunk,False,0,True,False
+2006-02-01,33.3666666667,Washington Wizards,Toronto Raptors,3,65-72,-9,two point shot,False,10,False,False
+2006-03-27,2.43333333333,Washington Wizards,Golden State Warriors,1,4-3,-1,two point jumper,False,5,False,False
+2006-03-27,24.3833333333,Washington Wizards,Golden State Warriors,3,57-39,16,two point shot,False,1,True,False
+2006-03-27,27.3833333333,Washington Wizards,Golden State Warriors,3,62-45,16,free throw,False,15,False,False
+2006-03-27,27.3833333333,Washington Wizards,Golden State Warriors,3,62-45,16,free throw,False,15,False,False
+2006-03-27,27.8833333333,Washington Wizards,Golden State Warriors,3,64-47,15,two point shot,False,3,True,False
+2006-11-09,13.3833333333,Washington Wizards,Los Angeles Clippers,2,30-25,-7,layup,True,0,False,True
+2006-11-09,13.9666666667,Washington Wizards,Los Angeles Clippers,2,32-26,-7,free throw,True,15,True,True
+2006-11-09,13.9666666667,Washington Wizards,Los Angeles Clippers,2,32-27,-6,free throw,True,15,True,True
+2006-11-09,14.5,Washington Wizards,Los Angeles Clippers,2,32-27,-7,two point jumper,True,5,False,True
+2006-11-09,15.4666666667,Washington Wizards,Los Angeles Clippers,2,34-29,-7,layup,True,0,True,True
+2006-11-09,16.8166666667,Washington Wizards,Los Angeles Clippers,2,36-35,-3,dunk,True,0,True,True
+2006-11-09,17.75,Washington Wizards,Los Angeles Clippers,2,38-38,-2,dunk,True,0,True,True
+2006-11-09,23.25,Washington Wizards,Los Angeles Clippers,2,52-51,-3,layup,True,0,True,True
+2006-11-09,34.5833333333,Washington Wizards,Los Angeles Clippers,3,71-73,0,tip shot,True,0,True,True
+2006-11-09,36.65,Washington Wizards,Los Angeles Clippers,4,73-78,3,two point jumper,True,10,False,True
+2006-11-09,39.05,Washington Wizards,Los Angeles Clippers,4,77-81,2,two point shot,True,3,True,True
+2006-03-25,17.1666666667,Washington Wizards,Los Angeles Clippers,2,33-39,-7,free throw,False,15,False,False
+2006-03-25,17.1666666667,Washington Wizards,Los Angeles Clippers,2,33-39,-7,free throw,False,15,False,False
+2006-12-16,11.9833333333,Washington Wizards,Los Angeles Lakers,1,22-19,1,dunk,False,0,True,False
+2006-12-16,18.3166666667,Washington Wizards,Los Angeles Lakers,2,30-34,-6,dunk,False,0,True,False
+2006-12-16,18.5666666667,Washington Wizards,Los Angeles Lakers,2,32-34,-4,layup,False,0,True,False
+2006-12-16,45.7333333333,Washington Wizards,Los Angeles Lakers,4,84-88,-5,free throw,False,15,True,False
+2006-12-16,45.7333333333,Washington Wizards,Los Angeles Lakers,4,84-88,-5,free throw,False,15,False,False
+2006-12-16,47.3666666667,Washington Wizards,Los Angeles Lakers,4,88-92,-6,layup,False,0,False,False
+2006-12-26,9.81666666667,Washington Wizards,Los Angeles Lakers,1,20-16,-6,two point jumper,True,4,False,True
+2006-12-26,10.6,Washington Wizards,Los Angeles Lakers,1,22-16,-7,free throw,True,15,False,True
+2006-12-26,10.6,Washington Wizards,Los Angeles Lakers,1,22-17,-6,free throw,True,15,True,True
+2006-12-26,13.1833333333,Washington Wizards,Los Angeles Lakers,2,31-21,-12,layup,True,0,False,True
+2006-12-26,13.75,Washington Wizards,Los Angeles Lakers,2,33-21,-14,layup,True,0,False,True
+2006-12-28,11.1,Washington Wizards,Phoenix Suns,1,24-22,-4,dunk,True,0,True,True
+2006-12-28,12.0,Washington Wizards,Phoenix Suns,1,28-24,-6,tip shot,True,0,True,True
+2006-12-28,15.6833333333,Washington Wizards,Phoenix Suns,2,35-35,-2,layup,True,0,True,True
+2006-12-28,17.0666666667,Washington Wizards,Phoenix Suns,2,37-36,-3,two point jumper,True,1,False,True
+2006-12-28,17.8833333333,Washington Wizards,Phoenix Suns,2,39-39,-2,hook shot,True,1,True,True
+2006-12-28,32.7333333333,Washington Wizards,Phoenix Suns,3,66-73,5,layup,True,0,True,True
+2006-12-28,32.7333333333,Washington Wizards,Phoenix Suns,3,66-74,7,free throw,True,15,True,True
+2006-03-05,12.2166666667,Washington Wizards,Sacramento Kings,2,28-34,5,free throw,True,15,True,True
+2006-03-05,12.2166666667,Washington Wizards,Sacramento Kings,2,28-35,6,free throw,True,15,True,True
+2006-03-05,13.3166666667,Washington Wizards,Sacramento Kings,2,30-37,5,dunk,True,0,True,True
+2006-03-05,14.9666666667,Washington Wizards,Sacramento Kings,2,30-43,11,hook shot,True,4,True,True
+2006-03-05,23.3166666667,Washington Wizards,Sacramento Kings,2,46-57,10,free throw,True,15,False,True
+2006-03-05,23.3166666667,Washington Wizards,Sacramento Kings,2,46-58,11,free throw,True,15,True,True
+2006-03-28,0.75,Washington Wizards,Sacramento Kings,1,0-0,-2,two point jumper,False,6,False,True
+2006-03-28,3.46666666667,Washington Wizards,Sacramento Kings,1,6-9,-5,two point shot,False,4,True,True
+2006-03-28,4.91666666667,Washington Wizards,Sacramento Kings,1,8-11,-5,two point shot,False,6,False,True
+2006-03-28,5.78333333333,Washington Wizards,Sacramento Kings,1,12-11,-1,two point jumper,False,1,True,True
+2006-03-28,8.11666666667,Washington Wizards,Sacramento Kings,1,15-13,1,free throw,False,15,True,True
+2006-03-28,8.11666666667,Washington Wizards,Sacramento Kings,1,16-13,2,free throw,False,15,True,True
+2006-03-28,16.7333333333,Washington Wizards,Sacramento Kings,2,37-31,4,two point jumper,False,8,False,True
+2006-03-28,24.3166666667,Washington Wizards,Sacramento Kings,3,54-51,1,two point shot,False,7,True,True
+2006-03-28,27.0666666667,Washington Wizards,Sacramento Kings,3,61-55,5,free throw,False,15,True,True
+2006-03-28,27.0666666667,Washington Wizards,Sacramento Kings,3,62-55,6,free throw,False,15,True,True
+2006-03-28,46.0,Washington Wizards,Sacramento Kings,4,92-81,9,two point shot,False,6,True,True
+2006-12-10,37.5666666667,Washington Wizards,Chicago Bulls,4,80-90,8,two point shot,True,2,True,False
+2006-12-10,43.3166666667,Washington Wizards,Chicago Bulls,4,94-107,11,two point jumper,True,4,False,False
+2006-01-27,37.8,Washington Wizards,Chicago Bulls,4,57-69,-14,layup,False,0,False,False
+2006-01-27,38.75,Washington Wizards,Chicago Bulls,4,60-69,-10,free throw,False,15,True,False
+2006-01-27,38.75,Washington Wizards,Chicago Bulls,4,60-69,-10,free throw,False,15,False,False
+2006-01-27,39.7666666667,Washington Wizards,Chicago Bulls,4,62-69,-9,layup,False,0,True,False
+2006-01-27,39.7666666667,Washington Wizards,Chicago Bulls,4,62-69,-8,free throw,False,15,False,False
+2006-03-19,11.2333333333,Washington Wizards,Chicago Bulls,1,19-29,8,two point shot,True,5,True,True
+2006-03-19,14.95,Washington Wizards,Chicago Bulls,2,22-38,14,dunk,True,0,True,True
+2006-03-19,18.2,Washington Wizards,Chicago Bulls,2,26-46,18,layup,True,0,True,True
+2006-03-19,30.95,Washington Wizards,Chicago Bulls,3,56-79,21,dunk,True,0,True,True
+2006-03-19,30.95,Washington Wizards,Chicago Bulls,3,56-79,22,free throw,True,15,False,True
+2006-03-19,32.8666666667,Washington Wizards,Chicago Bulls,3,63-81,16,layup,True,0,False,True
+2006-03-19,35.25,Washington Wizards,Chicago Bulls,3,71-85,13,free throw,True,15,True,True
+2006-03-19,35.25,Washington Wizards,Chicago Bulls,3,71-86,14,free throw,True,15,True,True
+2006-04-14,3.88333333333,Washington Wizards,Chicago Bulls,1,10-5,4,free throw,False,15,False,False
+2006-04-14,3.88333333333,Washington Wizards,Chicago Bulls,1,10-5,4,free throw,False,15,False,False
+2006-11-15,10.75,Washington Wizards,Cleveland Cavaliers,1,22-16,4,dunk,False,0,True,True
+2006-11-15,12.3166666667,Washington Wizards,Cleveland Cavaliers,2,23-18,4,free throw,False,15,True,True
+2006-11-15,12.3166666667,Washington Wizards,Cleveland Cavaliers,2,23-18,4,free throw,False,15,False,True
+2006-02-10,15.95,Washington Wizards,Cleveland Cavaliers,2,38-34,-6,hook shot,True,2,True,False
+2006-02-24,12.3,Washington Wizards,Cleveland Cavaliers,2,33-22,9,dunk,False,0,True,False
+2006-11-25,19.6,Washington Wizards,Detroit Pistons,2,42-29,11,hook shot,False,1,True,True
+2006-11-25,20.4166666667,Washington Wizards,Detroit Pistons,2,43-32,10,free throw,False,15,True,True
+2006-11-25,20.4166666667,Washington Wizards,Detroit Pistons,2,43-32,10,free throw,False,15,False,True
+2006-03-11,10.6833333333,Washington Wizards,Detroit Pistons,1,24-23,-3,layup,True,0,True,False
+2006-03-11,15.2666666667,Washington Wizards,Detroit Pistons,2,34-42,6,dunk,True,0,True,False
+2006-03-11,15.2666666667,Washington Wizards,Detroit Pistons,2,34-43,8,free throw,True,15,True,False
+2006-03-11,17.0666666667,Washington Wizards,Detroit Pistons,2,38-47,7,two point jumper,True,4,False,False
+2006-03-11,35.1,Washington Wizards,Detroit Pistons,3,74-87,12,free throw,True,15,False,False
+2006-03-11,35.1,Washington Wizards,Detroit Pistons,3,74-87,12,free throw,True,15,False,False
+2006-03-11,37.75,Washington Wizards,Detroit Pistons,4,78-96,16,two point shot,True,1,True,False
+2006-12-08,10.7666666667,Washington Wizards,Indiana Pacers,1,26-16,9,free throw,False,15,True,True
+2006-12-08,10.7666666667,Washington Wizards,Indiana Pacers,1,27-16,10,free throw,False,15,True,True
+2006-12-08,13.15,Washington Wizards,Indiana Pacers,2,36-21,13,layup,False,0,True,True
+2006-12-08,15.4,Washington Wizards,Indiana Pacers,2,41-28,12,free throw,False,15,True,True
+2006-12-08,15.4,Washington Wizards,Indiana Pacers,2,42-28,13,free throw,False,15,True,True
+2006-12-08,38.45,Washington Wizards,Indiana Pacers,4,71-93,-23,free throw,False,15,True,True
+2006-12-08,38.45,Washington Wizards,Indiana Pacers,4,72-93,-22,free throw,False,15,True,True
+2006-12-08,39.8833333333,Washington Wizards,Indiana Pacers,4,74-95,-23,dunk,False,0,True,True
+2006-01-13,7.81666666667,Washington Wizards,Indiana Pacers,1,10-12,-4,two point jumper,False,8,False,True
+2006-01-13,8.31666666667,Washington Wizards,Indiana Pacers,1,12-12,-2,dunk,False,0,True,True
+2006-01-13,8.96666666667,Washington Wizards,Indiana Pacers,1,12-12,-2,two point jumper,False,6,False,True
+2006-01-13,31.25,Washington Wizards,Indiana Pacers,3,58-51,6,free throw,False,15,False,True
+2006-01-13,31.25,Washington Wizards,Indiana Pacers,3,58-51,6,free throw,False,15,False,True
+2006-01-13,34.1,Washington Wizards,Indiana Pacers,3,63-57,5,free throw,False,15,True,True
+2006-01-13,34.1,Washington Wizards,Indiana Pacers,3,63-57,5,free throw,False,15,False,True
+2006-01-31,15.9666666667,Washington Wizards,Indiana Pacers,2,24-31,5,hook shot,True,5,True,True
+2006-01-31,38.45,Washington Wizards,Indiana Pacers,4,59-69,8,layup,True,0,True,True
+2006-01-31,41.1333333333,Washington Wizards,Indiana Pacers,4,64-74,8,two point jumper,True,1,False,True
+2006-01-31,42.1666666667,Washington Wizards,Indiana Pacers,4,64-78,12,two point jumper,True,1,False,True
+2006-03-01,9.75,Washington Wizards,Indiana Pacers,1,18-21,1,layup,True,0,True,False
+2006-03-01,9.75,Washington Wizards,Indiana Pacers,1,18-21,2,free throw,True,15,False,False
+2006-03-01,9.9,Washington Wizards,Indiana Pacers,1,18-23,3,hook shot,True,4,True,False
+2006-03-01,14.0,Washington Wizards,Indiana Pacers,2,24-32,7,free throw,True,15,False,False
+2006-03-01,14.0,Washington Wizards,Indiana Pacers,2,24-32,7,free throw,True,15,False,False
+2006-03-01,16.95,Washington Wizards,Indiana Pacers,2,31-41,8,two point shot,True,1,True,False
+2006-03-01,35.1833333333,Washington Wizards,Indiana Pacers,3,66-69,2,free throw,True,15,False,False
+2006-03-01,35.1833333333,Washington Wizards,Indiana Pacers,3,66-69,2,free throw,True,15,False,False
+2006-12-02,9.96666666667,Washington Wizards,Milwaukee Bucks,1,25-22,-4,free throw,True,15,False,False
+2006-12-02,9.96666666667,Washington Wizards,Milwaukee Bucks,1,25-23,-3,free throw,True,15,True,False
+2006-12-02,10.55,Washington Wizards,Milwaukee Bucks,1,27-25,-4,dunk,True,0,True,False
+2006-12-02,13.9333333333,Washington Wizards,Milwaukee Bucks,2,39-31,-10,hook shot,True,1,True,False
+2006-12-02,17.9833333333,Washington Wizards,Milwaukee Bucks,2,43-37,-8,two point jumper,True,4,False,False
+2006-12-02,33.9833333333,Washington Wizards,Milwaukee Bucks,3,72-73,-1,two point jumper,True,1,False,False
+2006-12-02,34.1166666667,Washington Wizards,Milwaukee Bucks,3,72-73,-1,layup,True,0,False,False
+2006-04-12,5.03333333333,Washington Wizards,Milwaukee Bucks,1,9-8,-1,hook shot,False,3,True,True
+2006-04-12,7.7,Washington Wizards,Milwaukee Bucks,1,14-12,0,two point shot,False,1,True,True
+2006-04-12,8.03333333333,Washington Wizards,Milwaukee Bucks,1,14-12,0,layup,False,0,False,True
+2006-04-12,9.86666666667,Washington Wizards,Milwaukee Bucks,1,19-15,2,two point shot,False,3,False,True
+2006-04-12,14.0166666667,Washington Wizards,Milwaukee Bucks,2,27-26,-1,two point jumper,False,16,False,True
+2006-04-12,17.2166666667,Washington Wizards,Milwaukee Bucks,2,31-30,-1,two point jumper,False,4,True,True
+2006-04-12,21.95,Washington Wizards,Milwaukee Bucks,2,40-41,-3,dunk,False,0,True,True
+2006-03-17,14.3833333333,Washington Wizards,Dallas Mavericks,2,33-27,-8,two point jumper,True,12,False,True
+2006-03-17,15.4333333333,Washington Wizards,Dallas Mavericks,2,35-29,-8,two point jumper,True,5,False,True
+2006-03-17,16.3833333333,Washington Wizards,Dallas Mavericks,2,36-32,-6,layup,True,0,False,True
+2006-03-17,16.4166666667,Washington Wizards,Dallas Mavericks,2,36-32,-6,layup,True,0,False,True
+2006-03-17,45.5833333333,Washington Wizards,Dallas Mavericks,4,98-88,-12,layup,True,0,True,True
+2006-03-31,15.8,Washington Wizards,Houston Rockets,2,35-37,-4,layup,False,0,True,False
+2006-03-31,16.7,Washington Wizards,Houston Rockets,2,38-37,-1,layup,False,0,True,False
+2006-03-31,19.0666666667,Washington Wizards,Houston Rockets,2,42-42,-2,two point shot,False,1,True,False
+2006-03-31,32.1833333333,Washington Wizards,Houston Rockets,3,64-77,-15,tip shot,False,0,False,False
+2006-02-27,7.48333333333,Washington Wizards,Memphis Grizzlies,1,21-14,5,two point shot,False,6,True,True
+2006-02-27,8.81666666667,Washington Wizards,Memphis Grizzlies,1,22-18,3,free throw,False,15,True,True
+2006-02-27,8.81666666667,Washington Wizards,Memphis Grizzlies,1,23-18,4,free throw,False,15,True,True
+2006-02-27,13.75,Washington Wizards,Memphis Grizzlies,2,34-25,7,layup,False,0,False,True
+2006-02-27,17.7,Washington Wizards,Memphis Grizzlies,2,41-29,11,free throw,False,15,True,True
+2006-02-27,17.7,Washington Wizards,Memphis Grizzlies,2,41-29,11,free throw,False,15,False,True
+2006-02-27,18.35,Washington Wizards,Memphis Grizzlies,2,43-32,9,dunk,False,0,True,True
+2006-02-27,41.6333333333,Washington Wizards,Memphis Grizzlies,4,90-87,1,two point shot,False,1,False,True
+2006-02-13,12.2666666667,Washington Wizards,New Orleans Pelicans,2,32-18,12,layup,False,0,True,False
+2006-02-13,19.5333333333,Washington Wizards,New Orleans Pelicans,2,44-32,10,layup,False,0,True,False
+2006-02-13,38.5833333333,Washington Wizards,New Orleans Pelicans,4,78-76,0,layup,False,0,True,False
+2006-04-01,5.7,Washington Wizards,San Antonio Spurs,1,10-13,-5,layup,False,0,True,True
+2006-04-01,20.6833333333,Washington Wizards,San Antonio Spurs,2,29-31,-4,layup,False,0,True,True
+2006-04-01,24.9,Washington Wizards,San Antonio Spurs,3,37-40,-5,dunk,False,0,True,True
+2006-04-01,29.0333333333,Washington Wizards,San Antonio Spurs,3,46-50,-6,two point shot,False,1,False,True
+2006-04-01,30.7333333333,Washington Wizards,San Antonio Spurs,3,54-53,-1,dunk,False,0,True,True
+2006-01-11,11.7,Washington Wizards,Atlanta Hawks,1,15-26,9,layup,True,0,True,False
+2006-01-11,16.2833333333,Washington Wizards,Atlanta Hawks,2,23-37,12,layup,True,0,False,False
+2006-01-11,17.85,Washington Wizards,Atlanta Hawks,2,23-40,16,free throw,True,15,False,False
+2006-01-11,17.85,Washington Wizards,Atlanta Hawks,2,23-40,16,free throw,True,15,False,False
+2006-02-04,32.75,Washington Wizards,Atlanta Hawks,3,54-69,14,free throw,True,15,True,True
+2006-02-04,32.75,Washington Wizards,Atlanta Hawks,3,54-69,14,free throw,True,15,False,True
+2006-02-04,32.75,Washington Wizards,Atlanta Hawks,3,54-70,15,free throw,True,15,True,True
+2006-02-04,33.1833333333,Washington Wizards,Atlanta Hawks,3,56-70,12,two point jumper,True,3,False,True
+2006-02-04,35.1833333333,Washington Wizards,Atlanta Hawks,3,67-74,6,free throw,True,15,True,True
+2006-02-04,35.1833333333,Washington Wizards,Atlanta Hawks,3,67-75,7,free throw,True,15,True,True
+2006-04-07,0.183333333333,Washington Wizards,Atlanta Hawks,1,3-0,1,dunk,False,0,True,False
+2006-04-07,2.58333333333,Washington Wizards,Atlanta Hawks,1,8-6,0,two point shot,False,4,True,False
+2006-04-07,22.7166666667,Washington Wizards,Atlanta Hawks,2,51-53,-4,two point jumper,False,1,True,False
+2006-11-26,14.6333333333,Washington Wizards,Charlotte Bobcats,2,18-31,-15,two point jumper,False,7,False,True
+2006-11-26,15.0666666667,Washington Wizards,Charlotte Bobcats,2,20-31,-13,hook shot,False,9,True,True
+2006-01-28,14.2,Washington Wizards,Charlotte Bobcats,2,35-36,-1,dunk,True,0,True,False
+2006-01-28,15.6833333333,Washington Wizards,Charlotte Bobcats,2,37-40,1,layup,True,0,True,False
+2006-01-28,15.6833333333,Washington Wizards,Charlotte Bobcats,2,37-40,2,free throw,True,15,False,False
+2006-01-28,16.8166666667,Washington Wizards,Charlotte Bobcats,2,39-42,1,two point jumper,True,4,False,False
+2006-01-28,18.7833333333,Washington Wizards,Charlotte Bobcats,2,42-46,2,two point shot,True,7,True,False
+2006-01-28,22.8,Washington Wizards,Charlotte Bobcats,2,47-52,3,layup,True,0,False,False
+2006-01-28,32.7,Washington Wizards,Charlotte Bobcats,3,70-73,1,two point jumper,True,10,False,False
+2006-01-28,34.4666666667,Washington Wizards,Charlotte Bobcats,3,73-76,2,free throw,True,15,True,False
+2006-01-28,34.4666666667,Washington Wizards,Charlotte Bobcats,3,73-77,3,free throw,True,15,True,False
+2006-01-28,35.6,Washington Wizards,Charlotte Bobcats,3,73-81,7,free throw,True,15,True,False
+2006-01-28,35.6,Washington Wizards,Charlotte Bobcats,3,73-82,8,free throw,True,15,True,False
+2006-01-28,37.95,Washington Wizards,Charlotte Bobcats,4,78-85,6,free throw,True,15,True,False
+2006-01-28,37.95,Washington Wizards,Charlotte Bobcats,4,78-86,7,free throw,True,15,True,False
+2006-03-14,39.2666666667,Washington Wizards,Charlotte Bobcats,4,92-87,4,free throw,False,15,False,True
+2006-03-14,39.2666666667,Washington Wizards,Charlotte Bobcats,4,93-87,5,free throw,False,15,True,True
+2006-03-14,41.5666666667,Washington Wizards,Charlotte Bobcats,4,102-91,9,two point jumper,False,1,True,True
+2006-12-11,29.4833333333,Washington Wizards,Miami Heat,3,30-29,-1,dunk,False,0,True,False
+2006-12-11,31.1666666667,Washington Wizards,Miami Heat,3,33-33,-1,free throw,False,15,False,False
+2006-12-11,31.1666666667,Washington Wizards,Miami Heat,3,34-33,0,free throw,False,15,True,False
+2006-12-11,32.5,Washington Wizards,Miami Heat,3,40-36,3,free throw,False,15,True,False
+2006-12-11,32.5,Washington Wizards,Miami Heat,3,41-36,4,free throw,False,15,True,False
+2006-12-11,35.3833333333,Washington Wizards,Miami Heat,3,48-42,4,layup,False,0,False,False
+2006-12-11,22.35,Washington Wizards,Miami Heat,6,98-100,-4,hook shot,False,6,False,False
+2006-12-30,11.8,Washington Wizards,Miami Heat,1,31-28,-5,two point jumper,True,5,False,False
+2006-12-30,13.2,Washington Wizards,Miami Heat,2,36-31,-7,two point jumper,True,4,False,False
+2006-12-30,15.2166666667,Washington Wizards,Miami Heat,2,40-36,-6,two point jumper,True,1,False,False
+2006-12-30,19.8166666667,Washington Wizards,Miami Heat,2,50-44,-8,two point shot,True,1,True,False
+2006-12-30,21.1833333333,Washington Wizards,Miami Heat,2,54-48,-8,dunk,True,0,True,False
+2006-12-30,30.2166666667,Washington Wizards,Miami Heat,3,78-77,-3,two point shot,True,9,True,False
+2006-12-30,31.4166666667,Washington Wizards,Miami Heat,3,82-79,-5,layup,True,0,False,False
+2006-12-30,31.7333333333,Washington Wizards,Miami Heat,3,84-81,-5,dunk,True,0,True,False
+2006-12-30,32.95,Washington Wizards,Miami Heat,3,87-86,-2,free throw,True,15,True,False
+2006-12-30,32.95,Washington Wizards,Miami Heat,3,87-87,-1,free throw,True,15,True,False
+2006-12-30,33.7833333333,Washington Wizards,Miami Heat,3,89-88,-2,free throw,True,15,True,False
+2006-12-30,33.7833333333,Washington Wizards,Miami Heat,3,89-88,-2,free throw,True,15,False,False
+2006-12-30,37.7166666667,Washington Wizards,Miami Heat,4,95-93,-4,layup,True,0,False,False
+2006-12-30,38.1333333333,Washington Wizards,Miami Heat,4,97-94,-4,free throw,True,15,True,False
+2006-12-30,38.1333333333,Washington Wizards,Miami Heat,4,97-95,-3,free throw,True,15,True,False
+2006-03-08,12.8833333333,Washington Wizards,Miami Heat,2,24-26,-4,layup,False,0,True,False
+2006-03-08,15.2166666667,Washington Wizards,Miami Heat,2,32-31,-1,two point shot,False,1,True,False
+2006-03-08,20.9333333333,Washington Wizards,Miami Heat,2,44-43,-1,two point jumper,False,11,True,False
+2006-03-08,22.6333333333,Washington Wizards,Miami Heat,2,51-48,2,free throw,False,15,True,False
+2006-03-08,22.6333333333,Washington Wizards,Miami Heat,2,52-48,3,free throw,False,15,True,False
+2006-03-08,23.15,Washington Wizards,Miami Heat,2,54-48,4,dunk,False,0,True,False
+2006-03-08,33.7166666667,Washington Wizards,Miami Heat,3,85-81,2,two point jumper,False,15,False,False
+2006-11-05,17.1,Washington Wizards,Orlando Magic,2,27-29,1,free throw,True,15,True,True
+2006-11-05,17.1,Washington Wizards,Orlando Magic,2,27-29,1,free throw,True,15,False,True
+2006-11-05,18.8166666667,Washington Wizards,Orlando Magic,2,31-31,-2,two point jumper,True,14,False,True
+2006-11-23,16.95,Washington Wizards,Orlando Magic,2,22-31,-11,tip shot,False,0,False,False
+2006-11-23,32.2,Washington Wizards,Orlando Magic,3,52-56,-6,two point jumper,False,14,True,False
+2006-11-23,38.1166666667,Washington Wizards,Orlando Magic,4,61-71,-11,free throw,False,15,True,False
+2006-11-23,38.1166666667,Washington Wizards,Orlando Magic,4,62-71,-10,free throw,False,15,True,False
+2006-11-23,38.65,Washington Wizards,Orlando Magic,4,62-71,-11,two point shot,False,1,False,False
+2006-02-06,12.3833333333,Washington Wizards,Orlando Magic,2,15-27,10,two point jumper,True,4,False,True
+2006-02-06,14.45,Washington Wizards,Orlando Magic,2,21-29,6,layup,True,0,False,True
+2006-02-06,15.8166666667,Washington Wizards,Orlando Magic,2,23-29,4,two point jumper,True,12,False,True
+2006-02-06,22.5833333333,Washington Wizards,Orlando Magic,2,37-46,8,free throw,True,15,False,True
+2006-02-06,22.5833333333,Washington Wizards,Orlando Magic,2,37-47,9,free throw,True,15,True,True
+2006-11-11,12.2666666667,Washington Wizards,Oklahoma City Thunder,2,25-31,4,two point shot,True,6,True,False
+2006-11-11,14.1833333333,Washington Wizards,Oklahoma City Thunder,2,27-39,10,dunk,True,0,True,False
+2006-11-11,15.5833333333,Washington Wizards,Oklahoma City Thunder,2,29-44,14,free throw,True,15,True,False
+2006-11-11,15.5833333333,Washington Wizards,Oklahoma City Thunder,2,29-44,14,free throw,True,15,False,False
+2006-11-11,36.55,Washington Wizards,Oklahoma City Thunder,4,70-105,33,two point jumper,True,1,False,False
+2006-11-17,12.1833333333,Washington Wizards,Minnesota Timberwolves,2,28-26,0,dunk,False,0,True,True
+2006-11-17,12.5666666667,Washington Wizards,Minnesota Timberwolves,2,30-26,2,dunk,False,0,True,True
+2006-11-17,14.8166666667,Washington Wizards,Minnesota Timberwolves,2,36-33,1,two point shot,False,6,True,True
+2006-11-17,15.8166666667,Washington Wizards,Minnesota Timberwolves,2,36-34,0,hook shot,False,8,False,True
+2006-11-17,17.95,Washington Wizards,Minnesota Timberwolves,2,38-40,-4,hook shot,False,6,False,True
+2006-11-17,36.5666666667,Washington Wizards,Minnesota Timberwolves,4,78-82,-5,free throw,False,15,False,True
+2006-11-17,36.5666666667,Washington Wizards,Minnesota Timberwolves,4,79-82,-4,free throw,False,15,True,True
+2006-11-17,37.0,Washington Wizards,Minnesota Timberwolves,4,79-82,-5,two point jumper,False,1,False,True
+2006-11-22,17.2,Washington Wizards,Denver Nuggets,2,40-33,-9,dunk,True,0,True,False
+2006-11-22,38.9,Washington Wizards,Denver Nuggets,4,82-80,-4,layup,True,0,True,False
+2006-11-22,41.7333333333,Washington Wizards,Denver Nuggets,4,86-86,-2,tip shot,True,0,True,False
+2006-11-22,42.35,Washington Wizards,Denver Nuggets,4,89-86,-4,free throw,True,15,False,False
+2006-11-22,44.8666666667,Washington Wizards,Denver Nuggets,4,97-92,-6,free throw,True,15,True,False
+2006-11-22,44.8666666667,Washington Wizards,Denver Nuggets,4,97-93,-5,free throw,True,15,True,False
+2006-11-22,46.0333333333,Washington Wizards,Denver Nuggets,4,101-98,-4,free throw,True,15,True,False
+2006-11-22,46.0333333333,Washington Wizards,Denver Nuggets,4,101-99,-3,free throw,True,15,True,False
+2006-11-30,14.8833333333,Washington Wizards,Portland Trail Blazers,2,32-28,-6,two point jumper,True,8,False,True
+2006-12-18,12.3,Washington Wizards,Portland Trail Blazers,2,19-19,-2,two point jumper,False,15,False,False
+2006-12-18,13.5,Washington Wizards,Portland Trail Blazers,2,22-23,-3,hook shot,False,4,True,False
+2006-12-18,14.9666666667,Washington Wizards,Portland Trail Blazers,2,24-28,-6,dunk,False,0,True,False
+2006-12-19,12.3833333333,Washington Wizards,Oklahoma City Thunder,2,23-31,-10,two point shot,False,2,True,False
+2006-12-19,19.2,Washington Wizards,Oklahoma City Thunder,2,37-43,-8,dunk,False,0,False,False
+2006-12-19,35.05,Washington Wizards,Oklahoma City Thunder,3,72-80,-10,two point shot,False,2,False,False
+2006-12-19,35.1,Washington Wizards,Oklahoma City Thunder,3,74-80,-8,dunk,False,0,True,False
+2006-12-21,13.6333333333,Washington Wizards,Denver Nuggets,2,29-25,2,layup,False,0,True,True
+2006-12-21,16.95,Washington Wizards,Denver Nuggets,2,35-35,-2,layup,False,0,True,True
+2006-12-21,32.9833333333,Washington Wizards,Denver Nuggets,3,76-72,2,dunk,False,0,True,True
+2006-01-09,35.7,Washington Wizards,Utah Jazz,3,69-55,-16,hook shot,True,3,True,False
+2006-01-09,40.8833333333,Washington Wizards,Utah Jazz,4,77-67,-12,two point jumper,True,9,True,False
+2006-01-09,42.6666666667,Washington Wizards,Utah Jazz,4,81-71,-12,two point shot,True,1,True,False
+2007-11-04,1.81666666667,Washington Wizards,Boston Celtics,1,4-6,1,free throw,True,15,True,True
+2007-11-04,1.81666666667,Washington Wizards,Boston Celtics,1,4-6,1,free throw,True,15,False,True
+2007-11-04,5.38333333333,Washington Wizards,Boston Celtics,1,7-14,5,layup,True,0,False,True
+2007-11-04,7.1,Washington Wizards,Boston Celtics,1,14-16,0,two point jumper,True,1,False,True
+2007-11-04,7.66666666667,Washington Wizards,Boston Celtics,1,16-18,0,dunk,True,0,True,True
+2007-11-04,25.8333333333,Washington Wizards,Boston Celtics,3,59-63,2,dunk,True,0,True,True
+2007-11-04,25.8333333333,Washington Wizards,Boston Celtics,3,59-63,3,free throw,True,15,False,True
+2007-11-04,29.1,Washington Wizards,Boston Celtics,3,70-71,-1,dunk,True,0,True,True
+2007-01-20,20.8333333333,Washington Wizards,Boston Celtics,2,41-58,15,dunk,True,0,True,True
+2007-01-20,38.55,Washington Wizards,Boston Celtics,4,89-91,0,two point shot,True,4,True,True
+2007-01-20,40.1333333333,Washington Wizards,Boston Celtics,4,93-91,-4,two point jumper,True,8,False,True
+2007-01-28,10.4,Washington Wizards,Boston Celtics,1,27-27,-2,tip shot,False,0,False,False
+2007-01-28,11.2166666667,Washington Wizards,Boston Celtics,1,30-27,1,two point jumper,False,8,False,False
+2007-01-28,14.6833333333,Washington Wizards,Boston Celtics,2,34-34,-2,layup,False,0,False,False
+2007-01-28,15.7,Washington Wizards,Boston Celtics,2,36-34,0,dunk,False,0,True,False
+2007-01-28,17.2833333333,Washington Wizards,Boston Celtics,2,38-37,-1,layup,False,0,False,False
+2007-01-28,39.25,Washington Wizards,Boston Celtics,4,81-76,3,layup,False,0,False,False
+2007-01-28,41.0666666667,Washington Wizards,Boston Celtics,4,90-78,10,layup,False,0,True,False
+2007-11-12,4.91666666667,Washington Wizards,Brooklyn Nets,1,11-2,-11,two point jumper,True,11,False,True
+2007-11-12,5.41666666667,Washington Wizards,Brooklyn Nets,1,11-2,-11,two point jumper,True,6,False,True
+2007-11-12,8.55,Washington Wizards,Brooklyn Nets,1,17-10,-9,two point shot,True,5,True,True
+2007-11-12,10.4,Washington Wizards,Brooklyn Nets,1,19-15,-6,layup,True,0,True,True
+2007-02-27,15.1333333333,Washington Wizards,Brooklyn Nets,2,29-31,-4,hook shot,False,9,True,False
+2007-04-07,1.56666666667,Washington Wizards,Brooklyn Nets,1,6-3,2,free throw,False,15,True,False
+2007-04-07,1.56666666667,Washington Wizards,Brooklyn Nets,1,7-3,3,free throw,False,15,True,False
+2007-04-07,28.2,Washington Wizards,Brooklyn Nets,3,65-62,2,free throw,False,15,True,False
+2007-04-07,28.2,Washington Wizards,Brooklyn Nets,3,65-62,2,free throw,False,15,False,False
+2007-04-10,0.5,Washington Wizards,Brooklyn Nets,1,2-0,-3,free throw,True,15,False,False
+2007-04-10,0.5,Washington Wizards,Brooklyn Nets,1,2-1,-2,free throw,True,15,True,False
+2007-04-10,1.63333333333,Washington Wizards,Brooklyn Nets,1,2-4,0,two point jumper,True,6,False,False
+2007-04-10,4.85,Washington Wizards,Brooklyn Nets,1,6-11,3,dunk,True,0,True,False
+2007-04-10,10.05,Washington Wizards,Brooklyn Nets,1,14-24,8,hook shot,True,5,True,False
+2007-04-10,20.7166666667,Washington Wizards,Brooklyn Nets,2,30-35,4,free throw,True,15,False,False
+2007-04-10,20.7166666667,Washington Wizards,Brooklyn Nets,2,30-35,4,free throw,True,15,False,False
+2007-04-10,23.2166666667,Washington Wizards,Brooklyn Nets,2,38-39,0,free throw,True,15,True,False
+2007-04-10,23.2166666667,Washington Wizards,Brooklyn Nets,2,38-40,1,free throw,True,15,True,False
+2007-04-10,25.6333333333,Washington Wizards,Brooklyn Nets,3,44-46,0,dunk,True,0,True,False
+2007-04-10,40.85,Washington Wizards,Brooklyn Nets,4,74-79,3,dunk,True,0,True,False
+2007-11-15,33.5666666667,Washington Wizards,New York Knicks,3,62-70,-9,free throw,False,15,False,True
+2007-11-15,33.5666666667,Washington Wizards,New York Knicks,3,63-70,-8,free throw,False,15,True,True
+2007-12-06,1.95,Washington Wizards,New York Knicks,1,4-9,-7,layup,False,0,True,True
+2007-12-06,16.8166666667,Washington Wizards,New York Knicks,2,46-41,3,layup,False,0,False,True
+2007-12-06,25.6333333333,Washington Wizards,New York Knicks,3,73-59,12,two point shot,False,7,True,True
+2007-12-06,41.95,Washington Wizards,New York Knicks,4,103-90,11,two point jumper,False,1,False,True
+2007-01-17,17.45,Washington Wizards,New York Knicks,2,37-39,0,dunk,True,0,True,True
+2007-01-17,36.7,Washington Wizards,New York Knicks,4,72-81,7,two point jumper,True,4,False,True
+2007-03-10,12.9,Washington Wizards,New York Knicks,2,19-23,2,hook shot,True,4,True,False
+2007-03-10,14.0833333333,Washington Wizards,New York Knicks,2,21-27,4,hook shot,True,1,True,False
+2007-03-10,16.0666666667,Washington Wizards,New York Knicks,2,25-30,3,two point jumper,True,5,False,False
+2007-03-10,17.8166666667,Washington Wizards,New York Knicks,2,27-33,4,two point jumper,True,5,False,False
+2007-03-10,38.95,Washington Wizards,New York Knicks,4,69-72,2,free throw,True,15,False,False
+2007-03-10,38.95,Washington Wizards,New York Knicks,4,69-73,3,free throw,True,15,True,False
+2007-03-10,40.5333333333,Washington Wizards,New York Knicks,4,69-75,4,layup,True,0,False,False
+2007-12-08,2.46666666667,Washington Wizards,Philadelphia 76ers,1,4-6,-4,two point jumper,False,3,True,False
+2007-12-08,3.0,Washington Wizards,Philadelphia 76ers,1,5-8,-4,free throw,False,15,True,False
+2007-12-08,3.0,Washington Wizards,Philadelphia 76ers,1,5-8,-4,free throw,False,15,False,False
+2007-12-08,6.6,Washington Wizards,Philadelphia 76ers,1,7-16,-11,layup,False,0,False,False
+2007-12-08,7.13333333333,Washington Wizards,Philadelphia 76ers,1,9-18,-11,two point shot,False,5,True,False
+2007-12-08,8.03333333333,Washington Wizards,Philadelphia 76ers,1,10-20,-11,free throw,False,15,True,False
+2007-12-08,8.03333333333,Washington Wizards,Philadelphia 76ers,1,11-20,-10,free throw,False,15,True,False
+2007-12-08,9.18333333333,Washington Wizards,Philadelphia 76ers,1,15-22,-9,layup,False,0,True,False
+2007-03-28,22.55,Washington Wizards,Philadelphia 76ers,2,44-49,4,free throw,True,15,False,True
+2007-03-28,22.55,Washington Wizards,Philadelphia 76ers,2,44-50,5,free throw,True,15,True,True
+2007-03-28,41.95,Washington Wizards,Philadelphia 76ers,4,89-98,8,free throw,True,15,True,True
+2007-03-28,41.95,Washington Wizards,Philadelphia 76ers,4,89-99,9,free throw,True,15,True,True
+2007-03-28,42.6666666667,Washington Wizards,Philadelphia 76ers,4,91-99,6,layup,True,0,False,True
+2007-01-31,16.85,Washington Wizards,Toronto Raptors,2,26-37,-13,two point shot,False,3,False,False
+2007-01-31,33.8666666667,Washington Wizards,Toronto Raptors,3,73-85,-14,two point shot,False,8,True,False
+2007-01-31,39.3333333333,Washington Wizards,Toronto Raptors,4,89-103,-16,layup,False,0,True,False
+2007-03-30,41.4833333333,Washington Wizards,Toronto Raptors,4,87-89,0,hook shot,True,3,True,False
+2007-03-30,41.9166666667,Washington Wizards,Toronto Raptors,4,87-91,2,dunk,True,0,True,False
+2007-03-04,0.816666666667,Washington Wizards,Golden State Warriors,1,2-2,-2,layup,True,0,False,True
+2007-03-04,1.83333333333,Washington Wizards,Golden State Warriors,1,6-2,-6,layup,True,0,False,True
+2007-03-04,24.9666666667,Washington Wizards,Golden State Warriors,3,55-52,-5,dunk,True,0,True,True
+2007-03-04,26.3166666667,Washington Wizards,Golden State Warriors,3,60-55,-7,layup,True,0,False,True
+2007-03-04,28.4166666667,Washington Wizards,Golden State Warriors,3,65-67,0,dunk,True,0,True,True
+2007-03-04,30.1666666667,Washington Wizards,Golden State Warriors,3,70-69,-3,layup,True,0,False,True
+2007-03-04,33.1666666667,Washington Wizards,Golden State Warriors,3,76-76,-2,two point jumper,True,1,False,True
+2007-03-04,35.5833333333,Washington Wizards,Golden State Warriors,3,82-78,-5,free throw,True,15,False,True
+2007-03-04,35.5833333333,Washington Wizards,Golden State Warriors,3,82-79,-4,free throw,True,15,True,True
+2007-03-23,8.75,Washington Wizards,Golden State Warriors,1,22-25,-5,dunk,False,0,True,False
+2007-03-23,12.5666666667,Washington Wizards,Golden State Warriors,2,38-35,2,free throw,False,15,True,False
+2007-03-24,10.6166666667,Washington Wizards,Los Angeles Clippers,1,21-21,-2,dunk,False,0,True,False
+2007-03-24,11.4833333333,Washington Wizards,Los Angeles Clippers,1,25-21,2,dunk,False,0,True,False
+2007-03-24,12.6333333333,Washington Wizards,Los Angeles Clippers,2,27-21,4,layup,False,0,True,False
+2007-03-24,36.95,Washington Wizards,Los Angeles Clippers,4,74-79,-7,layup,False,0,True,False
+2007-02-03,15.0666666667,Washington Wizards,Los Angeles Lakers,2,38-35,-5,two point jumper,True,13,False,False
+2007-02-03,33.0166666667,Washington Wizards,Los Angeles Lakers,3,76-71,-7,layup,True,0,False,False
+2007-02-03,40.0333333333,Washington Wizards,Los Angeles Lakers,4,96-82,-15,free throw,True,15,False,False
+2007-02-03,40.0333333333,Washington Wizards,Los Angeles Lakers,4,96-83,-14,free throw,True,15,True,False
+2007-02-03,44.3666666667,Washington Wizards,Los Angeles Lakers,4,105-94,-12,free throw,True,15,True,False
+2007-02-03,44.3666666667,Washington Wizards,Los Angeles Lakers,4,105-95,-11,free throw,True,15,True,False
+2007-01-23,14.2166666667,Washington Wizards,Phoenix Suns,2,45-24,-23,layup,True,0,True,False
+2007-01-23,18.0666666667,Washington Wizards,Phoenix Suns,2,60-31,-31,two point jumper,True,4,False,False
+2007-01-23,18.35,Washington Wizards,Phoenix Suns,2,60-32,-29,free throw,True,15,False,False
+2007-01-23,18.35,Washington Wizards,Phoenix Suns,2,60-33,-28,free throw,True,15,True,False
+2007-02-22,11.4,Washington Wizards,Sacramento Kings,1,26-32,4,layup,True,0,True,True
+2007-02-22,11.4,Washington Wizards,Sacramento Kings,1,26-33,6,free throw,True,15,True,True
+2007-12-02,9.8,Washington Wizards,Chicago Bulls,1,23-21,0,hook shot,False,1,False,True
+2007-01-10,30.35,Washington Wizards,Chicago Bulls,3,54-63,7,layup,True,0,True,True
+2007-01-10,36.8833333333,Washington Wizards,Chicago Bulls,4,74-78,2,layup,True,0,True,True
+2007-01-10,36.8833333333,Washington Wizards,Chicago Bulls,4,74-79,4,free throw,True,15,True,True
+2007-02-23,15.6333333333,Washington Wizards,Chicago Bulls,2,30-26,2,two point jumper,False,13,True,True
+2007-04-15,1.88333333333,Washington Wizards,Chicago Bulls,1,6-0,-8,layup,True,0,False,True
+2007-04-15,4.0,Washington Wizards,Chicago Bulls,1,12-2,-12,two point shot,True,5,True,True
+2007-04-15,9.4,Washington Wizards,Chicago Bulls,1,23-9,-16,dunk,True,0,True,True
+2007-04-15,11.3833333333,Washington Wizards,Chicago Bulls,1,28-12,-18,dunk,True,0,True,True
+2007-04-15,16.25,Washington Wizards,Chicago Bulls,2,33-17,-17,free throw,True,15,True,True
+2007-04-15,16.25,Washington Wizards,Chicago Bulls,2,33-17,-17,free throw,True,15,False,True
+2007-04-15,22.0833333333,Washington Wizards,Chicago Bulls,2,43-23,-22,two point jumper,True,6,False,True
+2007-04-15,26.7,Washington Wizards,Chicago Bulls,3,55-36,-21,layup,True,0,True,True
+2007-04-15,33.0833333333,Washington Wizards,Chicago Bulls,3,71-48,-25,dunk,True,0,True,True
+2007-04-15,33.0833333333,Washington Wizards,Chicago Bulls,3,71-48,-24,free throw,True,15,False,True
+2007-04-15,34.1666666667,Washington Wizards,Chicago Bulls,3,73-50,-25,two point jumper,True,13,False,True
+2007-11-01,1.46666666667,Washington Wizards,Cleveland Cavaliers,1,2-4,-4,layup,False,0,True,False
+2007-11-01,4.13333333333,Washington Wizards,Cleveland Cavaliers,1,8-10,-4,two point shot,False,5,True,False
+2007-11-01,5.88333333333,Washington Wizards,Cleveland Cavaliers,1,13-17,-6,tip shot,False,0,True,False
+2007-11-01,18.0333333333,Washington Wizards,Cleveland Cavaliers,2,37-39,-4,layup,False,0,True,False
+2007-11-01,18.7,Washington Wizards,Cleveland Cavaliers,2,41-39,0,layup,False,0,True,False
+2007-11-01,21.9833333333,Washington Wizards,Cleveland Cavaliers,2,43-45,-3,free throw,False,15,False,False
+2007-11-01,21.9833333333,Washington Wizards,Cleveland Cavaliers,2,43-45,-3,free throw,False,15,False,False
+2007-11-01,25.0,Washington Wizards,Cleveland Cavaliers,3,49-49,-2,two point shot,False,5,True,False
+2007-11-01,27.0,Washington Wizards,Cleveland Cavaliers,3,51-53,-4,layup,False,0,True,False
+2007-11-18,4.6,Washington Wizards,Cleveland Cavaliers,1,7-6,-3,two point jumper,True,4,False,False
+2007-11-18,5.13333333333,Washington Wizards,Cleveland Cavaliers,1,9-8,-3,layup,True,0,True,False
+2007-11-18,5.13333333333,Washington Wizards,Cleveland Cavaliers,1,9-8,-2,free throw,True,15,False,False
+2007-11-18,18.4833333333,Washington Wizards,Cleveland Cavaliers,2,46-40,-8,dunk,True,0,True,False
+2007-11-18,20.75,Washington Wizards,Cleveland Cavaliers,2,50-49,-3,two point jumper,True,9,True,False
+2007-11-18,22.9666666667,Washington Wizards,Cleveland Cavaliers,2,54-54,-2,layup,True,0,False,False
+2007-11-18,25.15,Washington Wizards,Cleveland Cavaliers,3,58-65,6,free throw,True,15,True,False
+2007-11-18,25.15,Washington Wizards,Cleveland Cavaliers,3,58-65,6,free throw,True,15,False,False
+2007-11-18,26.3833333333,Washington Wizards,Cleveland Cavaliers,3,58-67,8,free throw,True,15,False,False
+2007-11-18,26.3833333333,Washington Wizards,Cleveland Cavaliers,3,58-67,8,free throw,True,15,False,False
+2007-11-18,27.2166666667,Washington Wizards,Cleveland Cavaliers,3,60-68,7,free throw,True,15,True,False
+2007-11-18,27.2166666667,Washington Wizards,Cleveland Cavaliers,3,60-69,8,free throw,True,15,True,False
+2007-04-06,6.0,Washington Wizards,Cleveland Cavaliers,1,14-9,-7,two point jumper,True,7,False,False
+2007-04-06,6.63333333333,Washington Wizards,Cleveland Cavaliers,1,14-13,-3,hook shot,True,4,True,False
+2007-04-06,8.6,Washington Wizards,Cleveland Cavaliers,1,14-19,3,hook shot,True,2,True,False
+2007-04-06,22.9166666667,Washington Wizards,Cleveland Cavaliers,2,45-46,-1,layup,True,0,False,False
+2007-04-06,26.6333333333,Washington Wizards,Cleveland Cavaliers,3,47-57,8,hook shot,True,3,True,False
+2007-04-06,28.95,Washington Wizards,Cleveland Cavaliers,3,53-57,3,free throw,True,15,False,False
+2007-04-06,28.95,Washington Wizards,Cleveland Cavaliers,3,53-57,3,free throw,True,15,False,False
+2007-04-06,31.3833333333,Washington Wizards,Cleveland Cavaliers,3,60-61,-1,dunk,True,0,True,False
+2007-04-06,33.3666666667,Washington Wizards,Cleveland Cavaliers,3,62-67,3,dunk,True,0,True,False
+2007-11-17,3.55,Washington Wizards,Detroit Pistons,1,11-9,0,dunk,False,0,True,True
+2007-11-17,3.95,Washington Wizards,Detroit Pistons,1,13-9,2,layup,False,0,True,True
+2007-11-17,5.7,Washington Wizards,Detroit Pistons,1,13-14,-3,layup,False,0,False,True
+2007-11-17,29.5,Washington Wizards,Detroit Pistons,3,54-59,-7,layup,False,0,True,True
+2007-11-17,29.5,Washington Wizards,Detroit Pistons,3,55-59,-5,free throw,False,15,True,True
+2007-11-25,0.716666666667,Washington Wizards,Detroit Pistons,1,0-2,0,dunk,True,0,True,False
+2007-11-25,8.26666666667,Washington Wizards,Detroit Pistons,1,20-27,5,layup,True,0,True,False
+2007-11-25,8.26666666667,Washington Wizards,Detroit Pistons,1,20-27,6,free throw,True,15,False,False
+2007-11-25,18.7,Washington Wizards,Detroit Pistons,2,52-41,-13,two point shot,True,1,True,False
+2007-11-25,25.3333333333,Washington Wizards,Detroit Pistons,3,67-59,-9,free throw,True,15,True,False
+2007-11-25,25.3333333333,Washington Wizards,Detroit Pistons,3,67-59,-9,free throw,True,15,False,False
+2007-11-25,26.1333333333,Washington Wizards,Detroit Pistons,3,67-61,-8,tip shot,True,0,True,False
+2007-01-26,18.1666666667,Washington Wizards,Detroit Pistons,2,35-38,-5,hook shot,False,4,True,True
+2007-01-30,9.81666666667,Washington Wizards,Detroit Pistons,1,18-28,9,free throw,True,15,True,False
+2007-01-30,9.81666666667,Washington Wizards,Detroit Pistons,1,18-28,9,free throw,True,15,False,False
+2007-01-30,14.4666666667,Washington Wizards,Detroit Pistons,2,22-35,11,two point shot,True,7,True,False
+2007-01-30,16.2333333333,Washington Wizards,Detroit Pistons,2,25-39,12,two point shot,True,2,True,False
+2007-01-30,19.25,Washington Wizards,Detroit Pistons,2,32-45,12,free throw,True,15,True,False
+2007-01-30,19.25,Washington Wizards,Detroit Pistons,2,32-46,13,free throw,True,15,True,False
+2007-01-30,35.0,Washington Wizards,Detroit Pistons,3,64-74,8,layup,True,0,False,False
+2007-01-30,36.3666666667,Washington Wizards,Detroit Pistons,4,64-74,8,layup,True,0,False,False
+2007-01-30,42.7833333333,Washington Wizards,Detroit Pistons,4,84-93,7,dunk,True,0,True,False
+2007-11-08,1.05,Washington Wizards,Indiana Pacers,1,0-2,1,free throw,True,15,False,False
+2007-11-08,1.05,Washington Wizards,Indiana Pacers,1,0-3,2,free throw,True,15,True,False
+2007-11-08,20.4833333333,Washington Wizards,Indiana Pacers,2,43-48,3,dunk,True,0,True,False
+2007-11-08,20.4833333333,Washington Wizards,Indiana Pacers,2,43-48,4,free throw,True,15,False,False
+2007-11-08,20.4833333333,Washington Wizards,Indiana Pacers,2,43-49,5,free throw,True,15,True,False
+2007-11-08,20.5833333333,Washington Wizards,Indiana Pacers,2,43-51,6,dunk,True,0,True,False
+2007-11-08,30.8166666667,Washington Wizards,Indiana Pacers,3,58-86,26,dunk,True,0,True,False
+2007-03-14,9.11666666667,Washington Wizards,Indiana Pacers,1,19-21,-4,two point shot,False,6,True,False
+2007-03-14,11.5666666667,Washington Wizards,Indiana Pacers,1,23-21,0,layup,False,0,False,False
+2007-03-14,16.95,Washington Wizards,Indiana Pacers,2,33-29,2,two point jumper,False,5,False,False
+2007-03-14,17.0,Washington Wizards,Indiana Pacers,2,35-29,4,two point shot,False,5,True,False
+2007-04-18,0.25,Washington Wizards,Indiana Pacers,1,0-0,-2,hook shot,False,1,False,True
+2007-04-18,2.4,Washington Wizards,Indiana Pacers,1,6-4,0,two point shot,False,7,True,True
+2007-04-18,17.0666666667,Washington Wizards,Indiana Pacers,2,37-31,4,two point shot,False,6,True,True
+2007-04-18,24.5833333333,Washington Wizards,Indiana Pacers,3,58-53,4,free throw,False,15,False,True
+2007-04-18,24.5833333333,Washington Wizards,Indiana Pacers,3,59-53,5,free throw,False,15,True,True
+2007-04-18,26.55,Washington Wizards,Indiana Pacers,3,62-62,-2,two point shot,False,1,True,True
+2007-04-18,27.1333333333,Washington Wizards,Indiana Pacers,3,64-62,0,tip shot,False,0,True,True
+2007-04-18,30.1333333333,Washington Wizards,Indiana Pacers,3,66-67,-3,two point jumper,False,15,False,True
+2007-04-18,30.5666666667,Washington Wizards,Indiana Pacers,3,66-67,-2,free throw,False,15,False,True
+2007-04-18,30.5666666667,Washington Wizards,Indiana Pacers,3,67-67,-1,free throw,False,15,True,True
+2007-11-10,3.7,Washington Wizards,Milwaukee Bucks,1,10-6,-6,layup,True,0,True,True
+2007-11-10,24.2666666667,Washington Wizards,Milwaukee Bucks,3,51-59,6,two point jumper,True,4,False,True
+2007-11-10,29.1,Washington Wizards,Milwaukee Bucks,3,67-63,-6,two point jumper,True,1,False,True
+2007-11-10,43.1,Washington Wizards,Milwaukee Bucks,4,99-97,-3,free throw,True,15,True,True
+2007-11-10,43.1,Washington Wizards,Milwaukee Bucks,4,99-98,-2,free throw,True,15,True,True
+2007-04-01,4.6,Washington Wizards,Milwaukee Bucks,1,10-14,-6,two point jumper,False,17,False,True
+2007-04-01,11.3166666667,Washington Wizards,Milwaukee Bucks,1,25-35,-12,hook shot,False,6,False,True
+2007-04-01,25.1333333333,Washington Wizards,Milwaukee Bucks,3,59-54,3,two point jumper,False,20,True,True
+2007-04-01,27.75,Washington Wizards,Milwaukee Bucks,3,65-58,5,two point jumper,False,9,False,True
+2007-04-01,27.7666666667,Washington Wizards,Milwaukee Bucks,3,65-58,6,free throw,False,15,False,True
+2007-04-01,27.7666666667,Washington Wizards,Milwaukee Bucks,3,66-58,7,free throw,False,15,True,True
+2007-04-01,29.75,Washington Wizards,Milwaukee Bucks,3,68-66,0,dunk,False,0,True,True
+2007-04-01,30.4833333333,Washington Wizards,Milwaukee Bucks,3,70-68,0,dunk,False,0,True,True
+2007-11-21,5.6,Washington Wizards,Dallas Mavericks,1,13-15,-4,dunk,False,0,True,True
+2007-11-21,5.6,Washington Wizards,Dallas Mavericks,1,14-15,-2,free throw,False,15,True,True
+2007-11-21,17.0666666667,Washington Wizards,Dallas Mavericks,2,37-35,0,dunk,False,0,True,True
+2007-11-21,25.8333333333,Washington Wizards,Dallas Mavericks,3,55-53,0,two point shot,False,6,False,True
+2007-11-21,27.75,Washington Wizards,Dallas Mavericks,3,58-55,1,two point jumper,False,15,False,True
+2007-12-04,4.1,Washington Wizards,Dallas Mavericks,1,9-11,0,two point shot,True,6,True,False
+2007-12-04,4.98333333333,Washington Wizards,Dallas Mavericks,1,12-13,0,free throw,True,15,False,False
+2007-12-04,4.98333333333,Washington Wizards,Dallas Mavericks,1,12-13,0,free throw,True,15,False,False
+2007-12-04,5.23333333333,Washington Wizards,Dallas Mavericks,1,12-15,1,dunk,True,0,True,False
+2007-12-04,9.78333333333,Washington Wizards,Dallas Mavericks,1,21-29,6,layup,True,0,True,False
+2007-12-04,24.3333333333,Washington Wizards,Dallas Mavericks,3,41-61,18,dunk,True,0,True,False
+2007-12-04,29.0666666667,Washington Wizards,Dallas Mavericks,3,45-72,26,free throw,True,15,True,False
+2007-12-04,29.0666666667,Washington Wizards,Dallas Mavericks,3,45-73,27,free throw,True,15,True,False
+2007-11-22,0.883333333333,Washington Wizards,Houston Rockets,1,0-3,-5,two point jumper,False,8,False,False
+2007-11-22,1.61666666667,Washington Wizards,Houston Rockets,1,0-3,-5,layup,False,0,False,False
+2007-11-22,3.25,Washington Wizards,Houston Rockets,1,4-5,-3,two point jumper,False,17,True,False
+2007-11-22,24.4,Washington Wizards,Houston Rockets,3,30-40,-12,two point jumper,False,11,True,False
+2007-11-22,28.7,Washington Wizards,Houston Rockets,3,42-51,-11,layup,False,0,True,False
+2007-11-22,28.7,Washington Wizards,Houston Rockets,3,43-51,-9,free throw,False,15,True,False
+2007-12-09,6.48333333333,Washington Wizards,Houston Rockets,1,12-9,-5,two point jumper,True,7,False,False
+2007-12-09,32.9333333333,Washington Wizards,Houston Rockets,3,73-72,-3,two point shot,True,4,True,False
+2007-12-09,36.5833333333,Washington Wizards,Houston Rockets,4,82-75,-9,layup,True,0,False,False
+2007-12-09,36.6833333333,Washington Wizards,Houston Rockets,4,82-75,-8,free throw,True,15,False,False
+2007-12-09,36.6833333333,Washington Wizards,Houston Rockets,4,82-76,-7,free throw,True,15,True,False
+2007-11-24,14.95,Washington Wizards,Memphis Grizzlies,2,18-28,-12,two point shot,False,5,False,False
+2007-11-24,16.0,Washington Wizards,Memphis Grizzlies,2,18-28,-11,free throw,False,15,False,False
+2007-11-24,16.0,Washington Wizards,Memphis Grizzlies,2,19-28,-10,free throw,False,15,True,False
+2007-11-24,17.6333333333,Washington Wizards,Memphis Grizzlies,2,25-31,-8,dunk,False,0,True,False
+2007-11-24,19.8833333333,Washington Wizards,Memphis Grizzlies,2,27-35,-10,layup,False,0,True,False
+2007-11-24,19.8833333333,Washington Wizards,Memphis Grizzlies,2,28-35,-8,free throw,False,15,True,False
+2007-11-24,23.1333333333,Washington Wizards,Memphis Grizzlies,2,34-39,-7,dunk,False,0,True,False
+2007-11-24,24.55,Washington Wizards,Memphis Grizzlies,3,37-41,-6,two point jumper,False,13,False,False
+2007-11-24,26.7,Washington Wizards,Memphis Grizzlies,3,41-45,-6,two point shot,False,1,True,False
+2007-01-12,19.0666666667,Washington Wizards,New Orleans Pelicans,2,36-39,-5,hook shot,False,1,False,True
+2007-01-12,34.5833333333,Washington Wizards,New Orleans Pelicans,3,69-72,-4,free throw,False,15,True,True
+2007-01-12,34.5833333333,Washington Wizards,New Orleans Pelicans,3,69-72,-4,free throw,False,15,False,True
+2007-01-12,35.5333333333,Washington Wizards,New Orleans Pelicans,3,72-74,-3,free throw,False,15,True,True
+2007-01-12,35.5333333333,Washington Wizards,New Orleans Pelicans,3,73-74,-2,free throw,False,15,True,True
+2007-01-12,36.6333333333,Washington Wizards,New Orleans Pelicans,4,75-76,-3,layup,False,0,True,True
+2007-03-17,16.45,Washington Wizards,New Orleans Pelicans,2,36-48,11,free throw,True,15,False,True
+2007-03-17,16.45,Washington Wizards,New Orleans Pelicans,2,36-49,12,free throw,True,15,True,True
+2007-01-13,11.55,Washington Wizards,San Antonio Spurs,1,15-27,-13,free throw,False,15,True,False
+2007-01-13,11.55,Washington Wizards,San Antonio Spurs,1,15-27,-13,free throw,False,15,False,False
+2007-02-07,8.55,Washington Wizards,San Antonio Spurs,1,25-12,-14,free throw,True,15,True,True
+2007-02-07,8.55,Washington Wizards,San Antonio Spurs,1,25-13,-13,free throw,True,15,True,True
+2007-02-07,10.0,Washington Wizards,San Antonio Spurs,1,29-13,-18,two point jumper,True,1,False,True
+2007-02-07,16.6,Washington Wizards,San Antonio Spurs,2,45-28,-19,dunk,True,0,True,True
+2007-02-07,18.2833333333,Washington Wizards,San Antonio Spurs,2,50-31,-21,two point jumper,True,1,False,True
+2007-02-07,34.2166666667,Washington Wizards,San Antonio Spurs,3,78-66,-14,layup,True,0,True,True
+2007-02-07,37.5666666667,Washington Wizards,San Antonio Spurs,4,89-72,-19,dunk,True,0,True,True
+2007-02-07,43.3833333333,Washington Wizards,San Antonio Spurs,4,101-77,-26,layup,True,0,False,True
+2007-11-28,3.3,Washington Wizards,Atlanta Hawks,1,8-4,-6,layup,True,0,True,True
+2007-11-28,18.4166666667,Washington Wizards,Atlanta Hawks,2,41-44,1,two point shot,True,6,True,True
+2007-11-28,18.85,Washington Wizards,Atlanta Hawks,2,41-46,3,two point shot,True,4,True,True
+2007-11-28,18.85,Washington Wizards,Atlanta Hawks,2,41-46,4,free throw,True,15,False,True
+2007-03-02,34.75,Washington Wizards,Atlanta Hawks,3,65-71,5,free throw,True,15,True,True
+2007-03-02,34.75,Washington Wizards,Atlanta Hawks,3,65-72,6,free throw,True,15,True,True
+2007-03-02,37.05,Washington Wizards,Atlanta Hawks,4,71-76,3,two point shot,True,1,True,True
+2007-04-13,2.88333333333,Washington Wizards,Atlanta Hawks,1,4-4,-2,layup,False,0,True,True
+2007-04-13,8.18333333333,Washington Wizards,Atlanta Hawks,1,16-13,1,dunk,False,0,True,True
+2007-04-13,9.5,Washington Wizards,Atlanta Hawks,1,22-16,5,free throw,False,15,True,True
+2007-04-13,9.5,Washington Wizards,Atlanta Hawks,1,23-16,6,free throw,False,15,True,True
+2007-04-13,22.75,Washington Wizards,Atlanta Hawks,2,45-35,8,two point jumper,False,14,True,True
+2007-04-13,27.1333333333,Washington Wizards,Atlanta Hawks,3,54-40,13,free throw,False,15,False,True
+2007-04-13,27.1333333333,Washington Wizards,Atlanta Hawks,3,54-40,13,free throw,False,15,False,True
+2007-12-01,0.366666666667,Washington Wizards,Charlotte Bobcats,1,0-2,0,layup,True,0,True,True
+2007-12-01,3.45,Washington Wizards,Charlotte Bobcats,1,7-8,-1,layup,True,0,True,True
+2007-12-01,5.56666666667,Washington Wizards,Charlotte Bobcats,1,15-15,-2,two point shot,True,1,True,True
+2007-12-01,7.73333333333,Washington Wizards,Charlotte Bobcats,1,22-23,-1,dunk,True,0,True,True
+2007-12-01,20.9166666667,Washington Wizards,Charlotte Bobcats,2,52-52,-2,layup,True,0,False,True
+2007-12-01,21.2166666667,Washington Wizards,Charlotte Bobcats,2,52-54,0,dunk,True,0,True,True
+2007-12-01,22.1,Washington Wizards,Charlotte Bobcats,2,56-57,-1,layup,True,0,False,True
+2007-12-01,24.0,Washington Wizards,Charlotte Bobcats,2,63-63,-2,layup,True,0,False,True
+2007-04-03,0.883333333333,Washington Wizards,Charlotte Bobcats,1,4-0,2,layup,False,0,True,False
+2007-04-03,2.45,Washington Wizards,Charlotte Bobcats,1,7-6,0,free throw,False,15,True,False
+2007-04-03,2.45,Washington Wizards,Charlotte Bobcats,1,8-6,1,free throw,False,15,True,False
+2007-04-03,4.78333333333,Washington Wizards,Charlotte Bobcats,1,13-15,-4,two point jumper,False,9,False,False
+2007-04-03,7.28333333333,Washington Wizards,Charlotte Bobcats,1,18-25,-9,dunk,False,0,True,False
+2007-04-03,23.2333333333,Washington Wizards,Charlotte Bobcats,2,43-61,-20,layup,False,0,False,False
+2007-04-03,26.0833333333,Washington Wizards,Charlotte Bobcats,3,49-67,-20,hook shot,False,5,True,False
+2007-04-03,27.6166666667,Washington Wizards,Charlotte Bobcats,3,55-74,-21,tip shot,False,0,True,False
+2007-04-03,28.0333333333,Washington Wizards,Charlotte Bobcats,3,56-74,-19,free throw,False,15,True,False
+2007-04-03,28.0333333333,Washington Wizards,Charlotte Bobcats,3,56-74,-19,free throw,False,15,False,False
+2007-04-03,28.7833333333,Washington Wizards,Charlotte Bobcats,3,58-74,-17,free throw,False,15,False,False
+2007-04-03,28.7833333333,Washington Wizards,Charlotte Bobcats,3,58-74,-17,free throw,False,15,False,False
+2007-04-03,43.2833333333,Washington Wizards,Charlotte Bobcats,4,94-109,-17,layup,False,0,True,False
+2007-04-03,45.2333333333,Washington Wizards,Charlotte Bobcats,4,98-116,-20,dunk,False,0,True,False
+2007-04-03,45.8166666667,Washington Wizards,Charlotte Bobcats,4,98-118,-22,hook shot,False,5,False,False
+2007-04-03,46.0,Washington Wizards,Charlotte Bobcats,4,100-118,-20,two point jumper,False,16,True,False
+2007-04-03,47.6333333333,Washington Wizards,Charlotte Bobcats,4,102-122,-22,layup,False,0,False,False
+2007-04-04,0.383333333333,Washington Wizards,Charlotte Bobcats,1,0-2,0,hook shot,True,3,True,False
+2007-04-04,0.383333333333,Washington Wizards,Charlotte Bobcats,1,0-2,1,free throw,True,15,False,False
+2007-04-04,0.933333333333,Washington Wizards,Charlotte Bobcats,1,0-4,2,dunk,True,0,True,False
+2007-04-04,3.83333333333,Washington Wizards,Charlotte Bobcats,1,5-8,1,two point shot,True,4,True,False
+2007-04-04,6.06666666667,Washington Wizards,Charlotte Bobcats,1,11-11,-2,layup,True,0,False,False
+2007-04-04,6.48333333333,Washington Wizards,Charlotte Bobcats,1,11-13,0,dunk,True,0,True,False
+2007-04-04,7.78333333333,Washington Wizards,Charlotte Bobcats,1,13-15,0,two point shot,True,1,True,False
+2007-04-04,7.78333333333,Washington Wizards,Charlotte Bobcats,1,13-16,2,free throw,True,15,True,False
+2007-04-04,9.58333333333,Washington Wizards,Charlotte Bobcats,1,15-21,4,two point jumper,True,14,True,False
+2007-04-04,30.2,Washington Wizards,Charlotte Bobcats,3,29-35,4,hook shot,True,5,True,False
+2007-04-04,30.7,Washington Wizards,Charlotte Bobcats,3,31-37,4,layup,True,0,True,False
+2007-04-04,32.6,Washington Wizards,Charlotte Bobcats,3,39-39,-2,two point jumper,True,3,False,False
+2007-04-04,39.15,Washington Wizards,Charlotte Bobcats,4,53-52,-3,layup,True,0,False,False
+2007-04-04,44.1833333333,Washington Wizards,Charlotte Bobcats,4,67-71,2,dunk,True,0,True,False
+2007-04-04,20.2,Washington Wizards,Charlotte Bobcats,5,101-96,-7,layup,True,0,False,False
+2007-02-28,16.7,Washington Wizards,Miami Heat,2,36-27,-11,hook shot,True,3,True,False
+2007-03-11,16.5,Washington Wizards,Miami Heat,2,26-35,-11,layup,False,0,True,False
+2007-03-11,16.5,Washington Wizards,Miami Heat,2,26-35,-10,free throw,False,15,False,False
+2007-03-11,17.2,Washington Wizards,Miami Heat,2,27-38,-12,free throw,False,15,True,False
+2007-03-11,17.2,Washington Wizards,Miami Heat,2,27-38,-12,free throw,False,15,False,False
+2007-03-11,19.3833333333,Washington Wizards,Miami Heat,2,31-42,-13,hook shot,False,6,True,False
+2007-03-11,20.2,Washington Wizards,Miami Heat,2,34-44,-11,free throw,False,15,True,False
+2007-03-11,20.2,Washington Wizards,Miami Heat,2,35-44,-10,free throw,False,15,True,False
+2007-03-11,36.8666666667,Washington Wizards,Miami Heat,4,83-75,6,layup,False,0,True,False
+2007-04-11,1.45,Washington Wizards,Miami Heat,1,4-5,-3,dunk,False,0,True,False
+2007-04-11,4.66666666667,Washington Wizards,Miami Heat,1,10-14,-6,hook shot,False,8,True,False
+2007-04-11,5.28333333333,Washington Wizards,Miami Heat,1,10-16,-8,two point jumper,False,15,False,False
+2007-04-11,30.6,Washington Wizards,Miami Heat,3,48-51,-5,hook shot,False,8,False,False
+2007-11-06,0.833333333333,Washington Wizards,Orlando Magic,1,4-0,2,two point shot,False,1,True,False
+2007-11-06,1.75,Washington Wizards,Orlando Magic,1,4-5,-3,two point shot,False,8,False,False
+2007-11-06,5.48333333333,Washington Wizards,Orlando Magic,1,14-13,-1,layup,False,0,True,False
+2007-11-06,5.48333333333,Washington Wizards,Orlando Magic,1,15-13,1,free throw,False,15,True,False
+2007-11-06,9.11666666667,Washington Wizards,Orlando Magic,1,19-23,-6,dunk,False,0,True,False
+2007-11-06,27.2666666667,Washington Wizards,Orlando Magic,3,59-62,-5,hook shot,False,5,True,False
+2007-11-06,28.2,Washington Wizards,Orlando Magic,3,61-64,-4,free throw,False,15,False,False
+2007-11-06,28.2,Washington Wizards,Orlando Magic,3,61-64,-4,free throw,False,15,False,False
+2007-11-06,33.4333333333,Washington Wizards,Orlando Magic,3,75-70,3,dunk,False,0,True,False
+2007-11-06,37.6166666667,Washington Wizards,Orlando Magic,4,85-81,2,tip shot,False,0,True,False
+2007-11-06,39.0666666667,Washington Wizards,Orlando Magic,4,85-85,-1,free throw,False,15,False,False
+2007-11-06,39.0666666667,Washington Wizards,Orlando Magic,4,86-85,0,free throw,False,15,True,False
+2007-11-06,46.3833333333,Washington Wizards,Orlando Magic,4,101-105,-5,free throw,False,15,False,False
+2007-11-06,46.3833333333,Washington Wizards,Orlando Magic,4,101-105,-5,free throw,False,15,False,False
+2007-11-06,47.7833333333,Washington Wizards,Orlando Magic,4,103-105,-4,layup,False,0,False,False
+2007-01-19,13.3333333333,Washington Wizards,Orlando Magic,2,26-25,-1,hook shot,False,12,True,False
+2007-01-19,34.05,Washington Wizards,Orlando Magic,3,79-71,6,layup,False,0,True,False
+2007-01-19,40.9833333333,Washington Wizards,Orlando Magic,4,98-83,13,hook shot,False,6,False,False
+2007-01-19,41.35,Washington Wizards,Orlando Magic,4,100-83,15,layup,False,0,True,False
+2007-01-19,41.35,Washington Wizards,Orlando Magic,4,100-83,16,free throw,False,15,False,False
+2007-01-19,45.1166666667,Washington Wizards,Orlando Magic,4,109-87,21,free throw,False,15,True,False
+2007-01-19,45.1166666667,Washington Wizards,Orlando Magic,4,110-87,22,free throw,False,15,True,False
+2007-01-19,45.65,Washington Wizards,Orlando Magic,4,112-89,21,layup,False,0,True,False
+2007-04-17,0.5,Washington Wizards,Orlando Magic,1,2-2,-2,hook shot,True,1,True,False
+2007-04-17,1.71666666667,Washington Wizards,Orlando Magic,1,4-2,-4,two point jumper,True,1,False,False
+2007-04-17,2.18333333333,Washington Wizards,Orlando Magic,1,6-4,-4,two point shot,True,1,True,False
+2007-04-17,2.88333333333,Washington Wizards,Orlando Magic,1,8-4,-6,layup,True,0,False,False
+2007-04-17,3.45,Washington Wizards,Orlando Magic,1,11-4,-8,free throw,True,15,False,False
+2007-04-17,3.45,Washington Wizards,Orlando Magic,1,11-4,-8,free throw,True,15,False,False
+2007-04-17,28.7833333333,Washington Wizards,Orlando Magic,3,62-58,-5,free throw,True,15,True,False
+2007-04-17,28.7833333333,Washington Wizards,Orlando Magic,3,62-58,-5,free throw,True,15,False,False
+2007-01-15,12.9666666667,Washington Wizards,Utah Jazz,2,33-27,-8,two point jumper,True,5,False,True
+2007-01-15,13.8166666667,Washington Wizards,Utah Jazz,2,37-31,-8,dunk,True,0,True,True
+2007-01-15,37.7666666667,Washington Wizards,Utah Jazz,4,81-87,4,layup,True,0,True,True
+2007-01-15,37.7666666667,Washington Wizards,Utah Jazz,4,81-88,6,free throw,True,15,True,True
+2007-01-15,42.9833333333,Washington Wizards,Utah Jazz,4,98-94,-5,free throw,True,15,True,True
+2007-01-15,42.9833333333,Washington Wizards,Utah Jazz,4,98-94,-5,free throw,True,15,False,True
+2007-02-05,12.8666666667,Washington Wizards,Oklahoma City Thunder,2,31-31,-2,two point jumper,True,6,False,True
+2007-02-05,14.15,Washington Wizards,Oklahoma City Thunder,2,36-36,-2,dunk,True,0,True,True
+2007-02-20,12.9333333333,Washington Wizards,Minnesota Timberwolves,2,20-33,11,two point jumper,True,13,True,True
+2007-02-20,34.0,Washington Wizards,Minnesota Timberwolves,3,68-77,7,layup,True,0,True,True
+2007-02-20,39.2,Washington Wizards,Minnesota Timberwolves,4,77-88,10,free throw,True,15,False,True
+2007-02-20,39.2,Washington Wizards,Minnesota Timberwolves,4,77-89,11,free throw,True,15,True,True
+2007-02-20,41.0333333333,Washington Wizards,Minnesota Timberwolves,4,82-93,10,free throw,True,15,True,True
+2007-02-20,41.0333333333,Washington Wizards,Minnesota Timberwolves,4,82-93,10,free throw,True,15,False,True
+2007-02-20,41.4833333333,Washington Wizards,Minnesota Timberwolves,4,82-95,11,layup,True,0,True,True
+2007-02-25,11.2833333333,Washington Wizards,Minnesota Timberwolves,1,21-23,-4,layup,False,0,False,False
+2007-02-25,34.1833333333,Washington Wizards,Minnesota Timberwolves,3,63-73,-11,free throw,False,15,True,False
+2007-02-25,34.1833333333,Washington Wizards,Minnesota Timberwolves,3,63-73,-11,free throw,False,15,False,False
+2007-02-25,36.5,Washington Wizards,Minnesota Timberwolves,4,68-77,-11,layup,False,0,True,False
+2007-03-20,11.0,Washington Wizards,Portland Trail Blazers,1,20-15,3,layup,False,0,True,True
+2007-03-20,16.0333333333,Washington Wizards,Portland Trail Blazers,2,35-33,0,hook shot,False,6,True,True
+2007-03-20,16.95,Washington Wizards,Portland Trail Blazers,2,37-33,2,two point jumper,False,18,True,True
+2007-03-20,31.5333333333,Washington Wizards,Portland Trail Blazers,3,59-57,0,layup,False,0,False,True
+2007-03-20,33.2333333333,Washington Wizards,Portland Trail Blazers,3,64-63,-1,layup,False,0,True,True
+2007-03-20,35.3666666667,Washington Wizards,Portland Trail Blazers,3,68-65,1,two point shot,False,4,False,True
+2007-03-26,7.73333333333,Washington Wizards,Utah Jazz,1,14-9,3,two point jumper,False,1,True,True
+2007-03-26,7.73333333333,Washington Wizards,Utah Jazz,1,15-9,5,free throw,False,15,True,True
+2007-03-26,10.9166666667,Washington Wizards,Utah Jazz,1,17-11,5,free throw,False,15,False,True
+2007-03-26,10.9166666667,Washington Wizards,Utah Jazz,1,18-11,6,free throw,False,15,True,True
+2007-03-26,36.4666666667,Washington Wizards,Utah Jazz,4,73-70,1,dunk,False,0,True,True
+2009-12-11,21.2833333333,Washington Wizards,Boston Celtics,2,53-30,-24,free throw,True,15,False,True
+2009-12-11,21.2833333333,Washington Wizards,Boston Celtics,2,53-31,-23,free throw,True,15,True,True
+2009-01-02,26.3833333333,Washington Wizards,Boston Celtics,3,36-63,-29,two point shot,False,6,True,True
+2009-01-02,44.2166666667,Washington Wizards,Boston Celtics,4,75-99,-26,two point jumper,False,4,True,True
+2009-10-29,3.55,Washington Wizards,Brooklyn Nets,1,6-8,1,free throw,True,15,True,False
+2009-10-29,3.55,Washington Wizards,Brooklyn Nets,1,6-9,2,free throw,True,15,True,False
+2009-10-29,4.28333333333,Washington Wizards,Brooklyn Nets,1,6-11,3,two point shot,True,1,True,False
+2009-10-29,23.5,Washington Wizards,Brooklyn Nets,2,44-46,0,two point shot,True,2,True,False
+2009-10-29,25.0166666667,Washington Wizards,Brooklyn Nets,3,46-47,0,free throw,True,15,True,False
+2009-10-29,25.0166666667,Washington Wizards,Brooklyn Nets,3,46-47,0,free throw,True,15,False,False
+2009-10-29,26.0,Washington Wizards,Brooklyn Nets,3,48-50,1,free throw,True,15,True,False
+2009-10-29,26.0,Washington Wizards,Brooklyn Nets,3,48-50,1,free throw,True,15,False,False
+2009-10-29,29.85,Washington Wizards,Brooklyn Nets,3,58-56,-4,two point shot,True,6,True,False
+2009-11-07,0.716666666667,Washington Wizards,New York Knicks,1,3-0,-5,layup,True,0,False,False
+2009-11-07,2.33333333333,Washington Wizards,New York Knicks,1,11-4,-9,two point jumper,True,7,False,False
+2009-11-07,6.16666666667,Washington Wizards,New York Knicks,1,17-16,-3,dunk,True,0,True,False
+2009-11-07,7.81666666667,Washington Wizards,New York Knicks,1,23-19,-6,layup,True,0,True,False
+2009-11-07,26.6833333333,Washington Wizards,New York Knicks,3,69-63,-8,two point jumper,True,1,True,False
+2009-11-07,28.2,Washington Wizards,New York Knicks,3,74-63,-13,two point jumper,True,9,False,False
+2009-11-22,4.85,Washington Wizards,New York Knicks,1,10-10,-2,layup,False,0,False,False
+2009-11-22,6.16666666667,Washington Wizards,New York Knicks,1,10-15,-7,layup,False,0,False,False
+2009-11-22,12.8,Washington Wizards,New York Knicks,2,31-35,-6,layup,False,0,True,False
+2009-11-22,14.2,Washington Wizards,New York Knicks,2,35-38,-5,dunk,False,0,True,False
+2009-12-05,14.4,Washington Wizards,Los Angeles Lakers,2,35-31,-6,layup,True,0,True,False
+2009-12-05,22.0166666667,Washington Wizards,Los Angeles Lakers,2,54-50,-5,free throw,True,15,True,False
+2009-12-05,22.0166666667,Washington Wizards,Los Angeles Lakers,2,54-51,-4,free throw,True,15,True,False
+2009-12-05,36.6333333333,Washington Wizards,Los Angeles Lakers,4,90-73,-18,free throw,True,15,True,False
+2009-12-05,36.6333333333,Washington Wizards,Los Angeles Lakers,4,90-74,-17,free throw,True,15,True,False
+2009-12-05,37.75,Washington Wizards,Los Angeles Lakers,4,92-76,-18,two point jumper,True,4,False,False
+2009-12-06,20.7666666667,Washington Wizards,Chicago Bulls,2,43-47,-6,dunk,False,0,True,False
+2009-01-09,17.0333333333,Washington Wizards,Chicago Bulls,2,24-39,-17,hook shot,False,12,False,False
+2009-01-04,17.0333333333,Washington Wizards,Cleveland Cavaliers,2,30-36,4,two point jumper,True,4,False,True
+2009-01-04,21.1833333333,Washington Wizards,Cleveland Cavaliers,2,38-45,5,two point shot,True,1,True,True
+2009-01-04,38.65,Washington Wizards,Cleveland Cavaliers,4,58-70,10,two point jumper,True,1,False,True
+2009-11-01,2.76666666667,Washington Wizards,Detroit Pistons,1,4-6,-3,free throw,False,15,True,False
+2009-11-01,2.76666666667,Washington Wizards,Detroit Pistons,1,4-6,-3,free throw,False,15,False,False
+2009-11-01,15.0833333333,Washington Wizards,Detroit Pistons,2,28-39,-13,layup,False,0,False,False
+2009-11-01,28.9833333333,Washington Wizards,Detroit Pistons,3,60-64,-6,dunk,False,0,True,False
+2009-11-01,30.0666666667,Washington Wizards,Detroit Pistons,3,62-66,-6,dunk,False,0,True,False
+2009-01-12,9.03333333333,Washington Wizards,Milwaukee Bucks,1,17-13,-6,two point jumper,True,3,False,False
+2009-01-12,10.3833333333,Washington Wizards,Milwaukee Bucks,1,19-15,-6,two point jumper,True,5,False,False
+2009-11-21,37.95,Washington Wizards,Houston Rockets,4,74-81,5,dunk,True,0,True,True
+2009-11-21,40.0666666667,Washington Wizards,Houston Rockets,4,79-85,4,two point jumper,True,12,False,True
+2009-12-29,18.3833333333,Washington Wizards,Houston Rockets,2,36-27,7,dunk,False,0,True,True
+2009-12-29,18.9833333333,Washington Wizards,Houston Rockets,2,36-27,7,two point jumper,False,15,False,True
+2009-12-30,20.5666666667,Washington Wizards,New Orleans Pelicans,2,32-38,-8,layup,False,0,True,False
+2009-12-30,20.5666666667,Washington Wizards,New Orleans Pelicans,2,33-38,-6,free throw,False,15,True,False
+2009-12-30,36.65,Washington Wizards,New Orleans Pelicans,4,65-70,-7,dunk,False,0,True,False
+2009-12-30,40.2833333333,Washington Wizards,New Orleans Pelicans,4,71-78,-9,two point shot,False,1,True,False
+2009-11-19,10.0833333333,Washington Wizards,Atlanta Hawks,1,25-24,0,free throw,False,15,True,False
+2009-11-19,10.0833333333,Washington Wizards,Atlanta Hawks,1,26-24,1,free throw,False,15,True,False
+2009-11-19,10.9833333333,Washington Wizards,Atlanta Hawks,1,26-26,-2,two point jumper,False,7,False,False
+2009-11-14,0.266666666667,Washington Wizards,Miami Heat,1,0-0,-2,hook shot,False,10,False,False
+2009-11-14,2.06666666667,Washington Wizards,Miami Heat,1,4-8,-6,layup,False,0,True,False
+2009-11-14,3.31666666667,Washington Wizards,Miami Heat,1,7-12,-7,hook shot,False,10,False,False
+2009-11-14,8.45,Washington Wizards,Miami Heat,1,14-22,-10,hook shot,False,5,True,False
+2009-11-18,0.333333333333,Washington Wizards,Miami Heat,1,0-2,0,layup,True,0,True,False
+2009-11-18,1.38333333333,Washington Wizards,Miami Heat,1,2-2,-2,layup,True,0,False,False
+2009-11-18,25.6166666667,Washington Wizards,Miami Heat,3,47-41,-8,layup,True,0,False,False
+2009-11-08,9.0,Washington Wizards,Orlando Magic,1,17-21,-6,two point jumper,False,14,True,True
+2009-11-08,25.5166666667,Washington Wizards,Orlando Magic,3,41-60,-21,two point shot,False,9,True,True
+2009-11-08,26.0166666667,Washington Wizards,Orlando Magic,3,41-60,-21,two point jumper,False,14,False,True
+2009-11-27,5.45,Washington Wizards,Orlando Magic,1,16-11,-6,free throw,True,15,False,True
+2009-11-27,5.45,Washington Wizards,Orlando Magic,1,16-11,-6,free throw,True,15,False,True
+2009-11-27,6.06666666667,Washington Wizards,Orlando Magic,1,18-11,-9,layup,True,0,False,True
+2009-11-27,8.18333333333,Washington Wizards,Orlando Magic,1,22-11,-13,layup,True,0,False,True
+2009-11-27,9.48333333333,Washington Wizards,Orlando Magic,1,28-14,-15,free throw,True,15,True,True
+2009-11-27,9.48333333333,Washington Wizards,Orlando Magic,1,28-15,-14,free throw,True,15,True,True
+2009-11-27,22.0,Washington Wizards,Orlando Magic,2,52-42,-12,hook shot,True,4,True,True
+2009-11-27,23.1833333333,Washington Wizards,Orlando Magic,2,55-44,-13,dunk,True,0,True,True
+2009-01-06,7.1,Washington Wizards,Orlando Magic,1,18-19,-3,dunk,False,0,True,False
+2009-01-06,11.5166666667,Washington Wizards,Orlando Magic,1,24-30,-8,hook shot,False,6,True,False
+2009-01-06,13.7,Washington Wizards,Orlando Magic,2,26-32,-8,hook shot,False,5,False,False
+2009-11-12,24.25,Washington Wizards,Utah Jazz,3,41-46,4,free throw,True,15,False,True
+2009-11-12,24.25,Washington Wizards,Utah Jazz,3,41-47,5,free throw,True,15,True,True
+2009-12-03,12.2,Washington Wizards,Portland Trail Blazers,2,19-28,7,two point shot,True,5,True,False
+2009-12-03,13.8333333333,Washington Wizards,Portland Trail Blazers,2,24-28,2,layup,True,0,False,False
+2009-12-27,17.2833333333,Washington Wizards,Oklahoma City Thunder,2,41-40,-3,two point jumper,True,1,False,False
+2009-12-27,18.5666666667,Washington Wizards,Oklahoma City Thunder,2,43-44,-1,layup,True,0,True,False
+2009-12-27,19.7833333333,Washington Wizards,Oklahoma City Thunder,2,46-46,-2,two point jumper,True,4,False,False
+2009-12-27,39.2,Washington Wizards,Oklahoma City Thunder,4,78-86,6,dunk,True,0,True,False
+2009-12-27,40.0333333333,Washington Wizards,Oklahoma City Thunder,4,78-86,6,layup,True,0,False,False
+2009-12-27,40.9833333333,Washington Wizards,Oklahoma City Thunder,4,80-88,6,two point jumper,True,9,False,False
+2010-12-04,33.0666666667,Oklahoma City Thunder,Boston Celtics,3,81-60,-22,free throw,True,15,False,True
+2010-12-04,33.0666666667,Oklahoma City Thunder,Boston Celtics,3,81-61,-21,free throw,True,15,True,True
+2010-12-04,34.5,Oklahoma City Thunder,Boston Celtics,3,85-63,-24,layup,True,0,True,True
+2010-03-19,43.25,Oklahoma City Thunder,Toronto Raptors,4,107-80,25,two point shot,False,14,False,False
+2010-03-19,43.9833333333,Oklahoma City Thunder,Toronto Raptors,4,108-83,24,free throw,False,15,True,False
+2010-03-19,43.9833333333,Oklahoma City Thunder,Toronto Raptors,4,109-83,25,free throw,False,15,True,False
+2010-03-19,46.1166666667,Oklahoma City Thunder,Toronto Raptors,4,113-87,24,two point jumper,False,11,False,False
+2010-11-15,7.95,Oklahoma City Thunder,Los Angeles Clippers,1,15-12,-5,two point shot,True,1,True,True
+2010-11-15,11.65,Oklahoma City Thunder,Los Angeles Clippers,1,25-23,-4,layup,True,0,False,True
+2010-11-15,15.45,Oklahoma City Thunder,Los Angeles Clippers,2,36-30,-7,free throw,True,15,True,True
+2010-11-15,15.45,Oklahoma City Thunder,Los Angeles Clippers,2,36-30,-7,free throw,True,15,False,True
+2010-11-15,38.5,Oklahoma City Thunder,Los Angeles Clippers,4,79-79,-2,two point jumper,True,9,False,True
+2010-11-03,8.85,Oklahoma City Thunder,Los Angeles Lakers,1,28-15,-15,two point jumper,True,14,False,True
+2010-11-03,13.45,Oklahoma City Thunder,Los Angeles Lakers,2,34-29,-7,hook shot,True,5,False,True
+2010-11-03,15.2,Oklahoma City Thunder,Los Angeles Lakers,2,36-33,-5,layup,True,0,True,True
+2010-11-03,16.45,Oklahoma City Thunder,Los Angeles Lakers,2,38-33,-7,hook shot,True,6,False,True
+2010-11-03,16.75,Oklahoma City Thunder,Los Angeles Lakers,2,38-35,-5,dunk,True,0,True,True
+2010-11-03,39.5833333333,Oklahoma City Thunder,Los Angeles Lakers,4,77-81,2,hook shot,True,1,True,True
+2010-11-03,18.3833333333,Oklahoma City Thunder,Los Angeles Lakers,5,94-92,-3,free throw,True,15,False,True
+2010-11-03,18.3833333333,Oklahoma City Thunder,Los Angeles Lakers,5,94-93,-2,free throw,True,15,True,True
+2010-11-03,18.9833333333,Oklahoma City Thunder,Los Angeles Lakers,5,97-95,-4,layup,True,0,True,True
+2010-11-22,10.2833333333,Oklahoma City Thunder,Los Angeles Lakers,1,12-29,-19,two point jumper,False,4,True,True
+2010-11-22,10.9666666667,Oklahoma City Thunder,Los Angeles Lakers,1,12-31,-21,hook shot,False,5,False,True
+2010-11-22,13.45,Oklahoma City Thunder,Los Angeles Lakers,2,16-37,-22,free throw,False,15,False,True
+2010-11-22,13.45,Oklahoma City Thunder,Los Angeles Lakers,2,17-37,-21,free throw,False,15,True,True
+2010-03-26,46.6166666667,Oklahoma City Thunder,Los Angeles Lakers,4,70-91,19,hook shot,True,7,False,True
+2010-03-26,47.2,Oklahoma City Thunder,Los Angeles Lakers,4,72-91,17,two point jumper,True,14,False,True
+2010-10-28,10.4,Oklahoma City Thunder,Sacramento Kings,1,18-35,15,dunk,True,0,False,False
+2010-10-28,16.7833333333,Oklahoma City Thunder,Sacramento Kings,2,31-51,18,two point shot,True,1,True,False
+2010-11-10,9.06666666667,Oklahoma City Thunder,Sacramento Kings,1,19-17,0,two point shot,False,7,True,True
+2010-11-10,13.4,Oklahoma City Thunder,Sacramento Kings,2,28-26,0,two point shot,False,9,False,True
+2010-10-30,10.8833333333,Oklahoma City Thunder,Detroit Pistons,1,12-20,-10,layup,False,0,False,True
+2010-10-30,14.6833333333,Oklahoma City Thunder,Detroit Pistons,2,27-30,-5,layup,False,0,True,True
+2010-10-30,16.0666666667,Oklahoma City Thunder,Detroit Pistons,2,31-30,-1,layup,False,0,True,True
+2010-10-30,16.8166666667,Oklahoma City Thunder,Detroit Pistons,2,31-32,-3,hook shot,False,7,False,True
+2010-10-30,35.4,Oklahoma City Thunder,Detroit Pistons,3,60-61,-3,hook shot,False,6,True,True
+2010-10-30,35.4,Oklahoma City Thunder,Detroit Pistons,3,60-61,-2,free throw,False,15,False,True
+2010-11-06,14.3666666667,Oklahoma City Thunder,Houston Rockets,2,27-30,-5,dunk,False,0,True,True
+2010-11-06,18.9166666667,Oklahoma City Thunder,Houston Rockets,2,33-41,-10,layup,False,0,False,True
+2010-11-06,19.7833333333,Oklahoma City Thunder,Houston Rockets,2,35-43,-10,two point shot,False,6,True,True
+2010-11-29,0.316666666667,Oklahoma City Thunder,Houston Rockets,1,0-2,0,dunk,True,0,True,True
+2010-11-29,1.36666666667,Oklahoma City Thunder,Houston Rockets,1,2-4,0,two point jumper,True,11,False,True
+2010-11-29,3.13333333333,Oklahoma City Thunder,Houston Rockets,1,7-10,1,layup,True,0,True,True
+2010-11-29,17.9833333333,Oklahoma City Thunder,Houston Rockets,2,33-37,2,two point jumper,True,16,True,True
+2010-03-24,43.35,Oklahoma City Thunder,Houston Rockets,4,94-115,19,hook shot,True,9,False,True
+2010-03-24,43.7833333333,Oklahoma City Thunder,Houston Rockets,4,94-117,21,hook shot,True,1,True,True
+2010-03-24,46.3333333333,Oklahoma City Thunder,Houston Rockets,4,100-121,20,free throw,True,15,False,True
+2010-03-24,46.3333333333,Oklahoma City Thunder,Houston Rockets,4,100-122,21,free throw,True,15,True,True
+2010-04-14,13.1333333333,Oklahoma City Thunder,Memphis Grizzlies,2,26-40,12,layup,True,0,False,True
+2010-04-14,18.2,Oklahoma City Thunder,Memphis Grizzlies,2,32-51,17,hook shot,True,5,True,True
+2010-11-14,10.85,Oklahoma City Thunder,San Antonio Spurs,1,23-22,-1,two point jumper,False,12,True,False
+2010-11-17,9.9,Oklahoma City Thunder,Miami Heat,1,17-16,-1,two point shot,False,7,False,False
+2010-11-17,11.7,Oklahoma City Thunder,Miami Heat,1,21-16,3,hook shot,False,8,True,False
+2010-11-17,13.9,Oklahoma City Thunder,Miami Heat,2,28-17,9,dunk,False,0,True,False
+2010-11-08,8.48333333333,Oklahoma City Thunder,Orlando Magic,1,16-19,1,dunk,True,0,True,False
+2010-11-08,10.4833333333,Oklahoma City Thunder,Orlando Magic,1,20-21,-1,two point jumper,True,15,False,False
+2010-11-08,11.1166666667,Oklahoma City Thunder,Orlando Magic,1,20-23,1,layup,True,0,True,False
+2010-11-08,12.8166666667,Oklahoma City Thunder,Orlando Magic,2,28-25,-4,free throw,True,15,True,False
+2010-11-08,12.8166666667,Oklahoma City Thunder,Orlando Magic,2,28-25,-4,free throw,True,15,False,False
+2010-11-08,34.6166666667,Oklahoma City Thunder,Orlando Magic,3,55-77,20,two point jumper,True,14,False,False
+2010-11-08,39.6333333333,Oklahoma City Thunder,Orlando Magic,4,59-85,24,layup,True,0,True,False
+2010-11-08,39.6333333333,Oklahoma City Thunder,Orlando Magic,4,59-86,26,free throw,True,15,True,False
+2010-11-18,8.51666666667,Oklahoma City Thunder,Orlando Magic,1,11-21,-11,free throw,False,15,True,True
+2010-11-18,8.51666666667,Oklahoma City Thunder,Orlando Magic,1,11-21,-11,free throw,False,15,False,True
+2010-11-18,11.1333333333,Oklahoma City Thunder,Orlando Magic,1,15-26,-13,two point jumper,False,14,False,True
+2010-11-18,14.0833333333,Oklahoma City Thunder,Orlando Magic,2,21-35,-16,hook shot,False,1,True,True
+2010-11-18,14.0833333333,Oklahoma City Thunder,Orlando Magic,2,22-35,-14,free throw,False,15,True,True
+2010-03-03,34.5166666667,Oklahoma City Thunder,Denver Nuggets,3,64-89,-27,layup,False,0,True,True
+2010-03-03,34.5166666667,Oklahoma City Thunder,Denver Nuggets,3,64-89,-26,free throw,False,15,False,True
+2010-03-03,42.8166666667,Oklahoma City Thunder,Denver Nuggets,4,76-113,-39,two point shot,False,11,False,True
+2010-03-03,44.95,Oklahoma City Thunder,Denver Nuggets,4,78-119,-43,two point shot,False,7,False,True
+2010-03-03,46.1833333333,Oklahoma City Thunder,Denver Nuggets,4,83-119,-37,free throw,False,15,True,True
+2010-03-03,46.1833333333,Oklahoma City Thunder,Denver Nuggets,4,84-119,-36,free throw,False,15,True,True
+2010-03-03,47.85,Oklahoma City Thunder,Denver Nuggets,4,88-119,-33,two point shot,False,9,False,True
+2010-11-01,7.41666666667,Oklahoma City Thunder,Portland Trail Blazers,1,15-8,-9,two point shot,True,1,True,False
+2010-11-01,9.7,Oklahoma City Thunder,Portland Trail Blazers,1,21-11,-12,two point jumper,True,14,False,False
+2010-11-01,14.3833333333,Oklahoma City Thunder,Portland Trail Blazers,2,26-23,-5,tip shot,True,0,True,False
+2010-11-01,43.1333333333,Oklahoma City Thunder,Portland Trail Blazers,4,66-62,-6,layup,True,0,False,False
+2010-11-24,13.2166666667,Oklahoma City Thunder,Utah Jazz,2,27-28,-3,layup,False,0,True,False
+2010-11-24,15.0,Oklahoma City Thunder,Utah Jazz,2,32-30,0,layup,False,0,True,False
+2011-12-07,22.25,Atlanta Hawks,Brooklyn Nets,2,44-52,6,two point jumper,True,12,True,True
+2011-12-07,22.25,Atlanta Hawks,Brooklyn Nets,2,44-53,8,free throw,True,15,True,True
+2011-04-08,12.3833333333,Atlanta Hawks,Indiana Pacers,2,28-33,-7,two point shot,False,1,True,False
+2011-04-08,46.1166666667,Atlanta Hawks,Indiana Pacers,4,96-110,-15,free throw,False,15,True,False
+2011-04-08,46.1166666667,Atlanta Hawks,Indiana Pacers,4,97-110,-14,free throw,False,15,True,False
+2011-04-08,47.85,Atlanta Hawks,Indiana Pacers,4,102-114,-13,free throw,False,15,True,False
+2011-04-08,47.85,Atlanta Hawks,Indiana Pacers,4,102-114,-13,free throw,False,15,False,False
+2011-01-21,39.25,Atlanta Hawks,New Orleans Pelicans,4,76-45,-33,layup,True,0,False,True
+2011-01-21,42.75,Atlanta Hawks,New Orleans Pelicans,4,86-47,-41,two point shot,True,7,False,True
+2011-01-21,44.7666666667,Atlanta Hawks,New Orleans Pelicans,4,90-51,-41,dunk,True,0,True,True
+2011-01-21,46.6833333333,Atlanta Hawks,New Orleans Pelicans,4,97-56,-43,hook shot,True,5,True,True
+2011-04-05,38.7166666667,Atlanta Hawks,San Antonio Spurs,4,73-71,-3,free throw,True,15,True,False
+2011-04-05,38.7166666667,Atlanta Hawks,San Antonio Spurs,4,73-72,-2,free throw,True,15,True,False
+2011-11-08,20.75,Atlanta Hawks,Orlando Magic,2,36-43,-9,layup,False,0,False,False
+2011-11-08,20.8166666667,Atlanta Hawks,Orlando Magic,2,36-43,-9,two point jumper,False,5,False,False
+2011-11-08,23.9833333333,Atlanta Hawks,Orlando Magic,2,47-51,-6,layup,False,0,True,False
+2011-12-06,23.9666666667,Atlanta Hawks,Orlando Magic,2,35-34,0,free throw,False,15,False,True
+2011-12-06,23.9666666667,Atlanta Hawks,Orlando Magic,2,36-34,1,free throw,False,15,True,True
+2011-12-20,21.15,Atlanta Hawks,Orlando Magic,2,29-37,7,free throw,True,15,True,True
+2011-12-20,21.15,Atlanta Hawks,Orlando Magic,2,29-38,8,free throw,True,15,True,True
+2011-03-04,34.35,Atlanta Hawks,Oklahoma City Thunder,3,79-69,-12,dunk,True,0,True,False
+2011-03-04,36.25,Atlanta Hawks,Oklahoma City Thunder,4,83-75,-10,two point jumper,True,1,True,False
+2011-03-04,36.9333333333,Atlanta Hawks,Oklahoma City Thunder,4,83-76,-8,free throw,True,15,True,False
+2011-03-04,36.9333333333,Atlanta Hawks,Oklahoma City Thunder,4,83-76,-8,free throw,True,15,False,False
+2011-03-04,37.3833333333,Atlanta Hawks,Oklahoma City Thunder,4,83-76,-9,two point jumper,True,18,False,False
+2011-03-04,38.0666666667,Atlanta Hawks,Oklahoma City Thunder,4,85-76,-11,layup,True,0,False,False
+2011-04-13,17.1333333333,Atlanta Hawks,Charlotte Bobcats,2,31-45,-15,free throw,False,15,True,False
+2011-04-13,17.1333333333,Atlanta Hawks,Charlotte Bobcats,2,32-45,-14,free throw,False,15,True,False
+2011-04-13,20.0166666667,Atlanta Hawks,Charlotte Bobcats,2,37-49,-14,dunk,False,0,True,False
+2011-04-13,22.6666666667,Atlanta Hawks,Charlotte Bobcats,2,41-57,-18,layup,False,0,True,False
+2011-04-13,40.1,Atlanta Hawks,Charlotte Bobcats,4,74-78,-6,two point shot,False,8,True,False
+2011-04-13,41.4833333333,Atlanta Hawks,Charlotte Bobcats,4,74-80,-8,hook shot,False,5,False,False
+2011-04-13,43.7333333333,Atlanta Hawks,Charlotte Bobcats,4,76-87,-13,two point shot,False,5,False,False

@@ -1,0 +1,616 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2006-01-18,9.81666666667,Minnesota Timberwolves,Boston Celtics,1,18-20,-4,two point jumper,False,23,False,True
+2006-01-18,10.4833333333,Minnesota Timberwolves,Boston Celtics,1,24-20,1,three point jumper,False,25,True,True
+2006-01-18,14.8333333333,Minnesota Timberwolves,Boston Celtics,2,38-26,9,three point jumper,False,26,False,True
+2006-01-18,17.2,Minnesota Timberwolves,Boston Celtics,2,40-32,6,two point jumper,False,23,False,True
+2006-01-18,17.8833333333,Minnesota Timberwolves,Boston Celtics,2,44-34,7,three point jumper,False,25,True,True
+2006-01-18,21.9166666667,Minnesota Timberwolves,Boston Celtics,2,51-42,6,three point jumper,False,26,False,True
+2006-01-18,33.6666666667,Minnesota Timberwolves,Boston Celtics,3,71-64,5,two point jumper,False,20,True,True
+2006-01-18,38.45,Minnesota Timberwolves,Boston Celtics,4,75-77,-4,two point jumper,False,20,False,True
+2006-01-18,42.0333333333,Minnesota Timberwolves,Boston Celtics,4,82-79,0,three point jumper,False,25,True,True
+2006-01-18,44.3166666667,Minnesota Timberwolves,Boston Celtics,4,84-85,-3,two point jumper,False,22,True,True
+2006-01-18,45.0,Minnesota Timberwolves,Boston Celtics,4,84-87,-5,two point jumper,False,15,False,True
+2006-01-30,10.65,Minnesota Timberwolves,Boston Celtics,1,24-28,1,three point jumper,True,27,True,False
+2006-01-30,11.1166666667,Minnesota Timberwolves,Boston Celtics,1,26-28,-1,three point jumper,True,23,False,False
+2006-01-16,12.0,Minnesota Timberwolves,New York Knicks,1,25-23,-1,three point jumper,False,33,False,True
+2006-01-16,13.2,Minnesota Timberwolves,New York Knicks,2,25-23,1,free throw,False,15,False,True
+2006-01-16,13.2,Minnesota Timberwolves,New York Knicks,2,26-23,2,free throw,False,15,True,True
+2006-01-16,13.7666666667,Minnesota Timberwolves,New York Knicks,2,28-23,3,two point jumper,False,15,True,True
+2006-01-16,16.5,Minnesota Timberwolves,New York Knicks,2,34-32,0,two point shot,False,1,True,True
+2006-01-16,16.5,Minnesota Timberwolves,New York Knicks,2,35-32,2,free throw,False,15,True,True
+2006-01-16,17.6,Minnesota Timberwolves,New York Knicks,2,38-36,-1,three point jumper,False,25,False,True
+2006-01-16,35.0833333333,Minnesota Timberwolves,New York Knicks,3,74-62,9,three point jumper,False,26,False,True
+2006-01-16,38.6833333333,Minnesota Timberwolves,New York Knicks,4,76-69,5,two point jumper,False,19,True,True
+2006-01-16,39.0833333333,Minnesota Timberwolves,New York Knicks,4,76-69,5,two point jumper,False,21,False,True
+2006-01-16,41.2166666667,Minnesota Timberwolves,New York Knicks,4,83-73,7,three point jumper,False,25,True,True
+2006-01-16,42.4833333333,Minnesota Timberwolves,New York Knicks,4,86-75,9,two point jumper,False,17,False,True
+2006-01-16,44.0,Minnesota Timberwolves,New York Knicks,4,88-82,4,two point jumper,False,22,True,True
+2006-01-16,44.5666666667,Minnesota Timberwolves,New York Knicks,4,88-82,3,three point jumper,False,25,False,True
+2006-01-16,46.05,Minnesota Timberwolves,New York Knicks,4,92-86,4,two point jumper,False,17,False,True
+2006-01-16,47.8833333333,Minnesota Timberwolves,New York Knicks,4,95-90,2,three point jumper,False,29,True,True
+2006-11-05,16.9833333333,Minnesota Timberwolves,Los Angeles Clippers,2,28-35,-10,three point jumper,False,23,False,True
+2006-11-05,19.35,Minnesota Timberwolves,Los Angeles Clippers,2,35-41,-8,two point shot,False,7,True,True
+2006-11-05,19.35,Minnesota Timberwolves,Los Angeles Clippers,2,36-41,-6,free throw,False,15,True,True
+2006-11-05,23.9833333333,Minnesota Timberwolves,Los Angeles Clippers,2,44-49,-8,three point jumper,False,24,True,True
+2006-11-05,24.0,Minnesota Timberwolves,Los Angeles Clippers,2,44-49,-8,three point jumper,False,25,False,True
+2006-11-05,35.0666666667,Minnesota Timberwolves,Los Angeles Clippers,3,67-74,-9,two point shot,False,6,True,True
+2006-11-05,36.7166666667,Minnesota Timberwolves,Los Angeles Clippers,4,69-76,-9,two point jumper,False,22,True,True
+2006-11-05,38.15,Minnesota Timberwolves,Los Angeles Clippers,4,72-76,-7,three point jumper,False,25,True,True
+2006-11-05,39.8833333333,Minnesota Timberwolves,Los Angeles Clippers,4,74-78,-6,two point shot,False,1,True,True
+2006-11-05,40.5333333333,Minnesota Timberwolves,Los Angeles Clippers,4,74-78,-5,free throw,False,15,False,True
+2006-11-05,40.5333333333,Minnesota Timberwolves,Los Angeles Clippers,4,75-78,-4,free throw,False,15,True,True
+2006-11-05,44.85,Minnesota Timberwolves,Los Angeles Clippers,4,81-86,-7,layup,False,0,False,True
+2006-11-05,47.1,Minnesota Timberwolves,Los Angeles Clippers,4,88-89,-3,layup,False,0,True,True
+2006-11-05,21.0166666667,Minnesota Timberwolves,Los Angeles Clippers,5,96-99,-6,three point jumper,False,27,False,True
+2006-11-05,21.5333333333,Minnesota Timberwolves,Los Angeles Clippers,5,98-100,-4,layup,False,0,True,True
+2006-11-07,13.1833333333,Minnesota Timberwolves,Los Angeles Clippers,2,21-28,4,three point jumper,True,24,False,True
+2006-11-07,14.55,Minnesota Timberwolves,Los Angeles Clippers,2,25-29,2,two point jumper,True,22,False,True
+2006-11-07,17.5,Minnesota Timberwolves,Los Angeles Clippers,2,31-35,2,two point jumper,True,21,True,True
+2006-11-07,20.2666666667,Minnesota Timberwolves,Los Angeles Clippers,2,36-41,3,two point jumper,True,17,True,True
+2006-11-07,20.6833333333,Minnesota Timberwolves,Los Angeles Clippers,2,36-43,5,layup,True,0,True,True
+2006-11-07,20.8166666667,Minnesota Timberwolves,Los Angeles Clippers,2,36-44,7,free throw,True,15,True,True
+2006-11-07,22.8833333333,Minnesota Timberwolves,Los Angeles Clippers,2,42-44,-1,three point jumper,True,26,False,True
+2006-11-07,38.3833333333,Minnesota Timberwolves,Los Angeles Clippers,4,57-73,14,two point shot,True,1,True,True
+2006-11-07,40.85,Minnesota Timberwolves,Los Angeles Clippers,4,61-75,12,two point jumper,True,22,False,True
+2006-11-29,11.3333333333,Minnesota Timberwolves,Los Angeles Clippers,1,18-19,-1,two point jumper,True,18,False,False
+2006-11-29,12.9,Minnesota Timberwolves,Los Angeles Clippers,2,24-23,-3,two point jumper,True,16,False,False
+2006-11-29,17.3166666667,Minnesota Timberwolves,Los Angeles Clippers,2,30-31,-1,two point jumper,True,19,False,False
+2006-11-29,36.0,Minnesota Timberwolves,Los Angeles Clippers,3,72-60,-14,two point jumper,True,20,False,False
+2006-11-29,36.8166666667,Minnesota Timberwolves,Los Angeles Clippers,4,74-62,-14,two point jumper,True,18,True,False
+2006-11-29,37.3166666667,Minnesota Timberwolves,Los Angeles Clippers,4,76-62,-16,two point jumper,True,18,False,False
+2006-11-29,39.3166666667,Minnesota Timberwolves,Los Angeles Clippers,4,78-67,-12,free throw,True,15,True,False
+2006-11-09,11.5,Minnesota Timberwolves,Los Angeles Lakers,1,23-14,-11,layup,True,0,False,True
+2006-11-09,16.1666666667,Minnesota Timberwolves,Los Angeles Lakers,2,33-24,-11,two point jumper,True,16,False,True
+2006-11-09,16.4833333333,Minnesota Timberwolves,Los Angeles Lakers,2,33-26,-9,layup,True,0,True,True
+2006-11-09,19.0666666667,Minnesota Timberwolves,Los Angeles Lakers,2,36-33,-5,two point shot,True,1,True,True
+2006-11-09,19.7333333333,Minnesota Timberwolves,Los Angeles Lakers,2,36-35,-3,layup,True,0,True,True
+2006-11-09,31.8833333333,Minnesota Timberwolves,Los Angeles Lakers,3,53-58,3,layup,True,0,False,True
+2006-11-09,32.6833333333,Minnesota Timberwolves,Los Angeles Lakers,3,55-59,3,free throw,True,15,True,True
+2006-11-09,32.6833333333,Minnesota Timberwolves,Los Angeles Lakers,3,55-60,4,free throw,True,15,True,True
+2006-11-09,34.4333333333,Minnesota Timberwolves,Los Angeles Lakers,3,61-65,3,free throw,True,15,True,True
+2006-11-09,34.4333333333,Minnesota Timberwolves,Los Angeles Lakers,3,61-66,4,free throw,True,15,True,True
+2006-11-09,37.1333333333,Minnesota Timberwolves,Los Angeles Lakers,4,61-68,4,three point jumper,True,25,False,True
+2006-12-02,11.7833333333,Minnesota Timberwolves,Los Angeles Lakers,1,21-28,-10,three point jumper,False,24,False,True
+2006-12-02,11.9833333333,Minnesota Timberwolves,Los Angeles Lakers,1,24-28,-7,three point jumper,False,27,True,True
+2006-12-02,12.2666666667,Minnesota Timberwolves,Los Angeles Lakers,2,24-28,-6,two point jumper,False,17,False,True
+2006-12-02,15.3333333333,Minnesota Timberwolves,Los Angeles Lakers,2,28-36,-10,two point jumper,False,23,True,True
+2006-12-02,16.2333333333,Minnesota Timberwolves,Los Angeles Lakers,2,28-38,-12,two point jumper,False,16,False,True
+2006-12-02,17.95,Minnesota Timberwolves,Los Angeles Lakers,2,30-40,-12,two point jumper,False,20,False,True
+2006-12-02,32.75,Minnesota Timberwolves,Los Angeles Lakers,3,65-75,-11,free throw,False,15,True,True
+2006-12-02,34.6,Minnesota Timberwolves,Los Angeles Lakers,3,69-80,-13,two point jumper,False,23,True,True
+2006-12-02,35.0,Minnesota Timberwolves,Los Angeles Lakers,3,72-80,-11,three point jumper,False,26,True,True
+2006-12-02,35.55,Minnesota Timberwolves,Los Angeles Lakers,3,72-80,-11,three point jumper,False,26,False,True
+2006-12-02,36.6333333333,Minnesota Timberwolves,Los Angeles Lakers,4,76-80,-6,two point shot,False,1,True,True
+2006-12-02,37.65,Minnesota Timberwolves,Los Angeles Lakers,4,79-82,-6,three point jumper,False,25,False,True
+2006-12-02,39.9333333333,Minnesota Timberwolves,Los Angeles Lakers,4,85-88,-5,two point jumper,False,18,True,True
+2006-12-02,41.1,Minnesota Timberwolves,Los Angeles Lakers,4,90-90,-3,three point jumper,False,26,True,True
+2006-12-26,6.35,Minnesota Timberwolves,Phoenix Suns,1,14-6,-10,two point jumper,True,19,False,True
+2006-12-26,8.75,Minnesota Timberwolves,Phoenix Suns,1,20-12,-10,two point jumper,True,19,False,True
+2006-12-26,15.05,Minnesota Timberwolves,Phoenix Suns,2,27-27,-2,layup,True,0,False,True
+2006-12-26,16.9833333333,Minnesota Timberwolves,Phoenix Suns,2,31-33,0,two point jumper,True,20,True,True
+2006-12-26,17.5,Minnesota Timberwolves,Phoenix Suns,2,33-35,0,two point jumper,True,19,True,True
+2006-12-26,18.0333333333,Minnesota Timberwolves,Phoenix Suns,2,33-35,0,two point shot,True,17,False,True
+2006-12-26,22.4666666667,Minnesota Timberwolves,Phoenix Suns,2,40-38,-4,layup,True,0,True,True
+2006-12-26,30.6,Minnesota Timberwolves,Phoenix Suns,3,66-55,-13,two point jumper,True,20,True,True
+2006-12-26,32.6666666667,Minnesota Timberwolves,Phoenix Suns,3,72-61,-13,two point jumper,True,22,False,True
+2006-12-26,39.0666666667,Minnesota Timberwolves,Phoenix Suns,4,85-77,-10,two point jumper,True,10,False,True
+2006-12-26,41.7833333333,Minnesota Timberwolves,Phoenix Suns,4,93-79,-16,layup,True,0,True,True
+2006-12-26,42.6333333333,Minnesota Timberwolves,Phoenix Suns,4,95-81,-16,layup,True,0,True,True
+2006-12-26,43.0666666667,Minnesota Timberwolves,Phoenix Suns,4,95-81,-16,two point jumper,True,21,False,True
+2006-12-26,46.9166666667,Minnesota Timberwolves,Phoenix Suns,4,101-89,-14,two point jumper,True,22,False,True
+2006-12-04,9.58333333333,Minnesota Timberwolves,Sacramento Kings,1,19-17,0,two point jumper,False,21,True,True
+2006-12-04,10.15,Minnesota Timberwolves,Sacramento Kings,1,21-19,0,two point jumper,False,22,True,True
+2006-12-04,14.5666666667,Minnesota Timberwolves,Sacramento Kings,2,31-26,3,two point jumper,False,19,False,True
+2006-12-04,15.15,Minnesota Timberwolves,Sacramento Kings,2,34-26,6,two point jumper,False,19,True,True
+2006-12-04,15.6166666667,Minnesota Timberwolves,Sacramento Kings,2,34-26,5,three point jumper,False,25,False,True
+2006-12-04,32.7833333333,Minnesota Timberwolves,Sacramento Kings,3,57-46,10,free throw,False,15,True,True
+2006-12-04,32.7833333333,Minnesota Timberwolves,Sacramento Kings,3,58-46,11,free throw,False,15,True,True
+2006-12-04,33.3666666667,Minnesota Timberwolves,Sacramento Kings,3,58-48,8,two point jumper,False,7,False,True
+2006-12-04,34.7666666667,Minnesota Timberwolves,Sacramento Kings,3,61-54,6,free throw,False,15,True,True
+2006-12-04,34.7666666667,Minnesota Timberwolves,Sacramento Kings,3,62-54,7,free throw,False,15,True,True
+2006-12-04,35.1833333333,Minnesota Timberwolves,Sacramento Kings,3,65-54,8,three point jumper,False,25,True,True
+2006-12-04,36.8,Minnesota Timberwolves,Sacramento Kings,4,68-56,9,three point jumper,False,25,False,True
+2006-12-04,38.15,Minnesota Timberwolves,Sacramento Kings,4,70-56,12,layup,False,0,True,True
+2006-12-04,41.2333333333,Minnesota Timberwolves,Sacramento Kings,4,74-63,9,two point shot,False,4,True,True
+2006-12-04,43.45,Minnesota Timberwolves,Sacramento Kings,4,76-67,7,two point jumper,False,17,False,True
+2006-12-04,44.6166666667,Minnesota Timberwolves,Sacramento Kings,4,76-67,7,two point jumper,False,19,False,True
+2006-01-11,12.6333333333,Minnesota Timberwolves,Chicago Bulls,2,28-28,-2,two point jumper,True,17,False,True
+2006-01-11,15.0666666667,Minnesota Timberwolves,Chicago Bulls,2,28-28,-2,two point jumper,True,15,False,True
+2006-01-11,17.7,Minnesota Timberwolves,Chicago Bulls,2,33-31,-5,three point jumper,True,24,False,True
+2006-01-11,21.7666666667,Minnesota Timberwolves,Chicago Bulls,2,35-39,3,free throw,True,15,True,True
+2006-01-11,21.7666666667,Minnesota Timberwolves,Chicago Bulls,2,35-40,4,free throw,True,15,True,True
+2006-01-11,31.0333333333,Minnesota Timberwolves,Chicago Bulls,3,55-58,0,three point jumper,True,25,True,True
+2006-01-11,32.6833333333,Minnesota Timberwolves,Chicago Bulls,3,59-61,0,two point jumper,True,21,True,True
+2006-01-11,33.1833333333,Minnesota Timberwolves,Chicago Bulls,3,61-61,-2,two point jumper,True,17,False,True
+2006-01-11,36.65,Minnesota Timberwolves,Chicago Bulls,4,66-68,0,two point jumper,True,20,True,True
+2006-01-11,37.1166666667,Minnesota Timberwolves,Chicago Bulls,4,66-71,2,three point jumper,True,23,True,True
+2006-01-11,37.6333333333,Minnesota Timberwolves,Chicago Bulls,4,66-71,3,two point jumper,True,18,False,True
+2006-11-26,32.35,Minnesota Timberwolves,Cleveland Cavaliers,3,55-60,-7,two point jumper,False,16,True,True
+2006-11-26,33.3333333333,Minnesota Timberwolves,Cleveland Cavaliers,3,57-60,-5,layup,False,0,True,True
+2006-11-26,33.75,Minnesota Timberwolves,Cleveland Cavaliers,3,60-62,-5,three point jumper,False,23,True,True
+2006-11-26,34.2333333333,Minnesota Timberwolves,Cleveland Cavaliers,3,60-65,-7,two point jumper,False,22,False,True
+2006-11-26,34.4,Minnesota Timberwolves,Cleveland Cavaliers,3,60-65,-7,two point shot,False,1,False,True
+2006-11-26,35.6,Minnesota Timberwolves,Cleveland Cavaliers,3,65-69,-7,three point jumper,False,26,False,True
+2006-11-26,38.3833333333,Minnesota Timberwolves,Cleveland Cavaliers,4,69-70,-3,layup,False,0,True,True
+2006-11-26,40.85,Minnesota Timberwolves,Cleveland Cavaliers,4,74-70,1,three point jumper,False,26,True,True
+2006-11-26,44.45,Minnesota Timberwolves,Cleveland Cavaliers,4,80-78,-1,three point jumper,False,26,True,True
+2006-11-26,45.9833333333,Minnesota Timberwolves,Cleveland Cavaliers,4,82-78,2,two point shot,False,14,False,True
+2006-11-26,47.8166666667,Minnesota Timberwolves,Cleveland Cavaliers,4,86-82,3,free throw,False,15,False,True
+2006-11-26,47.8166666667,Minnesota Timberwolves,Cleveland Cavaliers,4,87-82,4,free throw,False,15,True,True
+2006-11-26,47.9166666667,Minnesota Timberwolves,Cleveland Cavaliers,4,88-85,2,free throw,False,15,True,True
+2006-11-26,47.9166666667,Minnesota Timberwolves,Cleveland Cavaliers,4,89-85,3,free throw,False,15,True,True
+2006-11-25,14.75,Minnesota Timberwolves,Milwaukee Bucks,2,26-37,8,three point jumper,True,25,True,True
+2006-11-25,15.0666666667,Minnesota Timberwolves,Milwaukee Bucks,2,26-37,8,three point jumper,True,27,False,True
+2006-11-25,16.4166666667,Minnesota Timberwolves,Milwaukee Bucks,2,28-39,9,two point jumper,True,15,False,True
+2006-11-25,16.95,Minnesota Timberwolves,Milwaukee Bucks,2,30-39,7,layup,True,0,False,True
+2006-11-25,41.1333333333,Minnesota Timberwolves,Milwaukee Bucks,4,77-82,3,two point jumper,True,16,True,True
+2006-11-25,43.2166666667,Minnesota Timberwolves,Milwaukee Bucks,4,80-86,4,layup,True,0,True,True
+2006-11-25,43.2166666667,Minnesota Timberwolves,Milwaukee Bucks,4,80-87,6,free throw,True,15,True,True
+2006-11-25,44.8333333333,Minnesota Timberwolves,Milwaukee Bucks,4,82-92,8,two point jumper,True,17,True,True
+2006-11-25,45.5,Minnesota Timberwolves,Milwaukee Bucks,4,84-92,6,two point jumper,True,21,False,True
+2006-11-25,47.0166666667,Minnesota Timberwolves,Milwaukee Bucks,4,90-96,3,three point jumper,True,24,False,True
+2006-01-10,15.0666666667,Minnesota Timberwolves,Milwaukee Bucks,2,31-25,4,two point jumper,False,20,True,False
+2006-01-10,16.0,Minnesota Timberwolves,Milwaukee Bucks,2,31-29,0,two point jumper,False,19,False,False
+2006-01-10,17.75,Minnesota Timberwolves,Milwaukee Bucks,2,36-34,-1,three point jumper,False,26,True,False
+2006-01-10,18.2,Minnesota Timberwolves,Milwaukee Bucks,2,36-34,-1,three point jumper,False,23,False,False
+2006-01-10,23.1833333333,Minnesota Timberwolves,Milwaukee Bucks,2,44-46,-3,free throw,False,15,True,False
+2006-01-10,23.3833333333,Minnesota Timberwolves,Milwaukee Bucks,2,46-46,-2,two point jumper,False,19,True,False
+2006-01-10,23.9833333333,Minnesota Timberwolves,Milwaukee Bucks,2,46-48,-4,two point jumper,False,16,False,False
+2006-01-10,36.3166666667,Minnesota Timberwolves,Milwaukee Bucks,4,63-68,-7,two point jumper,False,16,False,False
+2006-01-10,40.8833333333,Minnesota Timberwolves,Milwaukee Bucks,4,75-80,-7,two point jumper,False,18,False,False
+2006-01-10,41.7333333333,Minnesota Timberwolves,Milwaukee Bucks,4,77-83,-8,two point jumper,False,21,True,False
+2006-01-10,42.6666666667,Minnesota Timberwolves,Milwaukee Bucks,4,80-85,-8,three point jumper,False,24,True,False
+2006-01-10,46.2666666667,Minnesota Timberwolves,Milwaukee Bucks,4,85-93,-10,two point jumper,False,17,False,False
+2006-12-18,11.2,Minnesota Timberwolves,Dallas Mavericks,1,16-15,-2,three point jumper,False,25,False,True
+2006-12-18,16.35,Minnesota Timberwolves,Dallas Mavericks,2,23-28,-7,two point jumper,False,15,True,True
+2006-12-18,16.7833333333,Minnesota Timberwolves,Dallas Mavericks,2,23-28,-7,two point shot,False,16,False,True
+2006-12-18,17.4166666667,Minnesota Timberwolves,Dallas Mavericks,2,23-28,-8,three point jumper,False,25,False,True
+2006-12-18,20.9166666667,Minnesota Timberwolves,Dallas Mavericks,2,27-37,-12,two point jumper,False,22,True,True
+2006-12-18,35.4166666667,Minnesota Timberwolves,Dallas Mavericks,3,64-66,-5,three point jumper,False,25,True,True
+2006-12-18,36.0,Minnesota Timberwolves,Dallas Mavericks,3,64-67,-5,layup,False,0,False,True
+2006-12-18,36.3166666667,Minnesota Timberwolves,Dallas Mavericks,4,66-67,-3,two point jumper,False,13,False,True
+2006-12-18,37.3833333333,Minnesota Timberwolves,Dallas Mavericks,4,70-70,-2,two point shot,False,11,True,True
+2006-12-18,41.9833333333,Minnesota Timberwolves,Dallas Mavericks,4,73-81,-10,two point shot,False,1,False,True
+2006-12-18,42.45,Minnesota Timberwolves,Dallas Mavericks,4,75-81,-8,two point shot,False,11,True,True
+2006-12-18,43.0333333333,Minnesota Timberwolves,Dallas Mavericks,4,77-84,-9,layup,False,0,True,True
+2006-12-18,43.0333333333,Minnesota Timberwolves,Dallas Mavericks,4,78-84,-7,free throw,False,15,True,True
+2006-12-18,45.1833333333,Minnesota Timberwolves,Dallas Mavericks,4,80-88,-11,three point jumper,False,24,False,True
+2006-12-18,46.2833333333,Minnesota Timberwolves,Dallas Mavericks,4,82-92,-12,two point shot,False,1,True,True
+2006-12-18,46.7666666667,Minnesota Timberwolves,Dallas Mavericks,4,84-94,-12,two point shot,False,1,True,True
+2006-12-18,47.3,Minnesota Timberwolves,Dallas Mavericks,4,85-94,-10,free throw,False,15,True,True
+2006-12-18,47.3,Minnesota Timberwolves,Dallas Mavericks,4,86-94,-9,free throw,False,15,True,True
+2006-12-18,48.0,Minnesota Timberwolves,Dallas Mavericks,4,95-102,-10,three point jumper,False,25,False,True
+2006-01-04,11.0666666667,Minnesota Timberwolves,Dallas Mavericks,1,15-18,0,three point jumper,True,25,False,True
+2006-01-04,13.1333333333,Minnesota Timberwolves,Dallas Mavericks,2,18-20,0,two point jumper,True,20,False,True
+2006-01-04,13.95,Minnesota Timberwolves,Dallas Mavericks,2,18-20,0,two point jumper,True,19,False,True
+2006-01-04,17.8166666667,Minnesota Timberwolves,Dallas Mavericks,2,23-26,1,layup,True,0,False,True
+2006-01-04,36.9333333333,Minnesota Timberwolves,Dallas Mavericks,4,62-70,7,free throw,True,15,True,True
+2006-01-04,37.5666666667,Minnesota Timberwolves,Dallas Mavericks,4,62-72,8,layup,True,0,True,True
+2006-01-04,39.25,Minnesota Timberwolves,Dallas Mavericks,4,62-76,12,two point jumper,True,22,False,True
+2006-01-04,43.1,Minnesota Timberwolves,Dallas Mavericks,4,68-82,12,two point jumper,True,20,False,True
+2006-01-04,44.9833333333,Minnesota Timberwolves,Dallas Mavericks,4,72-87,13,two point jumper,True,16,True,True
+2006-01-04,47.2166666667,Minnesota Timberwolves,Dallas Mavericks,4,75-90,14,free throw,True,15,True,True
+2006-01-04,47.2166666667,Minnesota Timberwolves,Dallas Mavericks,4,75-91,15,free throw,True,15,True,True
+2006-01-07,11.5666666667,Minnesota Timberwolves,Dallas Mavericks,1,21-22,-3,two point jumper,False,18,False,False
+2006-01-07,12.0,Minnesota Timberwolves,Dallas Mavericks,1,21-22,-4,three point jumper,False,36,False,False
+2006-01-07,13.1166666667,Minnesota Timberwolves,Dallas Mavericks,2,23-22,-1,two point jumper,False,23,False,False
+2006-01-07,14.75,Minnesota Timberwolves,Dallas Mavericks,2,25-24,-1,layup,False,0,True,False
+2006-01-07,18.3833333333,Minnesota Timberwolves,Dallas Mavericks,2,27-34,-9,two point jumper,False,18,False,False
+2006-01-07,19.45,Minnesota Timberwolves,Dallas Mavericks,2,29-34,-7,layup,False,0,True,False
+2006-01-07,35.2166666667,Minnesota Timberwolves,Dallas Mavericks,3,63-57,5,free throw,False,15,True,False
+2006-01-07,48.0,Minnesota Timberwolves,Dallas Mavericks,4,79-83,-7,three point jumper,False,26,False,False
+2006-11-15,14.4333333333,Minnesota Timberwolves,Houston Rockets,2,24-30,5,free throw,True,15,True,False
+2006-11-15,14.4333333333,Minnesota Timberwolves,Houston Rockets,2,24-31,6,free throw,True,15,True,False
+2006-11-15,18.8833333333,Minnesota Timberwolves,Houston Rockets,2,33-35,-1,three point jumper,True,25,False,False
+2006-11-15,34.4833333333,Minnesota Timberwolves,Houston Rockets,3,67-69,0,two point jumper,True,18,True,False
+2006-11-15,38.2166666667,Minnesota Timberwolves,Houston Rockets,4,71-71,-2,two point jumper,True,8,False,False
+2006-11-15,40.7833333333,Minnesota Timberwolves,Houston Rockets,4,76-76,-3,three point jumper,True,25,True,False
+2006-11-15,43.7,Minnesota Timberwolves,Houston Rockets,4,81-82,-1,two point jumper,True,17,False,False
+2006-11-15,47.25,Minnesota Timberwolves,Houston Rockets,4,89-84,-8,three point jumper,True,26,False,False
+2006-01-27,8.33333333333,Minnesota Timberwolves,Houston Rockets,1,15-17,-4,two point jumper,False,22,False,True
+2006-01-27,36.8833333333,Minnesota Timberwolves,Houston Rockets,4,69-62,5,two point jumper,False,18,True,True
+2006-01-27,37.5,Minnesota Timberwolves,Houston Rockets,4,69-65,2,two point jumper,False,19,False,True
+2006-01-27,38.7,Minnesota Timberwolves,Houston Rockets,4,71-71,-2,two point jumper,False,1,False,True
+2006-01-27,44.6666666667,Minnesota Timberwolves,Houston Rockets,4,84-82,0,two point jumper,False,21,False,True
+2006-01-25,11.1,Minnesota Timberwolves,Memphis Grizzlies,1,12-26,-16,two point jumper,False,20,False,True
+2006-01-25,15.2,Minnesota Timberwolves,Memphis Grizzlies,2,19-39,-23,three point jumper,False,25,True,True
+2006-01-25,16.85,Minnesota Timberwolves,Memphis Grizzlies,2,24-42,-21,three point jumper,False,26,True,True
+2006-01-25,36.1833333333,Minnesota Timberwolves,Memphis Grizzlies,4,65-82,-19,two point jumper,False,20,False,True
+2006-01-25,39.2,Minnesota Timberwolves,Memphis Grizzlies,4,73-88,-18,three point jumper,False,26,False,True
+2006-01-25,41.7833333333,Minnesota Timberwolves,Memphis Grizzlies,4,80-97,-19,layup,False,0,False,True
+2006-11-23,11.8833333333,Minnesota Timberwolves,New Orleans Pelicans,1,26-17,7,two point jumper,False,18,False,False
+2006-11-23,12.25,Minnesota Timberwolves,New Orleans Pelicans,2,26-17,6,three point jumper,False,26,False,False
+2006-11-23,12.8833333333,Minnesota Timberwolves,New Orleans Pelicans,2,29-17,10,two point jumper,False,16,True,False
+2006-11-23,14.4,Minnesota Timberwolves,New Orleans Pelicans,2,34-19,12,three point jumper,False,25,True,False
+2006-11-23,15.25,Minnesota Timberwolves,New Orleans Pelicans,2,37-21,13,three point jumper,False,24,True,False
+2006-11-23,17.2,Minnesota Timberwolves,New Orleans Pelicans,2,39-23,14,two point jumper,False,19,False,False
+2006-11-23,28.7833333333,Minnesota Timberwolves,New Orleans Pelicans,3,48-42,4,two point jumper,False,18,False,False
+2006-11-23,32.1166666667,Minnesota Timberwolves,New Orleans Pelicans,3,52-49,1,two point jumper,False,17,False,False
+2006-11-23,33.15,Minnesota Timberwolves,New Orleans Pelicans,3,52-53,-2,free throw,False,15,False,False
+2006-11-23,33.25,Minnesota Timberwolves,New Orleans Pelicans,3,55-53,-1,three point jumper,False,23,True,False
+2006-11-23,35.9833333333,Minnesota Timberwolves,New Orleans Pelicans,3,62-60,-1,three point jumper,False,26,False,False
+2006-11-23,38.3166666667,Minnesota Timberwolves,New Orleans Pelicans,4,62-61,-1,two point jumper,False,16,False,False
+2006-11-23,38.6833333333,Minnesota Timberwolves,New Orleans Pelicans,4,64-61,1,layup,False,0,True,False
+2006-11-23,38.6833333333,Minnesota Timberwolves,New Orleans Pelicans,4,65-61,3,free throw,False,15,True,False
+2006-11-23,40.3833333333,Minnesota Timberwolves,New Orleans Pelicans,4,68-63,2,three point jumper,False,25,True,False
+2006-11-23,42.35,Minnesota Timberwolves,New Orleans Pelicans,4,70-67,1,two point jumper,False,1,False,False
+2006-11-23,48.0,Minnesota Timberwolves,New Orleans Pelicans,4,80-82,-5,three point jumper,False,24,False,False
+2006-12-21,11.95,Minnesota Timberwolves,New Orleans Pelicans,1,16-26,8,two point jumper,True,19,True,True
+2006-12-21,12.3166666667,Minnesota Timberwolves,New Orleans Pelicans,2,16-28,10,two point jumper,True,14,True,True
+2006-12-21,13.55,Minnesota Timberwolves,New Orleans Pelicans,2,16-28,10,two point jumper,True,21,False,True
+2006-12-21,14.0666666667,Minnesota Timberwolves,New Orleans Pelicans,2,16-28,10,layup,True,0,False,True
+2006-12-21,16.0,Minnesota Timberwolves,New Orleans Pelicans,2,18-32,12,two point jumper,True,18,True,True
+2006-12-21,38.3666666667,Minnesota Timberwolves,New Orleans Pelicans,4,50-73,21,two point jumper,True,15,False,True
+2006-12-21,40.5333333333,Minnesota Timberwolves,New Orleans Pelicans,4,54-75,19,two point jumper,True,13,False,True
+2006-12-15,14.2,Minnesota Timberwolves,San Antonio Spurs,2,18-23,2,three point jumper,True,25,True,False
+2006-12-15,14.7,Minnesota Timberwolves,San Antonio Spurs,2,19-23,1,three point jumper,True,24,False,False
+2006-12-15,17.9833333333,Minnesota Timberwolves,San Antonio Spurs,2,27-23,-6,two point jumper,True,21,False,False
+2006-12-15,34.6166666667,Minnesota Timberwolves,San Antonio Spurs,3,56-51,-7,two point jumper,True,15,True,False
+2006-12-15,34.9666666667,Minnesota Timberwolves,San Antonio Spurs,3,56-53,-5,layup,True,0,True,False
+2006-12-15,35.4333333333,Minnesota Timberwolves,San Antonio Spurs,3,58-55,-5,two point jumper,True,20,True,False
+2006-12-15,36.3,Minnesota Timberwolves,San Antonio Spurs,4,60-57,-5,two point jumper,True,15,False,False
+2006-12-15,38.8666666667,Minnesota Timberwolves,San Antonio Spurs,4,68-62,-8,two point jumper,True,11,False,False
+2006-12-15,44.9833333333,Minnesota Timberwolves,San Antonio Spurs,4,81-78,-4,free throw,True,15,True,False
+2006-12-15,44.9833333333,Minnesota Timberwolves,San Antonio Spurs,4,81-79,-3,free throw,True,15,True,False
+2006-12-15,46.0333333333,Minnesota Timberwolves,San Antonio Spurs,4,86-81,-7,two point jumper,True,8,False,False
+2006-12-15,46.7333333333,Minnesota Timberwolves,San Antonio Spurs,4,86-84,-5,three point jumper,True,24,False,False
+2006-12-15,48.0,Minnesota Timberwolves,San Antonio Spurs,4,87-87,-2,two point jumper,True,11,False,False
+2006-01-06,14.8666666667,Minnesota Timberwolves,San Antonio Spurs,2,24-24,-2,two point jumper,False,15,False,False
+2006-01-06,17.1,Minnesota Timberwolves,San Antonio Spurs,2,27-28,-3,two point jumper,False,17,False,False
+2006-01-06,17.8833333333,Minnesota Timberwolves,San Antonio Spurs,2,27-28,-3,two point jumper,False,18,False,False
+2006-01-06,18.9166666667,Minnesota Timberwolves,San Antonio Spurs,2,27-28,-3,two point jumper,False,16,False,False
+2006-01-06,21.8,Minnesota Timberwolves,San Antonio Spurs,2,35-35,-2,two point jumper,False,17,False,False
+2006-01-06,23.1333333333,Minnesota Timberwolves,San Antonio Spurs,2,39-37,0,two point jumper,False,5,True,False
+2006-01-06,30.4833333333,Minnesota Timberwolves,San Antonio Spurs,3,46-50,-5,free throw,False,15,True,False
+2006-01-06,34.65,Minnesota Timberwolves,San Antonio Spurs,3,54-62,-10,two point jumper,False,16,False,False
+2006-01-06,36.4,Minnesota Timberwolves,San Antonio Spurs,4,56-62,-8,two point jumper,False,17,False,False
+2006-01-06,45.1666666667,Minnesota Timberwolves,San Antonio Spurs,4,72-77,-7,two point jumper,False,14,True,False
+2006-01-06,47.9166666667,Minnesota Timberwolves,San Antonio Spurs,4,77-83,-9,three point jumper,False,25,True,False
+2006-01-28,10.2833333333,Minnesota Timberwolves,San Antonio Spurs,1,16-15,-1,layup,False,0,False,True
+2006-01-28,11.9666666667,Minnesota Timberwolves,San Antonio Spurs,1,18-19,-3,two point shot,False,5,False,True
+2006-01-28,16.2166666667,Minnesota Timberwolves,San Antonio Spurs,2,24-30,-8,two point jumper,False,12,False,True
+2006-11-19,10.2666666667,Minnesota Timberwolves,Charlotte Bobcats,1,16-23,5,two point jumper,True,19,True,False
+2006-11-19,12.0,Minnesota Timberwolves,Charlotte Bobcats,1,20-23,0,three point jumper,True,26,False,False
+2006-11-19,12.55,Minnesota Timberwolves,Charlotte Bobcats,2,23-23,-2,two point jumper,True,14,False,False
+2006-11-19,30.7,Minnesota Timberwolves,Charlotte Bobcats,3,46-58,11,free throw,True,15,True,False
+2006-11-19,30.7,Minnesota Timberwolves,Charlotte Bobcats,3,46-59,12,free throw,True,15,True,False
+2006-11-19,32.3333333333,Minnesota Timberwolves,Charlotte Bobcats,3,48-65,14,three point jumper,True,25,True,False
+2006-11-19,33.05,Minnesota Timberwolves,Charlotte Bobcats,3,50-67,15,two point jumper,True,22,True,False
+2006-11-19,33.7333333333,Minnesota Timberwolves,Charlotte Bobcats,3,53-67,11,three point jumper,True,26,False,False
+2006-11-19,36.5833333333,Minnesota Timberwolves,Charlotte Bobcats,4,58-74,14,two point jumper,True,21,False,False
+2006-11-19,39.5666666667,Minnesota Timberwolves,Charlotte Bobcats,4,60-83,22,free throw,True,15,True,False
+2006-11-19,41.85,Minnesota Timberwolves,Charlotte Bobcats,4,65-90,22,three point jumper,True,24,True,False
+2006-01-01,15.7,Minnesota Timberwolves,Miami Heat,2,27-22,3,two point jumper,False,15,False,False
+2006-01-01,15.9,Minnesota Timberwolves,Miami Heat,2,27-22,3,two point shot,False,13,False,False
+2006-01-01,18.8166666667,Minnesota Timberwolves,Miami Heat,2,33-24,7,two point jumper,False,17,False,False
+2006-01-01,39.1833333333,Minnesota Timberwolves,Miami Heat,4,61-80,-22,three point jumper,False,24,False,False
+2006-01-01,40.7833333333,Minnesota Timberwolves,Miami Heat,4,63-82,-21,two point jumper,False,22,True,False
+2006-01-01,42.8833333333,Minnesota Timberwolves,Miami Heat,4,63-88,-27,two point jumper,False,15,False,False
+2006-01-01,44.3333333333,Minnesota Timberwolves,Miami Heat,4,63-96,-36,three point jumper,False,25,False,False
+2006-01-01,44.4166666667,Minnesota Timberwolves,Miami Heat,4,63-96,-36,three point jumper,False,24,False,False
+2006-12-30,11.9833333333,Minnesota Timberwolves,Orlando Magic,1,22-32,-13,three point jumper,False,27,False,True
+2006-12-30,13.1333333333,Minnesota Timberwolves,Orlando Magic,2,24-34,-12,two point jumper,False,17,True,True
+2006-12-30,15.95,Minnesota Timberwolves,Orlando Magic,2,25-41,-19,three point jumper,False,27,False,True
+2006-11-17,14.2166666667,Minnesota Timberwolves,Washington Wizards,2,34-33,-3,two point jumper,True,16,True,False
+2006-11-17,14.45,Minnesota Timberwolves,Washington Wizards,2,34-33,-3,layup,True,0,False,False
+2006-11-17,14.5,Minnesota Timberwolves,Washington Wizards,2,34-33,-3,two point jumper,True,14,False,False
+2006-11-17,18.1,Minnesota Timberwolves,Washington Wizards,2,38-40,0,two point jumper,True,12,False,False
+2006-11-17,21.1166666667,Minnesota Timberwolves,Washington Wizards,2,42-49,4,three point jumper,True,31,False,False
+2006-11-17,35.2666666667,Minnesota Timberwolves,Washington Wizards,3,72-79,4,three point jumper,True,29,True,False
+2006-11-17,35.7833333333,Minnesota Timberwolves,Washington Wizards,3,75-79,1,three point jumper,True,26,False,False
+2006-11-17,36.3833333333,Minnesota Timberwolves,Washington Wizards,4,78-82,1,three point jumper,True,24,True,False
+2006-11-17,37.3833333333,Minnesota Timberwolves,Washington Wizards,4,79-84,3,two point jumper,True,17,True,False
+2006-11-17,38.5666666667,Minnesota Timberwolves,Washington Wizards,4,79-86,5,two point jumper,True,21,False,False
+2006-11-17,42.7333333333,Minnesota Timberwolves,Washington Wizards,4,85-97,10,layup,True,0,True,False
+2006-11-17,44.75,Minnesota Timberwolves,Washington Wizards,4,90-100,8,two point shot,True,6,False,False
+2006-11-17,45.4833333333,Minnesota Timberwolves,Washington Wizards,4,90-100,8,two point jumper,True,14,False,False
+2006-11-17,46.3333333333,Minnesota Timberwolves,Washington Wizards,4,92-104,10,two point jumper,True,22,True,False
+2006-11-17,47.65,Minnesota Timberwolves,Washington Wizards,4,95-108,12,free throw,True,15,True,False
+2006-11-17,47.65,Minnesota Timberwolves,Washington Wizards,4,95-109,13,free throw,True,15,True,False
+2006-11-13,8.68333333333,Minnesota Timberwolves,Denver Nuggets,1,12-16,-7,three point jumper,False,25,False,True
+2006-11-13,12.0,Minnesota Timberwolves,Denver Nuggets,1,24-24,-2,two point jumper,False,10,True,True
+2006-11-13,13.6333333333,Minnesota Timberwolves,Denver Nuggets,2,24-26,-4,two point jumper,False,14,False,True
+2006-11-13,15.75,Minnesota Timberwolves,Denver Nuggets,2,28-30,-5,three point jumper,False,25,False,True
+2006-11-13,30.6,Minnesota Timberwolves,Denver Nuggets,3,48-63,-17,two point jumper,False,18,False,True
+2006-11-13,31.85,Minnesota Timberwolves,Denver Nuggets,3,51-65,-15,free throw,False,15,True,True
+2006-11-13,32.5166666667,Minnesota Timberwolves,Denver Nuggets,3,54-65,-14,three point jumper,False,24,True,True
+2006-11-13,33.55,Minnesota Timberwolves,Denver Nuggets,3,56-67,-13,two point jumper,False,18,True,True
+2006-11-13,35.1166666667,Minnesota Timberwolves,Denver Nuggets,3,58-70,-15,three point jumper,False,26,False,True
+2006-11-13,35.5666666667,Minnesota Timberwolves,Denver Nuggets,3,59-72,-14,free throw,False,15,True,True
+2006-11-13,35.5666666667,Minnesota Timberwolves,Denver Nuggets,3,60-72,-13,free throw,False,15,True,True
+2006-01-13,14.2166666667,Minnesota Timberwolves,Denver Nuggets,2,24-29,2,three point jumper,True,25,False,False
+2006-01-13,16.8833333333,Minnesota Timberwolves,Denver Nuggets,2,30-35,3,two point jumper,True,19,False,False
+2006-01-13,21.4166666667,Minnesota Timberwolves,Denver Nuggets,2,43-44,-2,three point jumper,True,25,False,False
+2006-01-13,37.3333333333,Minnesota Timberwolves,Denver Nuggets,4,66-83,15,layup,True,0,True,False
+2006-01-13,38.55,Minnesota Timberwolves,Denver Nuggets,4,68-85,15,two point jumper,True,22,False,False
+2006-01-13,39.7666666667,Minnesota Timberwolves,Denver Nuggets,4,72-88,13,three point jumper,True,25,True,False
+2006-01-13,41.8166666667,Minnesota Timberwolves,Denver Nuggets,4,78-95,14,three point jumper,True,27,True,False
+2006-01-13,42.9166666667,Minnesota Timberwolves,Denver Nuggets,4,82-97,12,three point jumper,True,24,False,False
+2006-01-13,43.4833333333,Minnesota Timberwolves,Denver Nuggets,4,85-97,10,two point jumper,True,19,False,False
+2006-01-13,44.45,Minnesota Timberwolves,Denver Nuggets,4,85-97,10,two point jumper,True,22,False,False
+2006-01-13,45.5,Minnesota Timberwolves,Denver Nuggets,4,85-99,12,two point jumper,True,16,False,False
+2006-11-04,11.95,Minnesota Timberwolves,Oklahoma City Thunder,1,24-22,0,two point shot,False,17,False,False
+2006-11-04,16.25,Minnesota Timberwolves,Oklahoma City Thunder,2,35-29,3,three point jumper,False,23,True,False
+2006-11-04,16.5333333333,Minnesota Timberwolves,Oklahoma City Thunder,2,35-29,5,free throw,False,15,False,False
+2006-11-04,16.5333333333,Minnesota Timberwolves,Oklahoma City Thunder,2,36-29,6,free throw,False,15,True,False
+2006-11-04,44.8666666667,Minnesota Timberwolves,Oklahoma City Thunder,4,71-68,1,two point jumper,False,17,True,False
+2006-11-04,45.4666666667,Minnesota Timberwolves,Oklahoma City Thunder,4,71-70,-1,two point jumper,False,19,False,False
+2006-11-04,45.75,Minnesota Timberwolves,Oklahoma City Thunder,4,71-70,-1,two point jumper,False,4,False,False
+2006-11-04,47.9166666667,Minnesota Timberwolves,Oklahoma City Thunder,4,78-73,3,two point jumper,False,21,True,False
+2006-11-04,10.8833333333,Minnesota Timberwolves,Oklahoma City Thunder,5,78-75,0,three point jumper,False,26,False,False
+2006-11-04,11.7833333333,Minnesota Timberwolves,Oklahoma City Thunder,5,78-75,0,three point jumper,False,26,False,False
+2006-12-05,10.35,Minnesota Timberwolves,Utah Jazz,1,18-21,-5,two point jumper,False,23,True,True
+2006-12-05,10.9333333333,Minnesota Timberwolves,Utah Jazz,1,18-24,-8,two point jumper,False,23,False,True
+2006-12-05,13.6333333333,Minnesota Timberwolves,Utah Jazz,2,25-25,-2,two point jumper,False,20,False,True
+2006-12-05,16.5333333333,Minnesota Timberwolves,Utah Jazz,2,30-31,-4,three point jumper,False,25,False,True
+2006-12-05,32.7666666667,Minnesota Timberwolves,Utah Jazz,3,63-54,8,free throw,False,15,True,True
+2006-12-05,35.9833333333,Minnesota Timberwolves,Utah Jazz,3,68-61,4,three point jumper,False,25,True,True
+2006-12-05,37.7666666667,Minnesota Timberwolves,Utah Jazz,4,70-65,3,two point jumper,False,21,False,True
+2006-12-05,38.6166666667,Minnesota Timberwolves,Utah Jazz,4,70-67,1,layup,False,0,False,True
+2006-12-05,40.85,Minnesota Timberwolves,Utah Jazz,4,75-71,2,two point jumper,False,17,False,True
+2006-12-05,45.7833333333,Minnesota Timberwolves,Utah Jazz,4,91-76,12,three point jumper,False,24,True,True
+2006-12-23,13.5,Minnesota Timberwolves,Portland Trail Blazers,2,26-24,-5,three point jumper,True,26,False,False
+2006-12-23,14.1333333333,Minnesota Timberwolves,Portland Trail Blazers,2,28-25,-4,free throw,True,15,True,False
+2006-12-23,17.2,Minnesota Timberwolves,Portland Trail Blazers,2,37-27,-12,two point jumper,True,18,False,False
+2006-12-23,35.5,Minnesota Timberwolves,Portland Trail Blazers,3,62-66,1,three point jumper,True,25,False,False
+2006-12-23,42.85,Minnesota Timberwolves,Portland Trail Blazers,4,80-72,-10,two point jumper,True,17,True,False
+2006-12-23,44.75,Minnesota Timberwolves,Portland Trail Blazers,4,80-76,-6,two point jumper,True,16,True,False
+2006-12-23,45.4833333333,Minnesota Timberwolves,Portland Trail Blazers,4,80-76,-6,two point jumper,True,19,False,False
+2006-12-23,47.9166666667,Minnesota Timberwolves,Portland Trail Blazers,4,89-79,-13,three point jumper,True,26,False,False
+2006-12-28,16.6333333333,Minnesota Timberwolves,Oklahoma City Thunder,2,22-38,14,two point jumper,True,21,False,False
+2006-12-28,18.75,Minnesota Timberwolves,Oklahoma City Thunder,2,26-42,14,two point jumper,True,19,True,False
+2006-12-28,19.6333333333,Minnesota Timberwolves,Oklahoma City Thunder,2,29-42,11,layup,True,0,False,False
+2006-12-28,35.0,Minnesota Timberwolves,Oklahoma City Thunder,3,62-79,15,two point jumper,True,21,True,False
+2006-12-28,35.35,Minnesota Timberwolves,Oklahoma City Thunder,3,65-79,11,three point jumper,True,25,False,False
+2006-12-28,35.9333333333,Minnesota Timberwolves,Oklahoma City Thunder,3,67-79,10,two point jumper,True,1,False,False
+2006-12-28,36.4,Minnesota Timberwolves,Oklahoma City Thunder,4,67-79,9,three point jumper,True,25,False,False
+2006-12-28,40.7833333333,Minnesota Timberwolves,Oklahoma City Thunder,4,72-88,15,free throw,True,15,True,False
+2006-12-28,41.45,Minnesota Timberwolves,Oklahoma City Thunder,4,74-88,12,two point jumper,True,24,False,False
+2007-03-04,4.73333333333,Minnesota Timberwolves,Boston Celtics,1,11-7,1,three point jumper,False,23,True,False
+2007-03-04,5.45,Minnesota Timberwolves,Boston Celtics,1,13-7,4,two point jumper,False,17,True,False
+2007-03-04,8.46666666667,Minnesota Timberwolves,Boston Celtics,1,18-16,-1,three point jumper,False,25,True,False
+2007-03-04,10.4166666667,Minnesota Timberwolves,Boston Celtics,1,20-20,-2,two point shot,False,1,False,False
+2007-03-04,10.9166666667,Minnesota Timberwolves,Boston Celtics,1,20-20,-3,three point jumper,False,26,False,False
+2007-03-04,19.3166666667,Minnesota Timberwolves,Boston Celtics,2,32-35,-5,layup,False,0,True,False
+2007-03-04,20.0,Minnesota Timberwolves,Boston Celtics,2,32-37,-8,three point jumper,False,25,False,False
+2007-03-04,20.3666666667,Minnesota Timberwolves,Boston Celtics,2,35-37,-3,free throw,False,15,True,False
+2007-03-04,20.3666666667,Minnesota Timberwolves,Boston Celtics,2,36-37,-2,free throw,False,15,True,False
+2007-03-04,21.2,Minnesota Timberwolves,Boston Celtics,2,39-37,1,free throw,False,15,True,False
+2007-03-04,29.7833333333,Minnesota Timberwolves,Boston Celtics,3,60-52,6,two point jumper,False,1,True,False
+2007-03-04,30.5,Minnesota Timberwolves,Boston Celtics,3,62-54,6,two point shot,False,2,True,False
+2007-03-04,31.35,Minnesota Timberwolves,Boston Celtics,3,64-56,6,two point jumper,False,1,True,False
+2007-03-04,44.2166666667,Minnesota Timberwolves,Boston Celtics,4,83-83,-2,two point jumper,False,17,True,False
+2007-03-04,44.8333333333,Minnesota Timberwolves,Boston Celtics,4,84-83,0,free throw,False,15,True,False
+2007-03-04,44.8333333333,Minnesota Timberwolves,Boston Celtics,4,85-83,1,free throw,False,15,True,False
+2007-03-04,45.4666666667,Minnesota Timberwolves,Boston Celtics,4,85-85,-3,three point jumper,False,25,False,False
+2007-03-04,47.7666666667,Minnesota Timberwolves,Boston Celtics,4,88-92,-6,layup,False,0,False,False
+2007-03-04,47.85,Minnesota Timberwolves,Boston Celtics,4,93-93,-3,three point jumper,False,26,True,False
+2007-03-04,19.9333333333,Minnesota Timberwolves,Boston Celtics,5,99-97,0,two point jumper,False,19,False,False
+2007-11-22,15.4333333333,Minnesota Timberwolves,New York Knicks,2,17-38,18,three point jumper,True,26,True,False
+2007-11-22,15.8833333333,Minnesota Timberwolves,New York Knicks,2,17-38,18,three point jumper,True,25,False,False
+2007-11-22,20.0,Minnesota Timberwolves,New York Knicks,2,29-47,17,free throw,True,15,True,False
+2007-11-22,20.0,Minnesota Timberwolves,New York Knicks,2,29-48,18,free throw,True,15,True,False
+2007-11-22,21.35,Minnesota Timberwolves,New York Knicks,2,31-52,18,three point jumper,True,25,False,False
+2007-11-22,43.7,Minnesota Timberwolves,New York Knicks,4,79-100,18,three point jumper,True,24,False,False
+2007-03-16,3.63333333333,Minnesota Timberwolves,Golden State Warriors,1,2-11,-12,three point jumper,False,27,False,True
+2007-03-16,6.98333333333,Minnesota Timberwolves,Golden State Warriors,1,11-13,-4,two point jumper,False,18,True,True
+2007-03-16,7.81666666667,Minnesota Timberwolves,Golden State Warriors,1,11-13,-4,two point jumper,False,16,False,True
+2007-03-16,27.8166666667,Minnesota Timberwolves,Golden State Warriors,3,50-65,-17,two point jumper,False,13,True,True
+2007-03-16,28.2333333333,Minnesota Timberwolves,Golden State Warriors,3,50-65,-17,two point jumper,False,16,False,True
+2007-11-25,17.2166666667,Minnesota Timberwolves,Los Angeles Clippers,2,38-29,-11,two point jumper,True,20,True,False
+2007-11-25,17.6,Minnesota Timberwolves,Los Angeles Clippers,2,38-32,-9,three point jumper,True,24,True,False
+2007-11-25,18.9833333333,Minnesota Timberwolves,Los Angeles Clippers,2,45-35,-11,free throw,True,15,True,False
+2007-11-25,18.9833333333,Minnesota Timberwolves,Los Angeles Clippers,2,45-36,-10,free throw,True,15,True,False
+2007-11-25,22.2333333333,Minnesota Timberwolves,Los Angeles Clippers,2,53-47,-8,two point jumper,True,14,False,False
+2007-11-25,32.75,Minnesota Timberwolves,Los Angeles Clippers,3,73-63,-12,two point jumper,True,13,False,False
+2007-11-07,12.9666666667,Minnesota Timberwolves,Los Angeles Lakers,2,21-26,-7,two point jumper,False,7,True,False
+2007-11-07,15.05,Minnesota Timberwolves,Los Angeles Lakers,2,23-31,-10,two point jumper,False,1,False,False
+2007-11-07,15.9,Minnesota Timberwolves,Los Angeles Lakers,2,23-33,-12,two point jumper,False,16,False,False
+2007-11-07,17.8833333333,Minnesota Timberwolves,Los Angeles Lakers,2,28-35,-9,two point jumper,False,19,False,False
+2007-11-07,34.9333333333,Minnesota Timberwolves,Los Angeles Lakers,3,61-76,-18,three point jumper,False,26,False,False
+2007-11-07,35.3166666667,Minnesota Timberwolves,Los Angeles Lakers,3,63-76,-15,layup,False,0,True,False
+2007-11-07,36.1166666667,Minnesota Timberwolves,Los Angeles Lakers,4,63-76,-16,three point jumper,False,27,False,False
+2007-03-06,3.68333333333,Minnesota Timberwolves,Los Angeles Lakers,1,7-4,-5,two point jumper,True,22,False,True
+2007-03-06,5.73333333333,Minnesota Timberwolves,Los Angeles Lakers,1,18-8,-13,three point jumper,True,26,False,True
+2007-03-06,17.5333333333,Minnesota Timberwolves,Los Angeles Lakers,2,42-29,-15,two point jumper,True,17,False,True
+2007-03-06,21.6,Minnesota Timberwolves,Los Angeles Lakers,2,49-44,-7,two point jumper,True,14,True,True
+2007-03-06,24.3333333333,Minnesota Timberwolves,Los Angeles Lakers,3,53-52,-3,two point jumper,True,14,True,True
+2007-03-06,28.0333333333,Minnesota Timberwolves,Los Angeles Lakers,3,62-58,-6,two point jumper,True,21,False,True
+2007-03-06,29.0666666667,Minnesota Timberwolves,Los Angeles Lakers,3,65-58,-10,three point jumper,True,26,False,True
+2007-01-21,10.2666666667,Minnesota Timberwolves,Phoenix Suns,1,22-32,-12,two point shot,False,11,True,False
+2007-01-21,11.95,Minnesota Timberwolves,Phoenix Suns,1,27-35,-9,free throw,False,15,False,False
+2007-01-21,11.95,Minnesota Timberwolves,Phoenix Suns,1,28-35,-8,free throw,False,15,True,False
+2007-01-21,12.9,Minnesota Timberwolves,Phoenix Suns,2,33-37,-7,three point jumper,False,27,True,False
+2007-01-21,14.6166666667,Minnesota Timberwolves,Phoenix Suns,2,39-37,0,two point jumper,False,14,False,False
+2007-01-21,15.9666666667,Minnesota Timberwolves,Phoenix Suns,2,39-41,-5,three point jumper,False,27,False,False
+2007-01-21,17.1,Minnesota Timberwolves,Phoenix Suns,2,41-44,-5,two point jumper,False,20,True,False
+2007-01-21,17.6333333333,Minnesota Timberwolves,Phoenix Suns,2,44-46,-5,three point jumper,False,26,True,False
+2007-01-21,20.8333333333,Minnesota Timberwolves,Phoenix Suns,2,47-56,-11,two point jumper,False,17,False,False
+2007-01-21,21.3166666667,Minnesota Timberwolves,Phoenix Suns,2,48-56,-9,free throw,False,15,True,False
+2007-01-21,21.3166666667,Minnesota Timberwolves,Phoenix Suns,2,48-56,-9,free throw,False,15,False,False
+2007-01-21,23.0,Minnesota Timberwolves,Phoenix Suns,2,51-58,-10,three point jumper,False,25,True,False
+2007-01-21,32.4833333333,Minnesota Timberwolves,Phoenix Suns,3,67-92,-27,two point jumper,False,19,False,False
+2007-01-21,34.0,Minnesota Timberwolves,Phoenix Suns,3,67-95,-31,three point jumper,False,26,False,False
+2007-01-21,35.5833333333,Minnesota Timberwolves,Phoenix Suns,3,71-104,-35,two point jumper,False,17,True,False
+2007-01-21,38.2666666667,Minnesota Timberwolves,Phoenix Suns,4,76-110,-37,three point jumper,False,26,False,False
+2007-01-21,42.7833333333,Minnesota Timberwolves,Phoenix Suns,4,86-120,-36,layup,False,0,False,False
+2007-01-21,44.4833333333,Minnesota Timberwolves,Phoenix Suns,4,93-122,-32,three point jumper,False,25,True,False
+2007-01-21,47.45,Minnesota Timberwolves,Phoenix Suns,4,101-127,-27,free throw,False,15,True,False
+2007-01-21,47.45,Minnesota Timberwolves,Phoenix Suns,4,102-127,-26,free throw,False,15,True,False
+2007-11-01,11.9833333333,Minnesota Timberwolves,Sacramento Kings,1,16-23,5,layup,True,0,False,True
+2007-11-01,15.8666666667,Minnesota Timberwolves,Sacramento Kings,2,22-29,5,two point jumper,True,18,True,True
+2007-11-01,16.6,Minnesota Timberwolves,Sacramento Kings,2,24-31,5,two point jumper,True,20,True,True
+2007-11-01,17.1,Minnesota Timberwolves,Sacramento Kings,2,24-31,4,three point jumper,True,24,False,True
+2007-11-01,17.4833333333,Minnesota Timberwolves,Sacramento Kings,2,26-31,2,three point jumper,True,24,False,True
+2007-11-01,35.65,Minnesota Timberwolves,Sacramento Kings,3,66-64,-3,free throw,True,15,False,True
+2007-11-01,35.9833333333,Minnesota Timberwolves,Sacramento Kings,3,66-64,-4,two point jumper,True,18,False,True
+2007-11-01,39.5666666667,Minnesota Timberwolves,Sacramento Kings,4,71-71,-3,three point jumper,True,25,True,True
+2007-11-01,40.6666666667,Minnesota Timberwolves,Sacramento Kings,4,71-75,2,two point jumper,True,20,True,True
+2007-11-01,41.1,Minnesota Timberwolves,Sacramento Kings,4,71-75,2,two point jumper,True,17,False,True
+2007-11-01,42.6,Minnesota Timberwolves,Sacramento Kings,4,73-76,0,three point jumper,True,26,False,True
+2007-11-01,42.8833333333,Minnesota Timberwolves,Sacramento Kings,4,73-79,3,three point jumper,True,23,True,True
+2007-11-01,47.2833333333,Minnesota Timberwolves,Sacramento Kings,4,80-90,7,three point jumper,True,25,True,True
+2007-11-06,14.5,Minnesota Timberwolves,Sacramento Kings,2,29-33,-6,two point jumper,False,7,True,False
+2007-11-06,16.3166666667,Minnesota Timberwolves,Sacramento Kings,2,29-33,-6,two point jumper,False,22,False,False
+2007-11-06,17.35,Minnesota Timberwolves,Sacramento Kings,2,31-34,-6,three point jumper,False,25,False,False
+2007-11-06,37.4,Minnesota Timberwolves,Sacramento Kings,4,65-80,-18,three point jumper,False,24,False,False
+2007-11-06,41.45,Minnesota Timberwolves,Sacramento Kings,4,71-82,-14,three point jumper,False,25,False,False
+2007-12-09,40.7,Minnesota Timberwolves,Chicago Bulls,4,78-69,6,three point jumper,False,25,False,True
+2007-12-09,43.85,Minnesota Timberwolves,Chicago Bulls,4,84-73,8,three point jumper,False,25,False,True
+2007-11-17,12.45,Minnesota Timberwolves,Cleveland Cavaliers,2,24-22,0,two point jumper,False,12,True,False
+2007-11-17,17.5666666667,Minnesota Timberwolves,Cleveland Cavaliers,2,30-33,-5,two point jumper,False,17,True,False
+2007-11-17,18.0333333333,Minnesota Timberwolves,Cleveland Cavaliers,2,32-35,-5,two point jumper,False,16,True,False
+2007-11-17,35.55,Minnesota Timberwolves,Cleveland Cavaliers,3,61-66,-7,layup,False,0,True,False
+2007-11-17,36.55,Minnesota Timberwolves,Cleveland Cavaliers,4,62-66,-6,two point jumper,False,18,False,False
+2007-11-17,39.5666666667,Minnesota Timberwolves,Cleveland Cavaliers,4,64-70,-9,three point jumper,False,23,False,False
+2007-12-23,13.7,Minnesota Timberwolves,Indiana Pacers,2,25-34,-12,three point jumper,False,25,True,True
+2007-12-23,19.45,Minnesota Timberwolves,Indiana Pacers,2,32-43,-14,three point jumper,False,24,False,True
+2007-12-23,19.7833333333,Minnesota Timberwolves,Indiana Pacers,2,32-43,-13,layup,False,0,False,True
+2007-12-23,27.5666666667,Minnesota Timberwolves,Indiana Pacers,3,48-51,-6,three point jumper,False,25,False,True
+2007-12-23,28.7833333333,Minnesota Timberwolves,Indiana Pacers,3,48-51,-5,two point jumper,False,20,False,True
+2007-12-23,32.5,Minnesota Timberwolves,Indiana Pacers,3,53-53,-2,layup,False,0,True,True
+2007-12-23,35.5,Minnesota Timberwolves,Indiana Pacers,3,57-55,0,two point jumper,False,17,False,True
+2007-12-23,47.3666666667,Minnesota Timberwolves,Indiana Pacers,4,75-71,3,free throw,False,15,False,True
+2007-12-23,47.3666666667,Minnesota Timberwolves,Indiana Pacers,4,76-71,4,free throw,False,15,True,True
+2007-12-23,47.65,Minnesota Timberwolves,Indiana Pacers,4,77-71,5,free throw,False,15,True,True
+2007-12-23,47.65,Minnesota Timberwolves,Indiana Pacers,4,78-71,6,free throw,False,15,True,True
+2007-03-13,0.3,Minnesota Timberwolves,Indiana Pacers,1,0-0,-3,three point jumper,True,25,False,True
+2007-03-13,5.28333333333,Minnesota Timberwolves,Indiana Pacers,1,9-11,0,two point jumper,True,21,False,True
+2007-03-13,5.88333333333,Minnesota Timberwolves,Indiana Pacers,1,9-11,-1,three point jumper,True,26,False,True
+2007-11-27,36.9333333333,Minnesota Timberwolves,Dallas Mavericks,4,63-76,-15,two point jumper,False,17,False,False
+2007-11-27,41.25,Minnesota Timberwolves,Dallas Mavericks,4,70-82,-15,three point jumper,False,25,False,False
+2007-02-27,44.6666666667,Minnesota Timberwolves,Dallas Mavericks,4,85-63,-25,three point jumper,True,23,False,False
+2007-11-28,15.6333333333,Minnesota Timberwolves,Houston Rockets,2,21-26,-8,three point jumper,False,26,False,False
+2007-11-28,17.2833333333,Minnesota Timberwolves,Houston Rockets,2,26-28,-4,two point jumper,False,20,True,False
+2007-11-28,18.6333333333,Minnesota Timberwolves,Houston Rockets,2,26-30,-6,two point jumper,False,20,False,False
+2007-11-28,40.85,Minnesota Timberwolves,Houston Rockets,4,61-64,-6,three point jumper,False,26,True,False
+2007-11-28,43.3166666667,Minnesota Timberwolves,Houston Rockets,4,68-68,-3,three point jumper,False,26,True,False
+2007-11-28,46.75,Minnesota Timberwolves,Houston Rockets,4,72-81,-11,two point jumper,False,18,False,False
+2007-12-06,18.6333333333,Minnesota Timberwolves,Houston Rockets,2,32-28,-6,two point jumper,True,17,True,True
+2007-12-06,19.3833333333,Minnesota Timberwolves,Houston Rockets,2,32-28,-6,layup,True,0,False,True
+2007-12-06,20.35,Minnesota Timberwolves,Houston Rockets,2,35-33,-5,three point jumper,True,25,True,True
+2007-12-06,36.7,Minnesota Timberwolves,Houston Rockets,4,67-69,0,two point jumper,True,20,False,True
+2007-12-06,39.45,Minnesota Timberwolves,Houston Rockets,4,77-75,-4,two point shot,True,1,True,True
+2007-12-06,42.6666666667,Minnesota Timberwolves,Houston Rockets,4,77-85,6,layup,True,0,True,True
+2007-12-06,43.4166666667,Minnesota Timberwolves,Houston Rockets,4,77-85,5,three point jumper,True,26,False,True
+2007-12-06,47.0333333333,Minnesota Timberwolves,Houston Rockets,4,81-87,3,three point jumper,True,25,False,True
+2007-02-05,24.5666666667,Minnesota Timberwolves,Houston Rockets,3,32-50,-20,two point jumper,False,1,True,True
+2007-02-05,26.2666666667,Minnesota Timberwolves,Houston Rockets,3,36-54,-20,two point jumper,False,16,False,True
+2007-02-05,27.5666666667,Minnesota Timberwolves,Houston Rockets,3,38-58,-23,three point jumper,False,25,False,True
+2007-02-05,28.0,Minnesota Timberwolves,Houston Rockets,3,40-59,-21,two point jumper,False,18,True,True
+2007-02-05,29.95,Minnesota Timberwolves,Houston Rockets,3,42-65,-26,three point jumper,False,26,False,True
+2007-11-18,12.0,Minnesota Timberwolves,New Orleans Pelicans,1,32-28,-6,two point jumper,True,1,True,False
+2007-11-18,13.0666666667,Minnesota Timberwolves,New Orleans Pelicans,2,32-28,-7,three point jumper,True,26,False,False
+2007-11-18,15.0,Minnesota Timberwolves,New Orleans Pelicans,2,38-28,-12,two point jumper,True,19,False,False
+2007-11-18,15.5,Minnesota Timberwolves,New Orleans Pelicans,2,38-31,-10,three point jumper,True,24,True,False
+2007-11-18,19.1,Minnesota Timberwolves,New Orleans Pelicans,2,40-37,-6,three point jumper,True,24,True,False
+2007-11-18,19.35,Minnesota Timberwolves,New Orleans Pelicans,2,40-37,-5,two point jumper,True,16,False,False
+2007-11-18,20.8333333333,Minnesota Timberwolves,New Orleans Pelicans,2,42-44,-1,three point jumper,True,23,True,False
+2007-11-18,22.1833333333,Minnesota Timberwolves,New Orleans Pelicans,2,44-49,3,two point jumper,True,18,True,False
+2007-11-18,23.2666666667,Minnesota Timberwolves,New Orleans Pelicans,2,48-53,3,two point jumper,True,17,True,False
+2007-11-18,23.7666666667,Minnesota Timberwolves,New Orleans Pelicans,2,48-53,3,two point jumper,True,19,False,False
+2007-11-18,34.75,Minnesota Timberwolves,New Orleans Pelicans,3,64-70,5,free throw,True,15,True,False
+2007-11-18,34.75,Minnesota Timberwolves,New Orleans Pelicans,3,64-71,6,free throw,True,15,True,False
+2007-11-18,35.45,Minnesota Timberwolves,New Orleans Pelicans,3,67-74,4,three point jumper,True,27,True,False
+2007-11-18,40.2833333333,Minnesota Timberwolves,New Orleans Pelicans,4,73-77,2,two point jumper,True,1,False,False
+2007-11-18,40.75,Minnesota Timberwolves,New Orleans Pelicans,4,75-77,0,two point jumper,True,20,False,False
+2007-11-24,16.7333333333,Minnesota Timberwolves,New Orleans Pelicans,2,34-30,1,three point jumper,False,25,True,True
+2007-11-24,17.6,Minnesota Timberwolves,New Orleans Pelicans,2,34-33,-1,two point jumper,False,18,False,True
+2007-11-24,21.2,Minnesota Timberwolves,New Orleans Pelicans,2,38-39,-4,three point jumper,False,25,False,True
+2007-11-24,43.5666666667,Minnesota Timberwolves,New Orleans Pelicans,4,79-69,7,three point jumper,False,25,True,True
+2007-11-24,44.1166666667,Minnesota Timberwolves,New Orleans Pelicans,4,81-69,10,two point jumper,False,17,True,True
+2007-11-24,45.15,Minnesota Timberwolves,New Orleans Pelicans,4,81-74,4,three point jumper,False,25,False,True
+2007-11-24,46.2166666667,Minnesota Timberwolves,New Orleans Pelicans,4,83-74,7,two point jumper,False,1,False,True
+2007-11-24,47.3,Minnesota Timberwolves,New Orleans Pelicans,4,85-75,9,free throw,False,15,True,True
+2007-11-24,47.3,Minnesota Timberwolves,New Orleans Pelicans,4,85-75,9,free throw,False,15,False,True
+2007-01-17,38.2166666667,Minnesota Timberwolves,Atlanta Hawks,4,89-67,-24,two point jumper,True,21,True,True
+2007-01-17,41.5333333333,Minnesota Timberwolves,Atlanta Hawks,4,97-73,-26,two point jumper,True,17,True,True
+2007-01-17,42.1,Minnesota Timberwolves,Atlanta Hawks,4,99-73,-28,two point shot,True,1,False,True
+2007-01-17,45.1833333333,Minnesota Timberwolves,Atlanta Hawks,4,103-79,-27,three point jumper,True,23,False,True
+2007-01-17,45.45,Minnesota Timberwolves,Atlanta Hawks,4,103-79,-27,three point jumper,True,25,False,True
+2007-01-17,47.0,Minnesota Timberwolves,Atlanta Hawks,4,105-86,-22,three point jumper,True,25,True,True
+2007-03-10,2.96666666667,Minnesota Timberwolves,Atlanta Hawks,1,2-4,-4,two point jumper,False,17,False,False
+2007-03-10,5.81666666667,Minnesota Timberwolves,Atlanta Hawks,1,6-11,-7,two point jumper,False,16,False,False
+2007-03-10,23.25,Minnesota Timberwolves,Atlanta Hawks,2,48-41,4,three point jumper,False,26,True,False
+2007-03-10,23.9666666667,Minnesota Timberwolves,Atlanta Hawks,2,48-44,2,two point jumper,False,19,False,False
+2007-03-10,26.3833333333,Minnesota Timberwolves,Atlanta Hawks,3,54-49,3,two point jumper,False,17,False,False
+2007-03-10,26.95,Minnesota Timberwolves,Atlanta Hawks,3,56-51,3,layup,False,0,False,False
+2007-03-10,27.2,Minnesota Timberwolves,Atlanta Hawks,3,58-51,5,two point jumper,False,17,True,False
+2007-03-10,29.0333333333,Minnesota Timberwolves,Atlanta Hawks,3,66-55,9,two point jumper,False,18,True,False
+2007-03-10,32.4833333333,Minnesota Timberwolves,Atlanta Hawks,3,70-68,0,two point jumper,False,20,False,False
+2007-03-10,46.4833333333,Minnesota Timberwolves,Atlanta Hawks,4,93-93,-3,three point jumper,False,27,True,False
+2007-03-10,47.8166666667,Minnesota Timberwolves,Atlanta Hawks,4,95-97,-5,three point jumper,False,27,False,False
+2007-03-10,47.8666666667,Minnesota Timberwolves,Atlanta Hawks,4,95-99,-6,two point jumper,False,1,False,False
+2007-03-09,2.7,Minnesota Timberwolves,Miami Heat,1,8-6,0,two point jumper,False,8,True,True
+2007-03-09,4.31666666667,Minnesota Timberwolves,Miami Heat,1,9-8,-2,three point jumper,False,25,False,True
+2007-03-09,19.5333333333,Minnesota Timberwolves,Miami Heat,2,35-40,-7,two point jumper,False,1,False,True
+2007-03-09,21.5333333333,Minnesota Timberwolves,Miami Heat,2,37-46,-11,layup,False,0,False,True
+2007-03-09,21.95,Minnesota Timberwolves,Miami Heat,2,39-46,-9,two point jumper,False,18,True,True
+2007-03-09,27.45,Minnesota Timberwolves,Miami Heat,3,51-57,-8,two point jumper,False,17,False,True
+2007-03-09,30.1666666667,Minnesota Timberwolves,Miami Heat,3,57-64,-9,two point jumper,False,19,True,True
+2007-03-09,31.8833333333,Minnesota Timberwolves,Miami Heat,3,60-68,-9,free throw,False,15,True,True
+2007-03-09,31.8833333333,Minnesota Timberwolves,Miami Heat,3,61-68,-8,free throw,False,15,True,True
+2007-03-09,33.3,Minnesota Timberwolves,Miami Heat,3,65-74,-11,two point jumper,False,19,False,True
+2007-11-03,8.83333333333,Minnesota Timberwolves,Denver Nuggets,1,21-14,5,two point jumper,False,1,True,True
+2007-11-03,9.23333333333,Minnesota Timberwolves,Denver Nuggets,1,23-16,5,two point shot,False,9,True,True
+2007-11-03,11.5166666667,Minnesota Timberwolves,Denver Nuggets,1,25-25,-1,free throw,False,15,False,True
+2007-11-03,11.5166666667,Minnesota Timberwolves,Denver Nuggets,1,26-25,0,free throw,False,15,True,True
+2007-11-03,13.25,Minnesota Timberwolves,Denver Nuggets,2,28-27,-1,two point jumper,False,19,False,True
+2007-11-03,38.6333333333,Minnesota Timberwolves,Denver Nuggets,4,91-96,-6,free throw,False,15,True,True
+2007-11-03,38.6333333333,Minnesota Timberwolves,Denver Nuggets,4,92-96,-5,free throw,False,15,True,True
+2007-11-03,40.6333333333,Minnesota Timberwolves,Denver Nuggets,4,94-98,-7,three point jumper,False,23,False,True
+2007-11-03,41.85,Minnesota Timberwolves,Denver Nuggets,4,99-98,-1,two point jumper,False,20,True,True
+2007-11-03,42.5666666667,Minnesota Timberwolves,Denver Nuggets,4,99-101,-4,two point jumper,False,17,False,True
+2007-12-01,20.4833333333,Minnesota Timberwolves,Denver Nuggets,2,47-35,-15,three point jumper,True,24,False,True
+2007-11-04,16.2833333333,Minnesota Timberwolves,Portland Trail Blazers,2,34-27,4,three point jumper,False,25,False,False
+2007-11-04,41.5333333333,Minnesota Timberwolves,Portland Trail Blazers,4,77-79,-4,layup,False,0,False,False
+2007-12-29,40.9833333333,Minnesota Timberwolves,Oklahoma City Thunder,4,59-85,23,three point jumper,True,23,False,False
+2007-12-29,41.95,Minnesota Timberwolves,Oklahoma City Thunder,4,64-85,18,three point jumper,True,24,False,False
+2007-01-22,20.3333333333,Minnesota Timberwolves,Utah Jazz,2,34-39,-7,two point jumper,False,19,False,True
+2007-01-22,21.4833333333,Minnesota Timberwolves,Utah Jazz,2,34-43,-12,three point jumper,False,25,False,True
+2007-01-22,22.15,Minnesota Timberwolves,Utah Jazz,2,36-43,-9,two point jumper,False,12,False,True
+2007-01-22,23.2,Minnesota Timberwolves,Utah Jazz,2,36-47,-13,layup,False,0,False,True
+2007-01-22,23.2166666667,Minnesota Timberwolves,Utah Jazz,2,36-47,-13,tip shot,False,0,False,True
+2007-03-02,11.9833333333,Minnesota Timberwolves,Utah Jazz,1,22-19,-6,three point jumper,True,26,False,True
+2007-03-02,12.6166666667,Minnesota Timberwolves,Utah Jazz,2,22-19,-5,layup,True,0,False,True
+2007-03-02,32.85,Minnesota Timberwolves,Utah Jazz,3,76-54,-24,two point jumper,True,16,False,True
+2007-03-02,38.0666666667,Minnesota Timberwolves,Utah Jazz,4,86-72,-17,three point jumper,True,25,True,True
+2007-03-02,41.0333333333,Minnesota Timberwolves,Utah Jazz,4,96-74,-24,two point jumper,True,16,True,True
+2007-03-02,41.4166666667,Minnesota Timberwolves,Utah Jazz,4,96-74,-24,two point jumper,True,12,False,True
+2007-03-02,41.45,Minnesota Timberwolves,Utah Jazz,4,96-74,-24,two point shot,True,12,False,True
+2007-03-02,42.2,Minnesota Timberwolves,Utah Jazz,4,96-74,-25,three point jumper,True,26,False,True
+2007-03-02,43.1333333333,Minnesota Timberwolves,Utah Jazz,4,98-74,-27,three point jumper,True,26,False,True
+2008-10-30,14.5,Golden State Warriors,Utah Jazz,2,36-31,-7,two point shot,True,1,False,True
+2008-10-30,32.9833333333,Golden State Warriors,Utah Jazz,3,81-67,-16,two point jumper,True,15,False,True
+2008-10-30,34.2333333333,Golden State Warriors,Utah Jazz,3,81-72,-11,two point jumper,True,20,False,True
+2008-10-30,34.5833333333,Golden State Warriors,Utah Jazz,3,83-72,-13,two point jumper,True,19,False,True
+2008-10-30,35.2333333333,Golden State Warriors,Utah Jazz,3,85-72,-15,two point jumper,True,6,False,True
+2008-10-30,45.0,Golden State Warriors,Utah Jazz,4,110-92,-20,two point jumper,True,18,True,True
+2008-12-02,41.85,Golden State Warriors,Oklahoma City Thunder,4,104-79,23,two point jumper,False,18,False,False
+2008-12-02,43.95,Golden State Warriors,Oklahoma City Thunder,4,104-83,19,two point jumper,False,18,False,False
+2008-12-02,45.1833333333,Golden State Warriors,Oklahoma City Thunder,4,108-85,21,two point jumper,False,12,True,False
+2008-12-02,46.9166666667,Golden State Warriors,Oklahoma City Thunder,4,109-92,15,two point jumper,False,8,False,False
+2008-12-05,40.0,Golden State Warriors,Milwaukee Bucks,4,71-97,23,three point jumper,True,25,True,False
+2008-12-05,44.45,Golden State Warriors,Milwaukee Bucks,4,85-109,21,three point jumper,True,26,False,False
+2008-12-07,8.66666666667,Golden State Warriors,Miami Heat,1,30-20,-12,two point jumper,True,9,False,True
+2008-12-07,10.35,Golden State Warriors,Miami Heat,1,32-26,-8,two point jumper,True,17,False,True
+2008-12-07,34.9,Golden State Warriors,Miami Heat,3,89-77,-15,three point jumper,True,28,False,True
+2008-12-07,36.0,Golden State Warriors,Miami Heat,3,91-82,-12,three point jumper,True,53,False,True
+2008-12-07,47.45,Golden State Warriors,Miami Heat,4,113-120,4,three point jumper,True,23,False,True
+2008-12-09,13.05,Golden State Warriors,Los Angeles Lakers,2,33-33,-2,two point shot,False,1,True,False
+2008-12-09,15.3666666667,Golden State Warriors,Los Angeles Lakers,2,37-40,-5,two point jumper,False,20,False,False
+2008-12-09,15.4333333333,Golden State Warriors,Los Angeles Lakers,2,37-40,-6,three point jumper,False,26,False,False
+2008-12-09,17.9833333333,Golden State Warriors,Los Angeles Lakers,2,47-43,1,three point jumper,False,23,False,False
+2008-12-09,19.3833333333,Golden State Warriors,Los Angeles Lakers,2,51-45,5,free throw,False,15,True,False
+2008-12-09,19.3833333333,Golden State Warriors,Los Angeles Lakers,2,52-45,6,free throw,False,15,True,False
+2008-12-09,32.5,Golden State Warriors,Los Angeles Lakers,3,77-84,-9,two point jumper,False,22,False,False
+2008-12-09,35.9833333333,Golden State Warriors,Los Angeles Lakers,3,86-92,-8,two point jumper,False,21,True,False
+2008-12-09,36.5666666667,Golden State Warriors,Los Angeles Lakers,4,86-95,-11,two point jumper,False,12,False,False
+2008-12-12,17.4833333333,Golden State Warriors,Portland Trail Blazers,2,30-42,-14,two point jumper,False,19,True,True
+2008-12-12,18.8833333333,Golden State Warriors,Portland Trail Blazers,2,37-43,-9,three point jumper,False,25,True,True
+2008-12-12,19.7833333333,Golden State Warriors,Portland Trail Blazers,2,37-45,-11,three point jumper,False,23,False,True
+2008-12-12,33.3666666667,Golden State Warriors,Portland Trail Blazers,3,72-79,-10,three point jumper,False,25,True,True
+2008-12-12,33.7833333333,Golden State Warriors,Portland Trail Blazers,3,72-81,-12,three point jumper,False,25,False,True
+2008-12-12,36.55,Golden State Warriors,Portland Trail Blazers,4,77-85,-10,two point jumper,False,20,False,True
+2008-12-12,37.5,Golden State Warriors,Portland Trail Blazers,4,78-87,-10,free throw,False,15,True,True
+2008-12-12,37.5,Golden State Warriors,Portland Trail Blazers,4,79-87,-9,free throw,False,15,True,True

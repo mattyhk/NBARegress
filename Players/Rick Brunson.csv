@@ -1,0 +1,65 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2006-03-13,9.06666666667,Houston Rockets,Brooklyn Nets,1,14-18,2,two point jumper,True,16,False,False
+2006-03-13,11.1333333333,Houston Rockets,Brooklyn Nets,1,18-24,4,two point jumper,True,17,True,False
+2006-03-13,15.8833333333,Houston Rockets,Brooklyn Nets,2,31-30,-3,two point jumper,True,15,True,False
+2006-03-13,17.8833333333,Houston Rockets,Brooklyn Nets,2,38-34,-7,three point jumper,True,26,False,False
+2006-03-13,41.35,Houston Rockets,Brooklyn Nets,4,78-65,-16,three point jumper,True,25,False,False
+2006-04-07,30.3833333333,Houston Rockets,Golden State Warriors,3,62-65,-5,two point jumper,False,17,False,False
+2006-04-07,31.1333333333,Houston Rockets,Golden State Warriors,3,64-67,-5,two point jumper,False,18,False,False
+2006-11-02,16.0,Oklahoma City Thunder,Los Angeles Clippers,2,29-31,-1,three point jumper,True,23,False,True
+2006-03-20,16.85,Houston Rockets,Los Angeles Clippers,2,33-31,-4,layup,True,0,False,False
+2006-03-20,17.1,Houston Rockets,Los Angeles Clippers,2,33-31,-4,layup,True,0,False,False
+2006-03-20,18.4833333333,Houston Rockets,Los Angeles Clippers,2,35-33,-5,three point jumper,True,24,False,False
+2006-03-20,41.85,Houston Rockets,Los Angeles Clippers,4,85-80,-7,two point jumper,True,21,False,False
+2006-04-02,43.95,Houston Rockets,Los Angeles Lakers,4,82-97,-17,two point jumper,False,15,False,True
+2006-04-02,47.55,Houston Rockets,Los Angeles Lakers,4,87-102,-16,free throw,False,15,True,True
+2006-04-02,47.55,Houston Rockets,Los Angeles Lakers,4,88-102,-15,free throw,False,15,True,True
+2006-04-09,40.2833333333,Houston Rockets,Sacramento Kings,4,63-66,-5,two point jumper,False,19,True,False
+2006-03-26,19.2833333333,Houston Rockets,Cleveland Cavaliers,2,39-38,-4,three point jumper,True,25,True,False
+2006-03-26,21.4833333333,Houston Rockets,Cleveland Cavaliers,2,39-43,1,three point jumper,True,24,True,False
+2006-03-08,31.6,Houston Rockets,Indiana Pacers,3,83-69,-16,two point jumper,True,20,False,False
+2006-03-15,16.7,Houston Rockets,Dallas Mavericks,2,37-25,-14,two point jumper,True,22,False,False
+2006-03-15,41.7,Houston Rockets,Dallas Mavericks,4,85-77,-10,two point jumper,True,21,False,False
+2006-03-21,47.1666666667,Houston Rockets,Dallas Mavericks,4,72-88,-18,two point jumper,False,18,False,False
+2006-03-21,47.7166666667,Houston Rockets,Dallas Mavericks,4,72-88,-18,two point jumper,False,20,False,False
+2006-03-07,19.6333333333,Houston Rockets,Minnesota Timberwolves,2,30-32,-4,two point jumper,False,16,False,True
+2006-03-07,40.1666666667,Houston Rockets,Minnesota Timberwolves,4,71-67,2,two point jumper,False,22,True,True
+2006-03-07,42.1666666667,Houston Rockets,Minnesota Timberwolves,4,75-68,5,layup,False,0,True,True
+2006-03-07,42.1666666667,Houston Rockets,Minnesota Timberwolves,4,75-68,6,free throw,False,15,False,True
+2006-03-07,47.8333333333,Houston Rockets,Minnesota Timberwolves,4,92-85,6,free throw,False,15,False,True
+2006-03-07,47.8333333333,Houston Rockets,Minnesota Timberwolves,4,92-85,6,free throw,False,15,False,True
+2006-03-12,19.6333333333,Houston Rockets,San Antonio Spurs,2,37-34,1,layup,False,0,True,False
+2006-03-12,20.8333333333,Houston Rockets,San Antonio Spurs,2,39-34,3,two point jumper,False,19,True,False
+2006-03-12,32.9166666667,Houston Rockets,San Antonio Spurs,3,50-59,-12,three point jumper,False,23,False,False
+2006-03-12,37.75,Houston Rockets,San Antonio Spurs,4,58-66,-11,three point jumper,False,23,True,False
+2006-03-12,38.8833333333,Houston Rockets,San Antonio Spurs,4,58-66,-10,two point jumper,False,1,False,False
+2006-03-12,39.2166666667,Houston Rockets,San Antonio Spurs,4,58-66,-10,two point jumper,False,17,False,False
+2006-03-12,44.0,Houston Rockets,San Antonio Spurs,4,72-77,-8,three point jumper,False,25,True,False
+2006-03-18,11.5666666667,Houston Rockets,San Antonio Spurs,1,11-17,3,three point jumper,True,23,False,False
+2006-03-29,23.95,Houston Rockets,Oklahoma City Thunder,2,32-63,30,free throw,True,15,True,False
+2006-03-29,23.95,Houston Rockets,Oklahoma City Thunder,2,32-64,31,free throw,True,15,True,False
+2006-03-29,46.3333333333,Houston Rockets,Oklahoma City Thunder,4,86-111,24,free throw,True,15,False,False
+2006-03-29,46.3333333333,Houston Rockets,Oklahoma City Thunder,4,86-112,25,free throw,True,15,True,False
+2006-03-29,46.8333333333,Houston Rockets,Oklahoma City Thunder,4,86-114,26,layup,True,0,True,False
+2006-03-29,46.8333333333,Houston Rockets,Oklahoma City Thunder,4,86-115,28,free throw,True,15,True,False
+2006-03-31,17.7333333333,Houston Rockets,Washington Wizards,2,38-37,-4,three point jumper,True,25,False,True
+2006-03-31,43.6666666667,Houston Rockets,Washington Wizards,4,88-97,8,free throw,True,15,False,True
+2006-03-31,43.6666666667,Houston Rockets,Washington Wizards,4,88-98,9,free throw,True,15,True,True
+2006-03-31,44.15,Houston Rockets,Washington Wizards,4,90-100,8,layup,True,0,True,True
+2006-03-31,44.95,Houston Rockets,Washington Wizards,4,91-102,9,two point jumper,True,15,False,True
+2006-04-04,17.6333333333,Houston Rockets,Oklahoma City Thunder,2,29-40,-13,two point jumper,False,18,False,True
+2006-04-04,17.8833333333,Houston Rockets,Oklahoma City Thunder,2,31-40,-11,layup,False,0,True,True
+2006-04-04,35.05,Houston Rockets,Oklahoma City Thunder,3,64-75,-14,three point jumper,False,23,True,True
+2006-04-04,39.45,Houston Rockets,Oklahoma City Thunder,4,70-83,-15,layup,False,0,False,True
+2006-04-04,40.25,Houston Rockets,Oklahoma City Thunder,4,73-86,-15,layup,False,0,False,True
+2006-04-04,47.45,Houston Rockets,Oklahoma City Thunder,4,87-102,-17,two point jumper,False,17,False,True
+2006-04-12,20.1833333333,Houston Rockets,Minnesota Timberwolves,2,23-39,13,three point jumper,True,24,False,False
+2006-04-12,12.4166666667,Houston Rockets,Minnesota Timberwolves,5,65-73,6,two point jumper,True,18,True,False
+2006-04-12,15.5666666667,Houston Rockets,Minnesota Timberwolves,5,69-75,4,two point jumper,True,17,False,False
+2006-02-22,12.3833333333,Oklahoma City Thunder,Atlanta Hawks,2,32-26,4,layup,False,0,True,True
+2006-02-22,13.05,Oklahoma City Thunder,Atlanta Hawks,2,34-28,4,two point jumper,False,16,True,True
+2006-02-24,11.25,Oklahoma City Thunder,Orlando Magic,1,17-25,-10,two point jumper,False,14,False,True
+2006-02-24,12.0,Oklahoma City Thunder,Orlando Magic,1,17-27,-12,two point jumper,False,13,False,True
+2006-02-24,22.2833333333,Oklahoma City Thunder,Orlando Magic,2,46-53,-9,two point jumper,False,1,True,True
+2006-02-24,31.75,Oklahoma City Thunder,Orlando Magic,3,64-66,-4,two point jumper,False,17,True,True
+2006-02-24,19.2666666667,Oklahoma City Thunder,Orlando Magic,5,85-98,-15,two point shot,False,16,True,True

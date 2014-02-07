@@ -1,0 +1,663 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2012-03-07,45.8,Philadelphia 76ers,Boston Celtics,4,65-100,33,two point jumper,True,1,True,False
+2012-04-08,40.75,Philadelphia 76ers,Boston Celtics,4,72-88,-18,two point jumper,False,15,False,True
+2012-04-08,44.25,Philadelphia 76ers,Boston Celtics,4,76-96,-22,two point jumper,False,1,True,True
+2012-04-08,46.1,Philadelphia 76ers,Boston Celtics,4,78-96,-20,layup,False,0,True,True
+2012-04-08,46.6,Philadelphia 76ers,Boston Celtics,4,78-99,-23,two point jumper,False,18,False,True
+2012-04-08,47.2666666667,Philadelphia 76ers,Boston Celtics,4,78-103,-27,two point jumper,False,18,False,True
+2012-01-25,28.4833333333,Philadelphia 76ers,Brooklyn Nets,3,53-50,-4,free throw,True,15,True,False
+2012-01-25,28.4833333333,Philadelphia 76ers,Brooklyn Nets,3,53-51,-3,free throw,True,15,True,False
+2012-01-25,29.9833333333,Philadelphia 76ers,Brooklyn Nets,3,57-51,-8,two point jumper,True,1,False,False
+2012-01-25,30.5666666667,Philadelphia 76ers,Brooklyn Nets,3,57-51,-8,two point jumper,True,18,False,False
+2012-01-25,33.2166666667,Philadelphia 76ers,Brooklyn Nets,3,59-55,-6,two point jumper,True,11,True,False
+2012-01-25,33.75,Philadelphia 76ers,Brooklyn Nets,3,59-57,-4,two point jumper,True,17,True,False
+2012-01-25,40.45,Philadelphia 76ers,Brooklyn Nets,4,70-69,-3,two point jumper,True,16,False,False
+2012-04-10,46.75,Philadelphia 76ers,Brooklyn Nets,4,105-86,17,two point jumper,False,18,False,False
+2012-04-10,47.25,Philadelphia 76ers,Brooklyn Nets,4,107-86,19,hook shot,False,1,True,False
+2012-04-23,6.48333333333,Philadelphia 76ers,Brooklyn Nets,1,19-9,8,two point jumper,False,17,True,False
+2012-04-23,17.9166666667,Philadelphia 76ers,Brooklyn Nets,2,41-29,10,layup,False,0,True,False
+2012-04-23,17.9166666667,Philadelphia 76ers,Brooklyn Nets,2,42-29,12,free throw,False,15,True,False
+2012-04-23,24.7666666667,Philadelphia 76ers,Brooklyn Nets,3,55-43,10,two point jumper,False,12,True,False
+2012-04-23,29.5333333333,Philadelphia 76ers,Brooklyn Nets,3,63-54,7,two point jumper,False,14,True,False
+2012-04-23,31.95,Philadelphia 76ers,Brooklyn Nets,3,63-60,1,two point jumper,False,15,False,False
+2012-01-07,46.2166666667,Philadelphia 76ers,Toronto Raptors,4,62-94,30,two point jumper,True,17,False,True
+2012-01-10,44.8166666667,Philadelphia 76ers,Sacramento Kings,4,76-107,30,free throw,True,15,False,False
+2012-01-10,44.8166666667,Philadelphia 76ers,Sacramento Kings,4,76-108,31,free throw,True,15,True,False
+2012-01-10,45.5,Philadelphia 76ers,Sacramento Kings,4,78-110,30,two point jumper,True,1,True,False
+2012-01-10,47.1,Philadelphia 76ers,Sacramento Kings,4,83-112,27,two point shot,True,1,True,False
+2012-01-21,39.3,Philadelphia 76ers,Miami Heat,4,75-92,-19,two point jumper,False,14,True,True
+2012-01-21,44.35,Philadelphia 76ers,Miami Heat,4,87-98,-13,two point jumper,False,17,False,True
+2012-01-21,46.0,Philadelphia 76ers,Miami Heat,4,89-104,-17,two point jumper,False,7,False,True
+2012-01-23,12.9,Philadelphia 76ers,Washington Wizards,2,14-35,19,two point jumper,True,17,True,False
+2012-01-23,14.45,Philadelphia 76ers,Washington Wizards,2,18-39,19,two point jumper,True,19,True,False
+2012-01-23,32.6,Philadelphia 76ers,Washington Wizards,3,51-77,24,two point jumper,True,6,True,False
+2012-01-23,34.7833333333,Philadelphia 76ers,Washington Wizards,3,56-83,25,hook shot,True,1,True,False
+2012-01-23,46.2166666667,Philadelphia 76ers,Washington Wizards,4,81-101,18,two point jumper,True,16,True,False
+2012-01-27,9.01666666667,Philadelphia 76ers,Charlotte Bobcats,1,10-18,6,two point jumper,True,16,True,True
+2012-01-27,14.3833333333,Philadelphia 76ers,Charlotte Bobcats,2,17-27,8,two point jumper,True,17,False,True
+2012-01-27,31.4833333333,Philadelphia 76ers,Charlotte Bobcats,3,47-68,19,dunk,True,0,True,True
+2012-01-27,31.8833333333,Philadelphia 76ers,Charlotte Bobcats,3,47-70,21,two point jumper,True,14,True,True
+2012-01-27,38.55,Philadelphia 76ers,Charlotte Bobcats,4,51-77,24,two point jumper,True,11,False,True
+2012-01-27,42.7,Philadelphia 76ers,Charlotte Bobcats,4,61-84,21,two point shot,True,7,True,True
+2012-01-27,44.0,Philadelphia 76ers,Charlotte Bobcats,4,66-86,18,two point jumper,True,15,False,True
+2012-01-28,9.66666666667,Philadelphia 76ers,Detroit Pistons,1,8-18,8,two point jumper,True,16,False,True
+2012-01-28,13.3833333333,Philadelphia 76ers,Detroit Pistons,2,16-26,8,two point jumper,True,10,False,True
+2012-01-28,19.9166666667,Philadelphia 76ers,Detroit Pistons,2,27-38,9,layup,True,0,True,True
+2012-01-28,22.2833333333,Philadelphia 76ers,Detroit Pistons,2,29-40,9,two point jumper,True,19,False,True
+2012-01-28,31.7333333333,Philadelphia 76ers,Detroit Pistons,3,44-60,14,layup,True,0,True,True
+2012-01-28,31.7333333333,Philadelphia 76ers,Detroit Pistons,3,44-61,16,free throw,True,15,True,True
+2012-01-28,38.25,Philadelphia 76ers,Detroit Pistons,4,53-76,21,dunk,True,0,True,True
+2012-01-30,13.6333333333,Philadelphia 76ers,Orlando Magic,2,18-21,1,two point jumper,True,17,False,True
+2012-01-30,20.4833333333,Philadelphia 76ers,Orlando Magic,2,27-32,3,two point jumper,True,16,False,True
+2012-01-30,34.4833333333,Philadelphia 76ers,Orlando Magic,3,42-56,12,two point jumper,True,16,False,True
+2012-01-30,35.15,Philadelphia 76ers,Orlando Magic,3,42-58,14,two point jumper,True,16,False,True
+2012-02-01,5.95,Philadelphia 76ers,Chicago Bulls,1,15-11,-6,two point shot,True,17,True,True
+2012-02-01,9.96666666667,Philadelphia 76ers,Chicago Bulls,1,19-23,2,two point jumper,True,13,True,True
+2012-02-01,10.9666666667,Philadelphia 76ers,Chicago Bulls,1,19-25,4,dunk,True,0,True,True
+2012-02-01,12.8833333333,Philadelphia 76ers,Chicago Bulls,2,21-27,4,two point jumper,True,16,False,True
+2012-02-01,15.4333333333,Philadelphia 76ers,Chicago Bulls,2,26-34,6,two point shot,True,1,True,True
+2012-02-01,31.85,Philadelphia 76ers,Chicago Bulls,3,50-66,14,layup,True,0,True,True
+2012-02-01,35.0666666667,Philadelphia 76ers,Chicago Bulls,3,55-72,15,two point jumper,True,9,True,True
+2012-02-01,37.95,Philadelphia 76ers,Chicago Bulls,4,57-75,16,two point jumper,True,18,False,True
+2012-02-01,41.95,Philadelphia 76ers,Chicago Bulls,4,69-83,12,dunk,True,0,True,True
+2012-02-01,42.7833333333,Philadelphia 76ers,Chicago Bulls,4,71-84,12,free throw,True,15,False,True
+2012-02-01,42.7833333333,Philadelphia 76ers,Chicago Bulls,4,71-85,13,free throw,True,15,True,True
+2012-02-03,8.08333333333,Philadelphia 76ers,Miami Heat,1,18-16,-4,two point jumper,True,16,True,False
+2012-02-03,8.51666666667,Philadelphia 76ers,Miami Heat,1,20-16,-6,two point jumper,True,16,False,False
+2012-02-03,31.9833333333,Philadelphia 76ers,Miami Heat,3,59-54,-6,free throw,True,15,True,False
+2012-02-03,31.9833333333,Philadelphia 76ers,Miami Heat,3,59-55,-5,free throw,True,15,True,False
+2012-02-03,33.5833333333,Philadelphia 76ers,Miami Heat,3,61-61,-2,two point jumper,True,17,True,False
+2012-02-03,35.5833333333,Philadelphia 76ers,Miami Heat,3,65-63,-4,layup,True,0,True,False
+2012-02-04,20.15,Philadelphia 76ers,Atlanta Hawks,2,42-33,7,two point shot,False,1,True,True
+2012-02-04,24.8166666667,Philadelphia 76ers,Atlanta Hawks,3,59-41,16,two point jumper,False,14,True,True
+2012-02-06,3.51666666667,Philadelphia 76ers,Los Angeles Lakers,1,6-2,-6,two point jumper,True,17,False,True
+2012-02-06,4.16666666667,Philadelphia 76ers,Los Angeles Lakers,1,9-4,-7,two point shot,True,5,True,True
+2012-02-06,5.85,Philadelphia 76ers,Los Angeles Lakers,1,10-8,-4,two point jumper,True,10,False,True
+2012-02-06,25.3666666667,Philadelphia 76ers,Los Angeles Lakers,3,52-50,-4,two point jumper,True,1,True,True
+2012-02-06,26.7666666667,Philadelphia 76ers,Los Angeles Lakers,3,54-50,-6,two point jumper,True,15,False,True
+2012-02-08,5.2,Philadelphia 76ers,San Antonio Spurs,1,7-6,-3,two point jumper,True,12,False,True
+2012-02-08,5.66666666667,Philadelphia 76ers,San Antonio Spurs,1,9-6,-5,tip shot,True,0,False,True
+2012-02-08,10.0833333333,Philadelphia 76ers,San Antonio Spurs,1,20-17,-5,two point jumper,True,16,False,True
+2012-02-08,11.3833333333,Philadelphia 76ers,San Antonio Spurs,1,23-19,-6,two point jumper,True,5,False,True
+2012-02-08,12.6833333333,Philadelphia 76ers,San Antonio Spurs,2,26-24,-4,hook shot,True,4,False,True
+2012-02-08,13.7,Philadelphia 76ers,San Antonio Spurs,2,30-24,-8,two point jumper,True,15,False,True
+2012-02-08,14.1166666667,Philadelphia 76ers,San Antonio Spurs,2,30-26,-6,tip shot,True,0,True,True
+2012-02-10,5.45,Philadelphia 76ers,Los Angeles Clippers,1,10-8,-4,two point jumper,True,11,False,False
+2012-02-10,7.03333333333,Philadelphia 76ers,Los Angeles Clippers,1,12-15,1,hook shot,True,1,True,False
+2012-02-10,7.66666666667,Philadelphia 76ers,Los Angeles Clippers,1,12-17,3,two point jumper,True,18,True,False
+2012-02-10,20.7666666667,Philadelphia 76ers,Los Angeles Clippers,2,35-37,0,two point jumper,True,15,False,False
+2012-02-10,22.7666666667,Philadelphia 76ers,Los Angeles Clippers,2,39-40,0,free throw,True,15,False,False
+2012-02-10,22.7666666667,Philadelphia 76ers,Los Angeles Clippers,2,39-41,1,free throw,True,15,True,False
+2012-02-10,33.8666666667,Philadelphia 76ers,Los Angeles Clippers,3,56-61,3,two point jumper,True,10,False,False
+2012-02-11,9.18333333333,Philadelphia 76ers,Cleveland Cavaliers,1,16-15,-1,two point jumper,False,19,False,True
+2012-02-11,28.25,Philadelphia 76ers,Cleveland Cavaliers,3,62-47,13,layup,False,0,False,True
+2012-02-11,29.1666666667,Philadelphia 76ers,Cleveland Cavaliers,3,64-47,15,two point shot,False,5,False,True
+2012-02-13,5.81666666667,Philadelphia 76ers,Charlotte Bobcats,1,13-9,2,hook shot,False,6,True,True
+2012-02-13,20.8333333333,Philadelphia 76ers,Charlotte Bobcats,2,46-38,6,two point jumper,False,16,False,True
+2012-02-15,2.81666666667,Philadelphia 76ers,Orlando Magic,1,4-7,-5,two point jumper,False,8,True,True
+2012-02-15,3.58333333333,Philadelphia 76ers,Orlando Magic,1,4-7,-5,two point jumper,False,1,False,True
+2012-02-15,4.66666666667,Philadelphia 76ers,Orlando Magic,1,4-10,-8,hook shot,False,7,False,True
+2012-02-17,1.56666666667,Philadelphia 76ers,Dallas Mavericks,1,0-4,2,two point jumper,True,18,True,False
+2012-02-17,5.45,Philadelphia 76ers,Dallas Mavericks,1,11-8,-5,two point jumper,True,7,False,False
+2012-02-17,6.6,Philadelphia 76ers,Dallas Mavericks,1,13-12,-3,two point jumper,True,8,True,False
+2012-02-17,7.7,Philadelphia 76ers,Dallas Mavericks,1,13-16,1,two point jumper,True,18,True,False
+2012-02-17,17.1,Philadelphia 76ers,Dallas Mavericks,2,26-39,11,two point jumper,True,7,False,False
+2012-02-17,19.75,Philadelphia 76ers,Dallas Mavericks,2,34-43,7,two point jumper,True,14,True,False
+2012-02-17,28.4833333333,Philadelphia 76ers,Dallas Mavericks,3,44-53,7,two point jumper,True,19,False,False
+2012-02-19,3.36666666667,Philadelphia 76ers,Minnesota Timberwolves,1,10-5,3,two point jumper,False,22,False,False
+2012-02-19,5.41666666667,Philadelphia 76ers,Minnesota Timberwolves,1,16-7,7,layup,False,0,True,False
+2012-02-19,24.3166666667,Philadelphia 76ers,Minnesota Timberwolves,3,51-44,5,layup,False,0,True,False
+2012-02-19,25.5,Philadelphia 76ers,Minnesota Timberwolves,3,53-48,3,layup,False,0,True,False
+2012-02-19,27.55,Philadelphia 76ers,Minnesota Timberwolves,3,53-54,-3,two point jumper,False,14,False,False
+2012-02-21,3.68333333333,Philadelphia 76ers,Memphis Grizzlies,1,7-9,-4,dunk,False,0,True,False
+2012-02-21,15.4666666667,Philadelphia 76ers,Memphis Grizzlies,2,21-34,-15,two point jumper,False,14,True,False
+2012-02-21,16.3166666667,Philadelphia 76ers,Memphis Grizzlies,2,23-35,-14,two point shot,False,1,True,False
+2012-02-21,17.9833333333,Philadelphia 76ers,Memphis Grizzlies,2,27-41,-16,dunk,False,0,True,False
+2012-02-21,25.8666666667,Philadelphia 76ers,Memphis Grizzlies,3,42-51,-11,tip shot,False,0,False,False
+2012-02-21,28.5333333333,Philadelphia 76ers,Memphis Grizzlies,3,48-53,-7,two point jumper,False,17,True,False
+2012-02-21,31.0666666667,Philadelphia 76ers,Memphis Grizzlies,3,52-59,-9,hook shot,False,6,True,False
+2012-02-21,32.4166666667,Philadelphia 76ers,Memphis Grizzlies,3,52-61,-11,layup,False,0,False,False
+2012-02-21,33.15,Philadelphia 76ers,Memphis Grizzlies,3,55-61,-8,two point jumper,False,19,False,False
+2012-02-21,44.0666666667,Philadelphia 76ers,Memphis Grizzlies,4,74-80,-8,hook shot,False,4,True,False
+2012-02-21,47.5833333333,Philadelphia 76ers,Memphis Grizzlies,4,76-89,-15,two point jumper,False,1,False,False
+2012-02-22,2.56666666667,Philadelphia 76ers,Houston Rockets,1,2-3,-3,two point jumper,False,18,False,False
+2012-02-22,3.21666666667,Philadelphia 76ers,Houston Rockets,1,2-5,-5,two point jumper,False,17,False,False
+2012-02-22,6.1,Philadelphia 76ers,Houston Rockets,1,6-7,-3,two point jumper,False,8,False,False
+2012-02-22,27.1333333333,Philadelphia 76ers,Houston Rockets,3,46-51,-7,hook shot,False,9,True,False
+2012-02-22,29.7,Philadelphia 76ers,Houston Rockets,3,54-54,-2,two point jumper,False,6,True,False
+2012-02-28,1.4,Philadelphia 76ers,Detroit Pistons,1,4-5,-3,layup,False,0,True,True
+2012-02-28,13.3333333333,Philadelphia 76ers,Detroit Pistons,2,24-20,2,two point jumper,False,17,True,True
+2012-02-28,15.0666666667,Philadelphia 76ers,Detroit Pistons,2,31-20,9,tip shot,False,0,False,True
+2012-02-28,26.8166666667,Philadelphia 76ers,Detroit Pistons,3,56-34,20,layup,False,0,True,True
+2012-02-28,30.95,Philadelphia 76ers,Detroit Pistons,3,65-42,21,two point jumper,False,15,False,True
+2012-02-28,32.5166666667,Philadelphia 76ers,Oklahoma City Thunder,3,60-63,1,two point jumper,True,7,False,False
+2012-03-02,0.883333333333,Philadelphia 76ers,Golden State Warriors,1,2-2,-2,layup,True,0,True,False
+2012-03-02,1.38333333333,Philadelphia 76ers,Golden State Warriors,1,2-4,0,two point jumper,True,17,True,False
+2012-03-02,2.0,Philadelphia 76ers,Golden State Warriors,1,4-4,-2,two point jumper,True,12,False,False
+2012-03-02,6.78333333333,Philadelphia 76ers,Golden State Warriors,1,15-19,2,two point shot,True,1,True,False
+2012-03-02,24.9333333333,Philadelphia 76ers,Golden State Warriors,3,47-54,5,hook shot,True,8,True,False
+2012-03-02,28.5,Philadelphia 76ers,Golden State Warriors,3,51-63,10,hook shot,True,5,True,False
+2012-03-02,29.8166666667,Philadelphia 76ers,Golden State Warriors,3,54-65,9,two point jumper,True,1,False,False
+2012-03-04,2.45,Philadelphia 76ers,Chicago Bulls,1,4-6,0,two point jumper,True,1,False,False
+2012-03-04,3.5,Philadelphia 76ers,Chicago Bulls,1,8-10,0,layup,True,0,True,False
+2012-03-04,6.48333333333,Philadelphia 76ers,Chicago Bulls,1,16-14,-4,two point jumper,True,16,False,False
+2012-03-04,28.1666666667,Philadelphia 76ers,Chicago Bulls,3,44-52,6,two point jumper,True,18,False,False
+2012-03-05,11.2333333333,Philadelphia 76ers,Milwaukee Bucks,1,31-26,3,two point jumper,False,18,False,False
+2012-03-05,13.1333333333,Philadelphia 76ers,Milwaukee Bucks,2,35-28,5,two point jumper,False,1,True,False
+2012-03-05,15.95,Philadelphia 76ers,Milwaukee Bucks,2,43-35,6,hook shot,False,4,False,False
+2012-03-16,25.0666666667,Philadelphia 76ers,Miami Heat,3,59-32,-29,two point jumper,True,10,True,False
+2012-03-16,30.1333333333,Philadelphia 76ers,Miami Heat,3,63-42,-23,two point jumper,True,1,True,False
+2012-03-19,47.3166666667,Philadelphia 76ers,Charlotte Bobcats,4,102-80,20,two point jumper,False,20,False,False
+2012-03-30,46.7166666667,Philadelphia 76ers,Washington Wizards,4,76-93,-19,two point jumper,False,19,True,False
+2012-04-04,45.7833333333,Philadelphia 76ers,Toronto Raptors,4,92-76,-18,two point jumper,True,15,False,False
+2012-04-18,3.25,Philadelphia 76ers,Cleveland Cavaliers,1,9-10,-3,two point jumper,False,14,True,False
+2012-04-18,9.08333333333,Philadelphia 76ers,Cleveland Cavaliers,1,20-18,0,two point jumper,False,16,False,False
+2012-04-18,25.45,Philadelphia 76ers,Cleveland Cavaliers,3,53-49,2,two point jumper,False,16,False,False
+2012-04-18,36.8,Philadelphia 76ers,Cleveland Cavaliers,4,86-66,18,tip shot,False,0,False,False
+2012-04-18,37.1166666667,Philadelphia 76ers,Cleveland Cavaliers,4,88-66,20,layup,False,0,True,False
+2012-04-21,32.2166666667,Philadelphia 76ers,Indiana Pacers,3,72-62,8,two point jumper,False,18,False,True
+2012-04-25,1.21666666667,Philadelphia 76ers,Milwaukee Bucks,1,1-2,-3,two point jumper,False,16,False,True
+2012-04-25,8.76666666667,Philadelphia 76ers,Milwaukee Bucks,1,22-22,-2,dunk,False,0,True,True
+2012-04-25,18.25,Philadelphia 76ers,Milwaukee Bucks,2,33-41,-10,two point jumper,False,17,True,True
+2012-04-25,30.9833333333,Philadelphia 76ers,Milwaukee Bucks,3,62-58,2,tip shot,False,0,False,True
+2012-04-25,38.2166666667,Philadelphia 76ers,Milwaukee Bucks,4,71-65,4,two point jumper,False,19,False,True
+2012-04-25,40.5333333333,Philadelphia 76ers,Milwaukee Bucks,4,76-72,2,two point jumper,False,12,False,True
+2012-04-26,2.56666666667,Philadelphia 76ers,Detroit Pistons,1,3-4,-3,two point jumper,False,17,False,True
+2012-04-26,4.85,Philadelphia 76ers,Detroit Pistons,1,9-9,-2,layup,False,0,True,True
+2012-04-26,24.2666666667,Philadelphia 76ers,Detroit Pistons,3,44-65,-22,free throw,False,15,True,True
+2012-04-26,24.2666666667,Philadelphia 76ers,Detroit Pistons,3,45-65,-21,free throw,False,15,True,True
+2012-04-26,31.1666666667,Philadelphia 76ers,Detroit Pistons,3,55-76,-23,two point jumper,False,17,True,True
+2012-04-26,31.6666666667,Philadelphia 76ers,Detroit Pistons,3,55-76,-23,two point jumper,False,20,False,True
+2012-04-26,42.6333333333,Philadelphia 76ers,Detroit Pistons,4,76-97,-23,two point jumper,False,17,False,True
+2012-04-26,46.35,Philadelphia 76ers,Detroit Pistons,4,80-105,-27,two point jumper,False,20,False,True
+2013-11-09,3.7,Philadelphia 76ers,Boston Celtics,1,3-8,-7,two point jumper,False,22,False,True
+2013-11-09,25.1333333333,Philadelphia 76ers,Boston Celtics,3,59-48,9,layup,False,0,True,True
+2013-11-09,37.1333333333,Philadelphia 76ers,Boston Celtics,4,83-77,4,two point jumper,False,20,False,True
+2013-11-09,37.95,Philadelphia 76ers,Boston Celtics,4,85-80,3,dunk,False,0,True,True
+2013-11-09,38.5666666667,Philadelphia 76ers,Boston Celtics,4,87-80,5,two point shot,False,1,True,True
+2013-12-07,24.75,Philadelphia 76ers,Boston Celtics,3,50-50,-2,two point jumper,True,18,True,True
+2013-12-07,26.8,Philadelphia 76ers,Boston Celtics,3,52-57,3,layup,True,0,True,True
+2013-12-07,28.8833333333,Philadelphia 76ers,Boston Celtics,3,57-60,2,free throw,True,15,True,True
+2013-12-07,28.8833333333,Philadelphia 76ers,Boston Celtics,3,57-61,3,free throw,True,15,True,True
+2013-12-07,29.3166666667,Philadelphia 76ers,Boston Celtics,3,57-61,2,two point jumper,True,20,False,True
+2013-12-07,44.5333333333,Philadelphia 76ers,Boston Celtics,4,84-84,-1,free throw,True,15,True,True
+2013-12-07,44.5333333333,Philadelphia 76ers,Boston Celtics,4,84-85,0,free throw,True,15,True,True
+2013-12-07,46.7333333333,Philadelphia 76ers,Boston Celtics,4,86-87,-1,two point jumper,True,18,False,True
+2013-12-08,4.45,Philadelphia 76ers,Boston Celtics,1,2-8,-8,layup,False,0,False,False
+2013-12-08,13.15,Philadelphia 76ers,Boston Celtics,2,16-26,-12,two point shot,False,14,False,False
+2013-12-08,13.7,Philadelphia 76ers,Boston Celtics,2,16-28,-14,hook shot,False,1,False,False
+2013-12-08,13.75,Philadelphia 76ers,Boston Celtics,2,16-28,-14,hook shot,False,1,False,False
+2013-12-08,14.1833333333,Philadelphia 76ers,Boston Celtics,2,16-28,-14,two point shot,False,8,False,False
+2013-12-08,30.5333333333,Philadelphia 76ers,Boston Celtics,3,44-60,-18,dunk,False,0,True,False
+2013-12-08,36.6833333333,Philadelphia 76ers,Boston Celtics,4,59-72,-15,two point shot,False,1,True,False
+2013-12-08,37.3666666667,Philadelphia 76ers,Boston Celtics,4,59-75,-18,two point jumper,False,10,False,False
+2013-03-05,13.7,Philadelphia 76ers,Boston Celtics,2,26-23,-5,layup,True,0,False,False
+2013-12-23,1.2,Philadelphia 76ers,Brooklyn Nets,1,2-2,-2,dunk,False,0,True,False
+2013-12-23,5.88333333333,Philadelphia 76ers,Brooklyn Nets,1,10-4,4,hook shot,False,3,False,False
+2013-12-23,6.16666666667,Philadelphia 76ers,Brooklyn Nets,1,12-4,6,tip shot,False,0,False,False
+2013-12-23,6.16666666667,Philadelphia 76ers,Brooklyn Nets,1,12-4,6,two point shot,False,1,True,False
+2013-12-23,6.88333333333,Philadelphia 76ers,Brooklyn Nets,1,12-6,4,two point jumper,False,1,False,False
+2013-12-23,17.2833333333,Philadelphia 76ers,Brooklyn Nets,2,25-32,-9,tip shot,False,0,False,False
+2013-12-23,18.3166666667,Philadelphia 76ers,Brooklyn Nets,2,27-32,-7,two point shot,False,1,True,False
+2013-12-23,19.0,Philadelphia 76ers,Brooklyn Nets,2,29-34,-7,two point shot,False,2,True,False
+2013-12-23,26.45,Philadelphia 76ers,Brooklyn Nets,3,47-48,-3,two point jumper,False,1,True,False
+2013-12-23,32.0,Philadelphia 76ers,Brooklyn Nets,3,57-59,-4,two point jumper,False,17,False,False
+2013-12-23,44.8166666667,Philadelphia 76ers,Brooklyn Nets,4,80-86,-8,layup,False,0,True,False
+2013-01-08,2.25,Philadelphia 76ers,Brooklyn Nets,1,3-4,-1,two point jumper,True,1,False,True
+2013-01-08,4.0,Philadelphia 76ers,Brooklyn Nets,1,6-9,1,two point shot,True,1,True,True
+2013-01-08,5.73333333333,Philadelphia 76ers,Brooklyn Nets,1,9-11,0,two point jumper,True,17,True,True
+2013-01-08,25.15,Philadelphia 76ers,Brooklyn Nets,3,50-47,-5,two point jumper,True,1,False,True
+2013-01-08,27.95,Philadelphia 76ers,Brooklyn Nets,3,61-49,-14,two point jumper,True,10,False,True
+2013-01-08,37.2666666667,Philadelphia 76ers,Brooklyn Nets,4,83-65,-20,two point shot,True,1,True,True
+2013-03-11,22.9833333333,Philadelphia 76ers,Brooklyn Nets,2,45-50,3,two point jumper,True,19,True,False
+2013-03-11,37.6333333333,Philadelphia 76ers,Brooklyn Nets,4,76-86,8,two point jumper,True,16,False,False
+2013-04-09,33.0666666667,Philadelphia 76ers,Brooklyn Nets,3,56-79,-25,two point jumper,False,14,True,True
+2013-04-09,33.5333333333,Philadelphia 76ers,Brooklyn Nets,3,56-81,-27,two point jumper,False,18,False,True
+2013-04-09,35.0,Philadelphia 76ers,Brooklyn Nets,3,60-83,-25,two point shot,False,8,True,True
+2013-04-09,43.1,Philadelphia 76ers,Brooklyn Nets,4,69-95,-28,hook shot,False,6,False,True
+2013-04-09,44.95,Philadelphia 76ers,Brooklyn Nets,4,72-97,-27,hook shot,False,8,False,True
+2013-11-04,4.75,Philadelphia 76ers,New York Knicks,1,10-14,-6,two point jumper,False,17,True,True
+2013-11-04,19.25,Philadelphia 76ers,New York Knicks,2,37-44,-9,two point jumper,False,4,False,True
+2013-11-04,19.2833333333,Philadelphia 76ers,New York Knicks,2,39-44,-7,two point shot,False,1,True,True
+2013-11-04,33.6166666667,Philadelphia 76ers,New York Knicks,3,64-73,-11,two point jumper,False,21,True,True
+2013-11-05,12.5666666667,Philadelphia 76ers,New York Knicks,2,27-21,-8,two point jumper,True,1,False,True
+2013-11-05,13.2,Philadelphia 76ers,New York Knicks,2,27-22,-7,two point jumper,True,13,False,True
+2013-11-05,36.3,Philadelphia 76ers,New York Knicks,4,89-68,-23,two point jumper,True,4,False,True
+2013-11-05,37.2,Philadelphia 76ers,New York Knicks,4,89-68,-23,layup,True,0,False,True
+2013-11-05,40.1666666667,Philadelphia 76ers,New York Knicks,4,96-75,-23,two point jumper,True,17,False,True
+2013-11-05,41.85,Philadelphia 76ers,New York Knicks,4,98-79,-21,layup,True,0,True,True
+2013-11-05,45.4833333333,Philadelphia 76ers,New York Knicks,4,105-82,-24,free throw,True,15,True,True
+2013-11-05,45.4833333333,Philadelphia 76ers,New York Knicks,4,105-83,-23,free throw,True,15,True,True
+2013-11-05,47.1833333333,Philadelphia 76ers,New York Knicks,4,107-84,-25,two point jumper,True,5,False,True
+2013-01-26,33.4166666667,Philadelphia 76ers,New York Knicks,3,53-76,21,layup,True,0,False,True
+2013-01-26,33.4333333333,Philadelphia 76ers,New York Knicks,3,53-77,23,free throw,True,15,True,True
+2013-01-26,33.4333333333,Philadelphia 76ers,New York Knicks,3,53-77,23,free throw,True,15,False,True
+2013-02-24,18.4833333333,Philadelphia 76ers,New York Knicks,2,28-43,-17,two point shot,False,3,True,False
+2013-02-24,19.0333333333,Philadelphia 76ers,New York Knicks,2,30-45,-17,two point jumper,False,19,True,False
+2013-02-24,22.0333333333,Philadelphia 76ers,New York Knicks,2,36-47,-13,two point shot,False,5,True,False
+2013-02-24,33.95,Philadelphia 76ers,New York Knicks,3,59-72,-15,layup,False,0,False,False
+2013-02-24,33.9833333333,Philadelphia 76ers,New York Knicks,3,61-72,-13,two point shot,False,1,True,False
+2013-02-24,34.5333333333,Philadelphia 76ers,New York Knicks,3,63-72,-11,two point shot,False,5,True,False
+2013-10-31,0.5,Philadelphia 76ers,Denver Nuggets,1,2-0,-4,two point jumper,True,17,False,True
+2013-10-31,26.9,Philadelphia 76ers,Denver Nuggets,3,42-50,6,two point jumper,True,16,False,True
+2013-10-31,27.6333333333,Philadelphia 76ers,Denver Nuggets,3,44-51,6,free throw,True,15,True,True
+2013-10-31,27.6333333333,Philadelphia 76ers,Denver Nuggets,3,44-51,6,free throw,True,15,False,True
+2013-10-31,29.0333333333,Philadelphia 76ers,Denver Nuggets,3,44-57,11,two point shot,True,1,True,True
+2013-10-31,29.85,Philadelphia 76ers,Denver Nuggets,3,46-59,11,two point jumper,True,19,False,True
+2013-10-31,32.7666666667,Philadelphia 76ers,Denver Nuggets,3,50-59,7,two point jumper,True,1,False,True
+2013-11-07,3.13333333333,Philadelphia 76ers,New Orleans Pelicans,1,2-2,-2,two point jumper,False,18,False,True
+2013-11-07,7.31666666667,Philadelphia 76ers,New Orleans Pelicans,1,10-7,1,dunk,False,0,True,True
+2013-11-07,30.2333333333,Philadelphia 76ers,New Orleans Pelicans,3,29-25,2,two point jumper,False,16,True,True
+2013-11-07,36.2666666667,Philadelphia 76ers,New Orleans Pelicans,4,38-37,-1,two point jumper,False,15,True,True
+2013-11-07,38.3666666667,Philadelphia 76ers,New Orleans Pelicans,4,44-37,5,two point jumper,False,9,True,True
+2013-11-07,46.4833333333,Philadelphia 76ers,New Orleans Pelicans,4,57-46,9,two point jumper,False,1,True,True
+2013-11-07,12.2666666667,Philadelphia 76ers,New Orleans Pelicans,5,61-47,12,two point jumper,False,4,True,True
+2013-11-10,1.21666666667,Philadelphia 76ers,Toronto Raptors,1,2-2,-2,two point shot,False,8,False,True
+2013-11-10,24.6333333333,Philadelphia 76ers,Toronto Raptors,3,52-33,17,two point jumper,False,14,False,True
+2013-11-10,29.9166666667,Philadelphia 76ers,Toronto Raptors,3,59-49,8,two point jumper,False,1,False,True
+2013-11-10,30.3166666667,Philadelphia 76ers,Toronto Raptors,3,59-49,8,two point jumper,False,15,False,True
+2013-11-12,3.88333333333,Philadelphia 76ers,Milwaukee Bucks,1,13-8,-7,two point jumper,True,18,False,True
+2013-11-12,27.3833333333,Philadelphia 76ers,Milwaukee Bucks,3,68-57,-13,two point jumper,True,18,False,True
+2013-11-14,12.3833333333,Philadelphia 76ers,Detroit Pistons,2,23-19,-6,two point shot,True,1,True,False
+2013-11-14,17.1666666667,Philadelphia 76ers,Detroit Pistons,2,31-26,-7,two point jumper,True,1,True,False
+2013-11-14,19.5666666667,Philadelphia 76ers,Detroit Pistons,2,37-28,-11,two point jumper,True,13,True,False
+2013-11-14,20.6666666667,Philadelphia 76ers,Detroit Pistons,2,41-28,-15,two point jumper,True,1,False,False
+2013-11-14,20.6833333333,Philadelphia 76ers,Detroit Pistons,2,41-29,-13,free throw,True,15,True,False
+2013-11-14,20.6833333333,Philadelphia 76ers,Detroit Pistons,2,41-30,-12,free throw,True,15,True,False
+2013-11-14,21.45,Philadelphia 76ers,Detroit Pistons,2,45-32,-15,two point jumper,True,13,True,False
+2013-11-14,22.85,Philadelphia 76ers,Detroit Pistons,2,49-34,-17,layup,True,0,False,False
+2013-11-14,18.3833333333,Philadelphia 76ers,Detroit Pistons,2,59-46,-15,two point jumper,True,13,False,False
+2013-11-14,26.3666666667,Philadelphia 76ers,Detroit Pistons,3,76-59,-19,layup,True,0,True,False
+2013-11-14,27.8666666667,Philadelphia 76ers,Detroit Pistons,3,78-61,-19,two point jumper,True,1,False,False
+2013-11-14,31.8166666667,Philadelphia 76ers,Detroit Pistons,3,86-67,-21,two point jumper,True,19,True,False
+2013-11-16,7.45,Philadelphia 76ers,Utah Jazz,1,13-24,9,two point jumper,True,19,True,True
+2013-11-16,8.68333333333,Philadelphia 76ers,Utah Jazz,1,16-24,6,hook shot,True,4,False,True
+2013-11-16,9.98333333333,Philadelphia 76ers,Utah Jazz,1,18-28,8,two point shot,True,4,True,True
+2013-11-16,10.4,Philadelphia 76ers,Utah Jazz,1,18-30,10,layup,True,0,True,True
+2013-11-16,15.5666666667,Philadelphia 76ers,Utah Jazz,2,31-32,-1,two point jumper,True,15,False,True
+2013-11-16,31.2333333333,Philadelphia 76ers,Utah Jazz,3,53-64,9,two point jumper,True,17,False,True
+2013-11-16,38.3166666667,Philadelphia 76ers,Utah Jazz,4,71-73,0,two point shot,True,1,True,True
+2013-11-16,46.6166666667,Philadelphia 76ers,Utah Jazz,4,82-88,4,layup,True,0,False,True
+2013-11-16,46.6333333333,Philadelphia 76ers,Utah Jazz,4,82-90,6,two point shot,True,1,True,True
+2013-11-16,47.2,Philadelphia 76ers,Utah Jazz,4,85-90,3,two point jumper,True,17,False,True
+2013-11-18,13.6333333333,Philadelphia 76ers,Cleveland Cavaliers,2,24-22,-3,free throw,True,15,True,True
+2013-11-18,13.6333333333,Philadelphia 76ers,Cleveland Cavaliers,2,24-23,-2,free throw,True,15,True,True
+2013-11-18,18.4166666667,Philadelphia 76ers,Cleveland Cavaliers,2,34-31,-5,two point jumper,True,5,False,True
+2013-11-18,21.2166666667,Philadelphia 76ers,Cleveland Cavaliers,2,38-37,-3,two point jumper,True,19,False,True
+2013-11-18,29.7,Philadelphia 76ers,Cleveland Cavaliers,3,51-49,-4,two point jumper,True,1,False,True
+2013-11-18,11.8333333333,Philadelphia 76ers,Cleveland Cavaliers,5,59-64,3,two point jumper,True,1,False,True
+2013-11-20,10.2666666667,Philadelphia 76ers,Toronto Raptors,1,25-19,-8,two point jumper,True,1,False,False
+2013-11-20,18.85,Philadelphia 76ers,Toronto Raptors,2,42-35,-9,layup,True,0,False,False
+2013-11-20,26.2,Philadelphia 76ers,Toronto Raptors,3,53-55,0,two point jumper,True,15,False,False
+2013-11-20,26.9,Philadelphia 76ers,Toronto Raptors,3,55-57,0,layup,True,0,True,False
+2013-11-20,38.45,Philadelphia 76ers,Toronto Raptors,4,85-79,-7,free throw,True,15,True,False
+2013-11-20,38.45,Philadelphia 76ers,Toronto Raptors,4,85-80,-6,free throw,True,15,True,False
+2013-11-24,0.716666666667,Philadelphia 76ers,Oklahoma City Thunder,1,0-2,0,two point jumper,True,18,True,False
+2013-11-24,37.45,Philadelphia 76ers,Oklahoma City Thunder,4,85-83,-4,two point jumper,True,16,True,False
+2013-11-24,38.15,Philadelphia 76ers,Oklahoma City Thunder,4,87-85,-4,layup,True,0,True,False
+2013-11-24,44.25,Philadelphia 76ers,Oklahoma City Thunder,4,98-95,-4,free throw,True,15,True,False
+2013-11-24,44.25,Philadelphia 76ers,Oklahoma City Thunder,4,98-96,-3,free throw,True,15,True,False
+2013-11-24,47.0,Philadelphia 76ers,Oklahoma City Thunder,4,98-98,-2,two point jumper,True,15,False,False
+2013-11-25,1.88333333333,Philadelphia 76ers,Phoenix Suns,1,0-8,6,two point jumper,True,17,True,True
+2013-11-25,3.38333333333,Philadelphia 76ers,Phoenix Suns,1,6-12,4,layup,True,0,True,True
+2013-11-25,5.85,Philadelphia 76ers,Phoenix Suns,1,8-14,4,tip shot,True,0,False,True
+2013-11-25,16.4833333333,Philadelphia 76ers,Phoenix Suns,2,31-28,-5,two point jumper,True,19,False,True
+2013-11-25,27.7666666667,Philadelphia 76ers,Phoenix Suns,3,50-54,2,two point jumper,True,18,True,True
+2013-11-25,38.5,Philadelphia 76ers,Phoenix Suns,4,81-82,-1,two point jumper,True,20,True,True
+2013-11-25,39.5,Philadelphia 76ers,Phoenix Suns,4,83-86,1,two point jumper,True,1,True,True
+2013-11-25,39.5,Philadelphia 76ers,Phoenix Suns,4,83-87,3,free throw,True,15,True,True
+2013-11-25,40.5666666667,Philadelphia 76ers,Phoenix Suns,4,85-89,2,two point jumper,True,16,False,True
+2013-11-27,5.28333333333,Philadelphia 76ers,Dallas Mavericks,1,13-19,4,two point shot,True,1,True,False
+2013-11-27,18.8833333333,Philadelphia 76ers,Dallas Mavericks,2,48-42,-7,free throw,True,15,True,False
+2013-11-27,18.8833333333,Philadelphia 76ers,Dallas Mavericks,2,48-43,-6,free throw,True,15,True,False
+2013-11-27,24.2166666667,Philadelphia 76ers,Dallas Mavericks,3,56-55,-3,layup,True,0,True,False
+2013-11-30,0.566666666667,Philadelphia 76ers,Charlotte Bobcats,1,0-2,-4,two point jumper,False,18,False,False
+2013-11-30,1.38333333333,Philadelphia 76ers,Charlotte Bobcats,1,2-2,-2,two point shot,False,1,True,False
+2013-11-30,8.11666666667,Philadelphia 76ers,Charlotte Bobcats,1,18-17,-1,two point jumper,False,20,False,False
+2013-11-30,17.6666666667,Philadelphia 76ers,Charlotte Bobcats,2,39-39,-2,two point shot,False,6,True,False
+2013-11-30,18.1666666667,Philadelphia 76ers,Charlotte Bobcats,2,39-39,-2,two point jumper,False,20,False,False
+2013-11-30,20.5833333333,Philadelphia 76ers,Charlotte Bobcats,2,46-44,0,two point shot,False,1,True,False
+2013-11-30,21.2,Philadelphia 76ers,Charlotte Bobcats,2,48-44,2,two point shot,False,1,True,False
+2013-11-30,31.4833333333,Philadelphia 76ers,Charlotte Bobcats,3,72-62,8,two point jumper,False,16,False,False
+2013-11-30,33.7,Philadelphia 76ers,Charlotte Bobcats,3,74-69,3,layup,False,0,True,False
+2013-12-01,0.866666666667,Philadelphia 76ers,Chicago Bulls,1,2-2,-2,two point jumper,False,14,True,False
+2013-12-01,6.21666666667,Philadelphia 76ers,Chicago Bulls,1,15-10,3,two point jumper,False,17,True,False
+2013-12-01,12.3333333333,Philadelphia 76ers,Chicago Bulls,2,19-22,-5,two point jumper,False,22,False,False
+2013-12-01,14.45,Philadelphia 76ers,Chicago Bulls,2,23-29,-8,two point shot,False,1,True,False
+2013-12-01,16.45,Philadelphia 76ers,Chicago Bulls,2,25-29,-6,two point jumper,False,16,False,False
+2013-12-01,38.75,Philadelphia 76ers,Chicago Bulls,4,68-71,-5,two point jumper,False,1,True,False
+2013-12-01,39.2666666667,Philadelphia 76ers,Chicago Bulls,4,68-71,-5,two point jumper,False,1,False,False
+2013-12-01,44.85,Philadelphia 76ers,Chicago Bulls,4,76-81,-7,tip shot,False,0,False,False
+2013-12-01,46.9333333333,Philadelphia 76ers,Chicago Bulls,4,82-87,-6,free throw,False,15,True,False
+2013-12-01,46.9333333333,Philadelphia 76ers,Chicago Bulls,4,83-87,-5,free throw,False,15,True,False
+2013-12-04,0.5,Philadelphia 76ers,Minnesota Timberwolves,1,2-0,-4,two point jumper,True,18,False,True
+2013-12-04,1.51666666667,Philadelphia 76ers,Minnesota Timberwolves,1,4-4,-2,two point jumper,True,16,True,True
+2013-12-04,6.75,Philadelphia 76ers,Minnesota Timberwolves,1,20-17,-5,two point jumper,True,1,False,True
+2013-12-04,18.0,Philadelphia 76ers,Minnesota Timberwolves,2,51-32,-21,dunk,True,0,True,True
+2013-12-04,20.6833333333,Philadelphia 76ers,Minnesota Timberwolves,2,60-40,-22,two point jumper,True,17,True,True
+2013-12-04,31.0666666667,Philadelphia 76ers,Minnesota Timberwolves,3,77-61,-18,two point jumper,True,19,False,True
+2013-12-10,0.766666666667,Philadelphia 76ers,Detroit Pistons,1,2-2,-2,two point jumper,True,15,True,False
+2013-12-10,7.85,Philadelphia 76ers,Detroit Pistons,1,10-16,4,two point jumper,True,9,False,False
+2013-12-10,21.1,Philadelphia 76ers,Detroit Pistons,2,40-39,-3,two point jumper,True,1,False,False
+2013-12-10,24.8166666667,Philadelphia 76ers,Detroit Pistons,3,49-50,-1,two point jumper,True,3,True,False
+2013-12-10,25.3333333333,Philadelphia 76ers,Detroit Pistons,3,49-50,-1,two point jumper,True,18,False,False
+2013-12-12,0.75,Philadelphia 76ers,Chicago Bulls,1,2-0,-4,two point jumper,True,3,False,False
+2013-12-12,3.15,Philadelphia 76ers,Chicago Bulls,1,6-6,-2,two point jumper,True,1,True,False
+2013-12-12,18.6,Philadelphia 76ers,Chicago Bulls,2,34-32,-4,layup,True,0,True,False
+2013-12-12,22.9666666667,Philadelphia 76ers,Chicago Bulls,2,40-42,0,layup,True,0,True,False
+2013-12-12,38.2,Philadelphia 76ers,Chicago Bulls,4,69-68,-3,two point jumper,True,1,False,False
+2013-12-14,9.85,Philadelphia 76ers,Indiana Pacers,1,18-21,-5,two point jumper,False,19,False,False
+2013-12-14,12.7,Philadelphia 76ers,Indiana Pacers,2,22-25,-5,two point jumper,False,1,False,False
+2013-12-14,33.5833333333,Philadelphia 76ers,Indiana Pacers,3,59-65,-8,two point jumper,False,19,True,False
+2013-12-14,36.4666666667,Philadelphia 76ers,Indiana Pacers,4,68-71,-5,two point jumper,False,15,True,False
+2013-12-14,38.0833333333,Philadelphia 76ers,Indiana Pacers,4,70-75,-7,two point shot,False,1,True,False
+2013-12-16,14.3166666667,Philadelphia 76ers,Los Angeles Lakers,2,35-29,-8,two point jumper,True,1,True,True
+2013-12-18,14.8833333333,Philadelphia 76ers,Dallas Mavericks,2,34-32,0,two point jumper,False,14,True,False
+2013-12-19,5.06666666667,Philadelphia 76ers,Houston Rockets,1,8-15,-9,two point shot,False,6,True,False
+2013-12-19,8.48333333333,Philadelphia 76ers,Houston Rockets,1,13-22,-10,free throw,False,15,False,False
+2013-12-19,8.48333333333,Philadelphia 76ers,Houston Rockets,1,13-22,-10,free throw,False,15,False,False
+2013-12-19,9.78333333333,Philadelphia 76ers,Houston Rockets,1,14-27,-14,free throw,False,15,True,False
+2013-12-19,9.78333333333,Philadelphia 76ers,Houston Rockets,1,15-27,-13,free throw,False,15,True,False
+2013-12-19,21.55,Philadelphia 76ers,Houston Rockets,2,47-54,-9,two point jumper,False,19,True,False
+2013-12-19,22.25,Philadelphia 76ers,Houston Rockets,2,47-54,-9,two point jumper,False,17,False,False
+2013-12-19,22.7833333333,Philadelphia 76ers,Houston Rockets,2,49-54,-7,two point jumper,False,4,True,False
+2013-12-19,26.65,Philadelphia 76ers,Houston Rockets,3,60-66,-8,two point shot,False,1,True,False
+2013-12-19,36.4,Philadelphia 76ers,Houston Rockets,4,79-91,-14,two point jumper,False,1,False,False
+2013-12-19,37.3833333333,Philadelphia 76ers,Houston Rockets,4,82-93,-13,two point jumper,False,18,False,False
+2013-12-19,40.95,Philadelphia 76ers,Houston Rockets,4,90-100,-12,two point jumper,False,17,False,False
+2013-12-21,1.2,Philadelphia 76ers,Atlanta Hawks,1,2-2,-2,two point jumper,True,1,True,True
+2013-12-21,14.8166666667,Philadelphia 76ers,Atlanta Hawks,2,30-32,0,two point jumper,True,1,False,True
+2013-12-21,23.6,Philadelphia 76ers,Atlanta Hawks,2,43-51,6,dunk,True,0,True,True
+2013-12-21,31.0,Philadelphia 76ers,Atlanta Hawks,3,52-65,11,two point shot,True,5,True,True
+2013-12-21,32.1,Philadelphia 76ers,Atlanta Hawks,3,54-65,9,two point jumper,True,21,False,True
+2013-12-21,33.9333333333,Philadelphia 76ers,Atlanta Hawks,3,56-69,11,two point jumper,True,19,False,True
+2013-12-26,4.73333333333,Philadelphia 76ers,Memphis Grizzlies,1,10-12,-4,two point shot,False,1,True,True
+2013-12-26,14.3,Philadelphia 76ers,Memphis Grizzlies,2,31-33,-3,free throw,False,15,False,True
+2013-12-26,14.3,Philadelphia 76ers,Memphis Grizzlies,2,32-33,-2,free throw,False,15,True,True
+2013-12-26,17.45,Philadelphia 76ers,Memphis Grizzlies,2,34-39,-7,two point jumper,False,15,False,True
+2013-12-26,18.2,Philadelphia 76ers,Memphis Grizzlies,2,35-41,-7,free throw,False,15,True,True
+2013-12-26,18.2,Philadelphia 76ers,Memphis Grizzlies,2,35-41,-7,free throw,False,15,False,True
+2013-12-26,19.25,Philadelphia 76ers,Memphis Grizzlies,2,35-45,-12,two point jumper,False,20,False,True
+2013-12-26,38.9333333333,Philadelphia 76ers,Memphis Grizzlies,4,81-73,6,two point shot,False,8,False,True
+2013-12-26,39.7166666667,Philadelphia 76ers,Memphis Grizzlies,4,85-73,10,two point jumper,False,18,True,True
+2013-12-28,2.26666666667,Philadelphia 76ers,Golden State Warriors,1,1-6,-6,free throw,False,15,True,False
+2013-12-28,2.26666666667,Philadelphia 76ers,Golden State Warriors,1,1-6,-6,free throw,False,15,False,False
+2013-12-28,14.05,Philadelphia 76ers,Golden State Warriors,2,28-28,-2,two point shot,False,1,True,False
+2013-12-28,20.75,Philadelphia 76ers,Golden State Warriors,2,38-46,-10,two point jumper,False,1,False,False
+2013-12-28,25.5833333333,Philadelphia 76ers,Golden State Warriors,3,44-59,-16,free throw,False,15,True,False
+2013-12-28,37.4333333333,Philadelphia 76ers,Golden State Warriors,4,73-82,-11,two point jumper,False,19,False,False
+2013-12-28,39.4333333333,Philadelphia 76ers,Golden State Warriors,4,75-82,-9,two point shot,False,2,True,False
+2013-12-28,39.8333333333,Philadelphia 76ers,Golden State Warriors,4,77-82,-7,two point jumper,False,19,True,False
+2013-12-29,8.05,Philadelphia 76ers,Portland Trail Blazers,1,13-17,-6,hook shot,False,4,False,False
+2013-12-29,19.8833333333,Philadelphia 76ers,Portland Trail Blazers,2,38-45,-9,two point jumper,False,20,False,False
+2013-12-29,22.0,Philadelphia 76ers,Portland Trail Blazers,2,42-47,-7,two point shot,False,8,True,False
+2013-12-29,26.8833333333,Philadelphia 76ers,Portland Trail Blazers,3,48-53,-7,two point jumper,False,20,False,False
+2013-12-29,29.1333333333,Philadelphia 76ers,Portland Trail Blazers,3,55-56,-3,two point shot,False,6,True,False
+2013-12-29,30.45,Philadelphia 76ers,Portland Trail Blazers,3,59-56,1,two point shot,False,11,True,False
+2013-12-29,38.95,Philadelphia 76ers,Portland Trail Blazers,4,67-77,-12,layup,False,0,False,False
+2013-12-29,39.0,Philadelphia 76ers,Portland Trail Blazers,4,69-77,-10,layup,False,0,True,False
+2013-12-29,39.0,Philadelphia 76ers,Portland Trail Blazers,4,69-77,-9,free throw,False,15,False,False
+2013-12-29,41.85,Philadelphia 76ers,Portland Trail Blazers,4,74-80,-8,two point jumper,False,19,False,False
+2013-01-01,0.5,Philadelphia 76ers,Los Angeles Lakers,1,2-0,0,two point jumper,False,21,True,False
+2013-01-01,1.45,Philadelphia 76ers,Los Angeles Lakers,1,6-4,0,two point jumper,False,19,True,False
+2013-01-01,10.8666666667,Philadelphia 76ers,Los Angeles Lakers,1,26-21,3,two point jumper,False,15,True,False
+2013-01-01,11.2833333333,Philadelphia 76ers,Los Angeles Lakers,1,26-21,3,tip shot,False,0,False,False
+2013-01-01,12.75,Philadelphia 76ers,Los Angeles Lakers,2,28-27,-1,two point jumper,False,1,False,False
+2013-01-01,20.2666666667,Philadelphia 76ers,Los Angeles Lakers,2,43-42,-1,two point jumper,False,21,False,False
+2013-01-01,27.8666666667,Philadelphia 76ers,Los Angeles Lakers,3,63-56,5,two point shot,False,1,True,False
+2013-01-01,38.8166666667,Philadelphia 76ers,Los Angeles Lakers,4,85-75,8,two point shot,False,7,True,False
+2013-01-02,1.75,Philadelphia 76ers,Phoenix Suns,1,4-2,0,two point shot,False,10,False,False
+2013-01-02,3.88333333333,Philadelphia 76ers,Phoenix Suns,1,10-6,2,two point jumper,False,20,False,False
+2013-01-02,12.3666666667,Philadelphia 76ers,Phoenix Suns,2,24-31,-9,two point jumper,False,16,False,False
+2013-01-02,15.1333333333,Philadelphia 76ers,Phoenix Suns,2,29-33,-6,hook shot,False,5,False,False
+2013-01-02,16.1666666667,Philadelphia 76ers,Phoenix Suns,2,33-35,-4,two point jumper,False,18,True,False
+2013-01-02,17.1666666667,Philadelphia 76ers,Phoenix Suns,2,35-35,-2,two point jumper,False,1,True,False
+2013-01-02,24.3833333333,Philadelphia 76ers,Phoenix Suns,3,49-48,-1,two point jumper,False,1,False,False
+2013-01-02,29.5666666667,Philadelphia 76ers,Phoenix Suns,3,59-60,-3,two point jumper,False,19,True,False
+2013-01-02,30.9166666667,Philadelphia 76ers,Phoenix Suns,3,59-61,-4,two point jumper,False,9,False,False
+2013-01-02,41.45,Philadelphia 76ers,Phoenix Suns,4,76-81,-7,two point shot,False,1,True,False
+2013-01-02,47.3666666667,Philadelphia 76ers,Phoenix Suns,4,87-91,-6,layup,False,0,True,False
+2013-01-04,2.7,Philadelphia 76ers,Oklahoma City Thunder,1,4-6,-4,two point shot,False,19,True,True
+2013-01-04,3.71666666667,Philadelphia 76ers,Oklahoma City Thunder,1,4-6,-4,tip shot,False,0,False,True
+2013-01-04,10.55,Philadelphia 76ers,Oklahoma City Thunder,1,21-20,-1,layup,False,0,True,True
+2013-01-04,14.8166666667,Philadelphia 76ers,Oklahoma City Thunder,2,23-28,-7,two point jumper,False,20,True,True
+2013-01-04,24.3666666667,Philadelphia 76ers,Oklahoma City Thunder,3,42-46,-6,two point jumper,False,21,False,True
+2013-01-04,24.95,Philadelphia 76ers,Oklahoma City Thunder,3,44-48,-6,two point jumper,False,15,True,True
+2013-01-04,37.5,Philadelphia 76ers,Oklahoma City Thunder,4,69-81,-14,two point jumper,False,3,False,True
+2013-01-04,39.6333333333,Philadelphia 76ers,Oklahoma City Thunder,4,71-90,-21,two point jumper,False,20,False,True
+2013-01-05,0.883333333333,Philadelphia 76ers,San Antonio Spurs,1,2-2,-2,two point jumper,False,19,False,True
+2013-01-05,19.1666666667,Philadelphia 76ers,San Antonio Spurs,2,36-46,-12,layup,False,0,True,True
+2013-01-09,2.81666666667,Philadelphia 76ers,Toronto Raptors,1,4-6,-4,layup,False,0,True,False
+2013-01-09,4.28333333333,Philadelphia 76ers,Toronto Raptors,1,6-8,-4,two point jumper,False,21,False,False
+2013-01-09,5.1,Philadelphia 76ers,Toronto Raptors,1,10-10,-2,two point shot,False,1,True,False
+2013-01-09,18.0333333333,Philadelphia 76ers,Toronto Raptors,2,30-34,-6,two point jumper,False,18,False,False
+2013-01-09,19.45,Philadelphia 76ers,Toronto Raptors,2,32-38,-8,two point shot,False,2,True,False
+2013-01-09,19.45,Philadelphia 76ers,Toronto Raptors,2,32-38,-7,free throw,False,15,False,False
+2013-01-09,24.8166666667,Philadelphia 76ers,Toronto Raptors,3,42-42,-2,two point jumper,False,18,True,False
+2013-01-12,0.883333333333,Philadelphia 76ers,Houston Rockets,1,0-2,0,two point jumper,True,15,False,True
+2013-01-12,2.55,Philadelphia 76ers,Houston Rockets,1,4-5,-1,two point jumper,True,1,False,True
+2013-01-12,4.88333333333,Philadelphia 76ers,Houston Rockets,1,12-7,-7,two point jumper,True,1,False,True
+2013-01-12,21.9,Philadelphia 76ers,Houston Rockets,2,46-53,6,free throw,True,15,False,True
+2013-01-12,21.9,Philadelphia 76ers,Houston Rockets,2,46-54,7,free throw,True,15,True,True
+2013-01-12,22.5166666667,Philadelphia 76ers,Houston Rockets,2,48-56,6,two point jumper,True,1,True,True
+2013-01-12,43.1666666667,Philadelphia 76ers,Houston Rockets,4,93-96,1,two point jumper,True,11,False,True
+2013-01-12,45.6833333333,Philadelphia 76ers,Houston Rockets,4,93-100,5,two point jumper,True,1,False,True
+2013-01-15,3.25,Philadelphia 76ers,New Orleans Pelicans,1,9-6,-5,two point jumper,True,19,False,True
+2013-01-15,5.38333333333,Philadelphia 76ers,New Orleans Pelicans,1,17-11,-8,layup,True,0,True,True
+2013-01-15,5.95,Philadelphia 76ers,New Orleans Pelicans,1,19-13,-8,two point shot,True,16,True,True
+2013-01-15,17.4166666667,Philadelphia 76ers,New Orleans Pelicans,2,42-35,-9,two point jumper,True,1,True,True
+2013-01-15,28.5333333333,Philadelphia 76ers,New Orleans Pelicans,3,62-57,-7,two point jumper,True,19,True,True
+2013-01-18,3.95,Philadelphia 76ers,Toronto Raptors,1,6-0,-8,two point jumper,True,16,False,True
+2013-01-18,17.1,Philadelphia 76ers,Toronto Raptors,2,39-29,-12,layup,True,0,True,True
+2013-01-18,17.5,Philadelphia 76ers,Toronto Raptors,2,39-31,-10,layup,True,0,True,True
+2013-01-18,20.9333333333,Philadelphia 76ers,Toronto Raptors,2,51-41,-12,hook shot,True,11,False,True
+2013-01-18,21.9166666667,Philadelphia 76ers,Toronto Raptors,2,56-43,-15,two point jumper,True,18,True,True
+2013-01-18,23.4,Philadelphia 76ers,Toronto Raptors,2,60-43,-19,two point jumper,True,1,False,True
+2013-01-18,25.0666666667,Philadelphia 76ers,Toronto Raptors,3,61-45,-18,two point shot,True,1,True,True
+2013-01-18,26.0666666667,Philadelphia 76ers,Toronto Raptors,3,64-49,-17,two point shot,True,1,True,True
+2013-01-18,29.7833333333,Philadelphia 76ers,Toronto Raptors,3,64-57,-9,dunk,True,0,True,True
+2013-01-21,1.81666666667,Philadelphia 76ers,San Antonio Spurs,1,4-4,-2,two point shot,True,3,True,False
+2013-01-21,2.38333333333,Philadelphia 76ers,San Antonio Spurs,1,6-4,-4,two point jumper,True,20,False,False
+2013-01-21,3.71666666667,Philadelphia 76ers,San Antonio Spurs,1,8-4,-6,two point jumper,True,17,False,False
+2013-01-22,0.816666666667,Philadelphia 76ers,Milwaukee Bucks,1,0-0,-2,two point jumper,False,17,False,False
+2013-01-22,2.56666666667,Philadelphia 76ers,Milwaukee Bucks,1,3-4,-3,two point jumper,False,16,False,False
+2013-01-22,15.75,Philadelphia 76ers,Milwaukee Bucks,2,28-32,-6,two point shot,False,7,True,False
+2013-01-22,16.2833333333,Philadelphia 76ers,Milwaukee Bucks,2,28-34,-8,tip shot,False,0,False,False
+2013-01-22,18.6,Philadelphia 76ers,Milwaukee Bucks,2,35-40,-7,two point shot,False,3,True,False
+2013-01-28,10.6166666667,Philadelphia 76ers,Memphis Grizzlies,1,15-30,13,two point jumper,True,1,False,False
+2013-01-28,14.9666666667,Philadelphia 76ers,Memphis Grizzlies,2,25-40,13,layup,True,0,True,False
+2013-01-30,13.5666666667,Philadelphia 76ers,Washington Wizards,2,30-29,-3,two point shot,True,1,True,True
+2013-01-30,14.8166666667,Philadelphia 76ers,Washington Wizards,2,30-31,-1,two point jumper,True,17,True,True
+2013-01-30,15.3166666667,Philadelphia 76ers,Washington Wizards,2,32-33,-1,two point jumper,True,17,True,True
+2013-01-30,20.6,Philadelphia 76ers,Washington Wizards,2,33-40,5,two point jumper,True,7,True,True
+2013-01-30,32.45,Philadelphia 76ers,Washington Wizards,3,53-67,12,two point shot,True,6,True,True
+2013-01-30,33.55,Philadelphia 76ers,Washington Wizards,3,57-67,8,layup,True,0,False,True
+2013-01-30,33.6,Philadelphia 76ers,Washington Wizards,3,57-69,10,layup,True,0,True,True
+2013-01-30,34.7666666667,Philadelphia 76ers,Washington Wizards,3,61-71,8,two point shot,True,5,True,True
+2013-01-30,37.3,Philadelphia 76ers,Washington Wizards,4,65-77,10,two point jumper,True,16,False,True
+2013-01-30,39.15,Philadelphia 76ers,Washington Wizards,4,69-82,11,two point jumper,True,5,False,True
+2013-02-01,10.6166666667,Philadelphia 76ers,Sacramento Kings,1,19-27,6,layup,True,0,True,True
+2013-02-01,35.1,Philadelphia 76ers,Sacramento Kings,3,65-72,5,two point jumper,True,16,False,True
+2013-02-01,40.6666666667,Philadelphia 76ers,Sacramento Kings,4,73-80,5,two point shot,True,1,True,True
+2013-02-01,45.5833333333,Philadelphia 76ers,Sacramento Kings,4,75-89,13,free throw,True,15,False,True
+2013-02-01,45.5833333333,Philadelphia 76ers,Sacramento Kings,4,75-89,13,free throw,True,15,False,True
+2013-02-04,9.91666666667,Philadelphia 76ers,Orlando Magic,1,12-22,8,two point jumper,True,18,False,True
+2013-02-04,11.1333333333,Philadelphia 76ers,Orlando Magic,1,14-24,8,two point jumper,True,17,True,True
+2013-02-04,13.8666666667,Philadelphia 76ers,Orlando Magic,2,20-28,6,two point jumper,True,1,False,True
+2013-02-04,14.95,Philadelphia 76ers,Orlando Magic,2,22-30,6,two point shot,True,1,True,True
+2013-02-04,24.6333333333,Philadelphia 76ers,Orlando Magic,3,35-42,5,two point jumper,True,19,False,True
+2013-02-04,26.5666666667,Philadelphia 76ers,Orlando Magic,3,37-44,5,two point shot,True,4,True,True
+2013-02-04,31.45,Philadelphia 76ers,Orlando Magic,3,42-56,12,two point jumper,True,4,True,True
+2013-02-04,31.95,Philadelphia 76ers,Orlando Magic,3,42-56,12,two point jumper,True,1,False,True
+2013-02-04,46.0,Philadelphia 76ers,Orlando Magic,4,59-75,14,two point shot,True,2,True,True
+2013-02-06,7.85,Philadelphia 76ers,Indiana Pacers,1,12-10,-4,two point jumper,True,16,True,False
+2013-02-06,12.0,Philadelphia 76ers,Indiana Pacers,1,18-15,-5,two point jumper,True,1,True,False
+2013-02-06,14.5833333333,Philadelphia 76ers,Indiana Pacers,2,24-17,-9,layup,True,0,False,False
+2013-02-06,14.75,Philadelphia 76ers,Indiana Pacers,2,24-17,-9,two point jumper,True,20,False,False
+2013-02-06,18.1666666667,Philadelphia 76ers,Indiana Pacers,2,27-23,-6,two point jumper,True,1,False,False
+2013-02-06,18.45,Philadelphia 76ers,Indiana Pacers,2,27-25,-4,layup,True,0,True,False
+2013-02-06,18.45,Philadelphia 76ers,Indiana Pacers,2,27-25,-3,free throw,True,15,False,False
+2013-02-06,21.7333333333,Philadelphia 76ers,Indiana Pacers,2,31-32,-1,two point shot,True,1,True,False
+2013-02-06,24.7,Philadelphia 76ers,Indiana Pacers,3,37-34,-5,layup,True,0,False,False
+2013-02-06,29.7,Philadelphia 76ers,Indiana Pacers,3,50-38,-14,two point jumper,True,12,False,False
+2013-02-06,29.8166666667,Philadelphia 76ers,Indiana Pacers,3,50-38,-14,two point jumper,True,1,False,False
+2013-02-06,42.1666666667,Philadelphia 76ers,Indiana Pacers,4,73-60,-15,two point jumper,True,16,True,False
+2013-02-06,47.4333333333,Philadelphia 76ers,Indiana Pacers,4,86-67,-21,two point jumper,True,16,True,False
+2013-02-09,4.53333333333,Philadelphia 76ers,Charlotte Bobcats,1,5-8,1,two point jumper,True,1,False,True
+2013-02-09,7.73333333333,Philadelphia 76ers,Charlotte Bobcats,1,9-16,5,two point jumper,True,1,False,True
+2013-02-09,10.9833333333,Philadelphia 76ers,Charlotte Bobcats,1,17-19,0,two point jumper,True,16,False,True
+2013-02-09,11.2833333333,Philadelphia 76ers,Charlotte Bobcats,1,17-21,2,layup,True,0,True,True
+2013-02-09,12.6333333333,Philadelphia 76ers,Charlotte Bobcats,2,17-23,4,tip shot,True,0,False,True
+2013-02-09,12.7,Philadelphia 76ers,Charlotte Bobcats,2,17-23,4,tip shot,True,0,False,True
+2013-02-09,13.0166666667,Philadelphia 76ers,Charlotte Bobcats,2,17-25,6,two point jumper,True,1,True,True
+2013-02-09,14.1833333333,Philadelphia 76ers,Charlotte Bobcats,2,19-25,4,two point jumper,True,18,False,True
+2013-02-09,20.6,Philadelphia 76ers,Charlotte Bobcats,2,29-33,2,two point shot,True,1,True,True
+2013-02-09,24.25,Philadelphia 76ers,Charlotte Bobcats,3,37-40,1,dunk,True,0,True,True
+2013-02-09,25.3166666667,Philadelphia 76ers,Charlotte Bobcats,3,37-44,5,two point jumper,True,16,True,True
+2013-02-09,30.5,Philadelphia 76ers,Charlotte Bobcats,3,45-57,10,dunk,True,0,True,True
+2013-02-09,37.7,Philadelphia 76ers,Charlotte Bobcats,4,54-67,11,layup,True,0,False,True
+2013-02-09,43.7333333333,Philadelphia 76ers,Charlotte Bobcats,4,70-77,5,two point jumper,True,15,False,True
+2013-02-09,46.2833333333,Philadelphia 76ers,Charlotte Bobcats,4,74-83,7,dunk,True,0,True,True
+2013-02-09,46.9,Philadelphia 76ers,Charlotte Bobcats,4,74-83,7,two point jumper,True,5,False,True
+2013-02-11,12.6166666667,Philadelphia 76ers,Los Angeles Clippers,2,30-22,-10,two point jumper,True,1,False,True
+2013-02-11,12.6833333333,Philadelphia 76ers,Los Angeles Clippers,2,30-22,-10,two point jumper,True,12,False,True
+2013-02-11,17.85,Philadelphia 76ers,Los Angeles Clippers,2,41-29,-14,two point jumper,True,1,True,True
+2013-02-11,25.5833333333,Philadelphia 76ers,Los Angeles Clippers,3,58-37,-23,two point jumper,True,14,True,True
+2013-02-13,16.4833333333,Philadelphia 76ers,Milwaukee Bucks,2,38-27,8,three point jumper,False,25,False,False
+2013-02-13,24.3333333333,Philadelphia 76ers,Milwaukee Bucks,3,52-43,7,two point shot,False,1,True,False
+2013-02-13,25.3833333333,Philadelphia 76ers,Milwaukee Bucks,3,54-48,4,dunk,False,0,True,False
+2013-02-13,30.6666666667,Philadelphia 76ers,Milwaukee Bucks,3,66-57,7,two point jumper,False,1,True,False
+2013-02-13,31.5333333333,Philadelphia 76ers,Milwaukee Bucks,3,67-61,5,free throw,False,15,True,False
+2013-02-13,31.5333333333,Philadelphia 76ers,Milwaukee Bucks,3,67-61,5,free throw,False,15,False,False
+2013-02-13,36.55,Philadelphia 76ers,Milwaukee Bucks,4,75-72,1,layup,False,0,False,False
+2013-02-13,36.7166666667,Philadelphia 76ers,Milwaukee Bucks,4,75-72,1,two point jumper,False,18,False,False
+2013-02-20,0.383333333333,Philadelphia 76ers,Minnesota Timberwolves,1,0-2,-4,two point jumper,False,21,False,False
+2013-02-20,6.95,Philadelphia 76ers,Minnesota Timberwolves,1,13-18,-7,two point jumper,False,18,True,False
+2013-02-20,16.7833333333,Philadelphia 76ers,Minnesota Timberwolves,2,28-42,-16,two point jumper,False,21,False,False
+2013-02-20,19.8833333333,Philadelphia 76ers,Minnesota Timberwolves,2,34-51,-19,two point shot,False,1,True,False
+2013-02-20,23.3666666667,Philadelphia 76ers,Minnesota Timberwolves,2,39-54,-17,two point shot,False,1,True,False
+2013-02-20,32.4333333333,Philadelphia 76ers,Minnesota Timberwolves,3,59-74,-17,two point jumper,False,19,True,False
+2013-02-20,36.75,Philadelphia 76ers,Minnesota Timberwolves,4,67-78,-13,two point jumper,False,19,False,False
+2013-02-20,38.05,Philadelphia 76ers,Minnesota Timberwolves,4,68-80,-14,two point jumper,False,19,False,False
+2013-02-20,47.5,Philadelphia 76ers,Minnesota Timberwolves,4,85-89,-6,two point jumper,False,14,False,False
+2013-02-23,0.616666666667,Philadelphia 76ers,Miami Heat,1,2-2,-2,layup,True,0,True,True
+2013-02-23,2.21666666667,Philadelphia 76ers,Miami Heat,1,4-6,0,layup,True,0,False,True
+2013-02-23,8.43333333333,Philadelphia 76ers,Miami Heat,1,19-20,-1,hook shot,True,12,False,True
+2013-02-23,16.0333333333,Philadelphia 76ers,Miami Heat,2,33-30,-5,two point jumper,True,16,False,True
+2013-02-23,24.95,Philadelphia 76ers,Miami Heat,3,56-51,-7,layup,True,0,True,True
+2013-02-23,25.5666666667,Philadelphia 76ers,Miami Heat,3,59-51,-10,two point jumper,True,17,False,True
+2013-02-23,30.8833333333,Philadelphia 76ers,Miami Heat,3,72-58,-16,two point jumper,True,1,False,True
+2013-02-23,35.9666666667,Philadelphia 76ers,Miami Heat,3,87-70,-18,free throw,True,15,True,True
+2013-02-23,35.9666666667,Philadelphia 76ers,Miami Heat,3,87-71,-17,free throw,True,15,True,True
+2013-02-26,10.9166666667,Philadelphia 76ers,Orlando Magic,1,18-18,-2,hook shot,True,1,False,False
+2013-02-26,16.0333333333,Philadelphia 76ers,Orlando Magic,2,23-29,4,two point jumper,True,10,False,False
+2013-02-26,31.7833333333,Philadelphia 76ers,Orlando Magic,3,63-53,-12,two point jumper,True,18,True,False
+2013-02-26,32.2166666667,Philadelphia 76ers,Orlando Magic,3,63-55,-10,two point shot,True,7,True,False
+2013-02-26,36.5666666667,Philadelphia 76ers,Orlando Magic,4,70-61,-11,two point jumper,True,17,False,False
+2013-02-28,13.1833333333,Philadelphia 76ers,Chicago Bulls,2,24-23,-1,two point jumper,False,6,False,False
+2013-02-28,22.1,Philadelphia 76ers,Chicago Bulls,2,38-40,-4,two point shot,False,7,True,False
+2013-02-28,30.95,Philadelphia 76ers,Chicago Bulls,3,46-58,-14,tip shot,False,0,False,False
+2013-02-28,33.7666666667,Philadelphia 76ers,Chicago Bulls,3,55-66,-13,hook shot,False,4,False,False
+2013-03-02,8.25,Philadelphia 76ers,Golden State Warriors,1,27-18,-11,two point shot,True,5,True,False
+2013-03-02,8.86666666667,Philadelphia 76ers,Golden State Warriors,1,29-18,-13,two point shot,True,1,False,False
+2013-03-02,11.5666666667,Philadelphia 76ers,Golden State Warriors,1,31-20,-13,two point jumper,True,18,False,False
+2013-03-02,13.7166666667,Philadelphia 76ers,Golden State Warriors,2,31-22,-11,two point jumper,True,4,False,False
+2013-03-02,23.6166666667,Philadelphia 76ers,Golden State Warriors,2,54-51,-5,hook shot,True,1,False,False
+2013-03-02,30.0666666667,Philadelphia 76ers,Golden State Warriors,3,66-58,-10,two point shot,True,1,True,False
+2013-03-02,32.9833333333,Philadelphia 76ers,Golden State Warriors,3,72-69,-5,two point jumper,True,13,False,False
+2013-03-03,7.41666666667,Philadelphia 76ers,Washington Wizards,1,12-18,-8,two point jumper,False,5,True,False
+2013-03-03,16.5,Philadelphia 76ers,Washington Wizards,2,31-32,-3,two point jumper,False,15,False,False
+2013-03-03,36.4,Philadelphia 76ers,Washington Wizards,4,68-72,-6,two point jumper,False,1,False,False
+2013-03-10,18.9166666667,Philadelphia 76ers,Orlando Magic,2,42-42,-2,tip shot,False,0,False,False
+2013-03-10,19.8166666667,Philadelphia 76ers,Orlando Magic,2,44-46,-4,two point jumper,False,13,True,False
+2013-03-10,22.35,Philadelphia 76ers,Orlando Magic,2,49-52,-5,two point jumper,False,18,False,False
+2013-03-10,36.8833333333,Philadelphia 76ers,Orlando Magic,4,72-73,-3,tip shot,False,0,False,False
+2013-03-13,21.85,Philadelphia 76ers,Miami Heat,2,48-39,-11,dunk,True,0,True,False
+2013-03-13,25.7666666667,Philadelphia 76ers,Miami Heat,3,55-43,-13,free throw,True,15,True,False
+2013-03-13,25.7666666667,Philadelphia 76ers,Miami Heat,3,55-43,-13,free throw,True,15,False,False
+2013-03-13,28.5333333333,Philadelphia 76ers,Miami Heat,3,59-53,-8,two point jumper,True,19,False,False
+2013-03-13,30.7333333333,Philadelphia 76ers,Miami Heat,3,62-55,-9,two point jumper,True,20,False,False
+2013-03-13,31.4833333333,Philadelphia 76ers,Miami Heat,3,64-57,-9,two point shot,True,2,True,False
+2013-03-16,11.7333333333,Philadelphia 76ers,Indiana Pacers,1,22-23,-1,two point jumper,True,1,False,True
+2013-03-16,20.5,Philadelphia 76ers,Indiana Pacers,2,40-42,0,two point jumper,True,17,False,True
+2013-03-16,36.25,Philadelphia 76ers,Indiana Pacers,4,72-73,-1,two point shot,True,1,True,True
+2013-03-16,37.0666666667,Philadelphia 76ers,Indiana Pacers,4,74-78,2,two point jumper,True,18,True,True
+2013-03-18,32.05,Philadelphia 76ers,Portland Trail Blazers,3,64-76,10,two point shot,True,4,True,True
+2013-03-18,34.4,Philadelphia 76ers,Portland Trail Blazers,3,70-78,6,two point jumper,True,20,False,True
+2013-03-20,6.06666666667,Philadelphia 76ers,Los Angeles Clippers,1,14-13,-1,two point jumper,False,1,False,True
+2013-03-20,7.56666666667,Philadelphia 76ers,Los Angeles Clippers,1,17-18,-3,two point jumper,False,15,False,True
+2013-03-20,9.73333333333,Philadelphia 76ers,Los Angeles Clippers,1,20-20,-2,two point jumper,False,21,False,True
+2013-03-24,11.55,Philadelphia 76ers,Sacramento Kings,1,22-31,-11,two point jumper,False,16,True,True
+2013-03-24,13.1166666667,Philadelphia 76ers,Sacramento Kings,2,24-35,-13,dunk,False,0,True,True
+2013-03-24,14.2,Philadelphia 76ers,Sacramento Kings,2,28-35,-9,two point jumper,False,19,True,True
+2013-03-24,14.9666666667,Philadelphia 76ers,Sacramento Kings,2,28-37,-11,layup,False,0,False,True
+2013-03-24,16.1333333333,Philadelphia 76ers,Sacramento Kings,2,33-41,-10,two point jumper,False,20,True,True
+2013-03-24,17.45,Philadelphia 76ers,Sacramento Kings,2,37-46,-11,layup,False,0,True,True
+2013-03-24,23.5333333333,Philadelphia 76ers,Sacramento Kings,2,55-56,-2,free throw,False,15,True,True
+2013-03-24,23.5333333333,Philadelphia 76ers,Sacramento Kings,2,56-56,-1,free throw,False,15,True,True
+2013-03-24,35.0,Philadelphia 76ers,Sacramento Kings,3,89-82,5,two point shot,False,5,True,True
+2013-03-24,37.0666666667,Philadelphia 76ers,Sacramento Kings,4,94-84,8,two point jumper,False,21,False,True
+2013-03-24,37.3333333333,Philadelphia 76ers,Sacramento Kings,4,96-84,10,two point jumper,False,19,True,True
+2013-03-24,38.9333333333,Philadelphia 76ers,Sacramento Kings,4,100-84,14,two point jumper,False,1,False,True
+2013-03-24,38.95,Philadelphia 76ers,Sacramento Kings,4,102-84,16,two point jumper,False,1,True,True
+2013-03-24,41.8166666667,Philadelphia 76ers,Sacramento Kings,4,105-89,14,two point jumper,False,11,False,True
+2013-03-24,41.8166666667,Philadelphia 76ers,Sacramento Kings,4,107-89,16,two point shot,False,1,True,True
+2013-03-25,6.63333333333,Philadelphia 76ers,Utah Jazz,1,14-20,-8,two point shot,False,8,True,True
+2013-03-25,8.71666666667,Philadelphia 76ers,Utah Jazz,1,16-22,-8,two point jumper,False,18,False,True
+2013-03-25,9.0,Philadelphia 76ers,Utah Jazz,1,16-22,-8,two point jumper,False,20,False,True
+2013-03-25,9.68333333333,Philadelphia 76ers,Utah Jazz,1,16-25,-11,two point jumper,False,19,False,True
+2013-03-25,16.25,Philadelphia 76ers,Utah Jazz,2,29-40,-13,two point shot,False,1,False,True
+2013-03-25,20.1833333333,Philadelphia 76ers,Utah Jazz,2,36-45,-11,two point shot,False,1,False,True
+2013-03-25,20.7,Philadelphia 76ers,Utah Jazz,2,40-45,-7,layup,False,0,True,True
+2013-03-25,23.25,Philadelphia 76ers,Utah Jazz,2,40-58,-20,two point jumper,False,21,False,True
+2013-03-25,34.9166666667,Philadelphia 76ers,Utah Jazz,3,66-85,-21,two point jumper,False,3,False,True
+2013-03-25,35.5,Philadelphia 76ers,Utah Jazz,3,68-85,-19,two point jumper,False,18,False,True
+2013-03-25,42.75,Philadelphia 76ers,Utah Jazz,4,81-99,-20,two point jumper,False,15,False,True
+2013-03-25,44.2166666667,Philadelphia 76ers,Utah Jazz,4,83-103,-22,two point jumper,False,8,True,True
+2013-03-27,21.6166666667,Philadelphia 76ers,Milwaukee Bucks,2,42-47,3,two point jumper,True,19,False,False
+2013-03-27,37.25,Philadelphia 76ers,Milwaukee Bucks,4,83-78,-7,two point shot,True,5,True,False
+2013-03-29,13.15,Philadelphia 76ers,Cleveland Cavaliers,2,21-24,-5,layup,False,0,True,True
+2013-03-29,14.6333333333,Philadelphia 76ers,Cleveland Cavaliers,2,23-29,-8,two point jumper,False,7,False,True
+2013-03-29,33.2166666667,Philadelphia 76ers,Cleveland Cavaliers,3,72-62,8,two point shot,False,1,True,True
+2013-03-29,39.15,Philadelphia 76ers,Cleveland Cavaliers,4,81-74,5,two point jumper,False,20,False,True
+2013-03-30,13.0,Philadelphia 76ers,Charlotte Bobcats,2,33-22,-12,free throw,True,15,False,False
+2013-03-30,13.0,Philadelphia 76ers,Charlotte Bobcats,2,33-23,-11,free throw,True,15,True,False
+2013-04-03,35.3166666667,Philadelphia 76ers,Charlotte Bobcats,3,61-62,-3,two point shot,False,1,True,False
+2013-04-03,42.1,Philadelphia 76ers,Charlotte Bobcats,4,73-72,-1,two point shot,False,1,True,False
+2013-04-05,9.71666666667,Philadelphia 76ers,Atlanta Hawks,1,33-21,11,free throw,False,15,True,False
+2013-04-05,9.71666666667,Philadelphia 76ers,Atlanta Hawks,1,34-21,12,free throw,False,15,True,False
+2013-04-05,11.0,Philadelphia 76ers,Atlanta Hawks,1,38-24,12,two point jumper,False,22,False,False
+2013-04-05,36.4,Philadelphia 76ers,Atlanta Hawks,4,85-65,18,two point jumper,False,1,True,False
+2013-04-06,9.5,Philadelphia 76ers,Miami Heat,1,18-26,-10,two point jumper,False,20,True,True
+2013-04-06,10.2166666667,Philadelphia 76ers,Miami Heat,1,18-28,-12,hook shot,False,1,False,True
+2013-04-06,10.85,Philadelphia 76ers,Miami Heat,1,18-28,-12,two point jumper,False,12,False,True
+2013-04-06,11.6166666667,Philadelphia 76ers,Miami Heat,1,18-30,-14,layup,False,0,False,True
+2013-04-06,13.6333333333,Philadelphia 76ers,Miami Heat,2,24-33,-11,two point shot,False,8,True,True
+2013-04-06,15.75,Philadelphia 76ers,Miami Heat,2,26-35,-11,two point jumper,False,20,False,True
+2013-04-06,36.0,Philadelphia 76ers,Miami Heat,3,75-77,-3,free throw,False,15,True,True
+2013-04-06,36.0,Philadelphia 76ers,Miami Heat,3,76-77,-2,free throw,False,15,True,True
+2013-04-10,11.0,Philadelphia 76ers,Atlanta Hawks,1,22-23,-1,hook shot,True,1,False,False
+2013-04-10,15.75,Philadelphia 76ers,Atlanta Hawks,2,38-34,-6,two point jumper,True,18,False,False
+2013-04-10,41.4166666667,Philadelphia 76ers,Atlanta Hawks,4,106-86,-22,two point jumper,True,11,False,False
+2013-04-12,15.65,Philadelphia 76ers,Washington Wizards,2,28-35,-9,two point jumper,False,3,False,True
+2013-04-14,46.1166666667,Philadelphia 76ers,Cleveland Cavaliers,4,74-91,15,two point jumper,True,15,False,True
+2013-04-14,46.7833333333,Philadelphia 76ers,Cleveland Cavaliers,4,76-91,13,two point jumper,True,1,False,True
+2013-04-15,38.0666666667,Philadelphia 76ers,Detroit Pistons,4,75-89,-16,two point jumper,False,7,False,False
+2013-04-15,38.8166666667,Philadelphia 76ers,Detroit Pistons,4,80-91,-13,two point jumper,False,16,True,False
+2013-04-15,39.8833333333,Philadelphia 76ers,Detroit Pistons,4,84-93,-11,two point jumper,False,20,True,False
+2013-04-15,40.6333333333,Philadelphia 76ers,Detroit Pistons,4,84-93,-11,hook shot,False,5,False,False
+2013-04-15,43.8833333333,Philadelphia 76ers,Detroit Pistons,4,88-100,-14,tip shot,False,0,False,False
+2013-04-15,45.2166666667,Philadelphia 76ers,Detroit Pistons,4,92-103,-13,two point jumper,False,21,False,False
+2013-04-17,10.8666666667,Philadelphia 76ers,Indiana Pacers,1,25-15,8,two point jumper,False,16,False,False
+2013-04-17,11.5,Philadelphia 76ers,Indiana Pacers,1,25-15,8,two point jumper,False,18,False,False
+2013-04-17,13.1333333333,Philadelphia 76ers,Indiana Pacers,2,31-18,11,layup,False,0,True,False
+2013-04-17,14.3833333333,Philadelphia 76ers,Indiana Pacers,2,35-22,11,two point jumper,False,15,True,False
+2013-04-17,19.8166666667,Philadelphia 76ers,Indiana Pacers,2,49-28,19,two point jumper,False,16,True,False
+2013-04-17,26.5833333333,Philadelphia 76ers,Indiana Pacers,3,66-40,24,layup,False,0,True,False
+2013-04-17,27.7666666667,Philadelphia 76ers,Indiana Pacers,3,66-44,20,two point jumper,False,17,False,False
+2013-04-17,28.1,Philadelphia 76ers,Indiana Pacers,3,67-46,20,free throw,False,15,True,False
+2013-04-17,28.1,Philadelphia 76ers,Indiana Pacers,3,68-46,21,free throw,False,15,True,False
+2013-04-17,29.2166666667,Philadelphia 76ers,Indiana Pacers,3,71-48,21,two point jumper,False,21,False,False
+2013-04-17,32.8333333333,Philadelphia 76ers,Indiana Pacers,3,79-60,17,layup,False,0,False,False
+2013-04-17,44.8333333333,Philadelphia 76ers,Indiana Pacers,4,96-88,7,free throw,False,15,False,False
+2013-04-17,44.8333333333,Philadelphia 76ers,Indiana Pacers,4,97-88,8,free throw,False,15,True,False

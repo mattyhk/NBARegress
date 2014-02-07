@@ -1,0 +1,460 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2010-12-14,8.53333333333,Memphis Grizzlies,Boston Celtics,1,24-22,-4,two point jumper,True,17,False,False
+2010-12-14,15.4666666667,Memphis Grizzlies,Boston Celtics,2,35-38,1,layup,True,0,True,False
+2010-12-14,34.55,Memphis Grizzlies,Boston Celtics,3,82-77,-7,tip shot,True,0,False,False
+2010-03-10,10.85,Memphis Grizzlies,Boston Celtics,1,23-12,9,two point shot,False,1,True,False
+2010-03-10,14.0833333333,Memphis Grizzlies,Boston Celtics,2,33-13,19,free throw,False,15,True,False
+2010-03-10,14.0833333333,Memphis Grizzlies,Boston Celtics,2,33-13,19,free throw,False,15,False,False
+2010-03-10,22.5833333333,Memphis Grizzlies,Boston Celtics,2,53-33,18,layup,False,0,False,False
+2010-03-10,35.95,Memphis Grizzlies,Boston Celtics,3,82-63,17,tip shot,False,0,True,False
+2010-03-10,38.2,Memphis Grizzlies,Boston Celtics,4,87-67,18,dunk,False,0,True,False
+2010-11-20,16.1333333333,Memphis Grizzlies,Philadelphia 76ers,2,34-35,-3,layup,False,0,True,False
+2010-11-20,17.3833333333,Memphis Grizzlies,Philadelphia 76ers,2,38-35,1,dunk,False,0,True,False
+2010-04-10,1.68333333333,Memphis Grizzlies,Philadelphia 76ers,1,0-3,2,free throw,True,15,True,False
+2010-04-10,1.68333333333,Memphis Grizzlies,Philadelphia 76ers,1,0-3,2,free throw,True,15,False,False
+2010-04-10,46.15,Memphis Grizzlies,Philadelphia 76ers,4,120-101,-20,free throw,True,15,True,False
+2010-04-10,46.15,Memphis Grizzlies,Philadelphia 76ers,4,120-101,-20,free throw,True,15,False,False
+2010-12-22,9.03333333333,Memphis Grizzlies,Golden State Warriors,1,26-23,-4,free throw,True,15,False,True
+2010-12-22,9.03333333333,Memphis Grizzlies,Golden State Warriors,1,26-23,-4,free throw,True,15,False,True
+2010-12-22,11.5333333333,Memphis Grizzlies,Golden State Warriors,1,36-32,-6,layup,True,0,True,True
+2010-12-22,12.5166666667,Memphis Grizzlies,Golden State Warriors,2,40-34,-8,tip shot,True,0,False,True
+2010-03-20,1.51666666667,Memphis Grizzlies,Golden State Warriors,1,7-5,-4,two point shot,True,5,False,True
+2010-03-20,2.96666666667,Memphis Grizzlies,Golden State Warriors,1,9-10,-1,layup,True,0,False,True
+2010-03-20,3.51666666667,Memphis Grizzlies,Golden State Warriors,1,9-14,3,dunk,True,0,True,True
+2010-03-20,6.66666666667,Memphis Grizzlies,Golden State Warriors,1,15-18,1,layup,True,0,True,True
+2010-03-20,6.66666666667,Memphis Grizzlies,Golden State Warriors,1,15-18,2,free throw,True,15,False,True
+2010-03-24,2.08333333333,Memphis Grizzlies,Golden State Warriors,1,5-3,1,free throw,False,15,False,False
+2010-03-24,2.08333333333,Memphis Grizzlies,Golden State Warriors,1,6-3,2,free throw,False,15,True,False
+2010-03-24,5.56666666667,Memphis Grizzlies,Golden State Warriors,1,6-14,-9,free throw,False,15,False,False
+2010-03-24,5.56666666667,Memphis Grizzlies,Golden State Warriors,1,7-14,-8,free throw,False,15,True,False
+2010-03-24,6.41666666667,Memphis Grizzlies,Golden State Warriors,1,11-16,-7,two point shot,False,2,True,False
+2010-11-07,36.3833333333,Memphis Grizzlies,Los Angeles Clippers,4,84-82,0,layup,False,0,True,False
+2010-11-18,16.2,Memphis Grizzlies,Los Angeles Clippers,2,31-37,4,two point shot,True,12,True,False
+2010-11-18,33.0833333333,Memphis Grizzlies,Los Angeles Clippers,3,59-73,12,layup,True,0,False,False
+2010-11-18,33.4833333333,Memphis Grizzlies,Los Angeles Clippers,3,60-78,16,layup,True,0,True,False
+2010-11-18,35.9666666667,Memphis Grizzlies,Los Angeles Clippers,3,64-82,16,tip shot,True,0,False,False
+2010-11-29,15.1333333333,Memphis Grizzlies,Los Angeles Clippers,2,35-25,8,dunk,False,0,True,False
+2010-11-29,16.45,Memphis Grizzlies,Los Angeles Clippers,2,38-27,10,free throw,False,15,False,False
+2010-11-29,16.45,Memphis Grizzlies,Los Angeles Clippers,2,39-27,11,free throw,False,15,True,False
+2010-02-01,18.2166666667,Memphis Grizzlies,Los Angeles Lakers,2,34-41,5,layup,True,0,True,True
+2010-11-25,30.5,Memphis Grizzlies,Phoenix Suns,3,65-81,-18,layup,False,0,False,False
+2010-11-25,33.7333333333,Memphis Grizzlies,Phoenix Suns,3,72-90,-20,dunk,False,0,True,False
+2010-11-25,42.35,Memphis Grizzlies,Phoenix Suns,4,89-114,-26,free throw,False,15,False,False
+2010-11-25,42.35,Memphis Grizzlies,Phoenix Suns,4,90-114,-25,free throw,False,15,True,False
+2010-11-25,43.0666666667,Memphis Grizzlies,Phoenix Suns,4,92-116,-26,dunk,False,0,True,False
+2010-11-25,43.5666666667,Memphis Grizzlies,Phoenix Suns,4,94-116,-24,layup,False,0,True,False
+2010-11-25,47.65,Memphis Grizzlies,Phoenix Suns,4,111-126,-17,two point shot,False,1,True,False
+2010-01-02,14.8166666667,Memphis Grizzlies,Phoenix Suns,2,43-31,10,two point jumper,False,12,True,True
+2010-01-02,38.4333333333,Memphis Grizzlies,Phoenix Suns,4,107-78,27,dunk,False,0,True,True
+2010-01-02,39.1333333333,Memphis Grizzlies,Phoenix Suns,4,109-80,27,tip shot,False,0,True,True
+2010-01-02,41.3833333333,Memphis Grizzlies,Phoenix Suns,4,118-84,32,layup,False,0,True,True
+2010-01-02,42.35,Memphis Grizzlies,Phoenix Suns,4,122-88,32,layup,False,0,True,True
+2010-02-16,18.8166666667,Memphis Grizzlies,Phoenix Suns,2,46-37,-11,layup,True,0,False,True
+2010-11-23,13.65,Memphis Grizzlies,Sacramento Kings,2,22-31,8,free throw,True,15,True,True
+2010-11-23,13.65,Memphis Grizzlies,Sacramento Kings,2,22-31,8,free throw,True,15,False,True
+2010-11-23,39.0666666667,Memphis Grizzlies,Sacramento Kings,4,73-90,16,free throw,True,15,False,True
+2010-11-23,39.0666666667,Memphis Grizzlies,Sacramento Kings,4,73-90,16,free throw,True,15,False,True
+2010-11-23,40.6,Memphis Grizzlies,Sacramento Kings,4,77-96,17,dunk,True,0,True,True
+2010-11-23,42.7833333333,Memphis Grizzlies,Sacramento Kings,4,86-99,12,free throw,True,15,False,True
+2010-11-23,42.7833333333,Memphis Grizzlies,Sacramento Kings,4,86-100,13,free throw,True,15,True,True
+2010-11-23,43.3833333333,Memphis Grizzlies,Sacramento Kings,4,88-100,10,tip shot,True,0,False,True
+2010-03-22,0.133333333333,Memphis Grizzlies,Sacramento Kings,1,2-0,0,dunk,False,0,True,False
+2010-03-22,2.4,Memphis Grizzlies,Sacramento Kings,1,4-7,-5,two point jumper,False,16,False,False
+2010-03-22,2.75,Memphis Grizzlies,Sacramento Kings,1,5-7,-3,free throw,False,15,True,False
+2010-03-22,2.75,Memphis Grizzlies,Sacramento Kings,1,6-7,-2,free throw,False,15,True,False
+2010-03-22,23.9833333333,Memphis Grizzlies,Sacramento Kings,2,51-52,-3,two point shot,False,1,True,False
+2010-03-22,29.0666666667,Memphis Grizzlies,Sacramento Kings,3,62-58,3,free throw,False,15,False,False
+2010-03-22,29.0666666667,Memphis Grizzlies,Sacramento Kings,3,62-58,3,free throw,False,15,False,False
+2010-03-22,32.15,Memphis Grizzlies,Sacramento Kings,3,70-63,5,dunk,False,0,True,False
+2010-03-22,33.2833333333,Memphis Grizzlies,Sacramento Kings,3,72-65,5,dunk,False,0,True,False
+2010-03-22,33.2833333333,Memphis Grizzlies,Sacramento Kings,3,72-65,6,free throw,False,15,False,False
+2010-03-16,0.883333333333,Memphis Grizzlies,Chicago Bulls,1,2-2,-2,dunk,True,0,True,False
+2010-03-16,0.883333333333,Memphis Grizzlies,Chicago Bulls,1,2-2,-1,free throw,True,15,False,False
+2010-03-16,16.1666666667,Memphis Grizzlies,Chicago Bulls,2,35-30,-7,dunk,True,0,False,False
+2010-03-16,19.4166666667,Memphis Grizzlies,Chicago Bulls,2,37-39,0,layup,True,0,True,False
+2010-03-16,23.05,Memphis Grizzlies,Chicago Bulls,2,42-53,10,free throw,True,15,True,False
+2010-03-16,23.05,Memphis Grizzlies,Chicago Bulls,2,42-54,11,free throw,True,15,True,False
+2010-03-16,28.7833333333,Memphis Grizzlies,Chicago Bulls,3,52-71,17,two point shot,True,1,True,False
+2010-03-16,31.8833333333,Memphis Grizzlies,Chicago Bulls,3,53-76,21,two point shot,True,1,False,False
+2010-03-16,41.2166666667,Memphis Grizzlies,Chicago Bulls,4,77-89,11,free throw,True,15,False,False
+2010-03-16,41.2166666667,Memphis Grizzlies,Chicago Bulls,4,77-89,11,free throw,True,15,False,False
+2010-03-16,46.6,Memphis Grizzlies,Chicago Bulls,4,90-100,8,two point shot,True,1,True,False
+2010-12-08,11.65,Memphis Grizzlies,Cleveland Cavaliers,1,28-25,-5,layup,True,0,True,True
+2010-02-02,30.5666666667,Memphis Grizzlies,Cleveland Cavaliers,3,49-70,-22,free throw,False,15,True,True
+2010-02-02,30.5666666667,Memphis Grizzlies,Cleveland Cavaliers,3,50-70,-21,free throw,False,15,True,True
+2010-02-02,32.4166666667,Memphis Grizzlies,Cleveland Cavaliers,3,53-74,-22,free throw,False,15,True,True
+2010-02-02,32.4166666667,Memphis Grizzlies,Cleveland Cavaliers,3,54-74,-21,free throw,False,15,True,True
+2010-02-02,33.0166666667,Memphis Grizzlies,Cleveland Cavaliers,3,54-76,-24,two point shot,False,1,False,True
+2010-02-02,35.3833333333,Memphis Grizzlies,Cleveland Cavaliers,3,58-86,-30,two point jumper,False,16,False,True
+2010-02-02,35.7666666667,Memphis Grizzlies,Cleveland Cavaliers,3,59-86,-28,free throw,False,15,True,True
+2010-02-02,35.7666666667,Memphis Grizzlies,Cleveland Cavaliers,3,60-86,-27,free throw,False,15,True,True
+2010-10-28,15.15,Memphis Grizzlies,Detroit Pistons,2,32-25,-9,two point jumper,True,14,False,False
+2010-10-28,15.1833333333,Memphis Grizzlies,Detroit Pistons,2,32-25,-8,free throw,True,15,False,False
+2010-10-28,15.1833333333,Memphis Grizzlies,Detroit Pistons,2,32-25,-8,free throw,True,15,False,False
+2010-10-28,43.8833333333,Memphis Grizzlies,Detroit Pistons,4,90-67,-25,two point shot,True,12,False,False
+2010-12-18,15.0666666667,Memphis Grizzlies,Indiana Pacers,2,34-31,-5,layup,True,0,False,False
+2010-12-18,23.1833333333,Memphis Grizzlies,Indiana Pacers,2,56-49,-9,layup,True,0,True,False
+2010-12-18,23.1833333333,Memphis Grizzlies,Indiana Pacers,2,56-49,-8,free throw,True,15,False,False
+2010-03-28,11.1333333333,Memphis Grizzlies,Milwaukee Bucks,1,23-22,-1,hook shot,False,5,False,False
+2010-12-04,33.2166666667,Memphis Grizzlies,Dallas Mavericks,3,61-75,13,free throw,True,15,True,True
+2010-12-04,33.2166666667,Memphis Grizzlies,Dallas Mavericks,3,61-76,14,free throw,True,15,True,True
+2010-12-04,35.3833333333,Memphis Grizzlies,Dallas Mavericks,3,67-78,9,tip shot,True,0,False,True
+2010-12-04,35.6833333333,Memphis Grizzlies,Dallas Mavericks,3,67-78,9,two point jumper,True,1,True,True
+2010-12-26,15.6333333333,Memphis Grizzlies,Dallas Mavericks,2,43-34,7,two point shot,False,1,True,False
+2010-03-31,11.2666666667,Memphis Grizzlies,Dallas Mavericks,1,17-27,8,two point shot,True,1,True,False
+2010-03-31,30.4166666667,Memphis Grizzlies,Dallas Mavericks,3,54-63,7,two point jumper,True,12,False,False
+2010-03-31,45.4833333333,Memphis Grizzlies,Dallas Mavericks,4,82-88,4,two point shot,True,1,False,False
+2010-04-07,19.75,Memphis Grizzlies,Dallas Mavericks,2,34-50,-18,two point jumper,False,1,True,True
+2010-04-07,27.7666666667,Memphis Grizzlies,Dallas Mavericks,3,53-61,-9,free throw,False,15,True,True
+2010-04-07,27.7666666667,Memphis Grizzlies,Dallas Mavericks,3,53-61,-9,free throw,False,15,False,True
+2010-04-07,32.0166666667,Memphis Grizzlies,Dallas Mavericks,3,62-70,-10,two point shot,False,8,True,True
+2010-04-07,45.3333333333,Memphis Grizzlies,Dallas Mavericks,4,80-104,-26,two point shot,False,13,True,True
+2010-04-07,46.9,Memphis Grizzlies,Dallas Mavericks,4,84-106,-24,two point shot,False,8,True,True
+2010-02-05,15.3833333333,Memphis Grizzlies,Houston Rockets,2,30-33,1,tip shot,True,0,True,True
+2010-02-05,38.05,Memphis Grizzlies,Houston Rockets,4,79-68,-12,free throw,True,15,False,True
+2010-02-05,38.05,Memphis Grizzlies,Houston Rockets,4,79-68,-12,free throw,True,15,False,True
+2010-02-05,45.7333333333,Memphis Grizzlies,Houston Rockets,4,95-74,-22,free throw,True,15,True,True
+2010-02-05,45.7333333333,Memphis Grizzlies,Houston Rockets,4,95-75,-21,free throw,True,15,True,True
+2010-02-05,47.2,Memphis Grizzlies,Houston Rockets,4,99-80,-20,free throw,True,15,True,True
+2010-02-05,47.2,Memphis Grizzlies,Houston Rockets,4,99-80,-20,free throw,True,15,False,True
+2010-03-17,2.71666666667,Memphis Grizzlies,Houston Rockets,1,5-4,-1,two point jumper,False,14,True,True
+2010-03-17,5.13333333333,Memphis Grizzlies,Houston Rockets,1,11-8,1,layup,False,0,True,True
+2010-03-17,6.91666666667,Memphis Grizzlies,Houston Rockets,1,15-12,1,two point shot,False,1,True,True
+2010-03-17,21.85,Memphis Grizzlies,Houston Rockets,2,53-45,6,two point jumper,False,1,False,True
+2010-03-17,40.85,Memphis Grizzlies,Houston Rockets,4,82-91,-11,layup,False,0,False,True
+2010-03-17,46.1166666667,Memphis Grizzlies,Houston Rockets,4,94-105,-13,dunk,False,0,True,True
+2010-03-17,47.0,Memphis Grizzlies,Houston Rockets,4,94-107,-14,free throw,False,15,False,True
+2010-03-17,47.0,Memphis Grizzlies,Houston Rockets,4,94-107,-14,free throw,False,15,False,True
+2010-04-06,0.933333333333,Memphis Grizzlies,Houston Rockets,1,3-2,-3,layup,True,0,True,False
+2010-04-06,2.65,Memphis Grizzlies,Houston Rockets,1,10-8,-4,two point shot,True,1,True,False
+2010-11-01,17.1666666667,Memphis Grizzlies,Denver Nuggets,2,49-51,-4,layup,False,0,True,False
+2010-11-27,13.5,Memphis Grizzlies,Portland Trail Blazers,2,31-15,14,layup,False,0,False,False
+2010-11-27,13.5,Memphis Grizzlies,Portland Trail Blazers,2,31-15,14,tip shot,False,0,False,False
+2010-11-27,13.5166666667,Memphis Grizzlies,Portland Trail Blazers,2,32-15,16,free throw,False,15,True,False
+2010-11-27,13.5166666667,Memphis Grizzlies,Portland Trail Blazers,2,32-15,16,free throw,False,15,False,False
+2010-11-27,36.6833333333,Memphis Grizzlies,Portland Trail Blazers,4,79-63,14,two point shot,False,4,True,False
+2010-11-27,37.2166666667,Memphis Grizzlies,Portland Trail Blazers,4,81-63,16,layup,False,0,True,False
+2010-11-27,38.3666666667,Memphis Grizzlies,Portland Trail Blazers,4,83-68,13,dunk,False,0,True,False
+2010-11-27,39.1166666667,Memphis Grizzlies,Portland Trail Blazers,4,83-70,11,hook shot,False,6,False,False
+2010-11-27,39.8833333333,Memphis Grizzlies,Portland Trail Blazers,4,85-72,11,two point shot,False,1,True,False
+2010-11-30,10.5333333333,Memphis Grizzlies,Utah Jazz,1,20-29,-11,two point jumper,False,5,False,True
+2010-11-30,15.1166666667,Memphis Grizzlies,Utah Jazz,2,29-37,-10,two point shot,False,1,True,True
+2010-12-02,9.91666666667,Memphis Grizzlies,Minnesota Timberwolves,1,19-26,-8,free throw,False,15,False,True
+2010-12-02,9.91666666667,Memphis Grizzlies,Minnesota Timberwolves,1,19-26,-8,free throw,False,15,False,True
+2010-12-11,11.4833333333,Memphis Grizzlies,Oklahoma City Thunder,1,24-16,-10,layup,True,0,True,True
+2010-12-13,39.7,Memphis Grizzlies,Miami Heat,4,101-74,25,layup,False,0,True,False
+2010-12-13,40.2166666667,Memphis Grizzlies,Miami Heat,4,102-76,25,free throw,False,15,True,False
+2010-12-13,40.2166666667,Memphis Grizzlies,Miami Heat,4,104-76,26,two point shot,False,1,True,False
+2010-12-16,16.0,Memphis Grizzlies,Atlanta Hawks,2,26-33,-9,two point shot,False,1,True,True
+2010-12-20,9.98333333333,Memphis Grizzlies,Denver Nuggets,1,16-31,13,two point jumper,True,18,True,False
+2010-12-20,11.6833333333,Memphis Grizzlies,Denver Nuggets,1,19-33,12,dunk,True,0,True,False
+2010-12-20,13.2666666667,Memphis Grizzlies,Denver Nuggets,2,19-35,14,two point shot,True,1,True,False
+2010-12-20,35.3166666667,Memphis Grizzlies,Denver Nuggets,3,67-77,9,free throw,True,15,True,False
+2010-12-20,35.3166666667,Memphis Grizzlies,Denver Nuggets,3,67-78,10,free throw,True,15,True,False
+2010-12-28,9.48333333333,Memphis Grizzlies,Washington Wizards,1,16-18,1,free throw,True,15,True,True
+2010-12-28,9.48333333333,Memphis Grizzlies,Washington Wizards,1,16-19,2,free throw,True,15,True,True
+2010-12-28,13.15,Memphis Grizzlies,Washington Wizards,2,26-26,-2,layup,True,0,False,True
+2010-12-28,16.85,Memphis Grizzlies,Washington Wizards,2,31-35,2,two point jumper,True,10,False,True
+2010-12-28,17.2833333333,Memphis Grizzlies,Washington Wizards,2,31-37,4,dunk,True,0,True,True
+2010-12-28,34.3833333333,Memphis Grizzlies,Washington Wizards,3,75-79,2,two point shot,True,6,False,True
+2010-12-28,39.2,Memphis Grizzlies,Washington Wizards,4,82-89,5,layup,True,0,True,True
+2010-01-05,14.3166666667,Memphis Grizzlies,Portland Trail Blazers,2,28-31,-5,dunk,False,0,True,True
+2010-01-06,42.85,Memphis Grizzlies,Utah Jazz,4,82-106,-26,two point shot,False,1,True,True
+2010-01-09,18.8166666667,Memphis Grizzlies,Charlotte Bobcats,2,41-31,9,free throw,False,15,True,False
+2010-01-09,18.8166666667,Memphis Grizzlies,Charlotte Bobcats,2,42-31,10,free throw,False,15,True,False
+2010-01-09,21.7,Memphis Grizzlies,Charlotte Bobcats,2,46-36,8,dunk,False,0,True,False
+2010-01-09,30.9833333333,Memphis Grizzlies,Charlotte Bobcats,3,65-53,10,dunk,False,0,True,False
+2010-01-15,44.0666666667,Memphis Grizzlies,Minnesota Timberwolves,4,100-126,25,free throw,True,15,True,True
+2010-01-15,44.0666666667,Memphis Grizzlies,Minnesota Timberwolves,4,100-127,26,free throw,True,15,True,True
+2010-01-15,47.7666666667,Memphis Grizzlies,Minnesota Timberwolves,4,110-134,22,dunk,True,0,True,True
+2010-01-15,47.7666666667,Memphis Grizzlies,Minnesota Timberwolves,4,110-135,24,free throw,True,15,True,True
+2010-01-16,23.4833333333,Memphis Grizzlies,San Antonio Spurs,2,42-49,6,free throw,True,15,True,True
+2010-01-16,23.4833333333,Memphis Grizzlies,San Antonio Spurs,2,42-50,7,free throw,True,15,True,True
+2010-01-20,13.3833333333,Memphis Grizzlies,New Orleans Pelicans,2,26-36,-12,layup,False,0,True,False
+2010-01-22,39.65,Memphis Grizzlies,Oklahoma City Thunder,4,75-75,-1,free throw,True,15,False,True
+2010-01-22,39.65,Memphis Grizzlies,Oklahoma City Thunder,4,75-75,-1,free throw,True,15,False,True
+2010-01-25,15.8166666667,Memphis Grizzlies,Orlando Magic,2,38-26,-14,layup,True,0,True,True
+2010-01-25,15.8166666667,Memphis Grizzlies,Orlando Magic,2,38-26,-13,free throw,True,15,False,True
+2010-01-29,6.81666666667,Memphis Grizzlies,San Antonio Spurs,1,13-19,-8,layup,False,0,False,True
+2010-01-29,35.8333333333,Memphis Grizzlies,San Antonio Spurs,3,69-77,-9,free throw,False,15,False,True
+2010-01-29,35.8333333333,Memphis Grizzlies,San Antonio Spurs,3,70-77,-8,free throw,False,15,True,True
+2010-01-29,37.55,Memphis Grizzlies,San Antonio Spurs,4,71-77,-7,free throw,False,15,True,True
+2010-01-29,37.55,Memphis Grizzlies,San Antonio Spurs,4,72-77,-6,free throw,False,15,True,True
+2010-01-30,18.1333333333,Memphis Grizzlies,New Orleans Pelicans,2,32-44,10,layup,True,0,True,False
+2010-02-19,32.6666666667,Memphis Grizzlies,Miami Heat,3,55-45,-11,free throw,True,15,True,True
+2010-02-19,32.6666666667,Memphis Grizzlies,Miami Heat,3,55-46,-10,free throw,True,15,True,True
+2010-03-13,9.4,Memphis Grizzlies,Denver Nuggets,1,17-22,4,free throw,True,15,True,False
+2010-03-13,9.4,Memphis Grizzlies,Denver Nuggets,1,17-22,4,free throw,True,15,False,False
+2010-03-13,46.7833333333,Memphis Grizzlies,Denver Nuggets,4,123-103,-21,free throw,True,15,True,False
+2010-03-13,46.7833333333,Memphis Grizzlies,Denver Nuggets,4,123-104,-20,free throw,True,15,True,False
+2010-04-02,7.98333333333,Memphis Grizzlies,New Orleans Pelicans,1,14-15,-1,two point jumper,True,12,False,False
+2010-04-02,34.0,Memphis Grizzlies,New Orleans Pelicans,3,67-80,12,free throw,True,15,True,False
+2010-04-02,34.0,Memphis Grizzlies,New Orleans Pelicans,3,67-81,13,free throw,True,15,True,False
+2010-04-02,42.8833333333,Memphis Grizzlies,New Orleans Pelicans,4,82-100,16,tip shot,True,0,False,False
+2010-04-02,42.8833333333,Memphis Grizzlies,New Orleans Pelicans,4,82-101,18,free throw,True,15,True,False
+2010-04-02,42.8833333333,Memphis Grizzlies,New Orleans Pelicans,4,82-101,18,free throw,True,15,False,False
+2010-04-04,3.33333333333,Memphis Grizzlies,Orlando Magic,1,6-11,-7,dunk,False,0,False,True
+2010-04-09,0.5,Memphis Grizzlies,San Antonio Spurs,1,0-0,-2,two point shot,False,1,False,False
+2010-04-09,8.65,Memphis Grizzlies,San Antonio Spurs,1,15-22,-9,two point jumper,False,1,False,False
+2010-04-09,26.8833333333,Memphis Grizzlies,San Antonio Spurs,3,69-62,5,layup,False,0,True,False
+2010-04-12,17.6666666667,Memphis Grizzlies,Denver Nuggets,2,44-42,1,free throw,False,15,True,False
+2010-04-12,17.6666666667,Memphis Grizzlies,Denver Nuggets,2,44-42,1,free throw,False,15,False,False
+2010-04-12,23.6,Memphis Grizzlies,Denver Nuggets,2,56-63,-9,dunk,False,0,True,False
+2010-04-12,45.5333333333,Memphis Grizzlies,Denver Nuggets,4,92-117,-27,dunk,False,0,True,False
+2010-04-12,46.85,Memphis Grizzlies,Denver Nuggets,4,96-120,-25,free throw,False,15,True,False
+2010-04-12,46.85,Memphis Grizzlies,Denver Nuggets,4,97-120,-24,free throw,False,15,True,False
+2010-04-14,26.1833333333,Memphis Grizzlies,Oklahoma City Thunder,3,52-76,-26,dunk,False,0,True,False
+2010-04-14,35.3,Memphis Grizzlies,Oklahoma City Thunder,3,76-91,-16,free throw,False,15,True,False
+2010-04-14,35.3,Memphis Grizzlies,Oklahoma City Thunder,3,77-91,-15,free throw,False,15,True,False
+2010-04-14,39.8166666667,Memphis Grizzlies,Oklahoma City Thunder,4,86-96,-12,dunk,False,0,True,False
+2011-11-13,16.7,Memphis Grizzlies,Boston Celtics,2,38-33,-7,two point shot,True,1,True,False
+2011-12-21,7.03333333333,Memphis Grizzlies,Brooklyn Nets,1,13-9,-6,tip shot,True,0,False,True
+2011-12-21,9.8,Memphis Grizzlies,Brooklyn Nets,1,17-18,-1,layup,True,0,True,True
+2011-01-28,34.7833333333,Memphis Grizzlies,Philadelphia 76ers,3,55-73,-20,layup,False,0,True,True
+2011-11-03,8.51666666667,Memphis Grizzlies,Golden State Warriors,1,18-17,-1,tip shot,False,0,True,False
+2011-11-03,38.15,Memphis Grizzlies,Golden State Warriors,4,86-90,-5,free throw,False,15,True,False
+2011-11-03,38.15,Memphis Grizzlies,Golden State Warriors,4,86-90,-5,free throw,False,15,False,False
+2011-11-03,40.8166666667,Memphis Grizzlies,Golden State Warriors,4,89-94,-6,free throw,False,15,True,False
+2011-11-03,40.8166666667,Memphis Grizzlies,Golden State Warriors,4,89-94,-6,free throw,False,15,False,False
+2011-11-02,11.2666666667,Memphis Grizzlies,Los Angeles Lakers,1,22-33,-12,free throw,False,15,False,False
+2011-11-02,11.2666666667,Memphis Grizzlies,Los Angeles Lakers,1,23-33,-11,free throw,False,15,True,False
+2011-11-02,44.1666666667,Memphis Grizzlies,Los Angeles Lakers,4,95-115,-22,tip shot,False,0,True,False
+2011-01-02,14.8833333333,Memphis Grizzlies,Los Angeles Lakers,2,25-24,-1,layup,False,0,False,False
+2011-11-06,33.05,Memphis Grizzlies,Sacramento Kings,3,74-64,9,free throw,False,15,True,False
+2011-11-06,33.05,Memphis Grizzlies,Sacramento Kings,3,74-64,9,free throw,False,15,False,False
+2011-01-17,36.25,Memphis Grizzlies,Chicago Bulls,4,79-62,-19,dunk,True,0,True,False
+2011-02-04,14.2166666667,Memphis Grizzlies,Cleveland Cavaliers,2,32-31,-3,tip shot,True,0,False,True
+2011-12-26,10.7833333333,Memphis Grizzlies,Indiana Pacers,1,30-18,10,tip shot,False,0,False,False
+2011-12-26,34.9166666667,Memphis Grizzlies,Indiana Pacers,3,75-62,12,free throw,False,15,False,False
+2011-12-26,34.9166666667,Memphis Grizzlies,Indiana Pacers,3,75-62,12,free throw,False,15,False,False
+2011-12-26,38.0666666667,Memphis Grizzlies,Indiana Pacers,4,83-70,11,two point shot,False,1,True,False
+2011-03-05,47.2166666667,Houston Rockets,Indiana Pacers,4,93-112,17,two point jumper,True,18,False,False
+2011-01-22,12.9666666667,Memphis Grizzlies,Milwaukee Bucks,2,21-19,0,tip shot,False,0,False,True
+2011-10-29,13.5,Memphis Grizzlies,Dallas Mavericks,2,25-29,-5,free throw,False,15,True,True
+2011-10-29,13.5,Memphis Grizzlies,Dallas Mavericks,2,25-29,-5,free throw,False,15,False,True
+2011-01-15,47.7166666667,Memphis Grizzlies,Dallas Mavericks,4,68-89,19,two point jumper,True,1,False,True
+2011-12-03,11.1666666667,Memphis Grizzlies,Houston Rockets,1,36-30,-7,free throw,True,15,True,False
+2011-12-03,11.1666666667,Memphis Grizzlies,Houston Rockets,1,36-31,-6,free throw,True,15,True,False
+2011-12-03,13.0666666667,Memphis Grizzlies,Houston Rockets,2,39-33,-8,tip shot,True,0,True,False
+2011-12-17,45.2666666667,Memphis Grizzlies,Houston Rockets,4,76-99,-24,free throw,False,15,False,True
+2011-12-17,45.2666666667,Memphis Grizzlies,Houston Rockets,4,76-99,-24,free throw,False,15,False,True
+2011-01-21,6.63333333333,Memphis Grizzlies,Houston Rockets,1,22-15,-8,free throw,True,15,True,True
+2011-01-21,6.63333333333,Memphis Grizzlies,Houston Rockets,1,22-16,-7,free throw,True,15,True,True
+2011-01-21,10.1333333333,Memphis Grizzlies,Houston Rockets,1,32-27,-7,layup,True,0,True,True
+2011-01-21,33.55,Memphis Grizzlies,Houston Rockets,3,85-80,-7,tip shot,True,0,False,True
+2011-01-21,35.9666666667,Memphis Grizzlies,Houston Rockets,3,88-87,-2,free throw,True,15,True,True
+2011-01-21,35.9666666667,Memphis Grizzlies,Houston Rockets,3,88-87,-2,free throw,True,15,False,True
+2011-10-27,10.25,Memphis Grizzlies,Atlanta Hawks,1,27-22,-7,two point jumper,True,14,False,False
+2011-10-27,11.55,Memphis Grizzlies,Atlanta Hawks,1,30-22,-10,two point jumper,True,1,False,False
+2011-10-27,11.6,Memphis Grizzlies,Atlanta Hawks,1,30-22,-10,layup,True,0,False,False
+2011-10-27,35.9833333333,Memphis Grizzlies,Atlanta Hawks,3,91-75,-18,dunk,True,0,False,False
+2011-10-30,46.0,Memphis Grizzlies,Minnesota Timberwolves,4,82-107,23,two point jumper,True,10,False,False
+2011-11-19,15.5,Memphis Grizzlies,Washington Wizards,2,30-32,-4,dunk,False,0,True,False
+2011-11-19,15.9,Memphis Grizzlies,Washington Wizards,2,32-32,-2,two point shot,False,1,True,False
+2011-11-20,14.3166666667,Memphis Grizzlies,Miami Heat,2,22-28,5,free throw,True,15,False,True
+2011-11-20,14.3166666667,Memphis Grizzlies,Miami Heat,2,22-28,5,free throw,True,15,False,True
+2011-12-01,10.35,Memphis Grizzlies,Atlanta Hawks,1,25-21,2,two point shot,False,1,True,False
+2011-12-15,14.45,Memphis Grizzlies,Charlotte Bobcats,2,22-29,6,free throw,True,15,True,False
+2011-12-15,14.45,Memphis Grizzlies,Charlotte Bobcats,2,22-29,6,free throw,True,15,False,False
+2011-12-15,14.55,Memphis Grizzlies,Charlotte Bobcats,2,22-31,7,layup,True,0,True,False
+2011-12-15,21.0166666667,Memphis Grizzlies,Charlotte Bobcats,2,29-48,18,free throw,True,15,True,False
+2011-12-15,21.0166666667,Memphis Grizzlies,Charlotte Bobcats,2,29-48,18,free throw,True,15,False,False
+2011-12-15,46.5833333333,Memphis Grizzlies,Charlotte Bobcats,4,76-110,33,free throw,True,15,True,False
+2011-12-15,46.5833333333,Memphis Grizzlies,Charlotte Bobcats,4,76-111,34,free throw,True,15,True,False
+2011-12-15,47.3333333333,Memphis Grizzlies,Charlotte Bobcats,4,78-113,33,two point jumper,True,7,True,False
+2011-01-01,15.1166666667,Memphis Grizzlies,Utah Jazz,5,81-81,-2,tip shot,False,0,False,False
+2011-01-10,42.45,Memphis Grizzlies,Charlotte Bobcats,4,65-85,-21,free throw,False,15,False,False
+2011-01-10,42.45,Memphis Grizzlies,Charlotte Bobcats,4,66-85,-20,free throw,False,15,True,False
+2011-01-19,14.5166666667,Memphis Grizzlies,New Orleans Pelicans,2,29-21,6,two point shot,False,2,True,False
+2011-01-29,13.7,Memphis Grizzlies,Washington Wizards,2,31-37,5,free throw,True,15,False,False
+2011-01-29,13.7,Memphis Grizzlies,Washington Wizards,2,31-38,6,free throw,True,15,True,False
+2011-02-02,8.78333333333,Memphis Grizzlies,Minnesota Timberwolves,1,20-16,2,two point jumper,False,10,True,False
+2011-02-02,8.78333333333,Memphis Grizzlies,Minnesota Timberwolves,1,21-16,4,free throw,False,15,True,False
+2011-02-02,10.2833333333,Memphis Grizzlies,Minnesota Timberwolves,1,22-18,2,two point jumper,False,4,False,False
+2011-02-22,46.6,Memphis Grizzlies,Denver Nuggets,4,105-119,-16,two point shot,False,1,True,False
+2011-02-23,13.65,Memphis Grizzlies,Minnesota Timberwolves,2,29-20,8,free throw,False,15,True,False
+2011-02-23,13.65,Memphis Grizzlies,Minnesota Timberwolves,2,30-20,9,free throw,False,15,True,False
+2012-04-11,34.9166666667,Portland Trail Blazers,Golden State Warriors,3,72-85,12,free throw,True,15,True,True
+2012-04-11,34.9166666667,Portland Trail Blazers,Golden State Warriors,3,72-85,12,free throw,True,15,False,True
+2012-04-11,35.5,Portland Trail Blazers,Golden State Warriors,3,75-85,8,two point jumper,True,1,False,True
+2012-03-30,39.45,Portland Trail Blazers,Los Angeles Clippers,4,78-79,-3,two point shot,False,4,True,False
+2012-04-16,14.95,Portland Trail Blazers,Phoenix Suns,2,33-39,-8,two point shot,False,1,True,False
+2012-04-16,39.3166666667,Portland Trail Blazers,Phoenix Suns,4,83-105,-23,free throw,False,15,True,False
+2012-04-16,39.3166666667,Portland Trail Blazers,Phoenix Suns,4,84-105,-22,free throw,False,15,True,False
+2012-04-16,46.2166666667,Portland Trail Blazers,Phoenix Suns,4,107-125,-19,free throw,False,15,True,False
+2012-04-16,46.2166666667,Portland Trail Blazers,Phoenix Suns,4,107-125,-19,free throw,False,15,False,False
+2012-04-15,9.46666666667,Portland Trail Blazers,Sacramento Kings,1,23-18,3,two point shot,False,1,True,False
+2012-04-15,11.8,Portland Trail Blazers,Sacramento Kings,1,28-22,4,two point jumper,False,3,False,False
+2012-03-20,46.2333333333,Portland Trail Blazers,Milwaukee Bucks,4,110-85,-26,free throw,True,15,True,True
+2012-03-20,46.2333333333,Portland Trail Blazers,Milwaukee Bucks,4,110-86,-25,free throw,True,15,True,True
+2012-03-20,46.7666666667,Portland Trail Blazers,Milwaukee Bucks,4,110-86,-26,layup,True,0,False,True
+2012-03-20,47.55,Portland Trail Blazers,Milwaukee Bucks,4,116-87,-31,two point jumper,True,1,False,True
+2012-04-07,45.75,Portland Trail Blazers,Milwaukee Bucks,4,90-108,-19,free throw,False,15,False,True
+2012-04-07,45.75,Portland Trail Blazers,Milwaukee Bucks,4,90-108,-19,free throw,False,15,False,True
+2012-04-13,9.98333333333,Portland Trail Blazers,Dallas Mavericks,1,23-13,-11,free throw,True,15,True,False
+2012-04-13,9.98333333333,Portland Trail Blazers,Dallas Mavericks,1,23-14,-10,free throw,True,15,True,False
+2012-04-13,32.45,Portland Trail Blazers,Dallas Mavericks,3,69-55,-16,two point shot,True,1,True,False
+2012-04-13,34.5166666667,Portland Trail Blazers,Dallas Mavericks,3,76-55,-23,two point shot,True,1,False,False
+2012-12-29,44.65,Houston Rockets,San Antonio Spurs,4,76-99,21,dunk,True,0,True,False
+2012-12-29,46.25,Houston Rockets,San Antonio Spurs,4,79-103,22,layup,True,0,True,False
+2012-12-29,46.8666666667,Houston Rockets,San Antonio Spurs,4,81-105,22,dunk,True,0,True,False
+2012-04-21,3.0,Portland Trail Blazers,Memphis Grizzlies,1,4-10,-8,layup,False,0,False,False
+2012-04-21,8.48333333333,Portland Trail Blazers,Memphis Grizzlies,1,18-19,-3,layup,False,0,False,False
+2012-04-21,8.51666666667,Portland Trail Blazers,Memphis Grizzlies,1,20-19,-1,layup,False,0,True,False
+2012-04-21,17.1666666667,Portland Trail Blazers,Memphis Grizzlies,2,34-37,-5,layup,False,0,False,False
+2012-04-21,17.1666666667,Portland Trail Blazers,Memphis Grizzlies,2,34-37,-4,free throw,False,15,False,False
+2012-04-21,17.1666666667,Portland Trail Blazers,Memphis Grizzlies,2,35-37,-3,free throw,False,15,True,False
+2012-04-21,20.5,Portland Trail Blazers,Memphis Grizzlies,2,39-43,-5,free throw,False,15,False,False
+2012-04-21,20.5,Portland Trail Blazers,Memphis Grizzlies,2,39-43,-5,free throw,False,15,False,False
+2012-04-21,21.35,Portland Trail Blazers,Memphis Grizzlies,2,39-46,-9,two point jumper,False,10,False,False
+2012-04-23,3.15,Portland Trail Blazers,San Antonio Spurs,1,4-8,-6,tip shot,False,0,True,True
+2012-04-23,4.35,Portland Trail Blazers,San Antonio Spurs,1,6-10,-6,layup,False,0,True,True
+2012-03-27,47.1166666667,Portland Trail Blazers,Oklahoma City Thunder,4,109-94,-16,free throw,True,15,True,True
+2012-03-27,47.1166666667,Portland Trail Blazers,Oklahoma City Thunder,4,109-95,-15,free throw,True,15,True,True
+2012-04-18,13.95,Portland Trail Blazers,Utah Jazz,2,28-28,-2,dunk,True,0,True,True
+2012-04-18,27.0833333333,Portland Trail Blazers,Utah Jazz,3,66-44,-23,free throw,True,15,True,True
+2012-04-18,27.0833333333,Portland Trail Blazers,Utah Jazz,3,66-45,-22,free throw,True,15,True,True
+2013-11-24,8.73333333333,Oklahoma City Thunder,Philadelphia 76ers,1,21-19,1,free throw,False,15,True,True
+2013-11-24,8.73333333333,Oklahoma City Thunder,Philadelphia 76ers,1,22-19,2,free throw,False,15,True,True
+2013-11-24,14.8333333333,Oklahoma City Thunder,Philadelphia 76ers,2,31-23,6,tip shot,False,0,False,True
+2013-01-04,14.5166666667,Oklahoma City Thunder,Philadelphia 76ers,2,21-27,5,free throw,True,15,False,False
+2013-01-04,14.5166666667,Oklahoma City Thunder,Philadelphia 76ers,2,21-28,6,free throw,True,15,True,False
+2013-01-04,39.8833333333,Oklahoma City Thunder,Philadelphia 76ers,4,71-90,17,two point jumper,True,1,False,False
+2013-01-04,45.8166666667,Oklahoma City Thunder,Philadelphia 76ers,4,82-105,21,layup,True,0,True,False
+2013-01-04,45.8166666667,Oklahoma City Thunder,Philadelphia 76ers,4,82-105,22,free throw,True,15,False,False
+2013-11-06,15.3666666667,Oklahoma City Thunder,Toronto Raptors,2,20-35,13,dunk,True,0,True,False
+2013-11-06,33.0833333333,Oklahoma City Thunder,Toronto Raptors,3,56-80,23,free throw,True,15,True,False
+2013-11-06,33.0833333333,Oklahoma City Thunder,Toronto Raptors,3,56-81,24,free throw,True,15,True,False
+2013-11-06,34.1,Oklahoma City Thunder,Toronto Raptors,3,56-82,25,free throw,True,15,True,False
+2013-11-06,34.1,Oklahoma City Thunder,Toronto Raptors,3,56-83,26,free throw,True,15,True,False
+2013-11-06,39.5,Oklahoma City Thunder,Toronto Raptors,4,71-96,23,two point shot,True,1,True,False
+2013-11-06,44.65,Oklahoma City Thunder,Toronto Raptors,4,81-104,22,free throw,True,15,True,False
+2013-11-06,44.65,Oklahoma City Thunder,Toronto Raptors,4,81-105,23,free throw,True,15,True,False
+2013-11-18,10.2833333333,Oklahoma City Thunder,Golden State Warriors,1,17-22,3,layup,True,0,True,True
+2013-11-18,12.2,Oklahoma City Thunder,Golden State Warriors,2,25-27,1,free throw,True,15,True,True
+2013-11-18,12.2,Oklahoma City Thunder,Golden State Warriors,2,25-28,2,free throw,True,15,True,True
+2013-11-18,15.7,Oklahoma City Thunder,Golden State Warriors,2,32-36,2,dunk,True,0,True,True
+2013-02-06,43.6666666667,Oklahoma City Thunder,Golden State Warriors,4,91-113,20,dunk,True,0,True,False
+2013-02-06,47.3,Oklahoma City Thunder,Golden State Warriors,4,96-119,21,layup,True,0,False,False
+2013-04-11,27.7666666667,Oklahoma City Thunder,Golden State Warriors,3,69-59,8,two point shot,False,1,False,False
+2013-04-11,44.2,Oklahoma City Thunder,Golden State Warriors,4,110-88,20,two point shot,False,1,True,False
+2013-04-11,47.25,Oklahoma City Thunder,Golden State Warriors,4,116-94,20,two point shot,False,3,True,False
+2013-11-21,8.86666666667,Oklahoma City Thunder,Los Angeles Clippers,1,16-25,7,layup,True,0,True,True
+2013-11-21,8.86666666667,Oklahoma City Thunder,Los Angeles Clippers,1,16-26,9,free throw,True,15,True,True
+2013-11-21,14.95,Oklahoma City Thunder,Los Angeles Clippers,2,29-38,7,two point shot,True,2,True,True
+2013-11-21,15.5666666667,Oklahoma City Thunder,Los Angeles Clippers,2,31-39,7,free throw,True,15,True,True
+2013-11-21,15.5666666667,Oklahoma City Thunder,Los Angeles Clippers,2,31-39,7,free throw,True,15,False,True
+2013-11-21,35.8833333333,Oklahoma City Thunder,Los Angeles Clippers,3,69-76,5,layup,True,0,True,True
+2013-11-21,38.0166666667,Oklahoma City Thunder,Los Angeles Clippers,4,75-80,3,dunk,True,0,True,True
+2013-03-03,11.0333333333,Oklahoma City Thunder,Los Angeles Clippers,1,26-20,5,free throw,False,15,False,True
+2013-03-03,11.0333333333,Oklahoma City Thunder,Los Angeles Clippers,1,27-20,6,free throw,False,15,True,True
+2013-12-07,11.1333333333,Oklahoma City Thunder,Los Angeles Lakers,1,24-21,-5,layup,True,0,False,True
+2013-12-07,27.1166666667,Oklahoma City Thunder,Los Angeles Lakers,3,59-76,15,dunk,True,0,True,True
+2013-01-11,47.75,Oklahoma City Thunder,Los Angeles Lakers,4,115-98,16,free throw,False,15,False,True
+2013-01-11,47.75,Oklahoma City Thunder,Los Angeles Lakers,4,116-98,17,free throw,False,15,True,True
+2013-01-27,14.8,Oklahoma City Thunder,Los Angeles Lakers,2,29-34,-7,two point shot,False,1,True,True
+2013-03-05,21.9666666667,Oklahoma City Thunder,Los Angeles Lakers,2,50-62,10,dunk,True,0,True,True
+2013-01-14,8.26666666667,Oklahoma City Thunder,Phoenix Suns,1,14-17,-5,two point shot,False,1,True,False
+2013-01-14,8.75,Oklahoma City Thunder,Phoenix Suns,1,15-17,-3,free throw,False,15,True,False
+2013-01-14,8.75,Oklahoma City Thunder,Phoenix Suns,1,15-17,-3,free throw,False,15,False,False
+2013-01-14,11.3833333333,Oklahoma City Thunder,Phoenix Suns,1,19-24,-7,two point jumper,False,8,False,False
+2013-01-14,15.5,Oklahoma City Thunder,Phoenix Suns,2,25-30,-7,two point jumper,False,14,False,False
+2013-01-14,47.25,Oklahoma City Thunder,Phoenix Suns,4,100-88,10,dunk,False,0,False,False
+2013-01-14,47.7166666667,Oklahoma City Thunder,Phoenix Suns,4,102-90,10,layup,False,0,True,False
+2013-02-08,39.3,Oklahoma City Thunder,Phoenix Suns,4,75-99,22,layup,True,0,True,False
+2013-02-08,45.4833333333,Oklahoma City Thunder,Phoenix Suns,4,86-118,30,dunk,True,0,True,False
+2013-02-10,14.0666666667,Oklahoma City Thunder,Phoenix Suns,2,30-18,10,two point jumper,False,5,False,True
+2013-02-10,38.8166666667,Oklahoma City Thunder,Phoenix Suns,4,81-48,31,dunk,False,0,True,True
+2013-12-14,39.25,Oklahoma City Thunder,Sacramento Kings,4,75-95,18,two point shot,True,1,True,True
+2013-01-25,45.6166666667,Oklahoma City Thunder,Sacramento Kings,4,102-85,16,free throw,False,15,False,False
+2013-01-25,45.6166666667,Oklahoma City Thunder,Sacramento Kings,4,103-85,17,free throw,False,15,True,False
+2013-04-15,25.1333333333,Oklahoma City Thunder,Sacramento Kings,3,43-58,13,dunk,True,0,True,False
+2013-02-24,12.25,Oklahoma City Thunder,Chicago Bulls,2,16-25,8,free throw,True,15,True,False
+2013-02-24,12.25,Oklahoma City Thunder,Chicago Bulls,2,16-25,8,free throw,True,15,False,False
+2013-02-02,13.3166666667,Oklahoma City Thunder,Cleveland Cavaliers,2,27-26,-1,two point shot,False,1,True,False
+2013-02-02,15.65,Oklahoma City Thunder,Cleveland Cavaliers,2,33-31,0,dunk,False,0,True,False
+2013-11-12,11.8333333333,Oklahoma City Thunder,Detroit Pistons,1,24-23,0,free throw,False,15,True,True
+2013-11-12,11.8333333333,Oklahoma City Thunder,Detroit Pistons,1,25-23,1,free throw,False,15,True,True
+2013-12-09,10.3333333333,Oklahoma City Thunder,Indiana Pacers,1,20-18,-3,free throw,True,15,False,False
+2013-12-09,10.3333333333,Oklahoma City Thunder,Indiana Pacers,1,20-19,-2,free throw,True,15,True,False
+2013-12-09,14.8166666667,Oklahoma City Thunder,Indiana Pacers,2,28-33,3,layup,True,0,True,False
+2013-04-05,46.3666666667,Oklahoma City Thunder,Indiana Pacers,4,95-75,19,free throw,False,15,True,True
+2013-04-05,46.3666666667,Oklahoma City Thunder,Indiana Pacers,4,95-75,19,free throw,False,15,False,True
+2013-04-17,2.76666666667,Oklahoma City Thunder,Milwaukee Bucks,1,1-9,6,dunk,True,0,True,False
+2013-04-17,29.85,Oklahoma City Thunder,Milwaukee Bucks,3,52-63,9,layup,True,0,True,False
+2013-12-27,11.1,Oklahoma City Thunder,Dallas Mavericks,1,29-21,-10,dunk,True,0,True,True
+2013-12-27,11.1,Oklahoma City Thunder,Dallas Mavericks,1,29-21,-9,free throw,True,15,False,True
+2013-12-27,25.75,Oklahoma City Thunder,Dallas Mavericks,3,83-76,-9,layup,True,0,False,True
+2013-02-04,13.05,Oklahoma City Thunder,Dallas Mavericks,2,22-31,7,two point jumper,True,9,True,False
+2013-02-04,13.7666666667,Oklahoma City Thunder,Dallas Mavericks,2,22-31,7,layup,True,0,False,False
+2013-02-04,37.5,Oklahoma City Thunder,Dallas Mavericks,4,67-96,27,dunk,True,0,True,False
+2013-02-04,40.1333333333,Oklahoma City Thunder,Dallas Mavericks,4,73-103,28,dunk,True,0,True,False
+2013-12-29,12.95,Oklahoma City Thunder,Houston Rockets,2,35-26,7,layup,False,0,True,False
+2013-12-29,46.1,Oklahoma City Thunder,Houston Rockets,4,119-92,25,two point shot,False,2,False,False
+2013-02-20,2.25,Oklahoma City Thunder,Houston Rockets,1,7-3,2,two point jumper,False,1,False,False
+2013-02-20,24.6833333333,Oklahoma City Thunder,Houston Rockets,3,64-59,3,dunk,False,0,True,False
+2013-02-20,26.2,Oklahoma City Thunder,Houston Rockets,3,69-63,4,two point jumper,False,4,True,False
+2013-01-31,46.4,Oklahoma City Thunder,Memphis Grizzlies,4,83-99,14,dunk,True,0,True,False
+2013-01-31,46.7333333333,Oklahoma City Thunder,Memphis Grizzlies,4,85-101,14,two point shot,True,1,True,False
+2013-11-16,36.3833333333,Oklahoma City Thunder,New Orleans Pelicans,4,96-67,27,layup,False,0,True,False
+2013-11-16,37.1833333333,Oklahoma City Thunder,New Orleans Pelicans,4,96-67,27,layup,False,0,False,False
+2013-11-16,45.3333333333,Oklahoma City Thunder,New Orleans Pelicans,4,107-84,22,free throw,False,15,False,False
+2013-11-16,45.3333333333,Oklahoma City Thunder,New Orleans Pelicans,4,108-84,23,free throw,False,15,True,False
+2013-12-01,36.55,Oklahoma City Thunder,New Orleans Pelicans,4,86-57,28,free throw,False,15,False,False
+2013-12-01,36.55,Oklahoma City Thunder,New Orleans Pelicans,4,86-57,27,two point shot,False,1,True,False
+2013-02-27,12.0,Oklahoma City Thunder,New Orleans Pelicans,1,21-30,7,tip shot,True,0,False,False
+2013-11-01,36.25,Oklahoma City Thunder,San Antonio Spurs,4,67-66,0,free throw,False,15,True,False
+2013-11-01,36.25,Oklahoma City Thunder,San Antonio Spurs,4,67-66,0,free throw,False,15,False,False
+2013-12-17,15.3666666667,Oklahoma City Thunder,San Antonio Spurs,2,30-33,1,layup,True,0,False,False
+2013-12-17,47.05,Oklahoma City Thunder,San Antonio Spurs,4,90-107,15,dunk,True,0,True,False
+2013-12-19,11.1666666667,Oklahoma City Thunder,Atlanta Hawks,1,23-19,2,two point jumper,False,17,True,False
+2013-12-19,12.2666666667,Oklahoma City Thunder,Atlanta Hawks,2,24-20,3,free throw,False,15,True,False
+2013-12-19,12.2666666667,Oklahoma City Thunder,Atlanta Hawks,2,25-20,4,free throw,False,15,True,False
+2013-12-19,14.5166666667,Oklahoma City Thunder,Atlanta Hawks,2,30-23,5,layup,False,0,False,False
+2013-12-19,14.55,Oklahoma City Thunder,Atlanta Hawks,2,32-23,7,two point shot,False,1,True,False
+2013-11-26,12.3833333333,Oklahoma City Thunder,Charlotte Bobcats,2,12-29,16,free throw,True,15,True,False
+2013-11-26,12.3833333333,Oklahoma City Thunder,Charlotte Bobcats,2,12-30,17,free throw,True,15,True,False
+2013-11-26,14.95,Oklahoma City Thunder,Charlotte Bobcats,2,15-38,21,dunk,True,0,True,False
+2013-11-26,34.75,Oklahoma City Thunder,Charlotte Bobcats,3,41-86,43,two point shot,True,1,True,False
+2013-11-26,38.8666666667,Oklahoma City Thunder,Charlotte Bobcats,4,47-90,41,dunk,True,0,True,False
+2013-11-26,38.8666666667,Oklahoma City Thunder,Charlotte Bobcats,4,47-91,43,free throw,True,15,True,False
+2013-11-26,41.2833333333,Oklahoma City Thunder,Charlotte Bobcats,4,55-96,39,layup,True,0,True,False
+2013-11-26,42.35,Oklahoma City Thunder,Charlotte Bobcats,4,60-101,39,layup,True,0,True,False
+2013-11-26,44.95,Oklahoma City Thunder,Charlotte Bobcats,4,65-107,40,two point shot,True,1,False,False
+2013-03-08,10.0833333333,Oklahoma City Thunder,Charlotte Bobcats,1,24-23,-1,layup,False,0,True,False
+2013-03-08,12.8333333333,Oklahoma City Thunder,Charlotte Bobcats,2,30-29,-1,two point shot,False,1,True,False
+2013-03-08,14.2666666667,Oklahoma City Thunder,Charlotte Bobcats,2,35-29,4,two point shot,False,1,True,False
+2013-03-08,37.8166666667,Oklahoma City Thunder,Charlotte Bobcats,4,99-73,24,two point jumper,False,14,False,False
+2013-03-08,46.2166666667,Oklahoma City Thunder,Charlotte Bobcats,4,114-92,20,two point shot,False,11,True,False
+2013-03-27,15.8833333333,Oklahoma City Thunder,Washington Wizards,2,28-35,5,tip shot,True,0,False,False
+2013-03-27,43.25,Oklahoma City Thunder,Washington Wizards,4,76-99,21,two point jumper,True,10,True,False
+2013-01-16,11.9166666667,Oklahoma City Thunder,Denver Nuggets,1,18-34,15,free throw,True,15,True,False
+2013-01-16,11.9166666667,Oklahoma City Thunder,Denver Nuggets,1,18-34,15,free throw,True,15,False,False
+2013-01-16,12.8833333333,Oklahoma City Thunder,Denver Nuggets,2,20-38,16,two point shot,True,1,True,False
+2013-01-16,43.3833333333,Oklahoma City Thunder,Denver Nuggets,4,85-106,20,free throw,True,15,False,False
+2013-01-16,43.3833333333,Oklahoma City Thunder,Denver Nuggets,4,85-106,20,free throw,True,15,False,False
+2013-01-09,11.4666666667,Oklahoma City Thunder,Minnesota Timberwolves,1,16-16,-2,layup,True,0,False,False
+2013-01-09,44.5333333333,Oklahoma City Thunder,Minnesota Timberwolves,4,76-100,22,layup,True,0,True,False
+2013-01-09,46.6166666667,Oklahoma City Thunder,Minnesota Timberwolves,4,80-106,24,dunk,True,0,True,False
+2013-02-22,5.03333333333,Oklahoma City Thunder,Minnesota Timberwolves,1,11-16,3,two point shot,True,1,True,True
+2013-02-22,11.95,Oklahoma City Thunder,Minnesota Timberwolves,1,23-33,8,layup,True,0,True,True
+2013-03-29,12.4,Oklahoma City Thunder,Minnesota Timberwolves,2,25-23,0,two point shot,False,1,True,True
+2013-11-02,44.0333333333,Oklahoma City Thunder,Portland Trail Blazers,4,58-62,2,layup,True,0,True,False
+2013-11-02,44.0333333333,Oklahoma City Thunder,Portland Trail Blazers,4,58-62,3,free throw,True,15,False,False
+2013-11-02,46.4666666667,Oklahoma City Thunder,Portland Trail Blazers,4,65-69,2,two point shot,True,1,True,False
+2013-11-30,13.8666666667,Oklahoma City Thunder,Utah Jazz,2,25-28,1,dunk,True,0,True,False
+2013-11-30,33.25,Oklahoma City Thunder,Utah Jazz,3,61-76,13,tip shot,True,0,False,False
+2013-11-30,37.2666666667,Oklahoma City Thunder,Utah Jazz,4,72-83,10,free throw,True,15,False,False
+2013-11-30,37.2666666667,Oklahoma City Thunder,Utah Jazz,4,72-84,11,free throw,True,15,True,False
+2013-01-13,14.25,Oklahoma City Thunder,Portland Trail Blazers,2,26-23,1,dunk,False,0,True,True
+2013-03-13,43.2833333333,Oklahoma City Thunder,Utah Jazz,4,74-93,17,tip shot,True,0,False,False
+2013-03-24,11.2333333333,Oklahoma City Thunder,Portland Trail Blazers,1,16-24,6,layup,True,0,True,False
+2013-03-24,13.8833333333,Oklahoma City Thunder,Portland Trail Blazers,2,22-26,3,free throw,True,15,False,False
+2013-03-24,13.8833333333,Oklahoma City Thunder,Portland Trail Blazers,2,22-27,4,free throw,True,15,True,False
+2013-03-24,15.6166666667,Oklahoma City Thunder,Portland Trail Blazers,2,24-31,5,dunk,True,0,True,False
+2013-03-24,16.0666666667,Oklahoma City Thunder,Portland Trail Blazers,2,24-31,5,two point jumper,True,1,False,False
+2013-03-24,16.85,Oklahoma City Thunder,Portland Trail Blazers,2,27-35,7,free throw,True,15,False,False
+2013-04-09,17.45,Oklahoma City Thunder,Utah Jazz,2,31-24,5,two point jumper,False,1,False,True
+2013-04-12,0.7,Oklahoma City Thunder,Portland Trail Blazers,1,2-2,-2,two point shot,False,1,True,False
+2013-04-12,31.7333333333,Oklahoma City Thunder,Portland Trail Blazers,3,70-59,9,two point jumper,False,13,False,False
+2013-04-12,44.7,Oklahoma City Thunder,Portland Trail Blazers,4,100-84,14,two point jumper,False,9,False,False

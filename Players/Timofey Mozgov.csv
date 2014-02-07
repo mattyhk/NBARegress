@@ -1,0 +1,496 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2011-10-29,1.33333333333,New York Knicks,Boston Celtics,1,3-0,2,free throw,False,15,False,False
+2011-10-29,1.33333333333,New York Knicks,Boston Celtics,1,4-0,3,free throw,False,15,True,False
+2011-10-29,1.63333333333,New York Knicks,Boston Celtics,1,6-0,4,dunk,False,0,True,False
+2011-10-29,4.98333333333,New York Knicks,Boston Celtics,1,11-4,5,two point jumper,False,17,False,False
+2011-10-29,23.25,New York Knicks,Boston Celtics,2,46-48,-4,two point jumper,False,17,False,False
+2011-11-30,10.5,New York Knicks,Brooklyn Nets,1,26-25,-3,two point shot,True,1,True,True
+2011-11-30,37.6333333333,New York Knicks,Brooklyn Nets,4,75-88,11,two point jumper,True,11,False,True
+2011-11-30,47.2,New York Knicks,Brooklyn Nets,4,100-111,9,two point jumper,True,20,False,True
+2011-02-12,15.4333333333,New York Knicks,Brooklyn Nets,2,36-28,6,layup,False,0,False,False
+2011-02-12,16.7833333333,New York Knicks,Brooklyn Nets,2,42-33,8,free throw,False,15,True,False
+2011-02-12,24.5833333333,New York Knicks,Brooklyn Nets,3,61-54,5,two point jumper,False,21,True,False
+2011-02-12,45.55,New York Knicks,Brooklyn Nets,4,95-90,3,layup,False,0,True,False
+2011-02-12,45.55,New York Knicks,Brooklyn Nets,4,96-90,5,free throw,False,15,True,False
+2011-02-12,46.0333333333,New York Knicks,Brooklyn Nets,4,96-90,4,two point shot,False,2,False,False
+2011-10-27,0.766666666667,New York Knicks,Toronto Raptors,1,0-1,-3,two point shot,False,1,False,True
+2011-10-30,17.0333333333,New York Knicks,Portland Trail Blazers,2,35-26,-11,two point jumper,True,15,True,True
+2011-10-30,20.0666666667,New York Knicks,Portland Trail Blazers,2,38-35,-5,two point jumper,True,4,False,True
+2011-11-04,4.03333333333,New York Knicks,Chicago Bulls,1,9-11,-3,free throw,False,15,True,True
+2011-11-04,4.03333333333,New York Knicks,Chicago Bulls,1,9-11,-3,free throw,False,15,False,True
+2011-11-05,1.26666666667,New York Knicks,Washington Wizards,1,2-5,1,two point shot,True,1,True,False
+2011-11-05,5.56666666667,New York Knicks,Washington Wizards,1,16-14,-4,dunk,True,0,True,False
+2011-11-05,5.91666666667,New York Knicks,Washington Wizards,1,16-16,-2,layup,True,0,True,False
+2011-11-05,26.8166666667,New York Knicks,Washington Wizards,3,55-64,7,two point jumper,True,19,False,False
+2011-11-05,30.6333333333,New York Knicks,Washington Wizards,3,63-72,8,free throw,True,15,False,False
+2011-11-05,30.6333333333,New York Knicks,Washington Wizards,3,63-72,8,free throw,True,15,False,False
+2011-11-07,0.333333333333,New York Knicks,Philadelphia 76ers,1,0-2,0,dunk,True,0,True,True
+2011-11-07,3.31666666667,New York Knicks,Philadelphia 76ers,1,11-6,-6,free throw,True,15,False,True
+2011-11-07,3.31666666667,New York Knicks,Philadelphia 76ers,1,11-7,-5,free throw,True,15,True,True
+2011-11-07,4.63333333333,New York Knicks,Philadelphia 76ers,1,13-12,-3,two point jumper,True,12,True,True
+2011-11-07,24.95,New York Knicks,Philadelphia 76ers,3,54-58,2,two point jumper,True,20,True,True
+2011-11-07,26.9666666667,New York Knicks,Philadelphia 76ers,3,58-59,-1,layup,True,0,False,True
+2011-11-07,28.2,New York Knicks,Philadelphia 76ers,3,58-63,3,two point shot,True,7,False,True
+2011-11-07,29.8166666667,New York Knicks,Philadelphia 76ers,3,60-69,7,two point shot,True,2,True,True
+2011-11-09,7.06666666667,New York Knicks,Milwaukee Bucks,1,16-21,-7,two point jumper,False,16,True,True
+2011-11-09,25.6333333333,New York Knicks,Milwaukee Bucks,3,45-66,-23,two point jumper,False,1,False,True
+2011-11-09,36.3,New York Knicks,Milwaukee Bucks,4,67-90,-25,two point jumper,False,15,False,True
+2011-11-09,41.9833333333,New York Knicks,Milwaukee Bucks,4,73-96,-25,two point jumper,False,8,False,True
+2011-11-09,43.5666666667,New York Knicks,Milwaukee Bucks,4,77-100,-25,layup,False,0,True,True
+2011-11-09,44.3666666667,New York Knicks,Milwaukee Bucks,4,77-100,-25,two point jumper,False,16,False,True
+2011-11-09,47.8833333333,New York Knicks,Milwaukee Bucks,4,79-107,-30,layup,False,0,True,True
+2011-11-09,47.8833333333,New York Knicks,Milwaukee Bucks,4,80-107,-28,free throw,False,15,True,True
+2011-11-10,8.1,New York Knicks,Golden State Warriors,1,24-23,-2,free throw,True,15,True,False
+2011-11-10,8.1,New York Knicks,Golden State Warriors,1,24-24,-1,free throw,True,15,True,False
+2011-11-12,16.85,New York Knicks,Minnesota Timberwolves,2,43-36,5,two point jumper,False,19,False,False
+2011-11-14,13.7,New York Knicks,Houston Rockets,2,31-30,-3,layup,True,0,False,True
+2011-11-14,33.45,New York Knicks,Houston Rockets,3,77-73,-6,two point shot,True,1,True,True
+2011-11-14,34.9333333333,New York Knicks,Houston Rockets,3,81-75,-8,two point jumper,True,21,True,True
+2011-11-16,26.0,New York Knicks,Denver Nuggets,3,58-63,-7,two point shot,False,1,False,False
+2011-11-20,11.5,New York Knicks,Los Angeles Clippers,1,28-29,-3,tip shot,False,0,False,True
+2011-11-20,14.8166666667,New York Knicks,Los Angeles Clippers,2,36-33,1,tip shot,False,0,False,True
+2011-11-20,28.7,New York Knicks,Los Angeles Clippers,3,71-62,8,free throw,False,15,True,True
+2011-11-20,28.7,New York Knicks,Los Angeles Clippers,3,72-62,9,free throw,False,15,True,True
+2011-11-20,29.6666666667,New York Knicks,Los Angeles Clippers,3,75-64,10,free throw,False,15,True,True
+2011-11-20,29.6666666667,New York Knicks,Los Angeles Clippers,3,75-64,10,free throw,False,15,False,True
+2011-11-23,15.0,New York Knicks,Charlotte Bobcats,2,28-34,4,layup,True,0,False,True
+2011-11-23,35.0166666667,New York Knicks,Charlotte Bobcats,3,73-86,11,layup,True,0,True,True
+2011-11-24,17.3833333333,New York Knicks,Charlotte Bobcats,2,37-31,4,two point jumper,False,19,False,True
+2011-11-27,19.2166666667,New York Knicks,Atlanta Hawks,2,46-33,-15,two point jumper,True,20,False,False
+2011-11-27,27.6333333333,New York Knicks,Atlanta Hawks,3,61-49,-14,two point shot,True,1,True,False
+2011-11-27,28.95,New York Knicks,Atlanta Hawks,3,63-50,-14,free throw,True,15,True,False
+2011-11-27,28.95,New York Knicks,Atlanta Hawks,3,63-50,-14,free throw,True,15,False,False
+2011-11-27,46.7333333333,New York Knicks,Atlanta Hawks,4,99-88,-13,dunk,True,0,True,False
+2011-11-28,13.5166666667,New York Knicks,Detroit Pistons,2,28-27,-1,two point jumper,False,20,False,True
+2011-12-03,10.4166666667,New York Knicks,New Orleans Pelicans,1,21-20,-1,layup,False,0,False,False
+2011-12-05,11.0833333333,New York Knicks,Toronto Raptors,1,31-18,12,free throw,False,15,True,False
+2011-12-05,11.0833333333,New York Knicks,Toronto Raptors,1,31-18,12,free throw,False,15,False,False
+2011-12-05,12.7166666667,New York Knicks,Toronto Raptors,2,35-20,13,two point shot,False,1,True,False
+2011-12-05,12.7166666667,New York Knicks,Toronto Raptors,2,36-20,15,free throw,False,15,True,False
+2011-12-05,13.65,New York Knicks,Toronto Raptors,2,37-24,12,free throw,False,15,True,False
+2011-12-05,13.65,New York Knicks,Toronto Raptors,2,38-24,13,free throw,False,15,True,False
+2011-12-05,34.6833333333,New York Knicks,Toronto Raptors,3,82-75,5,tip shot,False,0,False,False
+2011-12-06,14.4333333333,New York Knicks,Minnesota Timberwolves,2,40-39,-2,free throw,True,15,False,True
+2011-12-06,14.4333333333,New York Knicks,Minnesota Timberwolves,2,40-40,-1,free throw,True,15,True,True
+2011-12-06,16.5666666667,New York Knicks,Minnesota Timberwolves,2,47-42,-7,two point shot,True,9,False,True
+2011-12-10,16.9833333333,New York Knicks,Washington Wizards,2,29-39,-11,free throw,False,15,True,False
+2011-12-10,16.9833333333,New York Knicks,Washington Wizards,2,30-39,-10,free throw,False,15,True,False
+2011-12-17,46.9666666667,New York Knicks,Miami Heat,4,111-91,-22,two point jumper,True,20,False,True
+2011-12-22,44.9333333333,New York Knicks,Oklahoma City Thunder,4,90-112,20,two point shot,True,1,True,False
+2011-12-22,45.5166666667,New York Knicks,Oklahoma City Thunder,4,92-112,18,dunk,True,0,False,False
+2011-12-22,46.7666666667,New York Knicks,Oklahoma City Thunder,4,96-112,14,two point jumper,True,9,False,False
+2011-01-07,42.0333333333,New York Knicks,Phoenix Suns,4,112-79,31,layup,False,0,True,False
+2011-01-07,44.3,New York Knicks,Phoenix Suns,4,115-87,26,two point jumper,False,10,False,False
+2011-01-09,46.9666666667,New York Knicks,Los Angeles Lakers,4,85-107,-24,hook shot,False,8,False,True
+2011-01-09,47.35,New York Knicks,Los Angeles Lakers,4,87-109,-24,two point shot,False,1,True,True
+2011-01-30,6.91666666667,New York Knicks,Detroit Pistons,1,16-21,3,hook shot,True,4,False,True
+2011-01-30,8.26666666667,New York Knicks,Detroit Pistons,1,21-21,-2,layup,True,0,False,True
+2011-01-30,8.3,New York Knicks,Detroit Pistons,1,24-21,-5,tip shot,True,0,False,True
+2011-01-30,8.33333333333,New York Knicks,Detroit Pistons,1,21-21,-2,hook shot,True,3,False,True
+2011-01-30,9.68333333333,New York Knicks,Detroit Pistons,1,27-23,-6,two point shot,True,1,True,True
+2011-01-30,10.4666666667,New York Knicks,Detroit Pistons,1,29-26,-4,free throw,True,15,True,True
+2011-01-30,10.4666666667,New York Knicks,Detroit Pistons,1,29-26,-4,free throw,True,15,False,True
+2011-01-30,11.1,New York Knicks,Detroit Pistons,1,29-28,-3,dunk,True,0,True,True
+2011-01-30,13.1166666667,New York Knicks,Detroit Pistons,2,36-34,-4,two point shot,True,12,True,True
+2011-01-30,13.6833333333,New York Knicks,Detroit Pistons,2,36-36,-2,two point shot,True,2,True,True
+2011-01-30,18.2833333333,New York Knicks,Detroit Pistons,2,49-47,-4,two point shot,True,1,True,True
+2011-01-30,27.7,New York Knicks,Detroit Pistons,3,72-69,-5,two point jumper,True,21,False,True
+2011-01-30,29.35,New York Knicks,Detroit Pistons,3,77-73,-6,two point jumper,True,12,True,True
+2011-01-30,34.6666666667,New York Knicks,Detroit Pistons,3,86-86,-1,free throw,True,15,True,True
+2011-01-30,34.6666666667,New York Knicks,Detroit Pistons,3,86-87,0,free throw,True,15,True,True
+2011-01-30,36.8666666667,New York Knicks,Detroit Pistons,4,91-96,3,two point shot,True,1,True,True
+2011-01-30,41.1,New York Knicks,Detroit Pistons,4,96-106,9,free throw,True,15,True,True
+2011-01-30,41.1,New York Knicks,Detroit Pistons,4,96-107,10,free throw,True,15,True,True
+2011-01-30,43.9833333333,New York Knicks,Detroit Pistons,4,106-115,7,dunk,True,0,True,True
+2011-01-30,47.1166666667,New York Knicks,Detroit Pistons,4,106-124,16,two point jumper,True,19,True,True
+2011-02-02,10.3666666667,New York Knicks,Dallas Mavericks,1,22-30,6,two point shot,True,1,True,True
+2011-02-02,15.0,New York Knicks,Dallas Mavericks,2,37-34,-5,two point jumper,True,19,False,True
+2011-02-02,47.05,New York Knicks,Dallas Mavericks,4,111-94,-19,layup,True,0,True,True
+2011-02-06,6.81666666667,New York Knicks,Philadelphia 76ers,1,15-19,3,free throw,True,15,False,True
+2011-02-06,6.81666666667,New York Knicks,Philadelphia 76ers,1,15-20,4,free throw,True,15,True,True
+2011-02-06,8.68333333333,New York Knicks,Philadelphia 76ers,1,19-20,-1,hook shot,True,1,False,True
+2011-02-06,22.4833333333,New York Knicks,Philadelphia 76ers,2,47-48,-1,two point jumper,True,5,False,True
+2011-02-06,24.8833333333,New York Knicks,Philadelphia 76ers,3,51-57,4,two point jumper,True,17,True,True
+2011-02-09,1.45,New York Knicks,Los Angeles Clippers,1,4-5,-1,dunk,True,0,True,False
+2011-02-09,1.86666666667,New York Knicks,Los Angeles Clippers,1,6-5,-3,layup,True,0,False,False
+2011-02-09,3.13333333333,New York Knicks,Los Angeles Clippers,1,8-10,0,dunk,True,0,True,False
+2011-02-09,3.76666666667,New York Knicks,Los Angeles Clippers,1,10-12,0,dunk,True,0,True,False
+2011-02-09,4.6,New York Knicks,Los Angeles Clippers,1,12-13,0,free throw,True,15,True,False
+2011-02-09,4.6,New York Knicks,Los Angeles Clippers,1,12-14,1,free throw,True,15,True,False
+2011-02-09,6.6,New York Knicks,Los Angeles Clippers,1,18-18,-2,dunk,True,0,True,False
+2011-02-09,11.5,New York Knicks,Los Angeles Clippers,1,28-29,-1,two point shot,True,1,True,False
+2011-02-09,23.2,New York Knicks,Los Angeles Clippers,2,58-45,-15,layup,True,0,True,False
+2011-02-09,27.3166666667,New York Knicks,Los Angeles Clippers,3,65-53,-14,hook shot,True,5,True,False
+2011-02-09,30.7833333333,New York Knicks,Los Angeles Clippers,3,76-62,-16,dunk,True,0,True,False
+2011-02-11,25.6333333333,New York Knicks,Los Angeles Lakers,3,66-52,-16,tip shot,True,0,False,True
+2011-02-11,26.5833333333,New York Knicks,Los Angeles Lakers,3,66-52,-16,two point jumper,True,17,False,True
+2011-02-11,27.55,New York Knicks,Los Angeles Lakers,3,68-52,-18,tip shot,True,0,False,True
+2011-02-11,28.0333333333,New York Knicks,Los Angeles Lakers,3,70-54,-18,two point shot,True,1,True,True
+2011-02-11,40.7833333333,New York Knicks,Los Angeles Lakers,4,97-82,-17,two point jumper,True,1,False,True
+2011-02-11,41.95,New York Knicks,Los Angeles Lakers,4,102-84,-20,layup,True,0,True,True
+2011-02-11,43.95,New York Knicks,Los Angeles Lakers,4,106-86,-22,two point jumper,True,1,False,True
+2011-02-11,47.35,New York Knicks,Los Angeles Lakers,4,111-94,-18,free throw,True,15,True,True
+2011-02-11,47.35,New York Knicks,Los Angeles Lakers,4,111-94,-18,free throw,True,15,False,True
+2011-02-11,47.9666666667,New York Knicks,Los Angeles Lakers,4,113-96,-19,dunk,True,0,True,True
+2011-02-16,1.63333333333,New York Knicks,Atlanta Hawks,1,4-2,-4,layup,True,0,True,False
+2011-02-16,5.2,New York Knicks,Atlanta Hawks,1,7-8,-1,two point jumper,True,18,False,False
+2011-02-16,25.95,New York Knicks,Atlanta Hawks,3,47-57,8,tip shot,True,0,True,False
+2011-03-21,38.4333333333,Denver Nuggets,Toronto Raptors,4,74-105,29,two point shot,True,1,True,False
+2011-03-21,39.8333333333,Denver Nuggets,Toronto Raptors,4,74-111,35,dunk,True,0,True,False
+2011-03-21,40.35,Denver Nuggets,Toronto Raptors,4,74-112,37,free throw,True,15,True,False
+2011-03-21,40.35,Denver Nuggets,Toronto Raptors,4,74-112,37,free throw,True,15,False,False
+2011-03-21,45.75,Denver Nuggets,Toronto Raptors,4,88-121,31,two point jumper,True,21,False,False
+2011-03-05,17.9833333333,Denver Nuggets,Los Angeles Clippers,2,29-43,-16,two point shot,False,1,True,True
+2011-04-03,11.9833333333,Denver Nuggets,Los Angeles Lakers,1,21-20,-1,hook shot,False,4,True,True
+2011-04-03,15.3333333333,Denver Nuggets,Los Angeles Lakers,2,23-24,-3,hook shot,False,4,False,True
+2011-04-03,39.7666666667,Denver Nuggets,Los Angeles Lakers,4,79-77,0,layup,False,0,True,True
+2011-04-03,39.7666666667,Denver Nuggets,Los Angeles Lakers,4,80-77,2,free throw,False,15,True,True
+2011-03-10,44.0666666667,Denver Nuggets,Phoenix Suns,4,103-84,17,two point jumper,False,1,False,False
+2011-03-10,44.65,Denver Nuggets,Phoenix Suns,4,105-87,16,two point jumper,False,16,True,False
+2011-03-10,45.4166666667,Denver Nuggets,Phoenix Suns,4,106-91,14,free throw,False,15,True,False
+2011-03-10,45.4166666667,Denver Nuggets,Phoenix Suns,4,106-91,14,free throw,False,15,False,False
+2011-03-10,47.5166666667,Denver Nuggets,Phoenix Suns,4,110-97,11,two point jumper,False,18,False,False
+2011-03-10,47.75,Denver Nuggets,Phoenix Suns,4,115-97,16,layup,False,0,True,False
+2011-03-10,47.75,Denver Nuggets,Phoenix Suns,4,116-97,18,free throw,False,15,True,False
+2011-04-01,38.2,Denver Nuggets,Sacramento Kings,4,86-69,15,dunk,False,0,True,True
+2011-03-12,46.3,Denver Nuggets,Detroit Pistons,4,96-125,27,two point shot,True,1,False,True
+2011-03-02,39.8166666667,Denver Nuggets,Charlotte Bobcats,4,71-97,24,two point shot,True,1,False,False
+2011-03-02,41.45,Denver Nuggets,Charlotte Bobcats,4,74-101,26,free throw,True,15,True,False
+2011-03-02,41.45,Denver Nuggets,Charlotte Bobcats,4,74-102,27,free throw,True,15,True,False
+2011-03-02,42.6,Denver Nuggets,Charlotte Bobcats,4,74-104,28,tip shot,True,0,True,False
+2011-03-02,44.2166666667,Denver Nuggets,Charlotte Bobcats,4,74-111,35,two point jumper,True,1,True,False
+2011-03-25,23.1,Denver Nuggets,Washington Wizards,2,41-62,19,two point jumper,True,19,True,False
+2011-03-25,46.05,Denver Nuggets,Washington Wizards,4,90-112,20,two point shot,True,13,False,False
+2012-03-17,2.5,Denver Nuggets,Boston Celtics,1,2-5,1,dunk,True,0,True,True
+2012-03-17,6.16666666667,Denver Nuggets,Boston Celtics,1,12-14,0,two point shot,True,5,True,True
+2012-03-17,6.53333333333,Denver Nuggets,Boston Celtics,1,12-16,2,two point shot,True,2,True,True
+2012-03-17,27.6333333333,Denver Nuggets,Boston Celtics,3,53-65,10,two point shot,True,11,False,True
+2012-03-17,30.8166666667,Denver Nuggets,Boston Celtics,3,58-74,14,dunk,True,0,True,True
+2012-03-17,32.6166666667,Denver Nuggets,Boston Celtics,3,62-77,13,two point jumper,True,18,False,True
+2012-01-11,0.933333333333,Denver Nuggets,Brooklyn Nets,1,3-1,-3,free throw,True,15,True,True
+2012-01-11,0.933333333333,Denver Nuggets,Brooklyn Nets,1,3-1,-3,free throw,True,15,False,True
+2012-01-11,5.28333333333,Denver Nuggets,Brooklyn Nets,1,16-11,-7,dunk,True,0,True,True
+2012-01-11,29.2833333333,Denver Nuggets,Brooklyn Nets,3,65-78,11,layup,True,0,True,True
+2012-01-21,0.516666666667,Denver Nuggets,New York Knicks,1,2-0,0,hook shot,False,1,True,True
+2012-01-21,3.55,Denver Nuggets,New York Knicks,1,10-6,2,two point shot,False,1,True,True
+2012-01-21,5.2,Denver Nuggets,New York Knicks,1,16-12,2,dunk,False,0,True,True
+2012-01-21,6.38333333333,Denver Nuggets,New York Knicks,1,18-16,0,two point jumper,False,9,True,True
+2012-01-21,7.5,Denver Nuggets,New York Knicks,1,18-19,-3,two point jumper,False,11,False,True
+2012-01-21,20.05,Denver Nuggets,New York Knicks,2,37-47,-12,two point jumper,False,3,False,True
+2012-01-21,23.15,Denver Nuggets,New York Knicks,2,46-52,-8,dunk,False,0,True,True
+2012-01-21,25.0166666667,Denver Nuggets,New York Knicks,3,47-54,-8,free throw,False,15,True,True
+2012-01-21,25.0166666667,Denver Nuggets,New York Knicks,3,48-54,-7,free throw,False,15,True,True
+2012-01-21,34.5333333333,Denver Nuggets,New York Knicks,3,68-72,-6,dunk,False,0,True,True
+2012-01-21,37.4,Denver Nuggets,New York Knicks,4,73-72,0,free throw,False,15,True,True
+2012-01-21,37.4,Denver Nuggets,New York Knicks,4,74-72,1,free throw,False,15,True,True
+2012-01-21,40.45,Denver Nuggets,New York Knicks,4,80-76,2,two point jumper,False,4,False,True
+2012-01-21,40.9833333333,Denver Nuggets,New York Knicks,4,80-78,0,dunk,False,0,False,True
+2012-01-27,1.21666666667,Denver Nuggets,Toronto Raptors,1,0-3,1,two point shot,True,7,False,True
+2012-01-27,7.6,Denver Nuggets,Toronto Raptors,1,2-12,8,layup,True,0,True,True
+2012-01-27,23.5833333333,Denver Nuggets,Toronto Raptors,2,32-53,20,free throw,True,15,True,True
+2012-01-27,23.5833333333,Denver Nuggets,Toronto Raptors,2,32-54,21,free throw,True,15,True,True
+2012-03-28,9.65,Denver Nuggets,Toronto Raptors,1,20-25,-7,two point shot,False,5,False,True
+2012-03-28,11.4166666667,Denver Nuggets,Toronto Raptors,1,22-27,-7,layup,False,0,False,True
+2012-03-28,14.05,Denver Nuggets,Toronto Raptors,2,24-32,-10,two point shot,False,1,True,True
+2012-03-28,35.5833333333,Denver Nuggets,Toronto Raptors,3,85-83,0,dunk,False,0,False,True
+2012-04-09,42.1666666667,Denver Nuggets,Golden State Warriors,4,70-105,33,dunk,True,0,True,False
+2012-04-09,45.5166666667,Denver Nuggets,Golden State Warriors,4,75-116,39,two point shot,True,1,True,False
+2012-04-09,47.6166666667,Denver Nuggets,Golden State Warriors,4,84-122,37,free throw,True,15,True,False
+2012-04-09,47.6166666667,Denver Nuggets,Golden State Warriors,4,84-123,38,free throw,True,15,True,False
+2012-01-29,1.81666666667,Denver Nuggets,Los Angeles Clippers,1,0-4,2,two point shot,True,4,True,False
+2012-01-29,7.73333333333,Denver Nuggets,Los Angeles Clippers,1,15-10,-7,two point shot,True,7,False,False
+2012-01-29,9.28333333333,Denver Nuggets,Los Angeles Clippers,1,19-16,-5,two point shot,True,1,True,False
+2012-01-29,22.1166666667,Denver Nuggets,Los Angeles Clippers,2,44-49,4,free throw,True,15,False,False
+2012-01-29,22.1166666667,Denver Nuggets,Los Angeles Clippers,2,44-49,4,free throw,True,15,False,False
+2012-01-29,22.85,Denver Nuggets,Los Angeles Clippers,2,47-50,2,free throw,True,15,True,False
+2012-01-29,22.85,Denver Nuggets,Los Angeles Clippers,2,47-50,2,free throw,True,15,False,False
+2012-01-29,31.1666666667,Denver Nuggets,Los Angeles Clippers,3,63-68,3,dunk,True,0,True,False
+2012-01-29,32.9833333333,Denver Nuggets,Los Angeles Clippers,3,74-75,-1,two point shot,True,1,True,False
+2012-01-29,33.3333333333,Denver Nuggets,Los Angeles Clippers,3,74-75,-1,two point shot,True,4,False,False
+2012-02-02,6.6,Denver Nuggets,Los Angeles Clippers,1,15-16,-3,dunk,False,0,True,False
+2012-02-02,26.5666666667,Denver Nuggets,Los Angeles Clippers,3,62-54,6,two point shot,False,4,True,False
+2012-02-02,27.1333333333,Denver Nuggets,Los Angeles Clippers,3,66-54,10,hook shot,False,5,True,False
+2012-02-02,29.95,Denver Nuggets,Los Angeles Clippers,3,72-60,10,hook shot,False,3,True,False
+2012-02-02,32.4833333333,Denver Nuggets,Los Angeles Clippers,3,75-62,12,free throw,False,15,True,False
+2012-02-02,32.4833333333,Denver Nuggets,Los Angeles Clippers,3,75-62,12,free throw,False,15,False,False
+2012-02-02,34.35,Denver Nuggets,Los Angeles Clippers,3,80-63,15,two point jumper,False,1,True,False
+2012-02-02,34.35,Denver Nuggets,Los Angeles Clippers,3,80-63,16,free throw,False,15,False,False
+2012-02-22,0.616666666667,Denver Nuggets,Los Angeles Clippers,1,2-0,0,layup,False,0,True,True
+2012-02-22,0.616666666667,Denver Nuggets,Los Angeles Clippers,1,3-0,2,free throw,False,15,True,True
+2012-02-22,2.88333333333,Denver Nuggets,Los Angeles Clippers,1,5-6,-3,tip shot,False,0,False,True
+2012-02-22,4.85,Denver Nuggets,Los Angeles Clippers,1,9-14,-7,two point jumper,False,18,False,True
+2012-02-22,17.2333333333,Denver Nuggets,Los Angeles Clippers,2,36-39,-5,tip shot,False,0,False,True
+2012-02-22,18.7333333333,Denver Nuggets,Los Angeles Clippers,2,39-42,-5,layup,False,0,False,True
+2012-02-22,22.35,Denver Nuggets,Los Angeles Clippers,2,49-48,-1,layup,False,0,False,True
+2012-02-22,22.6166666667,Denver Nuggets,Los Angeles Clippers,2,51-48,1,two point shot,False,3,True,True
+2012-02-22,23.1333333333,Denver Nuggets,Los Angeles Clippers,2,51-50,-1,two point jumper,False,18,False,True
+2012-02-22,30.7333333333,Denver Nuggets,Los Angeles Clippers,3,69-66,1,tip shot,False,0,False,True
+2012-12-31,0.716666666667,Denver Nuggets,Los Angeles Lakers,1,0-0,-2,tip shot,False,0,False,False
+2012-12-31,5.06666666667,Denver Nuggets,Los Angeles Lakers,1,8-10,-4,dunk,False,0,True,False
+2012-12-31,22.65,Denver Nuggets,Los Angeles Lakers,2,43-44,-3,layup,False,0,False,False
+2012-12-31,23.55,Denver Nuggets,Los Angeles Lakers,2,45-46,-3,two point jumper,False,11,True,False
+2012-12-31,33.2666666667,Denver Nuggets,Los Angeles Lakers,3,63-63,-2,tip shot,False,0,True,False
+2012-12-31,38.3833333333,Denver Nuggets,Los Angeles Lakers,4,78-76,0,layup,False,0,True,False
+2012-01-01,25.5166666667,Denver Nuggets,Los Angeles Lakers,3,39-48,8,free throw,True,15,True,True
+2012-01-01,25.5166666667,Denver Nuggets,Los Angeles Lakers,3,39-49,9,free throw,True,15,True,True
+2012-01-01,33.95,Denver Nuggets,Los Angeles Lakers,3,61-65,3,free throw,True,15,False,True
+2012-01-01,33.95,Denver Nuggets,Los Angeles Lakers,3,61-66,4,free throw,True,15,True,True
+2012-02-03,24.2666666667,Denver Nuggets,Los Angeles Lakers,3,44-41,-5,layup,True,0,False,False
+2012-02-03,24.3166666667,Denver Nuggets,Los Angeles Lakers,3,44-43,-3,two point shot,True,1,True,False
+2012-02-03,26.0,Denver Nuggets,Los Angeles Lakers,3,46-49,1,layup,True,0,True,False
+2012-04-13,23.6166666667,Denver Nuggets,Los Angeles Lakers,2,48-52,-6,two point shot,False,1,True,True
+2012-04-13,27.2,Denver Nuggets,Los Angeles Lakers,3,54-57,-5,two point jumper,False,17,False,True
+2012-01-04,1.45,Denver Nuggets,Sacramento Kings,1,2-2,-2,two point jumper,True,19,False,False
+2012-01-04,7.35,Denver Nuggets,Sacramento Kings,1,10-17,5,two point jumper,True,8,True,False
+2012-01-04,8.0,Denver Nuggets,Sacramento Kings,1,12-17,3,two point jumper,True,8,False,False
+2012-01-04,8.58333333333,Denver Nuggets,Sacramento Kings,1,14-19,3,dunk,True,0,True,False
+2012-01-04,9.76666666667,Denver Nuggets,Sacramento Kings,1,14-23,7,layup,True,0,True,False
+2012-01-04,20.2333333333,Denver Nuggets,Sacramento Kings,2,31-45,12,layup,True,0,True,False
+2012-01-04,20.2333333333,Denver Nuggets,Sacramento Kings,2,31-46,14,free throw,True,15,True,False
+2012-01-04,25.0166666667,Denver Nuggets,Sacramento Kings,3,39-58,18,free throw,True,15,False,False
+2012-01-04,25.0166666667,Denver Nuggets,Sacramento Kings,3,39-59,19,free throw,True,15,True,False
+2012-01-04,25.5666666667,Denver Nuggets,Sacramento Kings,3,39-59,19,free throw,True,15,False,False
+2012-01-04,25.5666666667,Denver Nuggets,Sacramento Kings,3,39-60,20,free throw,True,15,True,False
+2012-03-05,1.3,Denver Nuggets,Sacramento Kings,1,2-2,-2,two point jumper,True,13,True,True
+2012-03-05,2.63333333333,Denver Nuggets,Sacramento Kings,1,2-2,-1,free throw,True,15,False,True
+2012-03-05,2.63333333333,Denver Nuggets,Sacramento Kings,1,2-3,0,free throw,True,15,True,True
+2012-03-05,3.56666666667,Denver Nuggets,Sacramento Kings,1,5-3,-4,two point shot,True,5,False,True
+2012-03-05,4.16666666667,Denver Nuggets,Sacramento Kings,1,8-5,-5,hook shot,True,5,True,True
+2012-03-05,20.4333333333,Denver Nuggets,Sacramento Kings,2,44-40,-5,free throw,True,15,False,True
+2012-03-05,20.4333333333,Denver Nuggets,Sacramento Kings,2,44-41,-4,free throw,True,15,True,True
+2012-03-05,20.9166666667,Denver Nuggets,Sacramento Kings,2,46-43,-5,two point shot,True,1,True,True
+2012-03-26,12.3166666667,Denver Nuggets,Chicago Bulls,2,27-27,-2,dunk,False,0,True,False
+2012-03-26,35.15,Denver Nuggets,Chicago Bulls,3,81-68,11,two point jumper,False,8,False,False
+2012-03-26,38.8666666667,Denver Nuggets,Chicago Bulls,4,88-77,10,free throw,False,15,False,False
+2012-03-26,38.8666666667,Denver Nuggets,Chicago Bulls,4,89-77,11,free throw,False,15,True,False
+2012-03-26,42.35,Denver Nuggets,Chicago Bulls,4,98-83,13,two point shot,False,1,True,False
+2012-03-21,2.83333333333,Denver Nuggets,Detroit Pistons,1,2-9,5,layup,True,0,True,True
+2012-03-21,3.45,Denver Nuggets,Detroit Pistons,1,2-11,7,two point jumper,True,15,True,True
+2012-03-21,23.3,Denver Nuggets,Detroit Pistons,2,55-61,5,free throw,True,15,False,True
+2012-03-21,23.3,Denver Nuggets,Detroit Pistons,2,55-62,6,free throw,True,15,True,True
+2012-03-21,25.6166666667,Denver Nuggets,Detroit Pistons,3,62-66,2,layup,True,0,True,True
+2012-03-21,26.6166666667,Denver Nuggets,Detroit Pistons,3,67-66,-3,two point shot,True,2,False,True
+2012-03-21,27.1333333333,Denver Nuggets,Detroit Pistons,3,67-70,1,two point jumper,True,12,True,True
+2012-01-02,2.75,Denver Nuggets,Milwaukee Bucks,1,8-4,-6,two point jumper,True,18,False,True
+2012-01-02,4.21666666667,Denver Nuggets,Milwaukee Bucks,1,10-6,-6,layup,True,0,False,True
+2012-01-02,4.63333333333,Denver Nuggets,Milwaukee Bucks,1,10-6,-6,two point jumper,True,6,False,True
+2012-01-02,5.03333333333,Denver Nuggets,Milwaukee Bucks,1,12-8,-6,two point shot,True,1,True,True
+2012-01-02,24.45,Denver Nuggets,Milwaukee Bucks,3,48-50,0,dunk,True,0,True,True
+2012-01-02,25.7,Denver Nuggets,Milwaukee Bucks,3,50-52,0,layup,True,0,False,True
+2012-01-02,25.75,Denver Nuggets,Milwaukee Bucks,3,50-52,0,tip shot,True,0,False,True
+2012-01-02,29.0666666667,Denver Nuggets,Milwaukee Bucks,3,59-58,-3,two point shot,True,2,False,True
+2012-01-17,0.633333333333,Denver Nuggets,Milwaukee Bucks,1,0-2,-4,two point jumper,False,14,False,False
+2012-01-17,4.63333333333,Denver Nuggets,Milwaukee Bucks,1,4-2,0,layup,False,0,False,False
+2012-01-17,4.95,Denver Nuggets,Milwaukee Bucks,1,6-4,0,layup,False,0,True,False
+2012-01-17,6.06666666667,Denver Nuggets,Milwaukee Bucks,1,10-4,4,layup,False,0,True,False
+2012-01-17,32.2666666667,Denver Nuggets,Milwaukee Bucks,3,74-58,14,layup,False,0,False,False
+2012-12-26,4.06666666667,Denver Nuggets,Dallas Mavericks,1,6-9,-5,layup,False,0,False,False
+2012-12-26,27.6833333333,Denver Nuggets,Dallas Mavericks,3,75-47,27,free throw,False,15,True,False
+2012-12-26,27.6833333333,Denver Nuggets,Dallas Mavericks,3,75-47,27,free throw,False,15,False,False
+2012-03-19,0.8,Denver Nuggets,Dallas Mavericks,1,2-4,0,layup,True,0,True,True
+2012-03-19,1.25,Denver Nuggets,Dallas Mavericks,1,2-6,2,dunk,True,0,True,True
+2012-03-19,3.9,Denver Nuggets,Dallas Mavericks,1,10-12,0,two point shot,True,7,True,True
+2012-03-02,4.48333333333,Denver Nuggets,Houston Rockets,1,8-8,-2,two point jumper,False,23,True,True
+2012-03-02,5.03333333333,Denver Nuggets,Houston Rockets,1,9-10,-2,free throw,False,15,True,True
+2012-03-02,5.03333333333,Denver Nuggets,Houston Rockets,1,10-10,-1,free throw,False,15,True,True
+2012-03-02,7.75,Denver Nuggets,Houston Rockets,1,16-18,-4,two point jumper,False,18,False,True
+2012-03-02,8.28333333333,Denver Nuggets,Houston Rockets,1,17-20,-4,free throw,False,15,False,True
+2012-03-02,8.28333333333,Denver Nuggets,Houston Rockets,1,18-20,-3,free throw,False,15,True,True
+2012-04-16,22.0,Denver Nuggets,Houston Rockets,2,42-48,-8,layup,False,0,False,True
+2012-01-31,0.5,Denver Nuggets,Memphis Grizzlies,1,0-2,-4,layup,False,0,False,True
+2012-01-31,23.5833333333,Denver Nuggets,Memphis Grizzlies,2,49-37,11,free throw,False,15,True,True
+2012-01-31,23.5833333333,Denver Nuggets,Memphis Grizzlies,2,49-37,11,free throw,False,15,False,True
+2012-01-31,26.25,Denver Nuggets,Memphis Grizzlies,3,49-42,5,two point jumper,False,17,False,True
+2012-02-17,6.38333333333,Denver Nuggets,Memphis Grizzlies,1,10-20,-12,hook shot,False,4,True,False
+2012-02-17,8.9,Denver Nuggets,Memphis Grizzlies,1,11-30,-21,two point jumper,False,9,False,False
+2012-02-17,30.45,Denver Nuggets,Memphis Grizzlies,3,59-72,-15,two point jumper,False,10,False,False
+2012-01-06,25.0833333333,Denver Nuggets,New Orleans Pelicans,3,41-47,-8,dunk,False,0,False,True
+2012-01-06,28.7,Denver Nuggets,New Orleans Pelicans,3,48-50,-4,tip shot,False,0,False,True
+2012-01-09,2.55,Denver Nuggets,New Orleans Pelicans,1,2-8,4,dunk,True,0,True,False
+2012-01-09,3.06666666667,Denver Nuggets,New Orleans Pelicans,1,2-8,4,two point shot,True,6,False,False
+2012-01-09,4.56666666667,Denver Nuggets,New Orleans Pelicans,1,7-10,2,free throw,True,15,True,False
+2012-01-09,4.56666666667,Denver Nuggets,New Orleans Pelicans,1,7-11,3,free throw,True,15,True,False
+2012-01-09,24.3166666667,Denver Nuggets,New Orleans Pelicans,3,54-46,-10,two point jumper,True,17,False,False
+2012-01-07,2.31666666667,Denver Nuggets,San Antonio Spurs,1,4-6,-4,two point jumper,False,1,True,False
+2012-01-07,3.88333333333,Denver Nuggets,San Antonio Spurs,1,8-10,-4,two point jumper,False,8,True,False
+2012-02-23,22.3833333333,Denver Nuggets,San Antonio Spurs,2,60-35,-27,hook shot,True,9,False,True
+2012-02-23,26.2,Denver Nuggets,San Antonio Spurs,3,70-47,-25,layup,True,0,True,True
+2012-02-23,28.1333333333,Denver Nuggets,San Antonio Spurs,3,77-50,-28,free throw,True,15,True,True
+2012-02-23,28.1333333333,Denver Nuggets,San Antonio Spurs,3,77-51,-27,free throw,True,15,True,True
+2012-02-23,30.2,Denver Nuggets,San Antonio Spurs,3,82-57,-27,two point jumper,True,1,False,True
+2012-02-23,30.7333333333,Denver Nuggets,San Antonio Spurs,3,84-59,-27,two point shot,True,2,True,True
+2012-02-23,32.9,Denver Nuggets,San Antonio Spurs,3,86-68,-20,dunk,True,0,True,True
+2012-03-04,0.3,Denver Nuggets,San Antonio Spurs,1,1-0,0,free throw,False,15,True,True
+2012-03-04,0.3,Denver Nuggets,San Antonio Spurs,1,2-0,1,free throw,False,15,True,True
+2012-03-04,3.08333333333,Denver Nuggets,San Antonio Spurs,1,11-2,7,layup,False,0,True,True
+2012-03-04,4.81666666667,Denver Nuggets,San Antonio Spurs,1,15-9,4,two point jumper,False,12,False,True
+2012-03-04,21.5166666667,Denver Nuggets,San Antonio Spurs,2,46-40,4,two point shot,False,17,False,True
+2012-03-04,23.25,Denver Nuggets,San Antonio Spurs,2,47-45,1,free throw,False,15,True,True
+2012-03-04,23.25,Denver Nuggets,San Antonio Spurs,2,47-45,1,free throw,False,15,False,True
+2012-03-13,5.98333333333,Denver Nuggets,Atlanta Hawks,1,14-12,-4,layup,True,0,False,True
+2012-03-13,7.95,Denver Nuggets,Atlanta Hawks,1,18-14,-6,tip shot,True,0,False,True
+2012-01-13,2.56666666667,Denver Nuggets,Miami Heat,1,6-2,-6,two point jumper,True,15,True,True
+2012-01-13,3.81666666667,Denver Nuggets,Miami Heat,1,6-4,-4,two point jumper,True,21,True,True
+2012-01-13,4.78333333333,Denver Nuggets,Miami Heat,1,6-6,-2,layup,True,0,True,True
+2012-01-13,6.85,Denver Nuggets,Miami Heat,1,12-14,0,two point shot,True,2,False,True
+2012-01-13,21.7666666667,Denver Nuggets,Miami Heat,2,45-47,0,two point jumper,True,1,True,True
+2012-01-13,22.3,Denver Nuggets,Miami Heat,2,47-49,0,two point shot,True,6,True,True
+2012-01-13,23.9833333333,Denver Nuggets,Miami Heat,2,53-55,0,layup,True,0,False,True
+2012-01-13,27.3333333333,Denver Nuggets,Miami Heat,3,59-61,0,dunk,True,0,True,True
+2012-04-22,13.5,Denver Nuggets,Orlando Magic,2,19-24,3,two point jumper,True,17,False,False
+2012-04-22,45.1,Denver Nuggets,Orlando Magic,4,74-93,17,dunk,True,0,True,False
+2012-01-20,2.93333333333,Denver Nuggets,Washington Wizards,1,8-5,1,dunk,False,0,True,True
+2012-01-20,3.68333333333,Denver Nuggets,Washington Wizards,1,10-8,0,two point jumper,False,6,True,True
+2012-01-20,8.33333333333,Denver Nuggets,Washington Wizards,1,19-23,-6,two point shot,False,1,True,True
+2012-01-20,22.0,Denver Nuggets,Washington Wizards,2,58-59,-3,layup,False,0,False,True
+2012-01-20,24.6166666667,Denver Nuggets,Washington Wizards,3,63-63,-2,layup,False,0,True,True
+2012-12-28,3.2,Denver Nuggets,Utah Jazz,1,6-6,-2,two point jumper,True,17,True,True
+2012-12-28,6.48333333333,Denver Nuggets,Utah Jazz,1,15-15,-2,two point jumper,True,16,True,True
+2012-12-28,27.3833333333,Denver Nuggets,Utah Jazz,3,56-69,11,two point jumper,True,1,False,True
+2012-01-15,3.13333333333,Denver Nuggets,Utah Jazz,1,8-5,-5,two point shot,True,5,False,True
+2012-01-15,25.5666666667,Denver Nuggets,Utah Jazz,3,70-68,-4,tip shot,True,0,False,True
+2012-01-15,25.65,Denver Nuggets,Utah Jazz,3,55-50,-7,dunk,True,0,True,True
+2012-01-15,26.3166666667,Denver Nuggets,Utah Jazz,3,57-52,-7,two point jumper,True,17,True,True
+2012-01-15,26.9666666667,Denver Nuggets,Utah Jazz,3,57-54,-5,dunk,True,0,True,True
+2012-02-19,1.56666666667,Denver Nuggets,Oklahoma City Thunder,1,4-1,1,layup,False,0,True,False
+2012-02-19,2.51666666667,Denver Nuggets,Oklahoma City Thunder,1,6-5,-1,two point jumper,False,1,True,False
+2012-02-19,3.51666666667,Denver Nuggets,Oklahoma City Thunder,1,9-7,1,free throw,False,15,True,False
+2012-02-19,3.51666666667,Denver Nuggets,Oklahoma City Thunder,1,10-7,2,free throw,False,15,True,False
+2012-02-19,6.06666666667,Denver Nuggets,Oklahoma City Thunder,1,15-11,2,two point jumper,False,1,False,False
+2012-02-19,7.6,Denver Nuggets,Oklahoma City Thunder,1,15-14,-1,tip shot,False,0,False,False
+2012-02-20,2.3,Denver Nuggets,Minnesota Timberwolves,1,2-4,0,two point jumper,True,18,True,True
+2012-02-20,5.06666666667,Denver Nuggets,Minnesota Timberwolves,1,12-8,-6,two point jumper,True,10,True,True
+2012-02-20,5.88333333333,Denver Nuggets,Minnesota Timberwolves,1,16-8,-10,layup,True,0,False,True
+2012-02-20,5.91666666667,Denver Nuggets,Minnesota Timberwolves,1,16-8,-10,two point jumper,True,4,False,True
+2012-02-20,27.1833333333,Denver Nuggets,Minnesota Timberwolves,3,54-53,-3,two point shot,True,6,False,True
+2012-02-28,1.95,Denver Nuggets,Portland Trail Blazers,1,2-6,2,two point jumper,True,11,True,False
+2012-02-28,5.13333333333,Denver Nuggets,Portland Trail Blazers,1,6-12,4,two point shot,True,3,True,False
+2012-02-28,17.85,Denver Nuggets,Portland Trail Blazers,2,28-43,13,layup,True,0,True,False
+2012-02-28,17.85,Denver Nuggets,Portland Trail Blazers,2,28-44,15,free throw,True,15,True,False
+2012-02-28,19.1333333333,Denver Nuggets,Portland Trail Blazers,2,32-48,14,layup,True,0,True,False
+2012-02-28,25.9,Denver Nuggets,Portland Trail Blazers,3,43-61,16,two point jumper,True,17,True,False
+2012-02-28,26.8833333333,Denver Nuggets,Portland Trail Blazers,3,43-61,16,two point shot,True,1,False,False
+2012-02-28,26.9333333333,Denver Nuggets,Portland Trail Blazers,3,43-61,16,layup,True,0,False,False
+2012-02-28,26.95,Denver Nuggets,Portland Trail Blazers,3,43-61,16,tip shot,True,0,False,False
+2012-02-28,33.7833333333,Denver Nuggets,Portland Trail Blazers,3,61-74,11,dunk,True,0,True,False
+2012-03-15,1.06666666667,Denver Nuggets,Oklahoma City Thunder,1,2-2,-2,two point shot,True,12,True,True
+2012-03-15,5.95,Denver Nuggets,Oklahoma City Thunder,1,14-11,-5,two point shot,True,7,False,True
+2012-03-15,8.21666666667,Denver Nuggets,Oklahoma City Thunder,1,20-15,-7,two point shot,True,8,False,True
+2012-03-15,25.2666666667,Denver Nuggets,Oklahoma City Thunder,3,53-51,-4,two point jumper,True,17,False,True
+2012-03-23,2.0,Denver Nuggets,Utah Jazz,1,6-4,0,dunk,False,0,True,False
+2012-03-23,6.1,Denver Nuggets,Utah Jazz,1,14-15,-3,two point jumper,False,11,False,False
+2012-03-23,21.2333333333,Denver Nuggets,Utah Jazz,2,50-55,-7,tip shot,False,0,False,False
+2012-03-25,1.18333333333,Denver Nuggets,Minnesota Timberwolves,1,2-0,0,layup,False,0,False,False
+2012-03-25,1.86666666667,Denver Nuggets,Minnesota Timberwolves,1,4-2,0,tip shot,False,0,True,False
+2012-03-25,3.61666666667,Denver Nuggets,Minnesota Timberwolves,1,11-5,4,hook shot,False,1,True,False
+2012-04-26,21.6,Denver Nuggets,Minnesota Timberwolves,2,53-38,13,two point jumper,False,17,False,True
+2012-04-26,22.2333333333,Denver Nuggets,Minnesota Timberwolves,2,57-38,17,layup,False,0,True,True
+2012-04-26,41.9166666667,Denver Nuggets,Minnesota Timberwolves,4,110-86,22,layup,False,0,True,True
+2012-04-26,41.9166666667,Denver Nuggets,Minnesota Timberwolves,4,111-86,24,free throw,False,15,True,True
+2012-04-26,42.2833333333,Denver Nuggets,Minnesota Timberwolves,4,113-88,23,dunk,False,0,True,True
+2012-04-26,43.9166666667,Denver Nuggets,Minnesota Timberwolves,4,117-94,21,dunk,False,0,True,True
+2012-04-26,45.3,Denver Nuggets,Minnesota Timberwolves,4,123-96,25,two point shot,False,1,True,True
+2012-04-26,46.7333333333,Denver Nuggets,Minnesota Timberwolves,4,127-100,25,two point jumper,False,5,True,True
+2012-04-26,47.5,Denver Nuggets,Minnesota Timberwolves,4,131-100,29,two point shot,False,1,True,True
+2013-03-13,45.6,Denver Nuggets,New York Knicks,4,87-113,24,dunk,True,0,True,False
+2013-02-12,8.31666666667,Denver Nuggets,Toronto Raptors,1,11-22,-13,layup,False,0,True,False
+2013-02-12,10.6333333333,Denver Nuggets,Toronto Raptors,1,19-28,-11,dunk,False,0,True,False
+2013-02-12,12.0,Denver Nuggets,Toronto Raptors,1,21-28,-9,two point jumper,False,19,False,False
+2013-02-12,39.65,Denver Nuggets,Toronto Raptors,4,85-91,-8,two point jumper,False,1,False,False
+2013-01-01,11.9833333333,Denver Nuggets,Los Angeles Clippers,1,19-21,-1,three point jumper,True,33,False,True
+2013-01-01,13.0666666667,Denver Nuggets,Los Angeles Clippers,2,19-24,4,free throw,True,15,True,True
+2013-01-01,13.0666666667,Denver Nuggets,Los Angeles Clippers,2,19-25,5,free throw,True,15,True,True
+2013-01-01,17.7,Denver Nuggets,Los Angeles Clippers,2,30-40,8,two point shot,True,1,True,True
+2013-11-30,12.3833333333,Denver Nuggets,Los Angeles Lakers,2,29-34,-7,two point shot,False,2,True,False
+2013-11-30,14.9,Denver Nuggets,Los Angeles Lakers,2,35-43,-10,two point jumper,False,3,True,False
+2013-11-30,18.1333333333,Denver Nuggets,Los Angeles Lakers,2,43-57,-16,layup,False,0,False,False
+2013-11-30,18.1333333333,Denver Nuggets,Los Angeles Lakers,2,44-57,-14,free throw,False,15,True,False
+2013-11-30,18.1333333333,Denver Nuggets,Los Angeles Lakers,2,45-57,-13,free throw,False,15,True,False
+2013-11-30,31.2166666667,Denver Nuggets,Los Angeles Lakers,3,71-82,-13,two point jumper,False,7,False,False
+2013-02-25,34.8666666667,Denver Nuggets,Los Angeles Lakers,3,80-95,13,two point shot,True,6,True,True
+2013-04-17,19.4833333333,Denver Nuggets,Phoenix Suns,2,31-56,23,two point shot,True,1,True,False
+2013-04-17,20.1166666667,Denver Nuggets,Phoenix Suns,2,33-56,21,hook shot,True,5,False,False
+2013-04-17,23.3833333333,Denver Nuggets,Phoenix Suns,2,37-64,25,dunk,True,0,True,False
+2013-04-17,23.5666666667,Denver Nuggets,Phoenix Suns,2,40-64,22,layup,True,0,False,False
+2013-04-17,35.3833333333,Denver Nuggets,Phoenix Suns,3,67-88,20,free throw,True,15,True,False
+2013-04-17,35.3833333333,Denver Nuggets,Phoenix Suns,3,67-89,21,free throw,True,15,True,False
+2013-04-17,36.3166666667,Denver Nuggets,Phoenix Suns,4,69-91,20,two point shot,True,1,False,False
+2013-04-17,36.5,Denver Nuggets,Phoenix Suns,4,69-91,20,two point jumper,True,13,False,False
+2013-04-17,39.3833333333,Denver Nuggets,Phoenix Suns,4,73-96,21,two point jumper,True,17,True,False
+2013-04-17,39.9333333333,Denver Nuggets,Phoenix Suns,4,76-96,18,dunk,True,0,False,False
+2013-04-17,43.3166666667,Denver Nuggets,Phoenix Suns,4,84-106,20,two point shot,True,1,True,False
+2013-04-17,45.9666666667,Denver Nuggets,Phoenix Suns,4,92-112,18,two point jumper,True,18,False,False
+2013-04-17,47.0333333333,Denver Nuggets,Phoenix Suns,4,96-114,16,two point jumper,True,1,False,False
+2013-12-16,41.5666666667,Denver Nuggets,Sacramento Kings,4,106-80,24,dunk,False,0,True,False
+2013-12-16,46.8666666667,Denver Nuggets,Sacramento Kings,4,116-89,25,layup,False,0,False,False
+2013-12-16,46.8833333333,Denver Nuggets,Sacramento Kings,4,118-89,27,layup,False,0,True,False
+2013-12-16,47.2333333333,Denver Nuggets,Sacramento Kings,4,118-92,24,two point jumper,False,15,False,False
+2013-12-16,47.5666666667,Denver Nuggets,Sacramento Kings,4,121-95,25,free throw,False,15,True,False
+2013-12-16,47.5666666667,Denver Nuggets,Sacramento Kings,4,122-95,26,free throw,False,15,True,False
+2013-01-26,39.1333333333,Denver Nuggets,Sacramento Kings,4,76-103,25,two point shot,True,1,False,False
+2013-01-26,45.0,Denver Nuggets,Sacramento Kings,4,87-117,27,three point jumper,True,23,False,False
+2013-01-26,47.2333333333,Denver Nuggets,Sacramento Kings,4,93-119,24,two point jumper,True,19,False,False
+2013-01-26,47.7833333333,Denver Nuggets,Sacramento Kings,4,93-119,24,two point jumper,True,1,False,False
+2013-01-11,13.1833333333,Denver Nuggets,Cleveland Cavaliers,2,32-25,-9,dunk,True,0,False,True
+2013-01-11,36.3666666667,Denver Nuggets,Cleveland Cavaliers,4,76-72,-5,free throw,True,15,False,True
+2013-01-11,36.3666666667,Denver Nuggets,Cleveland Cavaliers,4,76-73,-4,free throw,True,15,True,True
+2013-12-11,10.2833333333,Denver Nuggets,Detroit Pistons,1,15-23,-10,layup,False,0,True,False
+2013-12-11,10.2833333333,Denver Nuggets,Detroit Pistons,1,15-23,-9,free throw,False,15,False,False
+2013-12-11,10.2833333333,Denver Nuggets,Detroit Pistons,1,15-23,-9,free throw,False,15,False,False
+2013-12-11,15.6333333333,Denver Nuggets,Detroit Pistons,2,26-30,-6,dunk,False,0,True,False
+2013-01-28,9.05,Denver Nuggets,Indiana Pacers,1,23-19,-6,layup,True,0,True,True
+2013-01-28,13.6333333333,Denver Nuggets,Indiana Pacers,2,34-27,-9,two point jumper,True,17,False,True
+2013-01-28,14.3833333333,Denver Nuggets,Indiana Pacers,2,36-29,-9,layup,True,0,True,True
+2013-01-28,15.55,Denver Nuggets,Indiana Pacers,2,36-31,-7,two point shot,True,1,True,True
+2013-01-28,16.8166666667,Denver Nuggets,Indiana Pacers,2,41-36,-7,two point shot,True,8,True,True
+2013-01-28,18.2333333333,Denver Nuggets,Indiana Pacers,2,45-41,-6,two point shot,True,1,False,True
+2013-01-28,20.5,Denver Nuggets,Indiana Pacers,2,47-45,-4,layup,True,0,False,True
+2013-01-28,37.2166666667,Denver Nuggets,Indiana Pacers,4,76-83,6,free throw,True,15,True,True
+2013-01-28,37.2166666667,Denver Nuggets,Indiana Pacers,4,76-84,7,free throw,True,15,True,True
+2013-01-30,17.45,Denver Nuggets,Houston Rockets,2,36-36,-2,two point shot,True,2,True,True
+2013-01-30,17.45,Denver Nuggets,Houston Rockets,2,36-37,0,free throw,True,15,True,True
+2013-01-30,31.35,Denver Nuggets,Houston Rockets,3,72-68,-6,two point jumper,True,16,True,True
+2013-01-30,32.4,Denver Nuggets,Houston Rockets,3,74-70,-6,two point shot,True,1,True,True
+2013-12-14,12.2666666667,Denver Nuggets,Memphis Grizzlies,2,16-19,1,two point jumper,True,19,True,True
+2013-12-29,9.21666666667,Denver Nuggets,Memphis Grizzlies,1,11-17,-8,two point jumper,False,8,False,False
+2013-12-29,11.4833333333,Denver Nuggets,Memphis Grizzlies,1,15-19,-6,two point jumper,False,20,False,False
+2013-12-29,12.3333333333,Denver Nuggets,Memphis Grizzlies,2,15-19,-6,tip shot,False,0,False,False
+2013-11-25,15.5833333333,Denver Nuggets,New Orleans Pelicans,2,26-34,6,layup,True,0,True,False
+2013-11-25,41.6333333333,Denver Nuggets,New Orleans Pelicans,4,69-94,23,two point jumper,True,1,True,False
+2013-11-25,46.7666666667,Denver Nuggets,New Orleans Pelicans,4,80-98,16,two point shot,True,8,False,False
+2013-03-25,46.9166666667,Denver Nuggets,New Orleans Pelicans,4,85-108,-24,free throw,False,15,True,True
+2013-03-25,46.9166666667,Denver Nuggets,New Orleans Pelicans,4,86-108,-23,free throw,False,15,True,True
+2013-11-17,13.0666666667,Denver Nuggets,San Antonio Spurs,2,17-38,-23,two point shot,False,1,True,False
+2013-11-17,46.6333333333,Denver Nuggets,San Antonio Spurs,4,96-121,-27,dunk,False,0,True,False
+2013-12-18,10.1166666667,Denver Nuggets,San Antonio Spurs,1,23-19,-6,two point shot,True,10,False,True
+2013-12-18,13.8833333333,Denver Nuggets,San Antonio Spurs,2,34-32,-3,free throw,True,15,False,True
+2013-12-18,13.8833333333,Denver Nuggets,San Antonio Spurs,2,34-33,-2,free throw,True,15,True,True
+2013-12-05,4.63333333333,Denver Nuggets,Atlanta Hawks,1,12-9,1,two point jumper,False,18,False,False
+2013-12-05,41.5333333333,Denver Nuggets,Atlanta Hawks,4,88-93,-7,layup,False,0,True,False
+2013-12-05,44.1,Denver Nuggets,Atlanta Hawks,4,94-95,-3,two point shot,False,1,True,False
+2013-12-05,44.75,Denver Nuggets,Atlanta Hawks,4,96-97,-3,dunk,False,0,True,False
+2013-03-04,46.5,Denver Nuggets,Atlanta Hawks,4,85-104,17,layup,True,0,True,False
+2013-03-04,47.95,Denver Nuggets,Atlanta Hawks,4,88-104,14,hook shot,True,1,False,False
+2013-12-22,44.5166666667,Denver Nuggets,Charlotte Bobcats,4,81-105,22,two point shot,True,1,True,False
+2013-12-22,46.2166666667,Denver Nuggets,Charlotte Bobcats,4,86-107,20,free throw,True,15,False,False
+2013-12-22,46.2166666667,Denver Nuggets,Charlotte Bobcats,4,86-108,21,free throw,True,15,True,False
+2013-12-22,47.9333333333,Denver Nuggets,Charlotte Bobcats,4,88-110,20,layup,True,0,False,False
+2013-11-09,11.5,Denver Nuggets,Utah Jazz,1,24-23,-3,two point shot,True,10,False,False
+2013-11-09,35.0333333333,Denver Nuggets,Utah Jazz,3,55-73,16,two point jumper,True,6,False,False
+2013-11-09,36.9666666667,Denver Nuggets,Utah Jazz,4,60-75,13,two point jumper,True,1,True,False
+2013-11-09,40.35,Denver Nuggets,Utah Jazz,4,70-87,16,free throw,True,15,True,False
+2013-11-09,40.35,Denver Nuggets,Utah Jazz,4,70-88,17,free throw,True,15,True,False
+2013-11-26,13.95,Denver Nuggets,Utah Jazz,2,41-29,10,layup,False,0,True,False
+2013-11-26,14.5666666667,Denver Nuggets,Utah Jazz,2,43-31,10,two point shot,False,1,True,False
+2013-12-20,10.4166666667,Denver Nuggets,Portland Trail Blazers,1,12-23,-13,dunk,False,0,True,True
+2013-12-20,13.8166666667,Denver Nuggets,Portland Trail Blazers,2,18-30,-14,two point shot,False,1,True,True
+2013-01-03,8.48333333333,Denver Nuggets,Minnesota Timberwolves,1,15-20,3,two point jumper,True,14,True,True
+2013-01-03,21.1,Denver Nuggets,Minnesota Timberwolves,2,41-37,-6,layup,True,0,False,True
+2013-01-03,21.1,Denver Nuggets,Minnesota Timberwolves,2,41-39,-4,layup,True,0,True,True
+2013-01-03,21.1,Denver Nuggets,Minnesota Timberwolves,2,41-39,-3,free throw,True,15,False,True
+2013-01-03,35.1166666667,Denver Nuggets,Minnesota Timberwolves,3,64-69,4,free throw,True,15,True,True
+2013-01-03,35.1166666667,Denver Nuggets,Minnesota Timberwolves,3,64-70,5,free throw,True,15,True,True
+2013-01-05,46.8666666667,Denver Nuggets,Utah Jazz,4,87-107,18,two point jumper,True,1,False,False
+2013-01-16,38.5666666667,Denver Nuggets,Oklahoma City Thunder,4,75-101,-28,layup,False,0,True,True
+2013-01-16,39.7,Denver Nuggets,Oklahoma City Thunder,4,80-101,-23,dunk,False,0,False,True
+2013-01-16,45.3333333333,Denver Nuggets,Oklahoma City Thunder,4,89-110,-23,two point jumper,False,21,True,True

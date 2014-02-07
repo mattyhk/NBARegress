@@ -1,0 +1,365 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2013-01-07,6.06666666667,New York Knicks,Boston Celtics,1,8-15,6,free throw,True,15,True,True
+2013-01-07,6.06666666667,New York Knicks,Boston Celtics,1,8-16,7,free throw,True,15,True,True
+2013-01-07,6.78333333333,New York Knicks,Boston Celtics,1,8-18,8,two point jumper,True,19,True,True
+2013-01-07,8.35,New York Knicks,Boston Celtics,1,13-18,3,two point jumper,True,13,False,True
+2013-01-07,29.7,New York Knicks,Boston Celtics,3,60-64,2,two point shot,True,5,True,True
+2013-01-07,30.9166666667,New York Knicks,Boston Celtics,3,62-64,0,layup,True,0,False,True
+2013-01-07,35.2666666667,New York Knicks,Boston Celtics,3,74-70,-6,layup,True,0,True,True
+2013-01-07,37.1333333333,New York Knicks,Boston Celtics,4,80-74,-8,two point shot,True,1,True,True
+2013-01-07,37.6166666667,New York Knicks,Boston Celtics,4,82-74,-9,free throw,True,15,False,True
+2013-01-07,37.6166666667,New York Knicks,Boston Celtics,4,82-75,-8,free throw,True,15,True,True
+2013-01-07,44.1166666667,New York Knicks,Boston Celtics,4,92-90,-3,free throw,True,15,True,True
+2013-01-07,44.1166666667,New York Knicks,Boston Celtics,4,92-91,-2,free throw,True,15,True,True
+2013-01-24,8.01666666667,New York Knicks,Boston Celtics,1,14-16,-3,free throw,False,15,True,True
+2013-01-24,8.01666666667,New York Knicks,Boston Celtics,1,14-16,-3,free throw,False,15,False,True
+2013-01-24,12.8333333333,New York Knicks,Boston Celtics,2,22-24,-4,two point shot,False,6,True,True
+2013-01-24,13.25,New York Knicks,Boston Celtics,2,24-24,-2,two point shot,False,1,True,True
+2013-01-24,13.8833333333,New York Knicks,Boston Celtics,2,24-24,-2,layup,False,0,False,True
+2013-01-24,19.9833333333,New York Knicks,Boston Celtics,2,34-38,-6,layup,False,0,False,True
+2013-01-24,21.35,New York Knicks,Boston Celtics,2,39-42,-5,two point jumper,False,3,False,True
+2013-01-24,22.7166666667,New York Knicks,Boston Celtics,2,44-44,-1,free throw,False,15,True,True
+2013-01-24,22.7166666667,New York Knicks,Boston Celtics,2,45-44,0,free throw,False,15,True,True
+2013-01-24,23.15,New York Knicks,Boston Celtics,2,46-44,1,free throw,False,15,True,True
+2013-01-24,23.15,New York Knicks,Boston Celtics,2,47-44,2,free throw,False,15,True,True
+2013-01-24,23.8833333333,New York Knicks,Boston Celtics,2,49-48,0,free throw,False,15,True,True
+2013-01-24,23.8833333333,New York Knicks,Boston Celtics,2,50-48,1,free throw,False,15,True,True
+2013-01-24,29.9166666667,New York Knicks,Boston Celtics,3,57-57,-2,layup,False,0,True,True
+2013-01-24,44.6166666667,New York Knicks,Boston Celtics,4,86-82,2,two point shot,False,1,True,True
+2013-01-21,10.4833333333,New York Knicks,Brooklyn Nets,1,24-20,-5,free throw,True,15,False,False
+2013-01-21,10.4833333333,New York Knicks,Brooklyn Nets,1,24-21,-4,free throw,True,15,True,False
+2013-01-21,12.0,New York Knicks,Brooklyn Nets,1,26-24,-3,free throw,True,15,True,False
+2013-01-21,12.0,New York Knicks,Brooklyn Nets,1,26-24,-3,free throw,True,15,False,False
+2013-01-21,12.8166666667,New York Knicks,Brooklyn Nets,2,26-24,-4,hook shot,True,5,False,False
+2013-01-21,16.45,New York Knicks,Brooklyn Nets,2,33-29,-6,two point shot,True,3,True,False
+2013-01-21,30.95,New York Knicks,Brooklyn Nets,3,60-55,-7,two point jumper,True,18,True,False
+2013-01-21,32.9666666667,New York Knicks,Brooklyn Nets,3,60-61,-1,two point shot,True,4,True,False
+2013-01-21,34.8666666667,New York Knicks,Brooklyn Nets,3,61-63,0,two point jumper,True,18,False,False
+2013-01-21,35.85,New York Knicks,Brooklyn Nets,3,65-68,1,two point shot,True,1,True,False
+2013-01-21,37.3833333333,New York Knicks,Brooklyn Nets,4,70-70,-2,dunk,True,0,True,False
+2013-01-21,38.2666666667,New York Knicks,Brooklyn Nets,4,72-72,-2,layup,True,0,True,False
+2013-01-21,43.75,New York Knicks,Brooklyn Nets,4,83-79,-6,tip shot,True,0,False,False
+2013-01-21,45.75,New York Knicks,Brooklyn Nets,4,83-82,-2,free throw,True,15,True,False
+2013-01-21,45.75,New York Knicks,Brooklyn Nets,4,83-82,-2,free throw,True,15,False,False
+2013-01-01,9.48333333333,New York Knicks,Portland Trail Blazers,1,26-20,-8,two point jumper,True,14,False,False
+2013-01-01,10.5333333333,New York Knicks,Portland Trail Blazers,1,28-20,-10,two point jumper,True,4,False,False
+2013-01-01,12.9,New York Knicks,Portland Trail Blazers,2,30-23,-9,two point jumper,True,13,False,False
+2013-01-01,13.4666666667,New York Knicks,Portland Trail Blazers,2,30-23,-9,two point jumper,True,16,False,False
+2013-01-01,20.7833333333,New York Knicks,Portland Trail Blazers,2,50-36,-16,hook shot,True,2,False,False
+2013-01-01,32.8166666667,New York Knicks,Portland Trail Blazers,3,71-64,-9,layup,True,0,True,False
+2013-01-01,34.6166666667,New York Knicks,Portland Trail Blazers,3,74-69,-7,two point shot,True,1,True,False
+2013-01-01,37.3,New York Knicks,Portland Trail Blazers,4,81-75,-8,dunk,True,0,True,False
+2013-01-01,37.7,New York Knicks,Portland Trail Blazers,4,83-75,-9,free throw,True,15,False,False
+2013-01-01,37.7,New York Knicks,Portland Trail Blazers,4,83-75,-9,free throw,True,15,False,False
+2013-01-03,6.48333333333,New York Knicks,San Antonio Spurs,1,10-12,0,layup,True,0,True,False
+2013-01-03,8.8,New York Knicks,San Antonio Spurs,1,17-14,-5,two point jumper,True,17,False,False
+2013-01-03,13.1166666667,New York Knicks,San Antonio Spurs,2,21-27,4,two point shot,True,9,True,False
+2013-01-03,33.4833333333,New York Knicks,San Antonio Spurs,3,55-66,9,layup,True,0,True,False
+2013-01-03,34.4,New York Knicks,San Antonio Spurs,3,55-66,9,two point jumper,True,11,False,False
+2013-01-03,34.8666666667,New York Knicks,San Antonio Spurs,3,57-66,7,two point jumper,True,3,False,False
+2013-01-03,35.8,New York Knicks,San Antonio Spurs,3,60-66,5,free throw,True,15,False,False
+2013-01-03,35.8,New York Knicks,San Antonio Spurs,3,60-67,6,free throw,True,15,True,False
+2013-01-03,44.4666666667,New York Knicks,San Antonio Spurs,4,72-97,23,two point shot,True,4,True,False
+2013-01-03,45.45,New York Knicks,San Antonio Spurs,4,76-98,21,free throw,True,15,True,False
+2013-01-03,45.45,New York Knicks,San Antonio Spurs,4,76-98,21,free throw,True,15,False,False
+2013-01-05,10.4333333333,New York Knicks,Orlando Magic,1,23-30,-9,two point jumper,False,18,False,True
+2013-01-05,10.8666666667,New York Knicks,Orlando Magic,1,24-30,-7,free throw,False,15,True,True
+2013-01-05,10.8666666667,New York Knicks,Orlando Magic,1,25-30,-6,free throw,False,15,True,True
+2013-01-05,11.9333333333,New York Knicks,Orlando Magic,1,27-36,-11,dunk,False,0,True,True
+2013-01-05,15.0,New York Knicks,Orlando Magic,2,31-40,-10,free throw,False,15,True,True
+2013-01-05,15.0,New York Knicks,Orlando Magic,2,32-40,-9,free throw,False,15,True,True
+2013-01-05,33.65,New York Knicks,Orlando Magic,3,79-79,-2,hook shot,False,4,False,True
+2013-01-05,36.25,New York Knicks,Orlando Magic,4,83-89,-8,layup,False,0,True,True
+2013-01-05,36.25,New York Knicks,Orlando Magic,4,84-89,-6,free throw,False,15,True,True
+2013-01-05,37.7,New York Knicks,Orlando Magic,4,86-91,-7,dunk,False,0,True,True
+2013-01-10,10.25,New York Knicks,Indiana Pacers,1,12-14,-4,two point jumper,False,18,False,False
+2013-01-10,12.6333333333,New York Knicks,Indiana Pacers,2,14-16,-4,hook shot,False,6,False,False
+2013-01-10,12.6833333333,New York Knicks,Indiana Pacers,2,14-16,-3,free throw,False,15,False,False
+2013-01-10,12.6833333333,New York Knicks,Indiana Pacers,2,15-16,-2,free throw,False,15,True,False
+2013-01-10,13.3666666667,New York Knicks,Indiana Pacers,2,17-18,-3,layup,False,0,True,False
+2013-01-10,27.6833333333,New York Knicks,Indiana Pacers,3,43-49,-8,two point shot,False,5,True,False
+2013-01-10,29.1,New York Knicks,Indiana Pacers,3,43-49,-8,two point jumper,False,17,False,False
+2013-01-10,30.3166666667,New York Knicks,Indiana Pacers,3,46-52,-8,two point jumper,False,19,False,False
+2013-01-10,31.0333333333,New York Knicks,Indiana Pacers,3,48-52,-6,two point jumper,False,8,False,False
+2013-01-10,40.7,New York Knicks,Indiana Pacers,4,62-67,-7,two point jumper,False,17,False,False
+2013-01-10,43.4166666667,New York Knicks,Indiana Pacers,4,64-71,-9,two point jumper,False,16,True,False
+2013-01-10,47.9333333333,New York Knicks,Indiana Pacers,4,76-81,-7,two point shot,False,1,True,False
+2013-01-11,8.78333333333,New York Knicks,Chicago Bulls,1,23-12,-13,two point jumper,True,16,True,False
+2013-01-11,13.7,New York Knicks,Chicago Bulls,2,34-20,-16,two point jumper,True,16,False,False
+2013-01-11,40.1333333333,New York Knicks,Chicago Bulls,4,87-73,-16,two point jumper,True,7,True,False
+2013-01-11,41.7333333333,New York Knicks,Chicago Bulls,4,93-76,-18,free throw,True,15,False,False
+2013-01-11,41.7333333333,New York Knicks,Chicago Bulls,4,93-77,-17,free throw,True,15,True,False
+2013-01-11,42.35,New York Knicks,Chicago Bulls,4,95-77,-20,two point jumper,True,4,False,False
+2013-01-13,10.6166666667,New York Knicks,New Orleans Pelicans,1,24-22,-4,two point shot,True,4,True,False
+2013-01-13,12.6833333333,New York Knicks,New Orleans Pelicans,2,29-22,-9,hook shot,True,4,False,False
+2013-01-13,13.9,New York Knicks,New Orleans Pelicans,2,29-26,-5,two point shot,True,1,True,False
+2013-01-13,30.8166666667,New York Knicks,New Orleans Pelicans,3,54-63,7,two point jumper,True,12,False,False
+2013-01-13,31.9833333333,New York Knicks,New Orleans Pelicans,3,56-65,7,two point jumper,True,4,False,False
+2013-01-13,37.5833333333,New York Knicks,New Orleans Pelicans,4,68-77,8,free throw,True,15,True,False
+2013-01-13,37.5833333333,New York Knicks,New Orleans Pelicans,4,68-78,9,free throw,True,15,True,False
+2013-01-13,45.4166666667,New York Knicks,New Orleans Pelicans,4,81-93,11,free throw,True,15,True,False
+2013-01-13,45.4166666667,New York Knicks,New Orleans Pelicans,4,81-94,12,free throw,True,15,True,False
+2013-01-13,45.85,New York Knicks,New Orleans Pelicans,4,81-95,13,free throw,True,15,True,False
+2013-01-13,45.85,New York Knicks,New Orleans Pelicans,4,81-96,14,free throw,True,15,True,False
+2013-01-13,46.35,New York Knicks,New Orleans Pelicans,4,83-98,13,two point shot,True,2,True,False
+2013-01-17,8.85,New York Knicks,Detroit Pistons,1,20-10,8,two point jumper,False,20,True,False
+2013-01-17,10.2166666667,New York Knicks,Detroit Pistons,1,22-13,7,two point jumper,False,18,False,False
+2013-01-17,11.95,New York Knicks,Detroit Pistons,1,28-17,10,free throw,False,15,True,False
+2013-01-17,11.95,New York Knicks,Detroit Pistons,1,29-17,11,free throw,False,15,True,False
+2013-01-17,14.8833333333,New York Knicks,Detroit Pistons,2,34-20,13,free throw,False,15,True,False
+2013-01-17,14.8833333333,New York Knicks,Detroit Pistons,2,35-20,14,free throw,False,15,True,False
+2013-01-17,16.0333333333,New York Knicks,Detroit Pistons,2,36-22,13,free throw,False,15,True,False
+2013-01-17,16.0333333333,New York Knicks,Detroit Pistons,2,37-22,14,free throw,False,15,True,False
+2013-01-17,16.6666666667,New York Knicks,Detroit Pistons,2,39-24,13,two point shot,False,1,True,False
+2013-01-17,22.65,New York Knicks,Detroit Pistons,2,54-37,15,dunk,False,0,True,False
+2013-01-17,31.25,New York Knicks,Detroit Pistons,3,65-57,7,free throw,False,15,False,False
+2013-01-17,31.25,New York Knicks,Detroit Pistons,3,66-57,8,free throw,False,15,True,False
+2013-01-17,35.2,New York Knicks,Detroit Pistons,3,70-63,6,free throw,False,15,True,False
+2013-01-17,35.2,New York Knicks,Detroit Pistons,3,71-63,7,free throw,False,15,True,False
+2013-01-17,36.8666666667,New York Knicks,Detroit Pistons,4,76-65,10,free throw,False,15,True,False
+2013-01-17,36.8666666667,New York Knicks,Detroit Pistons,4,77-65,11,free throw,False,15,True,False
+2013-01-26,8.26666666667,New York Knicks,Philadelphia 76ers,1,11-16,-7,two point shot,False,15,True,False
+2013-01-26,9.15,New York Knicks,Philadelphia 76ers,1,13-16,-4,free throw,False,15,True,False
+2013-01-26,9.15,New York Knicks,Philadelphia 76ers,1,14-16,-3,free throw,False,15,True,False
+2013-01-26,12.7,New York Knicks,Philadelphia 76ers,2,21-26,-7,layup,False,0,True,False
+2013-01-26,14.75,New York Knicks,Philadelphia 76ers,2,28-34,-8,layup,False,0,True,False
+2013-01-26,15.7,New York Knicks,Philadelphia 76ers,2,30-36,-8,layup,False,0,True,False
+2013-01-26,16.2833333333,New York Knicks,Philadelphia 76ers,2,32-36,-6,layup,False,0,True,False
+2013-01-26,32.0166666667,New York Knicks,Philadelphia 76ers,3,51-73,-24,two point shot,False,1,True,False
+2013-01-26,33.2166666667,New York Knicks,Philadelphia 76ers,3,53-76,-25,two point jumper,False,1,False,False
+2013-01-26,34.75,New York Knicks,Philadelphia 76ers,3,53-82,-31,layup,False,0,False,False
+2013-01-26,36.3166666667,New York Knicks,Philadelphia 76ers,4,60-84,-26,layup,False,0,True,False
+2013-01-26,36.8,New York Knicks,Philadelphia 76ers,4,61-85,-25,free throw,False,15,True,False
+2013-01-26,36.8,New York Knicks,Philadelphia 76ers,4,62-85,-24,free throw,False,15,True,False
+2013-01-26,37.2666666667,New York Knicks,Philadelphia 76ers,4,62-85,-25,layup,False,0,False,False
+2013-01-26,38.25,New York Knicks,Philadelphia 76ers,4,65-85,-22,two point shot,False,1,True,False
+2013-01-27,6.85,New York Knicks,Atlanta Hawks,1,12-15,1,two point jumper,True,15,True,True
+2013-01-27,8.01666666667,New York Knicks,Atlanta Hawks,1,16-15,-3,two point jumper,True,9,False,True
+2013-01-27,10.4,New York Knicks,Atlanta Hawks,1,20-20,-2,two point shot,True,7,True,True
+2013-01-27,17.95,New York Knicks,Atlanta Hawks,2,37-42,3,two point shot,True,1,True,True
+2013-01-27,19.7333333333,New York Knicks,Atlanta Hawks,2,42-42,-1,free throw,True,15,False,True
+2013-01-27,19.7333333333,New York Knicks,Atlanta Hawks,2,42-43,0,free throw,True,15,True,True
+2013-01-27,32.1,New York Knicks,Atlanta Hawks,3,70-71,0,free throw,True,15,False,True
+2013-01-27,32.1,New York Knicks,Atlanta Hawks,3,70-72,1,free throw,True,15,True,True
+2013-01-27,35.1833333333,New York Knicks,Atlanta Hawks,3,72-79,5,two point shot,True,1,True,True
+2013-01-27,37.3,New York Knicks,Atlanta Hawks,4,76-82,4,layup,True,0,False,True
+2013-01-27,41.7,New York Knicks,Atlanta Hawks,4,88-91,2,free throw,True,15,True,True
+2013-01-27,41.7,New York Knicks,Atlanta Hawks,4,88-92,3,free throw,True,15,True,True
+2013-01-27,42.6,New York Knicks,Atlanta Hawks,4,91-94,1,two point jumper,True,1,True,True
+2013-01-27,43.1,New York Knicks,Atlanta Hawks,4,93-94,-1,layup,True,0,False,True
+2013-01-27,43.1333333333,New York Knicks,Atlanta Hawks,4,93-96,1,two point shot,True,1,True,True
+2013-01-27,46.3,New York Knicks,Atlanta Hawks,4,102-102,-1,free throw,True,15,True,True
+2013-01-27,46.3,New York Knicks,Atlanta Hawks,4,102-103,0,free throw,True,15,True,True
+2013-01-30,11.0,New York Knicks,Orlando Magic,1,31-28,-5,dunk,True,0,True,False
+2013-01-30,13.3833333333,New York Knicks,Orlando Magic,2,35-36,-1,layup,True,0,True,False
+2013-01-30,30.45,New York Knicks,Orlando Magic,3,62-68,4,two point shot,True,1,True,False
+2013-01-30,31.6666666667,New York Knicks,Orlando Magic,3,64-70,4,layup,True,0,True,False
+2013-01-30,32.7166666667,New York Knicks,Orlando Magic,3,66-72,4,dunk,True,0,True,False
+2013-01-30,36.3166666667,New York Knicks,Orlando Magic,4,73-81,6,two point shot,True,1,True,False
+2013-01-30,39.7666666667,New York Knicks,Orlando Magic,4,78-88,8,two point shot,True,5,True,False
+2013-02-01,8.15,New York Knicks,Milwaukee Bucks,1,16-14,-4,two point jumper,True,1,False,True
+2013-02-01,8.76666666667,New York Knicks,Milwaukee Bucks,1,19-16,-5,layup,True,0,True,True
+2013-02-01,9.41666666667,New York Knicks,Milwaukee Bucks,1,21-16,-6,free throw,True,15,False,True
+2013-02-01,9.41666666667,New York Knicks,Milwaukee Bucks,1,21-17,-5,free throw,True,15,True,True
+2013-02-01,13.5,New York Knicks,Milwaukee Bucks,2,33-27,-8,two point shot,True,4,True,True
+2013-02-01,14.9,New York Knicks,Milwaukee Bucks,2,38-30,-10,layup,True,0,False,True
+2013-02-01,15.9333333333,New York Knicks,Milwaukee Bucks,2,38-32,-8,two point shot,True,4,True,True
+2013-02-01,21.1,New York Knicks,Milwaukee Bucks,2,46-41,-6,free throw,True,15,True,True
+2013-02-01,21.1,New York Knicks,Milwaukee Bucks,2,46-42,-5,free throw,True,15,True,True
+2013-02-01,30.45,New York Knicks,Milwaukee Bucks,3,66-57,-11,layup,True,0,False,True
+2013-02-01,30.5666666667,New York Knicks,Milwaukee Bucks,3,66-59,-9,layup,True,0,True,True
+2013-02-01,31.1,New York Knicks,Milwaukee Bucks,3,66-59,-9,layup,True,0,False,True
+2013-02-01,31.7833333333,New York Knicks,Milwaukee Bucks,3,68-62,-7,free throw,True,15,True,True
+2013-02-01,31.7833333333,New York Knicks,Milwaukee Bucks,3,68-63,-6,free throw,True,15,True,True
+2013-02-01,37.5666666667,New York Knicks,Milwaukee Bucks,4,73-75,1,free throw,True,15,True,True
+2013-02-01,37.5666666667,New York Knicks,Milwaukee Bucks,4,73-76,2,free throw,True,15,True,True
+2013-02-01,38.25,New York Knicks,Milwaukee Bucks,4,73-78,3,two point shot,True,4,True,True
+2013-02-02,7.75,New York Knicks,Sacramento Kings,1,18-10,-10,dunk,True,0,True,False
+2013-02-02,8.08333333333,New York Knicks,Sacramento Kings,1,18-12,-8,two point shot,True,1,True,False
+2013-02-02,8.08333333333,New York Knicks,Sacramento Kings,1,18-13,-6,free throw,True,15,True,False
+2013-02-02,8.93333333333,New York Knicks,Sacramento Kings,1,20-17,-5,layup,True,0,True,False
+2013-02-02,12.3333333333,New York Knicks,Sacramento Kings,2,22-27,3,two point shot,True,1,True,False
+2013-02-02,15.3666666667,New York Knicks,Sacramento Kings,2,22-38,14,two point jumper,True,16,True,False
+2013-02-02,23.5166666667,New York Knicks,Sacramento Kings,2,33-56,21,two point shot,True,1,True,False
+2013-02-02,32.5166666667,New York Knicks,Sacramento Kings,3,45-84,37,two point shot,True,1,True,False
+2013-02-02,34.2166666667,New York Knicks,Sacramento Kings,3,47-89,40,dunk,True,0,True,False
+2013-02-02,35.9333333333,New York Knicks,Sacramento Kings,3,52-97,43,two point shot,True,1,True,False
+2013-02-02,37.9666666667,New York Knicks,Sacramento Kings,4,54-99,43,two point jumper,True,15,True,False
+2013-02-04,6.7,New York Knicks,Detroit Pistons,1,6-17,9,tip shot,True,0,False,True
+2013-02-04,12.5833333333,New York Knicks,Detroit Pistons,2,13-30,15,layup,True,0,True,True
+2013-02-04,13.3833333333,New York Knicks,Detroit Pistons,2,13-33,18,two point shot,True,1,True,True
+2013-02-04,14.4666666667,New York Knicks,Detroit Pistons,2,15-35,18,two point shot,True,7,True,True
+2013-02-04,15.8333333333,New York Knicks,Detroit Pistons,2,19-37,16,layup,True,0,True,True
+2013-02-04,23.8333333333,New York Knicks,Detroit Pistons,2,33-57,22,two point jumper,True,3,False,True
+2013-02-04,31.45,New York Knicks,Detroit Pistons,3,51-69,17,free throw,True,15,True,True
+2013-02-04,31.45,New York Knicks,Detroit Pistons,3,51-70,18,free throw,True,15,True,True
+2013-02-04,32.7666666667,New York Knicks,Detroit Pistons,3,54-72,16,two point shot,True,1,True,True
+2013-02-04,34.25,New York Knicks,Detroit Pistons,3,56-72,14,two point shot,True,1,False,True
+2013-02-04,34.9,New York Knicks,Detroit Pistons,3,56-72,14,two point jumper,True,3,False,True
+2013-02-04,34.9333333333,New York Knicks,Detroit Pistons,3,56-74,16,two point shot,True,1,True,True
+2013-02-04,39.25,New York Knicks,Detroit Pistons,4,64-80,15,free throw,True,15,True,True
+2013-02-04,39.25,New York Knicks,Detroit Pistons,4,64-81,16,free throw,True,15,True,True
+2013-02-04,40.2166666667,New York Knicks,Detroit Pistons,4,64-83,17,two point shot,True,1,True,True
+2013-02-04,46.2166666667,New York Knicks,Detroit Pistons,4,77-95,16,layup,True,0,True,True
+2013-02-06,7.98333333333,New York Knicks,Washington Wizards,1,17-18,-3,layup,False,0,True,True
+2013-02-06,7.98333333333,New York Knicks,Washington Wizards,1,18-18,-1,free throw,False,15,True,True
+2013-02-06,10.2833333333,New York Knicks,Washington Wizards,1,25-23,0,layup,False,0,True,True
+2013-02-06,11.3833333333,New York Knicks,Washington Wizards,1,27-26,-1,layup,False,0,True,True
+2013-02-06,12.3333333333,New York Knicks,Washington Wizards,2,29-28,-1,layup,False,0,False,True
+2013-02-06,14.3833333333,New York Knicks,Washington Wizards,2,31-31,-2,two point jumper,False,1,False,True
+2013-02-06,15.0833333333,New York Knicks,Washington Wizards,2,31-31,-1,free throw,False,15,False,True
+2013-02-06,15.0833333333,New York Knicks,Washington Wizards,2,31-31,-1,free throw,False,15,False,True
+2013-02-06,20.4833333333,New York Knicks,Washington Wizards,2,44-43,-1,two point shot,False,7,True,True
+2013-02-06,21.65,New York Knicks,Washington Wizards,2,46-45,-1,layup,False,0,False,True
+2013-02-06,33.6666666667,New York Knicks,Washington Wizards,3,66-68,-4,dunk,False,0,True,True
+2013-02-06,36.5666666667,New York Knicks,Washington Wizards,4,73-74,-3,two point jumper,False,5,False,True
+2013-02-06,37.7166666667,New York Knicks,Washington Wizards,4,75-78,-5,dunk,False,0,True,True
+2013-02-06,38.4666666667,New York Knicks,Washington Wizards,4,76-82,-7,free throw,False,15,True,True
+2013-02-06,38.4666666667,New York Knicks,Washington Wizards,4,77-82,-6,free throw,False,15,True,True
+2013-02-06,40.45,New York Knicks,Washington Wizards,4,81-88,-8,free throw,False,15,True,True
+2013-02-06,40.45,New York Knicks,Washington Wizards,4,82-88,-7,free throw,False,15,True,True
+2013-02-06,42.6333333333,New York Knicks,Washington Wizards,4,87-93,-7,free throw,False,15,True,True
+2013-02-06,42.6333333333,New York Knicks,Washington Wizards,4,88-93,-6,free throw,False,15,True,True
+2013-02-08,12.6166666667,New York Knicks,Minnesota Timberwolves,2,27-23,2,two point shot,False,1,True,False
+2013-02-08,12.6166666667,New York Knicks,Minnesota Timberwolves,2,28-23,4,free throw,False,15,True,False
+2013-02-08,29.7,New York Knicks,Minnesota Timberwolves,3,63-59,2,two point shot,False,1,True,False
+2013-02-08,32.15,New York Knicks,Minnesota Timberwolves,3,68-66,0,dunk,False,0,True,False
+2013-02-08,36.0,New York Knicks,Minnesota Timberwolves,3,70-76,-8,tip shot,False,0,False,False
+2013-02-08,38.6833333333,New York Knicks,Minnesota Timberwolves,4,74-78,-6,layup,False,0,True,False
+2013-02-08,39.7,New York Knicks,Minnesota Timberwolves,4,76-83,-9,layup,False,0,True,False
+2013-02-10,7.66666666667,New York Knicks,Los Angeles Clippers,1,17-14,-5,two point shot,True,7,True,True
+2013-02-10,9.55,New York Knicks,Los Angeles Clippers,1,17-15,-4,layup,True,0,False,True
+2013-02-10,14.8833333333,New York Knicks,Los Angeles Clippers,2,32-19,-15,two point shot,True,4,False,True
+2013-02-10,21.8,New York Knicks,Los Angeles Clippers,2,45-35,-12,two point shot,True,4,False,True
+2013-02-10,33.2833333333,New York Knicks,Los Angeles Clippers,3,67-65,-4,layup,True,0,True,True
+2013-02-10,36.2,New York Knicks,Los Angeles Clippers,4,71-72,-1,two point shot,True,1,True,True
+2013-02-10,36.2,New York Knicks,Los Angeles Clippers,4,71-73,1,free throw,True,15,True,True
+2013-02-10,39.5,New York Knicks,Los Angeles Clippers,4,82-77,-7,two point shot,True,1,True,True
+2013-02-13,7.2,New York Knicks,Toronto Raptors,1,7-8,-1,hook shot,True,4,False,False
+2013-02-13,8.05,New York Knicks,Toronto Raptors,1,7-10,1,layup,True,0,False,False
+2013-02-13,8.08333333333,New York Knicks,Toronto Raptors,1,7-12,3,two point shot,True,1,True,False
+2013-02-13,8.71666666667,New York Knicks,Toronto Raptors,1,9-12,1,layup,True,0,False,False
+2013-02-13,9.06666666667,New York Knicks,Toronto Raptors,1,9-14,3,two point shot,True,1,True,False
+2013-02-13,14.5166666667,New York Knicks,Toronto Raptors,2,23-22,-3,unknown,True,9,False,False
+2013-02-13,30.3166666667,New York Knicks,Toronto Raptors,3,49-51,1,free throw,True,15,True,False
+2013-02-13,30.3166666667,New York Knicks,Toronto Raptors,3,49-52,2,free throw,True,15,True,False
+2013-02-13,32.75,New York Knicks,Toronto Raptors,3,55-55,-2,layup,True,0,False,False
+2013-02-13,33.8,New York Knicks,Toronto Raptors,3,58-58,-2,two point shot,True,1,True,False
+2013-02-13,35.5333333333,New York Knicks,Toronto Raptors,3,63-60,-5,layup,True,0,True,False
+2013-02-13,36.8166666667,New York Knicks,Toronto Raptors,4,67-60,-9,hook shot,True,4,False,False
+2013-02-20,7.06666666667,New York Knicks,Indiana Pacers,1,9-15,-7,free throw,False,15,False,True
+2013-02-20,7.06666666667,New York Knicks,Indiana Pacers,1,10-15,-6,free throw,False,15,True,True
+2013-02-20,12.3,New York Knicks,Indiana Pacers,2,18-30,-14,two point jumper,False,3,False,True
+2013-02-20,29.0333333333,New York Knicks,Indiana Pacers,3,52-83,-32,free throw,False,15,True,True
+2013-02-20,29.0333333333,New York Knicks,Indiana Pacers,3,53-83,-31,free throw,False,15,True,True
+2013-02-20,29.6666666667,New York Knicks,Indiana Pacers,3,54-83,-30,free throw,False,15,True,True
+2013-02-20,29.6666666667,New York Knicks,Indiana Pacers,3,55-83,-29,free throw,False,15,True,True
+2013-02-20,38.3333333333,New York Knicks,Indiana Pacers,4,70-106,-38,layup,False,0,True,True
+2013-02-22,12.3833333333,New York Knicks,Toronto Raptors,2,32-34,-4,two point jumper,False,15,False,True
+2013-02-22,13.2666666667,New York Knicks,Toronto Raptors,2,34-34,-2,two point shot,False,4,True,True
+2013-02-22,14.6333333333,New York Knicks,Toronto Raptors,2,34-37,-5,two point shot,False,4,False,True
+2013-02-22,15.6833333333,New York Knicks,Toronto Raptors,2,39-37,0,two point jumper,False,19,True,True
+2013-02-22,17.4166666667,New York Knicks,Toronto Raptors,2,41-41,-2,two point shot,False,1,True,True
+2013-02-22,30.5,New York Knicks,Toronto Raptors,3,56-62,-7,free throw,False,15,False,True
+2013-02-22,30.5,New York Knicks,Toronto Raptors,3,57-62,-6,free throw,False,15,True,True
+2013-02-22,32.75,New York Knicks,Toronto Raptors,3,60-70,-12,unknown,False,15,False,True
+2013-02-22,36.2166666667,New York Knicks,Toronto Raptors,4,70-79,-11,two point jumper,False,19,False,True
+2013-02-22,38.8833333333,New York Knicks,Toronto Raptors,4,79-81,-4,dunk,False,0,True,True
+2013-02-22,40.0333333333,New York Knicks,Toronto Raptors,4,81-84,-5,dunk,False,0,True,True
+2013-02-22,40.45,New York Knicks,Toronto Raptors,4,83-86,-5,dunk,False,0,True,True
+2013-02-22,43.8833333333,New York Knicks,Toronto Raptors,4,88-89,-2,free throw,False,15,False,True
+2013-02-22,43.8833333333,New York Knicks,Toronto Raptors,4,89-89,-1,free throw,False,15,True,True
+2013-02-24,9.26666666667,New York Knicks,Philadelphia 76ers,1,18-14,-6,two point shot,True,5,False,True
+2013-02-24,9.81666666667,New York Knicks,Philadelphia 76ers,1,18-17,-3,layup,True,0,True,True
+2013-02-24,10.4833333333,New York Knicks,Philadelphia 76ers,1,18-19,-1,dunk,True,0,True,True
+2013-02-24,12.3,New York Knicks,Philadelphia 76ers,2,22-26,2,two point shot,True,2,True,True
+2013-02-24,12.6833333333,New York Knicks,Philadelphia 76ers,2,22-28,4,two point shot,True,2,True,True
+2013-02-24,14.3333333333,New York Knicks,Philadelphia 76ers,2,24-35,9,two point jumper,True,18,True,True
+2013-02-24,23.2166666667,New York Knicks,Philadelphia 76ers,2,38-50,11,free throw,True,15,True,True
+2013-02-24,23.2166666667,New York Knicks,Philadelphia 76ers,2,38-50,11,free throw,True,15,False,True
+2013-02-24,31.1333333333,New York Knicks,Philadelphia 76ers,3,53-68,13,two point shot,True,1,True,True
+2013-02-24,34.8833333333,New York Knicks,Philadelphia 76ers,3,63-72,8,free throw,True,15,False,True
+2013-02-24,34.8833333333,New York Knicks,Philadelphia 76ers,3,63-73,9,free throw,True,15,True,True
+2013-02-24,36.6166666667,New York Knicks,Philadelphia 76ers,4,67-78,9,two point shot,True,4,True,True
+2013-02-24,37.2166666667,New York Knicks,Philadelphia 76ers,4,67-79,11,free throw,True,15,True,True
+2013-02-24,37.2166666667,New York Knicks,Philadelphia 76ers,4,67-80,12,free throw,True,15,True,True
+2013-02-24,38.7,New York Knicks,Philadelphia 76ers,4,71-85,12,two point jumper,True,9,True,True
+2013-02-24,39.0833333333,New York Knicks,Philadelphia 76ers,4,71-87,14,two point jumper,True,16,True,True
+2013-02-27,10.3833333333,New York Knicks,Golden State Warriors,1,11-25,12,two point shot,True,2,True,True
+2013-02-27,13.5666666667,New York Knicks,Golden State Warriors,2,22-31,8,free throw,True,15,True,True
+2013-02-27,13.5666666667,New York Knicks,Golden State Warriors,2,22-32,9,free throw,True,15,True,True
+2013-02-27,30.45,New York Knicks,Golden State Warriors,3,71-71,-2,two point shot,True,3,True,True
+2013-02-27,32.6166666667,New York Knicks,Golden State Warriors,3,76-79,1,two point shot,True,1,True,True
+2013-02-27,37.8333333333,New York Knicks,Golden State Warriors,4,85-89,2,two point shot,True,3,True,True
+2013-02-27,39.8166666667,New York Knicks,Golden State Warriors,4,90-91,-1,dunk,True,0,True,True
+2013-02-27,41.35,New York Knicks,Golden State Warriors,4,93-98,3,two point shot,True,1,True,True
+2013-03-01,12.6333333333,New York Knicks,Washington Wizards,2,28-25,1,layup,False,0,True,True
+2013-03-01,13.25,New York Knicks,Washington Wizards,2,28-27,-1,two point jumper,False,15,False,True
+2013-03-01,15.5666666667,New York Knicks,Washington Wizards,2,35-34,-1,layup,False,0,True,True
+2013-03-01,16.3833333333,New York Knicks,Washington Wizards,2,36-36,-1,free throw,False,15,True,True
+2013-03-01,16.3833333333,New York Knicks,Washington Wizards,2,37-36,0,free throw,False,15,True,True
+2013-03-01,19.45,New York Knicks,Washington Wizards,2,42-40,0,two point jumper,False,15,False,True
+2013-03-01,33.0,New York Knicks,Washington Wizards,3,69-68,-1,two point jumper,False,17,False,True
+2013-03-01,35.5333333333,New York Knicks,Washington Wizards,3,73-75,-4,layup,False,0,True,True
+2013-03-01,36.3833333333,New York Knicks,Washington Wizards,4,75-77,-4,two point shot,False,4,True,True
+2013-03-01,40.4166666667,New York Knicks,Washington Wizards,4,85-79,4,two point jumper,False,20,True,True
+2013-03-03,12.2666666667,New York Knicks,Miami Heat,2,23-24,-1,two point jumper,True,16,True,False
+2013-03-03,14.7,New York Knicks,Miami Heat,2,27-29,0,dunk,True,0,True,False
+2013-03-03,33.35,New York Knicks,Miami Heat,3,63-74,9,two point shot,True,1,True,False
+2013-03-03,34.0,New York Knicks,Miami Heat,3,65-76,9,two point shot,True,1,True,False
+2013-03-03,34.6,New York Knicks,Miami Heat,3,67-77,9,free throw,True,15,True,False
+2013-03-03,34.6,New York Knicks,Miami Heat,3,67-77,9,free throw,True,15,False,False
+2013-03-03,38.45,New York Knicks,Miami Heat,4,79-81,0,two point shot,True,1,True,False
+2013-03-03,39.7666666667,New York Knicks,Miami Heat,4,82-82,-1,free throw,True,15,True,False
+2013-03-03,39.7666666667,New York Knicks,Miami Heat,4,82-82,-1,free throw,True,15,False,False
+2013-03-04,4.53333333333,New York Knicks,Cleveland Cavaliers,1,11-9,0,dunk,False,0,True,False
+2013-03-04,6.88333333333,New York Knicks,Cleveland Cavaliers,1,16-15,-1,two point shot,False,11,False,False
+2013-03-04,9.05,New York Knicks,Cleveland Cavaliers,1,18-24,-8,layup,False,0,True,False
+2013-03-04,11.0166666667,New York Knicks,Cleveland Cavaliers,1,18-29,-13,tip shot,False,0,False,False
+2013-03-04,17.8166666667,New York Knicks,Cleveland Cavaliers,2,31-52,-22,free throw,False,15,True,False
+2013-03-04,17.8166666667,New York Knicks,Cleveland Cavaliers,2,32-52,-21,free throw,False,15,True,False
+2013-03-04,18.8833333333,New York Knicks,Cleveland Cavaliers,2,37-52,-17,dunk,False,0,True,False
+2013-03-04,22.7166666667,New York Knicks,Cleveland Cavaliers,2,49-58,-11,layup,False,0,True,False
+2013-03-04,24.6333333333,New York Knicks,Cleveland Cavaliers,3,51-61,-12,two point shot,False,1,True,False
+2013-03-04,25.25,New York Knicks,Cleveland Cavaliers,3,53-61,-10,dunk,False,0,True,False
+2013-03-04,28.2,New York Knicks,Cleveland Cavaliers,3,59-61,-4,two point shot,False,1,True,False
+2013-03-04,39.4,New York Knicks,Cleveland Cavaliers,4,81-80,-1,dunk,False,0,True,False
+2013-03-04,44.1666666667,New York Knicks,Cleveland Cavaliers,4,94-89,3,dunk,False,0,True,False
+2013-03-04,47.3333333333,New York Knicks,Cleveland Cavaliers,4,97-95,0,two point jumper,False,4,False,False
+2013-03-04,47.3333333333,New York Knicks,Cleveland Cavaliers,4,99-95,2,two point shot,False,1,True,False
+2013-03-04,47.85,New York Knicks,Cleveland Cavaliers,4,99-97,0,two point jumper,False,17,False,False
+2013-03-06,7.06666666667,New York Knicks,Detroit Pistons,1,14-14,-2,two point shot,False,5,True,True
+2013-03-06,8.53333333333,New York Knicks,Detroit Pistons,1,17-17,-1,free throw,False,15,True,True
+2013-03-06,8.53333333333,New York Knicks,Detroit Pistons,1,18-17,0,free throw,False,15,True,True
+2013-03-06,8.86666666667,New York Knicks,Detroit Pistons,1,19-17,1,free throw,False,15,True,True
+2013-03-06,8.86666666667,New York Knicks,Detroit Pistons,1,20-17,2,free throw,False,15,True,True
+2013-03-06,10.2166666667,New York Knicks,Detroit Pistons,1,22-17,3,layup,False,0,True,True
+2013-03-06,10.8666666667,New York Knicks,Detroit Pistons,1,24-17,5,two point jumper,False,19,True,True
+2013-03-06,12.5,New York Knicks,Detroit Pistons,2,26-19,5,dunk,False,0,True,True
+2013-03-06,13.5666666667,New York Knicks,Detroit Pistons,2,28-22,4,layup,False,0,True,True
+2013-03-06,14.2166666667,New York Knicks,Detroit Pistons,2,30-22,6,layup,False,0,True,True
+2013-03-06,14.2166666667,New York Knicks,Detroit Pistons,2,31-22,8,free throw,False,15,True,True
+2013-03-06,24.5,New York Knicks,Detroit Pistons,3,44-40,2,two point jumper,False,16,False,True
+2013-03-06,27.5666666667,New York Knicks,Detroit Pistons,3,48-50,-4,two point shot,False,1,True,True
+2013-03-06,36.8333333333,New York Knicks,Detroit Pistons,4,65-65,-1,free throw,False,15,False,True
+2013-03-06,36.8333333333,New York Knicks,Detroit Pistons,4,66-65,0,free throw,False,15,True,True
+2013-03-06,37.75,New York Knicks,Detroit Pistons,4,68-65,1,layup,False,0,True,True
+2013-03-06,40.6333333333,New York Knicks,Detroit Pistons,4,71-69,0,layup,False,0,False,True
+2013-03-07,5.38333333333,New York Knicks,Oklahoma City Thunder,1,11-13,0,two point jumper,True,15,False,False
+2013-03-07,6.95,New York Knicks,Oklahoma City Thunder,1,20-13,-9,two point jumper,True,19,False,False
+2013-03-07,7.95,New York Knicks,Oklahoma City Thunder,1,23-17,-8,layup,True,0,True,False
+2013-03-07,9.0,New York Knicks,Oklahoma City Thunder,1,26-19,-9,layup,True,0,False,False
+2013-03-07,11.2833333333,New York Knicks,Oklahoma City Thunder,1,33-25,-9,free throw,True,15,True,False
+2013-03-07,11.2833333333,New York Knicks,Oklahoma City Thunder,1,33-26,-8,free throw,True,15,True,False
+2013-03-07,14.8,New York Knicks,Oklahoma City Thunder,2,39-33,-8,layup,True,0,True,False
+2013-03-07,25.8833333333,New York Knicks,Oklahoma City Thunder,3,59-56,-5,two point jumper,True,3,False,False
+2013-03-07,26.3333333333,New York Knicks,Oklahoma City Thunder,3,61-56,-7,layup,True,0,False,False
+2013-03-07,28.6,New York Knicks,Oklahoma City Thunder,3,61-60,-3,layup,True,0,False,False
+2013-03-07,29.8833333333,New York Knicks,Oklahoma City Thunder,3,65-62,-5,two point shot,True,4,True,False
+2013-03-07,31.4833333333,New York Knicks,Oklahoma City Thunder,3,69-68,-3,dunk,True,0,True,False
+2013-03-07,33.9,New York Knicks,Oklahoma City Thunder,3,69-75,4,two point jumper,True,18,True,False
+2013-03-07,42.0333333333,New York Knicks,Oklahoma City Thunder,4,87-86,-2,free throw,True,15,True,False
+2013-03-07,42.0333333333,New York Knicks,Oklahoma City Thunder,4,87-87,-1,free throw,True,15,True,False
+2013-03-07,42.75,New York Knicks,Oklahoma City Thunder,4,89-87,-4,layup,True,0,False,False
+2013-03-07,46.1666666667,New York Knicks,Oklahoma City Thunder,4,93-93,-1,free throw,True,15,True,False
+2013-03-07,46.1666666667,New York Knicks,Oklahoma City Thunder,4,93-94,0,free throw,True,15,True,False

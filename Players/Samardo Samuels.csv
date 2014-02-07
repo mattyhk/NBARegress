@@ -1,0 +1,719 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2011-01-25,12.7,Cleveland Cavaliers,Boston Celtics,2,26-37,-13,hook shot,False,1,False,True
+2011-01-25,16.1,Cleveland Cavaliers,Boston Celtics,2,30-42,-14,two point jumper,False,14,False,True
+2011-01-25,16.9833333333,Cleveland Cavaliers,Boston Celtics,2,34-44,-12,layup,False,0,True,True
+2011-01-25,16.9833333333,Cleveland Cavaliers,Boston Celtics,2,34-44,-11,free throw,False,15,False,True
+2011-01-25,21.9833333333,Cleveland Cavaliers,Boston Celtics,2,40-61,-22,free throw,False,15,True,True
+2011-01-25,21.9833333333,Cleveland Cavaliers,Boston Celtics,2,41-61,-21,free throw,False,15,True,True
+2011-01-25,36.8666666667,Cleveland Cavaliers,Boston Celtics,4,71-93,-24,two point shot,False,3,True,True
+2011-01-25,38.7166666667,Cleveland Cavaliers,Boston Celtics,4,74-94,-22,two point jumper,False,19,False,True
+2011-01-25,39.25,Cleveland Cavaliers,Boston Celtics,4,76-95,-21,hook shot,False,4,True,True
+2011-01-25,41.7,Cleveland Cavaliers,Boston Celtics,4,82-101,-21,two point shot,False,6,False,True
+2011-01-25,47.6166666667,Cleveland Cavaliers,Boston Celtics,4,95-112,-19,dunk,False,0,True,True
+2011-01-24,7.23333333333,Cleveland Cavaliers,Brooklyn Nets,1,16-12,2,layup,False,0,True,False
+2011-01-24,7.23333333333,Cleveland Cavaliers,Brooklyn Nets,1,17-12,4,free throw,False,15,True,False
+2011-01-24,9.91666666667,Cleveland Cavaliers,Brooklyn Nets,1,27-22,3,dunk,False,0,True,False
+2011-03-23,10.0166666667,Cleveland Cavaliers,Brooklyn Nets,1,17-19,0,two point jumper,True,1,False,False
+2011-03-23,11.35,Cleveland Cavaliers,Brooklyn Nets,1,17-22,3,layup,True,0,False,False
+2011-03-23,13.45,Cleveland Cavaliers,Brooklyn Nets,2,20-25,4,free throw,True,15,False,False
+2011-03-23,13.45,Cleveland Cavaliers,Brooklyn Nets,2,20-25,4,free throw,True,15,False,False
+2011-03-23,16.1333333333,Cleveland Cavaliers,Brooklyn Nets,2,27-26,-3,two point jumper,True,19,False,False
+2011-03-23,32.7833333333,Cleveland Cavaliers,Brooklyn Nets,3,60-56,-6,two point shot,True,1,False,False
+2011-03-23,32.9,Cleveland Cavaliers,Brooklyn Nets,3,60-58,-4,two point shot,True,1,True,False
+2011-03-23,35.6333333333,Cleveland Cavaliers,Brooklyn Nets,3,62-62,-2,two point jumper,True,4,False,False
+2011-03-23,36.5666666667,Cleveland Cavaliers,Brooklyn Nets,4,62-63,0,free throw,True,15,True,False
+2011-03-23,36.5666666667,Cleveland Cavaliers,Brooklyn Nets,4,62-64,1,free throw,True,15,True,False
+2011-03-23,39.7666666667,Cleveland Cavaliers,Brooklyn Nets,4,70-68,-4,dunk,True,0,True,False
+2011-03-23,21.85,Cleveland Cavaliers,Brooklyn Nets,5,94-90,-6,layup,True,0,False,False
+2011-03-23,21.8666666667,Cleveland Cavaliers,Brooklyn Nets,5,94-92,-4,tip shot,True,0,True,False
+2011-03-23,21.9833333333,Cleveland Cavaliers,Brooklyn Nets,5,96-92,-6,two point jumper,True,6,False,False
+2011-02-25,12.8833333333,Cleveland Cavaliers,New York Knicks,2,30-28,-4,two point jumper,True,5,False,True
+2011-02-25,15.55,Cleveland Cavaliers,New York Knicks,2,38-31,-9,two point jumper,True,17,False,True
+2011-02-25,16.2,Cleveland Cavaliers,New York Knicks,2,40-33,-9,two point jumper,True,4,True,True
+2011-02-25,33.55,Cleveland Cavaliers,New York Knicks,3,75-77,0,two point shot,True,12,False,True
+2011-02-25,36.0,Cleveland Cavaliers,New York Knicks,3,75-83,6,two point jumper,True,23,False,True
+2011-02-25,36.3666666667,Cleveland Cavaliers,New York Knicks,4,75-83,6,two point jumper,True,17,False,True
+2011-03-04,1.5,Cleveland Cavaliers,New York Knicks,1,0-5,-7,two point jumper,False,17,False,True
+2011-03-04,16.7333333333,Cleveland Cavaliers,New York Knicks,2,39-45,-7,free throw,False,15,True,True
+2011-03-04,16.7333333333,Cleveland Cavaliers,New York Knicks,2,39-45,-7,free throw,False,15,False,True
+2011-03-04,18.2833333333,Cleveland Cavaliers,New York Knicks,2,43-49,-8,two point shot,False,1,True,True
+2011-03-04,19.3166666667,Cleveland Cavaliers,New York Knicks,2,45-51,-8,layup,False,0,False,True
+2011-03-04,19.6,Cleveland Cavaliers,New York Knicks,2,45-52,-8,free throw,False,15,False,True
+2011-03-04,19.6,Cleveland Cavaliers,New York Knicks,2,46-52,-7,free throw,False,15,True,True
+2011-03-04,20.5833333333,Cleveland Cavaliers,New York Knicks,2,51-55,-6,dunk,False,0,True,True
+2011-03-04,22.4166666667,Cleveland Cavaliers,New York Knicks,2,53-60,-8,free throw,False,15,False,True
+2011-03-04,22.4166666667,Cleveland Cavaliers,New York Knicks,2,54-60,-7,free throw,False,15,True,True
+2011-03-04,25.8333333333,Cleveland Cavaliers,New York Knicks,3,64-68,-6,two point jumper,False,17,True,True
+2011-03-04,26.8666666667,Cleveland Cavaliers,New York Knicks,3,66-68,-4,layup,False,0,False,True
+2011-03-04,26.8833333333,Cleveland Cavaliers,New York Knicks,3,68-68,-2,dunk,False,0,True,True
+2011-03-04,29.9833333333,Cleveland Cavaliers,New York Knicks,3,73-75,-4,dunk,False,0,True,True
+2011-03-04,37.0666666667,Cleveland Cavaliers,New York Knicks,4,85-92,-8,free throw,False,15,False,True
+2011-03-04,37.0666666667,Cleveland Cavaliers,New York Knicks,4,86-92,-7,free throw,False,15,True,True
+2011-03-04,42.6666666667,Cleveland Cavaliers,New York Knicks,4,98-104,-7,free throw,False,15,False,True
+2011-03-04,42.6666666667,Cleveland Cavaliers,New York Knicks,4,99-104,-6,free throw,False,15,True,True
+2011-04-03,10.1333333333,Cleveland Cavaliers,New York Knicks,1,20-32,-13,free throw,False,15,False,False
+2011-04-03,10.1333333333,Cleveland Cavaliers,New York Knicks,1,21-32,-12,free throw,False,15,True,False
+2011-04-03,12.3833333333,Cleveland Cavaliers,New York Knicks,2,27-36,-11,layup,False,0,True,False
+2011-04-03,25.95,Cleveland Cavaliers,New York Knicks,3,64-73,-10,free throw,False,15,False,False
+2011-04-03,25.95,Cleveland Cavaliers,New York Knicks,3,64-73,-10,free throw,False,15,False,False
+2011-04-03,29.3166666667,Cleveland Cavaliers,New York Knicks,3,75-77,-4,dunk,False,0,True,False
+2011-04-03,39.6166666667,Cleveland Cavaliers,New York Knicks,4,90-103,-15,two point jumper,False,4,False,False
+2011-04-03,41.2166666667,Cleveland Cavaliers,New York Knicks,4,93-108,-17,layup,False,0,False,False
+2011-04-03,42.2833333333,Cleveland Cavaliers,New York Knicks,4,97-112,-17,two point shot,False,1,True,False
+2011-04-03,47.2,Cleveland Cavaliers,New York Knicks,4,107-121,-16,layup,False,0,True,False
+2011-02-27,12.6333333333,Cleveland Cavaliers,Philadelphia 76ers,2,22-25,1,layup,True,0,True,False
+2011-02-27,15.3,Cleveland Cavaliers,Philadelphia 76ers,2,30-27,-5,two point jumper,True,17,True,False
+2011-02-27,16.45,Cleveland Cavaliers,Philadelphia 76ers,2,32-31,-2,free throw,True,15,True,False
+2011-02-27,16.45,Cleveland Cavaliers,Philadelphia 76ers,2,32-31,-2,free throw,True,15,False,False
+2011-02-27,33.0833333333,Cleveland Cavaliers,Philadelphia 76ers,3,70-58,-14,two point shot,True,11,True,False
+2011-02-27,37.0,Cleveland Cavaliers,Philadelphia 76ers,4,75-68,-9,two point jumper,True,17,True,False
+2011-02-27,40.7833333333,Cleveland Cavaliers,Philadelphia 76ers,4,82-75,-9,two point shot,True,9,True,False
+2011-02-27,43.2333333333,Cleveland Cavaliers,Philadelphia 76ers,4,82-76,-7,free throw,True,15,True,False
+2011-02-27,43.2333333333,Cleveland Cavaliers,Philadelphia 76ers,4,82-76,-7,free throw,True,15,False,False
+2011-10-29,15.6833333333,Cleveland Cavaliers,Toronto Raptors,5,62-83,-23,hook shot,False,1,False,True
+2011-10-29,16.5,Cleveland Cavaliers,Toronto Raptors,5,64-85,-23,layup,False,0,True,True
+2011-10-29,16.5,Cleveland Cavaliers,Toronto Raptors,5,65-85,-21,free throw,False,15,True,True
+2011-10-29,17.5833333333,Cleveland Cavaliers,Toronto Raptors,5,69-90,-23,layup,False,0,True,True
+2011-10-29,20.0833333333,Cleveland Cavaliers,Toronto Raptors,5,75-97,-24,layup,False,0,False,True
+2011-10-29,20.75,Cleveland Cavaliers,Toronto Raptors,5,79-99,-22,two point shot,False,1,True,True
+2011-01-07,12.75,Cleveland Cavaliers,Golden State Warriors,2,24-33,-11,two point jumper,False,4,False,True
+2011-01-07,14.4333333333,Cleveland Cavaliers,Golden State Warriors,2,30-38,-10,tip shot,False,0,True,True
+2011-01-07,14.4333333333,Cleveland Cavaliers,Golden State Warriors,2,31-38,-8,free throw,False,15,True,True
+2011-01-07,45.6666666667,Cleveland Cavaliers,Golden State Warriors,4,95-114,-21,layup,False,0,True,True
+2011-03-08,0.333333333333,Cleveland Cavaliers,Golden State Warriors,1,0-0,-2,layup,True,0,False,False
+2011-03-08,0.383333333333,Cleveland Cavaliers,Golden State Warriors,1,0-0,-1,free throw,True,15,False,False
+2011-03-08,0.383333333333,Cleveland Cavaliers,Golden State Warriors,1,0-1,0,free throw,True,15,True,False
+2011-03-08,1.63333333333,Cleveland Cavaliers,Golden State Warriors,1,4-3,-3,layup,True,0,True,False
+2011-03-08,2.18333333333,Cleveland Cavaliers,Golden State Warriors,1,6-5,-3,dunk,True,0,True,False
+2011-03-08,4.21666666667,Cleveland Cavaliers,Golden State Warriors,1,9-9,-2,two point jumper,True,15,False,False
+2011-03-08,4.85,Cleveland Cavaliers,Golden State Warriors,1,10-11,-1,two point jumper,True,18,True,False
+2011-03-08,13.0166666667,Cleveland Cavaliers,Golden State Warriors,2,21-32,9,layup,True,0,True,False
+2011-03-08,15.55,Cleveland Cavaliers,Golden State Warriors,2,27-37,8,layup,True,0,True,False
+2011-03-08,17.5,Cleveland Cavaliers,Golden State Warriors,2,32-39,5,two point jumper,True,19,False,False
+2011-03-08,18.3166666667,Cleveland Cavaliers,Golden State Warriors,2,32-39,4,three point jumper,True,24,False,False
+2011-03-08,20.0,Cleveland Cavaliers,Golden State Warriors,2,38-41,1,layup,True,0,False,False
+2011-03-08,27.8833333333,Cleveland Cavaliers,Golden State Warriors,3,56-49,-9,two point jumper,True,4,False,False
+2011-03-08,41.2,Cleveland Cavaliers,Golden State Warriors,4,83-74,-11,layup,True,0,False,False
+2011-03-19,0.75,Cleveland Cavaliers,Los Angeles Clippers,1,0-2,-4,layup,False,0,False,True
+2011-03-19,2.65,Cleveland Cavaliers,Los Angeles Clippers,1,6-7,-3,two point shot,False,6,True,True
+2011-03-19,3.65,Cleveland Cavaliers,Los Angeles Clippers,1,8-9,-3,two point jumper,False,22,True,True
+2011-03-19,4.13333333333,Cleveland Cavaliers,Los Angeles Clippers,1,8-10,-3,free throw,False,15,False,True
+2011-03-19,4.13333333333,Cleveland Cavaliers,Los Angeles Clippers,1,9-10,-2,free throw,False,15,True,True
+2011-03-19,6.6,Cleveland Cavaliers,Los Angeles Clippers,1,18-17,0,free throw,False,15,True,True
+2011-03-19,6.6,Cleveland Cavaliers,Los Angeles Clippers,1,19-17,1,free throw,False,15,True,True
+2011-03-19,7.13333333333,Cleveland Cavaliers,Los Angeles Clippers,1,21-19,0,layup,False,0,True,True
+2011-03-19,7.13333333333,Cleveland Cavaliers,Los Angeles Clippers,1,22-19,2,free throw,False,15,True,True
+2011-03-19,7.41666666667,Cleveland Cavaliers,Los Angeles Clippers,1,24-19,3,layup,False,0,True,True
+2011-03-19,8.5,Cleveland Cavaliers,Los Angeles Clippers,1,26-21,3,dunk,False,0,True,True
+2011-03-19,20.75,Cleveland Cavaliers,Los Angeles Clippers,2,46-47,-3,dunk,False,0,True,True
+2011-03-19,41.7,Cleveland Cavaliers,Los Angeles Clippers,4,83-88,-6,free throw,False,15,False,True
+2011-03-19,41.7,Cleveland Cavaliers,Los Angeles Clippers,4,84-88,-5,free throw,False,15,True,True
+2011-01-11,11.2666666667,Cleveland Cavaliers,Los Angeles Lakers,1,12-25,-15,dunk,False,0,True,True
+2011-01-11,12.3166666667,Cleveland Cavaliers,Los Angeles Lakers,2,12-27,-17,two point shot,False,4,False,True
+2011-01-11,14.1833333333,Cleveland Cavaliers,Los Angeles Lakers,2,14-30,-18,hook shot,False,1,False,True
+2011-01-11,28.8833333333,Cleveland Cavaliers,Los Angeles Lakers,3,27-72,-47,layup,False,0,False,True
+2011-01-11,32.75,Cleveland Cavaliers,Los Angeles Lakers,3,33-81,-50,hook shot,False,10,False,True
+2011-01-11,41.0333333333,Cleveland Cavaliers,Los Angeles Lakers,4,49-99,-52,hook shot,False,5,False,True
+2011-01-11,42.5666666667,Cleveland Cavaliers,Los Angeles Lakers,4,49-101,-54,two point shot,False,5,False,True
+2011-01-11,43.8166666667,Cleveland Cavaliers,Los Angeles Lakers,4,52-103,-52,free throw,False,15,False,True
+2011-01-11,43.8166666667,Cleveland Cavaliers,Los Angeles Lakers,4,53-103,-51,free throw,False,15,True,True
+2011-01-11,46.1333333333,Cleveland Cavaliers,Los Angeles Lakers,4,53-107,-56,two point jumper,False,17,False,True
+2011-01-11,46.5833333333,Cleveland Cavaliers,Los Angeles Lakers,4,53-107,-56,two point jumper,False,6,False,True
+2011-01-11,47.95,Cleveland Cavaliers,Los Angeles Lakers,4,57-112,-57,two point jumper,False,14,False,True
+2011-01-09,14.7166666667,Cleveland Cavaliers,Phoenix Suns,2,30-28,0,tip shot,False,0,True,False
+2011-01-19,6.38333333333,Cleveland Cavaliers,Phoenix Suns,1,15-15,-2,hook shot,True,6,False,True
+2011-01-19,9.08333333333,Cleveland Cavaliers,Phoenix Suns,1,29-19,-12,two point shot,True,1,True,True
+2011-01-19,10.3666666667,Cleveland Cavaliers,Phoenix Suns,1,34-21,-15,layup,True,0,False,True
+2011-01-19,11.5,Cleveland Cavaliers,Phoenix Suns,1,36-26,-12,two point shot,True,7,True,True
+2011-01-19,13.3666666667,Cleveland Cavaliers,Phoenix Suns,2,38-33,-7,layup,True,0,True,True
+2011-03-16,3.18333333333,Cleveland Cavaliers,Sacramento Kings,1,6-5,-1,layup,False,0,True,True
+2011-03-16,3.81666666667,Cleveland Cavaliers,Sacramento Kings,1,8-5,1,two point jumper,False,4,True,True
+2011-03-16,4.31666666667,Cleveland Cavaliers,Sacramento Kings,1,8-5,1,two point jumper,False,18,False,True
+2011-03-16,20.8166666667,Cleveland Cavaliers,Sacramento Kings,2,38-45,-9,layup,False,0,True,True
+2011-03-16,24.3166666667,Cleveland Cavaliers,Sacramento Kings,3,47-51,-5,free throw,False,15,False,True
+2011-03-16,24.3166666667,Cleveland Cavaliers,Sacramento Kings,3,48-51,-4,free throw,False,15,True,True
+2011-03-16,26.7666666667,Cleveland Cavaliers,Sacramento Kings,3,56-55,-1,two point jumper,False,6,True,True
+2011-03-16,27.5833333333,Cleveland Cavaliers,Sacramento Kings,3,59-55,3,free throw,False,15,True,True
+2011-03-16,27.5833333333,Cleveland Cavaliers,Sacramento Kings,3,59-55,3,free throw,False,15,False,True
+2011-03-16,28.35,Cleveland Cavaliers,Sacramento Kings,3,59-58,-1,layup,False,0,False,True
+2011-03-16,29.2833333333,Cleveland Cavaliers,Sacramento Kings,3,65-58,5,layup,False,0,True,True
+2011-03-16,43.1666666667,Cleveland Cavaliers,Sacramento Kings,4,82-83,-3,two point shot,False,5,False,True
+2011-03-16,44.15,Cleveland Cavaliers,Sacramento Kings,4,84-83,-1,two point jumper,False,19,False,True
+2011-03-16,46.65,Cleveland Cavaliers,Sacramento Kings,4,90-91,-2,free throw,False,15,False,True
+2011-03-16,46.65,Cleveland Cavaliers,Sacramento Kings,4,91-91,-1,free throw,False,15,True,True
+2011-01-22,16.5666666667,Cleveland Cavaliers,Chicago Bulls,2,19-31,-14,layup,False,0,False,False
+2011-01-22,20.7,Cleveland Cavaliers,Chicago Bulls,2,29-41,-14,two point shot,False,2,True,False
+2011-12-04,45.2166666667,Cleveland Cavaliers,Minnesota Timberwolves,4,85-124,-41,layup,False,0,False,True
+2011-12-04,45.2166666667,Cleveland Cavaliers,Minnesota Timberwolves,4,85-124,-40,free throw,False,15,False,True
+2011-12-04,45.2166666667,Cleveland Cavaliers,Minnesota Timberwolves,4,86-124,-39,free throw,False,15,True,True
+2011-12-04,46.7166666667,Cleveland Cavaliers,Minnesota Timberwolves,4,91-126,-36,free throw,False,15,True,True
+2011-12-04,46.7166666667,Cleveland Cavaliers,Minnesota Timberwolves,4,92-126,-35,free throw,False,15,True,True
+2011-12-04,47.7,Cleveland Cavaliers,Minnesota Timberwolves,4,94-129,-37,layup,False,0,True,True
+2011-12-04,47.7,Cleveland Cavaliers,Minnesota Timberwolves,4,95-129,-35,free throw,False,15,True,True
+2011-01-14,8.85,Cleveland Cavaliers,Utah Jazz,1,20-21,-3,layup,False,0,True,True
+2011-01-14,11.1666666667,Cleveland Cavaliers,Utah Jazz,1,25-27,-4,layup,False,0,True,True
+2011-01-14,13.0,Cleveland Cavaliers,Utah Jazz,2,28-33,-6,free throw,False,15,True,True
+2011-01-14,13.0,Cleveland Cavaliers,Utah Jazz,2,29-33,-5,free throw,False,15,True,True
+2011-01-14,35.95,Cleveland Cavaliers,Utah Jazz,3,83-93,-11,free throw,False,15,False,True
+2011-01-14,35.95,Cleveland Cavaliers,Utah Jazz,3,83-93,-11,free throw,False,15,False,True
+2011-01-14,39.0166666667,Cleveland Cavaliers,Utah Jazz,4,85-101,-17,free throw,False,15,False,True
+2011-01-14,39.0166666667,Cleveland Cavaliers,Utah Jazz,4,85-101,-17,free throw,False,15,False,True
+2011-01-14,47.45,Cleveland Cavaliers,Utah Jazz,4,99-119,-22,two point jumper,False,15,True,True
+2011-01-15,6.35,Cleveland Cavaliers,Denver Nuggets,1,13-18,-7,dunk,False,0,True,True
+2011-01-15,9.23333333333,Cleveland Cavaliers,Denver Nuggets,1,21-24,-5,dunk,False,0,True,True
+2011-01-15,13.15,Cleveland Cavaliers,Denver Nuggets,2,26-37,-13,two point shot,False,7,True,True
+2011-01-15,32.2166666667,Cleveland Cavaliers,Denver Nuggets,3,63-96,-35,layup,False,0,True,True
+2011-01-15,43.0333333333,Cleveland Cavaliers,Denver Nuggets,4,92-118,-28,two point jumper,False,6,False,True
+2011-01-15,43.5666666667,Cleveland Cavaliers,Denver Nuggets,4,94-120,-28,two point shot,False,1,True,True
+2011-01-15,47.9333333333,Cleveland Cavaliers,Denver Nuggets,4,99-127,-31,three point jumper,False,25,False,True
+2011-01-21,8.18333333333,Cleveland Cavaliers,Milwaukee Bucks,1,21-16,-6,free throw,True,15,False,True
+2011-01-21,8.18333333333,Cleveland Cavaliers,Milwaukee Bucks,1,21-17,-5,free throw,True,15,True,True
+2011-01-21,9.91666666667,Cleveland Cavaliers,Milwaukee Bucks,1,23-21,-3,free throw,True,15,True,True
+2011-01-21,9.91666666667,Cleveland Cavaliers,Milwaukee Bucks,1,23-21,-3,free throw,True,15,False,True
+2011-01-21,10.4333333333,Cleveland Cavaliers,Milwaukee Bucks,1,25-23,-4,layup,True,0,True,True
+2011-01-21,27.1333333333,Cleveland Cavaliers,Milwaukee Bucks,3,57-43,-16,tip shot,True,0,False,True
+2011-01-21,47.15,Cleveland Cavaliers,Milwaukee Bucks,4,100-87,-14,free throw,True,15,True,True
+2011-01-21,47.15,Cleveland Cavaliers,Milwaukee Bucks,4,100-88,-13,free throw,True,15,True,True
+2011-01-28,12.8,Cleveland Cavaliers,Denver Nuggets,2,31-26,-7,two point shot,True,7,True,False
+2011-01-30,10.6,Cleveland Cavaliers,Orlando Magic,1,17-27,-12,two point jumper,False,15,False,True
+2011-01-30,12.4333333333,Cleveland Cavaliers,Orlando Magic,2,17-33,-18,hook shot,False,6,False,True
+2011-01-30,12.8166666667,Cleveland Cavaliers,Orlando Magic,2,19-35,-18,hook shot,False,1,True,True
+2011-01-30,15.55,Cleveland Cavaliers,Orlando Magic,2,28-40,-14,layup,False,0,True,True
+2011-01-30,37.3833333333,Cleveland Cavaliers,Orlando Magic,4,66-85,-21,dunk,False,0,True,True
+2011-01-30,38.5,Cleveland Cavaliers,Orlando Magic,4,66-85,-20,free throw,False,15,False,True
+2011-01-30,38.5,Cleveland Cavaliers,Orlando Magic,4,67-85,-19,free throw,False,15,True,True
+2011-01-30,42.0333333333,Cleveland Cavaliers,Orlando Magic,4,76-96,-22,dunk,False,0,True,True
+2011-01-30,42.5,Cleveland Cavaliers,Orlando Magic,4,78-97,-21,dunk,False,0,True,True
+2011-01-30,42.5,Cleveland Cavaliers,Orlando Magic,4,79-97,-19,free throw,False,15,True,True
+2011-01-30,44.55,Cleveland Cavaliers,Orlando Magic,4,85-99,-16,dunk,False,0,True,True
+2011-01-30,47.4333333333,Cleveland Cavaliers,Orlando Magic,4,86-101,-16,free throw,False,15,True,True
+2011-01-30,47.4333333333,Cleveland Cavaliers,Orlando Magic,4,87-101,-15,free throw,False,15,True,True
+2011-01-31,16.45,Cleveland Cavaliers,Miami Heat,2,33-45,-14,dunk,False,0,True,True
+2011-01-31,33.0333333333,Cleveland Cavaliers,Miami Heat,3,71-79,-10,layup,False,0,False,True
+2011-01-31,34.7666666667,Cleveland Cavaliers,Miami Heat,3,72-84,-13,free throw,False,15,True,True
+2011-01-31,34.7666666667,Cleveland Cavaliers,Miami Heat,3,72-84,-13,free throw,False,15,False,True
+2011-01-31,44.5,Cleveland Cavaliers,Miami Heat,4,83-114,-33,two point shot,False,13,False,True
+2011-02-02,10.4833333333,Cleveland Cavaliers,Indiana Pacers,1,28-23,-7,dunk,True,0,True,False
+2011-02-02,14.3333333333,Cleveland Cavaliers,Indiana Pacers,2,38-30,-9,free throw,True,15,False,False
+2011-02-02,14.3333333333,Cleveland Cavaliers,Indiana Pacers,2,38-31,-8,free throw,True,15,True,False
+2011-02-02,15.3666666667,Cleveland Cavaliers,Indiana Pacers,2,41-33,-10,layup,True,0,False,False
+2011-02-05,16.45,Cleveland Cavaliers,Portland Trail Blazers,2,33-34,-1,two point jumper,True,19,False,False
+2011-02-13,36.5166666667,Cleveland Cavaliers,Washington Wizards,4,95-79,-18,layup,True,0,False,False
+2011-02-13,38.95,Cleveland Cavaliers,Washington Wizards,4,99-83,-18,dunk,True,0,True,False
+2011-02-13,47.1166666667,Cleveland Cavaliers,Washington Wizards,4,115-99,-17,free throw,True,15,True,False
+2011-02-13,47.1166666667,Cleveland Cavaliers,Washington Wizards,4,115-100,-16,free throw,True,15,True,False
+2011-02-23,13.8166666667,Cleveland Cavaliers,Houston Rockets,2,33-33,-2,two point shot,True,6,True,False
+2011-02-23,16.2,Cleveland Cavaliers,Houston Rockets,2,33-41,6,two point shot,True,5,True,False
+2011-02-23,17.5333333333,Cleveland Cavaliers,Houston Rockets,2,38-47,7,two point jumper,True,17,False,False
+2011-02-23,38.25,Cleveland Cavaliers,Houston Rockets,4,98-93,-7,two point shot,True,4,True,False
+2011-02-23,38.8,Cleveland Cavaliers,Houston Rockets,4,98-93,-7,two point shot,True,5,False,False
+2011-02-23,40.6,Cleveland Cavaliers,Houston Rockets,4,102-98,-6,two point shot,True,5,True,False
+2011-02-23,47.4833333333,Cleveland Cavaliers,Houston Rockets,4,119-111,-10,dunk,True,0,True,False
+2011-02-23,47.9166666667,Cleveland Cavaliers,Houston Rockets,4,124-119,-7,two point shot,True,1,True,False
+2011-03-02,1.43333333333,Cleveland Cavaliers,San Antonio Spurs,1,2-2,-2,layup,True,0,True,True
+2011-03-02,2.83333333333,Cleveland Cavaliers,San Antonio Spurs,1,6-6,-2,two point jumper,True,16,False,True
+2011-03-02,4.06666666667,Cleveland Cavaliers,San Antonio Spurs,1,8-8,-2,two point shot,True,6,False,True
+2011-03-02,4.13333333333,Cleveland Cavaliers,San Antonio Spurs,1,8-10,0,two point jumper,True,18,True,True
+2011-03-02,4.6,Cleveland Cavaliers,San Antonio Spurs,1,10-10,-1,free throw,True,15,False,True
+2011-03-02,4.6,Cleveland Cavaliers,San Antonio Spurs,1,10-10,-1,free throw,True,15,False,True
+2011-03-02,6.38333333333,Cleveland Cavaliers,San Antonio Spurs,1,14-12,-4,two point jumper,True,19,True,True
+2011-03-02,8.21666666667,Cleveland Cavaliers,San Antonio Spurs,1,18-18,-2,two point shot,True,7,True,True
+2011-03-02,20.3,Cleveland Cavaliers,San Antonio Spurs,2,46-43,-5,layup,True,0,True,True
+2011-03-02,26.2166666667,Cleveland Cavaliers,San Antonio Spurs,3,64-57,-9,dunk,True,0,True,True
+2011-03-02,27.15,Cleveland Cavaliers,San Antonio Spurs,3,66-57,-11,layup,True,0,False,True
+2011-03-02,32.1666666667,Cleveland Cavaliers,San Antonio Spurs,3,80-61,-21,layup,True,0,False,True
+2011-03-02,32.1833333333,Cleveland Cavaliers,San Antonio Spurs,3,80-62,-19,free throw,True,15,True,True
+2011-03-02,32.1833333333,Cleveland Cavaliers,San Antonio Spurs,3,80-63,-18,free throw,True,15,True,True
+2011-03-02,34.1,Cleveland Cavaliers,San Antonio Spurs,3,85-67,-20,two point shot,True,1,False,True
+2011-03-02,35.35,Cleveland Cavaliers,San Antonio Spurs,3,89-71,-20,two point shot,True,1,True,True
+2011-03-02,35.35,Cleveland Cavaliers,San Antonio Spurs,3,89-72,-18,free throw,True,15,True,True
+2011-03-02,42.7,Cleveland Cavaliers,San Antonio Spurs,4,105-80,-27,two point jumper,True,14,False,True
+2011-03-02,42.7333333333,Cleveland Cavaliers,San Antonio Spurs,4,105-82,-25,layup,True,0,True,True
+2011-03-02,44.1,Cleveland Cavaliers,San Antonio Spurs,4,107-87,-22,two point shot,True,1,True,True
+2011-03-02,47.0,Cleveland Cavaliers,San Antonio Spurs,4,109-99,-12,dunk,True,0,True,True
+2011-03-06,0.8,Cleveland Cavaliers,New Orleans Pelicans,1,0-0,-2,layup,True,0,False,False
+2011-03-06,0.966666666667,Cleveland Cavaliers,New Orleans Pelicans,1,0-2,0,two point jumper,True,18,True,False
+2011-03-06,3.63333333333,Cleveland Cavaliers,New Orleans Pelicans,1,4-6,0,layup,True,0,True,False
+2011-03-06,6.91666666667,Cleveland Cavaliers,New Orleans Pelicans,1,13-12,-3,two point jumper,True,18,True,False
+2011-03-06,17.2166666667,Cleveland Cavaliers,New Orleans Pelicans,2,33-36,1,two point jumper,True,9,False,False
+2011-03-06,18.3833333333,Cleveland Cavaliers,New Orleans Pelicans,2,35-36,0,free throw,True,15,False,False
+2011-03-06,18.3833333333,Cleveland Cavaliers,New Orleans Pelicans,2,35-36,0,free throw,True,15,False,False
+2011-03-06,24.3166666667,Cleveland Cavaliers,New Orleans Pelicans,3,51-50,-3,layup,True,0,True,False
+2011-03-06,24.3166666667,Cleveland Cavaliers,New Orleans Pelicans,3,51-51,-1,free throw,True,15,True,False
+2011-03-06,26.9,Cleveland Cavaliers,New Orleans Pelicans,3,53-53,-1,free throw,True,15,False,False
+2011-03-06,26.9,Cleveland Cavaliers,New Orleans Pelicans,3,53-53,-1,free throw,True,15,False,False
+2011-03-06,31.1666666667,Cleveland Cavaliers,New Orleans Pelicans,3,60-61,-2,three point jumper,True,24,False,False
+2011-03-06,42.85,Cleveland Cavaliers,New Orleans Pelicans,4,86-75,-12,free throw,True,15,True,False
+2011-03-06,42.85,Cleveland Cavaliers,New Orleans Pelicans,4,86-76,-11,free throw,True,15,True,False
+2011-03-09,0.816666666667,Cleveland Cavaliers,Milwaukee Bucks,1,2-0,0,layup,False,0,True,True
+2011-03-09,1.45,Cleveland Cavaliers,Milwaukee Bucks,1,2-0,0,two point jumper,False,13,False,True
+2011-03-09,2.0,Cleveland Cavaliers,Milwaukee Bucks,1,2-0,0,dunk,False,0,False,True
+2011-03-09,4.95,Cleveland Cavaliers,Milwaukee Bucks,1,8-8,-2,dunk,False,0,True,True
+2011-03-09,7.31666666667,Cleveland Cavaliers,Milwaukee Bucks,1,12-14,-4,layup,False,0,False,True
+2011-03-09,8.7,Cleveland Cavaliers,Milwaukee Bucks,1,17-14,1,layup,False,0,True,True
+2011-03-09,9.21666666667,Cleveland Cavaliers,Milwaukee Bucks,1,17-16,-1,layup,False,0,False,True
+2011-03-09,9.51666666667,Cleveland Cavaliers,Milwaukee Bucks,1,19-16,1,dunk,False,0,True,True
+2011-03-09,9.85,Cleveland Cavaliers,Milwaukee Bucks,1,21-16,3,layup,False,0,True,True
+2011-03-09,9.85,Cleveland Cavaliers,Milwaukee Bucks,1,22-16,5,free throw,False,15,True,True
+2011-03-09,25.6333333333,Cleveland Cavaliers,Milwaukee Bucks,3,51-62,-13,two point jumper,False,14,True,True
+2011-03-09,30.45,Cleveland Cavaliers,Milwaukee Bucks,3,55-76,-23,two point jumper,False,18,True,True
+2011-03-13,2.55,Cleveland Cavaliers,Oklahoma City Thunder,1,7-5,-4,layup,True,0,False,False
+2011-03-13,12.3333333333,Cleveland Cavaliers,Oklahoma City Thunder,2,29-16,-15,layup,True,0,True,False
+2011-03-13,12.3333333333,Cleveland Cavaliers,Oklahoma City Thunder,2,29-16,-14,free throw,True,15,False,False
+2011-03-13,12.8,Cleveland Cavaliers,Oklahoma City Thunder,2,29-16,-15,layup,True,0,False,False
+2011-03-13,16.85,Cleveland Cavaliers,Oklahoma City Thunder,2,40-22,-19,free throw,True,15,True,False
+2011-03-13,16.85,Cleveland Cavaliers,Oklahoma City Thunder,2,40-23,-18,free throw,True,15,True,False
+2011-03-13,18.45,Cleveland Cavaliers,Oklahoma City Thunder,2,44-26,-20,dunk,True,0,False,False
+2011-03-13,20.9166666667,Cleveland Cavaliers,Oklahoma City Thunder,2,48-31,-19,layup,True,0,False,False
+2011-03-13,24.3166666667,Cleveland Cavaliers,Oklahoma City Thunder,3,50-40,-12,dunk,True,0,True,False
+2011-03-13,24.8166666667,Cleveland Cavaliers,Oklahoma City Thunder,3,50-40,-12,two point jumper,True,9,False,False
+2011-03-13,25.4333333333,Cleveland Cavaliers,Oklahoma City Thunder,3,52-41,-12,free throw,True,15,True,False
+2011-03-13,25.4333333333,Cleveland Cavaliers,Oklahoma City Thunder,3,52-42,-11,free throw,True,15,True,False
+2011-03-13,28.85,Cleveland Cavaliers,Oklahoma City Thunder,3,61-49,-14,two point jumper,True,18,True,False
+2011-03-13,29.45,Cleveland Cavaliers,Oklahoma City Thunder,3,61-49,-14,two point jumper,True,5,False,False
+2011-03-17,2.83333333333,Cleveland Cavaliers,Portland Trail Blazers,1,2-9,-9,hook shot,False,6,False,True
+2011-03-17,15.1833333333,Cleveland Cavaliers,Portland Trail Blazers,2,14-43,-31,two point jumper,False,18,False,True
+2011-03-17,17.3833333333,Cleveland Cavaliers,Portland Trail Blazers,2,18-48,-31,free throw,False,15,True,True
+2011-03-17,17.3833333333,Cleveland Cavaliers,Portland Trail Blazers,2,18-49,-32,free throw,False,15,True,True
+2011-03-17,19.8833333333,Cleveland Cavaliers,Portland Trail Blazers,2,22-56,-36,layup,False,0,True,True
+2011-03-17,23.6333333333,Cleveland Cavaliers,Portland Trail Blazers,2,31-65,-36,two point jumper,False,4,False,True
+2011-03-17,24.3666666667,Cleveland Cavaliers,Portland Trail Blazers,3,33-65,-34,two point jumper,False,4,False,True
+2011-03-17,24.8833333333,Cleveland Cavaliers,Portland Trail Blazers,3,33-67,-36,layup,False,0,False,True
+2011-03-17,25.7,Cleveland Cavaliers,Portland Trail Blazers,3,33-70,-39,two point jumper,False,19,False,True
+2011-03-17,26.65,Cleveland Cavaliers,Portland Trail Blazers,3,33-74,-42,free throw,False,15,False,True
+2011-03-17,26.65,Cleveland Cavaliers,Portland Trail Blazers,3,34-74,-41,free throw,False,15,True,True
+2011-03-17,27.4333333333,Cleveland Cavaliers,Portland Trail Blazers,3,35-74,-40,free throw,False,15,True,True
+2011-03-17,27.4333333333,Cleveland Cavaliers,Portland Trail Blazers,3,36-74,-39,free throw,False,15,True,True
+2011-03-17,29.1666666667,Cleveland Cavaliers,Portland Trail Blazers,3,38-79,-43,dunk,False,0,False,True
+2011-03-21,1.61666666667,Cleveland Cavaliers,Orlando Magic,1,0-2,0,two point shot,True,6,True,False
+2011-03-21,2.2,Cleveland Cavaliers,Orlando Magic,1,2-2,-2,two point jumper,True,1,False,False
+2011-03-21,3.2,Cleveland Cavaliers,Orlando Magic,1,5-4,-3,two point jumper,True,20,False,False
+2011-03-21,13.5166666667,Cleveland Cavaliers,Orlando Magic,2,32-15,-19,two point jumper,True,6,False,False
+2011-03-21,18.0333333333,Cleveland Cavaliers,Orlando Magic,2,40-28,-14,two point shot,True,10,True,False
+2011-03-21,25.95,Cleveland Cavaliers,Orlando Magic,3,59-40,-20,free throw,True,15,False,False
+2011-03-21,25.95,Cleveland Cavaliers,Orlando Magic,3,59-41,-19,free throw,True,15,True,False
+2011-03-21,27.2166666667,Cleveland Cavaliers,Orlando Magic,3,65-41,-26,two point jumper,True,18,False,False
+2011-03-21,27.2666666667,Cleveland Cavaliers,Orlando Magic,3,65-42,-24,free throw,True,15,True,False
+2011-03-21,27.2666666667,Cleveland Cavaliers,Orlando Magic,3,65-43,-23,free throw,True,15,True,False
+2011-03-21,29.4833333333,Cleveland Cavaliers,Orlando Magic,3,67-43,-26,tip shot,True,0,False,False
+2011-03-25,9.78333333333,Cleveland Cavaliers,Detroit Pistons,1,17-24,5,two point jumper,True,4,True,True
+2011-03-25,9.78333333333,Cleveland Cavaliers,Detroit Pistons,1,17-24,6,free throw,True,15,False,True
+2011-03-25,12.8833333333,Cleveland Cavaliers,Detroit Pistons,2,24-28,2,dunk,True,0,True,True
+2011-03-25,13.6166666667,Cleveland Cavaliers,Detroit Pistons,2,27-30,1,layup,True,0,True,True
+2011-03-25,13.6166666667,Cleveland Cavaliers,Detroit Pistons,2,27-31,3,free throw,True,15,True,True
+2011-03-25,33.25,Cleveland Cavaliers,Detroit Pistons,3,66-70,3,free throw,True,15,True,True
+2011-03-25,33.25,Cleveland Cavaliers,Detroit Pistons,3,66-71,4,free throw,True,15,True,True
+2011-03-25,33.7,Cleveland Cavaliers,Detroit Pistons,3,66-71,3,layup,True,0,False,True
+2011-03-25,35.0166666667,Cleveland Cavaliers,Detroit Pistons,3,68-73,3,layup,True,0,False,True
+2011-03-27,10.15,Cleveland Cavaliers,Atlanta Hawks,1,19-15,-6,dunk,True,0,True,False
+2011-03-27,13.8166666667,Cleveland Cavaliers,Atlanta Hawks,2,25-22,-5,dunk,True,0,True,False
+2011-03-27,14.7666666667,Cleveland Cavaliers,Atlanta Hawks,2,29-22,-9,two point shot,True,5,False,False
+2011-03-27,17.6666666667,Cleveland Cavaliers,Atlanta Hawks,2,35-29,-8,layup,True,0,False,False
+2011-03-27,27.45,Cleveland Cavaliers,Atlanta Hawks,3,56-46,-11,free throw,True,15,True,False
+2011-03-27,27.45,Cleveland Cavaliers,Atlanta Hawks,3,56-47,-10,free throw,True,15,True,False
+2011-03-27,28.0333333333,Cleveland Cavaliers,Atlanta Hawks,3,56-47,-11,two point jumper,True,7,False,False
+2011-03-27,30.85,Cleveland Cavaliers,Atlanta Hawks,3,63-52,-13,layup,True,0,True,False
+2011-03-27,30.85,Cleveland Cavaliers,Atlanta Hawks,3,63-52,-12,free throw,True,15,False,False
+2011-03-27,32.5,Cleveland Cavaliers,Atlanta Hawks,3,67-56,-12,free throw,True,15,False,False
+2011-03-27,32.5,Cleveland Cavaliers,Atlanta Hawks,3,67-57,-11,free throw,True,15,True,False
+2012-01-29,14.0,Cleveland Cavaliers,Boston Celtics,2,26-28,-4,two point jumper,False,20,False,True
+2012-01-29,17.2833333333,Cleveland Cavaliers,Boston Celtics,2,31-33,-4,two point shot,False,8,False,True
+2012-01-29,34.85,Cleveland Cavaliers,Boston Celtics,3,62-69,-9,two point shot,False,5,True,True
+2012-01-29,40.0666666667,Cleveland Cavaliers,Boston Celtics,4,71-76,-7,two point shot,False,3,False,True
+2012-01-31,11.8833333333,Cleveland Cavaliers,Boston Celtics,1,28-24,-6,two point jumper,True,19,False,False
+2012-01-31,12.3833333333,Cleveland Cavaliers,Boston Celtics,2,28-24,-6,two point shot,True,18,False,False
+2012-01-31,13.5666666667,Cleveland Cavaliers,Boston Celtics,2,32-25,-8,free throw,True,15,True,False
+2012-01-31,13.5666666667,Cleveland Cavaliers,Boston Celtics,2,32-26,-7,free throw,True,15,True,False
+2012-01-31,15.2166666667,Cleveland Cavaliers,Boston Celtics,2,32-26,-8,two point jumper,True,19,False,False
+2012-01-31,33.6166666667,Cleveland Cavaliers,Boston Celtics,3,75-55,-22,layup,True,0,True,False
+2012-01-31,36.8166666667,Cleveland Cavaliers,Boston Celtics,4,76-58,-20,two point jumper,True,21,False,False
+2012-01-31,38.55,Cleveland Cavaliers,Boston Celtics,4,76-61,-16,free throw,True,15,True,False
+2012-01-31,38.55,Cleveland Cavaliers,Boston Celtics,4,76-62,-15,free throw,True,15,True,False
+2012-02-28,15.3,Cleveland Cavaliers,Boston Celtics,2,33-20,-15,two point jumper,True,15,False,False
+2012-01-01,9.66666666667,Cleveland Cavaliers,Brooklyn Nets,1,18-18,-2,two point shot,True,6,False,True
+2012-01-01,11.1666666667,Cleveland Cavaliers,Brooklyn Nets,1,22-20,-4,dunk,True,0,True,True
+2012-01-01,11.1666666667,Cleveland Cavaliers,Brooklyn Nets,1,22-21,-2,free throw,True,15,True,True
+2012-01-27,33.6666666667,Cleveland Cavaliers,Brooklyn Nets,3,68-56,-14,two point jumper,True,1,True,False
+2012-01-27,37.4,Cleveland Cavaliers,Brooklyn Nets,4,76-61,-17,hook shot,True,2,False,False
+2012-01-27,37.45,Cleveland Cavaliers,Brooklyn Nets,4,76-61,-16,free throw,True,15,False,False
+2012-01-27,37.45,Cleveland Cavaliers,Brooklyn Nets,4,76-61,-16,free throw,True,15,False,False
+2012-03-19,8.03333333333,Cleveland Cavaliers,Brooklyn Nets,1,22-11,9,two point shot,False,1,True,True
+2012-03-19,12.0,Cleveland Cavaliers,Brooklyn Nets,1,30-17,12,free throw,False,15,False,True
+2012-03-19,12.0,Cleveland Cavaliers,Brooklyn Nets,1,30-17,12,free throw,False,15,False,True
+2012-03-19,12.7666666667,Cleveland Cavaliers,Brooklyn Nets,2,32-17,13,hook shot,False,9,True,True
+2012-03-19,14.3666666667,Cleveland Cavaliers,Brooklyn Nets,2,36-25,9,two point shot,False,1,True,True
+2012-03-19,14.7,Cleveland Cavaliers,Brooklyn Nets,2,38-25,11,layup,False,0,True,True
+2012-03-19,31.6666666667,Cleveland Cavaliers,Brooklyn Nets,3,67-68,-3,dunk,False,0,True,True
+2012-03-19,31.6666666667,Cleveland Cavaliers,Brooklyn Nets,3,67-68,-2,free throw,False,15,False,True
+2012-04-08,13.8166666667,Cleveland Cavaliers,Brooklyn Nets,2,30-29,-1,two point jumper,False,18,False,False
+2012-04-08,15.3333333333,Cleveland Cavaliers,Brooklyn Nets,2,33-33,-1,free throw,False,15,True,False
+2012-04-08,15.3333333333,Cleveland Cavaliers,Brooklyn Nets,2,33-33,-1,free throw,False,15,False,False
+2012-04-08,33.55,Cleveland Cavaliers,Brooklyn Nets,3,67-74,-9,two point shot,False,1,False,False
+2012-04-08,39.0666666667,Cleveland Cavaliers,Brooklyn Nets,4,77-83,-7,free throw,False,15,True,False
+2012-04-08,39.0666666667,Cleveland Cavaliers,Brooklyn Nets,4,78-83,-6,free throw,False,15,True,False
+2012-01-25,7.7,Cleveland Cavaliers,New York Knicks,1,19-18,-3,two point jumper,True,15,True,True
+2012-01-25,9.71666666667,Cleveland Cavaliers,New York Knicks,1,19-20,-1,two point jumper,True,16,False,True
+2012-01-25,11.95,Cleveland Cavaliers,New York Knicks,1,23-27,2,two point jumper,True,5,False,True
+2012-01-25,14.3166666667,Cleveland Cavaliers,New York Knicks,2,25-29,2,two point jumper,True,7,False,True
+2012-01-25,33.1166666667,Cleveland Cavaliers,New York Knicks,3,62-62,-2,two point jumper,True,19,False,True
+2012-01-25,33.9666666667,Cleveland Cavaliers,New York Knicks,3,62-67,3,two point jumper,True,14,True,True
+2012-01-25,34.6833333333,Cleveland Cavaliers,New York Knicks,3,64-69,3,two point jumper,True,18,True,True
+2012-02-28,3.68333333333,Cleveland Cavaliers,New York Knicks,1,9-3,4,layup,False,0,True,False
+2012-02-28,6.63333333333,Cleveland Cavaliers,New York Knicks,1,17-12,3,layup,False,0,False,False
+2012-03-31,8.2,Cleveland Cavaliers,New York Knicks,1,13-17,-6,two point jumper,False,5,False,False
+2012-03-31,38.7166666667,Cleveland Cavaliers,New York Knicks,4,62-70,-10,dunk,False,0,True,False
+2012-03-31,39.8833333333,Cleveland Cavaliers,New York Knicks,4,66-70,-6,hook shot,False,4,True,False
+2012-03-31,42.7,Cleveland Cavaliers,New York Knicks,4,72-76,-6,layup,False,0,True,False
+2012-04-20,11.5333333333,Cleveland Cavaliers,New York Knicks,1,20-23,1,two point jumper,True,15,True,True
+2012-04-20,12.3833333333,Cleveland Cavaliers,New York Knicks,2,20-27,5,layup,True,0,True,True
+2012-04-20,13.0,Cleveland Cavaliers,New York Knicks,2,20-27,5,layup,True,0,False,True
+2012-04-20,13.8,Cleveland Cavaliers,New York Knicks,2,22-29,5,dunk,True,0,True,True
+2012-04-20,34.2333333333,Cleveland Cavaliers,New York Knicks,3,56-69,12,free throw,True,15,False,True
+2012-04-20,34.2333333333,Cleveland Cavaliers,New York Knicks,3,56-70,13,free throw,True,15,True,True
+2012-04-20,34.75,Cleveland Cavaliers,New York Knicks,3,56-72,14,two point jumper,True,20,True,True
+2012-04-20,38.95,Cleveland Cavaliers,New York Knicks,4,62-81,17,two point jumper,True,18,True,True
+2012-04-20,41.4833333333,Cleveland Cavaliers,New York Knicks,4,65-83,16,two point jumper,True,17,False,True
+2012-04-20,43.2,Cleveland Cavaliers,New York Knicks,4,72-87,13,dunk,True,0,True,True
+2012-04-20,47.7666666667,Cleveland Cavaliers,New York Knicks,4,87-98,9,layup,True,0,True,True
+2012-02-11,13.2166666667,Cleveland Cavaliers,Philadelphia 76ers,2,25-19,-8,two point jumper,True,3,False,False
+2012-02-11,18.2833333333,Cleveland Cavaliers,Philadelphia 76ers,2,44-29,-17,two point shot,True,1,False,False
+2012-02-11,19.75,Cleveland Cavaliers,Philadelphia 76ers,2,48-29,-21,two point shot,True,1,False,False
+2012-02-11,22.6166666667,Cleveland Cavaliers,Philadelphia 76ers,2,54-37,-19,layup,True,0,True,False
+2012-02-11,23.1166666667,Cleveland Cavaliers,Philadelphia 76ers,2,56-39,-19,layup,True,0,True,False
+2012-02-11,36.9666666667,Cleveland Cavaliers,Philadelphia 76ers,4,81-60,-23,two point jumper,True,20,False,False
+2012-02-11,38.5,Cleveland Cavaliers,Philadelphia 76ers,4,83-64,-21,hook shot,True,1,True,False
+2012-03-27,9.3,Cleveland Cavaliers,Philadelphia 76ers,1,16-21,-6,free throw,False,15,False,True
+2012-03-27,9.3,Cleveland Cavaliers,Philadelphia 76ers,1,16-21,-6,free throw,False,15,False,True
+2012-03-27,13.8333333333,Cleveland Cavaliers,Philadelphia 76ers,2,24-32,-10,two point shot,False,1,True,True
+2012-03-27,46.2333333333,Cleveland Cavaliers,Philadelphia 76ers,4,79-97,-20,layup,False,0,True,True
+2012-04-18,8.0,Cleveland Cavaliers,Philadelphia 76ers,1,20-18,-4,two point shot,True,8,False,True
+2012-04-18,9.21666666667,Cleveland Cavaliers,Philadelphia 76ers,1,20-20,-2,layup,True,0,True,True
+2012-04-18,9.21666666667,Cleveland Cavaliers,Philadelphia 76ers,1,20-20,-1,free throw,True,15,False,True
+2012-04-18,13.2,Cleveland Cavaliers,Philadelphia 76ers,2,30-23,-8,free throw,True,15,True,True
+2012-04-18,13.2,Cleveland Cavaliers,Philadelphia 76ers,2,30-24,-7,free throw,True,15,True,True
+2012-04-18,14.4666666667,Cleveland Cavaliers,Philadelphia 76ers,2,34-28,-8,two point jumper,True,17,True,True
+2012-04-18,15.8166666667,Cleveland Cavaliers,Philadelphia 76ers,2,36-31,-7,hook shot,True,7,False,True
+2012-04-18,32.45,Cleveland Cavaliers,Philadelphia 76ers,3,72-59,-15,layup,True,0,False,True
+2012-04-18,34.9333333333,Cleveland Cavaliers,Philadelphia 76ers,3,81-61,-22,layup,True,0,True,True
+2012-04-18,39.8833333333,Cleveland Cavaliers,Philadelphia 76ers,4,92-70,-24,two point jumper,True,15,True,True
+2012-04-18,43.7333333333,Cleveland Cavaliers,Philadelphia 76ers,4,100-77,-25,two point shot,True,9,False,True
+2012-04-18,44.9,Cleveland Cavaliers,Philadelphia 76ers,4,100-79,-23,two point jumper,True,17,True,True
+2012-04-18,46.1166666667,Cleveland Cavaliers,Philadelphia 76ers,4,101-81,-22,two point jumper,True,4,True,True
+2012-04-18,46.1166666667,Cleveland Cavaliers,Philadelphia 76ers,4,101-82,-20,free throw,True,15,True,True
+2012-04-18,47.95,Cleveland Cavaliers,Philadelphia 76ers,4,103-87,-18,two point jumper,True,19,False,True
+2012-03-13,13.6333333333,Cleveland Cavaliers,Toronto Raptors,2,23-26,1,two point jumper,True,19,False,False
+2012-03-13,14.3,Cleveland Cavaliers,Toronto Raptors,2,23-26,1,layup,True,0,False,False
+2012-03-13,15.5833333333,Cleveland Cavaliers,Toronto Raptors,2,26-30,2,two point shot,True,1,True,False
+2012-04-06,10.6833333333,Cleveland Cavaliers,Toronto Raptors,1,20-17,1,two point shot,False,4,True,True
+2012-04-06,11.9833333333,Cleveland Cavaliers,Toronto Raptors,1,20-22,-4,two point jumper,False,22,False,True
+2012-04-06,12.4,Cleveland Cavaliers,Toronto Raptors,2,20-22,-4,two point shot,False,7,False,True
+2012-04-06,13.5666666667,Cleveland Cavaliers,Toronto Raptors,2,21-27,-7,free throw,False,15,True,True
+2012-04-06,13.5666666667,Cleveland Cavaliers,Toronto Raptors,2,22-27,-6,free throw,False,15,True,True
+2012-04-06,36.5833333333,Cleveland Cavaliers,Toronto Raptors,4,51-63,-14,two point shot,False,9,False,True
+2012-04-06,39.8666666667,Cleveland Cavaliers,Toronto Raptors,4,61-66,-7,layup,False,0,True,True
+2012-04-06,42.2,Cleveland Cavaliers,Toronto Raptors,4,68-68,-1,free throw,False,15,False,True
+2012-04-06,42.2,Cleveland Cavaliers,Toronto Raptors,4,68-68,-1,free throw,False,15,False,True
+2012-04-06,43.4166666667,Cleveland Cavaliers,Toronto Raptors,4,69-68,0,free throw,False,15,True,True
+2012-04-06,43.4166666667,Cleveland Cavaliers,Toronto Raptors,4,69-68,0,free throw,False,15,False,True
+2012-04-06,44.45,Cleveland Cavaliers,Toronto Raptors,4,73-68,3,two point shot,False,1,True,True
+2012-04-06,44.9666666667,Cleveland Cavaliers,Toronto Raptors,4,73-68,4,free throw,False,15,False,True
+2012-04-06,44.9666666667,Cleveland Cavaliers,Toronto Raptors,4,74-68,5,free throw,False,15,True,True
+2012-02-08,30.8166666667,Cleveland Cavaliers,Los Angeles Clippers,3,50-61,9,layup,True,0,False,True
+2012-02-08,36.6833333333,Cleveland Cavaliers,Los Angeles Clippers,4,64-70,5,free throw,True,15,False,True
+2012-02-08,36.6833333333,Cleveland Cavaliers,Los Angeles Clippers,4,64-71,6,free throw,True,15,True,True
+2012-03-25,13.1166666667,Cleveland Cavaliers,Phoenix Suns,2,29-24,-7,two point jumper,True,4,True,True
+2012-03-25,16.7833333333,Cleveland Cavaliers,Phoenix Suns,2,38-31,-9,two point shot,True,1,False,True
+2012-03-25,20.1,Cleveland Cavaliers,Phoenix Suns,2,44-33,-12,free throw,True,15,False,True
+2012-03-25,20.1,Cleveland Cavaliers,Phoenix Suns,2,44-34,-11,free throw,True,15,True,True
+2012-03-25,20.6833333333,Cleveland Cavaliers,Phoenix Suns,2,46-34,-14,two point shot,True,9,False,True
+2012-03-25,22.25,Cleveland Cavaliers,Phoenix Suns,2,51-36,-17,two point shot,True,3,False,True
+2012-03-25,22.85,Cleveland Cavaliers,Phoenix Suns,2,53-37,-17,free throw,True,15,True,True
+2012-03-25,22.85,Cleveland Cavaliers,Phoenix Suns,2,53-38,-16,free throw,True,15,True,True
+2012-01-20,32.7,Cleveland Cavaliers,Chicago Bulls,3,79-57,-24,hook shot,True,1,False,True
+2012-01-20,35.4166666667,Cleveland Cavaliers,Chicago Bulls,3,85-59,-28,two point jumper,True,20,True,True
+2012-01-20,35.8833333333,Cleveland Cavaliers,Chicago Bulls,3,85-60,-26,free throw,True,15,True,True
+2012-01-20,35.8833333333,Cleveland Cavaliers,Chicago Bulls,3,85-61,-25,free throw,True,15,True,True
+2012-01-20,38.95,Cleveland Cavaliers,Chicago Bulls,4,91-61,-32,two point jumper,True,16,False,True
+2012-03-02,12.8166666667,Cleveland Cavaliers,Chicago Bulls,2,30-28,-4,two point jumper,True,20,False,True
+2012-03-02,14.0,Cleveland Cavaliers,Chicago Bulls,2,32-32,-2,layup,True,0,True,True
+2012-03-02,14.0,Cleveland Cavaliers,Chicago Bulls,2,32-33,0,free throw,True,15,True,True
+2012-03-02,15.9,Cleveland Cavaliers,Chicago Bulls,2,34-33,-3,layup,True,0,False,True
+2012-03-02,36.8333333333,Cleveland Cavaliers,Chicago Bulls,4,94-71,-25,hook shot,True,10,False,True
+2012-03-02,37.0833333333,Cleveland Cavaliers,Chicago Bulls,4,94-73,-23,two point jumper,True,19,True,True
+2012-03-02,40.0,Cleveland Cavaliers,Chicago Bulls,4,99-76,-24,free throw,True,15,False,True
+2012-03-02,40.0,Cleveland Cavaliers,Chicago Bulls,4,99-77,-23,free throw,True,15,True,True
+2012-04-26,10.8333333333,Cleveland Cavaliers,Chicago Bulls,1,20-22,-4,two point jumper,False,14,False,True
+2012-04-26,11.65,Cleveland Cavaliers,Chicago Bulls,1,24-26,-4,two point shot,False,6,True,True
+2012-04-26,11.65,Cleveland Cavaliers,Chicago Bulls,1,25-26,-2,free throw,False,15,True,True
+2012-04-26,14.0,Cleveland Cavaliers,Chicago Bulls,2,27-30,-5,two point jumper,False,16,False,True
+2012-04-26,14.7,Cleveland Cavaliers,Chicago Bulls,2,27-32,-7,two point jumper,False,18,False,True
+2012-04-26,45.25,Cleveland Cavaliers,Chicago Bulls,4,71-101,-32,two point jumper,False,18,True,True
+2012-04-26,46.7833333333,Cleveland Cavaliers,Chicago Bulls,4,75-105,-32,two point jumper,False,18,True,True
+2012-12-28,9.16666666667,Cleveland Cavaliers,Detroit Pistons,1,21-16,3,layup,False,0,True,False
+2012-12-28,11.3833333333,Cleveland Cavaliers,Detroit Pistons,1,23-20,1,two point jumper,False,6,False,False
+2012-12-28,12.8833333333,Cleveland Cavaliers,Detroit Pistons,2,27-23,2,layup,False,0,True,False
+2012-12-28,12.8833333333,Cleveland Cavaliers,Detroit Pistons,2,28-23,4,free throw,False,15,True,False
+2012-12-28,34.7666666667,Cleveland Cavaliers,Detroit Pistons,3,74-68,5,free throw,False,15,False,False
+2012-12-28,34.7666666667,Cleveland Cavaliers,Detroit Pistons,3,75-68,6,free throw,False,15,True,False
+2012-12-28,35.8166666667,Cleveland Cavaliers,Detroit Pistons,3,79-68,9,two point jumper,False,19,True,False
+2012-12-28,39.3166666667,Cleveland Cavaliers,Detroit Pistons,4,88-73,13,layup,False,0,True,False
+2012-12-28,39.3166666667,Cleveland Cavaliers,Detroit Pistons,4,89-73,15,free throw,False,15,True,False
+2012-12-28,40.1,Cleveland Cavaliers,Detroit Pistons,4,91-76,13,two point jumper,False,22,True,False
+2012-12-28,43.5666666667,Cleveland Cavaliers,Detroit Pistons,4,95-80,13,two point jumper,False,16,False,False
+2012-12-28,43.85,Cleveland Cavaliers,Detroit Pistons,4,97-80,15,dunk,False,0,True,False
+2012-12-28,45.9,Cleveland Cavaliers,Detroit Pistons,4,102-85,16,free throw,False,15,True,False
+2012-12-28,45.9,Cleveland Cavaliers,Detroit Pistons,4,103-85,17,free throw,False,15,True,False
+2012-12-30,11.0,Cleveland Cavaliers,Indiana Pacers,1,22-20,1,free throw,False,15,False,False
+2012-12-30,11.0,Cleveland Cavaliers,Indiana Pacers,1,22-20,1,free throw,False,15,False,False
+2012-12-30,11.5,Cleveland Cavaliers,Indiana Pacers,1,24-22,0,dunk,False,0,True,False
+2012-12-30,15.95,Cleveland Cavaliers,Indiana Pacers,2,29-28,-1,two point jumper,False,20,False,False
+2012-12-30,17.7833333333,Cleveland Cavaliers,Indiana Pacers,2,36-30,4,layup,False,0,True,False
+2012-12-30,32.9666666667,Cleveland Cavaliers,Indiana Pacers,3,55-63,-10,two point jumper,False,5,False,False
+2012-12-30,35.1833333333,Cleveland Cavaliers,Indiana Pacers,3,60-68,-9,free throw,False,15,False,False
+2012-12-30,35.1833333333,Cleveland Cavaliers,Indiana Pacers,3,61-68,-8,free throw,False,15,True,False
+2012-01-03,10.2166666667,Cleveland Cavaliers,Charlotte Bobcats,1,26-27,-1,two point jumper,True,18,False,True
+2012-01-03,10.75,Cleveland Cavaliers,Charlotte Bobcats,1,28-27,-3,two point jumper,True,16,False,True
+2012-01-03,16.4166666667,Cleveland Cavaliers,Charlotte Bobcats,2,39-37,-4,dunk,True,0,True,True
+2012-01-03,16.85,Cleveland Cavaliers,Charlotte Bobcats,2,39-38,-2,free throw,True,15,True,True
+2012-01-03,16.85,Cleveland Cavaliers,Charlotte Bobcats,2,39-39,-1,free throw,True,15,True,True
+2012-01-06,36.6166666667,Cleveland Cavaliers,Minnesota Timberwolves,4,76-64,11,free throw,False,15,False,True
+2012-01-06,36.6166666667,Cleveland Cavaliers,Minnesota Timberwolves,4,77-64,12,free throw,False,15,True,True
+2012-01-06,37.6166666667,Cleveland Cavaliers,Minnesota Timberwolves,4,79-68,10,free throw,False,15,False,True
+2012-01-06,37.6166666667,Cleveland Cavaliers,Minnesota Timberwolves,4,80-68,11,free throw,False,15,True,True
+2012-01-06,47.1666666667,Cleveland Cavaliers,Minnesota Timberwolves,4,97-87,9,free throw,False,15,False,True
+2012-01-06,47.1666666667,Cleveland Cavaliers,Minnesota Timberwolves,4,98-87,10,free throw,False,15,True,True
+2012-01-08,14.2166666667,Cleveland Cavaliers,Portland Trail Blazers,2,20-24,-5,free throw,False,15,True,False
+2012-01-08,14.2166666667,Cleveland Cavaliers,Portland Trail Blazers,2,21-24,-4,free throw,False,15,True,False
+2012-01-08,15.7,Cleveland Cavaliers,Portland Trail Blazers,2,25-26,-2,free throw,False,15,True,False
+2012-01-08,15.7,Cleveland Cavaliers,Portland Trail Blazers,2,26-26,-1,free throw,False,15,True,False
+2012-01-08,33.7,Cleveland Cavaliers,Portland Trail Blazers,3,53-61,-10,layup,False,0,False,False
+2012-01-08,34.3666666667,Cleveland Cavaliers,Portland Trail Blazers,3,53-63,-12,layup,False,0,False,False
+2012-01-08,38.3666666667,Cleveland Cavaliers,Portland Trail Blazers,4,60-75,-17,layup,False,0,False,False
+2012-01-21,42.2333333333,Cleveland Cavaliers,Atlanta Hawks,4,75-106,-33,hook shot,False,6,False,True
+2012-01-21,43.2833333333,Cleveland Cavaliers,Atlanta Hawks,4,79-110,-33,layup,False,0,True,True
+2012-01-21,44.4166666667,Cleveland Cavaliers,Atlanta Hawks,4,82-111,-31,two point jumper,False,20,False,True
+2012-01-24,7.53333333333,Cleveland Cavaliers,Miami Heat,1,8-9,-3,dunk,False,0,True,False
+2012-01-24,12.25,Cleveland Cavaliers,Miami Heat,2,20-17,1,dunk,False,0,True,False
+2012-01-24,14.8666666667,Cleveland Cavaliers,Miami Heat,2,27-21,4,layup,False,0,True,False
+2012-01-24,15.75,Cleveland Cavaliers,Miami Heat,2,29-23,4,dunk,False,0,True,False
+2012-01-24,16.7833333333,Cleveland Cavaliers,Miami Heat,2,31-26,3,dunk,False,0,True,False
+2012-01-24,33.7166666667,Cleveland Cavaliers,Miami Heat,3,53-57,-6,layup,False,0,True,False
+2012-01-24,35.0,Cleveland Cavaliers,Miami Heat,3,57-59,-4,dunk,False,0,True,False
+2012-01-24,37.55,Cleveland Cavaliers,Miami Heat,4,60-65,-7,two point jumper,False,8,False,False
+2012-01-24,37.95,Cleveland Cavaliers,Miami Heat,4,60-65,-6,free throw,False,15,False,False
+2012-01-24,37.95,Cleveland Cavaliers,Miami Heat,4,61-65,-5,free throw,False,15,True,False
+2012-01-24,39.75,Cleveland Cavaliers,Miami Heat,4,61-67,-8,two point jumper,False,19,False,False
+2012-02-03,12.0,Cleveland Cavaliers,Orlando Magic,1,17-18,-3,two point shot,False,3,False,True
+2012-02-03,14.1833333333,Cleveland Cavaliers,Orlando Magic,2,20-25,-7,layup,False,0,True,True
+2012-02-03,16.1666666667,Cleveland Cavaliers,Orlando Magic,2,22-29,-9,layup,False,0,False,True
+2012-02-07,36.3666666667,Cleveland Cavaliers,Miami Heat,4,72-78,-8,hook shot,False,2,False,True
+2012-02-10,14.9,Cleveland Cavaliers,Milwaukee Bucks,2,35-31,-5,free throw,True,15,False,False
+2012-02-10,14.9,Cleveland Cavaliers,Milwaukee Bucks,2,35-32,-4,free throw,True,15,True,False
+2012-02-10,37.45,Cleveland Cavaliers,Milwaukee Bucks,4,81-87,5,free throw,True,15,False,False
+2012-02-10,37.45,Cleveland Cavaliers,Milwaukee Bucks,4,81-88,6,free throw,True,15,True,False
+2012-02-10,38.95,Cleveland Cavaliers,Milwaukee Bucks,4,84-88,2,two point shot,True,1,False,False
+2012-02-10,40.0666666667,Cleveland Cavaliers,Milwaukee Bucks,4,86-88,0,layup,True,0,False,False
+2012-02-10,40.7,Cleveland Cavaliers,Milwaukee Bucks,4,86-89,2,free throw,True,15,True,False
+2012-02-10,40.7,Cleveland Cavaliers,Milwaukee Bucks,4,86-90,3,free throw,True,15,True,False
+2012-02-17,43.6,Cleveland Cavaliers,Miami Heat,4,102-81,-22,free throw,True,15,True,True
+2012-02-17,43.6,Cleveland Cavaliers,Miami Heat,4,102-81,-22,free throw,True,15,False,True
+2012-02-17,45.1,Cleveland Cavaliers,Miami Heat,4,102-85,-19,layup,True,0,True,True
+2012-02-17,47.2166666667,Cleveland Cavaliers,Miami Heat,4,111-85,-28,two point jumper,True,18,False,True
+2012-03-03,15.5833333333,Cleveland Cavaliers,Washington Wizards,2,37-33,3,free throw,False,15,True,True
+2012-03-03,15.5833333333,Cleveland Cavaliers,Washington Wizards,2,38-33,4,free throw,False,15,True,True
+2012-03-05,17.6,Cleveland Cavaliers,Utah Jazz,2,39-33,-8,two point shot,True,4,False,False
+2012-03-05,34.9,Cleveland Cavaliers,Utah Jazz,3,83-68,-17,two point jumper,True,19,True,False
+2012-03-05,35.7166666667,Cleveland Cavaliers,Utah Jazz,3,85-71,-15,free throw,True,15,True,False
+2012-03-05,35.7166666667,Cleveland Cavaliers,Utah Jazz,3,85-72,-14,free throw,True,15,True,False
+2012-03-05,37.8333333333,Cleveland Cavaliers,Utah Jazz,4,87-77,-12,dunk,True,0,True,False
+2012-03-07,12.2666666667,Cleveland Cavaliers,Denver Nuggets,2,27-27,-1,free throw,False,15,True,False
+2012-03-07,12.2666666667,Cleveland Cavaliers,Denver Nuggets,2,28-27,0,free throw,False,15,True,False
+2012-03-07,12.9,Cleveland Cavaliers,Denver Nuggets,2,28-29,-3,tip shot,False,0,False,False
+2012-03-07,14.1333333333,Cleveland Cavaliers,Denver Nuggets,2,28-34,-8,two point jumper,False,20,False,False
+2012-03-07,33.55,Cleveland Cavaliers,Denver Nuggets,3,72-67,3,layup,False,0,False,False
+2012-03-07,34.6,Cleveland Cavaliers,Denver Nuggets,3,76-69,5,layup,False,0,True,False
+2012-03-09,10.9166666667,Cleveland Cavaliers,Oklahoma City Thunder,1,24-25,-3,two point jumper,False,7,False,True
+2012-03-09,16.1666666667,Cleveland Cavaliers,Oklahoma City Thunder,2,34-32,0,two point jumper,False,15,True,True
+2012-03-09,38.6333333333,Cleveland Cavaliers,Oklahoma City Thunder,4,72-72,-2,two point jumper,False,20,False,True
+2012-03-11,9.33333333333,Cleveland Cavaliers,Houston Rockets,1,19-24,3,dunk,True,0,True,True
+2012-03-11,10.0166666667,Cleveland Cavaliers,Houston Rockets,1,21-26,3,dunk,True,0,True,True
+2012-03-11,12.2666666667,Cleveland Cavaliers,Houston Rockets,2,26-31,4,free throw,True,15,True,True
+2012-03-11,12.2666666667,Cleveland Cavaliers,Houston Rockets,2,26-31,4,free throw,True,15,False,True
+2012-03-11,15.45,Cleveland Cavaliers,Houston Rockets,2,32-40,7,free throw,True,15,True,True
+2012-03-11,15.45,Cleveland Cavaliers,Houston Rockets,2,32-41,8,free throw,True,15,True,True
+2012-03-11,16.4166666667,Cleveland Cavaliers,Houston Rockets,2,32-43,9,layup,True,0,True,True
+2012-03-11,41.5,Cleveland Cavaliers,Houston Rockets,4,91-95,2,layup,True,0,True,True
+2012-03-11,42.1333333333,Cleveland Cavaliers,Houston Rockets,4,91-95,2,layup,True,0,False,True
+2012-03-14,13.9,Cleveland Cavaliers,Milwaukee Bucks,2,30-30,-2,layup,False,0,True,False
+2012-03-14,15.8166666667,Cleveland Cavaliers,Milwaukee Bucks,2,31-34,-4,free throw,False,15,True,False
+2012-03-14,15.8166666667,Cleveland Cavaliers,Milwaukee Bucks,2,32-34,-3,free throw,False,15,True,False
+2012-03-14,16.2,Cleveland Cavaliers,Milwaukee Bucks,2,34-34,-2,dunk,False,0,True,False
+2012-03-14,18.1333333333,Cleveland Cavaliers,Milwaukee Bucks,2,40-40,-2,layup,False,0,True,False
+2012-03-14,24.0,Cleveland Cavaliers,Milwaukee Bucks,2,55-57,-4,layup,False,0,False,False
+2012-03-14,36.95,Cleveland Cavaliers,Milwaukee Bucks,4,78-86,-10,two point jumper,False,4,False,False
+2012-03-14,38.5,Cleveland Cavaliers,Milwaukee Bucks,4,80-90,-12,two point jumper,False,18,True,False
+2012-03-14,47.5166666667,Cleveland Cavaliers,Milwaukee Bucks,4,102-115,-14,free throw,False,15,True,False
+2012-03-14,47.5166666667,Cleveland Cavaliers,Milwaukee Bucks,4,102-115,-14,free throw,False,15,False,False
+2012-03-18,9.7,Cleveland Cavaliers,Atlanta Hawks,1,23-17,-8,two point jumper,True,19,False,True
+2012-03-18,11.9166666667,Cleveland Cavaliers,Atlanta Hawks,1,31-19,-14,two point jumper,True,9,False,True
+2012-03-18,14.1833333333,Cleveland Cavaliers,Atlanta Hawks,2,38-23,-16,free throw,True,15,True,True
+2012-03-18,14.1833333333,Cleveland Cavaliers,Atlanta Hawks,2,38-24,-15,free throw,True,15,True,True
+2012-03-18,15.8166666667,Cleveland Cavaliers,Atlanta Hawks,2,40-28,-14,two point shot,True,1,True,True
+2012-03-18,33.5,Cleveland Cavaliers,Atlanta Hawks,3,74-63,-12,free throw,True,15,False,True
+2012-03-18,33.5,Cleveland Cavaliers,Atlanta Hawks,3,74-64,-11,free throw,True,15,True,True
+2012-03-18,39.45,Cleveland Cavaliers,Atlanta Hawks,4,84-72,-13,free throw,True,15,True,True
+2012-03-18,39.45,Cleveland Cavaliers,Atlanta Hawks,4,84-72,-13,free throw,True,15,False,True
+2012-03-21,10.6,Cleveland Cavaliers,Atlanta Hawks,1,33-19,12,layup,False,0,True,False
+2012-03-21,11.8833333333,Cleveland Cavaliers,Atlanta Hawks,1,36-21,14,free throw,False,15,True,False
+2012-03-21,11.8833333333,Cleveland Cavaliers,Atlanta Hawks,1,36-21,14,free throw,False,15,False,False
+2012-03-21,13.5666666667,Cleveland Cavaliers,Atlanta Hawks,2,36-23,11,two point jumper,False,17,False,False
+2012-03-21,34.4833333333,Cleveland Cavaliers,Atlanta Hawks,3,67-72,-6,free throw,False,15,True,False
+2012-03-21,34.4833333333,Cleveland Cavaliers,Atlanta Hawks,3,68-72,-5,free throw,False,15,True,False
+2012-03-21,36.3166666667,Cleveland Cavaliers,Atlanta Hawks,4,73-72,-1,two point shot,False,20,False,False
+2012-03-28,9.26666666667,Cleveland Cavaliers,Detroit Pistons,1,18-19,-1,layup,True,0,True,False
+2012-03-28,10.3333333333,Cleveland Cavaliers,Detroit Pistons,1,18-21,1,layup,True,0,True,False
+2012-03-30,6.7,Cleveland Cavaliers,Milwaukee Bucks,1,20-17,-5,two point jumper,True,13,False,True
+2012-03-30,11.1666666667,Cleveland Cavaliers,Milwaukee Bucks,1,32-24,-10,two point shot,True,11,True,True
+2012-03-30,39.05,Cleveland Cavaliers,Milwaukee Bucks,4,103-76,-29,hook shot,True,10,True,True
+2012-03-30,43.2333333333,Cleveland Cavaliers,Milwaukee Bucks,4,109-84,-27,dunk,True,0,True,True
+2012-03-30,44.85,Cleveland Cavaliers,Milwaukee Bucks,4,111-84,-29,two point jumper,True,18,False,True
+2012-03-30,47.6166666667,Cleveland Cavaliers,Milwaukee Bucks,4,121-84,-39,two point shot,True,13,False,True
+2012-04-03,9.95,Cleveland Cavaliers,San Antonio Spurs,1,28-16,-14,two point shot,True,12,False,True
+2012-04-04,7.2,Cleveland Cavaliers,Milwaukee Bucks,1,7-16,-11,two point jumper,False,17,False,True
+2012-04-04,7.53333333333,Cleveland Cavaliers,Milwaukee Bucks,1,9-18,-11,tip shot,False,0,True,True
+2012-04-04,24.0,Cleveland Cavaliers,Milwaukee Bucks,2,37-53,-18,two point jumper,False,4,False,True
+2012-04-04,38.0666666667,Cleveland Cavaliers,Milwaukee Bucks,4,70-85,-17,dunk,False,0,False,True
+2012-04-10,12.8166666667,Cleveland Cavaliers,Charlotte Bobcats,2,24-30,4,two point jumper,True,4,False,False
+2012-04-10,13.25,Cleveland Cavaliers,Charlotte Bobcats,2,24-31,6,free throw,True,15,True,False
+2012-04-10,13.25,Cleveland Cavaliers,Charlotte Bobcats,2,24-32,7,free throw,True,15,True,False
+2012-04-11,14.0666666667,Cleveland Cavaliers,Indiana Pacers,2,30-27,-5,layup,True,0,True,True
+2012-04-11,14.95,Cleveland Cavaliers,Indiana Pacers,2,30-29,-3,layup,True,0,True,True
+2012-04-11,16.2833333333,Cleveland Cavaliers,Indiana Pacers,2,35-31,-6,dunk,True,0,True,True
+2012-04-11,35.2666666667,Cleveland Cavaliers,Indiana Pacers,3,70-64,-8,two point jumper,True,9,True,True
+2012-04-11,35.8833333333,Cleveland Cavaliers,Indiana Pacers,3,73-66,-9,layup,True,0,True,True
+2012-04-11,37.2166666667,Cleveland Cavaliers,Indiana Pacers,4,78-70,-10,layup,True,0,True,True
+2012-04-11,37.2166666667,Cleveland Cavaliers,Indiana Pacers,4,78-71,-8,free throw,True,15,True,True
+2012-04-11,19.5333333333,Cleveland Cavaliers,Indiana Pacers,5,96-94,-4,two point jumper,True,18,False,True
+2012-04-13,5.6,Cleveland Cavaliers,Indiana Pacers,1,6-7,-3,dunk,False,0,False,True
+2012-04-13,7.91666666667,Cleveland Cavaliers,Indiana Pacers,1,12-10,0,two point jumper,False,16,False,True
+2012-04-13,10.8833333333,Cleveland Cavaliers,Indiana Pacers,1,18-16,0,layup,False,0,True,True
+2012-04-13,10.8833333333,Cleveland Cavaliers,Indiana Pacers,1,19-16,2,free throw,False,15,True,True
+2012-04-13,12.3833333333,Cleveland Cavaliers,Indiana Pacers,2,19-16,1,two point jumper,False,4,False,True
+2012-04-13,17.1666666667,Cleveland Cavaliers,Indiana Pacers,2,29-18,9,layup,False,0,False,True
+2012-04-13,38.55,Cleveland Cavaliers,Indiana Pacers,4,62-81,-20,free throw,False,15,True,True
+2012-04-13,38.55,Cleveland Cavaliers,Indiana Pacers,4,63-81,-19,free throw,False,15,True,True
+2012-04-13,41.0333333333,Cleveland Cavaliers,Indiana Pacers,4,70-88,-20,two point jumper,False,4,True,True
+2012-04-13,41.0333333333,Cleveland Cavaliers,Indiana Pacers,4,71-88,-18,free throw,False,15,True,True
+2012-04-13,43.2166666667,Cleveland Cavaliers,Indiana Pacers,4,74-92,-20,layup,False,0,False,True
+2012-04-13,44.1,Cleveland Cavaliers,Indiana Pacers,4,78-92,-15,free throw,False,15,True,True
+2012-04-13,44.1,Cleveland Cavaliers,Indiana Pacers,4,79-92,-14,free throw,False,15,True,True
+2012-04-15,9.18333333333,Cleveland Cavaliers,Orlando Magic,1,20-11,-11,two point jumper,True,1,False,True
+2012-04-15,14.2,Cleveland Cavaliers,Orlando Magic,2,23-17,-8,layup,True,0,False,True
+2012-04-15,34.75,Cleveland Cavaliers,Orlando Magic,3,74-58,-18,layup,True,0,True,True
+2012-04-15,35.2833333333,Cleveland Cavaliers,Orlando Magic,3,74-59,-16,free throw,True,15,True,True
+2012-04-15,35.2833333333,Cleveland Cavaliers,Orlando Magic,3,74-60,-15,free throw,True,15,True,True
+2012-04-15,38.0,Cleveland Cavaliers,Orlando Magic,4,78-64,-16,dunk,True,0,True,True
+2012-04-17,9.5,Cleveland Cavaliers,Detroit Pistons,1,7-21,-16,layup,False,0,False,True
+2012-04-17,9.55,Cleveland Cavaliers,Detroit Pistons,1,9-21,-14,tip shot,False,0,True,True
+2012-04-17,12.0,Cleveland Cavaliers,Detroit Pistons,1,15-27,-13,free throw,False,15,True,True
+2012-04-17,12.0,Cleveland Cavaliers,Detroit Pistons,1,16-27,-12,free throw,False,15,True,True
+2012-04-17,17.2,Cleveland Cavaliers,Detroit Pistons,2,25-42,-19,two point jumper,False,1,False,True
+2012-04-17,17.3833333333,Cleveland Cavaliers,Detroit Pistons,2,27-42,-17,layup,False,0,True,True
+2012-04-17,42.45,Cleveland Cavaliers,Detroit Pistons,4,64-106,-43,free throw,False,15,True,True
+2012-04-17,42.45,Cleveland Cavaliers,Detroit Pistons,4,65-106,-42,free throw,False,15,True,True
+2012-04-22,12.3666666667,Cleveland Cavaliers,San Antonio Spurs,2,24-29,-7,two point jumper,False,14,True,True
+2012-04-22,36.6833333333,Cleveland Cavaliers,San Antonio Spurs,4,71-83,-13,free throw,False,15,True,True
+2012-04-22,36.6833333333,Cleveland Cavaliers,San Antonio Spurs,4,71-83,-13,free throw,False,15,False,True
+2012-04-22,37.15,Cleveland Cavaliers,San Antonio Spurs,4,71-83,-14,layup,False,0,False,True
+2012-04-22,39.1833333333,Cleveland Cavaliers,San Antonio Spurs,4,77-89,-14,two point jumper,False,15,True,True
+2012-04-23,11.5833333333,Cleveland Cavaliers,Memphis Grizzlies,1,32-26,4,dunk,False,0,True,False
+2012-04-23,13.7,Cleveland Cavaliers,Memphis Grizzlies,2,38-28,8,two point jumper,False,18,True,False
+2012-04-23,15.3,Cleveland Cavaliers,Memphis Grizzlies,2,41-35,4,two point shot,False,4,False,False
+2012-04-23,39.6833333333,Cleveland Cavaliers,Memphis Grizzlies,4,84-85,-3,two point shot,False,1,True,False
+2012-04-25,9.7,Cleveland Cavaliers,Washington Wizards,1,21-20,-3,two point jumper,True,1,False,False
+2012-04-25,10.1166666667,Cleveland Cavaliers,Washington Wizards,1,21-22,-1,two point shot,True,1,True,False
+2012-04-25,12.25,Cleveland Cavaliers,Washington Wizards,2,21-27,5,free throw,True,15,False,False
+2012-04-25,12.25,Cleveland Cavaliers,Washington Wizards,2,21-28,6,free throw,True,15,True,False
+2012-04-25,14.9,Cleveland Cavaliers,Washington Wizards,2,25-32,5,two point jumper,True,17,True,False
+2012-04-25,16.0666666667,Cleveland Cavaliers,Washington Wizards,2,27-34,5,two point jumper,True,16,False,False
+2012-04-25,38.5166666667,Cleveland Cavaliers,Washington Wizards,4,81-69,-14,two point shot,True,1,True,False
+2012-04-25,39.3833333333,Cleveland Cavaliers,Washington Wizards,4,81-71,-12,two point jumper,True,18,True,False
+2013-12-19,30.85,Cleveland Cavaliers,Boston Celtics,3,57-72,-17,two point jumper,False,21,False,True
+2013-12-19,33.1,Cleveland Cavaliers,Boston Celtics,3,61-80,-20,free throw,False,15,True,True
+2013-12-19,33.1,Cleveland Cavaliers,Boston Celtics,3,61-80,-20,free throw,False,15,False,True
+2013-12-19,34.1666666667,Cleveland Cavaliers,Boston Celtics,3,65-82,-19,two point shot,False,12,True,True
+2013-12-19,36.3833333333,Cleveland Cavaliers,Boston Celtics,4,72-82,-12,two point jumper,False,22,False,True
+2013-12-19,38.55,Cleveland Cavaliers,Boston Celtics,4,77-82,-7,two point jumper,False,20,False,True
+2013-12-19,39.45,Cleveland Cavaliers,Boston Celtics,4,80-84,-6,two point jumper,False,20,False,True
+2013-11-13,10.85,Cleveland Cavaliers,Brooklyn Nets,1,28-26,0,two point jumper,False,18,False,False
+2013-11-13,13.45,Cleveland Cavaliers,Brooklyn Nets,2,30-31,-3,two point jumper,False,1,False,False
+2013-11-07,2.95,Cleveland Cavaliers,Golden State Warriors,1,5-12,-9,layup,False,0,True,True
+2013-11-07,11.35,Cleveland Cavaliers,Golden State Warriors,1,21-35,-16,dunk,False,0,True,True
+2013-11-07,17.3833333333,Cleveland Cavaliers,Golden State Warriors,2,33-48,-17,layup,False,0,True,True
+2013-11-07,23.5833333333,Cleveland Cavaliers,Golden State Warriors,2,51-59,-10,two point shot,False,16,False,True
+2013-11-07,25.25,Cleveland Cavaliers,Golden State Warriors,3,51-61,-12,two point jumper,False,19,False,True
+2013-11-07,28.8166666667,Cleveland Cavaliers,Golden State Warriors,3,67-67,-2,two point shot,False,2,True,True
+2013-11-07,30.25,Cleveland Cavaliers,Golden State Warriors,3,69-68,0,free throw,False,15,False,True
+2013-11-07,30.25,Cleveland Cavaliers,Golden State Warriors,3,70-68,1,free throw,False,15,True,True
+2013-11-07,33.7166666667,Cleveland Cavaliers,Golden State Warriors,3,72-78,-8,two point shot,False,1,True,True
+2013-11-07,21.7,Cleveland Cavaliers,Golden State Warriors,5,93-106,-15,two point jumper,False,19,False,True
+2013-11-05,34.8833333333,Cleveland Cavaliers,Los Angeles Clippers,3,53-46,5,two point shot,False,17,True,True
+2013-11-09,8.2,Cleveland Cavaliers,Phoenix Suns,1,25-8,15,layup,False,0,False,False
+2013-11-09,8.26666666667,Cleveland Cavaliers,Phoenix Suns,1,27-8,17,layup,False,0,True,False
+2013-11-09,10.0833333333,Cleveland Cavaliers,Phoenix Suns,1,29-11,16,two point jumper,False,1,False,False
+2013-11-09,12.5666666667,Cleveland Cavaliers,Phoenix Suns,2,37-16,19,two point jumper,False,19,False,False
+2013-11-09,13.5666666667,Cleveland Cavaliers,Phoenix Suns,2,40-16,22,two point jumper,False,20,False,False
+2013-11-09,14.5,Cleveland Cavaliers,Phoenix Suns,2,43-19,23,free throw,False,15,True,False
+2013-11-09,14.5,Cleveland Cavaliers,Phoenix Suns,2,43-19,23,free throw,False,15,False,False
+2013-11-09,17.5333333333,Cleveland Cavaliers,Phoenix Suns,2,49-29,19,free throw,False,15,True,False
+2013-11-09,17.5333333333,Cleveland Cavaliers,Phoenix Suns,2,50-29,20,free throw,False,15,True,False
+2013-11-27,19.9833333333,Cleveland Cavaliers,Phoenix Suns,2,33-24,-11,two point jumper,True,9,False,False
+2013-11-27,20.6833333333,Cleveland Cavaliers,Phoenix Suns,2,35-26,-11,two point jumper,True,20,False,False
+2013-11-27,21.5666666667,Cleveland Cavaliers,Phoenix Suns,2,35-28,-9,two point jumper,True,19,False,False
+2013-11-27,45.1666666667,Cleveland Cavaliers,Phoenix Suns,4,91-70,-23,two point shot,True,14,False,False
+2013-11-27,46.0,Cleveland Cavaliers,Phoenix Suns,4,91-71,-21,free throw,True,15,False,False
+2013-11-27,46.0,Cleveland Cavaliers,Phoenix Suns,4,91-72,-20,free throw,True,15,True,False
+2013-11-02,37.65,Cleveland Cavaliers,Chicago Bulls,4,87-59,-30,two point jumper,True,19,False,True
+2013-11-02,38.5,Cleveland Cavaliers,Chicago Bulls,4,89-64,-27,two point shot,True,6,True,True
+2013-11-02,42.45,Cleveland Cavaliers,Chicago Bulls,4,100-77,-24,free throw,True,15,False,True
+2013-11-02,42.45,Cleveland Cavaliers,Chicago Bulls,4,100-78,-23,free throw,True,15,True,True
+2013-11-02,44.75,Cleveland Cavaliers,Chicago Bulls,4,106-81,-27,two point jumper,True,16,True,True
+2013-11-02,47.6,Cleveland Cavaliers,Chicago Bulls,4,113-86,-29,dunk,True,0,True,True
+2013-12-05,46.4833333333,Cleveland Cavaliers,Chicago Bulls,4,94-80,-15,free throw,True,15,True,False
+2013-12-05,46.4833333333,Cleveland Cavaliers,Chicago Bulls,4,94-80,-15,free throw,True,15,False,False
+2013-12-05,47.2333333333,Cleveland Cavaliers,Chicago Bulls,4,95-82,-15,two point jumper,True,19,False,False
+2013-11-23,23.7833333333,Cleveland Cavaliers,Orlando Magic,2,51-45,5,free throw,False,15,False,False
+2013-11-23,23.7833333333,Cleveland Cavaliers,Orlando Magic,2,51-45,5,free throw,False,15,False,False
+2013-11-26,20.8166666667,Cleveland Cavaliers,Memphis Grizzlies,2,45-38,5,two point jumper,False,16,True,False
+2013-11-26,22.0166666667,Cleveland Cavaliers,Memphis Grizzlies,2,47-40,5,two point shot,False,1,True,False
+2013-11-26,33.9,Cleveland Cavaliers,Memphis Grizzlies,3,61-58,1,two point jumper,False,18,False,False
+2013-11-26,34.7166666667,Cleveland Cavaliers,Memphis Grizzlies,3,64-60,3,free throw,False,15,True,False
+2013-11-26,34.7166666667,Cleveland Cavaliers,Memphis Grizzlies,3,65-60,4,free throw,False,15,True,False
+2013-11-26,35.2166666667,Cleveland Cavaliers,Memphis Grizzlies,3,67-62,3,two point jumper,False,1,True,False
+2013-11-26,37.5666666667,Cleveland Cavaliers,Memphis Grizzlies,4,69-64,3,two point jumper,False,1,False,False
+2013-12-03,14.0,Cleveland Cavaliers,Detroit Pistons,2,21-32,-13,hook shot,False,7,False,False
+2013-12-03,15.25,Cleveland Cavaliers,Detroit Pistons,2,23-37,-16,layup,False,0,False,False
+2013-12-07,21.2666666667,Cleveland Cavaliers,Minnesota Timberwolves,2,31-35,-5,free throw,False,15,True,False
+2013-12-07,21.2666666667,Cleveland Cavaliers,Minnesota Timberwolves,2,32-35,-4,free throw,False,15,True,False
+2013-12-07,22.4166666667,Cleveland Cavaliers,Minnesota Timberwolves,2,35-38,-5,two point jumper,False,15,False,False
+2013-12-07,22.7833333333,Cleveland Cavaliers,Minnesota Timberwolves,2,35-38,-5,two point jumper,False,21,False,False
+2013-12-12,13.75,Cleveland Cavaliers,Indiana Pacers,2,36-27,7,two point jumper,False,19,True,False
+2013-12-12,16.5333333333,Cleveland Cavaliers,Indiana Pacers,2,46-34,10,layup,False,0,True,False
+2013-12-12,17.6,Cleveland Cavaliers,Indiana Pacers,2,48-36,10,dunk,False,0,True,False
+2013-12-12,20.35,Cleveland Cavaliers,Indiana Pacers,2,54-38,14,two point jumper,False,1,True,False
+2013-12-12,35.5,Cleveland Cavaliers,Indiana Pacers,3,70-78,-10,two point jumper,False,7,False,False
+2013-12-12,37.1333333333,Cleveland Cavaliers,Indiana Pacers,4,70-82,-14,two point jumper,False,17,False,False
+2013-12-12,38.95,Cleveland Cavaliers,Indiana Pacers,4,73-83,-12,two point jumper,False,20,False,False
+2013-12-12,40.7,Cleveland Cavaliers,Indiana Pacers,4,74-83,-10,free throw,False,15,False,False
+2013-12-12,40.7,Cleveland Cavaliers,Indiana Pacers,4,74-83,-10,free throw,False,15,False,False
+2013-12-12,43.95,Cleveland Cavaliers,Indiana Pacers,4,78-87,-11,layup,False,0,False,False
+2013-12-12,44.9333333333,Cleveland Cavaliers,Indiana Pacers,4,78-91,-15,layup,False,0,False,False
+2013-12-12,46.6333333333,Cleveland Cavaliers,Indiana Pacers,4,80-93,-15,two point shot,False,3,True,False
+2013-12-12,47.7666666667,Cleveland Cavaliers,Indiana Pacers,4,81-96,-18,three point jumper,False,27,False,False
+2013-12-14,18.1,Cleveland Cavaliers,Milwaukee Bucks,2,36-23,-15,two point jumper,True,21,False,False
+2013-12-14,22.0333333333,Cleveland Cavaliers,Milwaukee Bucks,2,46-41,-7,layup,True,0,True,False
+2013-12-21,17.8833333333,Cleveland Cavaliers,Indiana Pacers,2,37-36,-3,two point jumper,True,18,False,False
+2013-12-21,34.35,Cleveland Cavaliers,Indiana Pacers,3,73-64,-10,free throw,True,15,True,False
+2013-12-21,34.35,Cleveland Cavaliers,Indiana Pacers,3,73-65,-9,free throw,True,15,True,False
+2013-12-21,39.8833333333,Cleveland Cavaliers,Indiana Pacers,4,81-73,-10,two point jumper,True,19,False,False
+2013-12-21,47.3166666667,Cleveland Cavaliers,Indiana Pacers,4,99-86,-15,dunk,True,0,True,False

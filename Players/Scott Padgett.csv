@@ -1,0 +1,285 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2006-01-21,16.6666666667,Brooklyn Nets,Boston Celtics,2,29-41,10,layup,True,0,False,False
+2006-01-21,17.9833333333,Brooklyn Nets,Boston Celtics,2,32-45,10,three point jumper,True,24,False,False
+2006-01-21,21.0666666667,Brooklyn Nets,Boston Celtics,2,39-55,13,three point jumper,True,22,True,False
+2006-01-21,21.7666666667,Brooklyn Nets,Boston Celtics,2,40-55,13,tip shot,True,0,False,False
+2006-01-21,27.15,Brooklyn Nets,Boston Celtics,3,49-67,15,three point jumper,True,25,False,False
+2006-01-21,27.5833333333,Brooklyn Nets,Boston Celtics,3,49-69,18,layup,True,0,True,False
+2006-01-21,27.5833333333,Brooklyn Nets,Boston Celtics,3,49-70,20,free throw,True,15,True,False
+2006-01-21,29.9833333333,Brooklyn Nets,Boston Celtics,3,52-74,19,three point jumper,True,25,False,False
+2006-01-21,31.3833333333,Brooklyn Nets,Boston Celtics,3,54-78,22,layup,True,0,True,False
+2006-01-21,36.5,Brooklyn Nets,Boston Celtics,4,62-91,27,two point jumper,True,16,False,False
+2006-01-21,37.4666666667,Brooklyn Nets,Boston Celtics,4,63-92,28,free throw,True,15,True,False
+2006-01-21,37.4666666667,Brooklyn Nets,Boston Celtics,4,63-93,29,free throw,True,15,True,False
+2006-01-21,41.5333333333,Brooklyn Nets,Boston Celtics,4,66-100,31,three point jumper,True,25,True,False
+2006-11-02,47.6,Brooklyn Nets,Milwaukee Bucks,4,112-96,-18,layup,True,0,True,True
+2006-11-07,14.3166666667,Brooklyn Nets,Miami Heat,2,32-34,-4,tip shot,False,0,False,False
+2006-11-11,3.68333333333,Brooklyn Nets,Indiana Pacers,1,10-5,3,two point jumper,False,4,True,True
+2006-11-11,6.56666666667,Brooklyn Nets,Indiana Pacers,1,14-12,0,two point jumper,False,20,False,True
+2006-11-11,14.7,Brooklyn Nets,Indiana Pacers,2,25-30,-7,two point jumper,False,23,True,True
+2006-11-11,37.55,Brooklyn Nets,Indiana Pacers,4,61-88,-29,two point jumper,False,22,False,True
+2006-11-11,37.9666666667,Brooklyn Nets,Indiana Pacers,4,62-88,-27,free throw,False,15,True,True
+2006-11-11,37.9666666667,Brooklyn Nets,Indiana Pacers,4,63-88,-26,free throw,False,15,True,True
+2006-11-11,40.1666666667,Brooklyn Nets,Indiana Pacers,4,70-90,-22,tip shot,False,0,True,True
+2006-11-11,47.1,Brooklyn Nets,Indiana Pacers,4,85-103,-20,layup,False,0,True,True
+2006-11-15,10.4166666667,Brooklyn Nets,Oklahoma City Thunder,1,22-19,-6,three point jumper,True,23,True,False
+2006-11-15,13.95,Brooklyn Nets,Oklahoma City Thunder,2,29-25,-6,layup,True,0,True,False
+2006-11-15,13.95,Brooklyn Nets,Oklahoma City Thunder,2,29-26,-4,free throw,True,15,True,False
+2006-11-15,14.7166666667,Brooklyn Nets,Oklahoma City Thunder,2,33-28,-7,tip shot,True,0,True,False
+2006-11-15,15.8833333333,Brooklyn Nets,Oklahoma City Thunder,2,37-33,-7,three point jumper,True,23,True,False
+2006-11-15,36.5666666667,Brooklyn Nets,Oklahoma City Thunder,4,72-81,7,two point jumper,True,20,True,False
+2006-11-15,38.4333333333,Brooklyn Nets,Oklahoma City Thunder,4,78-83,2,three point jumper,True,25,False,False
+2006-11-19,41.2833333333,Brooklyn Nets,Washington Wizards,4,70-77,4,three point jumper,True,24,True,True
+2006-11-21,28.45,Brooklyn Nets,Golden State Warriors,3,55-57,-5,three point jumper,False,25,True,True
+2006-11-21,30.0666666667,Brooklyn Nets,Golden State Warriors,3,60-65,-8,three point jumper,False,24,False,True
+2006-11-21,31.8166666667,Brooklyn Nets,Golden State Warriors,3,63-67,-6,tip shot,False,0,False,True
+2006-11-21,37.0666666667,Brooklyn Nets,Golden State Warriors,4,74-84,-13,three point jumper,False,26,False,True
+2006-11-21,37.7,Brooklyn Nets,Golden State Warriors,4,74-86,-14,two point jumper,False,21,False,True
+2006-11-21,38.6333333333,Brooklyn Nets,Golden State Warriors,4,76-86,-13,three point jumper,False,26,False,True
+2006-11-23,34.7833333333,Brooklyn Nets,Sacramento Kings,3,76-88,-14,two point jumper,False,11,False,False
+2006-12-07,9.3,Brooklyn Nets,Charlotte Bobcats,1,19-16,1,two point jumper,False,13,True,True
+2006-12-07,13.2,Brooklyn Nets,Charlotte Bobcats,2,22-21,-1,two point shot,False,1,False,True
+2006-12-07,15.0666666667,Brooklyn Nets,Charlotte Bobcats,2,26-23,0,three point jumper,False,25,False,True
+2006-12-07,37.3166666667,Brooklyn Nets,Charlotte Bobcats,4,74-66,6,layup,False,0,True,True
+2006-12-07,37.3166666667,Brooklyn Nets,Charlotte Bobcats,4,74-66,7,free throw,False,15,False,True
+2006-12-09,10.25,Brooklyn Nets,Cleveland Cavaliers,1,21-14,5,two point jumper,False,19,False,True
+2006-12-09,11.4166666667,Brooklyn Nets,Cleveland Cavaliers,1,27-16,8,three point jumper,False,25,True,True
+2006-12-09,37.7166666667,Brooklyn Nets,Cleveland Cavaliers,4,83-74,8,free throw,False,15,True,True
+2006-12-09,37.7166666667,Brooklyn Nets,Cleveland Cavaliers,4,84-74,9,free throw,False,15,True,True
+2006-12-10,16.5333333333,Brooklyn Nets,Philadelphia 76ers,2,38-31,-9,tip shot,True,0,False,True
+2006-12-10,34.0833333333,Brooklyn Nets,Philadelphia 76ers,3,77-65,-15,three point jumper,True,25,True,True
+2006-12-10,36.2166666667,Brooklyn Nets,Philadelphia 76ers,4,84-72,-15,three point jumper,True,24,True,True
+2006-12-10,37.2166666667,Brooklyn Nets,Philadelphia 76ers,4,86-72,-16,two point shot,True,1,False,True
+2006-12-10,38.1166666667,Brooklyn Nets,Philadelphia 76ers,4,88-72,-19,three point jumper,True,25,False,True
+2006-12-10,38.3166666667,Brooklyn Nets,Philadelphia 76ers,4,88-73,-16,free throw,True,15,True,True
+2006-12-13,11.1166666667,Brooklyn Nets,Washington Wizards,1,12-25,-15,layup,False,0,False,False
+2006-12-13,11.3,Brooklyn Nets,Washington Wizards,1,12-25,-16,three point jumper,False,27,False,False
+2006-12-13,33.3166666667,Brooklyn Nets,Washington Wizards,3,48-64,-19,three point jumper,False,26,False,False
+2006-12-13,35.3,Brooklyn Nets,Washington Wizards,3,51-68,-20,three point jumper,False,25,False,False
+2006-12-13,40.4833333333,Brooklyn Nets,Washington Wizards,4,58-84,-27,free throw,False,15,True,False
+2006-12-13,40.4833333333,Brooklyn Nets,Washington Wizards,4,59-84,-26,free throw,False,15,True,False
+2006-12-14,17.3166666667,Brooklyn Nets,Charlotte Bobcats,2,25-33,6,two point shot,True,1,True,False
+2006-12-14,19.4166666667,Brooklyn Nets,Charlotte Bobcats,2,30-33,0,three point jumper,True,26,False,False
+2006-12-14,35.6833333333,Brooklyn Nets,Charlotte Bobcats,3,61-58,-6,three point jumper,True,24,True,False
+2006-12-14,38.2,Brooklyn Nets,Charlotte Bobcats,4,63-58,-8,three point jumper,True,25,False,False
+2006-12-14,38.8666666667,Brooklyn Nets,Charlotte Bobcats,4,65-60,-8,three point jumper,True,27,False,False
+2006-12-16,38.5,Brooklyn Nets,Denver Nuggets,4,73-74,-2,three point jumper,True,27,True,True
+2006-12-16,39.6166666667,Brooklyn Nets,Denver Nuggets,4,73-77,1,three point jumper,True,25,True,True
+2006-12-16,43.45,Brooklyn Nets,Denver Nuggets,4,78-85,4,three point jumper,True,23,True,True
+2006-12-16,47.1166666667,Brooklyn Nets,Denver Nuggets,4,89-90,-2,three point jumper,True,26,True,True
+2006-12-16,20.1833333333,Brooklyn Nets,Denver Nuggets,6,93-100,4,three point jumper,True,25,True,True
+2006-12-18,12.75,Brooklyn Nets,Golden State Warriors,2,24-42,15,three point jumper,True,22,True,False
+2006-12-18,16.75,Brooklyn Nets,Golden State Warriors,2,29-45,15,free throw,True,15,True,False
+2006-12-18,16.75,Brooklyn Nets,Golden State Warriors,2,29-46,16,free throw,True,15,True,False
+2006-12-18,20.5,Brooklyn Nets,Golden State Warriors,2,33-59,23,three point jumper,True,24,False,False
+2006-12-18,44.7,Brooklyn Nets,Golden State Warriors,4,83-112,26,three point jumper,True,22,True,False
+2006-12-18,46.8,Brooklyn Nets,Golden State Warriors,4,85-116,28,three point jumper,True,24,False,False
+2006-12-20,14.3666666667,Brooklyn Nets,Los Angeles Clippers,2,26-28,-1,three point jumper,True,25,False,True
+2006-12-20,16.85,Brooklyn Nets,Los Angeles Clippers,2,30-40,7,three point jumper,True,26,True,True
+2006-12-20,13.65,Brooklyn Nets,Los Angeles Clippers,5,75-84,6,three point jumper,True,24,False,True
+2006-12-20,16.25,Brooklyn Nets,Los Angeles Clippers,5,80-88,6,two point jumper,True,16,False,True
+2006-12-21,19.2,Brooklyn Nets,Orlando Magic,2,32-30,-1,three point jumper,False,23,False,True
+2006-12-21,33.9666666667,Brooklyn Nets,Orlando Magic,3,67-61,3,three point jumper,False,23,True,True
+2006-12-21,10.6666666667,Brooklyn Nets,Orlando Magic,5,74-67,5,two point jumper,False,18,True,True
+2006-12-23,11.65,Brooklyn Nets,Miami Heat,1,12-24,-15,three point jumper,False,25,False,True
+2006-12-23,14.6333333333,Brooklyn Nets,Miami Heat,2,20-30,-13,three point jumper,False,26,True,True
+2006-12-23,15.8833333333,Brooklyn Nets,Miami Heat,2,20-30,-12,two point jumper,False,13,False,True
+2006-12-23,16.6333333333,Brooklyn Nets,Miami Heat,2,20-32,-15,three point jumper,False,24,False,True
+2006-12-23,21.45,Brooklyn Nets,Miami Heat,2,25-38,-16,three point jumper,False,23,False,True
+2006-12-23,37.3,Brooklyn Nets,Miami Heat,4,71-60,9,two point shot,False,1,False,True
+2006-12-23,38.3333333333,Brooklyn Nets,Miami Heat,4,73-60,10,three point jumper,False,24,False,True
+2006-12-23,38.6333333333,Brooklyn Nets,Miami Heat,4,76-60,13,three point jumper,False,23,True,True
+2006-12-23,40.7,Brooklyn Nets,Miami Heat,4,76-66,8,two point jumper,False,21,False,True
+2006-12-26,12.8666666667,Brooklyn Nets,New York Knicks,2,37-23,11,three point jumper,False,24,True,True
+2006-12-26,14.0666666667,Brooklyn Nets,New York Knicks,2,37-25,9,three point jumper,False,25,False,True
+2006-12-26,15.2,Brooklyn Nets,New York Knicks,2,40-27,10,three point jumper,False,25,True,True
+2006-12-26,47.2333333333,Brooklyn Nets,New York Knicks,4,111-101,7,three point jumper,False,23,False,True
+2006-12-27,14.2166666667,Brooklyn Nets,Cleveland Cavaliers,2,28-35,5,layup,True,0,True,True
+2006-12-27,15.6333333333,Brooklyn Nets,Cleveland Cavaliers,2,28-37,7,two point jumper,True,19,True,True
+2006-12-27,40.5333333333,Brooklyn Nets,Cleveland Cavaliers,4,71-87,14,two point jumper,True,21,True,True
+2006-12-30,14.8833333333,Brooklyn Nets,Atlanta Hawks,2,28-27,-4,three point jumper,True,25,False,True
+2006-12-30,35.6833333333,Brooklyn Nets,Atlanta Hawks,3,72-70,-3,free throw,True,15,False,True
+2006-12-30,35.6833333333,Brooklyn Nets,Atlanta Hawks,3,72-71,-2,free throw,True,15,True,True
+2006-01-06,14.5,Brooklyn Nets,Orlando Magic,2,33-35,-1,three point jumper,True,23,True,True
+2006-01-06,17.5333333333,Brooklyn Nets,Orlando Magic,2,41-38,-4,free throw,True,15,True,True
+2006-01-06,17.5333333333,Brooklyn Nets,Orlando Magic,2,41-39,-3,free throw,True,15,True,True
+2006-01-06,17.95,Brooklyn Nets,Orlando Magic,2,41-39,-5,three point jumper,True,27,False,True
+2006-01-06,18.45,Brooklyn Nets,Orlando Magic,2,41-40,-2,free throw,True,15,True,True
+2006-01-06,18.45,Brooklyn Nets,Orlando Magic,2,41-41,-1,free throw,True,15,True,True
+2006-01-06,11.2166666667,Brooklyn Nets,Orlando Magic,5,67-85,16,two point jumper,True,20,False,True
+2006-01-06,14.3,Brooklyn Nets,Orlando Magic,5,74-89,13,two point shot,True,1,False,True
+2006-01-08,10.2833333333,Brooklyn Nets,Toronto Raptors,1,22-21,-1,two point jumper,False,21,True,True
+2006-01-08,12.3166666667,Brooklyn Nets,Toronto Raptors,2,29-23,3,three point jumper,False,24,False,True
+2006-01-08,18.95,Brooklyn Nets,Toronto Raptors,2,37-40,-6,three point jumper,False,23,False,True
+2006-01-08,37.25,Brooklyn Nets,Toronto Raptors,4,76-78,-5,three point jumper,False,26,False,True
+2006-01-08,38.7666666667,Brooklyn Nets,Toronto Raptors,4,79-82,-6,three point jumper,False,25,False,True
+2006-01-10,15.0666666667,Brooklyn Nets,San Antonio Spurs,2,27-29,-5,three point jumper,False,24,False,False
+2006-01-10,15.8833333333,Brooklyn Nets,San Antonio Spurs,2,29-31,-5,three point jumper,False,24,False,False
+2006-01-10,47.95,Brooklyn Nets,San Antonio Spurs,4,91-95,-7,three point jumper,False,25,True,False
+2006-01-13,11.9333333333,Brooklyn Nets,Memphis Grizzlies,1,18-16,-1,three point jumper,False,23,True,False
+2006-01-13,12.2,Brooklyn Nets,Memphis Grizzlies,2,18-18,-3,three point jumper,False,26,False,False
+2006-01-13,20.3,Brooklyn Nets,Memphis Grizzlies,2,29-34,-8,three point jumper,False,24,False,False
+2006-01-13,21.2833333333,Brooklyn Nets,Memphis Grizzlies,2,29-39,-13,three point jumper,False,25,False,False
+2006-01-13,23.45,Brooklyn Nets,Memphis Grizzlies,2,29-44,-18,three point jumper,False,25,False,False
+2006-01-13,35.95,Brooklyn Nets,Memphis Grizzlies,3,45-65,-21,free throw,False,15,False,False
+2006-01-13,35.95,Brooklyn Nets,Memphis Grizzlies,3,46-65,-20,free throw,False,15,True,False
+2006-01-13,37.4666666667,Brooklyn Nets,Memphis Grizzlies,4,48-67,-21,layup,False,0,False,False
+2006-01-13,45.1833333333,Brooklyn Nets,Memphis Grizzlies,4,58-76,-20,two point jumper,False,19,False,False
+2006-01-13,47.35,Brooklyn Nets,Memphis Grizzlies,4,67-78,-14,three point jumper,False,24,True,False
+2006-01-14,10.7666666667,Brooklyn Nets,Dallas Mavericks,1,17-28,-13,tip shot,False,0,True,True
+2006-01-14,37.1333333333,Brooklyn Nets,Dallas Mavericks,4,56-94,-40,two point jumper,False,20,False,True
+2006-01-14,40.0,Brooklyn Nets,Dallas Mavericks,4,63-99,-39,three point jumper,False,25,True,True
+2006-01-16,12.0,Brooklyn Nets,Indiana Pacers,1,19-31,10,two point jumper,True,11,False,True
+2006-01-16,17.0333333333,Brooklyn Nets,Indiana Pacers,2,35-37,0,two point jumper,True,19,False,True
+2006-01-16,36.7,Brooklyn Nets,Indiana Pacers,4,67-77,7,three point jumper,True,25,False,True
+2006-01-18,12.3833333333,Brooklyn Nets,Philadelphia 76ers,2,30-20,7,three point jumper,False,22,False,False
+2006-01-18,13.15,Brooklyn Nets,Philadelphia 76ers,2,30-22,6,layup,False,0,False,False
+2006-01-23,13.9,Brooklyn Nets,Utah Jazz,2,17-22,-8,three point jumper,False,25,False,False
+2006-01-23,16.9166666667,Brooklyn Nets,Utah Jazz,2,17-24,-10,three point jumper,False,24,False,False
+2006-01-25,14.3166666667,Brooklyn Nets,Los Angeles Clippers,2,18-29,-14,three point jumper,False,26,False,False
+2006-01-31,13.3833333333,Brooklyn Nets,Detroit Pistons,2,23-24,-1,layup,True,0,True,True
+2006-02-01,12.3833333333,Brooklyn Nets,Cleveland Cavaliers,2,15-17,-5,three point jumper,False,23,False,False
+2006-02-01,13.75,Brooklyn Nets,Cleveland Cavaliers,2,17-17,-2,two point jumper,False,22,False,False
+2006-02-01,17.5,Brooklyn Nets,Cleveland Cavaliers,2,24-21,0,three point jumper,False,25,True,False
+2006-02-01,18.7,Brooklyn Nets,Cleveland Cavaliers,2,26-21,3,two point jumper,False,17,False,False
+2006-02-01,36.0,Brooklyn Nets,Cleveland Cavaliers,3,62-62,-3,three point jumper,False,27,True,False
+2006-02-04,16.5666666667,Brooklyn Nets,Miami Heat,2,31-42,8,three point jumper,True,26,True,False
+2006-02-04,20.4833333333,Brooklyn Nets,Miami Heat,2,39-52,10,three point jumper,True,25,False,False
+2006-02-04,36.25,Brooklyn Nets,Miami Heat,4,70-77,4,three point jumper,True,25,False,False
+2006-02-04,39.5666666667,Brooklyn Nets,Miami Heat,4,78-82,1,three point jumper,True,24,False,False
+2006-02-06,12.7,Brooklyn Nets,New Orleans Pelicans,2,23-25,-1,three point jumper,True,25,False,True
+2006-02-06,14.9666666667,Brooklyn Nets,New Orleans Pelicans,2,27-25,-5,three point jumper,True,24,False,True
+2006-02-08,10.65,Brooklyn Nets,New York Knicks,1,21-19,-5,three point jumper,True,23,True,True
+2006-02-08,11.3333333333,Brooklyn Nets,New York Knicks,1,24-22,-5,three point jumper,True,24,True,True
+2006-02-08,38.8833333333,Brooklyn Nets,New York Knicks,4,65-87,19,three point jumper,True,24,False,True
+2006-02-08,41.5,Brooklyn Nets,New York Knicks,4,67-89,19,three point jumper,True,24,False,True
+2006-02-10,11.9333333333,Brooklyn Nets,San Antonio Spurs,1,22-16,-8,layup,True,0,False,False
+2006-02-10,33.2333333333,Brooklyn Nets,San Antonio Spurs,3,54-50,-7,three point jumper,True,23,False,False
+2006-02-12,12.3333333333,Brooklyn Nets,Milwaukee Bucks,2,20-28,6,layup,True,0,True,True
+2006-02-12,15.0666666667,Brooklyn Nets,Milwaukee Bucks,2,25-37,10,layup,True,0,True,True
+2006-02-12,33.8666666667,Brooklyn Nets,Milwaukee Bucks,3,55-67,9,three point jumper,True,26,False,True
+2006-02-12,35.5333333333,Brooklyn Nets,Milwaukee Bucks,3,59-72,10,three point jumper,True,22,True,True
+2006-02-12,38.8166666667,Brooklyn Nets,Milwaukee Bucks,4,63-78,12,three point jumper,True,25,False,True
+2006-02-12,39.25,Brooklyn Nets,Milwaukee Bucks,4,63-80,15,two point shot,True,1,True,True
+2006-02-12,39.7,Brooklyn Nets,Milwaukee Bucks,4,63-80,16,free throw,True,15,False,True
+2006-02-12,39.7,Brooklyn Nets,Milwaukee Bucks,4,63-81,17,free throw,True,15,True,True
+2006-02-14,35.8,Brooklyn Nets,Detroit Pistons,3,50-70,-22,two point jumper,False,18,False,False
+2006-02-14,44.2333333333,Brooklyn Nets,Detroit Pistons,4,65-85,-23,three point jumper,False,24,False,False
+2006-02-14,46.35,Brooklyn Nets,Detroit Pistons,4,65-87,-25,three point jumper,False,24,False,False
+2006-02-15,15.7666666667,Brooklyn Nets,Charlotte Bobcats,2,32-24,7,free throw,False,15,True,True
+2006-02-15,15.7666666667,Brooklyn Nets,Charlotte Bobcats,2,33-24,8,free throw,False,15,True,True
+2006-02-15,16.3833333333,Brooklyn Nets,Charlotte Bobcats,2,33-24,6,three point jumper,False,23,False,True
+2006-02-15,17.2166666667,Brooklyn Nets,Charlotte Bobcats,2,33-24,6,three point jumper,False,25,False,True
+2006-02-15,19.6,Brooklyn Nets,Charlotte Bobcats,2,39-33,3,three point jumper,False,23,False,True
+2006-02-21,12.3166666667,Brooklyn Nets,Milwaukee Bucks,2,12-26,-16,two point jumper,False,19,False,True
+2006-02-21,13.1166666667,Brooklyn Nets,Milwaukee Bucks,2,12-26,-17,three point jumper,False,26,False,True
+2006-02-22,11.9,Brooklyn Nets,Orlando Magic,1,29-25,-5,free throw,True,15,True,True
+2006-02-22,11.9,Brooklyn Nets,Orlando Magic,1,29-25,-5,free throw,True,15,False,True
+2006-02-24,15.2166666667,Brooklyn Nets,New York Knicks,2,30-20,8,two point jumper,False,1,True,True
+2006-02-24,18.2833333333,Brooklyn Nets,New York Knicks,2,32-22,7,three point jumper,False,25,False,True
+2006-02-24,37.6333333333,Brooklyn Nets,New York Knicks,4,77-58,16,three point jumper,False,26,False,True
+2006-02-26,12.3166666667,Brooklyn Nets,Indiana Pacers,2,21-22,-1,two point jumper,True,20,False,True
+2006-02-26,17.2833333333,Brooklyn Nets,Indiana Pacers,2,36-31,-8,three point jumper,True,23,True,True
+2006-02-26,18.6333333333,Brooklyn Nets,Indiana Pacers,2,38-36,-4,two point jumper,True,23,True,True
+2006-02-26,38.1833333333,Brooklyn Nets,Indiana Pacers,4,79-70,-10,free throw,True,15,False,True
+2006-02-26,38.1833333333,Brooklyn Nets,Indiana Pacers,4,79-71,-9,free throw,True,15,True,True
+2006-03-01,35.3,Brooklyn Nets,Minnesota Timberwolves,3,67-72,-8,three point jumper,False,25,False,True
+2006-03-01,37.8,Brooklyn Nets,Minnesota Timberwolves,4,69-74,-7,two point jumper,False,19,False,True
+2006-03-04,12.4,Brooklyn Nets,Toronto Raptors,2,15-20,3,two point jumper,True,19,True,True
+2006-03-04,36.95,Brooklyn Nets,Toronto Raptors,4,71-64,-9,two point jumper,True,21,False,True
+2006-03-04,37.5166666667,Brooklyn Nets,Toronto Raptors,4,74-66,-10,layup,True,0,True,True
+2006-03-04,39.45,Brooklyn Nets,Toronto Raptors,4,77-70,-10,three point jumper,True,23,False,True
+2006-03-06,20.6,Brooklyn Nets,Sacramento Kings,2,45-43,-5,three point jumper,True,25,False,True
+2006-03-06,47.6166666667,Brooklyn Nets,Sacramento Kings,4,112-82,-33,three point jumper,True,24,False,True
+2006-03-19,46.4833333333,Brooklyn Nets,Dallas Mavericks,4,80-94,12,two point jumper,True,17,False,False
+2006-03-19,46.85,Brooklyn Nets,Dallas Mavericks,4,82-94,10,two point jumper,True,16,False,False
+2006-03-19,47.5,Brooklyn Nets,Dallas Mavericks,4,87-95,7,free throw,True,15,True,False
+2006-03-19,47.5,Brooklyn Nets,Dallas Mavericks,4,87-96,8,free throw,True,15,True,False
+2006-03-27,41.1666666667,Brooklyn Nets,Phoenix Suns,4,55-95,37,three point jumper,True,23,True,False
+2006-03-27,45.5833333333,Brooklyn Nets,Phoenix Suns,4,68-102,31,three point jumper,True,25,True,False
+2006-03-27,46.5166666667,Brooklyn Nets,Phoenix Suns,4,70-105,32,three point jumper,True,22,True,False
+2006-03-31,24.0,Brooklyn Nets,Atlanta Hawks,2,46-45,-2,three point jumper,False,47,False,True
+2006-04-06,46.5333333333,Brooklyn Nets,Charlotte Bobcats,4,99-109,7,three point jumper,True,24,False,True
+2006-04-12,40.5666666667,Brooklyn Nets,Philadelphia 76ers,4,106-78,-31,three point jumper,True,26,False,True
+2006-04-12,41.6333333333,Brooklyn Nets,Philadelphia 76ers,4,108-80,-31,three point jumper,True,24,False,True
+2006-04-12,46.8833333333,Brooklyn Nets,Philadelphia 76ers,4,116-92,-26,tip shot,True,0,True,True
+2006-04-18,13.45,Brooklyn Nets,Philadelphia 76ers,2,32-18,11,three point jumper,False,27,True,False
+2006-04-18,14.2,Brooklyn Nets,Philadelphia 76ers,2,32-18,11,three point jumper,False,24,False,False
+2006-04-18,17.2,Brooklyn Nets,Philadelphia 76ers,2,35-23,9,three point jumper,False,26,False,False
+2006-04-18,20.4333333333,Brooklyn Nets,Philadelphia 76ers,2,40-27,10,three point jumper,False,22,False,False
+2006-04-18,23.9833333333,Brooklyn Nets,Philadelphia 76ers,2,43-37,3,three point jumper,False,27,False,False
+2006-04-18,36.2,Brooklyn Nets,Philadelphia 76ers,4,65-67,-4,two point jumper,False,17,False,False
+2006-04-18,40.85,Brooklyn Nets,Philadelphia 76ers,4,72-75,-4,free throw,False,15,False,False
+2006-04-18,40.85,Brooklyn Nets,Philadelphia 76ers,4,73-75,-3,free throw,False,15,True,False
+2006-04-19,14.3833333333,Brooklyn Nets,New York Knicks,2,26-27,-2,three point jumper,True,24,True,False
+2006-04-19,14.8666666667,Brooklyn Nets,New York Knicks,2,28-30,-1,three point jumper,True,23,True,False
+2006-04-19,17.95,Brooklyn Nets,New York Knicks,2,32-32,-3,three point jumper,True,23,False,False
+2006-04-19,20.4333333333,Brooklyn Nets,New York Knicks,2,36-35,-4,three point jumper,True,25,False,False
+2006-04-19,20.9166666667,Brooklyn Nets,New York Knicks,2,36-35,-3,tip shot,True,0,False,False
+2006-04-19,23.8,Brooklyn Nets,New York Knicks,2,44-39,-8,three point jumper,True,22,False,False
+2006-04-19,29.75,Brooklyn Nets,New York Knicks,3,56-44,-15,three point jumper,True,24,False,False
+2006-04-19,38.1166666667,Brooklyn Nets,New York Knicks,4,72-62,-13,three point jumper,True,27,True,False
+2006-04-19,39.05,Brooklyn Nets,New York Knicks,4,72-64,-10,layup,True,0,False,False
+2006-04-19,39.75,Brooklyn Nets,New York Knicks,4,73-64,-11,two point jumper,True,21,False,False
+2007-11-20,17.2,Houston Rockets,New York Knicks,2,32-28,1,three point jumper,False,24,True,True
+2007-11-20,17.7833333333,Houston Rockets,New York Knicks,2,35-30,2,three point jumper,False,25,True,True
+2007-11-20,34.2166666667,Houston Rockets,New York Knicks,3,61-56,2,three point jumper,False,24,False,True
+2007-03-02,11.9666666667,Memphis Grizzlies,Philadelphia 76ers,1,23-22,0,free throw,False,15,False,False
+2007-03-02,11.9666666667,Memphis Grizzlies,Philadelphia 76ers,1,23-22,0,free throw,False,15,False,False
+2007-03-07,16.45,Memphis Grizzlies,Toronto Raptors,2,26-36,-12,two point shot,False,1,True,False
+2007-03-07,18.95,Memphis Grizzlies,Toronto Raptors,2,31-43,-15,three point jumper,False,24,False,False
+2007-03-07,40.5,Memphis Grizzlies,Toronto Raptors,4,67-90,-26,three point jumper,False,24,False,False
+2007-12-05,42.85,Houston Rockets,Golden State Warriors,4,74-103,27,layup,True,0,False,False
+2007-12-05,44.9333333333,Houston Rockets,Golden State Warriors,4,80-108,27,free throw,True,15,False,False
+2007-12-05,44.9333333333,Houston Rockets,Golden State Warriors,4,80-108,27,free throw,True,15,False,False
+2007-12-23,43.6333333333,Houston Rockets,Los Angeles Clippers,4,87-79,-10,two point jumper,True,20,False,False
+2007-12-12,37.8833333333,Houston Rockets,Los Angeles Lakers,4,90-66,-26,tip shot,True,0,True,True
+2007-12-12,40.6333333333,Houston Rockets,Los Angeles Lakers,4,94-73,-24,three point jumper,True,25,False,True
+2007-12-12,43.4166666667,Houston Rockets,Los Angeles Lakers,4,94-84,-13,three point jumper,True,25,True,True
+2007-12-12,44.55,Houston Rockets,Los Angeles Lakers,4,94-87,-10,three point jumper,True,26,False,True
+2007-12-12,46.7333333333,Houston Rockets,Los Angeles Lakers,4,94-92,-3,free throw,True,15,False,True
+2007-12-12,46.7333333333,Houston Rockets,Los Angeles Lakers,4,94-92,-3,free throw,True,15,False,True
+2007-03-26,12.3333333333,Memphis Grizzlies,Phoenix Suns,2,27-31,-7,three point jumper,False,26,False,True
+2007-11-16,11.1833333333,Houston Rockets,Chicago Bulls,1,24-20,-7,three point jumper,True,27,True,True
+2007-11-16,11.7333333333,Houston Rockets,Chicago Bulls,1,24-20,-7,three point jumper,True,27,False,True
+2007-11-16,12.2166666667,Houston Rockets,Chicago Bulls,2,26-20,-9,three point jumper,True,25,False,True
+2007-11-16,14.6166666667,Houston Rockets,Chicago Bulls,2,28-24,-6,tip shot,True,0,True,True
+2007-11-16,16.6666666667,Houston Rockets,Chicago Bulls,2,30-28,-4,two point shot,True,1,False,True
+2007-11-16,16.6666666667,Houston Rockets,Chicago Bulls,2,30-28,-3,free throw,True,15,False,True
+2007-11-16,16.6666666667,Houston Rockets,Chicago Bulls,2,30-29,-2,free throw,True,15,True,True
+2007-11-16,17.1333333333,Houston Rockets,Chicago Bulls,2,30-31,-1,layup,True,0,True,True
+2007-11-16,20.2,Houston Rockets,Chicago Bulls,2,32-39,5,layup,True,0,True,True
+2007-11-16,20.2,Houston Rockets,Chicago Bulls,2,32-40,7,free throw,True,15,True,True
+2007-11-16,35.8333333333,Houston Rockets,Chicago Bulls,3,67-78,8,three point jumper,True,24,False,True
+2007-01-08,16.7,Houston Rockets,Chicago Bulls,2,18-25,-10,three point jumper,False,26,False,True
+2007-01-08,18.1333333333,Houston Rockets,Chicago Bulls,2,22-25,-6,three point jumper,False,24,False,True
+2007-11-18,10.9833333333,Houston Rockets,Detroit Pistons,1,23-24,-4,three point jumper,False,23,False,True
+2007-11-18,13.0166666667,Houston Rockets,Detroit Pistons,2,27-24,1,two point jumper,False,14,True,True
+2007-11-18,15.45,Houston Rockets,Detroit Pistons,2,33-24,8,free throw,False,15,True,True
+2007-11-18,15.45,Houston Rockets,Detroit Pistons,2,34-24,9,free throw,False,15,True,True
+2007-11-18,17.6333333333,Houston Rockets,Detroit Pistons,2,39-30,7,two point jumper,False,1,False,True
+2007-11-18,39.1166666667,Houston Rockets,Detroit Pistons,4,83-83,-3,three point jumper,False,26,False,True
+2007-02-09,46.4166666667,Houston Rockets,Dallas Mavericks,4,72-93,-23,layup,False,0,True,False
+2007-11-01,16.2,Houston Rockets,Utah Jazz,2,33-45,-15,three point jumper,False,24,True,True
+2007-11-01,19.45,Houston Rockets,Utah Jazz,2,36-55,-22,three point jumper,False,23,False,True
+2007-11-01,24.3,Houston Rockets,Utah Jazz,3,48-60,-14,tip shot,False,0,False,True
+2007-11-07,16.0333333333,Houston Rockets,Memphis Grizzlies,2,26-16,8,two point jumper,False,17,False,True
+2007-11-25,18.3833333333,Houston Rockets,Memphis Grizzlies,2,30-31,-2,three point jumper,True,25,True,True
+2007-11-25,19.4833333333,Houston Rockets,Memphis Grizzlies,2,30-31,-2,three point jumper,True,22,False,True
+2007-11-25,20.8666666667,Houston Rockets,Memphis Grizzlies,2,32-32,-2,tip shot,True,0,False,True
+2007-11-25,32.15,Houston Rockets,Memphis Grizzlies,3,51-59,5,three point jumper,True,25,False,True
+2007-11-25,34.4833333333,Houston Rockets,Memphis Grizzlies,3,53-62,6,three point jumper,True,26,False,True
+2007-11-25,37.8666666667,Houston Rockets,Memphis Grizzlies,4,59-68,6,three point jumper,True,26,False,True
+2007-11-25,38.75,Houston Rockets,Memphis Grizzlies,4,59-68,6,three point jumper,True,24,False,True
+2007-12-08,45.6166666667,Houston Rockets,Charlotte Bobcats,4,92-58,31,three point jumper,False,25,False,True
+2007-12-08,47.5,Houston Rockets,Charlotte Bobcats,4,92-62,27,three point jumper,False,26,False,True
+2007-12-20,22.2666666667,Houston Rockets,Portland Trail Blazers,2,31-42,-14,three point jumper,False,25,False,False
+2007-01-26,47.7166666667,Houston Rockets,Portland Trail Blazers,4,67-98,30,free throw,True,15,True,True
+2007-01-26,47.7166666667,Houston Rockets,Portland Trail Blazers,4,67-99,31,free throw,True,15,True,True
+2007-02-03,45.7833333333,Houston Rockets,New Orleans Pelicans,4,82-64,-20,layup,True,0,False,False
+2007-02-03,47.6166666667,Houston Rockets,New Orleans Pelicans,4,88-73,-17,dunk,True,0,True,False
+2007-02-05,46.1,Houston Rockets,Minnesota Timberwolves,4,72-103,28,three point jumper,True,26,False,False
+2007-02-05,47.95,Houston Rockets,Minnesota Timberwolves,4,77-105,26,two point jumper,True,17,False,False
+2007-02-28,11.85,Memphis Grizzlies,Utah Jazz,1,17-25,5,three point jumper,True,23,False,True
+2007-02-28,43.25,Memphis Grizzlies,Utah Jazz,4,95-77,-20,tip shot,True,0,False,True
+2007-02-28,43.75,Memphis Grizzlies,Utah Jazz,4,98-79,-21,two point jumper,True,18,False,True

@@ -1,0 +1,770 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2006-04-19,9.45,Miami Heat,Boston Celtics,1,14-20,-8,two point jumper,False,15,False,False
+2006-04-19,9.83333333333,Miami Heat,Boston Celtics,1,14-20,-8,two point jumper,False,1,False,False
+2006-04-19,12.45,Miami Heat,Boston Celtics,2,17-24,-9,layup,False,0,False,False
+2006-04-19,12.95,Miami Heat,Boston Celtics,2,17-24,-9,two point jumper,False,1,False,False
+2006-04-19,38.8166666667,Miami Heat,Boston Celtics,4,67-80,-15,two point jumper,False,18,False,False
+2006-04-19,39.4,Miami Heat,Boston Celtics,4,67-80,-15,two point jumper,False,4,False,False
+2006-04-19,43.5333333333,Miami Heat,Boston Celtics,4,68-86,-19,free throw,False,15,False,False
+2006-04-19,43.5333333333,Miami Heat,Boston Celtics,4,69-86,-18,free throw,False,15,True,False
+2006-04-04,47.9666666667,Miami Heat,Milwaukee Bucks,4,89-115,24,two point jumper,True,20,True,False
+2006-11-02,46.75,Miami Heat,Memphis Grizzlies,4,96-75,19,two point shot,False,6,True,True
+2006-11-02,47.5833333333,Miami Heat,Memphis Grizzlies,4,98-78,18,two point shot,False,1,False,True
+2006-04-18,12.0,Miami Heat,Atlanta Hawks,1,28-28,-2,tip shot,False,0,False,False
+2006-04-18,14.3,Miami Heat,Atlanta Hawks,2,30-34,-6,two point jumper,False,10,False,False
+2006-04-18,34.1833333333,Miami Heat,Atlanta Hawks,3,74-69,3,two point jumper,False,16,True,False
+2006-04-18,35.3833333333,Miami Heat,Atlanta Hawks,3,76-73,1,two point jumper,False,15,True,False
+2006-04-18,46.75,Miami Heat,Atlanta Hawks,4,99-100,-3,two point jumper,False,4,True,False
+2006-03-24,46.7333333333,Miami Heat,Charlotte Bobcats,4,88-112,22,two point jumper,True,19,False,False
+2006-03-24,47.65,Miami Heat,Charlotte Bobcats,4,90-113,22,free throw,True,15,True,False
+2006-03-24,47.65,Miami Heat,Charlotte Bobcats,4,90-114,23,free throw,True,15,True,False
+2007-04-16,12.4,Miami Heat,Boston Celtics,2,18-21,1,two point shot,True,9,False,False
+2007-04-16,16.7333333333,Miami Heat,Boston Celtics,2,23-27,2,two point jumper,True,17,True,False
+2007-04-16,31.0666666667,Miami Heat,Boston Celtics,3,51-58,5,two point jumper,True,17,False,False
+2007-04-16,37.6166666667,Miami Heat,Boston Celtics,4,70-67,-5,two point jumper,True,18,False,False
+2007-04-16,39.0666666667,Miami Heat,Boston Celtics,4,75-69,-8,two point jumper,True,4,True,False
+2007-04-16,39.0666666667,Miami Heat,Boston Celtics,4,75-70,-6,free throw,True,15,True,False
+2007-04-16,43.7833333333,Miami Heat,Boston Celtics,4,85-84,-3,layup,True,0,True,False
+2007-04-16,46.6833333333,Miami Heat,Boston Celtics,4,87-87,-2,layup,True,0,False,False
+2007-04-16,47.35,Miami Heat,Boston Celtics,4,89-89,-2,two point shot,True,10,False,False
+2007-01-22,47.7,Miami Heat,New York Knicks,4,83-101,16,two point jumper,True,16,True,False
+2007-01-26,42.1,Miami Heat,New York Knicks,4,87-110,-25,two point jumper,False,19,False,True
+2007-01-26,44.85,Miami Heat,New York Knicks,4,90-112,-23,free throw,False,15,True,True
+2007-01-26,44.85,Miami Heat,New York Knicks,4,91-112,-22,free throw,False,15,True,True
+2007-01-26,45.3,Miami Heat,New York Knicks,4,93-112,-21,two point jumper,False,19,True,True
+2007-01-26,46.9166666667,Miami Heat,New York Knicks,4,95-116,-24,three point jumper,False,25,False,True
+2007-12-11,47.8,Miami Heat,Toronto Raptors,4,77-99,20,two point jumper,True,19,False,True
+2007-12-23,46.3666666667,Miami Heat,Golden State Warriors,4,90-103,11,two point jumper,True,19,False,False
+2007-01-12,47.3166666667,Miami Heat,Golden State Warriors,4,116-96,18,two point jumper,False,1,False,False
+2007-01-03,11.4166666667,Miami Heat,Los Angeles Clippers,1,29-28,-3,two point jumper,True,19,True,True
+2007-01-03,13.3666666667,Miami Heat,Los Angeles Clippers,2,34-29,-7,two point jumper,True,20,False,True
+2007-01-03,16.1,Miami Heat,Los Angeles Clippers,2,39-36,-5,hook shot,True,5,True,True
+2007-01-03,17.25,Miami Heat,Los Angeles Clippers,2,43-38,-7,hook shot,True,5,False,True
+2007-01-03,17.75,Miami Heat,Los Angeles Clippers,2,43-38,-7,two point jumper,True,16,False,True
+2007-01-03,18.85,Miami Heat,Los Angeles Clippers,2,49-38,-13,two point shot,True,1,False,True
+2007-01-03,23.9833333333,Miami Heat,Los Angeles Clippers,2,61-51,-12,two point jumper,True,1,False,True
+2007-01-03,34.4,Miami Heat,Los Angeles Clippers,3,87-62,-27,two point jumper,True,6,False,True
+2007-01-03,43.7333333333,Miami Heat,Los Angeles Clippers,4,104-87,-19,two point jumper,True,19,True,True
+2007-01-03,44.9666666667,Miami Heat,Los Angeles Clippers,4,106-87,-21,two point jumper,True,1,False,True
+2007-12-13,22.9666666667,Miami Heat,Phoenix Suns,2,53-38,-17,two point jumper,True,18,False,False
+2007-03-07,46.4333333333,Miami Heat,Chicago Bulls,4,65-97,31,free throw,True,15,True,False
+2007-03-07,46.4333333333,Miami Heat,Chicago Bulls,4,65-98,32,free throw,True,15,True,False
+2007-03-23,38.1333333333,Miami Heat,Indiana Pacers,4,51-77,-28,two point jumper,False,7,False,False
+2007-03-23,39.25,Miami Heat,Indiana Pacers,4,53-81,-30,two point jumper,False,17,False,False
+2007-03-23,44.5166666667,Miami Heat,Indiana Pacers,4,58-88,-32,two point jumper,False,18,False,False
+2007-03-23,47.25,Miami Heat,Indiana Pacers,4,68-93,-27,layup,False,0,True,False
+2007-12-20,44.2166666667,Miami Heat,Milwaukee Bucks,4,82-111,-30,free throw,False,15,True,True
+2007-12-20,44.2166666667,Miami Heat,Milwaukee Bucks,4,84-116,-33,free throw,False,15,True,True
+2007-12-20,45.4,Miami Heat,Milwaukee Bucks,4,86-116,-32,two point jumper,False,21,True,True
+2007-01-30,40.85,Miami Heat,Milwaukee Bucks,4,71-100,27,two point shot,True,13,False,False
+2007-01-30,43.9166666667,Miami Heat,Milwaukee Bucks,4,73-105,30,two point jumper,True,1,False,False
+2007-01-30,45.0166666667,Miami Heat,Milwaukee Bucks,4,75-107,30,dunk,True,0,True,False
+2007-01-30,47.2333333333,Miami Heat,Milwaukee Bucks,4,77-110,31,two point jumper,True,15,False,False
+2007-11-21,45.0333333333,Miami Heat,New Orleans Pelicans,4,80-96,-18,two point jumper,False,21,False,True
+2007-11-21,45.55,Miami Heat,New Orleans Pelicans,4,80-96,-18,layup,False,0,False,True
+2007-11-21,45.5833333333,Miami Heat,New Orleans Pelicans,4,80-96,-18,tip shot,False,0,False,True
+2007-11-21,45.65,Miami Heat,New Orleans Pelicans,4,80-96,-18,layup,False,0,False,True
+2007-11-21,46.1,Miami Heat,New Orleans Pelicans,4,82-98,-18,two point jumper,False,7,True,True
+2007-11-21,46.9666666667,Miami Heat,New Orleans Pelicans,4,85-98,-14,free throw,False,15,True,True
+2007-11-21,46.9666666667,Miami Heat,New Orleans Pelicans,4,86-98,-13,free throw,False,15,True,True
+2007-11-21,47.5,Miami Heat,New Orleans Pelicans,4,86-101,-17,two point jumper,False,18,False,True
+2007-11-21,47.6166666667,Miami Heat,New Orleans Pelicans,4,86-101,-17,two point jumper,False,18,False,True
+2007-11-22,21.4833333333,Miami Heat,San Antonio Spurs,2,29-45,-18,two point jumper,False,14,True,True
+2007-11-22,23.9666666667,Miami Heat,San Antonio Spurs,2,38-57,-21,dunk,False,0,True,True
+2007-11-22,24.4333333333,Miami Heat,San Antonio Spurs,3,40-57,-19,layup,False,0,True,True
+2007-11-22,26.1333333333,Miami Heat,San Antonio Spurs,3,42-61,-21,layup,False,0,True,True
+2007-11-22,26.1333333333,Miami Heat,San Antonio Spurs,3,43-61,-19,free throw,False,15,True,True
+2007-11-22,38.6166666667,Miami Heat,San Antonio Spurs,4,64-91,-29,two point jumper,False,10,False,True
+2007-11-22,39.0666666667,Miami Heat,San Antonio Spurs,4,64-91,-29,two point jumper,False,17,False,True
+2007-11-22,40.9166666667,Miami Heat,San Antonio Spurs,4,66-93,-29,layup,False,0,True,True
+2007-11-22,41.4833333333,Miami Heat,San Antonio Spurs,4,67-93,-27,free throw,False,15,True,True
+2007-11-22,41.4833333333,Miami Heat,San Antonio Spurs,4,68-93,-26,free throw,False,15,True,True
+2007-11-22,41.9833333333,Miami Heat,San Antonio Spurs,4,68-95,-29,two point jumper,False,18,False,True
+2007-11-22,46.4,Miami Heat,San Antonio Spurs,4,83-102,-21,layup,False,0,True,True
+2007-03-26,47.4833333333,Miami Heat,Atlanta Hawks,4,89-104,13,two point jumper,True,20,False,False
+2007-04-10,41.8833333333,Miami Heat,Charlotte Bobcats,4,67-83,-18,two point jumper,False,18,False,False
+2007-04-10,42.7833333333,Miami Heat,Charlotte Bobcats,4,67-83,-18,hook shot,False,10,False,False
+2007-04-10,45.0333333333,Miami Heat,Charlotte Bobcats,4,68-90,-23,free throw,False,15,True,False
+2007-04-10,45.0333333333,Miami Heat,Charlotte Bobcats,4,69-90,-22,free throw,False,15,True,False
+2007-11-24,14.05,Miami Heat,Orlando Magic,2,24-29,3,two point jumper,True,1,True,False
+2007-11-24,16.0666666667,Miami Heat,Orlando Magic,2,31-29,-4,layup,True,0,False,False
+2007-11-24,17.2333333333,Miami Heat,Orlando Magic,2,33-31,-4,two point jumper,True,17,False,False
+2007-11-24,37.8833333333,Miami Heat,Orlando Magic,4,85-78,-9,two point jumper,True,12,False,False
+2007-12-08,29.9833333333,Miami Heat,Denver Nuggets,3,68-91,-25,layup,False,0,False,False
+2007-12-08,33.25,Miami Heat,Denver Nuggets,3,83-96,-15,two point shot,False,7,True,False
+2007-12-08,43.9166666667,Miami Heat,Denver Nuggets,4,96-112,-18,two point shot,False,8,False,False
+2007-12-08,44.9833333333,Miami Heat,Denver Nuggets,4,96-116,-21,free throw,False,15,False,False
+2007-12-08,44.9833333333,Miami Heat,Denver Nuggets,4,97-116,-20,free throw,False,15,True,False
+2007-12-08,45.5,Miami Heat,Denver Nuggets,4,100-118,-20,tip shot,False,0,True,False
+2007-12-08,46.0166666667,Miami Heat,Denver Nuggets,4,102-120,-20,layup,False,0,True,False
+2007-12-30,19.9166666667,Miami Heat,Orlando Magic,2,31-42,-13,two point jumper,False,1,False,False
+2007-12-30,21.2,Miami Heat,Orlando Magic,2,32-44,-13,free throw,False,15,True,False
+2007-12-30,21.2,Miami Heat,Orlando Magic,2,33-44,-12,free throw,False,15,True,False
+2007-12-30,23.3333333333,Miami Heat,Orlando Magic,2,37-46,-11,two point jumper,False,18,False,False
+2007-12-30,23.9,Miami Heat,Orlando Magic,2,37-46,-11,layup,False,0,False,False
+2007-12-30,43.1,Miami Heat,Orlando Magic,4,59-80,-23,two point jumper,False,7,False,False
+2007-12-30,43.9833333333,Miami Heat,Orlando Magic,4,59-84,-27,two point jumper,False,19,False,False
+2007-01-10,9.26666666667,Miami Heat,Oklahoma City Thunder,1,19-24,-7,two point jumper,False,14,False,True
+2007-01-10,12.4,Miami Heat,Oklahoma City Thunder,2,27-30,-5,two point jumper,False,19,False,True
+2007-03-18,46.4333333333,Miami Heat,Orlando Magic,4,95-79,-18,two point jumper,True,1,False,False
+2007-04-11,39.0666666667,Miami Heat,Washington Wizards,4,66-68,0,two point jumper,True,16,False,True
+2007-04-11,41.7833333333,Miami Heat,Washington Wizards,4,72-74,0,two point jumper,True,19,True,True
+2007-04-18,16.75,Miami Heat,Orlando Magic,2,27-28,-3,two point jumper,False,18,False,False
+2007-04-18,17.35,Miami Heat,Orlando Magic,2,27-28,-3,hook shot,False,9,False,False
+2007-04-18,44.0333333333,Miami Heat,Orlando Magic,4,62-85,-25,two point jumper,False,12,False,False
+2007-04-18,46.1666666667,Miami Heat,Orlando Magic,4,66-92,-28,tip shot,False,0,True,False
+2007-04-18,46.7833333333,Miami Heat,Orlando Magic,4,66-92,-28,two point jumper,False,15,False,False
+2008-01-29,8.75,Miami Heat,Boston Celtics,1,20-14,-8,two point jumper,True,20,False,True
+2008-01-29,11.4,Miami Heat,Boston Celtics,1,29-14,-16,free throw,True,15,False,True
+2008-01-29,11.4,Miami Heat,Boston Celtics,1,29-14,-16,free throw,True,15,False,True
+2008-01-29,35.55,Miami Heat,Boston Celtics,3,93-61,-34,two point jumper,True,19,True,True
+2008-01-29,41.8166666667,Miami Heat,Boston Celtics,4,105-72,-34,free throw,True,15,True,True
+2008-01-29,41.8166666667,Miami Heat,Boston Celtics,4,105-73,-33,free throw,True,15,True,True
+2008-01-29,42.85,Miami Heat,Boston Celtics,4,108-75,-35,two point shot,True,9,True,True
+2008-01-29,44.0666666667,Miami Heat,Boston Celtics,4,108-75,-35,two point jumper,True,21,False,True
+2008-01-29,44.4833333333,Miami Heat,Boston Celtics,4,108-76,-33,free throw,True,15,True,True
+2008-01-29,44.4833333333,Miami Heat,Boston Celtics,4,108-77,-32,free throw,True,15,True,True
+2008-01-29,47.95,Miami Heat,Boston Celtics,4,117-87,-32,two point jumper,True,18,True,True
+2008-03-30,1.06666666667,Miami Heat,Boston Celtics,1,0-2,-4,two point jumper,False,19,False,False
+2008-03-30,2.9,Miami Heat,Boston Celtics,1,2-7,-7,two point jumper,False,20,False,False
+2008-03-30,28.2833333333,Miami Heat,Boston Celtics,3,38-57,-21,tip shot,False,0,True,False
+2008-12-20,9.11666666667,Miami Heat,Brooklyn Nets,1,15-19,2,two point jumper,True,18,False,False
+2008-12-20,13.3833333333,Miami Heat,Brooklyn Nets,2,23-25,0,layup,True,0,True,False
+2008-12-20,13.3833333333,Miami Heat,Brooklyn Nets,2,23-25,1,free throw,True,15,False,False
+2008-12-20,14.5,Miami Heat,Brooklyn Nets,2,25-25,-2,two point jumper,True,20,False,False
+2008-12-20,37.3833333333,Miami Heat,Brooklyn Nets,4,68-73,3,two point jumper,True,17,True,False
+2008-02-01,0.65,Miami Heat,Brooklyn Nets,1,0-0,-2,two point jumper,True,19,False,False
+2008-02-01,5.06666666667,Miami Heat,Brooklyn Nets,1,14-12,-4,two point jumper,True,19,True,False
+2008-02-01,7.03333333333,Miami Heat,Brooklyn Nets,1,18-14,-6,two point jumper,True,17,False,False
+2008-02-01,15.4666666667,Miami Heat,Brooklyn Nets,2,30-25,-7,two point jumper,True,21,False,False
+2008-02-01,16.8833333333,Miami Heat,Brooklyn Nets,2,32-25,-9,two point jumper,True,9,False,False
+2008-02-01,38.5833333333,Miami Heat,Brooklyn Nets,4,75-65,-12,two point jumper,True,16,False,False
+2008-03-26,2.11666666667,Miami Heat,New York Knicks,1,0-4,-6,two point jumper,False,15,False,True
+2008-03-26,2.7,Miami Heat,New York Knicks,1,2-6,-6,layup,False,0,True,True
+2008-03-26,3.68333333333,Miami Heat,New York Knicks,1,5-8,-5,two point jumper,False,21,False,True
+2008-03-26,4.28333333333,Miami Heat,New York Knicks,1,5-10,-7,two point jumper,False,1,False,True
+2008-03-26,5.35,Miami Heat,New York Knicks,1,10-10,-2,two point jumper,False,18,True,True
+2008-03-26,8.0,Miami Heat,New York Knicks,1,14-16,-4,two point jumper,False,18,False,True
+2008-03-26,25.0666666667,Miami Heat,New York Knicks,3,42-48,-8,two point jumper,False,17,False,True
+2008-03-26,25.8166666667,Miami Heat,New York Knicks,3,43-48,-6,free throw,False,15,True,True
+2008-03-26,25.8166666667,Miami Heat,New York Knicks,3,43-48,-6,free throw,False,15,False,True
+2008-03-26,29.5333333333,Miami Heat,New York Knicks,3,50-53,-5,tip shot,False,0,False,True
+2008-12-26,11.0,Miami Heat,Philadelphia 76ers,1,15-23,-10,two point jumper,False,15,True,False
+2008-12-26,12.8833333333,Miami Heat,Philadelphia 76ers,2,18-27,-11,two point jumper,False,18,False,False
+2008-12-26,35.1166666667,Miami Heat,Philadelphia 76ers,3,62-74,-14,two point jumper,False,16,False,False
+2008-02-07,13.5166666667,Miami Heat,Philadelphia 76ers,2,28-34,-8,two point shot,False,1,True,True
+2008-02-07,15.5666666667,Miami Heat,Philadelphia 76ers,2,32-36,-6,two point shot,False,4,True,True
+2008-02-07,15.5666666667,Miami Heat,Philadelphia 76ers,2,33-36,-4,free throw,False,15,True,True
+2008-02-07,35.9833333333,Miami Heat,Philadelphia 76ers,3,72-75,-5,two point jumper,False,21,False,True
+2008-02-07,37.45,Miami Heat,Philadelphia 76ers,4,72-79,-9,two point jumper,False,12,False,True
+2008-02-07,37.65,Miami Heat,Philadelphia 76ers,4,72-79,-9,layup,False,0,False,True
+2008-02-04,2.13333333333,Miami Heat,Toronto Raptors,1,6-0,-8,two point jumper,True,1,False,True
+2008-02-04,2.55,Miami Heat,Toronto Raptors,1,8-2,-8,two point jumper,True,19,True,True
+2008-02-04,3.75,Miami Heat,Toronto Raptors,1,11-2,-11,two point jumper,True,21,False,True
+2008-02-04,23.4,Miami Heat,Toronto Raptors,2,59-41,-20,tip shot,True,0,False,True
+2008-02-04,24.3166666667,Miami Heat,Toronto Raptors,3,59-41,-20,two point jumper,True,17,False,True
+2008-02-04,29.75,Miami Heat,Toronto Raptors,3,72-56,-18,two point jumper,True,21,True,True
+2008-02-04,32.2166666667,Miami Heat,Toronto Raptors,3,82-58,-26,two point shot,True,14,False,True
+2008-02-04,43.5,Miami Heat,Toronto Raptors,4,107-73,-35,free throw,True,15,True,True
+2008-02-04,43.5,Miami Heat,Toronto Raptors,4,107-74,-34,free throw,True,15,True,True
+2008-03-05,8.41666666667,Miami Heat,Toronto Raptors,1,23-10,-15,tip shot,True,0,True,True
+2008-03-05,8.85,Miami Heat,Toronto Raptors,1,23-10,-15,two point jumper,True,14,False,True
+2008-03-05,9.85,Miami Heat,Toronto Raptors,1,27-14,-15,layup,True,0,True,True
+2008-03-05,14.3833333333,Miami Heat,Toronto Raptors,2,31-21,-12,two point jumper,True,17,True,True
+2008-03-05,19.0666666667,Miami Heat,Toronto Raptors,2,44-34,-12,two point jumper,True,19,False,True
+2008-03-05,28.6,Miami Heat,Toronto Raptors,3,65-45,-22,hook shot,True,1,False,True
+2008-03-05,31.6666666667,Miami Heat,Toronto Raptors,3,72-50,-24,two point jumper,True,4,True,True
+2008-03-05,38.3666666667,Miami Heat,Toronto Raptors,4,86-60,-28,two point jumper,True,10,False,True
+2008-03-05,43.4166666667,Miami Heat,Toronto Raptors,4,99-71,-30,dunk,True,0,False,True
+2008-03-05,46.6,Miami Heat,Toronto Raptors,4,108-78,-32,two point jumper,True,18,True,True
+2008-03-19,8.31666666667,Miami Heat,Toronto Raptors,1,11-22,-13,two point jumper,False,20,False,False
+2008-03-19,8.9,Miami Heat,Toronto Raptors,1,11-22,-13,two point jumper,False,19,False,False
+2008-03-19,10.35,Miami Heat,Toronto Raptors,1,13-27,-16,two point jumper,False,21,True,False
+2008-03-19,16.95,Miami Heat,Toronto Raptors,2,20-38,-20,two point shot,False,17,False,False
+2008-03-19,17.6,Miami Heat,Toronto Raptors,2,20-41,-23,two point jumper,False,21,False,False
+2008-03-19,18.8833333333,Miami Heat,Toronto Raptors,2,20-43,-25,two point jumper,False,20,False,False
+2008-03-19,27.65,Miami Heat,Toronto Raptors,3,30-63,-35,two point jumper,False,23,False,False
+2008-03-19,37.95,Miami Heat,Toronto Raptors,4,47-80,-35,two point shot,False,9,False,False
+2008-03-19,44.0666666667,Miami Heat,Toronto Raptors,4,53-94,-43,two point jumper,False,19,False,False
+2008-03-19,46.4166666667,Miami Heat,Toronto Raptors,4,53-94,-43,two point jumper,False,1,False,False
+2008-03-19,47.8833333333,Miami Heat,Toronto Raptors,4,53-96,-44,free throw,False,15,False,False
+2008-03-19,47.8833333333,Miami Heat,Toronto Raptors,4,54-96,-43,free throw,False,15,True,False
+2008-04-14,8.75,Miami Heat,Toronto Raptors,1,21-19,0,two point jumper,False,9,False,False
+2008-04-14,11.3666666667,Miami Heat,Toronto Raptors,1,25-25,-2,two point jumper,False,21,True,False
+2008-04-14,12.3833333333,Miami Heat,Toronto Raptors,2,30-25,3,two point jumper,False,1,True,False
+2008-04-14,15.1333333333,Miami Heat,Toronto Raptors,2,34-30,2,two point shot,False,9,False,False
+2008-04-14,16.6,Miami Heat,Toronto Raptors,2,36-32,2,tip shot,False,0,True,False
+2008-04-14,17.35,Miami Heat,Toronto Raptors,2,38-32,4,two point jumper,False,19,True,False
+2008-04-14,30.5,Miami Heat,Toronto Raptors,3,57-55,0,two point jumper,False,21,False,False
+2008-04-14,35.3833333333,Miami Heat,Toronto Raptors,3,64-70,-8,two point jumper,False,18,False,False
+2008-04-14,44.85,Miami Heat,Toronto Raptors,4,69-85,-18,tip shot,False,0,False,False
+2008-02-28,9.06666666667,Miami Heat,Los Angeles Lakers,1,8-22,-16,layup,False,0,False,True
+2008-02-28,10.2166666667,Miami Heat,Los Angeles Lakers,1,14-24,-12,two point jumper,False,18,True,True
+2008-02-26,9.35,Miami Heat,Sacramento Kings,1,24-21,-5,layup,True,0,True,False
+2008-02-26,13.95,Miami Heat,Sacramento Kings,2,34-31,-4,free throw,True,15,False,False
+2008-02-26,13.95,Miami Heat,Sacramento Kings,2,34-32,-3,free throw,True,15,True,False
+2008-02-26,14.9666666667,Miami Heat,Sacramento Kings,2,34-35,0,free throw,True,15,True,False
+2008-02-26,14.9666666667,Miami Heat,Sacramento Kings,2,34-36,1,free throw,True,15,True,False
+2008-02-26,34.1,Miami Heat,Sacramento Kings,3,59-85,24,two point jumper,True,1,True,False
+2008-02-26,35.25,Miami Heat,Sacramento Kings,3,61-87,24,two point jumper,True,20,True,False
+2008-02-26,37.3833333333,Miami Heat,Sacramento Kings,4,67-89,20,two point jumper,True,16,False,False
+2008-02-26,46.4166666667,Miami Heat,Sacramento Kings,4,82-101,17,two point jumper,True,17,False,False
+2008-02-26,46.8666666667,Miami Heat,Sacramento Kings,4,84-103,17,tip shot,True,0,True,False
+2008-03-02,3.7,Miami Heat,Sacramento Kings,1,11-6,3,two point jumper,False,16,True,False
+2008-03-02,13.2166666667,Miami Heat,Sacramento Kings,2,41-27,12,two point jumper,False,20,True,False
+2008-02-14,15.05,Miami Heat,Chicago Bulls,2,30-32,-4,two point jumper,False,18,False,False
+2008-02-14,17.8833333333,Miami Heat,Chicago Bulls,2,32-40,-10,two point shot,False,11,True,False
+2008-02-14,17.8833333333,Miami Heat,Chicago Bulls,2,32-40,-9,free throw,False,15,False,False
+2008-02-14,20.2833333333,Miami Heat,Chicago Bulls,2,37-42,-7,two point jumper,False,1,False,False
+2008-04-08,0.433333333333,Miami Heat,Chicago Bulls,1,0-0,-2,two point jumper,True,20,False,True
+2008-04-08,4.95,Miami Heat,Chicago Bulls,1,11-8,-5,two point jumper,True,20,True,True
+2008-04-08,5.48333333333,Miami Heat,Chicago Bulls,1,11-8,-5,layup,True,0,False,True
+2008-04-08,5.5,Miami Heat,Chicago Bulls,1,11-10,-3,tip shot,True,0,True,True
+2008-04-08,7.88333333333,Miami Heat,Chicago Bulls,1,17-12,-7,two point jumper,True,18,False,True
+2008-04-08,8.43333333333,Miami Heat,Chicago Bulls,1,17-12,-7,two point jumper,True,20,False,True
+2008-04-08,22.0,Miami Heat,Chicago Bulls,2,41-37,-6,dunk,True,0,True,True
+2008-04-08,24.0,Miami Heat,Chicago Bulls,2,49-43,-9,three point jumper,True,26,False,True
+2008-04-08,26.7166666667,Miami Heat,Chicago Bulls,3,55-48,-9,two point jumper,True,18,True,True
+2008-04-08,27.9,Miami Heat,Chicago Bulls,3,59-50,-11,two point jumper,True,18,True,True
+2008-04-08,31.5666666667,Miami Heat,Chicago Bulls,3,61-62,-1,two point jumper,True,19,False,True
+2008-04-08,43.2333333333,Miami Heat,Chicago Bulls,4,75-87,11,free throw,True,15,False,True
+2008-04-08,43.2333333333,Miami Heat,Chicago Bulls,4,75-88,12,free throw,True,15,True,True
+2008-04-08,44.2166666667,Miami Heat,Chicago Bulls,4,79-92,11,two point jumper,True,19,True,True
+2008-12-25,18.0333333333,Miami Heat,Cleveland Cavaliers,2,29-32,-5,two point shot,False,1,True,False
+2008-12-25,18.0333333333,Miami Heat,Cleveland Cavaliers,2,30-32,-3,free throw,False,15,True,False
+2008-12-25,32.85,Miami Heat,Cleveland Cavaliers,3,59-58,-1,two point jumper,False,13,False,False
+2008-12-25,35.9833333333,Miami Heat,Cleveland Cavaliers,3,61-67,-9,three point jumper,False,25,False,False
+2008-12-25,36.8833333333,Miami Heat,Cleveland Cavaliers,4,63-67,-6,two point jumper,False,18,True,False
+2008-12-25,38.3666666667,Miami Heat,Cleveland Cavaliers,4,63-71,-10,layup,False,0,False,False
+2008-12-25,38.45,Miami Heat,Cleveland Cavaliers,4,65-71,-8,two point shot,False,1,True,False
+2008-12-25,42.1333333333,Miami Heat,Cleveland Cavaliers,4,72-86,-16,two point jumper,False,11,False,False
+2008-12-25,47.2,Miami Heat,Cleveland Cavaliers,4,80-96,-17,free throw,False,15,False,False
+2008-12-25,47.2,Miami Heat,Cleveland Cavaliers,4,80-96,-17,free throw,False,15,False,False
+2008-04-13,10.0,Miami Heat,Cleveland Cavaliers,1,15-19,-5,free throw,False,15,True,False
+2008-04-13,10.0,Miami Heat,Cleveland Cavaliers,1,16-19,-4,free throw,False,15,True,False
+2008-04-13,11.0333333333,Miami Heat,Cleveland Cavaliers,1,19-19,-2,two point jumper,False,16,False,False
+2008-04-13,15.6333333333,Miami Heat,Cleveland Cavaliers,2,24-24,-2,two point shot,False,6,True,False
+2008-04-13,16.1666666667,Miami Heat,Cleveland Cavaliers,2,26-24,0,two point jumper,False,19,True,False
+2008-04-13,17.6666666667,Miami Heat,Cleveland Cavaliers,2,26-27,-3,two point jumper,False,19,False,False
+2008-04-13,17.95,Miami Heat,Cleveland Cavaliers,2,28-27,-1,two point jumper,False,21,True,False
+2008-04-13,20.05,Miami Heat,Cleveland Cavaliers,2,28-35,-9,layup,False,0,False,False
+2008-04-13,20.2166666667,Miami Heat,Cleveland Cavaliers,2,30-35,-7,two point shot,False,1,True,False
+2008-04-13,31.8166666667,Miami Heat,Cleveland Cavaliers,3,53-51,1,free throw,False,15,True,False
+2008-04-13,31.8166666667,Miami Heat,Cleveland Cavaliers,3,53-51,1,free throw,False,15,False,False
+2008-04-13,32.4833333333,Miami Heat,Cleveland Cavaliers,3,55-53,0,two point shot,False,13,True,False
+2008-04-13,33.05,Miami Heat,Cleveland Cavaliers,3,55-53,0,two point jumper,False,7,False,False
+2008-04-13,33.7,Miami Heat,Cleveland Cavaliers,3,55-53,0,layup,False,0,False,False
+2008-04-13,36.8166666667,Miami Heat,Cleveland Cavaliers,4,59-57,0,two point jumper,False,20,False,False
+2008-04-13,38.4333333333,Miami Heat,Cleveland Cavaliers,4,60-59,-1,two point jumper,False,22,False,False
+2008-04-13,42.35,Miami Heat,Cleveland Cavaliers,4,63-71,-10,two point jumper,False,19,False,False
+2008-02-06,10.35,Miami Heat,Detroit Pistons,1,18-16,0,layup,False,0,False,True
+2008-02-06,12.3,Miami Heat,Detroit Pistons,2,22-18,2,two point jumper,False,21,False,True
+2008-02-06,12.6333333333,Miami Heat,Detroit Pistons,2,24-21,1,dunk,False,0,True,True
+2008-02-06,14.1833333333,Miami Heat,Detroit Pistons,2,27-23,2,two point jumper,False,17,False,True
+2008-02-06,21.2833333333,Miami Heat,Detroit Pistons,2,46-40,4,two point jumper,False,19,False,True
+2008-03-27,2.2,Miami Heat,Detroit Pistons,1,5-6,-3,two point jumper,False,20,False,False
+2008-03-27,5.03333333333,Miami Heat,Detroit Pistons,1,13-10,1,dunk,False,0,True,False
+2008-03-27,5.78333333333,Miami Heat,Detroit Pistons,1,15-12,1,two point jumper,False,19,True,False
+2008-03-27,7.48333333333,Miami Heat,Detroit Pistons,1,21-16,3,dunk,False,0,True,False
+2008-03-27,24.6333333333,Miami Heat,Detroit Pistons,3,45-45,-2,two point jumper,False,20,False,False
+2008-03-27,26.5,Miami Heat,Detroit Pistons,3,47-47,-2,two point jumper,False,20,True,False
+2008-03-27,27.8166666667,Miami Heat,Detroit Pistons,3,49-49,-2,two point jumper,False,21,True,False
+2008-03-27,28.7,Miami Heat,Detroit Pistons,3,49-49,-2,two point jumper,False,20,False,False
+2008-04-06,1.2,Miami Heat,Detroit Pistons,1,0-4,2,two point jumper,True,19,True,False
+2008-04-06,1.81666666667,Miami Heat,Detroit Pistons,1,2-6,2,two point jumper,True,10,True,False
+2008-04-06,1.81666666667,Miami Heat,Detroit Pistons,1,2-7,4,free throw,True,15,True,False
+2008-04-06,3.01666666667,Miami Heat,Detroit Pistons,1,2-9,5,two point jumper,True,1,True,False
+2008-04-06,3.33333333333,Miami Heat,Detroit Pistons,1,5-11,4,layup,True,0,True,False
+2008-04-06,3.86666666667,Miami Heat,Detroit Pistons,1,5-11,3,three point jumper,True,23,False,False
+2008-04-06,5.06666666667,Miami Heat,Detroit Pistons,1,7-11,2,two point jumper,True,18,False,False
+2008-04-06,5.41666666667,Miami Heat,Detroit Pistons,1,9-13,2,two point shot,True,1,True,False
+2008-04-06,6.13333333333,Miami Heat,Detroit Pistons,1,10-13,1,two point jumper,True,20,False,False
+2008-04-06,7.38333333333,Miami Heat,Detroit Pistons,1,12-13,-1,two point jumper,True,1,False,False
+2008-04-06,22.2666666667,Miami Heat,Detroit Pistons,2,36-27,-11,two point jumper,True,5,False,False
+2008-04-06,23.9333333333,Miami Heat,Detroit Pistons,2,39-27,-15,three point jumper,True,25,False,False
+2008-04-06,24.4,Miami Heat,Detroit Pistons,3,39-28,-12,free throw,True,15,True,False
+2008-04-06,24.4,Miami Heat,Detroit Pistons,3,39-29,-11,free throw,True,15,True,False
+2008-04-06,25.5,Miami Heat,Detroit Pistons,3,39-29,-12,two point shot,True,11,False,False
+2008-04-06,27.4666666667,Miami Heat,Detroit Pistons,3,46-32,-16,two point jumper,True,21,False,False
+2008-04-06,42.35,Miami Heat,Detroit Pistons,4,80-61,-20,free throw,True,15,False,False
+2008-04-06,42.35,Miami Heat,Detroit Pistons,4,80-62,-19,free throw,True,15,True,False
+2008-04-06,43.75,Miami Heat,Detroit Pistons,4,82-66,-18,two point jumper,True,19,True,False
+2008-04-06,44.3333333333,Miami Heat,Detroit Pistons,4,82-67,-16,free throw,True,15,True,False
+2008-04-06,44.3333333333,Miami Heat,Detroit Pistons,4,82-68,-15,free throw,True,15,True,False
+2008-04-06,46.55,Miami Heat,Detroit Pistons,4,89-74,-16,free throw,True,15,True,False
+2008-04-06,46.55,Miami Heat,Detroit Pistons,4,89-75,-15,free throw,True,15,True,False
+2008-04-06,47.0166666667,Miami Heat,Detroit Pistons,4,91-75,-18,dunk,True,0,False,False
+2008-01-26,11.2666666667,Miami Heat,Indiana Pacers,1,26-20,-7,free throw,True,15,True,True
+2008-01-26,11.2666666667,Miami Heat,Indiana Pacers,1,26-21,-6,free throw,True,15,True,True
+2008-01-26,12.5666666667,Miami Heat,Indiana Pacers,2,30-25,-7,two point jumper,True,18,True,True
+2008-01-26,14.5666666667,Miami Heat,Indiana Pacers,2,35-27,-10,two point jumper,True,19,False,True
+2008-01-26,15.6333333333,Miami Heat,Indiana Pacers,2,38-29,-11,two point jumper,True,1,True,True
+2008-01-26,16.7,Miami Heat,Indiana Pacers,2,40-33,-9,layup,True,0,True,True
+2008-01-26,17.6,Miami Heat,Indiana Pacers,2,40-33,-9,tip shot,True,0,False,True
+2008-01-26,17.6333333333,Miami Heat,Indiana Pacers,2,40-33,-9,tip shot,True,0,False,True
+2008-01-26,19.85,Miami Heat,Indiana Pacers,2,44-37,-9,layup,True,0,True,True
+2008-03-31,1.65,Miami Heat,Indiana Pacers,1,0-5,-7,two point shot,False,2,False,True
+2008-03-31,2.05,Miami Heat,Indiana Pacers,1,2-5,-5,two point jumper,False,21,True,True
+2008-03-31,8.71666666667,Miami Heat,Indiana Pacers,1,21-18,1,two point jumper,False,18,False,True
+2008-03-31,19.9833333333,Miami Heat,Indiana Pacers,2,33-44,-13,two point jumper,False,19,False,True
+2008-03-31,21.35,Miami Heat,Indiana Pacers,2,36-47,-13,two point shot,False,1,False,True
+2008-03-31,28.7833333333,Miami Heat,Indiana Pacers,3,52-62,-12,two point jumper,False,19,False,True
+2008-03-31,46.1666666667,Miami Heat,Indiana Pacers,4,83-101,-20,layup,False,0,False,True
+2008-03-31,46.8666666667,Miami Heat,Indiana Pacers,4,84-105,-22,free throw,False,15,True,True
+2008-03-31,46.8666666667,Miami Heat,Indiana Pacers,4,84-105,-22,free throw,False,15,False,True
+2008-01-02,11.9,Miami Heat,Milwaukee Bucks,1,22-26,1,three point jumper,True,25,False,True
+2008-01-02,19.1666666667,Miami Heat,Milwaukee Bucks,2,33-39,4,two point shot,True,1,True,True
+2008-01-02,20.4833333333,Miami Heat,Milwaukee Bucks,2,35-42,5,two point jumper,True,21,False,True
+2008-01-02,35.15,Miami Heat,Milwaukee Bucks,3,68-67,-3,tip shot,True,0,False,True
+2008-01-02,35.9666666667,Miami Heat,Milwaukee Bucks,3,71-67,-7,three point jumper,True,25,False,True
+2008-01-09,8.61666666667,Miami Heat,Milwaukee Bucks,1,15-23,-10,two point jumper,False,17,True,False
+2008-01-09,12.0,Miami Heat,Milwaukee Bucks,1,23-25,-5,three point jumper,False,66,False,False
+2008-01-09,12.2166666667,Miami Heat,Milwaukee Bucks,2,23-25,-4,layup,False,0,False,False
+2008-01-09,13.3166666667,Miami Heat,Milwaukee Bucks,2,23-27,-5,free throw,False,15,False,False
+2008-01-09,13.3166666667,Miami Heat,Milwaukee Bucks,2,23-27,-5,free throw,False,15,False,False
+2008-01-09,30.3166666667,Miami Heat,Milwaukee Bucks,3,54-62,-10,layup,False,0,False,False
+2008-01-09,30.3166666667,Miami Heat,Milwaukee Bucks,3,55-62,-8,free throw,False,15,True,False
+2008-01-09,30.3166666667,Miami Heat,Milwaukee Bucks,3,55-62,-8,free throw,False,15,False,False
+2008-01-09,31.4166666667,Miami Heat,Milwaukee Bucks,3,59-62,-5,layup,False,0,True,False
+2008-03-18,13.0666666667,Miami Heat,Milwaukee Bucks,2,24-26,-4,two point jumper,False,17,False,True
+2008-03-18,14.7,Miami Heat,Milwaukee Bucks,2,26-28,-4,two point jumper,False,1,False,True
+2008-03-18,15.15,Miami Heat,Milwaukee Bucks,2,26-30,-6,two point shot,False,1,False,True
+2008-03-18,15.55,Miami Heat,Milwaukee Bucks,2,26-30,-6,two point jumper,False,20,False,True
+2008-03-18,23.5,Miami Heat,Milwaukee Bucks,2,43-50,-8,free throw,False,15,True,True
+2008-03-18,23.5,Miami Heat,Milwaukee Bucks,2,44-50,-7,free throw,False,15,True,True
+2008-03-18,29.9833333333,Miami Heat,Milwaukee Bucks,3,52-64,-14,two point jumper,False,19,False,True
+2008-03-18,30.6666666667,Miami Heat,Milwaukee Bucks,3,57-64,-9,two point shot,False,10,True,True
+2008-03-18,32.0166666667,Miami Heat,Milwaukee Bucks,3,59-68,-11,hook shot,False,12,False,True
+2008-03-18,32.2166666667,Miami Heat,Milwaukee Bucks,3,61-68,-9,two point jumper,False,7,True,True
+2008-03-18,36.3166666667,Miami Heat,Milwaukee Bucks,4,74-77,-5,hook shot,False,1,True,True
+2008-03-18,36.9333333333,Miami Heat,Milwaukee Bucks,4,76-77,-3,two point jumper,False,21,True,True
+2008-03-18,37.6166666667,Miami Heat,Milwaukee Bucks,4,76-77,-3,two point jumper,False,22,False,True
+2008-03-18,39.5833333333,Miami Heat,Milwaukee Bucks,4,84-77,5,two point jumper,False,1,True,True
+2008-03-18,41.4833333333,Miami Heat,Milwaukee Bucks,4,91-83,6,two point jumper,False,22,False,True
+2008-03-18,41.5666666667,Miami Heat,Milwaukee Bucks,4,91-83,7,free throw,False,15,False,True
+2008-03-18,41.5666666667,Miami Heat,Milwaukee Bucks,4,92-83,8,free throw,False,15,True,True
+2008-03-18,43.1666666667,Miami Heat,Milwaukee Bucks,4,97-84,10,three point jumper,False,25,True,True
+2008-03-18,47.2333333333,Miami Heat,Milwaukee Bucks,4,106-101,3,two point jumper,False,19,False,True
+2008-03-24,0.316666666667,Miami Heat,Milwaukee Bucks,1,0-0,-2,two point jumper,True,6,False,True
+2008-03-24,1.68333333333,Miami Heat,Milwaukee Bucks,1,2-0,-4,two point jumper,True,19,False,True
+2008-03-24,2.63333333333,Miami Heat,Milwaukee Bucks,1,6-1,-6,free throw,True,15,True,True
+2008-03-24,2.63333333333,Miami Heat,Milwaukee Bucks,1,6-2,-5,free throw,True,15,True,True
+2008-03-24,4.41666666667,Miami Heat,Milwaukee Bucks,1,9-6,-5,two point jumper,True,20,False,True
+2008-03-24,5.48333333333,Miami Heat,Milwaukee Bucks,1,11-11,-2,two point shot,True,12,True,True
+2008-03-24,17.7833333333,Miami Heat,Milwaukee Bucks,2,29-23,-8,layup,True,0,False,True
+2008-03-24,26.15,Miami Heat,Milwaukee Bucks,3,37-38,-1,two point jumper,True,18,True,True
+2008-03-24,30.6,Miami Heat,Milwaukee Bucks,3,40-45,4,free throw,True,15,True,True
+2008-03-24,30.6,Miami Heat,Milwaukee Bucks,3,40-45,4,free throw,True,15,False,True
+2008-03-24,34.0833333333,Miami Heat,Milwaukee Bucks,3,48-52,2,two point jumper,True,19,True,True
+2008-03-24,42.6666666667,Miami Heat,Milwaukee Bucks,4,61-67,4,layup,True,0,True,True
+2008-03-24,43.8833333333,Miami Heat,Milwaukee Bucks,4,64-67,1,two point jumper,True,20,False,True
+2008-01-04,12.8833333333,Miami Heat,Dallas Mavericks,2,26-24,0,two point jumper,False,15,False,False
+2008-01-04,14.4666666667,Miami Heat,Dallas Mavericks,2,33-29,2,two point jumper,False,19,True,False
+2008-01-04,15.0666666667,Miami Heat,Dallas Mavericks,2,34-29,4,free throw,False,15,True,False
+2008-01-04,15.0666666667,Miami Heat,Dallas Mavericks,2,35-29,5,free throw,False,15,True,False
+2008-01-04,16.9166666667,Miami Heat,Dallas Mavericks,2,38-32,4,layup,False,0,True,False
+2008-01-04,17.9166666667,Miami Heat,Dallas Mavericks,2,38-34,3,free throw,False,15,False,False
+2008-01-04,17.9166666667,Miami Heat,Dallas Mavericks,2,39-34,4,free throw,False,15,True,False
+2008-01-04,41.1333333333,Miami Heat,Dallas Mavericks,4,79-78,-1,two point jumper,False,21,False,False
+2008-03-16,7.0,Miami Heat,Dallas Mavericks,1,26-6,-22,two point jumper,True,19,True,False
+2008-03-16,7.7,Miami Heat,Dallas Mavericks,1,26-6,-22,two point jumper,True,16,False,False
+2008-03-16,22.4,Miami Heat,Dallas Mavericks,2,49-29,-22,two point jumper,True,16,True,False
+2008-03-16,22.6833333333,Miami Heat,Dallas Mavericks,2,49-29,-21,free throw,True,15,False,False
+2008-03-16,22.6833333333,Miami Heat,Dallas Mavericks,2,49-30,-20,free throw,True,15,True,False
+2008-03-16,23.95,Miami Heat,Dallas Mavericks,2,52-30,-24,two point jumper,True,16,False,False
+2008-03-16,23.9833333333,Miami Heat,Dallas Mavericks,2,52-30,-24,layup,True,0,False,False
+2008-03-16,24.8666666667,Miami Heat,Dallas Mavericks,3,54-35,-21,two point jumper,True,20,True,False
+2008-03-16,26.65,Miami Heat,Dallas Mavericks,3,56-36,-21,free throw,True,15,True,False
+2008-03-16,26.65,Miami Heat,Dallas Mavericks,3,56-37,-20,free throw,True,15,True,False
+2008-03-16,30.6,Miami Heat,Dallas Mavericks,3,67-43,-26,two point jumper,True,18,True,False
+2008-03-16,31.3166666667,Miami Heat,Dallas Mavericks,3,69-45,-26,layup,True,0,True,False
+2008-03-16,34.6166666667,Miami Heat,Dallas Mavericks,3,75-49,-28,two point jumper,True,17,True,False
+2008-03-16,35.6666666667,Miami Heat,Dallas Mavericks,3,81-51,-32,two point jumper,True,20,False,False
+2008-03-16,41.9166666667,Miami Heat,Dallas Mavericks,4,90-63,-29,two point jumper,True,20,True,False
+2008-03-16,43.45,Miami Heat,Dallas Mavericks,4,91-63,-30,two point jumper,True,18,False,False
+2008-03-16,45.55,Miami Heat,Dallas Mavericks,4,93-69,-26,two point shot,True,5,True,False
+2008-03-16,45.55,Miami Heat,Dallas Mavericks,4,93-69,-25,free throw,True,15,False,False
+2008-03-16,46.8666666667,Miami Heat,Dallas Mavericks,4,95-73,-24,two point jumper,True,18,True,False
+2008-02-21,13.7166666667,Miami Heat,Houston Rockets,2,26-44,-19,free throw,False,15,False,False
+2008-02-21,13.7166666667,Miami Heat,Houston Rockets,2,27-44,-18,free throw,False,15,True,False
+2008-02-21,30.8166666667,Miami Heat,Houston Rockets,3,63-74,-13,two point jumper,False,19,False,False
+2008-02-21,31.95,Miami Heat,Houston Rockets,3,67-76,-10,free throw,False,15,True,False
+2008-02-21,31.95,Miami Heat,Houston Rockets,3,68-76,-9,free throw,False,15,True,False
+2008-02-21,32.8666666667,Miami Heat,Houston Rockets,3,68-80,-14,tip shot,False,0,False,False
+2008-02-21,34.5333333333,Miami Heat,Houston Rockets,3,73-83,-12,tip shot,False,0,True,False
+2008-02-21,39.75,Miami Heat,Houston Rockets,4,83-93,-12,two point jumper,False,15,False,False
+2008-01-06,9.11666666667,Miami Heat,Memphis Grizzlies,1,15-21,-8,tip shot,False,0,False,True
+2008-01-06,11.4833333333,Miami Heat,Memphis Grizzlies,1,22-28,-8,layup,False,0,False,True
+2008-01-06,34.8,Miami Heat,Memphis Grizzlies,3,64-70,-8,two point jumper,False,10,False,True
+2008-01-06,38.45,Miami Heat,Memphis Grizzlies,4,74-78,-6,two point jumper,False,1,False,True
+2008-04-11,8.68333333333,Miami Heat,Memphis Grizzlies,1,15-11,-6,two point jumper,True,16,False,False
+2008-04-11,9.1,Miami Heat,Memphis Grizzlies,1,17-13,-6,hook shot,True,9,True,False
+2008-04-11,10.2833333333,Miami Heat,Memphis Grizzlies,1,22-16,-7,free throw,True,15,True,False
+2008-04-11,10.2833333333,Miami Heat,Memphis Grizzlies,1,22-17,-6,free throw,True,15,True,False
+2008-04-11,10.8666666667,Miami Heat,Memphis Grizzlies,1,24-19,-7,two point jumper,True,18,True,False
+2008-04-11,11.6,Miami Heat,Memphis Grizzlies,1,28-23,-7,two point jumper,True,17,True,False
+2008-04-11,13.4333333333,Miami Heat,Memphis Grizzlies,2,34-25,-11,two point jumper,True,20,False,False
+2008-04-11,15.1333333333,Miami Heat,Memphis Grizzlies,2,42-29,-15,two point jumper,True,20,True,False
+2008-04-11,15.5166666667,Miami Heat,Memphis Grizzlies,2,42-31,-13,two point shot,True,1,True,False
+2008-04-11,32.7166666667,Miami Heat,Memphis Grizzlies,3,69-62,-9,two point jumper,True,20,True,False
+2008-04-11,35.3,Miami Heat,Memphis Grizzlies,3,74-66,-9,free throw,True,15,True,False
+2008-04-11,35.3,Miami Heat,Memphis Grizzlies,3,74-67,-8,free throw,True,15,True,False
+2008-04-11,37.9333333333,Miami Heat,Memphis Grizzlies,4,78-69,-11,two point shot,True,14,False,False
+2008-04-11,38.6333333333,Miami Heat,Memphis Grizzlies,4,78-69,-11,two point jumper,True,19,False,False
+2008-04-11,39.5,Miami Heat,Memphis Grizzlies,4,83-71,-14,tip shot,True,0,True,False
+2008-04-11,39.7166666667,Miami Heat,Memphis Grizzlies,4,83-73,-12,two point shot,True,1,True,False
+2008-04-11,41.3833333333,Miami Heat,Memphis Grizzlies,4,85-75,-12,two point jumper,True,1,True,False
+2008-04-02,0.583333333333,Miami Heat,New Orleans Pelicans,1,2-0,-4,two point jumper,True,14,False,True
+2008-04-02,2.76666666667,Miami Heat,New Orleans Pelicans,1,10-2,-10,two point jumper,True,19,False,True
+2008-04-02,18.6666666667,Miami Heat,New Orleans Pelicans,2,41-29,-14,hook shot,True,5,True,True
+2008-04-02,19.2333333333,Miami Heat,New Orleans Pelicans,2,41-29,-14,two point jumper,True,22,False,True
+2008-04-02,19.9833333333,Miami Heat,New Orleans Pelicans,2,44-30,-16,layup,True,0,False,True
+2008-04-02,20.0666666667,Miami Heat,New Orleans Pelicans,2,44-32,-14,layup,True,0,True,True
+2008-04-02,20.65,Miami Heat,New Orleans Pelicans,2,46-32,-16,two point jumper,True,21,False,True
+2008-04-02,24.8166666667,Miami Heat,New Orleans Pelicans,3,56-41,-17,layup,True,0,False,True
+2008-04-02,25.4666666667,Miami Heat,New Orleans Pelicans,3,58-41,-20,three point jumper,True,24,False,True
+2008-01-24,12.3833333333,Miami Heat,San Antonio Spurs,2,24-30,4,tip shot,True,0,True,False
+2008-01-24,13.95,Miami Heat,San Antonio Spurs,2,28-32,2,two point jumper,True,18,True,False
+2008-01-24,41.5,Miami Heat,San Antonio Spurs,4,79-83,3,free throw,True,15,False,False
+2008-01-24,41.5,Miami Heat,San Antonio Spurs,4,79-83,3,free throw,True,15,False,False
+2008-04-16,8.21666666667,Miami Heat,Atlanta Hawks,1,20-16,-6,layup,True,0,False,False
+2008-04-16,10.8333333333,Miami Heat,Atlanta Hawks,1,26-21,-7,layup,True,0,True,False
+2008-04-16,12.9666666667,Miami Heat,Atlanta Hawks,2,32-28,-6,two point jumper,True,19,True,False
+2008-04-16,14.4333333333,Miami Heat,Atlanta Hawks,2,36-32,-6,two point jumper,True,16,True,False
+2008-04-16,16.1,Miami Heat,Atlanta Hawks,2,39-32,-9,two point jumper,True,20,False,False
+2008-04-16,35.0833333333,Miami Heat,Atlanta Hawks,3,80-86,4,two point shot,True,9,True,False
+2008-04-16,35.0833333333,Miami Heat,Atlanta Hawks,3,80-87,6,free throw,True,15,True,False
+2008-04-16,36.0,Miami Heat,Atlanta Hawks,3,83-89,3,three point jumper,True,43,False,False
+2008-04-16,39.4333333333,Miami Heat,Atlanta Hawks,4,87-93,4,dunk,True,0,True,False
+2008-04-16,40.0333333333,Miami Heat,Atlanta Hawks,4,89-93,2,two point shot,True,1,False,False
+2008-04-16,40.6333333333,Miami Heat,Atlanta Hawks,4,91-95,2,two point jumper,True,21,True,False
+2008-04-16,44.7,Miami Heat,Atlanta Hawks,4,94-106,10,layup,True,0,False,False
+2008-04-16,45.5666666667,Miami Heat,Atlanta Hawks,4,94-108,11,three point jumper,True,24,False,False
+2008-04-16,47.2333333333,Miami Heat,Atlanta Hawks,4,97-110,10,three point jumper,True,24,False,False
+2008-03-22,1.81666666667,Miami Heat,Charlotte Bobcats,1,0-2,-4,two point jumper,False,20,False,False
+2008-03-22,5.2,Miami Heat,Charlotte Bobcats,1,11-4,5,layup,False,0,True,False
+2008-03-22,7.73333333333,Miami Heat,Charlotte Bobcats,1,13-7,4,two point jumper,False,21,False,False
+2008-03-22,8.7,Miami Heat,Charlotte Bobcats,1,15-9,4,two point jumper,False,17,True,False
+2008-03-22,27.3333333333,Miami Heat,Charlotte Bobcats,3,42-52,-11,free throw,False,15,True,False
+2008-03-22,27.3333333333,Miami Heat,Charlotte Bobcats,3,42-52,-11,free throw,False,15,False,False
+2008-03-22,46.9,Miami Heat,Charlotte Bobcats,4,79-94,-17,two point jumper,False,18,False,False
+2008-03-22,47.4833333333,Miami Heat,Charlotte Bobcats,4,81-94,-15,two point jumper,False,1,True,False
+2008-03-22,47.4833333333,Miami Heat,Charlotte Bobcats,4,82-94,-13,free throw,False,15,True,False
+2008-03-22,48.0,Miami Heat,Charlotte Bobcats,4,82-94,-15,three point jumper,False,25,False,False
+2008-12-22,12.9,Miami Heat,Utah Jazz,2,23-23,-2,two point jumper,True,16,False,True
+2008-12-22,15.3166666667,Miami Heat,Utah Jazz,2,24-30,5,free throw,True,15,True,True
+2008-12-22,15.3166666667,Miami Heat,Utah Jazz,2,24-31,6,free throw,True,15,True,True
+2008-12-22,16.9833333333,Miami Heat,Utah Jazz,2,30-35,3,two point jumper,True,1,True,True
+2008-12-22,18.4833333333,Miami Heat,Utah Jazz,2,32-37,3,layup,True,0,True,True
+2008-12-22,18.4833333333,Miami Heat,Utah Jazz,2,32-38,5,free throw,True,15,True,True
+2008-12-22,19.1,Miami Heat,Utah Jazz,2,34-40,4,layup,True,0,True,True
+2008-12-22,19.7833333333,Miami Heat,Utah Jazz,2,34-42,6,two point jumper,True,14,True,True
+2008-12-22,20.3666666667,Miami Heat,Utah Jazz,2,36-44,6,two point shot,True,6,True,True
+2008-12-28,4.45,Miami Heat,Orlando Magic,1,8-10,0,two point jumper,True,21,False,False
+2008-12-28,4.88333333333,Miami Heat,Orlando Magic,1,8-10,0,two point jumper,True,18,False,False
+2008-12-28,25.8166666667,Miami Heat,Orlando Magic,3,52-60,6,two point jumper,True,19,False,False
+2008-12-29,17.9166666667,Miami Heat,Washington Wizards,2,29-40,-13,two point jumper,False,21,True,False
+2008-12-29,29.0333333333,Miami Heat,Washington Wizards,3,40-66,-28,two point jumper,False,21,False,False
+2008-12-29,43.45,Miami Heat,Washington Wizards,4,71-89,-20,two point jumper,False,18,False,False
+2008-01-08,37.7666666667,Miami Heat,Minnesota Timberwolves,4,76-86,-12,layup,False,0,True,True
+2008-01-08,38.3,Miami Heat,Minnesota Timberwolves,4,77-86,-10,free throw,False,15,True,True
+2008-01-08,38.3,Miami Heat,Minnesota Timberwolves,4,78-86,-9,free throw,False,15,True,True
+2008-01-08,39.15,Miami Heat,Minnesota Timberwolves,4,79-88,-10,free throw,False,15,True,True
+2008-01-08,39.15,Miami Heat,Minnesota Timberwolves,4,80-88,-9,free throw,False,15,True,True
+2008-01-30,12.25,Miami Heat,Orlando Magic,2,25-30,-7,two point shot,False,6,False,True
+2008-01-30,15.1333333333,Miami Heat,Orlando Magic,2,32-38,-8,two point jumper,False,14,False,True
+2008-01-30,46.6666666667,Miami Heat,Orlando Magic,4,89-105,-17,free throw,False,15,False,True
+2008-01-30,46.6666666667,Miami Heat,Orlando Magic,4,90-105,-16,free throw,False,15,True,True
+2008-02-12,10.35,Miami Heat,Denver Nuggets,1,21-27,4,two point jumper,True,1,True,False
+2008-02-12,13.1833333333,Miami Heat,Denver Nuggets,2,24-35,10,free throw,True,15,True,False
+2008-02-12,13.1833333333,Miami Heat,Denver Nuggets,2,24-36,11,free throw,True,15,True,False
+2008-02-12,14.2166666667,Miami Heat,Denver Nuggets,2,28-40,10,two point jumper,True,20,True,False
+2008-02-28,11.6,Miami Heat,Oklahoma City Thunder,1,25-24,-1,two point jumper,False,19,True,False
+2008-02-28,13.0666666667,Miami Heat,Oklahoma City Thunder,2,26-26,-2,two point jumper,False,15,False,False
+2008-02-28,14.9666666667,Miami Heat,Oklahoma City Thunder,2,26-29,-5,layup,False,0,False,False
+2008-02-28,21.85,Miami Heat,Oklahoma City Thunder,2,38-45,-9,two point jumper,False,16,True,False
+2008-02-28,23.3166666667,Miami Heat,Oklahoma City Thunder,2,42-47,-7,two point jumper,False,17,False,False
+2008-02-28,29.6666666667,Miami Heat,Oklahoma City Thunder,3,54-59,-7,layup,False,0,False,False
+2008-02-28,34.8666666667,Miami Heat,Oklahoma City Thunder,3,72-74,-4,tip shot,False,0,True,False
+2008-02-28,38.9666666667,Miami Heat,Oklahoma City Thunder,4,84-78,4,two point jumper,False,15,False,False
+2008-02-28,41.3166666667,Miami Heat,Oklahoma City Thunder,4,86-82,2,hook shot,False,9,True,False
+2008-02-28,45.85,Miami Heat,Oklahoma City Thunder,4,96-88,6,tip shot,False,0,False,False
+2008-02-28,45.9333333333,Miami Heat,Oklahoma City Thunder,4,96-88,6,tip shot,False,0,False,False
+2008-02-28,46.4333333333,Miami Heat,Oklahoma City Thunder,4,98-90,6,layup,False,0,True,False
+2008-03-21,6.63333333333,Miami Heat,Washington Wizards,1,19-14,-7,two point jumper,True,19,True,True
+2008-03-21,9.21666666667,Miami Heat,Washington Wizards,1,23-18,-7,two point jumper,True,18,True,True
+2008-03-21,9.81666666667,Miami Heat,Washington Wizards,1,23-18,-7,two point jumper,True,16,False,True
+2008-03-21,12.75,Miami Heat,Washington Wizards,2,28-20,-10,two point shot,True,13,False,True
+2008-03-21,22.1,Miami Heat,Washington Wizards,2,49-39,-12,layup,True,0,True,True
+2008-03-21,27.15,Miami Heat,Washington Wizards,3,57-44,-15,dunk,True,0,True,True
+2008-03-21,30.5666666667,Miami Heat,Washington Wizards,3,68-51,-19,hook shot,True,1,True,True
+2008-04-04,0.516666666667,Miami Heat,Washington Wizards,1,0-0,-2,layup,False,0,False,True
+2008-04-04,0.833333333333,Miami Heat,Washington Wizards,1,0-0,-2,two point jumper,False,17,False,True
+2008-04-04,2.8,Miami Heat,Washington Wizards,1,2-4,-4,two point jumper,False,19,False,True
+2008-04-04,2.88333333333,Miami Heat,Washington Wizards,1,2-4,-4,layup,False,0,False,True
+2008-04-04,2.93333333333,Miami Heat,Washington Wizards,1,4-4,-2,two point shot,False,1,True,True
+2008-04-04,3.7,Miami Heat,Washington Wizards,1,6-5,-1,layup,False,0,True,True
+2008-04-04,4.88333333333,Miami Heat,Washington Wizards,1,6-5,-1,layup,False,0,False,True
+2008-04-04,25.1833333333,Miami Heat,Washington Wizards,3,46-62,-18,two point jumper,False,19,True,True
+2010-04-06,3.86666666667,New York Knicks,Boston Celtics,1,4-7,1,two point shot,True,1,True,True
+2010-04-06,3.86666666667,New York Knicks,Boston Celtics,1,4-8,3,free throw,True,15,True,True
+2010-04-06,4.73333333333,New York Knicks,Boston Celtics,1,6-10,2,two point jumper,True,13,True,True
+2010-04-06,7.23333333333,New York Knicks,Boston Celtics,1,11-16,3,two point jumper,True,14,True,True
+2010-04-06,14.3333333333,New York Knicks,Boston Celtics,2,29-32,1,two point jumper,True,22,True,True
+2010-04-06,15.3166666667,New York Knicks,Boston Celtics,2,31-35,2,two point jumper,True,15,False,True
+2010-04-06,19.9166666667,New York Knicks,Boston Celtics,2,40-42,0,two point jumper,True,20,True,True
+2010-04-06,20.85,New York Knicks,Boston Celtics,2,42-44,0,layup,True,0,True,True
+2010-04-06,27.5833333333,New York Knicks,Boston Celtics,3,60-63,1,two point jumper,True,1,True,True
+2010-04-06,29.35,New York Knicks,Boston Celtics,3,65-67,0,two point jumper,True,19,True,True
+2010-04-06,38.8166666667,New York Knicks,Boston Celtics,4,85-86,-1,layup,True,0,False,True
+2010-04-06,46.75,New York Knicks,Boston Celtics,4,100-100,-2,two point jumper,True,7,False,True
+2010-04-04,11.7,New York Knicks,Los Angeles Clippers,1,29-27,0,two point jumper,False,18,True,True
+2010-04-04,14.5166666667,New York Knicks,Los Angeles Clippers,2,41-31,8,layup,False,0,True,True
+2010-04-04,14.8833333333,New York Knicks,Los Angeles Clippers,2,41-31,9,free throw,False,15,False,True
+2010-04-04,14.8833333333,New York Knicks,Los Angeles Clippers,2,41-31,9,free throw,False,15,False,True
+2010-04-04,16.3166666667,New York Knicks,Los Angeles Clippers,2,41-34,5,two point jumper,False,17,False,True
+2010-04-04,16.7833333333,New York Knicks,Los Angeles Clippers,2,43-37,4,layup,False,0,True,True
+2010-04-04,20.7,New York Knicks,Los Angeles Clippers,2,49-44,3,two point jumper,False,21,False,True
+2010-04-04,36.8833333333,New York Knicks,Los Angeles Clippers,4,88-81,5,two point jumper,False,1,True,True
+2010-04-04,38.5,New York Knicks,Los Angeles Clippers,4,92-86,4,two point jumper,False,18,True,True
+2010-04-04,39.9333333333,New York Knicks,Los Angeles Clippers,4,94-90,2,hook shot,False,1,False,True
+2010-04-04,40.2,New York Knicks,Los Angeles Clippers,4,94-90,2,two point jumper,False,20,False,True
+2010-04-07,0.55,New York Knicks,Indiana Pacers,1,2-2,-2,two point jumper,False,18,True,False
+2010-04-07,3.65,New York Knicks,Indiana Pacers,1,5-10,-7,two point jumper,False,17,False,False
+2010-04-07,5.78333333333,New York Knicks,Indiana Pacers,1,7-17,-12,two point jumper,False,20,False,False
+2010-04-07,6.48333333333,New York Knicks,Indiana Pacers,1,9-20,-13,layup,False,0,True,False
+2010-04-07,17.25,New York Knicks,Indiana Pacers,2,42-57,-16,free throw,False,15,True,False
+2010-04-07,17.25,New York Knicks,Indiana Pacers,2,42-57,-16,free throw,False,15,False,False
+2010-04-07,17.8166666667,New York Knicks,Indiana Pacers,2,44-59,-17,two point jumper,False,16,False,False
+2010-04-07,19.95,New York Knicks,Indiana Pacers,2,51-59,-10,tip shot,False,0,False,False
+2010-04-07,24.9,New York Knicks,Indiana Pacers,3,61-72,-13,two point shot,False,2,True,False
+2010-04-07,26.15,New York Knicks,Indiana Pacers,3,65-74,-11,two point shot,False,1,True,False
+2010-04-07,26.7666666667,New York Knicks,Indiana Pacers,3,67-74,-9,two point shot,False,1,True,False
+2010-04-07,29.95,New York Knicks,Indiana Pacers,3,73-78,-6,free throw,False,15,True,False
+2010-04-07,29.95,New York Knicks,Indiana Pacers,3,74-78,-5,free throw,False,15,True,False
+2010-04-07,40.4833333333,New York Knicks,Indiana Pacers,4,95-102,-9,two point jumper,False,13,False,False
+2010-04-07,42.95,New York Knicks,Indiana Pacers,4,103-108,-7,tip shot,False,0,True,False
+2010-04-07,43.6,New York Knicks,Indiana Pacers,4,103-109,-8,tip shot,False,0,False,False
+2010-04-07,44.8666666667,New York Knicks,Indiana Pacers,4,103-111,-10,two point jumper,False,10,False,False
+2010-04-09,1.63333333333,New York Knicks,Orlando Magic,1,5-5,-2,two point jumper,False,20,True,False
+2010-04-09,15.4333333333,New York Knicks,Orlando Magic,2,32-42,-12,two point jumper,False,21,False,False
+2010-04-09,25.2,New York Knicks,Orlando Magic,3,48-68,-21,free throw,False,15,False,False
+2010-04-09,25.2,New York Knicks,Orlando Magic,3,49-68,-20,free throw,False,15,True,False
+2010-04-09,25.8166666667,New York Knicks,Orlando Magic,3,49-70,-23,layup,False,0,False,False
+2010-04-09,28.2833333333,New York Knicks,Orlando Magic,3,54-75,-23,two point jumper,False,16,False,False
+2010-04-09,33.8333333333,New York Knicks,Orlando Magic,3,71-89,-19,free throw,False,15,False,False
+2010-04-09,33.8333333333,New York Knicks,Orlando Magic,3,72-89,-18,free throw,False,15,True,False
+2010-04-09,34.25,New York Knicks,Orlando Magic,3,74-89,-17,layup,False,0,True,False
+2010-04-09,42.1333333333,New York Knicks,Orlando Magic,4,89-103,-16,layup,False,0,False,False
+2010-04-09,42.1666666667,New York Knicks,Orlando Magic,4,91-103,-14,tip shot,False,0,True,False
+2010-04-11,5.38333333333,New York Knicks,Miami Heat,1,9-12,2,free throw,True,15,True,True
+2010-04-11,5.38333333333,New York Knicks,Miami Heat,1,9-13,3,free throw,True,15,True,True
+2010-04-11,17.3166666667,New York Knicks,Miami Heat,2,36-38,1,free throw,True,15,True,True
+2010-04-11,17.3166666667,New York Knicks,Miami Heat,2,36-39,2,free throw,True,15,True,True
+2010-04-11,20.4666666667,New York Knicks,Miami Heat,2,43-43,-2,hook shot,True,9,False,True
+2010-04-11,23.5333333333,New York Knicks,Miami Heat,2,53-45,-10,tip shot,True,0,False,True
+2010-04-11,23.55,New York Knicks,Miami Heat,2,53-45,-10,tip shot,True,0,False,True
+2010-04-11,24.15,New York Knicks,Miami Heat,3,55-48,-8,free throw,True,15,True,True
+2010-04-11,24.15,New York Knicks,Miami Heat,3,55-49,-7,free throw,True,15,True,True
+2010-04-11,25.5166666667,New York Knicks,Miami Heat,3,57-53,-6,two point jumper,True,1,True,True
+2010-04-11,37.1333333333,New York Knicks,Miami Heat,4,89-74,-16,free throw,True,15,False,True
+2010-04-11,37.1333333333,New York Knicks,Miami Heat,4,89-75,-15,free throw,True,15,True,True
+2010-04-11,42.0333333333,New York Knicks,Miami Heat,4,93-84,-10,free throw,True,15,True,True
+2010-04-11,42.0333333333,New York Knicks,Miami Heat,4,93-85,-9,free throw,True,15,True,True
+2010-04-11,44.4333333333,New York Knicks,Miami Heat,4,99-90,-11,two point shot,True,6,True,True
+2010-04-11,46.1,New York Knicks,Miami Heat,4,107-93,-16,two point jumper,True,19,False,True
+2010-04-12,1.56666666667,New York Knicks,Washington Wizards,1,2-1,-2,free throw,True,15,True,True
+2010-04-12,1.56666666667,New York Knicks,Washington Wizards,1,2-2,-1,free throw,True,15,True,True
+2010-04-12,6.45,New York Knicks,Washington Wizards,1,15-12,-5,two point jumper,True,17,False,True
+2010-04-12,7.56666666667,New York Knicks,Washington Wizards,1,17-15,-4,two point jumper,True,15,False,True
+2010-04-12,8.16666666667,New York Knicks,Washington Wizards,1,20-15,-7,two point jumper,True,16,False,True
+2010-04-12,39.7,New York Knicks,Washington Wizards,4,92-87,-7,layup,True,0,True,True
+2010-04-12,40.5666666667,New York Knicks,Washington Wizards,4,92-88,-5,free throw,True,15,True,True
+2010-04-12,40.5666666667,New York Knicks,Washington Wizards,4,92-89,-4,free throw,True,15,True,True
+2010-04-12,45.15,New York Knicks,Washington Wizards,4,94-103,7,tip shot,True,0,False,True
+2010-04-12,47.2333333333,New York Knicks,Washington Wizards,4,101-111,8,dunk,True,0,True,True
+2010-04-14,12.2166666667,New York Knicks,Toronto Raptors,2,32-33,-3,two point jumper,False,12,True,False
+2010-04-14,14.5,New York Knicks,Toronto Raptors,2,34-44,-12,hook shot,False,1,False,False
+2010-04-14,14.6333333333,New York Knicks,Toronto Raptors,2,35-44,-10,free throw,False,15,True,False
+2010-04-14,14.6333333333,New York Knicks,Toronto Raptors,2,36-44,-9,free throw,False,15,True,False
+2010-04-14,17.5333333333,New York Knicks,Toronto Raptors,2,43-54,-13,two point jumper,False,15,False,False
+2010-04-14,18.5,New York Knicks,Toronto Raptors,2,47-56,-11,two point shot,False,6,True,False
+2010-04-14,18.95,New York Knicks,Toronto Raptors,2,47-58,-13,two point jumper,False,22,False,False
+2010-04-14,20.1166666667,New York Knicks,Toronto Raptors,2,50-61,-12,free throw,False,15,True,False
+2010-04-14,20.1166666667,New York Knicks,Toronto Raptors,2,50-61,-12,free throw,False,15,False,False
+2010-04-14,29.3166666667,New York Knicks,Toronto Raptors,3,80-86,-8,two point jumper,False,19,False,False
+2010-04-14,36.6333333333,New York Knicks,Toronto Raptors,4,96-105,-11,two point jumper,False,21,True,False
+2010-04-14,43.8166666667,New York Knicks,Toronto Raptors,4,106-121,-17,two point jumper,False,18,True,False
+2010-04-14,44.9166666667,New York Knicks,Toronto Raptors,4,106-122,-18,two point jumper,False,18,False,False
+2011-03-13,39.8166666667,Milwaukee Bucks,Boston Celtics,4,43-70,-29,two point jumper,False,17,True,False
+2011-03-13,41.5333333333,Milwaukee Bucks,Boston Celtics,4,45-73,-30,two point jumper,False,16,False,False
+2011-03-13,43.0666666667,Milwaukee Bucks,Boston Celtics,4,47-75,-30,dunk,False,0,True,False
+2011-03-13,43.0666666667,Milwaukee Bucks,Boston Celtics,4,48-75,-28,free throw,False,15,True,False
+2011-03-13,43.95,Milwaukee Bucks,Boston Celtics,4,50-77,-29,layup,False,0,True,False
+2011-03-13,43.95,Milwaukee Bucks,Boston Celtics,4,51-77,-27,free throw,False,15,True,False
+2011-03-13,44.5666666667,Milwaukee Bucks,Boston Celtics,4,53-79,-28,two point jumper,False,22,True,False
+2011-03-13,44.9666666667,Milwaukee Bucks,Boston Celtics,4,53-79,-28,two point jumper,False,20,False,False
+2011-03-13,45.0833333333,Milwaukee Bucks,Boston Celtics,4,53-79,-28,layup,False,0,False,False
+2011-03-12,45.15,Milwaukee Bucks,Philadelphia 76ers,4,65-97,30,two point jumper,True,15,False,False
+2011-12-02,1.08333333333,Phoenix Suns,Golden State Warriors,1,2-2,-2,two point jumper,False,15,True,True
+2011-12-02,11.6333333333,Phoenix Suns,Golden State Warriors,1,31-20,9,two point jumper,False,22,False,True
+2011-12-02,26.8666666667,Phoenix Suns,Golden State Warriors,3,60-53,5,two point jumper,False,6,False,True
+2011-04-13,1.83333333333,Portland Trail Blazers,Golden State Warriors,1,3-4,-3,two point jumper,False,19,False,True
+2011-04-13,17.0666666667,Portland Trail Blazers,Golden State Warriors,2,33-38,-7,layup,False,0,False,True
+2011-04-13,20.1166666667,Portland Trail Blazers,Golden State Warriors,2,41-49,-10,two point shot,False,19,False,True
+2011-04-13,25.7666666667,Portland Trail Blazers,Golden State Warriors,3,45-54,-11,two point jumper,False,19,False,True
+2011-04-13,29.35,Portland Trail Blazers,Golden State Warriors,3,52-64,-14,hook shot,False,3,True,True
+2011-04-13,37.6833333333,Portland Trail Blazers,Golden State Warriors,4,71-87,-18,layup,False,0,False,True
+2011-04-13,40.0666666667,Portland Trail Blazers,Golden State Warriors,4,78-93,-17,tip shot,False,0,True,True
+2011-04-13,41.3833333333,Portland Trail Blazers,Golden State Warriors,4,78-93,-17,two point jumper,False,15,False,True
+2011-04-13,44.6166666667,Portland Trail Blazers,Golden State Warriors,4,82-101,-21,two point jumper,False,18,False,True
+2011-04-13,45.2166666667,Portland Trail Blazers,Golden State Warriors,4,83-103,-21,free throw,False,15,True,True
+2011-04-13,45.2166666667,Portland Trail Blazers,Golden State Warriors,4,83-103,-21,free throw,False,15,False,True
+2011-11-26,36.5666666667,Phoenix Suns,Los Angeles Clippers,4,84-98,12,two point jumper,True,20,False,True
+2011-11-17,47.4333333333,Phoenix Suns,Miami Heat,4,96-123,-29,two point jumper,False,18,False,True
+2011-11-18,40.2,Phoenix Suns,Orlando Magic,4,69-91,-24,two point jumper,False,18,False,True
+2011-11-18,43.0333333333,Phoenix Suns,Orlando Magic,4,76-97,-22,free throw,False,15,True,True
+2011-11-18,43.0333333333,Phoenix Suns,Orlando Magic,4,76-97,-22,free throw,False,15,False,True
+2011-11-18,45.95,Phoenix Suns,Orlando Magic,4,81-101,-21,free throw,False,15,False,True
+2011-11-18,45.95,Phoenix Suns,Orlando Magic,4,82-101,-20,free throw,False,15,True,True
+2011-11-28,19.85,Phoenix Suns,Denver Nuggets,2,42-50,-10,layup,False,0,True,False
+2011-11-28,20.2666666667,Phoenix Suns,Denver Nuggets,2,42-52,-12,two point jumper,False,16,False,False
+2011-11-28,37.0,Phoenix Suns,Denver Nuggets,4,89-106,-19,two point jumper,False,19,False,False
+2011-11-28,38.2,Phoenix Suns,Denver Nuggets,4,97-112,-17,layup,False,0,True,False
+2011-11-28,38.2,Phoenix Suns,Denver Nuggets,4,97-112,-16,free throw,False,15,False,False
+2011-11-28,40.0333333333,Phoenix Suns,Denver Nuggets,4,100-115,-17,two point jumper,False,1,False,False
+2011-11-28,40.6333333333,Phoenix Suns,Denver Nuggets,4,100-115,-17,two point jumper,False,4,False,False
+2011-12-03,3.26666666667,Phoenix Suns,Indiana Pacers,1,7-5,-3,free throw,True,15,False,False
+2011-12-03,3.26666666667,Phoenix Suns,Indiana Pacers,1,7-5,-3,free throw,True,15,False,False
+2011-12-03,5.0,Phoenix Suns,Indiana Pacers,1,9-10,-1,two point jumper,True,16,False,False
+2011-12-03,5.45,Phoenix Suns,Indiana Pacers,1,9-12,1,two point shot,True,14,True,False
+2011-12-03,5.91666666667,Phoenix Suns,Indiana Pacers,1,11-12,-1,two point jumper,True,14,False,False
+2011-12-03,6.56666666667,Phoenix Suns,Indiana Pacers,1,11-15,3,free throw,True,15,True,False
+2011-12-03,6.56666666667,Phoenix Suns,Indiana Pacers,1,11-15,3,free throw,True,15,False,False
+2011-12-03,9.0,Phoenix Suns,Indiana Pacers,1,17-20,1,layup,True,0,False,False
+2011-12-03,27.7166666667,Phoenix Suns,Indiana Pacers,3,67-61,-8,two point jumper,True,15,False,False
+2011-12-03,28.6,Phoenix Suns,Indiana Pacers,3,67-65,-3,free throw,True,15,False,False
+2011-12-03,28.6,Phoenix Suns,Indiana Pacers,3,67-66,-2,free throw,True,15,True,False
+2011-12-03,30.35,Phoenix Suns,Indiana Pacers,3,70-68,-4,two point shot,True,1,True,False
+2011-12-03,31.6666666667,Phoenix Suns,Indiana Pacers,3,70-68,-4,hook shot,True,6,False,False
+2011-12-05,4.16666666667,Phoenix Suns,Washington Wizards,1,4-5,-1,two point jumper,True,4,False,True
+2011-12-05,4.16666666667,Phoenix Suns,Washington Wizards,1,4-5,-1,tip shot,True,0,False,True
+2011-12-05,6.2,Phoenix Suns,Washington Wizards,1,12-13,-1,dunk,True,0,True,True
+2011-12-05,6.2,Phoenix Suns,Washington Wizards,1,12-14,1,free throw,True,15,True,True
+2011-12-05,7.31666666667,Phoenix Suns,Washington Wizards,1,16-14,-4,two point jumper,True,7,False,True
+2011-12-05,7.38333333333,Phoenix Suns,Washington Wizards,1,16-14,-4,two point jumper,True,4,False,True
+2011-12-05,8.15,Phoenix Suns,Washington Wizards,1,16-14,-4,layup,True,0,False,True
+2011-12-05,8.18333333333,Phoenix Suns,Washington Wizards,1,16-14,-4,tip shot,True,0,False,True
+2011-12-05,27.8833333333,Phoenix Suns,Washington Wizards,3,67-76,7,dunk,True,0,True,True
+2011-12-05,28.8166666667,Phoenix Suns,Washington Wizards,3,67-80,11,layup,True,0,True,True
+2011-12-07,1.36666666667,Phoenix Suns,Portland Trail Blazers,1,1-3,-3,free throw,False,15,True,True
+2011-12-07,1.36666666667,Phoenix Suns,Portland Trail Blazers,1,2-3,-2,free throw,False,15,True,True
+2011-12-07,20.1833333333,Phoenix Suns,Portland Trail Blazers,2,36-47,-12,free throw,False,15,True,True
+2011-12-07,20.1833333333,Phoenix Suns,Portland Trail Blazers,2,37-47,-11,free throw,False,15,True,True
+2011-12-07,22.8666666667,Phoenix Suns,Portland Trail Blazers,2,43-49,-8,two point jumper,False,13,False,True
+2011-12-07,28.6333333333,Phoenix Suns,Portland Trail Blazers,3,56-56,-2,two point jumper,False,7,False,True
+2011-12-07,29.1666666667,Phoenix Suns,Portland Trail Blazers,3,58-58,-2,two point shot,False,1,True,True
+2011-12-07,46.75,Phoenix Suns,Portland Trail Blazers,4,89-96,-8,free throw,False,15,False,True
+2011-12-07,46.75,Phoenix Suns,Portland Trail Blazers,4,90-96,-7,free throw,False,15,True,True
+2011-12-08,0.583333333333,Phoenix Suns,Memphis Grizzlies,1,2-1,-2,free throw,True,15,True,True
+2011-12-08,0.583333333333,Phoenix Suns,Memphis Grizzlies,1,2-2,-1,free throw,True,15,True,True
+2011-12-08,5.75,Phoenix Suns,Memphis Grizzlies,1,11-12,-1,tip shot,True,0,False,True
+2011-12-08,7.16666666667,Phoenix Suns,Memphis Grizzlies,1,15-14,-3,two point jumper,True,16,True,True
+2011-12-08,18.95,Phoenix Suns,Memphis Grizzlies,2,39-36,-5,two point jumper,True,19,False,True
+2011-12-08,22.7333333333,Phoenix Suns,Memphis Grizzlies,2,50-41,-11,two point shot,True,5,False,True
+2011-12-10,2.11666666667,Phoenix Suns,Portland Trail Blazers,1,5-6,-1,two point jumper,True,1,False,True
+2011-12-10,4.95,Phoenix Suns,Portland Trail Blazers,1,11-12,-1,two point jumper,True,18,False,True
+2011-12-10,26.95,Phoenix Suns,Portland Trail Blazers,3,71-61,-12,layup,True,0,False,True
+2011-12-15,11.0333333333,Phoenix Suns,Minnesota Timberwolves,1,26-31,3,two point jumper,True,16,True,True
+2011-12-15,11.5833333333,Phoenix Suns,Minnesota Timberwolves,1,28-31,1,two point jumper,True,18,False,True
+2011-12-19,9.8,Phoenix Suns,Oklahoma City Thunder,1,21-17,2,two point jumper,False,19,False,True
+2011-12-19,10.1,Phoenix Suns,Oklahoma City Thunder,1,21-17,2,two point jumper,False,10,False,True
+2011-12-19,11.6166666667,Phoenix Suns,Oklahoma City Thunder,1,25-21,2,two point jumper,False,19,False,True
+2011-12-19,13.3666666667,Phoenix Suns,Oklahoma City Thunder,2,30-25,3,tip shot,False,0,True,True
+2011-03-04,9.76666666667,Milwaukee Bucks,Phoenix Suns,1,16-20,2,layup,True,0,True,True
+2011-03-04,12.7,Milwaukee Bucks,Phoenix Suns,2,22-28,4,tip shot,True,0,True,True
+2011-03-04,46.4,Milwaukee Bucks,Phoenix Suns,4,100-84,-18,two point jumper,True,17,False,True
+2011-03-04,47.3666666667,Milwaukee Bucks,Phoenix Suns,4,102-86,-18,layup,True,0,False,True
+2011-03-09,45.0,Milwaukee Bucks,Cleveland Cavaliers,4,84-106,20,two point jumper,True,17,True,False
+2011-03-09,47.3166666667,Milwaukee Bucks,Cleveland Cavaliers,4,90-110,18,two point jumper,True,18,True,False
+2011-03-01,8.46666666667,Milwaukee Bucks,Detroit Pistons,1,16-20,2,two point jumper,True,16,False,True
+2011-03-01,9.76666666667,Milwaukee Bucks,Detroit Pistons,1,18-22,2,tip shot,True,0,False,True
+2011-03-01,10.8666666667,Milwaukee Bucks,Detroit Pistons,1,19-25,4,tip shot,True,0,False,True
+2011-03-01,12.65,Milwaukee Bucks,Detroit Pistons,2,22-28,4,layup,True,0,False,True
+2011-03-01,12.75,Milwaukee Bucks,Detroit Pistons,2,22-30,6,tip shot,True,0,True,True
+2011-03-01,35.5333333333,Milwaukee Bucks,Detroit Pistons,3,75-72,-5,tip shot,True,0,False,True
+2011-03-01,38.9,Milwaukee Bucks,Detroit Pistons,4,77-82,3,two point shot,True,13,True,True
+2011-03-15,36.5166666667,Milwaukee Bucks,Atlanta Hawks,4,55-84,-31,two point shot,False,1,False,True
+2011-03-15,37.9,Milwaukee Bucks,Atlanta Hawks,4,57-88,-33,two point shot,False,11,False,True
+2011-03-15,38.4333333333,Milwaukee Bucks,Atlanta Hawks,4,59-88,-31,two point jumper,False,20,True,True
+2011-03-15,38.95,Milwaukee Bucks,Atlanta Hawks,4,59-91,-34,two point jumper,False,18,False,True
+2011-03-15,40.8166666667,Milwaukee Bucks,Atlanta Hawks,4,68-94,-28,hook shot,False,8,True,True
+2011-03-15,42.9166666667,Milwaukee Bucks,Atlanta Hawks,4,72-98,-28,two point jumper,False,21,False,True
+2011-03-15,43.5666666667,Milwaukee Bucks,Atlanta Hawks,4,74-98,-26,two point shot,False,1,True,True
+2011-03-15,44.4833333333,Milwaukee Bucks,Atlanta Hawks,4,78-100,-24,two point jumper,False,21,True,True
+2011-03-15,45.2333333333,Milwaukee Bucks,Atlanta Hawks,4,78-102,-26,two point jumper,False,21,False,True
+2011-03-15,46.6166666667,Milwaukee Bucks,Atlanta Hawks,4,83-105,-24,two point jumper,False,14,False,True
+2011-03-16,17.75,Milwaukee Bucks,Orlando Magic,2,32-25,-9,two point jumper,True,16,False,False
+2011-03-16,21.3,Milwaukee Bucks,Orlando Magic,2,43-31,-14,two point jumper,True,15,True,False
+2011-03-16,23.9833333333,Milwaukee Bucks,Orlando Magic,2,46-37,-11,two point jumper,True,19,True,False
+2011-03-16,20.7,Milwaukee Bucks,Orlando Magic,5,87-87,-2,layup,True,0,True,False
+2011-03-16,21.3,Milwaukee Bucks,Orlando Magic,5,89-87,-4,two point jumper,True,17,False,False
+2012-01-14,31.5666666667,Golden State Warriors,Charlotte Bobcats,3,69-84,-17,tip shot,False,0,True,False
+2012-01-14,34.5,Golden State Warriors,Charlotte Bobcats,3,71-92,-23,two point jumper,False,8,False,False
+2012-02-02,46.2166666667,Golden State Warriors,Utah Jazz,4,95-116,19,two point jumper,True,21,False,True
+2012-02-02,47.2,Golden State Warriors,Utah Jazz,4,96-119,21,two point jumper,True,8,True,True
+2013-11-30,43.7833333333,Washington Wizards,New York Knicks,4,80-101,-23,two point jumper,False,18,False,True
+2013-11-30,44.2166666667,Washington Wizards,New York Knicks,4,82-101,-21,two point shot,False,1,True,True
+2013-04-17,1.08333333333,New York Knicks,Atlanta Hawks,1,2-0,-4,tip shot,True,0,False,True
+2013-04-17,2.5,New York Knicks,Atlanta Hawks,1,2-6,3,free throw,True,15,True,True
+2013-04-17,2.5,New York Knicks,Atlanta Hawks,1,2-6,3,free throw,True,15,False,True
+2013-04-17,3.05,New York Knicks,Atlanta Hawks,1,4-8,2,two point jumper,True,1,True,True
+2013-04-17,6.2,New York Knicks,Atlanta Hawks,1,6-17,9,two point jumper,True,16,True,True
+2013-04-17,6.78333333333,New York Knicks,Atlanta Hawks,1,6-17,9,layup,True,0,False,True
+2013-04-17,13.2,New York Knicks,Atlanta Hawks,2,18-28,8,two point shot,True,5,False,True
+2013-04-17,14.15,New York Knicks,Atlanta Hawks,2,22-31,7,layup,True,0,False,True
+2013-04-17,18.2,New York Knicks,Atlanta Hawks,2,30-33,1,two point jumper,True,6,False,True
+2013-04-17,23.25,New York Knicks,Atlanta Hawks,2,39-43,2,two point jumper,True,1,False,True
+2013-04-17,26.3,New York Knicks,Atlanta Hawks,3,39-51,10,two point jumper,True,17,True,True
+2013-04-17,33.5666666667,New York Knicks,Atlanta Hawks,3,62-69,5,two point shot,True,9,False,True
+2013-04-17,43.1,New York Knicks,Atlanta Hawks,4,78-93,13,tip shot,True,0,False,True
+2013-04-17,43.1333333333,New York Knicks,Atlanta Hawks,4,78-95,15,two point shot,True,2,True,True
+2013-04-17,44.3166666667,New York Knicks,Atlanta Hawks,4,80-95,13,two point jumper,True,1,False,True
+2013-10-30,34.3333333333,Washington Wizards,Cleveland Cavaliers,3,58-69,-13,two point jumper,False,1,True,False
+2013-10-30,35.7166666667,Washington Wizards,Cleveland Cavaliers,3,62-74,-14,two point jumper,False,1,True,False
+2013-10-30,36.8666666667,Washington Wizards,Cleveland Cavaliers,4,65-74,-11,two point shot,False,1,True,False
+2013-10-30,45.75,Washington Wizards,Cleveland Cavaliers,4,82-86,-6,two point shot,False,1,True,False
+2013-10-30,45.75,Washington Wizards,Cleveland Cavaliers,4,82-86,-5,free throw,False,15,False,False
+2013-10-30,47.3166666667,Washington Wizards,Cleveland Cavaliers,4,84-92,-10,two point jumper,False,9,False,False
+2013-10-30,47.3333333333,Washington Wizards,Cleveland Cavaliers,4,84-92,-10,tip shot,False,0,False,False
+2013-12-21,35.2333333333,Washington Wizards,Detroit Pistons,3,49-77,-30,two point jumper,False,1,False,True
+2013-12-21,37.5666666667,Washington Wizards,Detroit Pistons,4,51-79,-30,two point jumper,False,19,False,True
+2013-11-19,14.3333333333,Washington Wizards,Indiana Pacers,2,32-15,-19,two point jumper,True,1,False,False
+2013-11-19,18.6333333333,Washington Wizards,Indiana Pacers,2,36-26,-12,two point jumper,True,19,False,False
+2013-11-19,23.95,Washington Wizards,Indiana Pacers,2,48-41,-9,two point shot,True,15,True,False
+2013-11-19,36.9666666667,Washington Wizards,Indiana Pacers,4,74-69,-7,two point shot,True,1,True,False
+2013-11-14,26.2666666667,Washington Wizards,Dallas Mavericks,3,27-29,-4,two point jumper,False,15,True,False
+2013-11-26,11.2,Washington Wizards,San Antonio Spurs,1,24-25,-1,two point jumper,True,17,False,True
+2013-11-26,15.1833333333,Washington Wizards,San Antonio Spurs,2,34-32,-4,two point jumper,True,8,False,True
+2013-12-18,20.5333333333,Washington Wizards,Atlanta Hawks,2,44-38,-8,two point jumper,True,14,False,True
+2013-12-18,27.9333333333,Washington Wizards,Atlanta Hawks,3,54-56,0,two point shot,True,1,False,True
+2013-12-18,38.5666666667,Washington Wizards,Atlanta Hawks,4,76-73,-5,layup,True,0,False,True
+2013-12-18,41.8166666667,Washington Wizards,Atlanta Hawks,4,80-79,-3,two point jumper,True,19,False,True
+2013-12-18,42.95,Washington Wizards,Atlanta Hawks,4,80-82,0,two point shot,True,1,False,True
+2013-12-18,43.45,Washington Wizards,Atlanta Hawks,4,83-82,-3,two point jumper,True,1,False,True
+2013-12-18,44.0166666667,Washington Wizards,Atlanta Hawks,4,83-82,-3,two point jumper,True,21,False,True
+2013-12-18,47.6166666667,Washington Wizards,Atlanta Hawks,4,90-90,-2,two point jumper,True,13,True,True
+2013-12-18,19.0333333333,Washington Wizards,Atlanta Hawks,5,92-93,-1,two point jumper,True,1,True,True
+2013-11-13,18.6166666667,Washington Wizards,Charlotte Bobcats,5,69-88,-21,two point jumper,False,15,False,False
+2013-11-13,20.7,Washington Wizards,Charlotte Bobcats,5,71-90,-20,free throw,False,15,False,False
+2013-11-13,20.7,Washington Wizards,Charlotte Bobcats,5,72-90,-19,free throw,False,15,True,False
+2013-11-13,21.1833333333,Washington Wizards,Charlotte Bobcats,5,74-90,-18,two point shot,False,1,True,False
+2013-11-13,21.7,Washington Wizards,Charlotte Bobcats,5,76-92,-18,two point jumper,False,15,True,False
+2013-12-15,23.35,Washington Wizards,Miami Heat,2,35-48,-14,free throw,False,15,False,True
+2013-12-15,23.35,Washington Wizards,Miami Heat,2,36-48,-13,free throw,False,15,True,True
+2013-12-19,2.0,Washington Wizards,Orlando Magic,1,3-4,-3,two point jumper,False,19,False,False
+2013-12-19,3.8,Washington Wizards,Orlando Magic,1,7-6,-1,two point jumper,False,8,False,False
+2013-12-19,6.13333333333,Washington Wizards,Orlando Magic,1,10-8,0,layup,False,0,False,False
+2013-12-19,17.45,Washington Wizards,Orlando Magic,2,32-42,-12,two point jumper,False,18,False,False
+2013-12-19,23.35,Washington Wizards,Orlando Magic,2,48-50,-4,two point jumper,False,1,True,False
+2013-12-19,27.6333333333,Washington Wizards,Orlando Magic,3,52-59,-9,two point jumper,False,17,False,False

@@ -1,0 +1,465 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2012-12-28,33.3666666667,Boston Celtics,New Orleans Pelicans,3,59-69,-12,layup,False,0,True,False
+2012-12-30,16.0666666667,Boston Celtics,Detroit Pistons,2,26-35,8,free throw,True,15,True,True
+2012-12-30,16.0666666667,Boston Celtics,Detroit Pistons,2,26-36,9,free throw,True,15,True,True
+2012-12-30,38.7166666667,Boston Celtics,Detroit Pistons,4,69-88,17,tip shot,True,0,False,True
+2012-01-01,21.5,Boston Celtics,Washington Wizards,2,48-30,16,layup,False,0,True,True
+2012-01-01,23.45,Boston Celtics,Washington Wizards,2,49-32,15,two point jumper,False,1,False,True
+2012-01-01,37.6333333333,Boston Celtics,Washington Wizards,4,75-65,8,two point jumper,False,17,True,True
+2012-01-01,39.5666666667,Boston Celtics,Washington Wizards,4,80-69,9,two point jumper,False,13,False,True
+2012-01-02,1.21666666667,Boston Celtics,Washington Wizards,1,2-5,1,layup,True,0,True,False
+2012-01-02,4.06666666667,Boston Celtics,Washington Wizards,1,8-16,6,two point jumper,True,18,True,False
+2012-01-02,21.2333333333,Boston Celtics,Washington Wizards,2,42-42,-1,free throw,True,15,True,False
+2012-01-02,21.2333333333,Boston Celtics,Washington Wizards,2,42-42,-1,free throw,True,15,False,False
+2012-01-02,25.0666666667,Boston Celtics,Washington Wizards,3,50-47,-5,two point jumper,True,16,False,False
+2012-01-02,25.5,Boston Celtics,Washington Wizards,3,50-49,-3,two point jumper,True,1,True,False
+2012-01-02,26.7,Boston Celtics,Washington Wizards,3,50-54,2,two point jumper,True,22,True,False
+2012-01-02,27.2,Boston Celtics,Washington Wizards,3,52-55,2,free throw,True,15,True,False
+2012-01-02,27.2,Boston Celtics,Washington Wizards,3,52-56,3,free throw,True,15,True,False
+2012-01-02,29.0333333333,Boston Celtics,Washington Wizards,3,58-58,-2,two point jumper,True,14,True,False
+2012-01-04,45.0833333333,Boston Celtics,Brooklyn Nets,4,58-79,20,free throw,True,15,False,True
+2012-01-04,45.0833333333,Boston Celtics,Brooklyn Nets,4,58-80,21,free throw,True,15,True,True
+2012-01-11,11.5833333333,Boston Celtics,Dallas Mavericks,1,21-14,-8,free throw,True,15,False,False
+2012-01-11,11.5833333333,Boston Celtics,Dallas Mavericks,1,21-15,-7,free throw,True,15,True,False
+2012-01-18,41.5333333333,Boston Celtics,Toronto Raptors,4,61-81,18,two point jumper,True,17,True,True
+2012-01-18,44.1666666667,Boston Celtics,Toronto Raptors,4,64-88,22,two point jumper,True,19,False,True
+2012-01-23,43.3833333333,Boston Celtics,Orlando Magic,4,51-77,24,two point jumper,True,5,False,True
+2012-01-23,45.4833333333,Boston Celtics,Orlando Magic,4,51-83,30,two point shot,True,1,True,True
+2012-01-27,34.6166666667,Boston Celtics,Indiana Pacers,3,59-69,8,two point jumper,True,19,False,True
+2012-01-29,18.1,Boston Celtics,Cleveland Cavaliers,2,33-33,-2,layup,True,0,False,False
+2012-02-01,44.9166666667,Boston Celtics,Toronto Raptors,4,59-96,35,two point jumper,True,13,True,False
+2012-02-01,45.4,Boston Celtics,Toronto Raptors,4,60-96,34,two point jumper,True,19,False,False
+2012-02-07,47.6666666667,Boston Celtics,Charlotte Bobcats,4,81-94,11,two point jumper,True,14,True,True
+2012-02-15,14.0,Boston Celtics,Detroit Pistons,2,28-31,2,free throw,True,15,True,False
+2012-02-15,14.0,Boston Celtics,Detroit Pistons,2,28-31,2,free throw,True,15,False,False
+2012-02-15,17.0,Boston Celtics,Detroit Pistons,2,35-33,-4,two point jumper,True,17,False,False
+2012-02-15,34.9666666667,Boston Celtics,Detroit Pistons,3,69-72,1,two point jumper,True,13,False,False
+2012-02-19,11.6833333333,Boston Celtics,Detroit Pistons,1,26-26,-2,dunk,False,0,True,False
+2012-02-19,47.4666666667,Boston Celtics,Detroit Pistons,4,81-94,-15,tip shot,False,0,True,False
+2012-02-20,10.25,Boston Celtics,Dallas Mavericks,1,11-17,-8,two point jumper,False,16,False,False
+2012-02-20,33.2833333333,Boston Celtics,Dallas Mavericks,3,42-66,-25,free throw,False,15,False,False
+2012-02-20,33.2833333333,Boston Celtics,Dallas Mavericks,3,43-66,-24,free throw,False,15,True,False
+2012-02-28,18.5,Boston Celtics,Cleveland Cavaliers,2,39-30,7,layup,False,0,True,True
+2012-03-02,10.9666666667,Boston Celtics,Brooklyn Nets,1,18-29,9,two point jumper,True,18,False,False
+2012-03-02,22.4166666667,Boston Celtics,Brooklyn Nets,2,34-52,16,two point jumper,True,18,False,False
+2012-03-02,45.4166666667,Boston Celtics,Brooklyn Nets,4,84-103,17,layup,True,0,False,False
+2012-03-06,6.2,Boston Celtics,Houston Rockets,1,12-13,-1,two point jumper,True,14,True,True
+2012-03-06,7.73333333333,Boston Celtics,Houston Rockets,1,14-13,-3,two point jumper,True,1,False,True
+2012-03-06,10.6666666667,Boston Celtics,Houston Rockets,1,24-21,-5,two point shot,True,1,True,True
+2012-03-06,12.0,Boston Celtics,Houston Rockets,1,28-21,-9,two point jumper,True,23,False,True
+2012-03-06,12.7,Boston Celtics,Houston Rockets,2,28-23,-7,two point jumper,True,19,True,True
+2012-03-06,19.3833333333,Boston Celtics,Houston Rockets,2,33-35,0,two point jumper,True,17,True,True
+2012-03-07,15.6333333333,Boston Celtics,Philadelphia 76ers,2,19-33,-16,two point jumper,False,18,True,True
+2012-03-07,34.7166666667,Boston Celtics,Philadelphia 76ers,3,49-78,-31,two point jumper,False,18,False,True
+2012-03-07,42.2,Boston Celtics,Philadelphia 76ers,4,61-91,-32,two point jumper,False,1,False,True
+2012-03-07,42.7333333333,Boston Celtics,Philadelphia 76ers,4,63-91,-30,hook shot,False,6,True,True
+2012-03-07,44.1833333333,Boston Celtics,Philadelphia 76ers,4,63-96,-35,two point jumper,False,15,False,True
+2012-03-09,9.78333333333,Boston Celtics,Portland Trail Blazers,1,14-21,5,two point jumper,True,20,False,False
+2012-03-09,17.85,Boston Celtics,Portland Trail Blazers,2,19-45,24,dunk,True,0,False,False
+2012-03-09,32.0833333333,Boston Celtics,Portland Trail Blazers,3,45-84,37,two point jumper,True,19,False,False
+2012-03-09,33.65,Boston Celtics,Portland Trail Blazers,3,46-84,36,layup,True,0,False,False
+2012-03-09,36.5166666667,Boston Celtics,Portland Trail Blazers,4,54-88,33,free throw,True,15,False,False
+2012-03-09,36.5166666667,Boston Celtics,Portland Trail Blazers,4,54-89,34,free throw,True,15,True,False
+2012-03-09,42.9833333333,Boston Celtics,Portland Trail Blazers,4,71-92,19,two point jumper,True,5,False,False
+2012-03-09,43.0333333333,Boston Celtics,Portland Trail Blazers,4,71-92,19,layup,True,0,False,False
+2012-03-11,20.0666666667,Boston Celtics,Los Angeles Lakers,2,32-39,-9,two point jumper,False,21,True,False
+2012-03-12,21.8,Boston Celtics,Los Angeles Clippers,2,35-42,-9,two point jumper,False,17,True,True
+2012-03-14,7.03333333333,Boston Celtics,Golden State Warriors,1,10-12,-4,dunk,False,0,True,True
+2012-03-14,11.3333333333,Boston Celtics,Golden State Warriors,1,20-25,-6,free throw,False,15,True,True
+2012-03-14,11.3333333333,Boston Celtics,Golden State Warriors,1,21-25,-5,free throw,False,15,True,True
+2012-03-14,13.25,Boston Celtics,Golden State Warriors,2,27-27,-1,free throw,False,15,True,True
+2012-03-14,13.25,Boston Celtics,Golden State Warriors,2,28-27,0,free throw,False,15,True,True
+2012-03-14,35.9666666667,Boston Celtics,Golden State Warriors,3,81-77,2,two point shot,False,1,True,True
+2012-03-16,10.2166666667,Boston Celtics,Sacramento Kings,1,16-20,-5,free throw,False,15,False,True
+2012-03-16,10.2166666667,Boston Celtics,Sacramento Kings,1,16-20,-5,free throw,False,15,False,True
+2012-03-17,5.75,Boston Celtics,Denver Nuggets,1,12-12,-2,layup,False,0,True,False
+2012-03-17,5.98333333333,Boston Celtics,Denver Nuggets,1,12-12,-2,two point jumper,False,18,False,False
+2012-03-17,9.6,Boston Celtics,Denver Nuggets,1,16-20,-6,two point jumper,False,19,False,False
+2012-03-17,32.25,Boston Celtics,Denver Nuggets,3,62-77,-17,dunk,False,0,True,False
+2012-03-17,35.25,Boston Celtics,Denver Nuggets,3,68-79,-13,hook shot,False,11,False,False
+2012-03-19,6.56666666667,Boston Celtics,Atlanta Hawks,1,8-8,-2,two point jumper,False,21,False,True
+2012-03-19,21.65,Boston Celtics,Atlanta Hawks,2,27-29,-4,two point jumper,False,19,True,True
+2012-03-19,32.4666666667,Boston Celtics,Atlanta Hawks,3,45-47,-4,layup,False,0,True,True
+2012-03-22,7.56666666667,Boston Celtics,Milwaukee Bucks,1,25-21,2,layup,False,0,True,False
+2012-03-22,9.55,Boston Celtics,Milwaukee Bucks,1,30-23,5,two point jumper,False,16,False,False
+2012-03-22,31.6,Boston Celtics,Milwaukee Bucks,3,67-64,1,two point jumper,False,13,True,False
+2012-03-22,32.5833333333,Boston Celtics,Milwaukee Bucks,3,68-66,0,two point jumper,False,17,False,False
+2012-03-22,37.5666666667,Boston Celtics,Milwaukee Bucks,4,76-73,1,two point shot,False,1,True,False
+2012-03-23,14.4,Boston Celtics,Philadelphia 76ers,2,38-30,6,layup,False,0,True,False
+2012-03-25,11.55,Boston Celtics,Washington Wizards,1,12-27,13,two point jumper,True,19,True,True
+2012-03-25,12.75,Boston Celtics,Washington Wizards,2,12-28,15,free throw,True,15,True,True
+2012-03-25,12.75,Boston Celtics,Washington Wizards,2,12-29,16,free throw,True,15,True,True
+2012-03-25,13.3833333333,Boston Celtics,Washington Wizards,2,12-31,17,two point jumper,True,4,True,True
+2012-03-25,14.9333333333,Boston Celtics,Washington Wizards,2,12-35,21,two point jumper,True,14,True,True
+2012-03-25,18.1,Boston Celtics,Washington Wizards,2,22-39,15,two point jumper,True,19,True,True
+2012-03-25,33.1833333333,Boston Celtics,Washington Wizards,3,53-65,10,two point jumper,True,21,False,True
+2012-03-26,21.4333333333,Boston Celtics,Charlotte Bobcats,2,50-42,6,two point jumper,False,17,True,False
+2012-03-26,30.6333333333,Boston Celtics,Charlotte Bobcats,3,70-63,6,free throw,False,15,True,False
+2012-03-26,30.6333333333,Boston Celtics,Charlotte Bobcats,3,70-63,6,free throw,False,15,False,False
+2012-03-28,32.7333333333,Boston Celtics,Utah Jazz,3,56-63,6,free throw,True,15,False,True
+2012-03-28,32.7333333333,Boston Celtics,Utah Jazz,3,56-64,7,free throw,True,15,True,True
+2012-03-30,8.7,Boston Celtics,Minnesota Timberwolves,1,19-11,6,two point jumper,False,21,True,False
+2012-03-30,9.41666666667,Boston Celtics,Minnesota Timberwolves,1,21-13,6,two point jumper,False,6,True,False
+2012-03-30,11.4833333333,Boston Celtics,Minnesota Timberwolves,1,31-17,12,tip shot,False,0,True,False
+2012-03-30,34.35,Boston Celtics,Minnesota Timberwolves,3,79-65,12,tip shot,False,0,True,False
+2012-04-01,8.58333333333,Boston Celtics,Miami Heat,1,12-21,7,two point jumper,True,17,False,True
+2012-04-01,10.0,Boston Celtics,Miami Heat,1,13-23,8,layup,True,0,False,True
+2012-04-01,11.5,Boston Celtics,Miami Heat,1,19-28,8,free throw,True,15,True,True
+2012-04-01,11.5,Boston Celtics,Miami Heat,1,19-29,9,free throw,True,15,True,True
+2012-04-01,14.9333333333,Boston Celtics,Miami Heat,2,23-34,9,layup,True,0,True,True
+2012-04-01,16.5333333333,Boston Celtics,Miami Heat,2,27-34,5,layup,True,0,False,True
+2012-04-01,32.75,Boston Celtics,Miami Heat,3,52-72,18,layup,True,0,True,True
+2012-04-05,11.5666666667,Boston Celtics,Chicago Bulls,1,22-18,2,two point jumper,False,18,False,False
+2012-04-05,35.1666666667,Boston Celtics,Chicago Bulls,3,65-63,1,free throw,False,15,True,False
+2012-04-05,35.1666666667,Boston Celtics,Chicago Bulls,3,66-63,2,free throw,False,15,True,False
+2012-04-07,6.6,Boston Celtics,Indiana Pacers,1,13-11,0,two point shot,False,2,True,True
+2012-04-07,9.75,Boston Celtics,Indiana Pacers,1,17-15,0,layup,False,0,True,True
+2012-04-07,10.3333333333,Boston Celtics,Indiana Pacers,1,19-15,2,two point shot,False,1,True,True
+2012-04-07,17.9166666667,Boston Celtics,Indiana Pacers,2,35-19,15,free throw,False,15,True,True
+2012-04-07,17.9166666667,Boston Celtics,Indiana Pacers,2,36-19,16,free throw,False,15,True,True
+2012-04-07,19.45,Boston Celtics,Indiana Pacers,2,38-21,15,dunk,False,0,True,True
+2012-04-08,13.2666666667,Boston Celtics,Philadelphia 76ers,2,24-28,3,free throw,True,15,True,False
+2012-04-08,13.2666666667,Boston Celtics,Philadelphia 76ers,2,24-29,4,free throw,True,15,True,False
+2012-04-10,11.0,Boston Celtics,Miami Heat,1,30-22,6,two point jumper,False,1,True,True
+2012-04-10,12.95,Boston Celtics,Miami Heat,2,37-24,11,layup,False,0,True,True
+2012-04-10,31.9833333333,Boston Celtics,Miami Heat,3,82-73,7,two point jumper,False,18,True,True
+2012-04-10,32.7666666667,Boston Celtics,Miami Heat,3,84-75,7,two point shot,False,1,True,True
+2012-04-11,22.8833333333,Boston Celtics,Atlanta Hawks,2,45-40,-7,tip shot,True,0,False,True
+2012-04-11,31.7,Boston Celtics,Atlanta Hawks,3,62-59,-5,two point jumper,True,13,True,True
+2012-04-11,33.1833333333,Boston Celtics,Atlanta Hawks,3,66-61,-7,two point jumper,True,19,True,True
+2012-04-11,34.35,Boston Celtics,Atlanta Hawks,3,66-63,-5,two point jumper,True,20,True,True
+2012-04-11,37.5666666667,Boston Celtics,Atlanta Hawks,4,68-69,-1,tip shot,True,0,False,True
+2012-04-13,33.2833333333,Boston Celtics,Toronto Raptors,3,42-51,-10,free throw,False,15,False,False
+2012-04-13,33.2833333333,Boston Celtics,Toronto Raptors,3,43-51,-9,free throw,False,15,True,False
+2012-04-13,34.1,Boston Celtics,Toronto Raptors,3,44-54,-11,free throw,False,15,True,False
+2012-04-13,34.1,Boston Celtics,Toronto Raptors,3,44-54,-11,free throw,False,15,False,False
+2012-04-13,38.0666666667,Boston Celtics,Toronto Raptors,4,49-60,-13,two point shot,False,1,True,False
+2012-04-13,38.0666666667,Boston Celtics,Toronto Raptors,4,50-60,-11,free throw,False,15,True,False
+2012-04-14,8.36666666667,Boston Celtics,Brooklyn Nets,1,15-19,-6,layup,False,0,True,True
+2012-04-14,38.25,Boston Celtics,Brooklyn Nets,4,76-63,11,two point shot,False,2,False,True
+2012-04-14,39.3166666667,Boston Celtics,Brooklyn Nets,4,78-63,13,two point jumper,False,1,True,True
+2012-04-14,44.4833333333,Boston Celtics,Brooklyn Nets,4,87-70,15,two point shot,False,1,True,True
+2012-04-15,2.13333333333,Boston Celtics,Charlotte Bobcats,1,2-2,-2,two point shot,False,1,True,True
+2012-04-15,2.95,Boston Celtics,Charlotte Bobcats,1,4-4,-2,layup,False,0,True,True
+2012-04-15,28.1333333333,Boston Celtics,Charlotte Bobcats,3,62-54,6,layup,False,0,True,True
+2012-04-15,47.0833333333,Boston Celtics,Charlotte Bobcats,4,92-78,12,tip shot,False,0,True,True
+2012-04-18,9.08333333333,Boston Celtics,Orlando Magic,1,18-23,3,two point jumper,True,14,False,False
+2012-04-18,10.1166666667,Boston Celtics,Orlando Magic,1,20-28,6,two point shot,True,2,True,False
+2012-04-20,2.46666666667,Boston Celtics,Atlanta Hawks,1,7-6,-1,layup,False,0,True,False
+2012-04-20,4.75,Boston Celtics,Atlanta Hawks,1,9-16,-9,layup,False,0,True,False
+2013-12-05,10.2166666667,Minnesota Timberwolves,Boston Celtics,1,25-21,2,two point shot,False,1,True,True
+2013-12-05,13.3,Minnesota Timberwolves,Boston Celtics,2,32-31,-1,layup,False,0,False,True
+2013-12-05,14.45,Minnesota Timberwolves,Boston Celtics,2,32-35,-5,layup,False,0,False,True
+2013-01-23,3.56666666667,Minnesota Timberwolves,Brooklyn Nets,1,9-0,-11,two point shot,True,1,False,False
+2013-01-23,4.13333333333,Minnesota Timberwolves,Brooklyn Nets,1,12-2,-12,two point jumper,True,19,False,False
+2013-01-23,18.4166666667,Minnesota Timberwolves,Brooklyn Nets,2,31-29,-4,layup,True,0,True,False
+2013-01-23,18.8166666667,Minnesota Timberwolves,Brooklyn Nets,2,34-29,-7,two point jumper,True,17,False,False
+2013-01-23,24.95,Minnesota Timberwolves,Brooklyn Nets,3,55-42,-15,tip shot,True,0,False,False
+2013-12-04,13.5666666667,Minnesota Timberwolves,Philadelphia 76ers,2,36-24,10,two point shot,False,1,True,False
+2013-12-04,16.2333333333,Minnesota Timberwolves,Philadelphia 76ers,2,45-27,17,free throw,False,15,True,False
+2013-12-04,16.2333333333,Minnesota Timberwolves,Philadelphia 76ers,2,46-27,18,free throw,False,15,True,False
+2013-12-04,38.2666666667,Minnesota Timberwolves,Philadelphia 76ers,4,91-73,16,two point jumper,False,1,True,False
+2013-11-04,36.8166666667,Minnesota Timberwolves,Toronto Raptors,4,75-81,-8,two point jumper,False,19,True,True
+2013-11-04,38.8833333333,Minnesota Timberwolves,Toronto Raptors,4,75-85,-12,two point jumper,False,16,False,True
+2013-11-16,4.16666666667,Minnesota Timberwolves,Golden State Warriors,1,7-7,-1,free throw,True,15,False,True
+2013-11-16,4.16666666667,Minnesota Timberwolves,Golden State Warriors,1,7-8,0,free throw,True,15,True,True
+2013-11-16,7.88333333333,Minnesota Timberwolves,Golden State Warriors,1,16-18,1,free throw,True,15,True,True
+2013-11-16,7.88333333333,Minnesota Timberwolves,Golden State Warriors,1,16-19,2,free throw,True,15,True,True
+2013-11-16,27.0833333333,Minnesota Timberwolves,Golden State Warriors,3,61-52,-11,layup,True,0,False,True
+2013-11-16,27.1166666667,Minnesota Timberwolves,Golden State Warriors,3,61-54,-9,two point shot,True,1,True,True
+2013-11-16,27.6333333333,Minnesota Timberwolves,Golden State Warriors,3,61-54,-9,two point jumper,True,18,False,True
+2013-11-24,11.1166666667,Minnesota Timberwolves,Golden State Warriors,1,16-14,0,two point jumper,False,20,True,False
+2013-11-24,12.4333333333,Minnesota Timberwolves,Golden State Warriors,2,18-16,0,two point jumper,False,18,False,False
+2013-11-24,13.8833333333,Minnesota Timberwolves,Golden State Warriors,2,20-16,2,two point jumper,False,17,False,False
+2013-11-24,32.4,Minnesota Timberwolves,Golden State Warriors,3,66-60,4,layup,False,0,True,False
+2013-02-24,15.5,Minnesota Timberwolves,Golden State Warriors,2,25-35,9,free throw,True,15,True,True
+2013-02-24,15.5,Minnesota Timberwolves,Golden State Warriors,2,25-35,9,free throw,True,15,False,True
+2013-04-09,14.1833333333,Minnesota Timberwolves,Golden State Warriors,2,31-28,1,two point jumper,False,17,False,True
+2013-04-09,17.0333333333,Minnesota Timberwolves,Golden State Warriors,2,42-39,1,two point shot,False,1,True,True
+2013-04-09,17.4833333333,Minnesota Timberwolves,Golden State Warriors,2,44-39,3,two point shot,False,5,True,True
+2013-04-09,41.6333333333,Minnesota Timberwolves,Golden State Warriors,4,79-94,-17,two point jumper,False,17,False,True
+2013-04-09,45.2166666667,Minnesota Timberwolves,Golden State Warriors,4,85-102,-19,two point shot,False,5,True,True
+2013-04-09,45.75,Minnesota Timberwolves,Golden State Warriors,4,85-102,-19,two point jumper,False,19,False,True
+2013-04-09,47.5,Minnesota Timberwolves,Golden State Warriors,4,87-105,-20,two point shot,False,1,False,True
+2013-01-17,39.1833333333,Minnesota Timberwolves,Los Angeles Clippers,4,77-68,-11,two point jumper,True,1,True,False
+2013-01-17,40.1666666667,Minnesota Timberwolves,Los Angeles Clippers,4,79-70,-11,two point jumper,True,16,True,False
+2013-01-30,12.8666666667,Minnesota Timberwolves,Los Angeles Clippers,2,25-30,3,two point jumper,True,15,True,False
+2013-01-30,15.5666666667,Minnesota Timberwolves,Los Angeles Clippers,2,25-32,6,free throw,True,15,False,False
+2013-01-30,15.5666666667,Minnesota Timberwolves,Los Angeles Clippers,2,25-33,7,free throw,True,15,True,False
+2013-01-30,35.8333333333,Minnesota Timberwolves,Los Angeles Clippers,3,74-70,-5,free throw,True,15,False,False
+2013-01-30,35.8333333333,Minnesota Timberwolves,Los Angeles Clippers,3,74-71,-4,free throw,True,15,True,False
+2013-01-30,39.5,Minnesota Timberwolves,Los Angeles Clippers,4,80-76,-6,two point jumper,True,20,False,False
+2013-04-10,20.1833333333,Minnesota Timberwolves,Los Angeles Clippers,2,42-45,-5,layup,False,0,True,True
+2013-04-10,39.65,Minnesota Timberwolves,Los Angeles Clippers,4,76-90,-16,two point jumper,False,1,True,True
+2013-04-10,45.2166666667,Minnesota Timberwolves,Los Angeles Clippers,4,85-107,-24,two point jumper,False,20,False,True
+2013-04-10,45.3666666667,Minnesota Timberwolves,Los Angeles Clippers,4,85-107,-24,two point jumper,False,4,False,True
+2013-02-28,15.0,Minnesota Timberwolves,Los Angeles Lakers,2,26-33,-9,two point jumper,False,13,True,True
+2013-02-28,37.8333333333,Minnesota Timberwolves,Los Angeles Lakers,4,76-94,-20,two point jumper,False,18,False,True
+2013-03-27,13.25,Minnesota Timberwolves,Los Angeles Lakers,2,26-27,-1,two point jumper,True,18,False,False
+2013-03-27,13.8833333333,Minnesota Timberwolves,Los Angeles Lakers,2,26-27,-1,two point jumper,True,19,False,False
+2013-12-29,13.2166666667,Minnesota Timberwolves,Phoenix Suns,2,33-37,2,two point shot,True,3,True,True
+2013-12-29,14.7,Minnesota Timberwolves,Phoenix Suns,2,37-42,3,layup,True,0,False,True
+2013-03-22,8.78333333333,Minnesota Timberwolves,Phoenix Suns,1,23-14,7,two point jumper,False,19,False,False
+2013-03-22,10.1666666667,Minnesota Timberwolves,Phoenix Suns,1,27-14,11,two point jumper,False,9,True,False
+2013-03-22,17.2,Minnesota Timberwolves,Phoenix Suns,2,48-27,19,two point jumper,False,19,True,False
+2013-03-22,17.7333333333,Minnesota Timberwolves,Phoenix Suns,2,50-27,21,layup,False,0,True,False
+2013-03-22,17.7333333333,Minnesota Timberwolves,Phoenix Suns,2,50-27,22,free throw,False,15,False,False
+2013-03-22,18.25,Minnesota Timberwolves,Phoenix Suns,2,52-29,21,two point jumper,False,11,True,False
+2013-03-22,26.25,Minnesota Timberwolves,Phoenix Suns,3,70-46,22,layup,False,0,False,False
+2013-03-22,26.3,Minnesota Timberwolves,Phoenix Suns,3,70-46,22,layup,False,0,False,False
+2013-03-22,38.7,Minnesota Timberwolves,Phoenix Suns,4,99-69,28,dunk,False,0,True,False
+2013-03-22,41.4166666667,Minnesota Timberwolves,Phoenix Suns,4,105-75,29,free throw,False,15,True,False
+2013-03-22,44.65,Minnesota Timberwolves,Phoenix Suns,4,111-78,31,two point jumper,False,18,True,False
+2013-03-22,46.6,Minnesota Timberwolves,Phoenix Suns,4,117-84,31,two point jumper,False,18,False,False
+2013-04-13,13.75,Minnesota Timberwolves,Phoenix Suns,2,31-23,-10,two point jumper,True,18,False,False
+2013-04-13,16.7333333333,Minnesota Timberwolves,Phoenix Suns,2,35-31,-6,layup,True,0,False,False
+2013-04-13,20.0,Minnesota Timberwolves,Phoenix Suns,2,40-38,-4,two point jumper,True,18,True,False
+2013-04-13,25.6333333333,Minnesota Timberwolves,Phoenix Suns,3,55-52,-5,two point jumper,True,18,True,False
+2013-04-13,31.6666666667,Minnesota Timberwolves,Phoenix Suns,3,66-64,-4,two point jumper,True,16,False,False
+2013-04-13,32.2666666667,Minnesota Timberwolves,Phoenix Suns,3,68-68,-2,two point jumper,True,16,True,False
+2013-11-02,10.8666666667,Minnesota Timberwolves,Sacramento Kings,1,16-24,6,two point jumper,True,1,False,True
+2013-11-02,12.0,Minnesota Timberwolves,Sacramento Kings,1,18-28,8,two point jumper,True,1,True,True
+2013-11-02,12.95,Minnesota Timberwolves,Sacramento Kings,2,21-28,5,layup,True,0,False,True
+2013-11-02,12.9666666667,Minnesota Timberwolves,Sacramento Kings,2,21-30,7,two point shot,True,1,True,True
+2013-11-02,13.75,Minnesota Timberwolves,Sacramento Kings,2,21-33,11,free throw,True,15,True,True
+2013-11-02,13.75,Minnesota Timberwolves,Sacramento Kings,2,21-34,12,free throw,True,15,True,True
+2013-11-02,15.0833333333,Minnesota Timberwolves,Sacramento Kings,2,23-36,11,two point jumper,True,16,False,True
+2013-11-02,34.2166666667,Minnesota Timberwolves,Sacramento Kings,3,61-68,5,two point shot,True,1,True,True
+2013-11-02,37.0166666667,Minnesota Timberwolves,Sacramento Kings,4,67-71,3,free throw,True,15,True,True
+2013-11-02,37.0166666667,Minnesota Timberwolves,Sacramento Kings,4,67-71,3,free throw,True,15,False,True
+2013-11-02,40.8166666667,Minnesota Timberwolves,Sacramento Kings,4,70-75,3,two point jumper,True,13,False,True
+2013-03-21,13.3666666667,Minnesota Timberwolves,Sacramento Kings,2,30-28,0,two point shot,False,1,True,True
+2013-03-21,16.8833333333,Minnesota Timberwolves,Sacramento Kings,2,41-32,7,two point jumper,False,20,True,True
+2013-03-21,23.8833333333,Minnesota Timberwolves,Sacramento Kings,2,57-50,5,two point shot,False,2,True,True
+2013-03-21,36.9666666667,Minnesota Timberwolves,Sacramento Kings,4,81-81,-2,two point jumper,False,19,True,True
+2013-11-10,16.4166666667,Minnesota Timberwolves,Chicago Bulls,2,25-26,-3,two point jumper,False,17,False,False
+2013-11-10,35.0,Minnesota Timberwolves,Chicago Bulls,3,57-61,-6,two point jumper,False,19,False,False
+2013-03-24,13.8666666667,Minnesota Timberwolves,Chicago Bulls,2,27-20,-9,two point jumper,True,11,True,True
+2013-12-07,6.31666666667,Minnesota Timberwolves,Cleveland Cavaliers,1,6-14,6,two point jumper,True,18,False,True
+2013-12-07,8.43333333333,Minnesota Timberwolves,Cleveland Cavaliers,1,11-18,5,layup,True,0,False,True
+2013-12-07,17.2,Minnesota Timberwolves,Cleveland Cavaliers,2,26-27,-1,two point jumper,True,19,False,True
+2013-02-11,13.8,Minnesota Timberwolves,Cleveland Cavaliers,2,25-31,-8,tip shot,False,0,False,False
+2013-02-11,15.7,Minnesota Timberwolves,Cleveland Cavaliers,2,29-33,-6,two point jumper,False,19,True,False
+2013-03-26,14.9666666667,Minnesota Timberwolves,Detroit Pistons,2,27-20,5,two point jumper,False,14,False,False
+2013-03-26,16.75,Minnesota Timberwolves,Detroit Pistons,2,27-25,0,two point jumper,False,17,False,False
+2013-03-26,46.15,Minnesota Timberwolves,Detroit Pistons,4,100-75,23,two point jumper,False,11,False,False
+2013-03-26,46.4666666667,Minnesota Timberwolves,Detroit Pistons,4,102-77,23,two point jumper,False,21,True,False
+2013-04-06,13.2666666667,Minnesota Timberwolves,Detroit Pistons,2,29-33,2,two point jumper,True,1,False,True
+2013-04-06,19.0333333333,Minnesota Timberwolves,Detroit Pistons,2,48-48,-1,free throw,True,15,True,True
+2013-04-06,19.0333333333,Minnesota Timberwolves,Detroit Pistons,2,48-49,0,free throw,True,15,True,True
+2013-11-09,12.6333333333,Minnesota Timberwolves,Indiana Pacers,2,19-21,0,two point jumper,True,1,False,True
+2013-11-09,12.8833333333,Minnesota Timberwolves,Indiana Pacers,2,21-21,-2,two point jumper,True,14,False,True
+2013-11-09,15.3833333333,Minnesota Timberwolves,Indiana Pacers,2,23-31,6,layup,True,0,True,True
+2013-11-09,16.4166666667,Minnesota Timberwolves,Indiana Pacers,2,25-32,5,two point jumper,True,19,False,True
+2013-11-09,33.6,Minnesota Timberwolves,Indiana Pacers,3,61-64,2,free throw,True,15,True,True
+2013-11-09,33.6,Minnesota Timberwolves,Indiana Pacers,3,61-65,3,free throw,True,15,True,True
+2013-11-09,35.1166666667,Minnesota Timberwolves,Indiana Pacers,3,63-65,0,two point jumper,True,19,False,True
+2013-11-09,36.3833333333,Minnesota Timberwolves,Indiana Pacers,4,64-71,5,layup,True,0,True,True
+2013-03-13,0.766666666667,Minnesota Timberwolves,Indiana Pacers,1,0-2,-4,two point jumper,False,20,False,True
+2013-03-13,6.31666666667,Minnesota Timberwolves,Indiana Pacers,1,13-23,-11,free throw,False,15,True,True
+2013-03-13,6.31666666667,Minnesota Timberwolves,Indiana Pacers,1,14-23,-10,free throw,False,15,True,True
+2013-03-13,7.53333333333,Minnesota Timberwolves,Indiana Pacers,1,18-25,-9,two point shot,False,1,True,True
+2013-03-13,8.0,Minnesota Timberwolves,Indiana Pacers,1,18-25,-9,two point jumper,False,19,False,True
+2013-03-13,20.7833333333,Minnesota Timberwolves,Indiana Pacers,2,50-53,-5,two point jumper,False,19,False,True
+2013-03-13,28.35,Minnesota Timberwolves,Indiana Pacers,3,61-69,-10,tip shot,False,0,False,True
+2013-03-13,30.45,Minnesota Timberwolves,Indiana Pacers,3,66-73,-9,two point jumper,False,19,True,True
+2013-03-13,34.25,Minnesota Timberwolves,Indiana Pacers,3,66-82,-17,free throw,False,15,False,True
+2013-03-13,34.25,Minnesota Timberwolves,Indiana Pacers,3,67-82,-16,free throw,False,15,True,True
+2013-03-13,35.0666666667,Minnesota Timberwolves,Indiana Pacers,3,67-82,-17,two point jumper,False,1,False,True
+2013-03-13,39.0666666667,Minnesota Timberwolves,Indiana Pacers,4,78-87,-11,two point shot,False,1,True,True
+2013-03-13,40.3166666667,Minnesota Timberwolves,Indiana Pacers,4,78-90,-14,two point jumper,False,1,False,True
+2013-03-13,42.6666666667,Minnesota Timberwolves,Indiana Pacers,4,81-92,-13,layup,False,0,False,True
+2013-03-13,42.7,Minnesota Timberwolves,Indiana Pacers,4,83-92,-11,two point shot,False,1,True,True
+2013-03-13,45.7333333333,Minnesota Timberwolves,Indiana Pacers,4,85-101,-18,layup,False,0,False,True
+2013-03-13,45.75,Minnesota Timberwolves,Indiana Pacers,4,87-101,-16,two point shot,False,1,True,True
+2013-11-30,13.8166666667,Minnesota Timberwolves,Milwaukee Bucks,2,32-32,-2,two point jumper,True,1,False,True
+2013-04-03,17.8166666667,Minnesota Timberwolves,Milwaukee Bucks,2,46-36,8,two point shot,False,1,True,False
+2013-04-03,19.0666666667,Minnesota Timberwolves,Milwaukee Bucks,2,46-41,3,two point jumper,False,19,False,False
+2013-04-03,40.7333333333,Minnesota Timberwolves,Milwaukee Bucks,4,95-87,6,layup,False,0,False,False
+2013-11-12,17.2,Minnesota Timberwolves,Dallas Mavericks,2,31-26,3,unknown,False,7,False,True
+2013-12-15,13.5666666667,Minnesota Timberwolves,Dallas Mavericks,2,34-26,-10,layup,True,0,True,True
+2013-12-15,18.5666666667,Minnesota Timberwolves,Dallas Mavericks,2,40-41,0,free throw,True,15,True,True
+2013-12-15,18.5666666667,Minnesota Timberwolves,Dallas Mavericks,2,40-42,1,free throw,True,15,True,True
+2013-01-14,12.9,Minnesota Timberwolves,Dallas Mavericks,2,22-26,-6,layup,False,0,False,True
+2013-01-14,13.4,Minnesota Timberwolves,Dallas Mavericks,2,24-28,-6,two point jumper,False,19,True,True
+2013-01-14,20.7666666667,Minnesota Timberwolves,Dallas Mavericks,2,41-47,-8,two point jumper,False,16,False,True
+2013-01-14,21.1166666667,Minnesota Timberwolves,Dallas Mavericks,2,41-47,-8,two point jumper,False,11,False,True
+2013-01-14,36.6166666667,Minnesota Timberwolves,Dallas Mavericks,4,72-91,-21,layup,False,0,True,True
+2013-01-14,41.3833333333,Minnesota Timberwolves,Dallas Mavericks,4,83-97,-15,free throw,False,15,True,True
+2013-01-14,41.3833333333,Minnesota Timberwolves,Dallas Mavericks,4,84-97,-14,free throw,False,15,True,True
+2013-03-10,1.31666666667,Minnesota Timberwolves,Dallas Mavericks,1,2-2,-2,layup,True,0,True,True
+2013-03-10,4.63333333333,Minnesota Timberwolves,Dallas Mavericks,1,4-6,0,two point jumper,True,20,False,True
+2013-03-10,5.73333333333,Minnesota Timberwolves,Dallas Mavericks,1,6-7,-1,two point shot,True,1,False,True
+2013-03-10,6.7,Minnesota Timberwolves,Dallas Mavericks,1,9-11,0,two point jumper,True,15,True,True
+2013-03-10,7.13333333333,Minnesota Timberwolves,Dallas Mavericks,1,9-11,0,two point jumper,True,15,False,True
+2013-03-10,9.3,Minnesota Timberwolves,Dallas Mavericks,1,13-15,0,two point jumper,True,1,False,True
+2013-03-10,17.2,Minnesota Timberwolves,Dallas Mavericks,2,41-25,-18,two point jumper,True,1,True,True
+2013-03-10,18.8833333333,Minnesota Timberwolves,Dallas Mavericks,2,45-29,-18,two point jumper,True,20,True,True
+2013-03-10,30.9833333333,Minnesota Timberwolves,Dallas Mavericks,3,68-54,-16,two point jumper,True,19,False,True
+2013-03-10,35.1333333333,Minnesota Timberwolves,Dallas Mavericks,3,78-61,-19,two point jumper,True,14,True,True
+2013-01-19,2.5,Minnesota Timberwolves,Houston Rockets,1,2-6,2,two point jumper,True,20,False,True
+2013-01-19,9.75,Minnesota Timberwolves,Houston Rockets,1,10-19,7,two point jumper,True,16,False,True
+2013-01-19,20.65,Minnesota Timberwolves,Houston Rockets,2,33-38,3,layup,True,0,False,True
+2013-01-19,23.0166666667,Minnesota Timberwolves,Houston Rockets,2,35-44,7,two point jumper,True,20,False,True
+2013-03-15,0.566666666667,Minnesota Timberwolves,Houston Rockets,1,2-0,0,two point jumper,False,18,True,False
+2013-03-15,9.31666666667,Minnesota Timberwolves,Houston Rockets,1,19-14,3,two point shot,False,1,True,False
+2013-03-15,10.9666666667,Minnesota Timberwolves,Houston Rockets,1,25-22,1,two point jumper,False,1,True,False
+2013-03-15,12.5666666667,Minnesota Timberwolves,Houston Rockets,2,27-22,3,two point shot,False,17,False,False
+2013-03-15,20.8,Minnesota Timberwolves,Houston Rockets,2,49-37,10,layup,False,0,True,False
+2013-03-15,24.3166666667,Minnesota Timberwolves,Houston Rockets,3,59-39,18,two point jumper,False,1,True,False
+2013-03-15,42.8833333333,Minnesota Timberwolves,Houston Rockets,4,88-89,-3,two point jumper,False,19,True,False
+2013-02-10,15.8666666667,Minnesota Timberwolves,Memphis Grizzlies,2,27-28,-3,two point jumper,False,11,False,True
+2013-02-10,41.9833333333,Minnesota Timberwolves,Memphis Grizzlies,4,72-85,-15,two point jumper,False,18,False,True
+2013-03-18,15.3666666667,Minnesota Timberwolves,Memphis Grizzlies,2,24-24,-2,two point jumper,False,4,False,False
+2013-03-18,15.5,Minnesota Timberwolves,Memphis Grizzlies,2,24-24,-2,two point jumper,False,1,False,False
+2013-03-18,34.8666666667,Minnesota Timberwolves,Memphis Grizzlies,3,49-72,-24,free throw,False,15,True,False
+2013-03-18,34.8666666667,Minnesota Timberwolves,Memphis Grizzlies,3,50-72,-23,free throw,False,15,True,False
+2013-03-18,35.1833333333,Minnesota Timberwolves,Memphis Grizzlies,3,50-72,-24,two point jumper,False,20,False,False
+2013-03-18,39.7,Minnesota Timberwolves,Memphis Grizzlies,4,63-81,-20,two point jumper,False,15,False,False
+2013-03-18,43.75,Minnesota Timberwolves,Memphis Grizzlies,4,71-85,-16,dunk,False,0,True,False
+2013-03-18,45.4666666667,Minnesota Timberwolves,Memphis Grizzlies,4,73-89,-18,two point jumper,False,20,False,False
+2013-03-30,2.65,Minnesota Timberwolves,Memphis Grizzlies,1,6-7,-1,two point jumper,True,16,True,False
+2013-03-30,8.21666666667,Minnesota Timberwolves,Memphis Grizzlies,1,17-19,1,free throw,True,15,True,False
+2013-03-30,8.21666666667,Minnesota Timberwolves,Memphis Grizzlies,1,17-20,2,free throw,True,15,True,False
+2013-03-30,21.7333333333,Minnesota Timberwolves,Memphis Grizzlies,2,39-42,1,two point jumper,True,19,True,False
+2013-03-30,23.55,Minnesota Timberwolves,Memphis Grizzlies,2,45-48,1,layup,True,0,True,False
+2013-03-30,42.2166666667,Minnesota Timberwolves,Memphis Grizzlies,4,81-71,-12,two point jumper,True,19,False,False
+2013-03-30,44.1166666667,Minnesota Timberwolves,Memphis Grizzlies,4,86-77,-11,two point jumper,True,18,True,False
+2013-03-30,46.5,Minnesota Timberwolves,Memphis Grizzlies,4,93-83,-12,two point jumper,True,19,True,False
+2013-01-11,11.2666666667,Minnesota Timberwolves,New Orleans Pelicans,1,29-11,16,dunk,False,0,True,True
+2013-01-11,42.4166666667,Minnesota Timberwolves,New Orleans Pelicans,4,74-85,-13,layup,False,0,False,True
+2013-02-02,10.9833333333,Minnesota Timberwolves,New Orleans Pelicans,1,14-31,15,layup,True,0,True,False
+2013-02-02,18.45,Minnesota Timberwolves,New Orleans Pelicans,2,21-48,25,two point jumper,True,19,True,False
+2013-02-02,35.4,Minnesota Timberwolves,New Orleans Pelicans,3,55-81,24,layup,True,0,True,False
+2013-02-02,38.2666666667,Minnesota Timberwolves,New Orleans Pelicans,4,58-86,27,free throw,True,15,True,False
+2013-02-02,38.2666666667,Minnesota Timberwolves,New Orleans Pelicans,4,58-87,28,free throw,True,15,True,False
+2013-03-17,23.3166666667,Minnesota Timberwolves,New Orleans Pelicans,2,52-49,-4,free throw,True,15,True,True
+2013-03-17,23.3166666667,Minnesota Timberwolves,New Orleans Pelicans,2,52-50,-3,free throw,True,15,True,True
+2013-03-17,30.0333333333,Minnesota Timberwolves,New Orleans Pelicans,3,62-65,1,two point shot,True,1,True,True
+2013-03-17,30.0333333333,Minnesota Timberwolves,New Orleans Pelicans,3,62-66,3,free throw,True,15,True,True
+2013-01-13,15.8166666667,Minnesota Timberwolves,San Antonio Spurs,2,31-36,-6,free throw,False,15,True,True
+2013-01-13,15.8166666667,Minnesota Timberwolves,San Antonio Spurs,2,32-36,-5,free throw,False,15,True,True
+2013-01-13,18.2833333333,Minnesota Timberwolves,San Antonio Spurs,2,37-42,-7,two point jumper,False,16,True,True
+2013-01-13,36.25,Minnesota Timberwolves,San Antonio Spurs,4,73-78,-7,two point shot,False,1,True,True
+2013-01-13,37.8666666667,Minnesota Timberwolves,San Antonio Spurs,4,75-82,-9,two point jumper,False,17,True,True
+2013-01-13,44.6166666667,Minnesota Timberwolves,San Antonio Spurs,4,86-101,-17,two point jumper,False,21,True,True
+2013-01-13,46.2166666667,Minnesota Timberwolves,San Antonio Spurs,4,88-104,-18,two point jumper,False,18,False,True
+2013-02-06,17.4166666667,Minnesota Timberwolves,San Antonio Spurs,2,32-29,-5,hook shot,True,6,False,True
+2013-02-06,18.0666666667,Minnesota Timberwolves,San Antonio Spurs,2,35-33,-4,layup,True,0,True,True
+2013-02-06,18.0666666667,Minnesota Timberwolves,San Antonio Spurs,2,35-34,-2,free throw,True,15,True,True
+2013-03-12,7.53333333333,Minnesota Timberwolves,San Antonio Spurs,1,21-10,-13,two point jumper,True,18,False,False
+2013-03-12,8.76666666667,Minnesota Timberwolves,San Antonio Spurs,1,21-17,-6,two point shot,True,1,True,False
+2013-03-12,9.45,Minnesota Timberwolves,San Antonio Spurs,1,24-17,-9,layup,True,0,False,False
+2013-03-12,27.3833333333,Minnesota Timberwolves,San Antonio Spurs,3,42-61,17,two point jumper,True,1,True,False
+2013-03-12,29.7,Minnesota Timberwolves,San Antonio Spurs,3,44-66,20,two point jumper,True,15,True,False
+2013-04-17,5.88333333333,Minnesota Timberwolves,San Antonio Spurs,1,18-11,5,dunk,False,0,True,False
+2013-04-17,8.98333333333,Minnesota Timberwolves,San Antonio Spurs,1,24-18,4,two point jumper,False,16,False,False
+2013-04-17,25.1166666667,Minnesota Timberwolves,San Antonio Spurs,3,60-61,-3,two point jumper,False,16,True,False
+2013-04-17,25.6833333333,Minnesota Timberwolves,San Antonio Spurs,3,62-61,-1,two point jumper,False,19,True,False
+2013-04-17,31.4833333333,Minnesota Timberwolves,San Antonio Spurs,3,73-71,0,two point jumper,False,18,True,False
+2013-04-17,32.0166666667,Minnesota Timberwolves,San Antonio Spurs,3,75-71,2,two point jumper,False,20,True,False
+2013-04-17,33.0166666667,Minnesota Timberwolves,San Antonio Spurs,3,77-74,1,two point shot,False,1,True,False
+2013-01-08,15.0833333333,Minnesota Timberwolves,Atlanta Hawks,2,27-41,12,two point shot,True,1,True,True
+2013-01-08,18.85,Minnesota Timberwolves,Atlanta Hawks,2,34-50,15,free throw,True,15,True,True
+2013-01-08,18.85,Minnesota Timberwolves,Atlanta Hawks,2,34-50,15,free throw,True,15,False,True
+2013-01-08,20.2166666667,Minnesota Timberwolves,Atlanta Hawks,2,36-52,14,two point shot,True,1,True,True
+2013-01-08,36.3166666667,Minnesota Timberwolves,Atlanta Hawks,4,71-85,12,layup,True,0,False,True
+2013-01-21,2.18333333333,Minnesota Timberwolves,Atlanta Hawks,1,2-2,-2,two point jumper,False,1,True,True
+2013-01-21,2.65,Minnesota Timberwolves,Atlanta Hawks,1,3-5,-3,free throw,False,15,True,True
+2013-01-21,2.65,Minnesota Timberwolves,Atlanta Hawks,1,4-5,-2,free throw,False,15,True,True
+2013-01-21,5.85,Minnesota Timberwolves,Atlanta Hawks,1,11-7,2,two point jumper,False,17,False,True
+2013-01-21,8.25,Minnesota Timberwolves,Atlanta Hawks,1,19-11,6,two point shot,False,1,True,True
+2013-01-21,8.55,Minnesota Timberwolves,Atlanta Hawks,1,20-11,8,free throw,False,15,True,True
+2013-01-21,8.55,Minnesota Timberwolves,Atlanta Hawks,1,21-11,9,free throw,False,15,True,True
+2013-01-21,11.8666666667,Minnesota Timberwolves,Atlanta Hawks,1,31-18,11,two point jumper,False,19,False,True
+2013-01-21,24.6333333333,Minnesota Timberwolves,Atlanta Hawks,3,58-46,10,two point jumper,False,19,False,True
+2013-01-21,26.2666666667,Minnesota Timberwolves,Atlanta Hawks,3,60-54,4,layup,False,0,True,True
+2013-01-21,35.8333333333,Minnesota Timberwolves,Atlanta Hawks,3,77-70,6,free throw,False,15,False,True
+2013-01-21,35.8333333333,Minnesota Timberwolves,Atlanta Hawks,3,77-70,6,free throw,False,15,False,True
+2013-01-21,40.1,Minnesota Timberwolves,Atlanta Hawks,4,86-82,3,free throw,False,15,True,True
+2013-01-21,40.1,Minnesota Timberwolves,Atlanta Hawks,4,86-82,3,free throw,False,15,False,True
+2013-11-14,6.53333333333,Minnesota Timberwolves,Charlotte Bobcats,1,15-10,-6,free throw,True,15,False,False
+2013-11-14,6.53333333333,Minnesota Timberwolves,Charlotte Bobcats,1,15-11,-5,free throw,True,15,False,False
+2013-11-14,6.53333333333,Minnesota Timberwolves,Charlotte Bobcats,1,15-11,-5,free throw,True,15,True,False
+2013-11-14,8.66666666667,Minnesota Timberwolves,Charlotte Bobcats,1,19-14,-7,two point jumper,True,15,False,False
+2013-11-14,22.5166666667,Minnesota Timberwolves,Charlotte Bobcats,2,49-34,-17,two point jumper,True,7,False,False
+2013-11-14,32.35,Minnesota Timberwolves,Charlotte Bobcats,3,61-53,-9,free throw,True,15,False,False
+2013-11-14,32.35,Minnesota Timberwolves,Charlotte Bobcats,3,61-53,-9,free throw,True,15,False,False
+2013-11-14,33.1666666667,Minnesota Timberwolves,Charlotte Bobcats,3,61-53,-10,layup,True,0,False,False
+2013-01-26,0.633333333333,Minnesota Timberwolves,Charlotte Bobcats,1,3-0,2,free throw,False,15,True,False
+2013-01-26,0.633333333333,Minnesota Timberwolves,Charlotte Bobcats,1,4-0,3,free throw,False,15,True,False
+2013-01-26,1.45,Minnesota Timberwolves,Charlotte Bobcats,1,6-0,4,two point shot,False,1,True,False
+2013-01-26,4.38333333333,Minnesota Timberwolves,Charlotte Bobcats,1,16-6,8,two point shot,False,1,True,False
+2013-01-26,6.63333333333,Minnesota Timberwolves,Charlotte Bobcats,1,21-10,9,two point shot,False,1,True,False
+2013-01-26,7.13333333333,Minnesota Timberwolves,Charlotte Bobcats,1,23-10,11,two point shot,False,1,True,False
+2013-01-26,35.2166666667,Minnesota Timberwolves,Charlotte Bobcats,3,75-71,3,free throw,False,15,True,False
+2013-01-26,35.2166666667,Minnesota Timberwolves,Charlotte Bobcats,3,75-71,3,free throw,False,15,False,False
+2013-12-18,45.7333333333,Minnesota Timberwolves,Miami Heat,4,88-99,-13,two point jumper,False,17,False,True
+2013-03-04,0.383333333333,Minnesota Timberwolves,Miami Heat,1,0-0,-2,two point jumper,True,7,False,False
+2013-11-07,10.2333333333,Minnesota Timberwolves,Orlando Magic,1,10-25,13,layup,True,0,True,True
+2013-11-07,35.0833333333,Minnesota Timberwolves,Orlando Magic,3,55-64,7,layup,True,0,True,True
+2013-11-07,35.4,Minnesota Timberwolves,Orlando Magic,3,55-66,9,two point jumper,True,18,True,True
+2013-11-07,36.0,Minnesota Timberwolves,Orlando Magic,3,55-68,11,layup,True,0,True,True
+2013-11-07,36.3166666667,Minnesota Timberwolves,Orlando Magic,4,55-70,13,two point shot,True,6,True,True
+2013-11-07,38.2,Minnesota Timberwolves,Orlando Magic,4,57-77,18,two point jumper,True,14,True,True
+2013-12-17,13.3166666667,Minnesota Timberwolves,Orlando Magic,2,34-30,2,two point shot,False,3,False,True
+2013-01-25,29.3833333333,Minnesota Timberwolves,Washington Wizards,3,55-74,-21,two point jumper,False,21,False,False
+2013-01-25,31.9166666667,Minnesota Timberwolves,Washington Wizards,3,64-81,-19,two point jumper,False,19,True,False
+2013-03-06,1.4,Minnesota Timberwolves,Washington Wizards,1,3-5,0,layup,True,0,True,True
+2013-03-06,2.9,Minnesota Timberwolves,Washington Wizards,1,8-5,-5,layup,True,0,False,True
+2013-03-06,3.31666666667,Minnesota Timberwolves,Washington Wizards,1,8-5,-5,two point jumper,True,18,False,True
+2013-03-06,27.8333333333,Minnesota Timberwolves,Washington Wizards,3,53-53,-2,two point jumper,True,20,False,True
+2013-11-21,14.5833333333,Minnesota Timberwolves,Denver Nuggets,2,24-31,5,hook shot,True,1,False,True
+2013-12-12,14.95,Minnesota Timberwolves,Denver Nuggets,2,35-29,-8,two point jumper,True,17,True,True
+2013-01-03,15.9,Minnesota Timberwolves,Denver Nuggets,2,29-30,-3,two point jumper,False,17,False,False
+2013-01-03,36.2666666667,Minnesota Timberwolves,Denver Nuggets,4,71-70,-1,two point jumper,False,20,True,False
+2013-01-03,37.0,Minnesota Timberwolves,Denver Nuggets,4,71-72,-3,layup,False,0,False,False
+2013-03-09,0.75,Minnesota Timberwolves,Denver Nuggets,1,0-3,-5,two point jumper,False,18,False,True
+2013-03-09,1.38333333333,Minnesota Timberwolves,Denver Nuggets,1,2-5,-5,layup,False,0,True,True
+2013-03-09,5.2,Minnesota Timberwolves,Denver Nuggets,1,9-14,-7,two point jumper,False,18,True,True
+2013-03-09,7.75,Minnesota Timberwolves,Denver Nuggets,1,16-19,-5,two point jumper,False,19,False,True
+2013-03-09,22.4333333333,Minnesota Timberwolves,Denver Nuggets,2,43-48,-7,two point jumper,False,18,True,True
+2013-03-09,31.2,Minnesota Timberwolves,Denver Nuggets,3,59-71,-14,two point jumper,False,20,False,True
+2013-03-09,31.5666666667,Minnesota Timberwolves,Denver Nuggets,3,63-71,-10,dunk,False,0,True,True
+2013-12-20,14.1833333333,Minnesota Timberwolves,Oklahoma City Thunder,2,21-34,11,two point jumper,True,15,True,True
+2013-01-02,11.4666666667,Minnesota Timberwolves,Utah Jazz,1,24-23,-1,two point jumper,False,18,True,True
+2013-01-02,44.3,Minnesota Timberwolves,Utah Jazz,4,75-97,-24,two point jumper,False,21,False,True
+2013-01-05,15.8666666667,Minnesota Timberwolves,Portland Trail Blazers,2,32-21,-13,two point jumper,True,19,False,True
+2013-01-05,16.9833333333,Minnesota Timberwolves,Portland Trail Blazers,2,37-24,-15,two point jumper,True,16,False,True
+2013-01-05,17.35,Minnesota Timberwolves,Portland Trail Blazers,2,37-26,-13,two point jumper,True,20,True,True
+2013-01-05,32.8166666667,Minnesota Timberwolves,Portland Trail Blazers,3,73-53,-22,two point jumper,True,13,False,True
+2013-01-09,12.6166666667,Minnesota Timberwolves,Oklahoma City Thunder,2,18-16,0,layup,False,0,True,True
+2013-01-09,14.7,Minnesota Timberwolves,Oklahoma City Thunder,2,22-22,-2,two point jumper,False,15,False,True
+2013-02-04,18.0666666667,Minnesota Timberwolves,Portland Trail Blazers,2,34-28,-8,two point shot,True,1,True,True
+2013-02-04,41.0666666667,Minnesota Timberwolves,Portland Trail Blazers,4,88-74,-16,layup,True,0,True,True
+2013-02-13,36.3,Minnesota Timberwolves,Utah Jazz,4,68-63,-7,two point shot,True,6,False,False
+2013-02-22,16.4166666667,Minnesota Timberwolves,Oklahoma City Thunder,2,36-46,-12,dunk,False,0,True,False
+2013-02-22,17.6,Minnesota Timberwolves,Oklahoma City Thunder,2,40-49,-11,layup,False,0,True,False
+2013-02-22,19.35,Minnesota Timberwolves,Oklahoma City Thunder,2,48-55,-9,two point jumper,False,15,True,False
+2013-02-22,20.4333333333,Minnesota Timberwolves,Oklahoma City Thunder,2,52-57,-7,dunk,False,0,True,False
+2013-02-22,38.9666666667,Minnesota Timberwolves,Oklahoma City Thunder,4,87-105,-19,free throw,False,15,False,False
+2013-02-22,38.9666666667,Minnesota Timberwolves,Oklahoma City Thunder,4,88-105,-18,free throw,False,15,True,False
+2013-02-22,40.0333333333,Minnesota Timberwolves,Oklahoma City Thunder,4,91-105,-15,free throw,False,15,True,False
+2013-02-22,40.0333333333,Minnesota Timberwolves,Oklahoma City Thunder,4,92-105,-14,free throw,False,15,True,False
+2013-02-22,42.4166666667,Minnesota Timberwolves,Oklahoma City Thunder,4,98-113,-16,free throw,False,15,True,False
+2013-02-22,42.4166666667,Minnesota Timberwolves,Oklahoma City Thunder,4,99-113,-15,free throw,False,15,True,False
+2013-02-22,47.5666666667,Minnesota Timberwolves,Oklahoma City Thunder,4,111-127,-18,two point jumper,False,19,False,False
+2013-03-02,0.583333333333,Minnesota Timberwolves,Portland Trail Blazers,1,0-1,-3,two point jumper,False,1,False,True
+2013-03-02,3.95,Minnesota Timberwolves,Portland Trail Blazers,1,6-8,-4,two point jumper,False,19,False,True
+2013-03-29,38.1166666667,Minnesota Timberwolves,Oklahoma City Thunder,4,79-84,3,two point jumper,True,16,True,False
+2013-04-12,0.266666666667,Minnesota Timberwolves,Utah Jazz,1,1-0,0,free throw,False,15,True,False
+2013-04-12,0.266666666667,Minnesota Timberwolves,Utah Jazz,1,2-0,1,free throw,False,15,True,False
+2013-04-12,0.816666666667,Minnesota Timberwolves,Utah Jazz,1,2-2,-2,two point shot,False,2,False,False
+2013-04-12,3.75,Minnesota Timberwolves,Utah Jazz,1,6-4,0,layup,False,0,False,False
+2013-04-12,4.7,Minnesota Timberwolves,Utah Jazz,1,8-7,-1,two point jumper,False,1,False,False
+2013-04-12,5.78333333333,Minnesota Timberwolves,Utah Jazz,1,10-9,-1,layup,False,0,True,False
+2013-04-12,27.15,Minnesota Timberwolves,Utah Jazz,3,65-59,4,two point jumper,False,21,True,False
+2013-04-12,28.8833333333,Minnesota Timberwolves,Utah Jazz,3,69-64,3,two point jumper,False,1,True,False
+2013-04-12,30.3833333333,Minnesota Timberwolves,Utah Jazz,3,73-66,5,dunk,False,0,True,False
+2013-04-12,31.1333333333,Minnesota Timberwolves,Utah Jazz,3,73-68,3,two point jumper,False,1,False,False
+2013-04-15,1.95,Minnesota Timberwolves,Utah Jazz,1,4-2,-4,two point jumper,True,16,False,False
+2013-04-15,6.13333333333,Minnesota Timberwolves,Utah Jazz,1,16-4,-14,two point jumper,True,19,False,False
+2013-04-15,20.7833333333,Minnesota Timberwolves,Utah Jazz,2,43-38,-7,two point jumper,True,11,True,False
+2013-04-15,26.25,Minnesota Timberwolves,Utah Jazz,3,53-43,-12,two point jumper,True,17,False,False
+2013-04-15,31.4833333333,Minnesota Timberwolves,Utah Jazz,3,57-52,-7,layup,True,0,True,False
+2013-04-15,32.85,Minnesota Timberwolves,Utah Jazz,3,61-56,-7,dunk,True,0,True,False

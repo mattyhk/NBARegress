@@ -1,0 +1,737 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2008-02-02,9.06666666667,Atlanta Hawks,Brooklyn Nets,1,13-17,2,two point jumper,True,19,False,False
+2008-03-19,13.3,Atlanta Hawks,Brooklyn Nets,2,35-39,-6,two point jumper,False,19,False,False
+2008-03-19,16.7,Atlanta Hawks,Brooklyn Nets,2,46-44,0,two point jumper,False,21,True,False
+2008-03-19,38.6333333333,Atlanta Hawks,Brooklyn Nets,4,94-99,-7,dunk,False,0,True,False
+2008-03-16,10.35,Atlanta Hawks,New York Knicks,1,18-18,-1,free throw,False,15,True,False
+2008-03-16,10.35,Atlanta Hawks,New York Knicks,1,19-18,0,free throw,False,15,True,False
+2008-03-16,14.3833333333,Atlanta Hawks,New York Knicks,2,27-24,2,free throw,False,15,False,False
+2008-03-16,14.3833333333,Atlanta Hawks,New York Knicks,2,27-24,2,free throw,False,15,False,False
+2008-03-16,43.0333333333,Atlanta Hawks,New York Knicks,4,102-91,9,two point jumper,False,17,False,False
+2008-03-30,13.8333333333,Atlanta Hawks,New York Knicks,2,27-28,-1,two point jumper,True,22,False,True
+2008-12-03,9.48333333333,Atlanta Hawks,Philadelphia 76ers,1,16-12,2,layup,False,0,False,True
+2008-12-03,30.7,Atlanta Hawks,Philadelphia 76ers,3,59-54,3,layup,False,0,False,True
+2008-12-03,33.3666666667,Atlanta Hawks,Philadelphia 76ers,3,63-56,5,layup,False,0,False,True
+2008-12-03,33.6666666667,Atlanta Hawks,Philadelphia 76ers,3,63-58,2,three point jumper,False,28,False,True
+2008-12-03,34.5833333333,Atlanta Hawks,Philadelphia 76ers,3,63-59,1,three point jumper,False,25,False,True
+2008-12-03,35.4,Atlanta Hawks,Philadelphia 76ers,3,65-60,3,layup,False,0,False,True
+2008-12-03,43.4833333333,Atlanta Hawks,Philadelphia 76ers,4,79-70,6,three point jumper,False,26,False,True
+2008-12-03,46.8,Atlanta Hawks,Philadelphia 76ers,4,85-74,9,layup,False,0,False,True
+2008-02-04,7.38333333333,Atlanta Hawks,Philadelphia 76ers,1,21-8,-16,three point jumper,True,27,False,True
+2008-02-04,7.73333333333,Atlanta Hawks,Philadelphia 76ers,1,22-8,-16,layup,True,0,False,True
+2008-04-04,11.9833333333,Atlanta Hawks,Philadelphia 76ers,1,28-19,-12,three point jumper,True,26,False,False
+2008-04-04,13.5666666667,Atlanta Hawks,Philadelphia 76ers,2,30-23,-9,two point jumper,True,1,False,False
+2008-04-04,32.0166666667,Atlanta Hawks,Philadelphia 76ers,3,65-65,-2,two point shot,True,1,True,False
+2008-12-11,7.23333333333,Atlanta Hawks,Toronto Raptors,1,15-9,-8,two point jumper,True,13,False,True
+2008-12-11,10.8333333333,Atlanta Hawks,Toronto Raptors,1,19-19,-2,layup,True,0,False,True
+2008-12-11,19.2833333333,Atlanta Hawks,Toronto Raptors,2,38-37,-3,two point jumper,True,12,False,True
+2008-12-11,36.0,Atlanta Hawks,Toronto Raptors,3,69-68,-3,two point jumper,True,16,True,True
+2008-12-11,36.6333333333,Atlanta Hawks,Toronto Raptors,4,71-68,-6,three point jumper,True,24,False,True
+2008-01-18,10.4333333333,Atlanta Hawks,Toronto Raptors,1,17-23,-8,two point jumper,False,19,False,False
+2008-01-18,15.3833333333,Atlanta Hawks,Toronto Raptors,2,26-29,-5,two point jumper,False,21,False,False
+2008-01-18,23.9833333333,Atlanta Hawks,Toronto Raptors,2,39-44,-7,two point jumper,False,13,False,False
+2008-01-30,11.9333333333,Atlanta Hawks,Los Angeles Clippers,1,21-20,-1,two point jumper,False,21,False,False
+2008-01-30,45.0666666667,Atlanta Hawks,Los Angeles Clippers,4,79-91,-15,three point jumper,False,23,False,False
+2008-01-30,45.7166666667,Atlanta Hawks,Los Angeles Clippers,4,81-91,-12,layup,False,0,True,False
+2008-03-14,13.1333333333,Atlanta Hawks,Los Angeles Clippers,2,24-41,15,layup,True,0,True,False
+2008-03-14,18.0666666667,Atlanta Hawks,Los Angeles Clippers,2,33-50,15,two point jumper,True,21,False,False
+2008-03-14,34.6,Atlanta Hawks,Los Angeles Clippers,3,69-92,21,two point jumper,True,20,False,False
+2008-03-14,37.0166666667,Atlanta Hawks,Los Angeles Clippers,4,71-100,27,layup,True,0,True,False
+2008-03-14,37.5666666667,Atlanta Hawks,Los Angeles Clippers,4,73-102,27,layup,True,0,True,False
+2008-03-14,38.5666666667,Atlanta Hawks,Los Angeles Clippers,4,73-102,27,two point shot,True,1,False,False
+2008-03-14,39.5666666667,Atlanta Hawks,Los Angeles Clippers,4,75-106,29,two point shot,True,1,True,False
+2008-03-14,41.45,Atlanta Hawks,Los Angeles Clippers,4,77-109,30,layup,True,0,False,False
+2008-03-14,43.6,Atlanta Hawks,Los Angeles Clippers,4,81-113,30,layup,True,0,True,False
+2008-02-19,13.3666666667,Atlanta Hawks,Los Angeles Lakers,2,19-34,-17,two point jumper,False,21,True,True
+2008-02-19,29.35,Atlanta Hawks,Los Angeles Lakers,3,49-83,-36,layup,False,0,True,True
+2008-02-19,30.2,Atlanta Hawks,Los Angeles Lakers,3,51-86,-37,layup,False,0,True,True
+2008-02-19,30.5666666667,Atlanta Hawks,Los Angeles Lakers,3,52-86,-35,free throw,False,15,True,True
+2008-02-19,30.5666666667,Atlanta Hawks,Los Angeles Lakers,3,53-86,-34,free throw,False,15,True,True
+2008-02-19,32.05,Atlanta Hawks,Los Angeles Lakers,3,57-88,-33,layup,False,0,True,True
+2008-02-19,35.9833333333,Atlanta Hawks,Los Angeles Lakers,3,69-97,-30,layup,False,0,False,True
+2008-02-19,37.0166666667,Atlanta Hawks,Los Angeles Lakers,4,72-99,-28,free throw,False,15,True,True
+2008-02-19,37.0166666667,Atlanta Hawks,Los Angeles Lakers,4,73-99,-27,free throw,False,15,True,True
+2008-02-19,38.8666666667,Atlanta Hawks,Los Angeles Lakers,4,77-103,-28,two point jumper,False,13,False,True
+2008-02-19,41.9166666667,Atlanta Hawks,Los Angeles Lakers,4,81-111,-32,two point shot,False,5,True,True
+2008-02-19,43.4166666667,Atlanta Hawks,Los Angeles Lakers,4,83-113,-32,layup,False,0,True,True
+2008-01-29,11.9833333333,Atlanta Hawks,Phoenix Suns,1,17-28,-13,two point jumper,False,20,True,True
+2008-01-29,28.2833333333,Atlanta Hawks,Phoenix Suns,3,41-62,-23,layup,False,0,True,True
+2008-01-29,29.9166666667,Atlanta Hawks,Phoenix Suns,3,41-67,-28,two point jumper,False,15,False,True
+2008-01-29,31.7833333333,Atlanta Hawks,Phoenix Suns,3,46-75,-31,two point jumper,False,16,False,True
+2008-01-29,33.6833333333,Atlanta Hawks,Phoenix Suns,3,56-82,-28,layup,False,0,True,True
+2008-01-29,36.8166666667,Atlanta Hawks,Phoenix Suns,4,68-92,-26,two point jumper,False,11,True,True
+2008-01-29,45.15,Atlanta Hawks,Phoenix Suns,4,83-116,-36,three point jumper,False,24,False,True
+2008-01-29,46.4833333333,Atlanta Hawks,Phoenix Suns,4,85-122,-39,two point jumper,False,7,False,True
+2008-01-29,48.0,Atlanta Hawks,Phoenix Suns,4,90-125,-37,layup,False,0,False,True
+2008-02-20,9.43333333333,Atlanta Hawks,Sacramento Kings,1,19-24,-7,two point jumper,False,19,False,False
+2008-02-20,10.0,Atlanta Hawks,Sacramento Kings,1,22-27,-8,three point jumper,False,23,True,False
+2008-02-20,13.8833333333,Atlanta Hawks,Sacramento Kings,2,32-30,0,two point jumper,False,1,False,False
+2008-02-20,16.1666666667,Atlanta Hawks,Sacramento Kings,2,38-36,0,layup,False,0,True,False
+2008-02-20,34.7166666667,Atlanta Hawks,Sacramento Kings,3,85-85,-1,free throw,False,15,True,False
+2008-02-20,34.7166666667,Atlanta Hawks,Sacramento Kings,3,86-85,0,free throw,False,15,True,False
+2008-02-20,37.5,Atlanta Hawks,Sacramento Kings,4,92-95,-5,two point jumper,False,12,False,False
+2008-01-13,12.3833333333,Atlanta Hawks,Chicago Bulls,2,24-40,14,layup,True,0,True,False
+2008-01-13,12.3833333333,Atlanta Hawks,Chicago Bulls,2,24-41,16,free throw,True,15,True,False
+2008-01-13,14.7666666667,Atlanta Hawks,Chicago Bulls,2,28-46,16,layup,True,0,False,False
+2008-01-13,15.8666666667,Atlanta Hawks,Chicago Bulls,2,30-48,16,layup,True,0,False,False
+2008-01-13,35.0833333333,Atlanta Hawks,Chicago Bulls,3,66-80,12,two point shot,True,1,False,False
+2008-01-13,37.6166666667,Atlanta Hawks,Chicago Bulls,4,66-83,14,three point jumper,True,28,False,False
+2008-01-13,46.75,Atlanta Hawks,Chicago Bulls,4,81-105,22,two point jumper,True,19,True,False
+2008-03-25,15.7166666667,Atlanta Hawks,Chicago Bulls,2,35-34,-1,two point jumper,False,19,False,True
+2008-03-25,17.1333333333,Atlanta Hawks,Chicago Bulls,2,40-36,2,dunk,False,0,True,True
+2008-01-09,15.1333333333,Atlanta Hawks,Cleveland Cavaliers,2,18-18,-3,three point jumper,True,27,False,True
+2008-01-09,17.4166666667,Atlanta Hawks,Cleveland Cavaliers,2,22-25,1,layup,True,0,True,True
+2008-01-09,39.5,Atlanta Hawks,Cleveland Cavaliers,4,59-69,9,free throw,True,15,True,True
+2008-01-09,39.5,Atlanta Hawks,Cleveland Cavaliers,4,59-69,9,free throw,True,15,False,True
+2008-12-04,11.9333333333,Atlanta Hawks,Detroit Pistons,1,33-26,-9,two point jumper,True,11,True,True
+2008-12-04,12.0,Atlanta Hawks,Detroit Pistons,1,33-26,-10,three point jumper,True,37,False,True
+2008-12-04,12.25,Atlanta Hawks,Detroit Pistons,2,33-28,-7,two point jumper,True,9,True,True
+2008-12-04,12.25,Atlanta Hawks,Detroit Pistons,2,33-29,-5,free throw,True,15,True,True
+2008-12-04,12.6333333333,Atlanta Hawks,Detroit Pistons,2,33-31,-4,layup,True,0,True,True
+2008-12-04,29.35,Atlanta Hawks,Detroit Pistons,3,66-56,-12,layup,True,0,True,True
+2008-12-04,37.2666666667,Atlanta Hawks,Detroit Pistons,4,89-66,-25,layup,True,0,True,True
+2008-12-14,8.98333333333,Atlanta Hawks,Detroit Pistons,1,10-11,-3,two point jumper,False,17,False,False
+2008-12-14,11.85,Atlanta Hawks,Detroit Pistons,1,16-21,-7,two point jumper,False,11,False,False
+2008-12-14,13.0,Atlanta Hawks,Detroit Pistons,2,17-21,-6,layup,False,0,False,False
+2008-12-14,33.1833333333,Atlanta Hawks,Detroit Pistons,3,53-56,-5,two point jumper,False,13,True,False
+2008-12-14,35.5666666667,Atlanta Hawks,Detroit Pistons,3,53-61,-10,two point jumper,False,21,False,False
+2008-12-14,36.3166666667,Atlanta Hawks,Detroit Pistons,4,55-64,-11,two point jumper,False,9,True,False
+2008-02-12,8.4,Atlanta Hawks,Detroit Pistons,1,19-10,-11,two point jumper,True,18,False,False
+2008-02-12,11.9166666667,Atlanta Hawks,Detroit Pistons,1,25-18,-9,layup,True,0,False,False
+2008-12-26,12.2166666667,Atlanta Hawks,Indiana Pacers,2,25-25,-2,layup,True,0,True,False
+2008-12-26,36.5666666667,Atlanta Hawks,Indiana Pacers,4,70-78,6,two point jumper,True,1,True,False
+2008-01-04,30.2833333333,Atlanta Hawks,Indiana Pacers,3,50-71,-24,three point jumper,False,26,False,True
+2008-01-04,31.95,Atlanta Hawks,Indiana Pacers,3,56-74,-20,layup,False,0,True,True
+2008-01-04,34.4833333333,Atlanta Hawks,Indiana Pacers,3,58-81,-25,two point shot,False,9,False,True
+2008-01-04,36.0,Atlanta Hawks,Indiana Pacers,3,61-87,-29,three point jumper,False,23,False,True
+2008-01-04,37.05,Atlanta Hawks,Indiana Pacers,4,61-91,-32,two point jumper,False,18,False,True
+2008-01-04,42.0666666667,Atlanta Hawks,Indiana Pacers,4,73-99,-28,two point shot,False,1,False,True
+2008-01-04,44.4166666667,Atlanta Hawks,Indiana Pacers,4,82-106,-27,three point jumper,False,24,True,True
+2008-01-04,45.5,Atlanta Hawks,Indiana Pacers,4,84-108,-26,layup,False,0,True,True
+2008-01-04,47.5333333333,Atlanta Hawks,Indiana Pacers,4,89-111,-24,layup,False,0,True,True
+2008-01-04,47.9166666667,Atlanta Hawks,Indiana Pacers,4,90-113,-24,free throw,False,15,True,True
+2008-01-04,47.9166666667,Atlanta Hawks,Indiana Pacers,4,91-113,-23,free throw,False,15,True,True
+2008-01-16,11.4333333333,Atlanta Hawks,Milwaukee Bucks,1,21-23,-4,two point jumper,False,18,True,False
+2008-01-16,13.15,Atlanta Hawks,Milwaukee Bucks,2,25-25,-2,layup,False,0,True,False
+2008-01-16,30.4833333333,Atlanta Hawks,Milwaukee Bucks,3,56-57,-3,two point jumper,False,20,False,False
+2008-01-16,31.2,Atlanta Hawks,Milwaukee Bucks,3,56-57,-4,three point jumper,False,27,False,False
+2008-03-26,8.76666666667,Atlanta Hawks,Milwaukee Bucks,1,26-21,-6,free throw,True,15,True,False
+2008-03-26,8.76666666667,Atlanta Hawks,Milwaukee Bucks,1,26-22,-5,free throw,True,15,True,False
+2008-03-26,11.0,Atlanta Hawks,Milwaukee Bucks,1,33-30,-5,two point shot,True,1,True,False
+2008-03-26,14.6166666667,Atlanta Hawks,Milwaukee Bucks,2,43-40,-5,two point jumper,True,16,True,False
+2008-03-26,44.9833333333,Atlanta Hawks,Milwaukee Bucks,4,92-113,19,two point shot,True,1,True,False
+2008-03-26,46.05,Atlanta Hawks,Milwaukee Bucks,4,94-115,19,layup,True,0,True,False
+2008-03-26,46.05,Atlanta Hawks,Milwaukee Bucks,4,94-115,20,free throw,True,15,False,False
+2008-12-29,10.4833333333,Atlanta Hawks,Dallas Mavericks,1,20-29,-11,layup,False,0,True,False
+2008-12-29,11.5333333333,Atlanta Hawks,Dallas Mavericks,1,21-32,-12,free throw,False,15,True,False
+2008-12-29,11.5333333333,Atlanta Hawks,Dallas Mavericks,1,21-32,-12,free throw,False,15,False,False
+2008-12-29,12.25,Atlanta Hawks,Dallas Mavericks,2,23-34,-13,two point jumper,False,16,True,False
+2008-12-29,12.8333333333,Atlanta Hawks,Dallas Mavericks,2,23-34,-13,layup,False,0,False,False
+2008-12-29,17.7,Atlanta Hawks,Dallas Mavericks,2,30-40,-12,layup,False,0,True,False
+2008-12-29,17.7,Atlanta Hawks,Dallas Mavericks,2,31-40,-10,free throw,False,15,True,False
+2008-12-29,18.2166666667,Atlanta Hawks,Dallas Mavericks,2,31-42,-13,two point jumper,False,11,False,False
+2008-12-29,35.8666666667,Atlanta Hawks,Dallas Mavericks,3,59-73,-15,free throw,False,15,True,False
+2008-12-29,35.8666666667,Atlanta Hawks,Dallas Mavericks,3,60-73,-14,free throw,False,15,True,False
+2008-12-29,36.0,Atlanta Hawks,Dallas Mavericks,3,60-75,-17,two point jumper,False,19,False,False
+2008-12-29,37.5,Atlanta Hawks,Dallas Mavericks,4,64-77,-15,two point jumper,False,21,True,False
+2008-12-29,37.9,Atlanta Hawks,Dallas Mavericks,4,64-77,-15,layup,False,0,False,False
+2008-12-29,44.7333333333,Atlanta Hawks,Dallas Mavericks,4,79-87,-10,layup,False,0,False,False
+2008-12-29,47.15,Atlanta Hawks,Dallas Mavericks,4,82-97,-17,layup,False,0,False,False
+2008-02-09,6.73333333333,Atlanta Hawks,Houston Rockets,1,10-17,-9,two point jumper,False,16,False,True
+2008-02-09,9.95,Atlanta Hawks,Houston Rockets,1,18-30,-14,two point jumper,False,20,True,True
+2008-02-09,11.4666666667,Atlanta Hawks,Houston Rockets,1,21-30,-11,two point jumper,False,9,False,True
+2008-02-09,12.4666666667,Atlanta Hawks,Houston Rockets,2,21-31,-12,two point jumper,False,20,False,True
+2008-02-09,33.9,Atlanta Hawks,Houston Rockets,3,49-77,-30,two point jumper,False,20,False,True
+2008-02-09,34.6,Atlanta Hawks,Houston Rockets,3,51-81,-32,layup,False,0,True,True
+2008-02-09,35.75,Atlanta Hawks,Houston Rockets,3,54-86,-33,free throw,False,15,False,True
+2008-02-09,35.75,Atlanta Hawks,Houston Rockets,3,55-86,-32,free throw,False,15,True,True
+2008-02-09,39.1333333333,Atlanta Hawks,Houston Rockets,4,64-93,-30,free throw,False,15,True,True
+2008-02-09,39.1333333333,Atlanta Hawks,Houston Rockets,4,65-93,-29,free throw,False,15,True,True
+2008-02-09,40.5666666667,Atlanta Hawks,Houston Rockets,4,65-95,-32,two point jumper,False,20,False,True
+2008-02-09,41.2,Atlanta Hawks,Houston Rockets,4,67-95,-30,two point shot,False,16,True,True
+2008-03-12,14.55,Atlanta Hawks,Houston Rockets,2,23-20,-5,two point shot,True,1,False,False
+2008-03-12,15.2,Atlanta Hawks,Houston Rockets,2,23-22,-3,two point jumper,True,19,False,False
+2008-03-12,36.2166666667,Atlanta Hawks,Houston Rockets,4,59-57,-4,two point jumper,True,1,False,False
+2008-12-08,9.96666666667,Atlanta Hawks,Memphis Grizzlies,1,6-20,12,two point jumper,True,16,True,True
+2008-12-08,12.0,Atlanta Hawks,Memphis Grizzlies,1,10-25,12,three point jumper,True,33,True,True
+2008-12-08,17.3833333333,Atlanta Hawks,Memphis Grizzlies,2,24-30,4,layup,True,0,False,True
+2008-12-08,40.85,Atlanta Hawks,Memphis Grizzlies,4,55-76,19,layup,True,0,False,True
+2008-12-08,44.1166666667,Atlanta Hawks,Memphis Grizzlies,4,64-78,11,three point jumper,True,28,False,True
+2008-03-31,11.9833333333,Atlanta Hawks,Memphis Grizzlies,1,40-19,18,three point jumper,False,24,True,False
+2008-03-31,35.95,Atlanta Hawks,Memphis Grizzlies,3,103-72,29,layup,False,0,False,False
+2008-03-31,37.5,Atlanta Hawks,Memphis Grizzlies,4,103-78,23,two point jumper,False,18,False,False
+2008-03-31,47.25,Atlanta Hawks,Memphis Grizzlies,4,114-99,12,three point jumper,False,26,False,False
+2008-12-06,7.81666666667,Atlanta Hawks,Minnesota Timberwolves,1,7-19,10,two point jumper,True,21,False,True
+2008-12-06,23.3,Atlanta Hawks,Minnesota Timberwolves,2,40-53,11,layup,True,0,False,True
+2008-12-06,35.1666666667,Atlanta Hawks,Minnesota Timberwolves,3,65-61,-6,two point jumper,True,19,False,True
+2008-12-10,10.15,Atlanta Hawks,Orlando Magic,1,23-13,8,two point jumper,False,17,True,True
+2008-12-10,10.5333333333,Atlanta Hawks,Orlando Magic,1,23-13,8,two point jumper,False,13,False,True
+2008-12-10,13.0166666667,Atlanta Hawks,Orlando Magic,2,29-21,6,two point jumper,False,11,False,True
+2008-12-10,17.25,Atlanta Hawks,Orlando Magic,2,37-28,7,two point jumper,False,9,False,True
+2008-12-10,35.1166666667,Atlanta Hawks,Orlando Magic,3,67-63,2,two point jumper,False,15,False,True
+2008-12-19,34.1333333333,Atlanta Hawks,Miami Heat,3,74-77,2,free throw,True,15,True,True
+2008-12-19,34.1333333333,Atlanta Hawks,Miami Heat,3,74-78,3,free throw,True,15,True,True
+2008-12-19,35.9333333333,Atlanta Hawks,Miami Heat,3,77-81,3,free throw,True,15,True,True
+2008-12-19,35.9333333333,Atlanta Hawks,Miami Heat,3,77-82,4,free throw,True,15,True,True
+2008-12-21,8.16666666667,Atlanta Hawks,Washington Wizards,1,21-13,6,two point jumper,False,10,False,True
+2008-12-21,9.56666666667,Atlanta Hawks,Washington Wizards,1,24-13,8,three point jumper,False,24,False,True
+2008-01-11,8.75,Atlanta Hawks,Washington Wizards,1,15-15,-2,two point jumper,True,11,False,True
+2008-01-15,10.7666666667,Atlanta Hawks,Denver Nuggets,1,20-29,6,three point jumper,True,24,False,False
+2008-01-15,13.6166666667,Atlanta Hawks,Denver Nuggets,2,25-38,10,three point jumper,True,26,False,False
+2008-01-15,15.55,Atlanta Hawks,Denver Nuggets,2,31-44,11,two point jumper,True,10,True,False
+2008-01-15,35.3,Atlanta Hawks,Denver Nuggets,3,65-80,13,two point jumper,True,18,False,False
+2008-01-15,35.8166666667,Atlanta Hawks,Denver Nuggets,3,67-82,13,layup,True,0,True,False
+2008-01-15,37.5666666667,Atlanta Hawks,Denver Nuggets,4,67-83,14,layup,True,0,False,False
+2008-01-15,38.55,Atlanta Hawks,Denver Nuggets,4,68-85,15,layup,True,0,True,False
+2008-01-15,47.7333333333,Atlanta Hawks,Denver Nuggets,4,93-104,9,two point jumper,True,19,False,False
+2008-01-21,4.75,Atlanta Hawks,Portland Trail Blazers,1,6-13,5,layup,True,0,True,False
+2008-01-21,7.85,Atlanta Hawks,Portland Trail Blazers,1,10-15,3,two point jumper,True,17,False,False
+2008-01-21,7.91666666667,Atlanta Hawks,Portland Trail Blazers,1,10-17,5,two point shot,True,1,True,False
+2008-01-21,27.1333333333,Atlanta Hawks,Portland Trail Blazers,3,54-57,0,three point jumper,True,27,True,False
+2008-01-23,37.9333333333,Atlanta Hawks,Denver Nuggets,4,72-83,-13,two point jumper,False,21,False,False
+2008-01-25,34.75,Atlanta Hawks,Oklahoma City Thunder,3,76-55,19,layup,False,0,False,True
+2008-01-25,37.6333333333,Atlanta Hawks,Oklahoma City Thunder,4,81-64,15,two point jumper,False,19,False,True
+2008-01-27,14.0666666667,Atlanta Hawks,Portland Trail Blazers,2,34-26,6,two point jumper,False,9,True,False
+2008-01-27,15.0833333333,Atlanta Hawks,Portland Trail Blazers,2,36-28,6,layup,False,0,True,False
+2008-01-27,16.45,Atlanta Hawks,Portland Trail Blazers,2,38-28,7,three point jumper,False,23,False,False
+2008-02-13,10.1,Atlanta Hawks,Charlotte Bobcats,1,19-17,0,layup,False,0,True,True
+2008-02-13,13.4,Atlanta Hawks,Charlotte Bobcats,2,29-23,5,free throw,False,15,False,True
+2008-02-13,13.4,Atlanta Hawks,Charlotte Bobcats,2,30-23,6,free throw,False,15,True,True
+2008-02-13,14.75,Atlanta Hawks,Charlotte Bobcats,2,34-25,7,two point shot,False,8,True,True
+2008-02-13,19.35,Atlanta Hawks,Charlotte Bobcats,2,42-33,7,two point jumper,False,17,True,True
+2008-02-13,20.4833333333,Atlanta Hawks,Charlotte Bobcats,2,47-33,12,two point jumper,False,15,True,True
+2008-02-13,23.85,Atlanta Hawks,Charlotte Bobcats,2,51-39,10,two point jumper,False,16,False,True
+2008-02-13,37.25,Atlanta Hawks,Charlotte Bobcats,4,77-65,10,layup,False,0,True,True
+2008-02-13,41.35,Atlanta Hawks,Charlotte Bobcats,4,84-76,6,two point jumper,False,16,False,True
+2008-02-13,43.95,Atlanta Hawks,Charlotte Bobcats,4,88-82,4,two point shot,False,9,True,True
+2008-03-17,11.9333333333,Atlanta Hawks,Washington Wizards,1,29-22,5,layup,False,0,True,False
+2008-03-17,14.3,Atlanta Hawks,Washington Wizards,2,35-26,7,two point jumper,False,14,True,False
+2008-03-17,37.3166666667,Atlanta Hawks,Washington Wizards,4,84-77,5,two point jumper,False,19,False,False
+2008-03-22,14.05,Atlanta Hawks,Orlando Magic,2,19-29,8,two point jumper,True,8,False,True
+2008-04-15,17.7333333333,Atlanta Hawks,Orlando Magic,2,40-41,-1,two point jumper,True,18,True,False
+2008-04-15,22.3,Atlanta Hawks,Orlando Magic,2,51-52,-1,layup,True,0,True,False
+2008-04-15,22.3,Atlanta Hawks,Orlando Magic,2,51-53,1,free throw,True,15,True,False
+2008-04-15,45.4833333333,Atlanta Hawks,Orlando Magic,4,110-97,-15,two point jumper,True,9,True,False
+2008-04-15,46.3833333333,Atlanta Hawks,Orlando Magic,4,116-99,-19,layup,True,0,True,False
+2008-04-15,47.1333333333,Atlanta Hawks,Orlando Magic,4,121-103,-20,layup,True,0,True,False
+2009-11-14,10.55,Atlanta Hawks,Brooklyn Nets,1,18-22,-6,two point shot,False,6,True,False
+2009-11-14,10.55,Atlanta Hawks,Brooklyn Nets,1,18-22,-5,free throw,False,15,False,False
+2009-11-14,13.4,Atlanta Hawks,Brooklyn Nets,2,26-29,-5,two point shot,False,12,True,False
+2009-11-14,36.0,Atlanta Hawks,Brooklyn Nets,3,76-73,1,layup,False,0,True,False
+2009-11-14,37.0,Atlanta Hawks,Brooklyn Nets,4,81-76,2,three point jumper,False,23,True,False
+2009-11-15,14.7666666667,Atlanta Hawks,Brooklyn Nets,2,36-30,-8,two point jumper,True,18,False,False
+2009-11-15,43.9833333333,Atlanta Hawks,Brooklyn Nets,4,108-89,-21,two point jumper,True,20,False,False
+2009-11-15,47.4833333333,Atlanta Hawks,Brooklyn Nets,4,118-104,-15,free throw,True,15,False,False
+2009-11-15,47.4833333333,Atlanta Hawks,Brooklyn Nets,4,118-105,-14,free throw,True,15,True,False
+2009-11-15,47.9833333333,Atlanta Hawks,Brooklyn Nets,4,119-106,-14,free throw,True,15,True,False
+2009-11-15,47.9833333333,Atlanta Hawks,Brooklyn Nets,4,119-106,-14,free throw,True,15,False,False
+2009-11-15,47.9833333333,Atlanta Hawks,Brooklyn Nets,4,119-107,-13,free throw,True,15,True,False
+2009-01-30,15.3333333333,Atlanta Hawks,Brooklyn Nets,2,31-27,-6,two point jumper,True,19,False,False
+2009-01-30,16.3833333333,Atlanta Hawks,Brooklyn Nets,2,33-29,-6,two point shot,True,3,True,False
+2009-01-30,47.5166666667,Atlanta Hawks,Brooklyn Nets,4,88-105,15,two point jumper,True,22,False,False
+2009-01-28,47.7333333333,Atlanta Hawks,New York Knicks,4,104-112,-11,three point jumper,False,24,False,False
+2009-03-04,46.4666666667,Atlanta Hawks,New York Knicks,4,97-104,-10,three point jumper,False,24,True,False
+2009-11-01,11.9833333333,Atlanta Hawks,Philadelphia 76ers,1,34-18,-18,two point jumper,True,17,True,True
+2009-11-01,15.4333333333,Atlanta Hawks,Philadelphia 76ers,2,40-21,-22,three point jumper,True,29,False,True
+2009-11-01,38.7,Atlanta Hawks,Philadelphia 76ers,4,78-71,-10,three point jumper,True,28,False,True
+2009-11-07,35.3166666667,Atlanta Hawks,Toronto Raptors,3,69-81,10,two point jumper,True,19,False,False
+2009-11-07,44.9,Atlanta Hawks,Toronto Raptors,4,81-105,22,layup,True,0,True,False
+2009-01-19,13.3833333333,Atlanta Hawks,Toronto Raptors,2,26-24,-4,two point jumper,True,21,False,True
+2009-12-19,15.5666666667,Atlanta Hawks,Golden State Warriors,2,31-39,6,layup,True,0,False,False
+2009-01-16,22.1833333333,Atlanta Hawks,Golden State Warriors,2,44-46,-4,two point jumper,False,4,True,False
+2009-01-16,23.2333333333,Atlanta Hawks,Golden State Warriors,2,47-50,-4,free throw,False,15,True,False
+2009-01-16,23.2333333333,Atlanta Hawks,Golden State Warriors,2,48-50,-3,free throw,False,15,True,False
+2009-01-16,24.0,Atlanta Hawks,Golden State Warriors,2,51-56,-8,three point jumper,False,23,False,False
+2009-01-14,10.0166666667,Atlanta Hawks,Los Angeles Clippers,1,13-11,0,layup,False,0,True,True
+2009-01-14,13.2666666667,Atlanta Hawks,Los Angeles Clippers,2,20-14,3,three point jumper,False,24,True,True
+2009-02-07,2.4,Atlanta Hawks,Los Angeles Clippers,1,2-0,-5,three point jumper,True,28,False,True
+2009-02-07,5.95,Atlanta Hawks,Los Angeles Clippers,1,12-3,-11,two point jumper,True,20,False,True
+2009-02-07,6.91666666667,Atlanta Hawks,Los Angeles Clippers,1,14-4,-11,free throw,True,15,True,True
+2009-02-07,6.91666666667,Atlanta Hawks,Los Angeles Clippers,1,14-4,-11,free throw,True,15,False,True
+2009-02-07,20.1166666667,Atlanta Hawks,Los Angeles Clippers,2,46-32,-16,two point jumper,True,17,True,True
+2009-02-07,22.4666666667,Atlanta Hawks,Los Angeles Clippers,2,51-37,-16,two point shot,True,4,False,True
+2009-02-07,24.7666666667,Atlanta Hawks,Los Angeles Clippers,3,55-43,-14,two point shot,True,3,True,True
+2009-02-07,41.2,Atlanta Hawks,Los Angeles Clippers,4,100-79,-24,three point jumper,True,25,False,True
+2009-02-07,44.0166666667,Atlanta Hawks,Los Angeles Clippers,4,109-85,-26,two point jumper,True,20,False,True
+2009-02-07,46.3,Atlanta Hawks,Los Angeles Clippers,4,119-92,-29,layup,True,0,False,True
+2009-02-07,46.9666666667,Atlanta Hawks,Los Angeles Clippers,4,121-94,-29,layup,True,0,True,True
+2009-02-07,46.9666666667,Atlanta Hawks,Los Angeles Clippers,4,121-95,-27,free throw,True,15,True,True
+2009-02-17,16.0333333333,Atlanta Hawks,Los Angeles Lakers,2,30-28,0,layup,False,0,True,False
+2009-02-17,18.2166666667,Atlanta Hawks,Los Angeles Lakers,2,32-35,-5,two point jumper,False,12,False,False
+2009-02-17,34.8833333333,Atlanta Hawks,Los Angeles Lakers,3,60-81,-23,two point jumper,False,1,False,False
+2009-02-17,38.0666666667,Atlanta Hawks,Los Angeles Lakers,4,62-87,-28,three point jumper,False,28,False,False
+2009-02-17,42.8833333333,Atlanta Hawks,Los Angeles Lakers,4,68-91,-25,two point jumper,False,17,False,False
+2009-02-17,43.75,Atlanta Hawks,Los Angeles Lakers,4,69-94,-26,free throw,False,15,True,False
+2009-02-17,43.75,Atlanta Hawks,Los Angeles Lakers,4,70-94,-25,free throw,False,15,True,False
+2009-02-17,44.0833333333,Atlanta Hawks,Los Angeles Lakers,4,72-94,-23,free throw,False,15,True,False
+2009-02-17,45.7833333333,Atlanta Hawks,Los Angeles Lakers,4,75-96,-23,layup,False,0,True,False
+2009-01-13,14.9666666667,Atlanta Hawks,Phoenix Suns,2,21-35,-16,two point shot,False,9,False,False
+2009-01-13,15.2,Atlanta Hawks,Phoenix Suns,2,23-35,-14,layup,False,0,True,False
+2009-01-13,15.9,Atlanta Hawks,Phoenix Suns,2,25-38,-15,layup,False,0,True,False
+2009-02-18,15.3166666667,Atlanta Hawks,Sacramento Kings,2,38-31,5,two point jumper,False,18,False,True
+2009-03-17,15.95,Atlanta Hawks,Sacramento Kings,2,39-38,-4,three point jumper,True,24,True,False
+2009-03-17,18.0666666667,Atlanta Hawks,Sacramento Kings,2,43-44,-2,three point jumper,True,25,False,False
+2009-03-17,44.4333333333,Atlanta Hawks,Sacramento Kings,4,94-108,12,two point shot,True,4,False,False
+2009-03-17,47.7666666667,Atlanta Hawks,Sacramento Kings,4,97-119,20,layup,True,0,True,False
+2009-11-22,11.0833333333,Atlanta Hawks,Cleveland Cavaliers,1,10-26,-18,two point jumper,False,14,False,True
+2009-11-22,13.0,Atlanta Hawks,Cleveland Cavaliers,2,11-29,-20,two point jumper,False,18,False,True
+2009-11-22,34.2833333333,Atlanta Hawks,Cleveland Cavaliers,3,51-76,-27,layup,False,0,True,True
+2009-11-22,35.2166666667,Atlanta Hawks,Cleveland Cavaliers,3,54-78,-25,free throw,False,15,True,True
+2009-11-22,35.2166666667,Atlanta Hawks,Cleveland Cavaliers,3,55-78,-24,free throw,False,15,True,True
+2009-11-22,35.9833333333,Atlanta Hawks,Cleveland Cavaliers,3,57-80,-25,two point jumper,False,20,True,True
+2009-11-22,36.25,Atlanta Hawks,Cleveland Cavaliers,4,59-80,-23,layup,False,0,True,True
+2009-11-22,36.25,Atlanta Hawks,Cleveland Cavaliers,4,60-80,-21,free throw,False,15,True,True
+2009-11-22,38.8333333333,Atlanta Hawks,Cleveland Cavaliers,4,66-84,-19,free throw,False,15,False,True
+2009-11-22,38.8333333333,Atlanta Hawks,Cleveland Cavaliers,4,66-84,-19,free throw,False,15,False,True
+2009-11-22,39.4666666667,Atlanta Hawks,Cleveland Cavaliers,4,66-84,-20,layup,False,0,False,True
+2009-11-22,41.8166666667,Atlanta Hawks,Cleveland Cavaliers,4,77-91,-16,layup,False,0,True,True
+2009-11-22,42.35,Atlanta Hawks,Cleveland Cavaliers,4,79-93,-16,layup,False,0,True,True
+2009-11-22,42.35,Atlanta Hawks,Cleveland Cavaliers,4,80-94,-15,free throw,False,15,True,True
+2009-11-22,43.0,Atlanta Hawks,Cleveland Cavaliers,4,80-97,-19,two point jumper,False,18,False,True
+2009-11-22,45.1166666667,Atlanta Hawks,Cleveland Cavaliers,4,85-103,-20,two point jumper,False,17,False,True
+2009-11-22,45.6,Atlanta Hawks,Cleveland Cavaliers,4,86-105,-20,free throw,False,15,True,True
+2009-11-22,45.6,Atlanta Hawks,Cleveland Cavaliers,4,87-105,-19,free throw,False,15,True,True
+2009-11-22,46.9666666667,Atlanta Hawks,Cleveland Cavaliers,4,91-107,-17,free throw,False,15,False,True
+2009-11-22,46.9666666667,Atlanta Hawks,Cleveland Cavaliers,4,92-107,-16,free throw,False,15,True,True
+2009-11-22,47.3,Atlanta Hawks,Cleveland Cavaliers,4,95-109,-17,three point jumper,False,25,True,True
+2009-11-18,36.7166666667,Atlanta Hawks,Indiana Pacers,4,75-90,-17,two point jumper,False,20,True,True
+2009-11-18,38.7,Atlanta Hawks,Indiana Pacers,4,82-93,-13,layup,False,0,True,True
+2009-11-18,38.7,Atlanta Hawks,Indiana Pacers,4,83-93,-11,free throw,False,15,True,True
+2009-11-18,40.0333333333,Atlanta Hawks,Indiana Pacers,4,88-95,-9,layup,False,0,True,True
+2009-11-18,42.9166666667,Atlanta Hawks,Indiana Pacers,4,90-99,-11,two point jumper,False,10,True,True
+2009-11-18,43.45,Atlanta Hawks,Indiana Pacers,4,90-99,-11,two point jumper,False,17,False,True
+2009-03-13,43.7,Atlanta Hawks,Indiana Pacers,4,77-92,13,two point jumper,True,17,False,False
+2009-03-13,44.6666666667,Atlanta Hawks,Indiana Pacers,4,81-92,9,two point jumper,True,17,False,False
+2009-03-13,46.4666666667,Atlanta Hawks,Indiana Pacers,4,83-96,11,layup,True,0,False,False
+2009-11-26,12.8166666667,Atlanta Hawks,Milwaukee Bucks,2,24-30,4,two point shot,True,5,True,False
+2009-11-26,13.6833333333,Atlanta Hawks,Milwaukee Bucks,2,26-30,2,two point jumper,True,14,False,False
+2009-11-26,15.1833333333,Atlanta Hawks,Milwaukee Bucks,2,28-36,6,layup,True,0,True,False
+2009-11-26,34.2333333333,Atlanta Hawks,Milwaukee Bucks,3,63-65,0,two point jumper,True,21,False,False
+2009-12-06,14.0666666667,Atlanta Hawks,Dallas Mavericks,2,27-26,-1,two point shot,False,1,False,True
+2009-12-06,15.0666666667,Atlanta Hawks,Dallas Mavericks,2,28-30,-3,free throw,False,15,True,True
+2009-12-06,15.0666666667,Atlanta Hawks,Dallas Mavericks,2,29-30,-2,free throw,False,15,True,True
+2009-12-09,14.2,Atlanta Hawks,Houston Rockets,2,16-29,-15,two point shot,False,16,False,False
+2009-01-03,9.01666666667,Atlanta Hawks,Houston Rockets,1,21-20,-3,two point shot,True,1,True,True
+2009-01-03,10.8,Atlanta Hawks,Houston Rockets,1,25-22,-5,layup,True,0,False,True
+2009-01-03,11.1833333333,Atlanta Hawks,Houston Rockets,1,25-22,-5,two point jumper,True,16,False,True
+2009-01-03,14.75,Atlanta Hawks,Houston Rockets,2,33-30,-5,layup,True,0,True,True
+2009-12-03,11.3666666667,Atlanta Hawks,Memphis Grizzlies,1,24-22,-3,free throw,True,15,True,False
+2009-12-03,11.3666666667,Atlanta Hawks,Memphis Grizzlies,1,24-23,-2,free throw,True,15,True,False
+2009-11-05,10.7833333333,Atlanta Hawks,New Orleans Pelicans,1,22-14,5,three point jumper,False,23,False,True
+2009-11-05,13.0166666667,Atlanta Hawks,New Orleans Pelicans,2,24-16,7,free throw,False,15,False,True
+2009-11-05,13.0166666667,Atlanta Hawks,New Orleans Pelicans,2,25-16,8,free throw,False,15,True,True
+2009-11-05,35.1333333333,Atlanta Hawks,New Orleans Pelicans,3,58-59,-4,three point jumper,False,26,False,True
+2009-11-05,37.6833333333,Atlanta Hawks,New Orleans Pelicans,4,63-63,-3,three point jumper,False,26,False,True
+2009-03-09,19.9166666667,Atlanta Hawks,New Orleans Pelicans,2,36-38,-1,three point jumper,True,25,True,True
+2009-12-10,16.0333333333,Atlanta Hawks,San Antonio Spurs,2,17-29,-14,two point jumper,False,17,False,False
+2009-12-10,16.5666666667,Atlanta Hawks,San Antonio Spurs,2,19-31,-14,two point shot,False,1,True,False
+2009-12-10,16.5666666667,Atlanta Hawks,San Antonio Spurs,2,20-31,-12,free throw,False,15,True,False
+2009-12-10,20.9166666667,Atlanta Hawks,San Antonio Spurs,2,27-36,-12,three point jumper,False,24,False,False
+2009-12-10,21.2833333333,Atlanta Hawks,San Antonio Spurs,2,29-36,-9,layup,False,0,True,False
+2009-12-10,37.05,Atlanta Hawks,San Antonio Spurs,4,55-64,-11,two point jumper,False,15,False,False
+2009-10-29,9.06666666667,Atlanta Hawks,Orlando Magic,1,19-8,8,three point jumper,False,25,False,True
+2009-10-29,12.9666666667,Atlanta Hawks,Orlando Magic,2,28-13,13,two point jumper,False,1,False,True
+2009-10-29,34.6666666667,Atlanta Hawks,Orlando Magic,3,72-53,17,two point jumper,False,21,True,True
+2009-10-29,37.45,Atlanta Hawks,Orlando Magic,4,77-60,15,two point jumper,False,22,True,True
+2009-11-09,12.5666666667,Atlanta Hawks,Oklahoma City Thunder,2,22-14,6,two point jumper,False,17,False,True
+2009-11-19,14.55,Atlanta Hawks,Washington Wizards,2,30-31,-2,three point jumper,True,24,True,True
+2009-11-19,16.0,Atlanta Hawks,Washington Wizards,2,35-31,-6,two point jumper,True,19,False,True
+2009-11-19,17.1,Atlanta Hawks,Washington Wizards,2,39-33,-9,three point jumper,True,25,False,True
+2009-11-21,21.0,Atlanta Hawks,Charlotte Bobcats,2,36-38,1,free throw,True,15,True,True
+2009-11-21,21.0,Atlanta Hawks,Charlotte Bobcats,2,36-39,2,free throw,True,15,False,True
+2009-11-21,36.7666666667,Atlanta Hawks,Charlotte Bobcats,4,63-64,-1,two point jumper,True,16,True,True
+2009-11-21,37.6166666667,Atlanta Hawks,Charlotte Bobcats,4,65-64,-3,two point jumper,True,10,False,True
+2009-12-12,14.5166666667,Atlanta Hawks,Miami Heat,2,24-29,-7,two point jumper,False,16,False,True
+2009-12-23,47.7166666667,Atlanta Hawks,Oklahoma City Thunder,4,85-95,9,free throw,True,15,True,True
+2009-12-23,47.7166666667,Atlanta Hawks,Oklahoma City Thunder,4,85-96,10,free throw,True,15,True,True
+2009-01-09,15.4333333333,Atlanta Hawks,Orlando Magic,2,18-52,-36,two point jumper,False,17,False,True
+2009-01-09,16.45,Atlanta Hawks,Orlando Magic,2,19-54,-36,free throw,False,15,True,True
+2009-01-09,16.45,Atlanta Hawks,Orlando Magic,2,20-54,-35,free throw,False,15,True,True
+2009-01-09,17.9166666667,Atlanta Hawks,Orlando Magic,2,23-56,-36,three point jumper,False,24,True,True
+2009-01-09,22.0333333333,Atlanta Hawks,Orlando Magic,2,30-69,-41,layup,False,0,False,True
+2009-01-09,31.9166666667,Atlanta Hawks,Orlando Magic,3,50-95,-46,free throw,False,15,True,True
+2009-01-09,31.9166666667,Atlanta Hawks,Orlando Magic,3,51-95,-45,free throw,False,15,True,True
+2009-01-09,33.1666666667,Atlanta Hawks,Orlando Magic,3,51-99,-51,three point jumper,False,24,False,True
+2009-01-09,36.8833333333,Atlanta Hawks,Orlando Magic,4,60-103,-46,three point jumper,False,25,False,True
+2009-01-09,38.8,Atlanta Hawks,Orlando Magic,4,64-106,-44,layup,False,0,True,True
+2009-01-09,38.8,Atlanta Hawks,Orlando Magic,4,65-106,-42,free throw,False,15,True,True
+2009-01-09,43.4166666667,Atlanta Hawks,Orlando Magic,4,75-119,-45,free throw,False,15,True,True
+2009-01-09,43.4166666667,Atlanta Hawks,Orlando Magic,4,76-119,-44,free throw,False,15,True,True
+2009-01-09,44.4166666667,Atlanta Hawks,Orlando Magic,4,77-119,-43,free throw,False,15,True,True
+2009-01-09,44.4166666667,Atlanta Hawks,Orlando Magic,4,78-119,-42,free throw,False,15,True,True
+2009-01-09,46.8666666667,Atlanta Hawks,Orlando Magic,4,84-121,-39,two point jumper,False,19,True,True
+2009-01-26,47.0333333333,Atlanta Hawks,Miami Heat,4,77-95,-20,two point jumper,False,8,False,False
+2009-02-04,35.6333333333,Atlanta Hawks,Minnesota Timberwolves,3,75-60,13,two point jumper,False,21,True,True
+2009-02-04,38.0666666667,Atlanta Hawks,Minnesota Timberwolves,4,77-64,11,layup,False,0,True,True
+2009-02-06,11.7,Atlanta Hawks,Charlotte Bobcats,1,15-22,-8,free throw,False,15,True,False
+2009-02-06,11.7,Atlanta Hawks,Charlotte Bobcats,1,16-22,-7,free throw,False,15,True,False
+2009-02-10,34.9666666667,Atlanta Hawks,Washington Wizards,3,56-77,19,layup,True,0,True,False
+2009-02-10,35.3666666667,Atlanta Hawks,Washington Wizards,3,56-77,19,two point shot,True,5,False,False
+2009-02-10,38.4,Atlanta Hawks,Washington Wizards,4,64-83,17,two point jumper,True,17,False,False
+2009-02-10,40.8833333333,Atlanta Hawks,Washington Wizards,4,72-92,18,layup,True,0,True,False
+2009-02-10,43.8166666667,Atlanta Hawks,Washington Wizards,4,78-97,18,free throw,True,15,True,False
+2009-02-10,43.8166666667,Atlanta Hawks,Washington Wizards,4,78-98,19,free throw,True,15,True,False
+2009-02-10,45.7,Atlanta Hawks,Washington Wizards,4,82-102,18,layup,True,0,True,False
+2009-02-10,45.7,Atlanta Hawks,Washington Wizards,4,82-103,20,free throw,True,15,True,False
+2009-02-10,46.1,Atlanta Hawks,Washington Wizards,4,84-105,19,layup,True,0,True,False
+2009-02-23,35.9333333333,Atlanta Hawks,Utah Jazz,3,68-93,-26,free throw,False,15,False,True
+2009-02-23,35.9333333333,Atlanta Hawks,Utah Jazz,3,69-93,-25,free throw,False,15,True,True
+2009-02-23,39.2166666667,Atlanta Hawks,Utah Jazz,4,74-99,-27,layup,False,0,False,True
+2009-02-23,40.75,Atlanta Hawks,Utah Jazz,4,82-104,-24,layup,False,0,True,True
+2009-02-23,42.5666666667,Atlanta Hawks,Utah Jazz,4,82-108,-29,three point jumper,False,25,False,True
+2009-02-23,47.1833333333,Atlanta Hawks,Utah Jazz,4,86-108,-24,two point jumper,False,20,False,True
+2009-02-23,47.7333333333,Atlanta Hawks,Utah Jazz,4,89-108,-20,free throw,False,15,True,True
+2009-02-23,47.7333333333,Atlanta Hawks,Utah Jazz,4,89-108,-20,free throw,False,15,False,True
+2009-02-25,12.5666666667,Atlanta Hawks,Denver Nuggets,2,34-28,5,free throw,False,15,True,False
+2009-02-25,12.5666666667,Atlanta Hawks,Denver Nuggets,2,35-28,6,free throw,False,15,True,False
+2009-02-25,14.55,Atlanta Hawks,Denver Nuggets,2,37-30,5,two point jumper,False,20,False,False
+2009-02-25,35.3166666667,Atlanta Hawks,Denver Nuggets,3,75-89,-16,two point jumper,False,9,False,False
+2009-03-02,46.4666666667,Atlanta Hawks,Washington Wizards,4,95-85,9,free throw,False,15,True,True
+2009-03-02,46.4666666667,Atlanta Hawks,Washington Wizards,4,96-85,10,free throw,False,15,True,True
+2009-03-11,12.0,Atlanta Hawks,Utah Jazz,1,18-25,4,three point jumper,True,24,False,False
+2009-03-11,15.25,Atlanta Hawks,Utah Jazz,2,22-27,2,three point jumper,True,23,False,False
+2009-03-11,16.6,Atlanta Hawks,Utah Jazz,2,26-33,6,free throw,True,15,True,False
+2009-03-11,16.6,Atlanta Hawks,Utah Jazz,2,26-34,7,free throw,True,15,True,False
+2009-03-11,35.9,Atlanta Hawks,Utah Jazz,3,73-73,-3,three point jumper,True,24,True,False
+2010-03-27,42.7833333333,Chicago Bulls,Brooklyn Nets,4,67-91,22,layup,True,0,False,False
+2010-02-20,43.9833333333,Chicago Bulls,Philadelphia 76ers,4,82-111,27,two point shot,True,1,True,False
+2010-02-20,46.3333333333,Chicago Bulls,Philadelphia 76ers,4,89-117,27,free throw,True,15,True,False
+2010-02-20,46.3333333333,Chicago Bulls,Philadelphia 76ers,4,89-117,27,free throw,True,15,False,False
+2010-03-20,46.6666666667,Chicago Bulls,Philadelphia 76ers,4,97-84,12,free throw,False,15,True,True
+2010-03-20,46.6666666667,Chicago Bulls,Philadelphia 76ers,4,97-84,12,free throw,False,15,False,True
+2010-03-20,47.2333333333,Chicago Bulls,Philadelphia 76ers,4,97-84,11,layup,False,0,False,True
+2010-11-25,43.7333333333,Charlotte Bobcats,Toronto Raptors,4,76-102,24,two point shot,True,11,True,False
+2010-11-06,43.9833333333,Golden State Warriors,Los Angeles Clippers,4,110-76,-37,three point jumper,True,23,False,True
+2010-11-06,47.2,Golden State Warriors,Los Angeles Clippers,4,118-86,-33,free throw,True,15,True,True
+2010-11-06,47.2,Golden State Warriors,Los Angeles Clippers,4,118-87,-32,free throw,True,15,True,True
+2010-11-08,43.3833333333,Golden State Warriors,Sacramento Kings,4,88-112,-25,free throw,False,15,True,False
+2010-11-08,43.3833333333,Golden State Warriors,Sacramento Kings,4,89-112,-24,free throw,False,15,True,False
+2010-11-08,44.0,Golden State Warriors,Sacramento Kings,4,91-112,-23,layup,False,0,True,False
+2010-11-08,44.85,Golden State Warriors,Sacramento Kings,4,95-112,-19,layup,False,0,True,False
+2010-11-09,37.2166666667,Golden State Warriors,Minnesota Timberwolves,4,79-114,34,free throw,True,15,False,True
+2010-11-09,37.2166666667,Golden State Warriors,Minnesota Timberwolves,4,79-115,35,free throw,True,15,True,True
+2010-11-09,39.55,Golden State Warriors,Minnesota Timberwolves,4,83-117,32,layup,True,0,True,True
+2010-11-09,39.55,Golden State Warriors,Minnesota Timberwolves,4,83-117,33,free throw,True,15,False,True
+2010-11-09,41.0666666667,Golden State Warriors,Minnesota Timberwolves,4,83-122,37,two point jumper,True,1,False,True
+2010-11-09,43.6666666667,Golden State Warriors,Minnesota Timberwolves,4,89-128,37,two point shot,True,1,True,True
+2010-11-09,46.1666666667,Golden State Warriors,Minnesota Timberwolves,4,96-139,42,free throw,True,15,True,True
+2010-11-09,46.1833333333,Golden State Warriors,Minnesota Timberwolves,4,96-139,42,free throw,True,15,False,True
+2010-11-09,46.6,Golden State Warriors,Minnesota Timberwolves,4,99-140,40,free throw,True,15,True,True
+2010-11-09,46.6,Golden State Warriors,Minnesota Timberwolves,4,99-141,41,free throw,True,15,True,True
+2010-11-09,47.3166666667,Golden State Warriors,Minnesota Timberwolves,4,101-146,43,two point shot,True,3,True,True
+2010-11-11,12.45,Golden State Warriors,Indiana Pacers,2,31-34,-6,three point jumper,False,27,True,True
+2010-11-11,18.3833333333,Golden State Warriors,Indiana Pacers,2,43-50,-9,two point shot,False,1,True,True
+2010-11-14,8.78333333333,Golden State Warriors,Milwaukee Bucks,1,23-18,4,free throw,False,15,True,False
+2010-11-14,8.78333333333,Golden State Warriors,Milwaukee Bucks,1,24-18,5,free throw,False,15,True,False
+2010-11-14,19.95,Golden State Warriors,Milwaukee Bucks,2,53-40,11,two point jumper,False,16,True,False
+2010-11-14,34.5,Golden State Warriors,Milwaukee Bucks,3,76-84,-11,three point jumper,False,23,False,False
+2010-11-14,37.5,Golden State Warriors,Milwaukee Bucks,4,88-94,-7,free throw,False,15,True,False
+2010-11-14,37.5,Golden State Warriors,Milwaukee Bucks,4,89-94,-6,free throw,False,15,True,False
+2010-11-14,38.5,Golden State Warriors,Milwaukee Bucks,4,93-97,-6,layup,False,0,True,False
+2010-01-16,43.2166666667,Charlotte Bobcats,Phoenix Suns,4,84-117,31,two point jumper,True,21,False,False
+2010-01-16,47.6166666667,Charlotte Bobcats,Phoenix Suns,4,99-125,24,layup,True,0,True,False
+2010-01-16,47.6166666667,Charlotte Bobcats,Phoenix Suns,4,99-125,25,free throw,True,15,False,False
+2010-03-01,45.5,Chicago Bulls,Atlanta Hawks,4,104-85,-21,two point jumper,True,22,True,True
+2010-03-01,46.8333333333,Chicago Bulls,Atlanta Hawks,4,112-88,-25,free throw,True,15,True,True
+2010-03-01,46.8333333333,Chicago Bulls,Atlanta Hawks,4,112-88,-25,free throw,True,15,False,True
+2010-03-11,17.1333333333,Chicago Bulls,Orlando Magic,2,28-44,-18,layup,False,0,False,True
+2010-03-11,18.45,Chicago Bulls,Orlando Magic,2,30-47,-19,two point shot,False,6,False,True
+2010-03-11,19.1,Chicago Bulls,Orlando Magic,2,30-50,-22,two point jumper,False,18,False,True
+2010-03-11,36.5166666667,Chicago Bulls,Orlando Magic,4,51-79,-30,two point jumper,False,10,False,True
+2010-03-11,36.6333333333,Chicago Bulls,Orlando Magic,4,53-79,-28,layup,False,0,True,True
+2010-03-11,37.5833333333,Chicago Bulls,Orlando Magic,4,56-83,-30,three point jumper,False,26,False,True
+2010-03-11,38.3166666667,Chicago Bulls,Orlando Magic,4,58-86,-30,layup,False,0,True,True
+2010-03-11,39.2,Chicago Bulls,Orlando Magic,4,63-88,-27,layup,False,0,True,True
+2010-03-11,39.5833333333,Chicago Bulls,Orlando Magic,4,63-88,-26,free throw,False,15,False,True
+2010-03-11,39.5833333333,Chicago Bulls,Orlando Magic,4,64-88,-25,free throw,False,15,True,True
+2010-03-11,40.2,Chicago Bulls,Orlando Magic,4,66-90,-26,layup,False,0,True,True
+2010-03-11,47.0,Chicago Bulls,Orlando Magic,4,79-111,-35,three point jumper,False,25,False,True
+2010-03-12,15.8166666667,Chicago Bulls,Miami Heat,2,28-32,-6,layup,False,0,False,True
+2010-03-12,17.8166666667,Chicago Bulls,Miami Heat,2,31-37,-8,two point jumper,False,17,False,True
+2010-03-12,47.6166666667,Chicago Bulls,Miami Heat,4,94-108,-15,free throw,False,15,False,True
+2010-03-12,47.6166666667,Chicago Bulls,Miami Heat,4,95-108,-14,free throw,False,15,True,True
+2010-03-16,2.0,Chicago Bulls,Memphis Grizzlies,1,7-6,-2,three point jumper,False,24,True,True
+2010-03-16,4.98333333333,Chicago Bulls,Memphis Grizzlies,1,12-6,4,two point shot,False,1,True,True
+2010-03-16,6.66666666667,Chicago Bulls,Memphis Grizzlies,1,18-10,6,layup,False,0,True,True
+2010-03-16,8.36666666667,Chicago Bulls,Memphis Grizzlies,1,22-11,9,layup,False,0,True,True
+2010-03-16,9.26666666667,Chicago Bulls,Memphis Grizzlies,1,22-16,3,three point jumper,False,25,False,True
+2010-03-16,15.95,Chicago Bulls,Memphis Grizzlies,2,35-30,3,layup,False,0,True,True
+2010-03-16,16.8166666667,Chicago Bulls,Memphis Grizzlies,2,37-32,3,layup,False,0,False,True
+2010-03-16,22.1,Chicago Bulls,Memphis Grizzlies,2,38-49,-12,free throw,False,15,True,True
+2010-03-16,22.1,Chicago Bulls,Memphis Grizzlies,2,39-49,-11,free throw,False,15,True,True
+2010-03-16,23.3666666667,Chicago Bulls,Memphis Grizzlies,2,42-54,-14,two point jumper,False,8,False,True
+2010-03-16,26.25,Chicago Bulls,Memphis Grizzlies,3,47-62,-18,three point jumper,False,23,False,True
+2010-03-16,27.8833333333,Chicago Bulls,Memphis Grizzlies,3,49-67,-20,layup,False,0,False,True
+2010-03-16,29.1,Chicago Bulls,Memphis Grizzlies,3,52-71,-20,free throw,False,15,False,True
+2010-03-16,29.1,Chicago Bulls,Memphis Grizzlies,3,53-71,-19,free throw,False,15,True,True
+2010-03-16,35.8333333333,Chicago Bulls,Memphis Grizzlies,3,66-85,-20,free throw,False,15,True,True
+2010-03-16,35.8333333333,Chicago Bulls,Memphis Grizzlies,3,67-85,-19,free throw,False,15,True,True
+2010-03-16,43.1,Chicago Bulls,Memphis Grizzlies,4,82-93,-13,layup,False,0,True,True
+2010-03-17,10.9166666667,Chicago Bulls,Dallas Mavericks,1,20-27,-9,layup,False,0,True,False
+2010-03-17,14.8833333333,Chicago Bulls,Dallas Mavericks,2,24-38,-16,layup,False,0,True,False
+2010-03-17,15.3,Chicago Bulls,Dallas Mavericks,2,26-40,-16,two point shot,False,13,True,False
+2010-03-17,32.25,Chicago Bulls,Dallas Mavericks,3,62-82,-21,free throw,False,15,True,False
+2010-03-17,32.25,Chicago Bulls,Dallas Mavericks,3,63-82,-20,free throw,False,15,True,False
+2010-03-17,35.9666666667,Chicago Bulls,Dallas Mavericks,3,72-88,-19,three point jumper,False,25,True,False
+2010-03-17,39.3833333333,Chicago Bulls,Dallas Mavericks,4,82-94,-14,layup,False,0,True,False
+2010-03-17,39.3833333333,Chicago Bulls,Dallas Mavericks,4,83-94,-12,free throw,False,15,True,False
+2010-03-17,41.45,Chicago Bulls,Dallas Mavericks,4,90-98,-10,two point shot,False,1,True,False
+2010-03-17,44.4833333333,Chicago Bulls,Dallas Mavericks,4,94-108,-15,free throw,False,15,True,False
+2010-03-17,44.4833333333,Chicago Bulls,Dallas Mavericks,4,95-108,-14,free throw,False,15,True,False
+2010-03-17,47.45,Chicago Bulls,Dallas Mavericks,4,101-110,-10,free throw,False,15,True,False
+2010-03-17,47.45,Chicago Bulls,Dallas Mavericks,4,102-110,-9,free throw,False,15,True,False
+2010-03-17,47.95,Chicago Bulls,Dallas Mavericks,4,106-113,-9,two point shot,False,1,True,False
+2010-03-19,11.3833333333,Chicago Bulls,Cleveland Cavaliers,1,28-26,-3,free throw,True,15,True,False
+2010-03-19,11.3833333333,Chicago Bulls,Cleveland Cavaliers,1,28-27,-2,free throw,True,15,True,False
+2010-03-19,11.55,Chicago Bulls,Cleveland Cavaliers,1,28-27,-2,free throw,True,15,False,False
+2010-03-19,11.55,Chicago Bulls,Cleveland Cavaliers,1,28-28,-1,free throw,True,15,True,False
+2010-03-19,11.9666666667,Chicago Bulls,Cleveland Cavaliers,1,29-28,-4,three point jumper,True,25,False,False
+2010-03-19,13.05,Chicago Bulls,Cleveland Cavaliers,2,29-31,-1,three point jumper,True,24,True,False
+2010-03-25,41.0333333333,Chicago Bulls,Miami Heat,4,93-59,-37,three point jumper,True,23,False,True
+2010-03-25,45.2166666667,Chicago Bulls,Miami Heat,4,100-70,-33,three point jumper,True,23,True,True
+2010-03-25,46.0,Chicago Bulls,Miami Heat,4,103-70,-36,three point jumper,True,25,False,True
+2010-12-22,47.2333333333,Charlotte Bobcats,Detroit Pistons,4,74-85,10,free throw,True,15,True,True
+2010-12-22,47.2333333333,Charlotte Bobcats,Detroit Pistons,4,74-86,11,free throw,True,15,True,True
+2010-01-20,41.35,Charlotte Bobcats,Miami Heat,4,62-96,32,two point shot,True,1,True,False
+2010-01-20,43.9166666667,Charlotte Bobcats,Miami Heat,4,62-102,38,two point jumper,True,9,False,False
+2010-01-20,44.7666666667,Charlotte Bobcats,Miami Heat,4,62-102,37,three point jumper,True,27,False,False
+2010-01-20,45.15,Charlotte Bobcats,Miami Heat,4,62-102,38,layup,True,0,False,False
+2010-01-20,47.2333333333,Charlotte Bobcats,Miami Heat,4,63-103,39,free throw,True,15,True,False
+2010-01-20,47.2333333333,Charlotte Bobcats,Miami Heat,4,63-104,40,free throw,True,15,True,False
+2010-01-20,47.8166666667,Charlotte Bobcats,Miami Heat,4,65-104,37,layup,True,0,False,False
+2010-01-25,45.8666666667,Charlotte Bobcats,Denver Nuggets,4,88-101,-14,free throw,False,15,True,True
+2010-01-25,45.8666666667,Charlotte Bobcats,Denver Nuggets,4,89-101,-13,free throw,False,15,True,True
+2010-01-25,47.9833333333,Charlotte Bobcats,Denver Nuggets,4,93-104,-13,two point shot,False,1,True,True
+2010-02-10,13.3333333333,Charlotte Bobcats,Minnesota Timberwolves,2,40-28,10,two point jumper,False,17,False,True
+2010-02-10,15.2,Charlotte Bobcats,Minnesota Timberwolves,2,47-30,15,dunk,False,0,True,True
+2011-02-22,8.4,Golden State Warriors,Boston Celtics,1,25-19,-9,three point jumper,True,24,False,True
+2011-02-22,9.33333333333,Golden State Warriors,Boston Celtics,1,27-21,-7,free throw,True,15,False,True
+2011-02-22,9.33333333333,Golden State Warriors,Boston Celtics,1,27-22,-6,free throw,True,15,True,True
+2011-02-22,14.95,Golden State Warriors,Boston Celtics,2,37-36,-3,layup,True,0,True,True
+2011-02-22,14.95,Golden State Warriors,Boston Celtics,2,37-37,-1,free throw,True,15,True,True
+2011-02-22,18.35,Golden State Warriors,Boston Celtics,2,45-48,1,two point shot,True,1,False,True
+2011-02-22,34.4333333333,Golden State Warriors,Boston Celtics,3,83-78,-7,two point shot,True,7,False,True
+2011-02-22,37.1333333333,Golden State Warriors,Boston Celtics,4,88-80,-11,three point jumper,True,23,False,True
+2011-02-22,40.1333333333,Golden State Warriors,Boston Celtics,4,94-86,-11,three point jumper,True,23,False,True
+2011-02-22,46.6666666667,Golden State Warriors,Boston Celtics,4,113-93,-21,free throw,True,15,True,True
+2011-02-22,46.6666666667,Golden State Warriors,Boston Celtics,4,113-93,-21,free throw,True,15,False,True
+2011-02-22,47.7833333333,Golden State Warriors,Boston Celtics,4,115-93,-24,two point jumper,True,1,False,True
+2011-03-04,17.3833333333,Golden State Warriors,Boston Celtics,2,41-45,-6,two point jumper,False,19,True,False
+2011-03-04,29.8833333333,Golden State Warriors,Boston Celtics,3,65-79,-16,layup,False,0,True,False
+2011-03-04,36.25,Golden State Warriors,Boston Celtics,4,81-88,-9,two point jumper,False,9,False,False
+2011-01-17,13.8666666667,Golden State Warriors,Brooklyn Nets,2,28-30,0,two point jumper,True,20,False,True
+2011-01-17,16.1,Golden State Warriors,Brooklyn Nets,2,32-36,2,layup,True,0,True,True
+2011-01-17,16.8833333333,Golden State Warriors,Brooklyn Nets,2,34-38,2,two point shot,True,14,True,True
+2011-01-17,35.95,Golden State Warriors,Brooklyn Nets,3,73-78,4,free throw,True,15,True,True
+2011-01-17,35.95,Golden State Warriors,Brooklyn Nets,3,73-79,5,free throw,True,15,True,True
+2011-01-17,39.5,Golden State Warriors,Brooklyn Nets,4,80-90,8,layup,True,0,True,True
+2011-01-17,41.45,Golden State Warriors,Brooklyn Nets,4,87-95,6,two point jumper,True,16,False,True
+2011-01-17,42.6333333333,Golden State Warriors,Brooklyn Nets,4,89-95,3,three point jumper,True,24,False,True
+2011-03-09,10.6333333333,Golden State Warriors,Brooklyn Nets,1,20-26,-8,two point shot,False,3,True,False
+2011-03-09,14.0,Golden State Warriors,Brooklyn Nets,2,26-33,-9,layup,False,0,True,False
+2011-03-09,14.6166666667,Golden State Warriors,Brooklyn Nets,2,26-35,-11,two point jumper,False,12,False,False
+2011-03-09,26.25,Golden State Warriors,Brooklyn Nets,3,57-57,-2,layup,False,0,True,False
+2011-03-09,27.8333333333,Golden State Warriors,Brooklyn Nets,3,61-59,0,layup,False,0,True,False
+2011-12-27,30.7,Golden State Warriors,Philadelphia 76ers,3,61-64,1,two point shot,True,20,True,False
+2011-12-27,40.3833333333,Golden State Warriors,Philadelphia 76ers,4,75-87,9,three point jumper,True,25,False,False
+2011-03-06,12.0,Golden State Warriors,Philadelphia 76ers,1,25-31,-9,three point jumper,False,25,False,False
+2011-03-06,13.6333333333,Golden State Warriors,Philadelphia 76ers,2,27-39,-14,two point jumper,False,1,False,False
+2011-03-06,14.6333333333,Golden State Warriors,Philadelphia 76ers,2,31-41,-12,layup,False,0,True,False
+2011-03-06,14.6333333333,Golden State Warriors,Philadelphia 76ers,2,32-41,-10,free throw,False,15,True,False
+2011-03-06,16.5,Golden State Warriors,Philadelphia 76ers,2,32-48,-18,two point jumper,False,15,False,False
+2011-03-06,38.8833333333,Golden State Warriors,Philadelphia 76ers,4,86-84,0,layup,False,0,True,False
+2011-03-06,41.3166666667,Golden State Warriors,Philadelphia 76ers,4,90-88,0,layup,False,0,True,False
+2011-03-06,46.5333333333,Golden State Warriors,Philadelphia 76ers,4,100-100,-2,layup,False,0,False,False
+2011-12-10,14.2166666667,Golden State Warriors,Miami Heat,2,28-20,-11,three point jumper,True,28,False,True
+2011-12-10,20.35,Golden State Warriors,Miami Heat,2,37-35,-3,free throw,True,15,True,True
+2011-12-10,20.35,Golden State Warriors,Miami Heat,2,37-35,-3,free throw,True,15,False,True
+2011-12-10,33.6666666667,Golden State Warriors,Miami Heat,3,75-59,-17,free throw,True,15,True,True
+2011-12-10,33.6666666667,Golden State Warriors,Miami Heat,3,75-60,-16,free throw,True,15,True,True
+2011-12-10,38.4333333333,Golden State Warriors,Miami Heat,4,85-66,-22,three point jumper,True,23,False,True
+2011-12-13,13.6333333333,Golden State Warriors,Utah Jazz,2,24-27,-4,free throw,False,15,True,True
+2011-12-13,13.6333333333,Golden State Warriors,Utah Jazz,2,25-27,-3,free throw,False,15,True,True
+2011-12-13,17.8166666667,Golden State Warriors,Utah Jazz,2,31-36,-7,two point jumper,False,14,True,True
+2011-12-13,38.7666666667,Golden State Warriors,Utah Jazz,4,74-81,-9,layup,False,0,False,True
+2011-12-13,47.0166666667,Golden State Warriors,Utah Jazz,4,92-107,-16,free throw,False,15,True,True
+2011-12-13,47.0166666667,Golden State Warriors,Utah Jazz,4,93-107,-15,free throw,False,15,True,True
+2011-12-13,47.4166666667,Golden State Warriors,Utah Jazz,4,94-107,-14,free throw,False,15,True,True
+2011-12-13,47.4166666667,Golden State Warriors,Utah Jazz,4,95-107,-13,free throw,False,15,True,True
+2011-12-14,9.36666666667,Golden State Warriors,Minnesota Timberwolves,1,22-15,-8,free throw,True,15,False,False
+2011-12-14,9.36666666667,Golden State Warriors,Minnesota Timberwolves,1,22-16,-7,free throw,True,15,True,False
+2011-12-14,12.2,Golden State Warriors,Minnesota Timberwolves,2,25-18,-8,free throw,True,15,True,False
+2011-12-14,40.7,Golden State Warriors,Minnesota Timberwolves,4,82-87,2,three point jumper,True,23,False,False
+2011-12-14,40.9166666667,Golden State Warriors,Minnesota Timberwolves,4,82-89,5,layup,True,0,True,False
+2011-12-14,46.7333333333,Golden State Warriors,Minnesota Timberwolves,4,93-106,10,three point jumper,True,23,True,False
+2011-12-14,47.7166666667,Golden State Warriors,Minnesota Timberwolves,4,97-108,9,layup,True,0,True,False
+2011-12-18,15.9666666667,Golden State Warriors,Portland Trail Blazers,2,29-29,-2,layup,False,0,True,False
+2011-12-18,19.7333333333,Golden State Warriors,Portland Trail Blazers,2,36-35,-1,two point shot,False,2,False,False
+2011-12-18,42.9166666667,Golden State Warriors,Portland Trail Blazers,4,81-91,-12,two point jumper,False,13,False,False
+2011-12-20,12.5666666667,Golden State Warriors,Houston Rockets,2,26-26,-3,three point jumper,True,26,False,False
+2011-12-20,13.05,Golden State Warriors,Houston Rockets,2,26-28,0,two point shot,True,17,True,False
+2011-12-20,15.65,Golden State Warriors,Houston Rockets,2,31-32,-1,layup,True,0,True,False
+2011-12-20,21.0833333333,Golden State Warriors,Houston Rockets,2,41-42,-1,two point shot,True,1,False,False
+2011-12-20,23.9166666667,Golden State Warriors,Houston Rockets,2,48-46,-5,three point jumper,True,25,False,False
+2011-12-20,34.3,Golden State Warriors,Houston Rockets,3,77-71,-9,three point jumper,True,25,False,False
+2011-12-20,34.4,Golden State Warriors,Houston Rockets,3,77-73,-6,two point shot,True,1,True,False
+2011-12-20,37.6833333333,Golden State Warriors,Houston Rockets,4,85-82,-5,two point shot,True,19,True,False
+2011-12-20,38.95,Golden State Warriors,Houston Rockets,4,87-84,-6,three point jumper,True,24,False,False
+2011-12-20,45.6166666667,Golden State Warriors,Houston Rockets,4,106-101,-8,three point jumper,True,23,False,False
+2011-12-21,15.5166666667,Golden State Warriors,Sacramento Kings,2,32-22,8,two point jumper,False,17,False,True
+2011-12-21,18.6,Golden State Warriors,Sacramento Kings,2,36-28,6,two point jumper,False,4,True,True
+2011-12-21,21.5333333333,Golden State Warriors,Sacramento Kings,2,44-36,6,layup,False,0,True,True
+2011-12-21,32.75,Golden State Warriors,Sacramento Kings,3,63-72,-10,free throw,False,15,False,True
+2011-12-21,32.75,Golden State Warriors,Sacramento Kings,3,64-72,-9,free throw,False,15,True,True
+2011-12-21,33.6833333333,Golden State Warriors,Sacramento Kings,3,67-74,-10,three point jumper,False,23,True,True
+2011-12-31,36.4,Golden State Warriors,Charlotte Bobcats,4,79-70,7,two point jumper,False,17,True,True
+2011-12-31,37.7666666667,Golden State Warriors,Charlotte Bobcats,4,81-72,7,two point shot,False,1,True,True
+2011-01-01,9.43333333333,Golden State Warriors,Miami Heat,1,31-23,5,three point jumper,False,23,True,False
+2011-01-01,9.9,Golden State Warriors,Miami Heat,1,31-23,6,layup,False,0,False,False
+2011-01-01,13.75,Golden State Warriors,Miami Heat,2,42-30,10,two point shot,False,2,True,False
+2011-01-01,15.0166666667,Golden State Warriors,Miami Heat,2,49-35,12,layup,False,0,True,False
+2011-01-01,17.6,Golden State Warriors,Miami Heat,2,54-40,11,three point jumper,False,24,False,False
+2011-01-01,35.6166666667,Golden State Warriors,Miami Heat,3,84-83,-1,two point shot,False,2,False,False
+2011-01-03,32.9166666667,Golden State Warriors,Orlando Magic,3,67-69,-4,two point jumper,False,15,False,True
+2011-01-03,34.65,Golden State Warriors,Orlando Magic,3,70-74,-7,three point jumper,False,23,False,True
+2011-01-03,35.25,Golden State Warriors,Orlando Magic,3,71-76,-7,two point shot,False,4,False,True
+2011-01-05,11.35,Golden State Warriors,New Orleans Pelicans,1,27-34,-9,two point jumper,False,21,False,True
+2011-01-05,14.7,Golden State Warriors,New Orleans Pelicans,2,38-36,0,layup,False,0,True,True
+2011-01-05,15.25,Golden State Warriors,New Orleans Pelicans,2,40-38,0,two point jumper,False,1,True,True
+2011-01-05,19.5,Golden State Warriors,New Orleans Pelicans,2,42-50,-11,three point jumper,False,25,False,True
+2011-01-07,23.1166666667,Golden State Warriors,Cleveland Cavaliers,2,47-63,14,layup,True,0,True,False
+2011-01-07,37.7,Golden State Warriors,Cleveland Cavaliers,4,81-91,8,layup,True,0,False,False
+2011-01-07,46.75,Golden State Warriors,Cleveland Cavaliers,4,98-116,16,two point shot,True,16,True,False
+2011-01-09,5.38333333333,Golden State Warriors,Los Angeles Clippers,1,11-15,-6,layup,False,0,True,True
+2011-01-09,5.81666666667,Golden State Warriors,Los Angeles Clippers,1,12-15,-4,free throw,False,15,True,True
+2011-01-09,5.81666666667,Golden State Warriors,Los Angeles Clippers,1,13-15,-3,free throw,False,15,True,True
+2011-01-09,7.95,Golden State Warriors,Los Angeles Clippers,1,20-21,-3,two point shot,False,4,True,True
+2011-01-09,34.75,Golden State Warriors,Los Angeles Clippers,3,71-87,-18,layup,False,0,False,True
+2011-01-14,30.5,Golden State Warriors,Los Angeles Clippers,3,76-77,-1,two point jumper,True,9,False,True
+2011-01-14,33.2166666667,Golden State Warriors,Los Angeles Clippers,3,80-85,3,two point jumper,True,7,True,True
+2011-01-19,11.5,Golden State Warriors,Indiana Pacers,1,29-28,-3,two point jumper,True,15,False,True
+2011-01-19,35.5333333333,Golden State Warriors,Indiana Pacers,3,81-77,-5,free throw,True,15,False,True
+2011-01-19,35.5333333333,Golden State Warriors,Indiana Pacers,3,81-78,-4,free throw,True,15,True,True
+2011-01-19,36.0,Golden State Warriors,Indiana Pacers,3,83-81,-5,three point jumper,True,40,True,True
+2011-01-19,40.2333333333,Golden State Warriors,Indiana Pacers,4,95-92,-6,three point jumper,True,26,True,True
+2011-01-19,41.8833333333,Golden State Warriors,Indiana Pacers,4,97-96,-3,layup,True,0,False,True
+2011-01-21,15.0666666667,Golden State Warriors,Sacramento Kings,2,30-35,3,layup,True,0,True,True
+2011-01-21,16.4166666667,Golden State Warriors,Sacramento Kings,2,32-39,5,layup,True,0,True,True
+2011-01-21,16.8833333333,Golden State Warriors,Sacramento Kings,2,32-41,7,two point shot,True,18,True,True
+2011-01-24,16.5333333333,Golden State Warriors,San Antonio Spurs,2,45-44,-3,two point shot,True,8,True,False
+2011-01-24,34.2833333333,Golden State Warriors,San Antonio Spurs,3,84-74,-12,two point jumper,True,20,True,False
+2011-01-24,35.4833333333,Golden State Warriors,San Antonio Spurs,3,88-78,-12,layup,True,0,False,False
+2011-01-24,36.6333333333,Golden State Warriors,San Antonio Spurs,4,91-81,-13,three point jumper,True,23,True,False
+2011-01-24,37.3,Golden State Warriors,San Antonio Spurs,4,91-81,-12,two point jumper,True,22,False,False
+2011-01-24,38.3833333333,Golden State Warriors,San Antonio Spurs,4,94-81,-15,two point jumper,True,16,False,False
+2011-01-26,38.8833333333,Golden State Warriors,New Orleans Pelicans,4,99-77,-25,three point jumper,True,23,False,False
+2011-01-26,38.9333333333,Golden State Warriors,New Orleans Pelicans,4,99-79,-22,layup,True,0,True,False
+2011-01-26,44.8333333333,Golden State Warriors,New Orleans Pelicans,4,107-94,-15,layup,True,0,True,False
+2011-01-26,45.2166666667,Golden State Warriors,New Orleans Pelicans,4,107-95,-13,free throw,True,15,True,False
+2011-01-26,45.2166666667,Golden State Warriors,New Orleans Pelicans,4,107-96,-12,free throw,True,15,True,False
+2011-01-28,17.95,Golden State Warriors,Charlotte Bobcats,2,32-36,2,layup,True,0,True,False
+2011-01-28,18.5,Golden State Warriors,Charlotte Bobcats,2,32-36,2,layup,True,0,False,False
+2011-01-28,19.2833333333,Golden State Warriors,Charlotte Bobcats,2,32-42,8,two point shot,True,1,True,False
+2011-01-28,20.2166666667,Golden State Warriors,Charlotte Bobcats,2,34-45,8,three point jumper,True,24,False,False
+2011-01-28,36.5,Golden State Warriors,Charlotte Bobcats,4,71-78,5,layup,True,0,True,False
+2011-01-28,37.15,Golden State Warriors,Charlotte Bobcats,4,74-78,3,free throw,True,15,False,False
+2011-01-28,37.15,Golden State Warriors,Charlotte Bobcats,4,74-79,4,free throw,True,15,True,False
+2011-01-30,19.4833333333,Golden State Warriors,Utah Jazz,2,34-45,8,three point jumper,True,23,False,True
+2011-01-30,41.5666666667,Golden State Warriors,Utah Jazz,4,67-85,17,free throw,True,15,False,True
+2011-01-30,41.5666666667,Golden State Warriors,Utah Jazz,4,67-86,18,free throw,True,15,True,True
+2011-01-30,46.1333333333,Golden State Warriors,Utah Jazz,4,79-92,11,two point jumper,True,17,False,True
+2011-01-30,46.7333333333,Golden State Warriors,Utah Jazz,4,79-96,15,two point shot,True,14,True,True
+2011-02-25,34.2666666667,Golden State Warriors,Atlanta Hawks,3,79-51,-30,two point jumper,True,21,False,False
+2011-02-25,34.6833333333,Golden State Warriors,Atlanta Hawks,3,79-53,-28,layup,True,0,True,False
+2011-02-25,40.85,Golden State Warriors,Atlanta Hawks,4,87-62,-27,layup,True,0,False,False
+2011-02-25,43.2833333333,Golden State Warriors,Atlanta Hawks,4,91-70,-23,two point shot,True,10,True,False
+2011-02-25,43.85,Golden State Warriors,Atlanta Hawks,4,91-72,-21,two point jumper,True,1,True,False
+2011-02-25,46.3,Golden State Warriors,Atlanta Hawks,4,91-78,-14,free throw,True,15,False,False
+2011-02-25,46.3,Golden State Warriors,Atlanta Hawks,4,91-79,-13,free throw,True,15,True,False
+2011-02-25,47.4,Golden State Warriors,Atlanta Hawks,4,95-79,-19,three point jumper,True,27,False,False
+2011-02-27,31.35,Golden State Warriors,Minnesota Timberwolves,3,81-92,-13,two point jumper,False,19,False,False
+2011-02-27,34.8833333333,Golden State Warriors,Minnesota Timberwolves,3,87-102,-17,layup,False,0,False,False
+2011-02-27,35.2166666667,Golden State Warriors,Minnesota Timberwolves,3,87-104,-19,two point jumper,False,18,False,False
+2011-03-01,8.98333333333,Golden State Warriors,Indiana Pacers,1,13-26,-15,two point jumper,False,17,False,False
+2011-03-01,9.95,Golden State Warriors,Indiana Pacers,1,17-26,-11,layup,False,0,True,False
+2011-03-01,13.75,Golden State Warriors,Indiana Pacers,2,23-32,-11,layup,False,0,True,False
+2011-03-01,16.8166666667,Golden State Warriors,Indiana Pacers,2,29-36,-9,two point shot,False,16,True,False
+2011-03-01,36.7,Golden State Warriors,Indiana Pacers,4,71-80,-12,three point jumper,False,26,False,False
+2011-03-02,12.7,Golden State Warriors,Washington Wizards,2,32-33,-3,two point jumper,False,3,False,True
+2011-03-02,15.3166666667,Golden State Warriors,Washington Wizards,2,40-38,0,two point shot,False,1,True,True
+2011-03-02,16.7833333333,Golden State Warriors,Washington Wizards,2,44-42,0,two point shot,False,2,True,True
+2011-03-02,40.1,Golden State Warriors,Washington Wizards,4,96-83,12,free throw,False,15,True,True
+2011-03-02,40.1,Golden State Warriors,Washington Wizards,4,96-83,12,free throw,False,15,False,True
+2011-03-02,40.9833333333,Golden State Warriors,Washington Wizards,4,97-85,11,free throw,False,15,False,True
+2011-03-02,40.9833333333,Golden State Warriors,Washington Wizards,4,98-85,12,free throw,False,15,True,True
+2011-03-08,8.83333333333,Golden State Warriors,Cleveland Cavaliers,1,14-19,-7,layup,False,0,True,True
+2011-03-08,9.41666666667,Golden State Warriors,Cleveland Cavaliers,1,14-21,-9,two point jumper,False,1,False,True
+2011-03-08,17.0666666667,Golden State Warriors,Cleveland Cavaliers,2,32-39,-9,two point jumper,False,10,False,True
+2011-03-13,15.25,Golden State Warriors,Minnesota Timberwolves,2,29-33,2,two point jumper,True,12,True,False
+2011-03-13,17.3833333333,Golden State Warriors,Minnesota Timberwolves,2,32-39,5,layup,True,0,True,False
+2011-03-13,39.8833333333,Golden State Warriors,Minnesota Timberwolves,4,66-85,18,free throw,True,15,True,False
+2011-03-13,39.8833333333,Golden State Warriors,Minnesota Timberwolves,4,66-86,19,free throw,True,15,True,False
+2011-03-13,41.1333333333,Golden State Warriors,Minnesota Timberwolves,4,69-88,17,two point jumper,True,19,False,False
+2011-03-14,11.4166666667,Golden State Warriors,Sacramento Kings,1,13-35,-24,two point jumper,False,21,False,False
+2011-03-14,32.2,Golden State Warriors,Sacramento Kings,3,106-123,-19,two point jumper,False,17,False,False
+2011-03-14,34.4833333333,Golden State Warriors,Sacramento Kings,3,114-123,-12,three point jumper,False,26,False,False
+2011-03-16,12.9666666667,Golden State Warriors,Dallas Mavericks,2,26-36,8,two point jumper,True,21,False,False
+2011-03-16,15.75,Golden State Warriors,Dallas Mavericks,2,30-48,17,free throw,True,15,True,False
+2011-03-16,15.75,Golden State Warriors,Dallas Mavericks,2,30-48,17,free throw,True,15,False,False
+2011-03-16,17.0666666667,Golden State Warriors,Dallas Mavericks,2,34-50,14,two point shot,True,1,True,False
+2011-03-16,17.0666666667,Golden State Warriors,Dallas Mavericks,2,34-51,16,free throw,True,15,True,False
+2011-03-16,18.45,Golden State Warriors,Dallas Mavericks,2,40-55,13,two point shot,True,3,True,False
+2011-03-16,34.05,Golden State Warriors,Dallas Mavericks,3,76-76,-1,free throw,True,15,True,False
+2011-03-16,34.05,Golden State Warriors,Dallas Mavericks,3,76-77,0,free throw,True,15,True,False
+2011-03-16,36.6333333333,Golden State Warriors,Dallas Mavericks,4,81-83,0,two point shot,True,7,True,False
+2011-03-16,36.6333333333,Golden State Warriors,Dallas Mavericks,4,81-84,2,free throw,True,15,True,False
+2011-03-16,37.5666666667,Golden State Warriors,Dallas Mavericks,4,83-88,3,two point shot,True,1,True,False
+2011-03-16,42.8833333333,Golden State Warriors,Dallas Mavericks,4,96-96,-3,three point jumper,True,25,False,False
+2011-03-16,46.2333333333,Golden State Warriors,Dallas Mavericks,4,106-101,-7,layup,True,0,True,False
+2011-03-18,15.0833333333,Golden State Warriors,Phoenix Suns,2,23-31,-9,free throw,False,15,True,True
+2011-03-18,15.0833333333,Golden State Warriors,Phoenix Suns,2,24-31,-8,free throw,False,15,True,True
+2011-03-18,18.1666666667,Golden State Warriors,Phoenix Suns,2,30-36,-8,layup,False,0,True,True
+2011-03-18,38.4666666667,Golden State Warriors,Phoenix Suns,4,72-88,-18,layup,False,0,True,True
+2011-03-18,38.4666666667,Golden State Warriors,Phoenix Suns,4,73-88,-16,free throw,False,15,True,True
+2011-03-20,11.7,Golden State Warriors,Dallas Mavericks,1,23-29,-8,two point jumper,False,16,True,True
+2011-03-20,16.1333333333,Golden State Warriors,Dallas Mavericks,2,27-42,-17,layup,False,0,False,True
+2011-03-21,8.58333333333,Golden State Warriors,San Antonio Spurs,1,11-27,-18,two point shot,False,1,True,True
+2011-03-21,9.83333333333,Golden State Warriors,San Antonio Spurs,1,15-29,-16,layup,False,0,True,True
+2011-03-21,11.0,Golden State Warriors,San Antonio Spurs,1,19-32,-15,two point shot,False,1,True,True
+2011-03-21,11.35,Golden State Warriors,San Antonio Spurs,1,19-32,-15,two point shot,False,9,False,True
+2011-03-21,12.2666666667,Golden State Warriors,San Antonio Spurs,2,23-32,-11,layup,False,0,True,True
+2011-03-21,16.0333333333,Golden State Warriors,San Antonio Spurs,2,31-39,-10,two point jumper,False,17,True,True
+2011-03-21,17.0333333333,Golden State Warriors,San Antonio Spurs,2,33-42,-11,layup,False,0,False,True
+2011-03-21,30.5666666667,Golden State Warriors,San Antonio Spurs,3,58-66,-10,two point shot,False,7,False,True
+2011-03-21,33.35,Golden State Warriors,San Antonio Spurs,3,61-74,-15,layup,False,0,False,True
+2011-03-21,35.75,Golden State Warriors,San Antonio Spurs,3,68-86,-19,free throw,False,15,True,True
+2011-03-21,35.75,Golden State Warriors,San Antonio Spurs,3,69-86,-18,free throw,False,15,True,True
+2011-03-21,37.5666666667,Golden State Warriors,San Antonio Spurs,4,71-89,-20,two point shot,False,13,True,True
+2011-03-23,16.2,Golden State Warriors,Houston Rockets,2,42-49,-8,free throw,False,15,False,False
+2011-03-23,16.2,Golden State Warriors,Houston Rockets,2,43-49,-7,free throw,False,15,True,False
+2011-03-23,19.6333333333,Golden State Warriors,Houston Rockets,2,50-56,-8,two point shot,False,1,True,False
+2011-03-23,46.9833333333,Golden State Warriors,Houston Rockets,4,107-126,-21,layup,False,0,False,False
+2011-11-02,13.8333333333,Memphis Grizzlies,Los Angeles Lakers,2,25-40,-17,two point shot,False,1,True,False
+2011-11-02,15.7666666667,Memphis Grizzlies,Los Angeles Lakers,2,28-45,-19,two point jumper,False,10,False,False
+2011-11-02,16.6,Memphis Grizzlies,Los Angeles Lakers,2,28-48,-22,layup,False,0,False,False
+2011-11-05,33.7333333333,Memphis Grizzlies,Phoenix Suns,3,74-68,4,two point shot,False,6,False,False
+2011-11-08,12.3666666667,Memphis Grizzlies,Phoenix Suns,2,26-28,0,two point shot,True,12,False,False
+2011-11-08,13.25,Memphis Grizzlies,Phoenix Suns,2,26-30,2,two point shot,True,14,False,False
+2011-11-08,16.1,Memphis Grizzlies,Phoenix Suns,2,33-37,3,free throw,True,15,True,False
+2011-11-08,16.1,Memphis Grizzlies,Phoenix Suns,2,33-38,4,free throw,True,15,True,False
+2011-11-08,35.2166666667,Memphis Grizzlies,Phoenix Suns,3,73-84,10,free throw,True,15,False,False
+2011-11-08,35.2166666667,Memphis Grizzlies,Phoenix Suns,3,73-85,11,free throw,True,15,True,False
+2011-11-08,38.45,Memphis Grizzlies,Phoenix Suns,4,78-93,12,three point jumper,True,24,False,False
+2011-11-06,13.1333333333,Memphis Grizzlies,Sacramento Kings,2,30-26,1,three point jumper,False,24,False,False
+2011-11-06,18.95,Memphis Grizzlies,Sacramento Kings,2,43-37,4,two point jumper,False,6,False,False
+2011-10-29,37.0833333333,Memphis Grizzlies,Dallas Mavericks,4,73-77,-7,three point jumper,False,23,False,True
+2011-11-10,12.55,Memphis Grizzlies,Dallas Mavericks,2,30-23,-9,two point shot,True,13,True,True
+2011-11-10,14.0666666667,Memphis Grizzlies,Dallas Mavericks,2,34-25,-11,layup,True,0,True,True
+2011-10-27,12.5833333333,Memphis Grizzlies,Atlanta Hawks,2,30-22,-9,free throw,True,15,False,False
+2011-10-27,12.5833333333,Memphis Grizzlies,Atlanta Hawks,2,30-22,-9,free throw,True,15,False,False
+2011-10-27,33.9833333333,Memphis Grizzlies,Atlanta Hawks,3,85-75,-13,three point jumper,True,23,False,False
+2011-10-27,45.9333333333,Memphis Grizzlies,Atlanta Hawks,4,119-100,-20,free throw,True,15,True,False
+2011-10-27,45.9333333333,Memphis Grizzlies,Atlanta Hawks,4,119-101,-19,free throw,True,15,True,False
+2011-10-27,46.4666666667,Memphis Grizzlies,Atlanta Hawks,4,119-101,-19,free throw,True,15,False,False
+2011-10-27,46.4666666667,Memphis Grizzlies,Atlanta Hawks,4,119-102,-18,free throw,True,15,True,False
+2011-10-27,47.7333333333,Memphis Grizzlies,Atlanta Hawks,4,119-104,-18,three point jumper,True,27,False,False
+2011-10-30,13.25,Memphis Grizzlies,Minnesota Timberwolves,2,21-34,10,three point jumper,True,24,False,False
+2011-11-19,33.2666666667,Memphis Grizzlies,Washington Wizards,3,60-63,-5,two point jumper,False,11,False,False

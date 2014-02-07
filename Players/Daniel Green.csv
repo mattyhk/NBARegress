@@ -1,0 +1,625 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2010-03-01,46.6,Cleveland Cavaliers,New York Knicks,4,86-120,32,two point jumper,True,21,True,False
+2010-03-01,47.0,Cleveland Cavaliers,New York Knicks,4,88-122,32,tip shot,True,0,True,False
+2010-01-31,44.9833333333,Cleveland Cavaliers,Los Angeles Clippers,4,83-107,21,three point jumper,True,23,True,False
+2010-01-31,46.5333333333,Cleveland Cavaliers,Los Angeles Clippers,4,87-109,19,three point jumper,True,25,False,False
+2010-01-31,46.85,Cleveland Cavaliers,Los Angeles Clippers,4,87-109,21,free throw,True,15,False,False
+2010-01-31,46.85,Cleveland Cavaliers,Los Angeles Clippers,4,87-110,22,free throw,True,15,True,False
+2010-12-04,44.2666666667,Cleveland Cavaliers,Chicago Bulls,4,74-92,17,free throw,True,15,True,False
+2010-12-04,44.2666666667,Cleveland Cavaliers,Chicago Bulls,4,74-93,18,free throw,True,15,True,False
+2010-12-04,45.4833333333,Cleveland Cavaliers,Chicago Bulls,4,79-93,11,three point jumper,True,23,False,False
+2010-04-08,11.8833333333,Cleveland Cavaliers,Chicago Bulls,1,28-28,-1,free throw,False,15,True,False
+2010-04-08,11.8833333333,Cleveland Cavaliers,Chicago Bulls,1,28-28,-1,free throw,False,15,False,False
+2010-04-08,34.8,Cleveland Cavaliers,Chicago Bulls,3,78-80,-5,three point jumper,False,26,False,False
+2010-04-08,35.55,Cleveland Cavaliers,Chicago Bulls,3,78-82,-7,three point jumper,False,25,False,False
+2010-11-18,47.3166666667,Cleveland Cavaliers,Washington Wizards,4,91-108,-20,three point jumper,False,24,False,True
+2010-11-27,35.9833333333,Cleveland Cavaliers,Charlotte Bobcats,3,71-82,-14,three point jumper,False,36,False,False
+2010-11-27,36.3166666667,Cleveland Cavaliers,Charlotte Bobcats,4,73-82,-11,layup,False,0,True,False
+2010-12-06,47.0333333333,Cleveland Cavaliers,Milwaukee Bucks,4,101-83,15,three point jumper,False,26,True,False
+2010-01-06,43.45,Cleveland Cavaliers,Washington Wizards,4,92-117,22,three point jumper,True,23,True,False
+2010-01-06,45.75,Cleveland Cavaliers,Washington Wizards,4,96-119,21,two point shot,True,1,True,False
+2010-01-23,10.4,Cleveland Cavaliers,Oklahoma City Thunder,1,17-24,4,three point jumper,True,23,False,False
+2010-01-23,19.2333333333,Cleveland Cavaliers,Oklahoma City Thunder,2,37-41,1,three point jumper,True,23,True,False
+2010-01-23,36.75,Cleveland Cavaliers,Oklahoma City Thunder,4,78-77,-4,three point jumper,True,24,False,False
+2010-01-27,19.1666666667,Cleveland Cavaliers,Minnesota Timberwolves,2,38-40,-1,three point jumper,True,25,False,False
+2010-01-27,20.85,Cleveland Cavaliers,Minnesota Timberwolves,2,42-46,2,two point jumper,True,17,False,False
+2010-01-27,20.95,Cleveland Cavaliers,Minnesota Timberwolves,2,42-48,4,layup,True,0,True,False
+2010-01-27,42.7833333333,Cleveland Cavaliers,Minnesota Timberwolves,4,82-97,13,layup,True,0,False,False
+2010-01-27,44.6,Cleveland Cavaliers,Minnesota Timberwolves,4,87-101,12,two point jumper,True,1,True,False
+2010-01-27,46.9833333333,Cleveland Cavaliers,Minnesota Timberwolves,4,93-105,10,two point shot,True,1,True,False
+2010-01-29,45.7333333333,Cleveland Cavaliers,Indiana Pacers,4,93-71,20,two point jumper,False,1,False,True
+2010-02-02,46.1833333333,Cleveland Cavaliers,Memphis Grizzlies,4,84-104,18,two point jumper,True,8,True,False
+2010-02-04,13.0833333333,Cleveland Cavaliers,Miami Heat,2,28-29,-2,three point jumper,True,23,False,False
+2010-02-04,13.8666666667,Cleveland Cavaliers,Miami Heat,2,31-31,-2,two point jumper,True,18,True,False
+2010-02-04,14.6833333333,Cleveland Cavaliers,Miami Heat,2,33-34,-2,three point jumper,True,24,True,False
+2010-02-04,20.55,Cleveland Cavaliers,Miami Heat,2,45-47,-1,three point jumper,True,23,False,False
+2010-03-06,34.4833333333,Cleveland Cavaliers,Milwaukee Bucks,3,56-66,-13,three point jumper,False,24,False,False
+2010-03-06,39.7,Cleveland Cavaliers,Milwaukee Bucks,4,65-77,-14,two point jumper,False,13,False,False
+2010-03-06,47.4333333333,Cleveland Cavaliers,Milwaukee Bucks,4,85-92,-10,three point jumper,False,23,True,False
+2010-04-09,9.91666666667,Cleveland Cavaliers,Indiana Pacers,1,18-23,2,three point jumper,True,24,False,False
+2010-04-09,11.0,Cleveland Cavaliers,Indiana Pacers,1,23-23,-3,three point jumper,True,24,False,False
+2010-04-09,12.0,Cleveland Cavaliers,Indiana Pacers,1,26-25,-4,three point jumper,True,55,False,False
+2011-04-12,11.9833333333,San Antonio Spurs,Los Angeles Lakers,1,15-24,-12,three point jumper,False,23,False,True
+2011-04-12,12.3833333333,San Antonio Spurs,Los Angeles Lakers,2,17-24,-9,two point shot,False,20,True,True
+2011-04-12,13.3,San Antonio Spurs,Los Angeles Lakers,2,19-24,-7,two point shot,False,5,False,True
+2011-04-12,33.45,San Antonio Spurs,Los Angeles Lakers,3,60-66,-9,three point jumper,False,24,False,True
+2011-04-12,35.2833333333,San Antonio Spurs,Los Angeles Lakers,3,62-68,-8,two point shot,False,11,True,True
+2011-04-12,37.65,San Antonio Spurs,Los Angeles Lakers,4,69-72,-5,two point jumper,False,14,False,True
+2011-04-12,38.2,San Antonio Spurs,Los Angeles Lakers,4,69-74,-8,three point jumper,False,27,False,True
+2011-04-12,40.5333333333,San Antonio Spurs,Los Angeles Lakers,4,78-76,0,two point jumper,False,8,True,True
+2011-04-12,44.8166666667,San Antonio Spurs,Los Angeles Lakers,4,88-93,-8,three point jumper,False,26,False,True
+2011-04-12,47.0,San Antonio Spurs,Los Angeles Lakers,4,88-102,-17,three point jumper,False,26,False,True
+2011-04-13,9.65,San Antonio Spurs,Phoenix Suns,1,20-35,-17,two point jumper,False,22,True,False
+2011-04-13,10.7666666667,San Antonio Spurs,Phoenix Suns,1,25-37,-15,three point jumper,False,24,True,False
+2011-04-13,13.05,San Antonio Spurs,Phoenix Suns,2,30-45,-18,three point jumper,False,25,True,False
+2011-04-13,15.45,San Antonio Spurs,Phoenix Suns,2,34-52,-21,three point jumper,False,25,False,False
+2011-04-13,33.2666666667,San Antonio Spurs,Phoenix Suns,3,70-79,-12,three point jumper,False,25,True,False
+2011-04-13,42.5,San Antonio Spurs,Phoenix Suns,4,88-94,-9,three point jumper,False,23,False,False
+2011-04-13,42.9833333333,San Antonio Spurs,Phoenix Suns,4,89-94,-7,two point jumper,False,15,False,False
+2011-04-13,43.0333333333,San Antonio Spurs,Phoenix Suns,4,91-94,-5,two point jumper,False,7,True,False
+2011-04-13,47.2666666667,San Antonio Spurs,Phoenix Suns,4,97-102,-8,three point jumper,False,23,False,False
+2011-04-06,9.01666666667,San Antonio Spurs,Sacramento Kings,1,15-19,1,three point jumper,True,23,False,False
+2011-04-06,11.2833333333,San Antonio Spurs,Sacramento Kings,1,20-23,1,two point jumper,True,20,True,False
+2011-04-06,42.0666666667,San Antonio Spurs,Sacramento Kings,4,84-108,22,two point jumper,True,6,True,False
+2011-04-06,42.3833333333,San Antonio Spurs,Sacramento Kings,4,85-108,21,tip shot,True,0,False,False
+2011-04-06,46.1333333333,San Antonio Spurs,Sacramento Kings,4,90-118,26,two point shot,True,23,False,False
+2011-04-06,47.0833333333,San Antonio Spurs,Sacramento Kings,4,92-121,27,layup,True,0,True,False
+2011-04-06,47.4833333333,San Antonio Spurs,Sacramento Kings,4,92-124,29,three point jumper,True,24,True,False
+2011-11-20,11.05,San Antonio Spurs,Cleveland Cavaliers,1,25-26,-2,three point jumper,True,24,True,False
+2011-11-20,42.45,San Antonio Spurs,Cleveland Cavaliers,4,83-108,22,three point jumper,True,25,True,False
+2011-11-20,43.1666666667,San Antonio Spurs,Cleveland Cavaliers,4,85-108,20,three point jumper,True,24,False,False
+2011-11-20,43.8833333333,San Antonio Spurs,Cleveland Cavaliers,4,85-108,20,three point jumper,True,25,False,False
+2011-03-19,45.7,San Antonio Spurs,Charlotte Bobcats,4,90-104,11,three point jumper,True,23,False,False
+2011-03-28,14.3833333333,San Antonio Spurs,Portland Trail Blazers,2,35-29,-8,dunk,True,0,True,True
+2011-03-28,33.8666666667,San Antonio Spurs,Portland Trail Blazers,3,67-68,-2,three point jumper,True,24,True,True
+2011-03-28,34.0833333333,San Antonio Spurs,Portland Trail Blazers,3,67-70,1,dunk,True,0,True,True
+2012-04-04,0.0666666666667,San Antonio Spurs,Boston Celtics,1,2-0,0,layup,False,0,True,True
+2012-04-04,1.81666666667,San Antonio Spurs,Boston Celtics,1,4-6,-5,three point jumper,False,24,False,True
+2012-04-04,3.45,San Antonio Spurs,Boston Celtics,1,7-10,-5,layup,False,0,True,True
+2012-04-04,15.2,San Antonio Spurs,Boston Celtics,2,38-36,0,layup,False,0,True,True
+2012-04-04,18.0333333333,San Antonio Spurs,Boston Celtics,2,48-38,7,three point jumper,False,25,False,True
+2012-04-04,22.5,San Antonio Spurs,Boston Celtics,2,56-46,8,two point shot,False,6,False,True
+2012-04-04,22.8333333333,San Antonio Spurs,Boston Celtics,2,59-46,10,three point jumper,False,23,True,True
+2012-04-04,25.25,San Antonio Spurs,Boston Celtics,3,59-50,6,three point jumper,False,27,False,True
+2012-04-04,25.5666666667,San Antonio Spurs,Boston Celtics,3,61-50,9,two point jumper,False,18,True,True
+2012-04-04,27.8166666667,San Antonio Spurs,Boston Celtics,3,63-50,11,layup,False,0,False,True
+2012-04-04,38.8833333333,San Antonio Spurs,Boston Celtics,4,75-68,4,three point jumper,False,27,True,True
+2012-04-04,42.3833333333,San Antonio Spurs,Boston Celtics,4,77-76,-1,layup,False,0,False,True
+2012-04-04,47.7333333333,San Antonio Spurs,Boston Celtics,4,87-86,-2,three point jumper,False,25,False,True
+2012-02-11,3.45,San Antonio Spurs,Brooklyn Nets,1,8-3,2,three point jumper,False,23,False,False
+2012-02-11,15.5833333333,San Antonio Spurs,Brooklyn Nets,2,31-24,4,three point jumper,False,26,True,False
+2012-02-11,18.3166666667,San Antonio Spurs,Brooklyn Nets,2,38-28,7,three point jumper,False,26,True,False
+2012-02-11,27.4,San Antonio Spurs,Brooklyn Nets,3,59-46,11,layup,False,0,True,False
+2012-02-11,28.3833333333,San Antonio Spurs,Brooklyn Nets,3,59-48,9,layup,False,0,False,False
+2012-02-11,32.2833333333,San Antonio Spurs,Brooklyn Nets,3,67-58,6,three point jumper,False,22,False,False
+2012-02-11,32.9333333333,San Antonio Spurs,Brooklyn Nets,3,69-58,9,two point jumper,False,18,True,False
+2012-03-07,32.4666666667,San Antonio Spurs,New York Knicks,3,61-74,10,three point jumper,True,25,False,True
+2012-03-07,33.4833333333,San Antonio Spurs,New York Knicks,3,63-81,15,three point jumper,True,23,True,True
+2012-03-07,37.95,San Antonio Spurs,New York Knicks,4,77-101,21,three point jumper,True,24,True,True
+2012-03-07,41.45,San Antonio Spurs,New York Knicks,4,86-103,15,two point jumper,True,1,False,True
+2012-03-07,42.8833333333,San Antonio Spurs,New York Knicks,4,91-107,14,layup,True,0,True,True
+2012-02-08,4.41666666667,San Antonio Spurs,Philadelphia 76ers,1,7-6,-2,three point jumper,False,24,False,False
+2012-02-08,22.2666666667,San Antonio Spurs,Philadelphia 76ers,2,42-42,-3,three point jumper,False,23,False,False
+2012-02-08,37.3166666667,San Antonio Spurs,Philadelphia 76ers,4,79-69,7,three point jumper,False,23,False,False
+2012-02-08,39.45,San Antonio Spurs,Philadelphia 76ers,4,83-73,7,three point jumper,False,24,False,False
+2012-03-25,2.15,San Antonio Spurs,Philadelphia 76ers,1,4-6,0,two point jumper,True,8,False,True
+2012-03-25,14.4333333333,San Antonio Spurs,Philadelphia 76ers,2,28-29,-1,two point jumper,True,19,False,True
+2012-03-25,18.2833333333,San Antonio Spurs,Philadelphia 76ers,2,36-36,-3,three point jumper,True,25,True,True
+2012-03-25,27.5,San Antonio Spurs,Philadelphia 76ers,3,53-57,3,free throw,True,15,True,True
+2012-03-25,27.5,San Antonio Spurs,Philadelphia 76ers,3,53-57,3,free throw,True,15,False,True
+2012-03-25,29.9166666667,San Antonio Spurs,Philadelphia 76ers,3,57-66,6,three point jumper,True,25,True,True
+2012-03-25,30.35,San Antonio Spurs,Philadelphia 76ers,3,57-66,6,three point jumper,True,26,False,True
+2012-03-25,46.0,San Antonio Spurs,Philadelphia 76ers,4,76-90,11,three point jumper,True,25,False,True
+2012-03-25,47.0,San Antonio Spurs,Philadelphia 76ers,4,76-93,14,three point jumper,True,25,True,True
+2012-02-15,1.2,San Antonio Spurs,Toronto Raptors,1,1-0,0,free throw,False,15,True,True
+2012-02-15,1.2,San Antonio Spurs,Toronto Raptors,1,2-0,1,free throw,False,15,True,True
+2012-02-15,2.96666666667,San Antonio Spurs,Toronto Raptors,1,8-0,5,three point jumper,False,23,True,True
+2012-02-15,17.9833333333,San Antonio Spurs,Toronto Raptors,2,42-32,7,three point jumper,False,25,True,True
+2012-02-15,22.85,San Antonio Spurs,Toronto Raptors,2,52-42,8,two point shot,False,21,True,True
+2012-02-15,23.85,San Antonio Spurs,Toronto Raptors,2,55-45,7,three point jumper,False,24,True,True
+2012-02-15,25.5166666667,San Antonio Spurs,Toronto Raptors,3,59-49,7,three point jumper,False,23,False,True
+2012-02-15,28.5333333333,San Antonio Spurs,Toronto Raptors,3,64-60,1,three point jumper,False,26,False,True
+2012-01-04,33.4333333333,San Antonio Spurs,Golden State Warriors,3,67-63,-5,free throw,True,15,False,False
+2012-01-04,33.4333333333,San Antonio Spurs,Golden State Warriors,3,67-64,-4,free throw,True,15,True,False
+2012-01-04,35.0,San Antonio Spurs,Golden State Warriors,3,71-70,-4,three point jumper,True,23,True,False
+2012-01-04,41.9166666667,San Antonio Spurs,Golden State Warriors,4,88-84,-6,two point jumper,True,20,True,False
+2012-01-04,42.6333333333,San Antonio Spurs,Golden State Warriors,4,88-86,-4,two point shot,True,1,True,False
+2012-01-04,46.2166666667,San Antonio Spurs,Golden State Warriors,4,90-95,2,three point jumper,True,23,False,False
+2012-04-16,0.65,San Antonio Spurs,Golden State Warriors,1,0-3,-6,three point jumper,False,23,False,False
+2012-04-16,1.63333333333,San Antonio Spurs,Golden State Warriors,1,4-5,-3,two point shot,False,16,True,False
+2012-04-16,4.23333333333,San Antonio Spurs,Golden State Warriors,1,11-5,3,three point jumper,False,27,False,False
+2012-04-16,5.23333333333,San Antonio Spurs,Golden State Warriors,1,13-5,6,two point jumper,False,18,False,False
+2012-04-16,16.9166666667,San Antonio Spurs,Golden State Warriors,2,51-35,14,two point jumper,False,17,False,False
+2012-04-16,17.35,San Antonio Spurs,Golden State Warriors,2,51-38,10,three point jumper,False,26,False,False
+2012-04-16,18.0333333333,San Antonio Spurs,Golden State Warriors,2,54-40,11,three point jumper,False,23,True,False
+2012-04-16,21.3166666667,San Antonio Spurs,Golden State Warriors,2,64-47,14,three point jumper,False,24,True,False
+2012-04-16,25.1166666667,San Antonio Spurs,Golden State Warriors,3,71-51,17,three point jumper,False,27,False,False
+2012-04-16,27.3166666667,San Antonio Spurs,Golden State Warriors,3,71-55,14,two point shot,False,8,False,False
+2012-04-16,27.9,San Antonio Spurs,Golden State Warriors,3,77-55,19,three point jumper,False,23,True,False
+2012-04-26,4.88333333333,San Antonio Spurs,Golden State Warriors,1,18-12,3,three point jumper,False,25,True,True
+2012-04-26,6.13333333333,San Antonio Spurs,Golden State Warriors,1,23-14,6,three point jumper,False,28,True,True
+2012-04-26,7.48333333333,San Antonio Spurs,Golden State Warriors,1,23-19,1,three point jumper,False,26,False,True
+2012-12-28,45.9833333333,San Antonio Spurs,Los Angeles Clippers,4,86-111,23,layup,True,0,False,False
+2012-02-18,3.25,San Antonio Spurs,Los Angeles Clippers,1,0-8,-11,three point jumper,False,26,False,True
+2012-02-18,18.4833333333,San Antonio Spurs,Los Angeles Clippers,2,30-38,-10,two point shot,False,4,True,True
+2012-02-18,22.0333333333,San Antonio Spurs,Los Angeles Clippers,2,39-42,-6,three point jumper,False,22,True,True
+2012-02-18,25.8833333333,San Antonio Spurs,Los Angeles Clippers,3,53-45,5,three point jumper,False,23,True,True
+2012-02-18,27.5666666667,San Antonio Spurs,Los Angeles Clippers,3,61-48,10,three point jumper,False,24,True,True
+2012-02-18,29.7333333333,San Antonio Spurs,Los Angeles Clippers,3,65-50,13,two point jumper,False,1,False,True
+2012-02-18,33.0,San Antonio Spurs,Los Angeles Clippers,3,65-60,3,layup,False,0,False,True
+2012-03-09,1.8,San Antonio Spurs,Los Angeles Clippers,1,3-5,0,two point jumper,True,1,True,False
+2012-03-09,15.9333333333,San Antonio Spurs,Los Angeles Clippers,2,45-39,-8,two point jumper,True,15,False,False
+2012-03-09,20.2,San Antonio Spurs,Los Angeles Clippers,2,57-49,-11,three point jumper,True,23,True,False
+2012-03-09,21.7666666667,San Antonio Spurs,Los Angeles Clippers,2,64-51,-16,three point jumper,True,24,False,False
+2012-03-09,27.45,San Antonio Spurs,Los Angeles Clippers,3,70-66,-7,three point jumper,True,25,True,False
+2012-03-09,29.2333333333,San Antonio Spurs,Los Angeles Clippers,3,74-68,-8,two point jumper,True,7,False,False
+2012-03-09,31.2166666667,San Antonio Spurs,Los Angeles Clippers,3,74-75,-2,three point jumper,True,26,True,False
+2012-03-09,36.6166666667,San Antonio Spurs,Los Angeles Clippers,4,94-92,-4,two point shot,True,9,True,False
+2012-03-09,38.3,San Antonio Spurs,Los Angeles Clippers,4,96-94,-5,three point jumper,True,25,False,False
+2012-03-09,43.0666666667,San Antonio Spurs,Los Angeles Clippers,4,103-103,-2,layup,True,0,False,False
+2012-03-09,44.8166666667,San Antonio Spurs,Los Angeles Clippers,4,111-105,-8,layup,True,0,False,False
+2012-03-09,46.9,San Antonio Spurs,Los Angeles Clippers,4,116-105,-14,three point jumper,True,23,False,False
+2012-03-09,47.35,San Antonio Spurs,Los Angeles Clippers,4,118-108,-13,three point jumper,True,25,True,False
+2012-04-11,0.266666666667,San Antonio Spurs,Los Angeles Lakers,1,0-0,-2,two point shot,True,22,False,False
+2012-04-11,3.15,San Antonio Spurs,Los Angeles Lakers,1,5-4,-3,two point shot,True,1,True,False
+2012-04-11,3.15,San Antonio Spurs,Los Angeles Lakers,1,5-5,-1,free throw,True,15,True,False
+2012-04-11,4.41666666667,San Antonio Spurs,Los Angeles Lakers,1,5-10,2,three point jumper,True,24,True,False
+2012-04-11,16.9833333333,San Antonio Spurs,Los Angeles Lakers,2,37-31,-8,two point jumper,True,19,False,False
+2012-04-11,17.5,San Antonio Spurs,Los Angeles Lakers,2,37-31,-9,three point jumper,True,24,False,False
+2012-04-11,28.7833333333,San Antonio Spurs,Los Angeles Lakers,3,58-48,-11,free throw,True,15,True,False
+2012-04-11,28.7833333333,San Antonio Spurs,Los Angeles Lakers,3,58-49,-10,free throw,True,15,True,False
+2012-04-11,40.8166666667,San Antonio Spurs,Los Angeles Lakers,4,89-66,-26,three point jumper,True,24,True,False
+2012-04-11,41.3833333333,San Antonio Spurs,Los Angeles Lakers,4,89-69,-23,three point jumper,True,23,True,False
+2012-04-11,45.0833333333,San Antonio Spurs,Los Angeles Lakers,4,90-77,-16,three point jumper,True,25,True,False
+2012-04-11,45.5833333333,San Antonio Spurs,Los Angeles Lakers,4,90-79,-13,two point shot,True,19,True,False
+2012-04-11,47.2833333333,San Antonio Spurs,Los Angeles Lakers,4,98-82,-19,three point jumper,True,24,True,False
+2012-04-17,4.7,San Antonio Spurs,Los Angeles Lakers,1,8-10,-4,dunk,False,0,True,False
+2012-04-17,17.6666666667,San Antonio Spurs,Los Angeles Lakers,2,37-37,-3,three point jumper,False,25,False,False
+2012-04-17,19.6333333333,San Antonio Spurs,Los Angeles Lakers,2,46-41,2,three point jumper,False,25,True,False
+2012-04-17,20.0166666667,San Antonio Spurs,Los Angeles Lakers,2,49-41,5,three point jumper,False,24,True,False
+2012-04-17,44.95,San Antonio Spurs,Los Angeles Lakers,4,108-85,20,three point jumper,False,23,True,False
+2012-04-20,1.7,San Antonio Spurs,Los Angeles Lakers,1,3-4,-1,two point jumper,True,1,True,False
+2012-04-20,15.75,San Antonio Spurs,Los Angeles Lakers,2,35-34,-3,two point jumper,True,20,False,False
+2012-04-20,24.6833333333,San Antonio Spurs,Los Angeles Lakers,3,54-56,0,two point jumper,True,19,False,False
+2012-04-20,25.75,San Antonio Spurs,Los Angeles Lakers,3,54-61,5,layup,True,0,True,False
+2012-04-20,25.75,San Antonio Spurs,Los Angeles Lakers,3,54-62,7,free throw,True,15,True,False
+2012-04-20,45.1833333333,San Antonio Spurs,Los Angeles Lakers,4,90-111,19,two point shot,True,17,False,False
+2012-04-20,46.2166666667,San Antonio Spurs,Los Angeles Lakers,4,90-116,23,three point jumper,True,24,True,False
+2012-01-15,9.86666666667,San Antonio Spurs,Phoenix Suns,1,17-24,4,three point jumper,True,24,False,False
+2012-01-15,11.2833333333,San Antonio Spurs,Phoenix Suns,1,22-28,4,two point shot,True,6,True,False
+2012-01-15,11.95,San Antonio Spurs,Phoenix Suns,1,26-29,2,free throw,True,15,True,False
+2012-01-15,11.95,San Antonio Spurs,Phoenix Suns,1,26-30,3,free throw,True,15,True,False
+2012-01-15,17.4166666667,San Antonio Spurs,Phoenix Suns,2,30-38,6,two point jumper,True,15,False,False
+2012-01-15,36.95,San Antonio Spurs,Phoenix Suns,4,70-81,8,three point jumper,True,24,True,False
+2012-01-15,41.7833333333,San Antonio Spurs,Phoenix Suns,4,82-90,5,three point jumper,True,24,False,False
+2012-03-27,2.5,San Antonio Spurs,Phoenix Suns,1,4-4,-3,three point jumper,False,24,False,True
+2012-03-27,12.8833333333,San Antonio Spurs,Phoenix Suns,2,31-28,0,three point jumper,False,24,False,True
+2012-03-27,14.15,San Antonio Spurs,Phoenix Suns,2,36-31,2,three point jumper,False,24,False,True
+2012-03-27,14.7,San Antonio Spurs,Phoenix Suns,2,36-32,1,three point jumper,False,23,False,True
+2012-03-27,16.8166666667,San Antonio Spurs,Phoenix Suns,2,42-38,3,free throw,False,15,False,True
+2012-03-27,16.8166666667,San Antonio Spurs,Phoenix Suns,2,43-38,4,free throw,False,15,True,True
+2012-03-27,25.0166666667,San Antonio Spurs,Phoenix Suns,3,62-57,2,three point jumper,False,25,False,True
+2012-03-27,45.4833333333,San Antonio Spurs,Phoenix Suns,4,103-94,7,two point jumper,False,19,False,True
+2012-04-14,3.61666666667,San Antonio Spurs,Phoenix Suns,1,4-14,7,three point jumper,True,24,True,False
+2012-04-14,4.81666666667,San Antonio Spurs,Phoenix Suns,1,4-18,11,three point jumper,True,23,False,False
+2012-04-14,20.7833333333,San Antonio Spurs,Phoenix Suns,2,32-58,23,three point jumper,True,25,False,False
+2012-04-25,0.833333333333,San Antonio Spurs,Phoenix Suns,1,2-0,0,two point jumper,False,19,False,True
+2012-04-25,4.66666666667,San Antonio Spurs,Phoenix Suns,1,8-9,-3,two point jumper,False,1,True,True
+2012-04-25,5.1,San Antonio Spurs,Phoenix Suns,1,11-9,-1,three point jumper,False,24,True,True
+2012-04-25,6.21666666667,San Antonio Spurs,Phoenix Suns,1,15-13,0,tip shot,False,0,False,True
+2012-04-25,6.25,San Antonio Spurs,Phoenix Suns,1,15-11,2,layup,False,0,True,True
+2012-04-25,24.25,San Antonio Spurs,Phoenix Suns,3,60-53,5,two point jumper,False,1,True,True
+2012-04-25,25.3833333333,San Antonio Spurs,Phoenix Suns,3,60-57,0,three point jumper,False,25,False,True
+2012-04-25,28.8166666667,San Antonio Spurs,Phoenix Suns,3,65-65,-2,two point jumper,False,16,False,True
+2012-04-25,31.7333333333,San Antonio Spurs,Phoenix Suns,3,70-74,-7,three point jumper,False,25,False,True
+2012-01-20,7.66666666667,San Antonio Spurs,Sacramento Kings,1,19-13,-8,dunk,True,0,True,False
+2012-01-20,9.23333333333,San Antonio Spurs,Sacramento Kings,1,21-18,-5,layup,True,0,True,False
+2012-01-20,10.2166666667,San Antonio Spurs,Sacramento Kings,1,25-18,-9,two point shot,True,4,False,False
+2012-01-20,13.3833333333,San Antonio Spurs,Sacramento Kings,2,34-25,-11,two point jumper,True,14,True,False
+2012-01-20,32.2333333333,San Antonio Spurs,Sacramento Kings,3,63-58,-8,three point jumper,True,23,False,False
+2012-01-20,32.7833333333,San Antonio Spurs,Sacramento Kings,3,65-58,-10,three point jumper,True,25,False,False
+2012-01-20,34.4833333333,San Antonio Spurs,Sacramento Kings,3,70-63,-9,two point shot,True,1,False,False
+2012-01-20,36.3333333333,San Antonio Spurs,Sacramento Kings,4,73-69,-6,layup,True,0,True,False
+2012-01-20,45.0,San Antonio Spurs,Sacramento Kings,4,80-84,1,three point jumper,True,24,False,False
+2012-01-20,46.3333333333,San Antonio Spurs,Sacramento Kings,4,84-86,-1,three point jumper,True,25,False,False
+2012-01-20,47.9833333333,San Antonio Spurs,Sacramento Kings,4,88-86,-4,two point jumper,True,4,False,False
+2012-03-28,3.2,San Antonio Spurs,Sacramento Kings,1,8-4,2,two point shot,False,7,True,True
+2012-03-28,5.81666666667,San Antonio Spurs,Sacramento Kings,1,11-8,0,three point jumper,False,24,True,True
+2012-03-28,14.9,San Antonio Spurs,Sacramento Kings,2,34-29,3,two point jumper,False,13,False,True
+2012-03-28,16.2833333333,San Antonio Spurs,Sacramento Kings,2,37-31,4,layup,False,0,True,True
+2012-03-28,16.2833333333,San Antonio Spurs,Sacramento Kings,2,37-31,5,free throw,False,15,False,True
+2012-03-28,19.1666666667,San Antonio Spurs,Sacramento Kings,2,41-38,0,three point jumper,False,24,False,True
+2012-04-18,0.7,San Antonio Spurs,Sacramento Kings,1,0-2,-5,three point jumper,False,23,False,True
+2012-04-18,2.76666666667,San Antonio Spurs,Sacramento Kings,1,5-6,-4,three point jumper,False,23,True,True
+2012-04-18,16.85,San Antonio Spurs,Sacramento Kings,2,41-40,-1,two point jumper,False,13,False,True
+2012-04-18,18.2166666667,San Antonio Spurs,Sacramento Kings,2,43-45,-4,layup,False,0,True,True
+2012-04-18,18.2166666667,San Antonio Spurs,Sacramento Kings,2,44-45,-2,free throw,False,15,True,True
+2012-04-18,24.3,San Antonio Spurs,Sacramento Kings,3,60-57,1,two point shot,False,4,True,True
+2012-04-18,28.45,San Antonio Spurs,Sacramento Kings,3,73-63,7,three point jumper,False,25,True,True
+2012-02-28,3.81666666667,San Antonio Spurs,Chicago Bulls,1,4-12,5,three point jumper,True,23,True,False
+2012-02-28,4.7,San Antonio Spurs,Chicago Bulls,1,6-14,6,layup,True,0,False,False
+2012-02-28,16.85,San Antonio Spurs,Chicago Bulls,2,32-29,-6,three point jumper,True,25,False,False
+2012-02-28,21.65,San Antonio Spurs,Chicago Bulls,2,36-36,-3,three point jumper,True,24,True,False
+2012-02-28,24.0,San Antonio Spurs,Chicago Bulls,2,44-38,-9,three point jumper,True,39,False,False
+2012-02-28,29.0666666667,San Antonio Spurs,Chicago Bulls,3,50-46,-7,three point jumper,True,26,False,False
+2012-02-28,33.8333333333,San Antonio Spurs,Chicago Bulls,3,55-60,3,two point jumper,True,16,True,False
+2012-04-03,1.08333333333,San Antonio Spurs,Cleveland Cavaliers,1,2-0,0,two point jumper,False,1,False,False
+2012-04-03,3.26666666667,San Antonio Spurs,Cleveland Cavaliers,1,7-7,-3,three point jumper,False,26,True,False
+2012-04-03,4.25,San Antonio Spurs,Cleveland Cavaliers,1,10-9,-2,three point jumper,False,25,True,False
+2012-04-03,4.85,San Antonio Spurs,Cleveland Cavaliers,1,10-11,-4,three point jumper,False,25,False,False
+2012-04-03,16.6666666667,San Antonio Spurs,Cleveland Cavaliers,2,41-29,9,three point jumper,False,22,True,False
+2012-04-03,18.1333333333,San Antonio Spurs,Cleveland Cavaliers,2,46-31,13,layup,False,0,True,False
+2012-04-03,18.8166666667,San Antonio Spurs,Cleveland Cavaliers,2,49-31,15,three point jumper,False,23,True,False
+2012-04-03,23.3333333333,San Antonio Spurs,Cleveland Cavaliers,2,58-41,15,layup,False,0,True,False
+2012-04-03,28.7,San Antonio Spurs,Cleveland Cavaliers,3,68-50,16,layup,False,0,True,False
+2012-04-03,39.8166666667,San Antonio Spurs,Cleveland Cavaliers,4,101-68,32,free throw,False,15,False,False
+2012-04-03,39.8166666667,San Antonio Spurs,Cleveland Cavaliers,4,102-68,33,free throw,False,15,True,False
+2012-04-03,41.25,San Antonio Spurs,Cleveland Cavaliers,4,104-73,28,three point jumper,False,26,False,False
+2012-04-22,0.883333333333,San Antonio Spurs,Cleveland Cavaliers,1,2-5,0,three point jumper,True,26,True,False
+2012-04-22,1.71666666667,San Antonio Spurs,Cleveland Cavaliers,1,5-5,-3,three point jumper,True,24,False,False
+2012-04-22,14.45,San Antonio Spurs,Cleveland Cavaliers,2,24-36,9,three point jumper,True,24,True,False
+2012-04-22,15.9333333333,San Antonio Spurs,Cleveland Cavaliers,2,24-38,12,layup,True,0,True,False
+2012-04-22,17.1666666667,San Antonio Spurs,Cleveland Cavaliers,2,24-38,11,three point jumper,True,23,False,False
+2012-04-22,17.7,San Antonio Spurs,Cleveland Cavaliers,2,27-40,11,layup,True,0,True,False
+2012-04-22,18.4166666667,San Antonio Spurs,Cleveland Cavaliers,2,27-40,12,free throw,True,15,False,False
+2012-04-22,18.4166666667,San Antonio Spurs,Cleveland Cavaliers,2,27-41,13,free throw,True,15,True,False
+2012-04-22,27.8833333333,San Antonio Spurs,Cleveland Cavaliers,3,50-65,12,three point jumper,True,26,True,False
+2012-02-14,0.2,San Antonio Spurs,Detroit Pistons,1,0-0,-2,two point jumper,False,14,False,True
+2012-02-14,2.26666666667,San Antonio Spurs,Detroit Pistons,1,2-2,-3,three point jumper,False,27,False,True
+2012-02-14,2.93333333333,San Antonio Spurs,Detroit Pistons,1,5-4,0,free throw,False,15,True,True
+2012-02-14,2.93333333333,San Antonio Spurs,Detroit Pistons,1,6-4,1,free throw,False,15,True,True
+2012-02-14,37.2666666667,San Antonio Spurs,Detroit Pistons,4,79-64,13,two point jumper,False,21,True,True
+2012-03-31,0.366666666667,San Antonio Spurs,Indiana Pacers,1,0-0,-3,three point jumper,True,23,False,True
+2012-03-31,0.8,San Antonio Spurs,Indiana Pacers,1,0-3,0,three point jumper,True,24,True,True
+2012-03-31,1.21666666667,San Antonio Spurs,Indiana Pacers,1,0-4,3,free throw,True,15,True,True
+2012-03-31,1.21666666667,San Antonio Spurs,Indiana Pacers,1,0-4,3,free throw,True,15,False,True
+2012-03-31,15.4666666667,San Antonio Spurs,Indiana Pacers,2,28-40,9,three point jumper,True,24,True,True
+2012-03-31,16.5666666667,San Antonio Spurs,Indiana Pacers,2,31-40,7,two point jumper,True,17,False,True
+2012-03-31,24.7166666667,San Antonio Spurs,Indiana Pacers,3,51-64,11,two point jumper,True,19,False,True
+2012-01-10,11.0,San Antonio Spurs,Milwaukee Bucks,1,27-20,6,free throw,False,15,False,False
+2012-01-10,11.0,San Antonio Spurs,Milwaukee Bucks,1,28-20,7,free throw,False,15,True,False
+2012-01-10,11.5,San Antonio Spurs,Milwaukee Bucks,1,30-22,7,free throw,False,15,False,False
+2012-01-10,11.5,San Antonio Spurs,Milwaukee Bucks,1,31-22,8,free throw,False,15,True,False
+2012-01-10,13.45,San Antonio Spurs,Milwaukee Bucks,2,35-27,6,two point jumper,False,19,False,False
+2012-01-05,8.01666666667,San Antonio Spurs,Dallas Mavericks,1,11-26,12,three point jumper,True,25,False,True
+2012-01-05,23.3833333333,San Antonio Spurs,Dallas Mavericks,2,29-54,22,three point jumper,True,24,True,True
+2012-01-05,32.9833333333,San Antonio Spurs,Dallas Mavericks,3,37-61,21,three point jumper,True,23,False,True
+2012-01-05,33.9333333333,San Antonio Spurs,Dallas Mavericks,3,40-61,19,tip shot,True,0,False,True
+2012-01-05,34.6166666667,San Antonio Spurs,Dallas Mavericks,3,42-61,17,tip shot,True,0,False,True
+2012-01-05,35.4833333333,San Antonio Spurs,Dallas Mavericks,3,42-64,19,three point jumper,True,25,False,True
+2012-01-05,37.5666666667,San Antonio Spurs,Dallas Mavericks,4,46-68,20,layup,True,0,False,True
+2012-01-05,47.1833333333,San Antonio Spurs,Dallas Mavericks,4,67-91,21,three point jumper,True,25,True,True
+2012-01-05,47.8166666667,San Antonio Spurs,Dallas Mavericks,4,69-93,22,layup,True,0,True,True
+2012-01-29,11.6333333333,San Antonio Spurs,Dallas Mavericks,1,18-24,-9,three point jumper,False,23,False,False
+2012-01-29,15.2666666667,San Antonio Spurs,Dallas Mavericks,2,22-32,-12,two point shot,False,6,True,False
+2012-01-29,16.3833333333,San Antonio Spurs,Dallas Mavericks,2,23-34,-14,three point jumper,False,25,False,False
+2012-01-29,35.2666666667,San Antonio Spurs,Dallas Mavericks,3,56-69,-15,layup,False,0,False,False
+2012-01-29,35.6333333333,San Antonio Spurs,Dallas Mavericks,3,56-69,-15,two point shot,False,3,False,False
+2012-01-29,37.3833333333,San Antonio Spurs,Dallas Mavericks,4,64-69,-8,three point jumper,False,24,True,False
+2012-01-29,38.0,San Antonio Spurs,Dallas Mavericks,4,66-71,-7,layup,False,0,True,False
+2012-01-29,39.05,San Antonio Spurs,Dallas Mavericks,4,72-71,-2,three point jumper,False,24,True,False
+2012-01-29,20.8,San Antonio Spurs,Dallas Mavericks,5,98-95,1,layup,False,0,True,False
+2012-01-29,22.0833333333,San Antonio Spurs,Dallas Mavericks,5,100-101,-4,three point jumper,False,27,False,False
+2012-03-17,1.65,San Antonio Spurs,Dallas Mavericks,1,2-2,-2,two point shot,False,1,True,True
+2012-03-17,24.8833333333,San Antonio Spurs,Dallas Mavericks,3,47-48,-4,three point jumper,False,25,True,True
+2012-03-17,27.3,San Antonio Spurs,Dallas Mavericks,3,52-57,-8,three point jumper,False,25,False,True
+2012-03-17,30.5333333333,San Antonio Spurs,Dallas Mavericks,3,55-62,-8,free throw,False,15,True,True
+2012-03-17,30.5333333333,San Antonio Spurs,Dallas Mavericks,3,56-62,-7,free throw,False,15,True,True
+2012-03-17,40.9833333333,San Antonio Spurs,Dallas Mavericks,4,77-90,-15,two point shot,False,7,False,True
+2012-03-17,44.0166666667,San Antonio Spurs,Dallas Mavericks,4,86-94,-10,dunk,False,0,True,True
+2012-03-17,45.55,San Antonio Spurs,Dallas Mavericks,4,92-100,-11,three point jumper,False,24,True,True
+2012-03-17,46.15,San Antonio Spurs,Dallas Mavericks,4,94-100,-8,layup,False,0,True,True
+2012-03-17,47.4166666667,San Antonio Spurs,Dallas Mavericks,4,99-106,-10,three point jumper,False,25,True,True
+2012-03-23,0.75,San Antonio Spurs,Dallas Mavericks,1,0-2,0,two point shot,True,1,True,False
+2012-03-23,7.81666666667,San Antonio Spurs,Dallas Mavericks,1,11-14,1,layup,True,0,True,False
+2012-03-23,8.75,San Antonio Spurs,Dallas Mavericks,1,11-17,4,layup,True,0,True,False
+2012-03-23,9.48333333333,San Antonio Spurs,Dallas Mavericks,1,13-17,2,two point jumper,True,20,False,False
+2012-03-23,18.9833333333,San Antonio Spurs,Dallas Mavericks,2,36-46,8,two point jumper,True,1,True,False
+2012-03-23,19.7,San Antonio Spurs,Dallas Mavericks,2,36-46,8,two point jumper,True,15,False,False
+2012-03-23,20.45,San Antonio Spurs,Dallas Mavericks,2,39-46,4,three point jumper,True,24,False,False
+2012-03-23,21.8166666667,San Antonio Spurs,Dallas Mavericks,2,41-46,2,three point jumper,True,23,False,False
+2012-03-23,21.85,San Antonio Spurs,Dallas Mavericks,2,41-47,5,free throw,True,15,True,False
+2012-03-23,21.85,San Antonio Spurs,Dallas Mavericks,2,41-48,6,free throw,True,15,True,False
+2012-03-23,23.6,San Antonio Spurs,Dallas Mavericks,2,45-51,5,free throw,True,15,True,False
+2012-03-23,23.6,San Antonio Spurs,Dallas Mavericks,2,45-52,6,free throw,True,15,True,False
+2012-03-23,27.1333333333,San Antonio Spurs,Dallas Mavericks,3,50-54,1,three point jumper,True,24,False,False
+2012-03-23,27.5166666667,San Antonio Spurs,Dallas Mavericks,3,50-54,2,two point shot,True,6,False,False
+2012-03-23,33.7,San Antonio Spurs,Dallas Mavericks,3,63-64,-2,three point jumper,True,25,False,False
+2012-03-23,37.3166666667,San Antonio Spurs,Dallas Mavericks,4,65-77,10,two point shot,True,2,True,False
+2012-03-23,38.8833333333,San Antonio Spurs,Dallas Mavericks,4,65-80,13,layup,True,0,False,False
+2012-03-23,40.8833333333,San Antonio Spurs,Dallas Mavericks,4,71-85,12,two point jumper,True,10,True,False
+2012-03-23,41.45,San Antonio Spurs,Dallas Mavericks,4,73-87,12,layup,True,0,True,False
+2012-03-23,45.75,San Antonio Spurs,Dallas Mavericks,4,84-95,8,three point jumper,True,24,False,False
+2012-03-23,46.5166666667,San Antonio Spurs,Dallas Mavericks,4,84-98,12,layup,True,0,False,False
+2012-12-29,34.5166666667,San Antonio Spurs,Houston Rockets,3,59-76,-19,tip shot,False,0,False,True
+2012-12-29,34.5333333333,San Antonio Spurs,Houston Rockets,3,59-76,-19,tip shot,False,0,False,True
+2012-12-29,35.2,San Antonio Spurs,Houston Rockets,3,59-78,-22,three point jumper,False,23,False,True
+2012-12-29,37.0166666667,San Antonio Spurs,Houston Rockets,4,61-78,-19,layup,False,0,True,True
+2012-12-29,40.3833333333,San Antonio Spurs,Houston Rockets,4,63-86,-26,three point jumper,False,25,False,True
+2012-12-29,40.6,San Antonio Spurs,Houston Rockets,4,65-86,-23,tip shot,False,0,True,True
+2012-12-29,41.1,San Antonio Spurs,Houston Rockets,4,67-88,-23,layup,False,0,True,True
+2012-01-11,9.2,San Antonio Spurs,Houston Rockets,1,21-16,-8,three point jumper,True,23,False,False
+2012-01-11,9.4,San Antonio Spurs,Houston Rockets,1,21-19,-5,three point jumper,True,25,True,False
+2012-01-11,11.0833333333,San Antonio Spurs,Houston Rockets,1,25-23,-4,two point jumper,True,5,True,False
+2012-01-11,15.0,San Antonio Spurs,Houston Rockets,2,35-27,-11,three point jumper,True,24,False,False
+2012-01-11,40.4166666667,San Antonio Spurs,Houston Rockets,4,74-74,-3,three point jumper,True,25,False,False
+2012-01-11,48.0,San Antonio Spurs,Houston Rockets,4,90-90,-2,two point jumper,True,7,False,False
+2012-01-21,6.1,San Antonio Spurs,Houston Rockets,1,9-15,-8,layup,False,0,False,False
+2012-01-21,7.35,San Antonio Spurs,Houston Rockets,1,11-18,-10,three point jumper,False,25,False,False
+2012-01-21,8.31666666667,San Antonio Spurs,Houston Rockets,1,12-20,-9,free throw,False,15,True,False
+2012-01-21,8.31666666667,San Antonio Spurs,Houston Rockets,1,14-20,-8,two point shot,False,10,True,False
+2012-01-21,10.2166666667,San Antonio Spurs,Houston Rockets,1,16-24,-10,two point jumper,False,18,False,False
+2012-01-21,32.1833333333,San Antonio Spurs,Houston Rockets,3,65-68,-5,two point jumper,False,11,False,False
+2012-02-01,7.28333333333,San Antonio Spurs,Houston Rockets,1,22-9,-16,three point jumper,True,25,False,True
+2012-02-01,12.95,San Antonio Spurs,Houston Rockets,2,29-16,-15,two point shot,True,6,False,True
+2012-02-01,16.3166666667,San Antonio Spurs,Houston Rockets,2,37-21,-19,three point jumper,True,25,False,True
+2012-02-01,16.9833333333,San Antonio Spurs,Houston Rockets,2,39-21,-20,two point jumper,True,15,False,True
+2012-02-01,31.1666666667,San Antonio Spurs,Houston Rockets,3,66-52,-17,three point jumper,True,23,False,True
+2012-02-01,37.6833333333,San Antonio Spurs,Houston Rockets,4,73-71,-4,tip shot,True,0,True,True
+2012-02-01,40.9833333333,San Antonio Spurs,Houston Rockets,4,79-81,-1,three point jumper,True,25,True,True
+2012-02-01,43.45,San Antonio Spurs,Houston Rockets,4,85-87,0,layup,True,0,True,True
+2012-12-26,46.8833333333,San Antonio Spurs,Memphis Grizzlies,4,78-95,14,three point jumper,True,27,True,True
+2012-12-26,48.0,San Antonio Spurs,Memphis Grizzlies,4,82-95,11,two point jumper,True,1,False,True
+2012-01-30,10.9166666667,San Antonio Spurs,Memphis Grizzlies,1,21-17,1,three point jumper,False,25,True,True
+2012-01-30,13.8833333333,San Antonio Spurs,Memphis Grizzlies,2,28-19,7,layup,False,0,False,True
+2012-01-30,14.65,San Antonio Spurs,Memphis Grizzlies,2,31-21,8,two point shot,False,1,False,True
+2012-01-30,17.2833333333,San Antonio Spurs,Memphis Grizzlies,2,39-25,12,two point shot,False,1,True,True
+2012-01-30,20.9,San Antonio Spurs,Memphis Grizzlies,2,45-28,14,three point jumper,False,25,False,True
+2012-01-30,30.1333333333,San Antonio Spurs,Memphis Grizzlies,3,55-45,8,two point shot,False,13,False,True
+2012-01-30,35.3166666667,San Antonio Spurs,Memphis Grizzlies,3,67-48,18,free throw,False,15,False,True
+2012-01-30,35.8333333333,San Antonio Spurs,Memphis Grizzlies,3,68-48,19,free throw,False,15,True,True
+2012-01-30,35.8333333333,San Antonio Spurs,Memphis Grizzlies,3,68-48,19,free throw,False,15,False,True
+2012-01-30,35.8833333333,San Antonio Spurs,Memphis Grizzlies,3,69-48,20,free throw,False,15,True,True
+2012-01-30,35.8833333333,San Antonio Spurs,Memphis Grizzlies,3,70-48,21,free throw,False,15,True,True
+2012-01-30,41.5333333333,San Antonio Spurs,Memphis Grizzlies,4,81-61,17,three point jumper,False,24,True,True
+2012-01-30,42.0666666667,San Antonio Spurs,Memphis Grizzlies,4,81-62,16,three point jumper,False,24,False,True
+2012-01-30,43.0666666667,San Antonio Spurs,Memphis Grizzlies,4,81-62,17,two point shot,False,2,False,True
+2012-01-30,47.55,San Antonio Spurs,Memphis Grizzlies,4,83-71,9,three point jumper,False,26,False,True
+2012-02-06,21.7,San Antonio Spurs,Memphis Grizzlies,2,49-41,5,three point jumper,False,23,False,True
+2012-02-06,36.0,San Antonio Spurs,Memphis Grizzlies,3,67-73,-9,three point jumper,False,45,False,True
+2012-02-06,36.25,San Antonio Spurs,Memphis Grizzlies,4,67-73,-9,three point jumper,False,24,False,True
+2012-02-06,38.0,San Antonio Spurs,Memphis Grizzlies,4,69-73,-6,two point jumper,False,1,False,True
+2012-02-06,41.8166666667,San Antonio Spurs,Memphis Grizzlies,4,76-75,-1,two point shot,False,11,False,True
+2012-02-06,47.1833333333,San Antonio Spurs,Memphis Grizzlies,4,87-84,1,layup,False,0,False,True
+2012-02-06,47.8666666667,San Antonio Spurs,Memphis Grizzlies,4,88-84,3,free throw,False,15,True,True
+2012-02-06,47.8666666667,San Antonio Spurs,Memphis Grizzlies,4,89-84,4,free throw,False,15,True,True
+2012-04-12,5.16666666667,San Antonio Spurs,Memphis Grizzlies,1,8-10,-1,three point jumper,True,26,False,False
+2012-04-12,6.28333333333,San Antonio Spurs,Memphis Grizzlies,1,11-14,1,two point jumper,True,15,True,False
+2012-04-12,15.7666666667,San Antonio Spurs,Memphis Grizzlies,2,31-36,2,three point jumper,True,25,True,False
+2012-04-12,28.95,San Antonio Spurs,Memphis Grizzlies,3,59-57,-5,three point jumper,True,25,False,False
+2012-04-12,40.3166666667,San Antonio Spurs,Memphis Grizzlies,4,81-94,10,three point jumper,True,25,True,False
+2012-04-12,42.7333333333,San Antonio Spurs,Memphis Grizzlies,4,85-94,7,two point shot,True,2,False,False
+2012-04-12,43.8833333333,San Antonio Spurs,Memphis Grizzlies,4,87-94,5,layup,True,0,False,False
+2012-04-12,45.5333333333,San Antonio Spurs,Memphis Grizzlies,4,92-94,0,two point shot,True,4,False,False
+2012-04-12,45.55,San Antonio Spurs,Memphis Grizzlies,4,92-95,2,free throw,True,15,True,False
+2012-04-12,45.55,San Antonio Spurs,Memphis Grizzlies,4,92-96,3,free throw,True,15,True,False
+2012-04-12,45.8166666667,San Antonio Spurs,Memphis Grizzlies,4,92-96,1,three point jumper,True,26,False,False
+2012-01-23,8.78333333333,San Antonio Spurs,New Orleans Pelicans,1,21-24,-5,two point shot,False,11,True,True
+2012-01-23,8.78333333333,San Antonio Spurs,New Orleans Pelicans,1,22-24,-3,free throw,False,15,True,True
+2012-01-23,13.1333333333,San Antonio Spurs,New Orleans Pelicans,2,32-28,2,two point jumper,False,7,False,True
+2012-01-23,36.95,San Antonio Spurs,New Orleans Pelicans,4,84-80,2,layup,False,0,True,True
+2012-01-23,39.95,San Antonio Spurs,New Orleans Pelicans,4,86-85,-1,two point shot,False,17,True,True
+2012-01-23,42.9166666667,San Antonio Spurs,New Orleans Pelicans,4,90-90,-3,three point jumper,False,27,False,True
+2012-02-02,10.4166666667,San Antonio Spurs,New Orleans Pelicans,1,16-20,2,layup,True,0,True,True
+2012-02-02,10.4166666667,San Antonio Spurs,New Orleans Pelicans,1,16-20,3,free throw,True,15,False,True
+2012-02-02,11.0,San Antonio Spurs,New Orleans Pelicans,1,19-22,2,free throw,True,15,True,True
+2012-02-02,11.0,San Antonio Spurs,New Orleans Pelicans,1,19-23,3,free throw,True,15,True,True
+2012-02-02,11.9666666667,San Antonio Spurs,New Orleans Pelicans,1,22-23,-2,three point jumper,True,25,False,True
+2012-02-02,17.9166666667,San Antonio Spurs,New Orleans Pelicans,2,37-35,-5,three point jumper,True,24,False,True
+2012-02-02,24.0,San Antonio Spurs,New Orleans Pelicans,2,45-44,-4,three point jumper,True,75,False,True
+2012-02-02,32.3166666667,San Antonio Spurs,New Orleans Pelicans,3,58-59,-2,three point jumper,True,27,False,True
+2012-02-02,33.6666666667,San Antonio Spurs,New Orleans Pelicans,3,62-65,0,three point jumper,True,26,True,True
+2012-02-02,34.3333333333,San Antonio Spurs,New Orleans Pelicans,3,64-66,1,free throw,True,15,True,True
+2012-02-02,34.3333333333,San Antonio Spurs,New Orleans Pelicans,3,64-67,2,free throw,True,15,True,True
+2012-02-02,46.4833333333,San Antonio Spurs,New Orleans Pelicans,4,77-92,14,free throw,True,15,True,True
+2012-02-02,46.4833333333,San Antonio Spurs,New Orleans Pelicans,4,77-93,15,free throw,True,15,True,True
+2012-03-24,1.45,San Antonio Spurs,New Orleans Pelicans,1,6-2,2,layup,False,0,True,True
+2012-03-24,3.06666666667,San Antonio Spurs,New Orleans Pelicans,1,8-4,2,layup,False,0,False,True
+2012-03-24,6.6,San Antonio Spurs,New Orleans Pelicans,1,14-12,-1,three point jumper,False,23,False,True
+2012-03-24,23.35,San Antonio Spurs,New Orleans Pelicans,2,47-48,-3,layup,False,0,True,True
+2012-03-24,25.4666666667,San Antonio Spurs,New Orleans Pelicans,3,52-50,-1,three point jumper,False,24,False,True
+2012-03-24,36.9666666667,San Antonio Spurs,New Orleans Pelicans,4,75-74,-2,three point jumper,False,26,False,True
+2012-03-24,40.4833333333,San Antonio Spurs,New Orleans Pelicans,4,77-76,-2,three point jumper,False,25,False,True
+2012-03-24,45.3,San Antonio Spurs,New Orleans Pelicans,4,83-82,-1,two point jumper,False,17,False,True
+2012-03-24,47.3166666667,San Antonio Spurs,New Orleans Pelicans,4,89-86,1,two point jumper,False,1,True,True
+2012-03-24,47.9666666667,San Antonio Spurs,New Orleans Pelicans,4,89-86,2,free throw,False,15,False,True
+2012-03-24,47.9666666667,San Antonio Spurs,New Orleans Pelicans,4,89-86,2,free throw,False,15,False,True
+2012-04-06,15.25,San Antonio Spurs,New Orleans Pelicans,2,28-45,14,three point jumper,True,25,True,True
+2012-04-06,17.4166666667,San Antonio Spurs,New Orleans Pelicans,2,35-45,7,three point jumper,True,26,False,True
+2012-04-06,27.9333333333,San Antonio Spurs,New Orleans Pelicans,3,56-79,21,layup,True,0,True,True
+2012-04-06,29.2,San Antonio Spurs,New Orleans Pelicans,3,59-81,19,three point jumper,True,24,False,True
+2012-12-31,34.5166666667,San Antonio Spurs,Utah Jazz,3,57-78,19,two point jumper,True,23,True,False
+2012-12-31,34.9333333333,San Antonio Spurs,Utah Jazz,3,57-80,21,layup,True,0,True,False
+2012-12-31,37.8,San Antonio Spurs,Utah Jazz,4,62-86,21,three point jumper,True,25,False,False
+2012-01-02,31.85,San Antonio Spurs,Minnesota Timberwolves,3,74-87,-16,three point jumper,False,25,True,True
+2012-01-02,35.9666666667,San Antonio Spurs,Minnesota Timberwolves,3,80-94,-16,two point jumper,False,20,False,True
+2012-01-02,38.0666666667,San Antonio Spurs,Minnesota Timberwolves,4,86-99,-15,layup,False,0,True,True
+2012-01-02,41.0333333333,San Antonio Spurs,Minnesota Timberwolves,4,90-100,-12,layup,False,0,True,True
+2012-01-02,46.2166666667,San Antonio Spurs,Minnesota Timberwolves,4,94-106,-15,three point jumper,False,25,False,True
+2012-01-02,47.45,San Antonio Spurs,Minnesota Timberwolves,4,95-106,-12,free throw,False,15,True,True
+2012-01-02,47.45,San Antonio Spurs,Minnesota Timberwolves,4,96-106,-11,free throw,False,15,True,True
+2012-01-07,7.5,San Antonio Spurs,Denver Nuggets,1,14-20,3,three point jumper,True,25,False,True
+2012-01-07,11.0,San Antonio Spurs,Denver Nuggets,1,22-33,8,three point jumper,True,24,True,True
+2012-01-07,13.75,San Antonio Spurs,Denver Nuggets,2,28-43,13,layup,True,0,True,True
+2012-01-07,14.5166666667,San Antonio Spurs,Denver Nuggets,2,30-45,13,layup,True,0,True,True
+2012-01-07,14.5166666667,San Antonio Spurs,Denver Nuggets,2,30-46,15,free throw,True,15,True,True
+2012-01-07,23.2333333333,San Antonio Spurs,Denver Nuggets,2,53-62,6,three point jumper,True,24,True,True
+2012-01-07,31.2833333333,San Antonio Spurs,Denver Nuggets,3,78-84,4,two point jumper,True,16,True,True
+2012-01-07,32.3333333333,San Antonio Spurs,Denver Nuggets,3,80-89,6,three point jumper,True,25,True,True
+2012-01-07,34.0333333333,San Antonio Spurs,Denver Nuggets,3,82-91,7,layup,True,0,True,True
+2012-01-07,38.75,San Antonio Spurs,Denver Nuggets,4,93-102,7,two point shot,True,2,True,True
+2012-01-07,39.5,San Antonio Spurs,Denver Nuggets,4,95-104,7,two point jumper,True,9,True,True
+2012-01-07,42.9166666667,San Antonio Spurs,Denver Nuggets,4,104-108,2,tip shot,True,0,False,True
+2012-01-07,44.6166666667,San Antonio Spurs,Denver Nuggets,4,105-110,3,two point jumper,True,1,False,True
+2012-01-07,47.9,San Antonio Spurs,Denver Nuggets,4,116-120,3,free throw,True,15,True,True
+2012-01-07,47.9,San Antonio Spurs,Denver Nuggets,4,116-121,4,free throw,True,15,True,True
+2012-01-08,7.41666666667,San Antonio Spurs,Oklahoma City Thunder,1,11-13,-4,two point jumper,False,6,False,True
+2012-01-08,12.25,San Antonio Spurs,Oklahoma City Thunder,2,22-24,-4,layup,False,0,False,True
+2012-01-08,36.45,San Antonio Spurs,Oklahoma City Thunder,4,69-91,-24,two point jumper,False,15,False,True
+2012-01-08,40.6333333333,San Antonio Spurs,Oklahoma City Thunder,4,73-98,-27,two point jumper,False,5,False,True
+2012-01-08,46.5,San Antonio Spurs,Oklahoma City Thunder,4,89-106,-20,three point jumper,False,23,True,True
+2012-01-08,47.9166666667,San Antonio Spurs,Oklahoma City Thunder,4,96-108,-15,three point jumper,False,23,True,True
+2012-01-13,9.91666666667,San Antonio Spurs,Portland Trail Blazers,1,26-23,-5,two point shot,True,14,True,True
+2012-01-13,11.35,San Antonio Spurs,Portland Trail Blazers,1,31-27,-5,free throw,True,15,True,True
+2012-01-13,11.35,San Antonio Spurs,Portland Trail Blazers,1,31-27,-5,free throw,True,15,False,True
+2012-01-13,13.4666666667,San Antonio Spurs,Portland Trail Blazers,2,31-33,-1,three point jumper,True,26,True,True
+2012-01-13,20.8333333333,San Antonio Spurs,Portland Trail Blazers,2,41-47,3,three point jumper,True,24,True,True
+2012-01-13,21.1666666667,San Antonio Spurs,Portland Trail Blazers,2,41-48,6,free throw,True,15,True,True
+2012-01-13,21.1666666667,San Antonio Spurs,Portland Trail Blazers,2,41-49,7,free throw,True,15,True,True
+2012-01-13,21.85,San Antonio Spurs,Portland Trail Blazers,2,44-49,2,three point jumper,True,23,False,True
+2012-01-13,23.0833333333,San Antonio Spurs,Portland Trail Blazers,2,47-50,1,layup,True,0,False,True
+2012-01-13,37.7166666667,San Antonio Spurs,Portland Trail Blazers,4,67-70,0,three point jumper,True,27,False,True
+2012-01-13,37.9,San Antonio Spurs,Portland Trail Blazers,4,67-71,3,free throw,True,15,True,True
+2012-01-13,37.9,San Antonio Spurs,Portland Trail Blazers,4,67-72,4,free throw,True,15,True,True
+2012-01-13,41.7833333333,San Antonio Spurs,Portland Trail Blazers,4,71-83,10,two point jumper,True,19,False,True
+2012-01-17,8.06666666667,San Antonio Spurs,Miami Heat,1,28-15,10,three point jumper,False,24,True,True
+2012-01-17,9.06666666667,San Antonio Spurs,Miami Heat,1,28-16,10,two point jumper,False,1,False,True
+2012-01-17,12.0,San Antonio Spurs,Miami Heat,1,35-26,6,three point jumper,False,25,True,True
+2012-01-17,15.15,San Antonio Spurs,Miami Heat,2,37-31,5,free throw,False,15,False,True
+2012-01-17,15.15,San Antonio Spurs,Miami Heat,2,37-31,5,free throw,False,15,False,True
+2012-01-17,15.8666666667,San Antonio Spurs,Miami Heat,2,37-31,4,layup,False,0,False,True
+2012-01-17,24.0,San Antonio Spurs,Miami Heat,2,63-49,11,three point jumper,False,39,True,True
+2012-01-17,32.4333333333,San Antonio Spurs,Miami Heat,3,68-75,-9,two point shot,False,9,False,True
+2012-01-17,35.2333333333,San Antonio Spurs,Miami Heat,3,73-85,-15,three point jumper,False,23,True,True
+2012-01-17,36.1833333333,San Antonio Spurs,Miami Heat,4,75-88,-16,three point jumper,False,24,False,True
+2012-01-17,37.75,San Antonio Spurs,Miami Heat,4,80-90,-13,three point jumper,False,26,True,True
+2012-01-17,39.95,San Antonio Spurs,Miami Heat,4,84-100,-18,two point shot,False,1,True,True
+2012-01-17,40.7,San Antonio Spurs,Miami Heat,4,87-102,-18,three point jumper,False,25,True,True
+2012-01-18,12.5833333333,San Antonio Spurs,Orlando Magic,2,13-19,-9,three point jumper,False,26,False,True
+2012-01-18,16.1,San Antonio Spurs,Orlando Magic,2,22-23,-2,free throw,False,15,True,True
+2012-01-18,16.1,San Antonio Spurs,Orlando Magic,2,23-23,-1,free throw,False,15,True,True
+2012-01-18,16.5333333333,San Antonio Spurs,Orlando Magic,2,23-23,-3,three point jumper,False,26,False,True
+2012-01-18,22.9,San Antonio Spurs,Orlando Magic,2,33-36,-5,two point jumper,False,21,False,True
+2012-01-18,34.55,San Antonio Spurs,Orlando Magic,3,53-54,-4,three point jumper,False,25,False,True
+2012-01-18,35.85,San Antonio Spurs,Orlando Magic,3,57-58,-4,three point jumper,False,23,False,True
+2012-01-18,43.45,San Antonio Spurs,Orlando Magic,4,69-67,-1,three point jumper,False,23,False,True
+2012-01-25,11.55,San Antonio Spurs,Atlanta Hawks,1,16-22,3,three point jumper,True,25,True,False
+2012-01-25,14.25,San Antonio Spurs,Atlanta Hawks,2,24-30,4,two point jumper,True,15,True,False
+2012-01-25,23.5,San Antonio Spurs,Atlanta Hawks,2,42-48,3,three point jumper,True,25,False,False
+2012-01-25,25.9,San Antonio Spurs,Atlanta Hawks,3,48-52,2,layup,True,0,True,False
+2012-01-25,27.7,San Antonio Spurs,Atlanta Hawks,3,51-55,1,three point jumper,True,25,False,False
+2012-01-25,35.8,San Antonio Spurs,Atlanta Hawks,3,61-74,10,three point jumper,True,23,False,False
+2012-01-25,45.6166666667,San Antonio Spurs,Atlanta Hawks,4,75-101,23,three point jumper,True,25,True,False
+2012-01-27,32.3333333333,San Antonio Spurs,Minnesota Timberwolves,3,54-56,-4,two point jumper,False,7,False,False
+2012-01-27,32.85,San Antonio Spurs,Minnesota Timberwolves,3,56-58,-4,two point jumper,False,16,True,False
+2012-01-27,37.0666666667,San Antonio Spurs,Minnesota Timberwolves,4,67-66,-1,two point jumper,False,7,False,False
+2012-02-04,10.7166666667,San Antonio Spurs,Oklahoma City Thunder,1,19-23,1,three point jumper,True,23,False,False
+2012-02-04,18.1666666667,San Antonio Spurs,Oklahoma City Thunder,2,31-40,6,three point jumper,True,23,True,False
+2012-02-04,32.2,San Antonio Spurs,Oklahoma City Thunder,3,57-77,17,three point jumper,True,23,True,False
+2012-02-04,39.2666666667,San Antonio Spurs,Oklahoma City Thunder,4,81-93,9,three point jumper,True,23,False,False
+2012-02-04,40.7333333333,San Antonio Spurs,Oklahoma City Thunder,4,84-97,10,three point jumper,True,23,False,False
+2012-02-20,1.71666666667,San Antonio Spurs,Utah Jazz,1,2-7,-7,two point jumper,False,4,False,True
+2012-02-20,15.8833333333,San Antonio Spurs,Utah Jazz,2,34-40,-8,layup,False,0,False,True
+2012-02-20,26.2666666667,San Antonio Spurs,Utah Jazz,3,56-62,-9,three point jumper,False,25,False,True
+2012-02-21,4.95,San Antonio Spurs,Portland Trail Blazers,1,11-17,-9,three point jumper,False,23,True,True
+2012-02-21,5.28333333333,San Antonio Spurs,Portland Trail Blazers,1,13-17,-6,two point shot,False,5,True,True
+2012-02-21,5.73333333333,San Antonio Spurs,Portland Trail Blazers,1,13-19,-8,two point jumper,False,6,False,True
+2012-02-21,9.48333333333,San Antonio Spurs,Portland Trail Blazers,1,20-27,-10,three point jumper,False,25,False,True
+2012-02-21,19.4833333333,San Antonio Spurs,Portland Trail Blazers,2,32-53,-23,two point shot,False,21,False,True
+2012-02-21,25.2,San Antonio Spurs,Portland Trail Blazers,3,46-71,-27,layup,False,0,True,True
+2012-02-21,25.2,San Antonio Spurs,Portland Trail Blazers,3,47-71,-25,free throw,False,15,True,True
+2012-02-21,31.6666666667,San Antonio Spurs,Portland Trail Blazers,3,56-90,-35,free throw,False,15,True,True
+2012-02-21,31.6666666667,San Antonio Spurs,Portland Trail Blazers,3,57-90,-34,free throw,False,15,True,True
+2012-02-21,32.3333333333,San Antonio Spurs,Portland Trail Blazers,3,57-90,-35,layup,False,0,False,True
+2012-02-21,33.1,San Antonio Spurs,Portland Trail Blazers,3,60-94,-35,free throw,False,15,True,True
+2012-02-21,33.1,San Antonio Spurs,Portland Trail Blazers,3,60-94,-35,free throw,False,15,False,True
+2012-02-21,36.95,San Antonio Spurs,Portland Trail Blazers,4,65-107,-43,free throw,False,15,False,True
+2012-02-21,36.95,San Antonio Spurs,Portland Trail Blazers,4,66-107,-42,free throw,False,15,True,True
+2012-02-21,37.95,San Antonio Spurs,Portland Trail Blazers,4,67-112,-47,two point shot,False,1,False,True
+2012-02-21,41.0,San Antonio Spurs,Portland Trail Blazers,4,75-120,-47,two point jumper,False,7,False,True
+2012-02-21,42.4166666667,San Antonio Spurs,Portland Trail Blazers,4,81-124,-45,two point jumper,False,7,True,True
+2012-02-21,43.35,San Antonio Spurs,Portland Trail Blazers,4,85-126,-42,free throw,False,15,True,True
+2012-02-21,43.35,San Antonio Spurs,Portland Trail Blazers,4,86-126,-41,free throw,False,15,True,True
+2012-02-21,44.0166666667,San Antonio Spurs,Portland Trail Blazers,4,86-130,-46,dunk,False,0,False,True
+2012-02-23,3.75,San Antonio Spurs,Denver Nuggets,1,7-6,-2,three point jumper,False,23,False,False
+2012-02-23,7.41666666667,San Antonio Spurs,Denver Nuggets,1,20-7,11,two point jumper,False,9,True,False
+2012-02-23,7.41666666667,San Antonio Spurs,Denver Nuggets,1,21-7,13,free throw,False,15,True,False
+2012-02-23,7.73333333333,San Antonio Spurs,Denver Nuggets,1,23-7,14,layup,False,0,True,False
+2012-02-23,7.73333333333,San Antonio Spurs,Denver Nuggets,1,24-7,16,free throw,False,15,True,False
+2012-02-23,8.26666666667,San Antonio Spurs,Denver Nuggets,1,24-7,15,layup,False,0,False,False
+2012-02-23,8.76666666667,San Antonio Spurs,Denver Nuggets,1,31-15,14,tip shot,False,0,False,False
+2012-02-23,17.0333333333,San Antonio Spurs,Denver Nuggets,2,45-23,19,three point jumper,False,25,True,False
+2012-02-23,18.5666666667,San Antonio Spurs,Denver Nuggets,2,48-28,17,three point jumper,False,26,False,False
+2012-02-23,22.5166666667,San Antonio Spurs,Denver Nuggets,2,62-35,25,dunk,False,0,True,False
+2012-02-23,25.3666666667,San Antonio Spurs,Denver Nuggets,3,68-43,24,free throw,False,15,True,False
+2012-02-23,25.3666666667,San Antonio Spurs,Denver Nuggets,3,68-43,24,free throw,False,15,False,False
+2012-02-23,34.4666666667,San Antonio Spurs,Denver Nuggets,3,92-68,22,layup,False,0,True,False
+2012-02-23,35.9833333333,San Antonio Spurs,Denver Nuggets,3,92-72,17,three point jumper,False,23,False,False
+2012-02-23,45.4833333333,San Antonio Spurs,Denver Nuggets,4,107-93,11,three point jumper,False,24,False,False
+2012-02-23,47.8666666667,San Antonio Spurs,Denver Nuggets,4,114-99,13,layup,False,0,True,False
+2012-03-02,2.06666666667,San Antonio Spurs,Charlotte Bobcats,1,5-2,-5,layup,True,0,True,False
+2012-03-02,4.5,San Antonio Spurs,Charlotte Bobcats,1,10-7,-6,three point jumper,True,24,False,False
+2012-03-02,26.5833333333,San Antonio Spurs,Charlotte Bobcats,3,45-58,11,two point shot,True,12,False,False
+2012-03-02,27.0166666667,San Antonio Spurs,Charlotte Bobcats,3,45-60,13,tip shot,True,0,True,False
+2012-03-04,11.4666666667,San Antonio Spurs,Denver Nuggets,1,25-17,-11,three point jumper,True,23,False,False
+2012-03-04,13.95,San Antonio Spurs,Denver Nuggets,2,32-22,-12,two point jumper,True,11,False,False
+2012-03-04,14.4333333333,San Antonio Spurs,Denver Nuggets,2,34-23,-12,free throw,True,15,True,False
+2012-03-04,14.4333333333,San Antonio Spurs,Denver Nuggets,2,34-24,-11,free throw,True,15,True,False
+2012-03-04,33.5666666667,San Antonio Spurs,Denver Nuggets,3,71-66,-8,three point jumper,True,24,False,False
+2012-03-04,36.0,San Antonio Spurs,Denver Nuggets,3,75-71,-7,three point jumper,True,23,False,False
+2012-03-04,39.25,San Antonio Spurs,Denver Nuggets,4,81-76,-7,two point jumper,True,15,False,False
+2012-03-12,16.3166666667,San Antonio Spurs,Washington Wizards,2,33-49,13,three point jumper,True,24,True,False
+2012-03-12,18.2833333333,San Antonio Spurs,Washington Wizards,2,37-52,14,free throw,True,15,True,False
+2012-03-12,18.2833333333,San Antonio Spurs,Washington Wizards,2,37-52,14,free throw,True,15,False,False
+2012-03-12,20.0,San Antonio Spurs,Washington Wizards,2,41-56,13,layup,True,0,True,False
+2012-03-12,38.65,San Antonio Spurs,Washington Wizards,4,81-93,10,layup,True,0,False,False
+2012-03-12,39.65,San Antonio Spurs,Washington Wizards,4,84-93,7,two point jumper,True,4,False,False
+2012-03-14,0.15,San Antonio Spurs,Orlando Magic,1,0-2,0,layup,True,0,True,True
+2012-03-14,16.6666666667,San Antonio Spurs,Orlando Magic,2,44-47,1,two point jumper,True,17,True,True
+2012-03-14,27.1333333333,San Antonio Spurs,Orlando Magic,3,66-62,-7,three point jumper,True,24,False,True
+2012-03-14,27.8166666667,San Antonio Spurs,Orlando Magic,3,68-62,-8,two point jumper,True,6,False,True
+2012-03-14,30.3833333333,San Antonio Spurs,Orlando Magic,3,73-74,-2,three point jumper,True,26,True,True
+2012-03-14,43.1666666667,San Antonio Spurs,Orlando Magic,4,100-105,3,two point jumper,True,6,False,True
+2012-03-16,13.05,San Antonio Spurs,Oklahoma City Thunder,2,35-21,11,three point jumper,False,24,True,True
+2012-03-16,15.5,San Antonio Spurs,Oklahoma City Thunder,2,45-26,17,two point jumper,False,1,True,True
+2012-03-16,18.3166666667,San Antonio Spurs,Oklahoma City Thunder,2,52-33,16,three point jumper,False,22,True,True
+2012-03-16,24.5,San Antonio Spurs,Oklahoma City Thunder,3,68-48,17,three point jumper,False,25,True,True
+2012-03-16,26.6333333333,San Antonio Spurs,Oklahoma City Thunder,3,75-59,14,dunk,False,0,False,True
+2012-03-16,27.0666666667,San Antonio Spurs,Oklahoma City Thunder,3,73-57,13,three point jumper,False,25,False,True
+2012-03-16,38.1833333333,San Antonio Spurs,Oklahoma City Thunder,4,92-88,1,three point jumper,False,24,False,True
+2012-03-16,38.9,San Antonio Spurs,Oklahoma City Thunder,4,94-90,2,two point jumper,False,1,True,True
+2012-03-16,39.5,San Antonio Spurs,Oklahoma City Thunder,4,97-90,4,three point jumper,False,23,True,True
+2012-03-16,41.8166666667,San Antonio Spurs,Oklahoma City Thunder,4,101-96,2,three point jumper,False,24,True,True
+2012-03-16,47.0666666667,San Antonio Spurs,Oklahoma City Thunder,4,111-105,4,dunk,False,0,True,True
+2012-03-21,0.266666666667,San Antonio Spurs,Minnesota Timberwolves,1,0-0,-3,three point jumper,True,25,False,True
+2012-03-21,0.933333333333,San Antonio Spurs,Minnesota Timberwolves,1,0-0,-2,two point shot,True,3,False,True
+2012-03-21,1.95,San Antonio Spurs,Minnesota Timberwolves,1,0-4,2,two point shot,True,1,True,True
+2012-03-21,2.63333333333,San Antonio Spurs,Minnesota Timberwolves,1,2-6,2,dunk,True,0,True,True
+2012-03-21,3.63333333333,San Antonio Spurs,Minnesota Timberwolves,1,2-6,2,layup,True,0,False,True
+2012-03-21,3.65,San Antonio Spurs,Minnesota Timberwolves,1,2-6,2,tip shot,True,0,False,True
+2012-03-21,15.6833333333,San Antonio Spurs,Minnesota Timberwolves,2,27-39,10,layup,True,0,True,True
+2012-03-21,18.0333333333,San Antonio Spurs,Minnesota Timberwolves,2,32-43,10,free throw,True,15,True,True
+2012-03-21,18.0333333333,San Antonio Spurs,Minnesota Timberwolves,2,32-44,11,free throw,True,15,True,True
+2012-03-21,21.8333333333,San Antonio Spurs,Minnesota Timberwolves,2,42-50,7,free throw,True,15,True,True
+2012-03-21,21.8333333333,San Antonio Spurs,Minnesota Timberwolves,2,42-51,8,free throw,True,15,True,True
+2012-03-21,29.6333333333,San Antonio Spurs,Minnesota Timberwolves,3,54-74,18,dunk,True,0,True,True
+2012-03-21,31.7833333333,San Antonio Spurs,Minnesota Timberwolves,3,61-76,12,three point jumper,True,25,False,True
+2012-03-21,34.1333333333,San Antonio Spurs,Minnesota Timberwolves,3,65-84,18,free throw,True,15,True,True
+2012-03-21,34.1333333333,San Antonio Spurs,Minnesota Timberwolves,3,65-85,19,free throw,True,15,True,True
+2012-04-08,0.816666666667,San Antonio Spurs,Utah Jazz,1,0-5,2,three point jumper,True,25,True,True
+2012-04-08,7.45,San Antonio Spurs,Utah Jazz,1,11-19,5,three point jumper,True,22,True,True
+2012-04-08,19.7833333333,San Antonio Spurs,Utah Jazz,2,35-49,13,free throw,True,15,True,True
+2012-04-08,19.7833333333,San Antonio Spurs,Utah Jazz,2,35-50,14,free throw,True,15,True,True
+2012-04-08,20.3666666667,San Antonio Spurs,Utah Jazz,2,35-50,12,three point jumper,True,24,False,True
+2012-04-08,27.0166666667,San Antonio Spurs,Utah Jazz,3,48-61,11,layup,True,0,True,True
+2012-04-08,27.3666666667,San Antonio Spurs,Utah Jazz,3,48-62,13,free throw,True,15,True,True
+2012-04-08,27.3666666667,San Antonio Spurs,Utah Jazz,3,48-63,14,free throw,True,15,True,True
+2012-04-08,39.2666666667,San Antonio Spurs,Utah Jazz,4,82-93,9,two point jumper,True,22,False,True
+2012-04-08,41.1666666667,San Antonio Spurs,Utah Jazz,4,86-98,11,free throw,True,15,True,True
+2012-04-08,41.1666666667,San Antonio Spurs,Utah Jazz,4,86-99,12,free throw,True,15,True,True
+2012-04-09,4.2,San Antonio Spurs,Utah Jazz,1,4-2,0,two point jumper,False,1,True,False
+2012-04-09,9.56666666667,San Antonio Spurs,Utah Jazz,1,12-16,-7,three point jumper,False,24,False,False
+2012-04-09,12.0,San Antonio Spurs,Utah Jazz,1,19-23,-6,two point jumper,False,21,False,False
+2012-04-09,20.55,San Antonio Spurs,Utah Jazz,2,38-39,-4,three point jumper,False,25,False,False
+2012-04-09,33.95,San Antonio Spurs,Utah Jazz,3,61-62,-3,layup,False,0,True,False
+2012-04-09,35.25,San Antonio Spurs,Utah Jazz,3,66-64,-1,three point jumper,False,23,True,False
+2012-04-09,42.35,San Antonio Spurs,Utah Jazz,4,75-71,2,two point jumper,False,4,False,False
+2012-04-09,45.8333333333,San Antonio Spurs,Utah Jazz,4,80-84,-7,three point jumper,False,23,False,False
+2012-04-23,0.183333333333,San Antonio Spurs,Portland Trail Blazers,1,0-3,0,three point jumper,True,25,True,False
+2012-04-23,1.81666666667,San Antonio Spurs,Portland Trail Blazers,1,0-6,3,three point jumper,True,24,True,False
+2012-04-23,5.7,San Antonio Spurs,Portland Trail Blazers,1,6-12,4,layup,True,0,True,False
+2012-04-23,12.2666666667,San Antonio Spurs,Portland Trail Blazers,2,18-32,13,free throw,True,15,True,False
+2012-04-23,12.2666666667,San Antonio Spurs,Portland Trail Blazers,2,18-33,14,free throw,True,15,True,False
+2012-04-23,15.6333333333,San Antonio Spurs,Portland Trail Blazers,2,28-40,9,three point jumper,True,24,True,False
+2012-04-23,17.0333333333,San Antonio Spurs,Portland Trail Blazers,2,28-45,15,layup,True,0,True,False
+2012-04-23,26.0666666667,San Antonio Spurs,Portland Trail Blazers,3,43-68,22,three point jumper,True,23,True,False

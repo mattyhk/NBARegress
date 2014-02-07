@@ -1,0 +1,889 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2006-11-05,10.6166666667,Charlotte Bobcats,Boston Celtics,1,28-22,-9,three point jumper,True,25,True,True
+2006-11-05,12.6833333333,Charlotte Bobcats,Boston Celtics,2,32-26,-7,free throw,True,15,True,True
+2006-11-05,12.6833333333,Charlotte Bobcats,Boston Celtics,2,32-27,-6,free throw,True,15,True,True
+2006-11-05,13.4333333333,Charlotte Bobcats,Boston Celtics,2,34-27,-9,two point jumper,True,22,False,True
+2006-11-05,14.0,Charlotte Bobcats,Boston Celtics,2,34-27,-9,two point jumper,True,21,False,True
+2006-11-05,15.25,Charlotte Bobcats,Boston Celtics,2,36-30,-8,two point jumper,True,21,True,True
+2006-11-05,15.4333333333,Charlotte Bobcats,Boston Celtics,2,36-31,-6,free throw,True,15,True,True
+2006-11-05,15.4333333333,Charlotte Bobcats,Boston Celtics,2,36-31,-6,free throw,True,15,False,True
+2006-11-05,19.4166666667,Charlotte Bobcats,Boston Celtics,2,46-40,-8,two point jumper,True,21,False,True
+2006-11-05,12.4,Charlotte Bobcats,Boston Celtics,5,57-59,-1,three point jumper,True,23,False,True
+2006-11-05,14.0666666667,Charlotte Bobcats,Boston Celtics,6,89-82,-10,three point jumper,True,24,True,True
+2006-01-04,7.03333333333,Charlotte Bobcats,Boston Celtics,1,16-16,-2,layup,False,0,True,False
+2006-01-04,7.41666666667,Charlotte Bobcats,Boston Celtics,1,18-16,0,two point jumper,False,19,True,False
+2006-01-04,8.0,Charlotte Bobcats,Boston Celtics,1,18-18,-2,two point jumper,False,1,False,False
+2006-01-04,12.45,Charlotte Bobcats,Boston Celtics,2,23-31,-10,two point jumper,False,16,False,False
+2006-01-04,13.0666666667,Charlotte Bobcats,Boston Celtics,2,23-33,-12,two point jumper,False,21,False,False
+2006-01-04,13.9,Charlotte Bobcats,Boston Celtics,2,25-36,-13,two point shot,False,18,True,False
+2006-01-04,14.4333333333,Charlotte Bobcats,Boston Celtics,2,27-36,-11,two point jumper,False,21,True,False
+2006-01-04,16.2833333333,Charlotte Bobcats,Boston Celtics,2,34-36,-4,two point jumper,False,17,False,False
+2006-01-04,20.45,Charlotte Bobcats,Boston Celtics,2,45-48,-5,two point jumper,False,20,True,False
+2006-01-04,20.95,Charlotte Bobcats,Boston Celtics,2,46-50,-5,free throw,False,15,True,False
+2006-01-04,20.95,Charlotte Bobcats,Boston Celtics,2,46-50,-5,free throw,False,15,False,False
+2006-01-04,21.2833333333,Charlotte Bobcats,Boston Celtics,2,46-50,-5,free throw,False,15,False,False
+2006-01-04,21.2833333333,Charlotte Bobcats,Boston Celtics,2,47-50,-4,free throw,False,15,True,False
+2006-01-04,23.2166666667,Charlotte Bobcats,Boston Celtics,2,49-55,-8,layup,False,0,False,False
+2006-01-04,24.55,Charlotte Bobcats,Boston Celtics,3,51-60,-11,two point jumper,False,1,False,False
+2006-01-04,29.0,Charlotte Bobcats,Boston Celtics,3,62-75,-16,three point jumper,False,23,True,False
+2006-01-04,31.0333333333,Charlotte Bobcats,Boston Celtics,3,67-77,-12,layup,False,0,True,False
+2006-01-04,31.0333333333,Charlotte Bobcats,Boston Celtics,3,67-77,-11,free throw,False,15,False,False
+2006-01-04,32.1,Charlotte Bobcats,Boston Celtics,3,69-79,-13,three point jumper,False,25,False,False
+2006-01-04,32.7166666667,Charlotte Bobcats,Boston Celtics,3,73-79,-8,two point jumper,False,17,True,False
+2006-01-04,35.2833333333,Charlotte Bobcats,Boston Celtics,3,79-81,-4,two point jumper,False,17,True,False
+2006-01-04,36.3166666667,Charlotte Bobcats,Boston Celtics,4,81-81,-2,two point jumper,False,1,False,False
+2006-12-07,16.3833333333,Charlotte Bobcats,Brooklyn Nets,2,30-23,-9,two point jumper,True,7,False,False
+2006-12-07,47.5166666667,Charlotte Bobcats,Brooklyn Nets,4,99-83,-17,free throw,True,15,False,False
+2006-12-07,47.5166666667,Charlotte Bobcats,Brooklyn Nets,4,99-84,-16,free throw,True,15,True,False
+2006-12-14,11.0166666667,Charlotte Bobcats,Brooklyn Nets,1,15-20,-6,free throw,False,15,True,True
+2006-12-14,11.0166666667,Charlotte Bobcats,Brooklyn Nets,1,15-20,-6,free throw,False,15,False,True
+2006-12-14,11.2333333333,Charlotte Bobcats,Brooklyn Nets,1,17-20,-5,tip shot,False,0,True,True
+2006-12-14,13.5,Charlotte Bobcats,Brooklyn Nets,2,21-25,-6,two point jumper,False,19,True,True
+2006-12-14,18.1666666667,Charlotte Bobcats,Brooklyn Nets,2,27-33,-8,layup,False,0,True,True
+2006-12-14,18.1666666667,Charlotte Bobcats,Brooklyn Nets,2,27-33,-7,free throw,False,15,False,True
+2006-12-14,21.6166666667,Charlotte Bobcats,Brooklyn Nets,2,32-38,-8,two point jumper,False,1,False,True
+2006-12-14,32.9166666667,Charlotte Bobcats,Brooklyn Nets,3,56-48,5,three point jumper,False,23,True,True
+2006-12-14,33.5833333333,Charlotte Bobcats,Brooklyn Nets,3,57-51,5,free throw,False,15,True,True
+2006-12-14,33.5833333333,Charlotte Bobcats,Brooklyn Nets,3,57-51,5,free throw,False,15,False,True
+2006-12-14,37.9,Charlotte Bobcats,Brooklyn Nets,4,63-58,3,two point jumper,False,1,False,True
+2006-12-14,47.15,Charlotte Bobcats,Brooklyn Nets,4,85-76,8,free throw,False,15,True,True
+2006-12-14,47.15,Charlotte Bobcats,Brooklyn Nets,4,85-76,8,free throw,False,15,False,True
+2006-12-14,47.3,Charlotte Bobcats,Brooklyn Nets,4,86-79,6,free throw,False,15,True,True
+2006-12-14,47.3,Charlotte Bobcats,Brooklyn Nets,4,87-79,7,free throw,False,15,True,True
+2006-12-14,47.6333333333,Charlotte Bobcats,Brooklyn Nets,4,90-81,8,free throw,False,15,True,True
+2006-12-14,47.6333333333,Charlotte Bobcats,Brooklyn Nets,4,90-81,8,free throw,False,15,False,True
+2006-02-15,0.516666666667,Charlotte Bobcats,Brooklyn Nets,1,2-0,-4,two point jumper,True,16,False,False
+2006-02-15,15.3166666667,Charlotte Bobcats,Brooklyn Nets,2,31-24,-9,two point jumper,True,15,True,False
+2006-02-15,20.35,Charlotte Bobcats,Brooklyn Nets,2,41-38,-5,two point jumper,True,18,True,False
+2006-02-15,22.0,Charlotte Bobcats,Brooklyn Nets,2,41-41,-2,two point jumper,True,18,False,False
+2006-02-15,24.3166666667,Charlotte Bobcats,Brooklyn Nets,3,48-50,0,two point jumper,True,21,True,False
+2006-02-15,25.0,Charlotte Bobcats,Brooklyn Nets,3,50-50,-2,two point jumper,True,22,False,False
+2006-02-15,25.55,Charlotte Bobcats,Brooklyn Nets,3,50-52,0,layup,True,0,True,False
+2006-02-15,27.45,Charlotte Bobcats,Brooklyn Nets,3,56-57,-1,tip shot,True,0,True,False
+2006-02-15,29.8166666667,Charlotte Bobcats,Brooklyn Nets,3,62-60,-5,three point jumper,True,24,True,False
+2006-02-15,32.5666666667,Charlotte Bobcats,Brooklyn Nets,3,66-67,-1,two point jumper,True,19,False,False
+2006-02-15,33.7333333333,Charlotte Bobcats,Brooklyn Nets,3,70-70,-1,free throw,True,15,True,False
+2006-02-15,33.7333333333,Charlotte Bobcats,Brooklyn Nets,3,70-71,0,free throw,True,15,True,False
+2006-02-15,45.8666666667,Charlotte Bobcats,Brooklyn Nets,4,89-89,-2,layup,True,0,True,False
+2006-02-15,45.8666666667,Charlotte Bobcats,Brooklyn Nets,4,89-90,0,free throw,True,15,True,False
+2006-04-06,1.5,Charlotte Bobcats,Brooklyn Nets,1,4-4,-2,two point jumper,False,16,True,False
+2006-04-06,3.01666666667,Charlotte Bobcats,Brooklyn Nets,1,5-9,-7,three point jumper,False,25,False,False
+2006-04-06,21.5833333333,Charlotte Bobcats,Brooklyn Nets,2,47-48,-2,free throw,False,15,False,False
+2006-04-06,21.5833333333,Charlotte Bobcats,Brooklyn Nets,2,48-48,-1,free throw,False,15,True,False
+2006-04-06,23.5,Charlotte Bobcats,Brooklyn Nets,2,48-51,-6,three point jumper,False,25,False,False
+2006-04-06,24.3166666667,Charlotte Bobcats,Brooklyn Nets,3,51-51,-2,layup,False,0,False,False
+2006-04-06,24.7666666667,Charlotte Bobcats,Brooklyn Nets,3,51-53,-4,layup,False,0,False,False
+2006-11-23,34.55,Charlotte Bobcats,New York Knicks,3,62-84,19,three point jumper,True,24,False,False
+2006-03-11,0.15,Charlotte Bobcats,New York Knicks,1,0-0,-3,three point jumper,True,25,False,True
+2006-03-11,1.05,Charlotte Bobcats,New York Knicks,1,4-1,-4,free throw,True,15,True,True
+2006-03-11,1.05,Charlotte Bobcats,New York Knicks,1,4-2,-3,free throw,True,15,True,True
+2006-03-11,3.88333333333,Charlotte Bobcats,New York Knicks,1,8-9,-1,two point shot,True,1,False,True
+2006-03-11,4.28333333333,Charlotte Bobcats,New York Knicks,1,8-12,1,three point jumper,True,23,True,True
+2006-03-11,4.7,Charlotte Bobcats,New York Knicks,1,8-15,4,three point jumper,True,25,True,True
+2006-03-11,5.2,Charlotte Bobcats,New York Knicks,1,8-15,4,three point jumper,True,25,False,True
+2006-03-11,5.98333333333,Charlotte Bobcats,New York Knicks,1,10-15,3,two point jumper,True,20,False,True
+2006-03-11,7.88333333333,Charlotte Bobcats,New York Knicks,1,14-22,6,layup,True,0,True,True
+2006-03-11,9.05,Charlotte Bobcats,New York Knicks,1,16-27,8,three point jumper,True,25,True,True
+2006-03-11,11.95,Charlotte Bobcats,New York Knicks,1,25-33,5,three point jumper,True,23,True,True
+2006-03-11,23.9666666667,Charlotte Bobcats,New York Knicks,2,58-60,-1,three point jumper,True,26,False,True
+2006-03-11,27.8666666667,Charlotte Bobcats,New York Knicks,3,67-72,2,three point jumper,True,25,True,True
+2006-03-11,30.3833333333,Charlotte Bobcats,New York Knicks,3,73-77,2,two point jumper,True,24,False,True
+2006-03-11,34.9333333333,Charlotte Bobcats,New York Knicks,3,78-89,8,three point jumper,True,22,False,True
+2006-03-11,35.35,Charlotte Bobcats,New York Knicks,3,80-92,10,layup,True,0,True,True
+2006-03-11,35.8166666667,Charlotte Bobcats,New York Knicks,3,82-94,10,layup,True,0,True,True
+2006-03-11,35.8166666667,Charlotte Bobcats,New York Knicks,3,82-94,11,free throw,True,15,False,True
+2006-03-11,35.8166666667,Charlotte Bobcats,New York Knicks,3,82-94,11,free throw,True,15,False,True
+2006-03-11,35.8166666667,Charlotte Bobcats,New York Knicks,3,82-95,12,free throw,True,15,True,True
+2006-03-11,43.9833333333,Charlotte Bobcats,New York Knicks,4,95-108,11,two point jumper,True,1,True,True
+2006-03-11,47.3666666667,Charlotte Bobcats,New York Knicks,4,107-112,4,free throw,True,15,True,True
+2006-03-11,47.3666666667,Charlotte Bobcats,New York Knicks,4,107-113,5,free throw,True,15,True,True
+2006-04-17,26.3666666667,Charlotte Bobcats,New York Knicks,3,55-49,4,two point jumper,False,1,False,True
+2006-04-17,31.3833333333,Charlotte Bobcats,New York Knicks,3,65-60,3,two point jumper,False,17,True,True
+2006-11-04,15.5666666667,Charlotte Bobcats,Philadelphia 76ers,2,35-28,5,two point shot,False,1,True,False
+2006-11-04,16.7,Charlotte Bobcats,Philadelphia 76ers,2,35-28,5,two point jumper,False,17,False,False
+2006-11-04,35.15,Charlotte Bobcats,Philadelphia 76ers,3,79-62,15,two point jumper,False,17,True,False
+2006-11-04,36.0,Charlotte Bobcats,Philadelphia 76ers,3,79-66,10,three point jumper,False,45,False,False
+2006-11-04,38.05,Charlotte Bobcats,Philadelphia 76ers,4,86-70,14,two point jumper,False,16,True,False
+2006-11-04,40.7,Charlotte Bobcats,Philadelphia 76ers,4,92-77,13,two point jumper,False,20,False,False
+2006-12-09,39.55,Charlotte Bobcats,Philadelphia 76ers,4,86-103,-19,two point jumper,False,1,True,False
+2006-12-09,42.3166666667,Charlotte Bobcats,Philadelphia 76ers,4,93-103,-13,three point jumper,False,22,True,False
+2006-12-09,44.8,Charlotte Bobcats,Philadelphia 76ers,4,104-114,-13,three point jumper,False,26,True,False
+2006-12-09,47.4333333333,Charlotte Bobcats,Philadelphia 76ers,4,113-117,-7,three point jumper,False,24,False,False
+2006-12-09,47.85,Charlotte Bobcats,Philadelphia 76ers,4,113-117,-7,three point jumper,False,29,False,False
+2006-02-08,1.2,Charlotte Bobcats,Philadelphia 76ers,1,5-2,-5,two point jumper,True,14,True,False
+2006-02-08,3.2,Charlotte Bobcats,Philadelphia 76ers,1,12-9,-6,three point jumper,True,24,True,False
+2006-02-08,4.1,Charlotte Bobcats,Philadelphia 76ers,1,12-12,-3,three point jumper,True,25,True,False
+2006-02-08,8.75,Charlotte Bobcats,Philadelphia 76ers,1,20-22,0,two point jumper,True,18,False,False
+2006-02-08,11.0166666667,Charlotte Bobcats,Philadelphia 76ers,1,27-29,-1,three point jumper,True,25,True,False
+2006-02-08,18.4166666667,Charlotte Bobcats,Philadelphia 76ers,2,44-41,-5,tip shot,True,0,True,False
+2006-02-08,20.5666666667,Charlotte Bobcats,Philadelphia 76ers,2,53-43,-12,two point jumper,True,17,False,False
+2006-02-08,22.9666666667,Charlotte Bobcats,Philadelphia 76ers,2,57-45,-14,two point jumper,True,17,False,False
+2006-02-08,28.6333333333,Charlotte Bobcats,Philadelphia 76ers,3,66-58,-9,free throw,True,15,True,False
+2006-02-08,28.6333333333,Charlotte Bobcats,Philadelphia 76ers,3,66-58,-9,free throw,True,15,False,False
+2006-02-08,35.75,Charlotte Bobcats,Philadelphia 76ers,3,77-76,-4,three point jumper,True,27,False,False
+2006-02-08,41.5333333333,Charlotte Bobcats,Philadelphia 76ers,4,82-84,-1,three point jumper,True,25,False,False
+2006-04-19,0.683333333333,Charlotte Bobcats,Philadelphia 76ers,1,0-0,-3,three point jumper,True,26,False,True
+2006-04-19,1.56666666667,Charlotte Bobcats,Philadelphia 76ers,1,2-0,-4,two point jumper,True,6,False,True
+2006-04-19,6.63333333333,Charlotte Bobcats,Philadelphia 76ers,1,12-11,-2,free throw,True,15,True,True
+2006-04-19,6.63333333333,Charlotte Bobcats,Philadelphia 76ers,1,12-12,-1,free throw,True,15,True,True
+2006-04-19,6.91666666667,Charlotte Bobcats,Philadelphia 76ers,1,12-12,-2,two point jumper,True,17,False,True
+2006-04-19,21.7833333333,Charlotte Bobcats,Philadelphia 76ers,2,39-41,0,tip shot,True,0,True,True
+2006-04-19,23.3833333333,Charlotte Bobcats,Philadelphia 76ers,2,41-47,4,two point jumper,True,13,False,True
+2006-04-19,37.0666666667,Charlotte Bobcats,Philadelphia 76ers,4,43-51,6,two point jumper,True,21,False,True
+2006-04-19,39.1166666667,Charlotte Bobcats,Philadelphia 76ers,4,45-51,4,two point jumper,True,17,False,True
+2006-04-19,40.2333333333,Charlotte Bobcats,Philadelphia 76ers,4,49-56,5,layup,True,0,True,True
+2006-04-19,15.1833333333,Charlotte Bobcats,Philadelphia 76ers,5,68-80,10,two point shot,True,1,True,True
+2006-12-10,11.3166666667,Charlotte Bobcats,Toronto Raptors,1,25-24,-3,two point jumper,True,16,False,False
+2006-12-10,19.6333333333,Charlotte Bobcats,Toronto Raptors,2,40-44,2,two point jumper,True,16,True,False
+2006-12-10,23.5666666667,Charlotte Bobcats,Toronto Raptors,2,48-53,3,two point shot,True,1,True,False
+2006-12-10,32.15,Charlotte Bobcats,Toronto Raptors,3,65-61,-7,three point jumper,True,25,False,False
+2006-12-10,35.8666666667,Charlotte Bobcats,Toronto Raptors,3,78-72,-8,tip shot,True,0,True,False
+2006-12-10,38.9666666667,Charlotte Bobcats,Toronto Raptors,4,80-83,1,two point shot,True,1,True,False
+2006-12-10,40.45,Charlotte Bobcats,Toronto Raptors,4,82-88,3,three point jumper,True,24,True,False
+2006-12-10,43.95,Charlotte Bobcats,Toronto Raptors,4,94-96,-1,three point jumper,True,23,True,False
+2006-12-10,44.8333333333,Charlotte Bobcats,Toronto Raptors,4,96-96,-3,three point jumper,True,24,False,False
+2006-12-10,47.0666666667,Charlotte Bobcats,Toronto Raptors,4,104-100,-7,three point jumper,True,24,False,False
+2006-12-10,47.6666666667,Charlotte Bobcats,Toronto Raptors,4,108-103,-7,dunk,True,0,True,False
+2006-01-11,7.48333333333,Charlotte Bobcats,Toronto Raptors,1,12-14,-4,two point jumper,False,10,True,False
+2006-01-11,7.88333333333,Charlotte Bobcats,Toronto Raptors,1,14-14,-2,two point jumper,False,12,True,False
+2006-01-11,11.6666666667,Charlotte Bobcats,Toronto Raptors,1,27-20,4,three point jumper,False,23,True,False
+2006-01-11,13.5833333333,Charlotte Bobcats,Toronto Raptors,2,29-20,7,layup,False,0,True,False
+2006-01-11,18.3166666667,Charlotte Bobcats,Toronto Raptors,2,32-26,3,three point jumper,False,26,True,False
+2006-01-11,29.4833333333,Charlotte Bobcats,Toronto Raptors,3,52-46,3,three point jumper,False,26,True,False
+2006-01-11,31.2833333333,Charlotte Bobcats,Toronto Raptors,3,54-50,2,two point jumper,False,18,False,False
+2006-01-11,34.75,Charlotte Bobcats,Toronto Raptors,3,61-58,1,two point shot,False,1,True,False
+2006-02-10,1.63333333333,Charlotte Bobcats,Toronto Raptors,1,2-2,-2,two point jumper,True,18,False,False
+2006-02-10,3.33333333333,Charlotte Bobcats,Toronto Raptors,1,2-2,-3,three point jumper,True,24,False,False
+2006-02-10,5.38333333333,Charlotte Bobcats,Toronto Raptors,1,9-7,-5,three point jumper,True,23,True,False
+2006-02-10,7.88333333333,Charlotte Bobcats,Toronto Raptors,1,16-9,-9,layup,True,0,False,False
+2006-02-10,9.33333333333,Charlotte Bobcats,Toronto Raptors,1,19-9,-12,two point jumper,True,19,False,False
+2006-02-10,18.7833333333,Charlotte Bobcats,Toronto Raptors,2,31-26,-8,three point jumper,True,26,False,False
+2006-02-10,24.3666666667,Charlotte Bobcats,Toronto Raptors,3,36-37,-2,three point jumper,True,27,False,False
+2006-02-10,27.8833333333,Charlotte Bobcats,Toronto Raptors,3,49-39,-12,two point jumper,True,17,False,False
+2006-02-10,40.35,Charlotte Bobcats,Toronto Raptors,4,75-57,-21,three point jumper,True,25,False,False
+2006-02-10,41.5,Charlotte Bobcats,Toronto Raptors,4,77-60,-20,three point jumper,True,24,True,False
+2006-04-09,1.75,Charlotte Bobcats,Toronto Raptors,1,0-4,-6,two point jumper,False,18,False,True
+2006-04-09,2.2,Charlotte Bobcats,Toronto Raptors,1,3-7,-7,three point jumper,False,23,True,True
+2006-04-09,3.13333333333,Charlotte Bobcats,Toronto Raptors,1,3-7,-7,three point jumper,False,22,False,True
+2006-04-09,3.38333333333,Charlotte Bobcats,Toronto Raptors,1,5-7,-4,two point shot,False,1,True,True
+2006-04-09,6.35,Charlotte Bobcats,Toronto Raptors,1,11-12,-3,two point shot,False,6,True,True
+2006-04-09,25.3166666667,Charlotte Bobcats,Toronto Raptors,3,54-48,4,two point jumper,False,18,True,True
+2006-04-09,26.5166666667,Charlotte Bobcats,Toronto Raptors,3,55-53,-1,three point jumper,False,25,False,True
+2006-04-09,26.8833333333,Charlotte Bobcats,Toronto Raptors,3,55-53,0,two point jumper,False,1,False,True
+2006-04-09,30.3166666667,Charlotte Bobcats,Toronto Raptors,3,61-56,2,three point jumper,False,25,False,True
+2006-04-09,32.0166666667,Charlotte Bobcats,Toronto Raptors,3,63-57,4,two point jumper,False,20,False,True
+2006-04-09,40.0333333333,Charlotte Bobcats,Toronto Raptors,4,74-75,-3,two point jumper,False,19,True,True
+2006-04-09,44.2833333333,Charlotte Bobcats,Toronto Raptors,4,80-82,-4,two point jumper,False,19,True,True
+2006-04-09,46.6166666667,Charlotte Bobcats,Toronto Raptors,4,86-84,0,two point jumper,False,23,True,True
+2006-04-09,47.4666666667,Charlotte Bobcats,Toronto Raptors,4,90-86,2,layup,False,0,True,True
+2006-12-02,40.7833333333,Charlotte Bobcats,Golden State Warriors,4,81-83,-5,three point jumper,False,24,False,False
+2006-03-08,0.55,Charlotte Bobcats,Golden State Warriors,1,2-0,-5,three point jumper,True,25,False,True
+2006-03-08,3.0,Charlotte Bobcats,Golden State Warriors,1,8-7,-3,two point shot,True,1,False,True
+2006-03-08,3.88333333333,Charlotte Bobcats,Golden State Warriors,1,8-10,-1,three point jumper,True,23,True,True
+2006-03-08,5.1,Charlotte Bobcats,Golden State Warriors,1,12-14,0,layup,True,0,True,True
+2006-03-08,5.53333333333,Charlotte Bobcats,Golden State Warriors,1,12-16,2,two point jumper,True,17,True,True
+2006-03-08,6.95,Charlotte Bobcats,Golden State Warriors,1,14-20,4,two point jumper,True,20,True,True
+2006-03-08,10.0,Charlotte Bobcats,Golden State Warriors,1,23-28,2,three point jumper,True,25,False,True
+2006-03-08,21.1,Charlotte Bobcats,Golden State Warriors,2,59-51,-10,two point jumper,True,8,False,True
+2006-03-08,22.2666666667,Charlotte Bobcats,Golden State Warriors,2,59-53,-8,layup,True,0,True,True
+2006-03-08,25.5833333333,Charlotte Bobcats,Golden State Warriors,3,68-62,-9,three point jumper,True,27,True,True
+2006-03-08,27.75,Charlotte Bobcats,Golden State Warriors,3,70-62,-10,two point jumper,True,20,False,True
+2006-03-08,29.0666666667,Charlotte Bobcats,Golden State Warriors,3,70-65,-8,three point jumper,True,23,True,True
+2006-03-08,29.95,Charlotte Bobcats,Golden State Warriors,3,72-68,-7,three point jumper,True,23,True,True
+2006-03-08,32.6166666667,Charlotte Bobcats,Golden State Warriors,3,79-73,-8,two point shot,True,15,True,True
+2006-03-08,33.1833333333,Charlotte Bobcats,Golden State Warriors,3,79-73,-8,two point jumper,True,14,False,True
+2006-03-08,33.7333333333,Charlotte Bobcats,Golden State Warriors,3,81-73,-10,two point jumper,True,1,False,True
+2006-03-08,34.65,Charlotte Bobcats,Golden State Warriors,3,81-75,-9,three point jumper,True,25,False,True
+2006-03-08,39.45,Charlotte Bobcats,Golden State Warriors,4,84-80,-6,two point jumper,True,20,True,True
+2006-03-08,39.95,Charlotte Bobcats,Golden State Warriors,4,84-83,-4,three point jumper,True,26,True,True
+2006-03-08,43.5666666667,Charlotte Bobcats,Golden State Warriors,4,95-93,-5,three point jumper,True,23,False,True
+2006-03-08,46.8666666667,Charlotte Bobcats,Golden State Warriors,4,99-98,-4,three point jumper,True,24,False,True
+2006-03-08,47.9833333333,Charlotte Bobcats,Golden State Warriors,4,101-103,1,free throw,True,15,True,True
+2006-03-08,47.9833333333,Charlotte Bobcats,Golden State Warriors,4,101-104,2,free throw,True,15,True,True
+2006-12-23,9.11666666667,Charlotte Bobcats,Los Angeles Clippers,1,24-18,-8,two point jumper,True,20,False,False
+2006-12-23,18.75,Charlotte Bobcats,Los Angeles Clippers,2,48-35,-15,layup,True,0,False,False
+2006-12-23,21.9333333333,Charlotte Bobcats,Los Angeles Clippers,2,52-39,-15,layup,True,0,False,False
+2006-12-23,34.8666666667,Charlotte Bobcats,Los Angeles Clippers,3,76-66,-13,three point jumper,True,24,False,False
+2006-12-23,13.8,Charlotte Bobcats,Los Angeles Clippers,5,81-70,-13,two point jumper,True,16,False,False
+2006-02-27,2.06666666667,Charlotte Bobcats,Los Angeles Clippers,1,5-6,-4,three point jumper,False,27,True,False
+2006-02-27,2.45,Charlotte Bobcats,Los Angeles Clippers,1,5-6,-4,three point jumper,False,25,False,False
+2006-02-27,4.45,Charlotte Bobcats,Los Angeles Clippers,1,9-11,-5,three point jumper,False,25,False,False
+2006-02-27,5.1,Charlotte Bobcats,Los Angeles Clippers,1,13-11,0,two point shot,False,1,True,False
+2006-02-27,6.38333333333,Charlotte Bobcats,Los Angeles Clippers,1,13-17,-6,two point jumper,False,19,False,False
+2006-02-27,7.06666666667,Charlotte Bobcats,Los Angeles Clippers,1,16-20,-7,three point jumper,False,26,True,False
+2006-02-27,8.55,Charlotte Bobcats,Los Angeles Clippers,1,20-24,-6,two point jumper,False,19,True,False
+2006-02-27,9.05,Charlotte Bobcats,Los Angeles Clippers,1,20-24,-6,two point jumper,False,1,False,False
+2006-02-27,20.4833333333,Charlotte Bobcats,Los Angeles Clippers,2,40-43,-6,three point jumper,False,26,False,False
+2006-02-27,27.8333333333,Charlotte Bobcats,Los Angeles Clippers,3,49-67,-20,two point jumper,False,1,False,False
+2006-02-27,41.45,Charlotte Bobcats,Los Angeles Clippers,4,72-81,-12,three point jumper,False,24,False,False
+2006-02-27,42.1333333333,Charlotte Bobcats,Los Angeles Clippers,4,74-83,-11,two point jumper,False,1,True,False
+2006-02-27,44.8333333333,Charlotte Bobcats,Los Angeles Clippers,4,81-88,-10,three point jumper,False,26,True,False
+2006-02-27,45.3,Charlotte Bobcats,Los Angeles Clippers,4,81-88,-9,two point jumper,False,18,False,False
+2006-02-27,47.2,Charlotte Bobcats,Los Angeles Clippers,4,85-91,-8,layup,False,0,True,False
+2006-12-04,15.2,Charlotte Bobcats,Los Angeles Lakers,2,30-35,-7,two point jumper,False,14,True,False
+2006-12-04,37.7666666667,Charlotte Bobcats,Los Angeles Lakers,4,78-71,5,layup,False,0,True,False
+2006-12-04,38.6333333333,Charlotte Bobcats,Los Angeles Lakers,4,80-71,7,two point jumper,False,20,True,False
+2006-02-03,0.45,Charlotte Bobcats,Los Angeles Lakers,1,0-2,0,two point jumper,True,18,True,True
+2006-02-03,0.866666666667,Charlotte Bobcats,Los Angeles Lakers,1,0-4,2,two point shot,True,1,True,True
+2006-02-03,6.06666666667,Charlotte Bobcats,Los Angeles Lakers,1,13-21,6,layup,True,0,True,True
+2006-02-03,7.5,Charlotte Bobcats,Los Angeles Lakers,1,18-26,5,three point jumper,True,24,True,True
+2006-02-03,8.16666666667,Charlotte Bobcats,Los Angeles Lakers,1,18-29,8,three point jumper,True,25,True,True
+2006-02-03,11.0333333333,Charlotte Bobcats,Los Angeles Lakers,1,25-38,11,two point shot,True,1,True,True
+2006-02-03,14.95,Charlotte Bobcats,Los Angeles Lakers,2,27-45,15,three point jumper,True,24,False,True
+2006-02-03,18.6666666667,Charlotte Bobcats,Los Angeles Lakers,2,34-49,13,layup,True,0,False,True
+2006-02-03,18.8166666667,Charlotte Bobcats,Los Angeles Lakers,2,34-51,15,two point jumper,True,15,True,True
+2006-02-03,24.8166666667,Charlotte Bobcats,Los Angeles Lakers,3,55-63,6,hook shot,True,1,True,True
+2006-02-03,27.65,Charlotte Bobcats,Los Angeles Lakers,3,60-69,7,two point jumper,True,20,True,True
+2006-02-03,28.4166666667,Charlotte Bobcats,Los Angeles Lakers,3,62-72,7,three point jumper,True,23,True,True
+2006-02-03,29.4833333333,Charlotte Bobcats,Los Angeles Lakers,3,64-72,5,three point jumper,True,23,False,True
+2006-02-03,32.8166666667,Charlotte Bobcats,Los Angeles Lakers,3,73-81,5,three point jumper,True,23,True,True
+2006-02-03,33.7666666667,Charlotte Bobcats,Los Angeles Lakers,3,77-82,3,two point jumper,True,17,False,True
+2006-02-03,38.1166666667,Charlotte Bobcats,Los Angeles Lakers,4,86-90,2,two point jumper,True,1,False,True
+2006-02-03,39.1333333333,Charlotte Bobcats,Los Angeles Lakers,4,86-91,2,three point jumper,True,24,False,True
+2006-02-03,40.7333333333,Charlotte Bobcats,Los Angeles Lakers,4,86-94,6,dunk,True,0,True,True
+2006-02-03,41.3166666667,Charlotte Bobcats,Los Angeles Lakers,4,88-94,4,two point jumper,True,21,False,True
+2006-02-03,45.4,Charlotte Bobcats,Los Angeles Lakers,4,93-99,3,three point jumper,True,23,True,True
+2006-12-30,11.0666666667,Charlotte Bobcats,Phoenix Suns,1,23-23,-2,two point jumper,True,19,True,False
+2006-12-30,15.0166666667,Charlotte Bobcats,Phoenix Suns,2,31-28,-5,two point jumper,True,19,False,False
+2006-12-30,16.0666666667,Charlotte Bobcats,Phoenix Suns,2,34-34,-3,three point jumper,True,24,True,False
+2006-12-30,18.7333333333,Charlotte Bobcats,Phoenix Suns,2,38-42,3,free throw,True,15,False,False
+2006-12-30,18.7333333333,Charlotte Bobcats,Phoenix Suns,2,38-43,4,free throw,True,15,True,False
+2006-12-30,39.0,Charlotte Bobcats,Phoenix Suns,4,85-85,-3,three point jumper,True,23,True,False
+2006-12-30,40.6333333333,Charlotte Bobcats,Phoenix Suns,4,89-89,-3,three point jumper,True,23,False,False
+2006-12-30,41.8833333333,Charlotte Bobcats,Phoenix Suns,4,94-92,-5,three point jumper,True,23,True,False
+2006-12-30,43.25,Charlotte Bobcats,Phoenix Suns,4,100-94,-9,three point jumper,True,23,False,False
+2006-02-25,1.56666666667,Charlotte Bobcats,Phoenix Suns,1,6-7,-3,layup,False,0,True,False
+2006-02-25,3.0,Charlotte Bobcats,Phoenix Suns,1,11-11,-3,three point jumper,False,24,True,False
+2006-02-25,4.91666666667,Charlotte Bobcats,Phoenix Suns,1,20-15,2,three point jumper,False,24,True,False
+2006-02-25,6.38333333333,Charlotte Bobcats,Phoenix Suns,1,24-21,1,two point jumper,False,15,True,False
+2006-02-25,9.58333333333,Charlotte Bobcats,Phoenix Suns,1,30-28,0,two point jumper,False,21,False,False
+2006-02-25,10.65,Charlotte Bobcats,Phoenix Suns,1,32-33,-3,two point jumper,False,1,False,False
+2006-02-25,10.9166666667,Charlotte Bobcats,Phoenix Suns,1,35-33,-1,three point jumper,False,25,True,False
+2006-02-25,20.2333333333,Charlotte Bobcats,Phoenix Suns,2,66-54,9,three point jumper,False,25,True,False
+2006-02-25,37.2,Charlotte Bobcats,Phoenix Suns,4,104-108,-7,three point jumper,False,26,False,False
+2006-02-25,42.7,Charlotte Bobcats,Phoenix Suns,4,117-122,-8,three point jumper,False,23,True,False
+2006-02-25,45.4333333333,Charlotte Bobcats,Phoenix Suns,4,118-128,-11,free throw,False,15,False,False
+2006-02-25,45.4333333333,Charlotte Bobcats,Phoenix Suns,4,119-128,-10,free throw,False,15,True,False
+2006-02-25,46.1,Charlotte Bobcats,Phoenix Suns,4,121-128,-9,two point jumper,False,10,True,False
+2006-11-29,14.3833333333,Charlotte Bobcats,Sacramento Kings,2,29-35,-8,two point jumper,False,18,False,True
+2006-11-29,44.3,Charlotte Bobcats,Sacramento Kings,4,80-107,-30,three point jumper,False,25,False,True
+2006-11-29,44.7,Charlotte Bobcats,Sacramento Kings,4,82-107,-27,layup,False,0,True,True
+2006-11-29,46.9166666667,Charlotte Bobcats,Sacramento Kings,4,85-110,-27,two point jumper,False,18,False,True
+2006-11-29,47.2166666667,Charlotte Bobcats,Sacramento Kings,4,90-110,-23,three point jumper,False,26,True,True
+2006-11-29,47.7833333333,Charlotte Bobcats,Sacramento Kings,4,92-110,-20,layup,False,0,True,True
+2006-12-19,13.95,Charlotte Bobcats,Sacramento Kings,2,32-28,-6,two point jumper,True,1,True,True
+2006-12-19,15.0666666667,Charlotte Bobcats,Sacramento Kings,2,34-29,-6,free throw,True,15,True,True
+2006-12-19,15.0666666667,Charlotte Bobcats,Sacramento Kings,2,34-30,-5,free throw,True,15,True,True
+2006-12-19,32.8,Charlotte Bobcats,Sacramento Kings,3,68-73,4,free throw,True,15,True,True
+2006-12-19,32.8,Charlotte Bobcats,Sacramento Kings,3,68-74,5,free throw,True,15,True,True
+2006-12-19,34.7833333333,Charlotte Bobcats,Sacramento Kings,3,73-76,0,three point jumper,True,25,False,True
+2006-12-19,47.6166666667,Charlotte Bobcats,Sacramento Kings,4,99-99,-3,three point jumper,True,24,False,True
+2006-12-19,17.4,Charlotte Bobcats,Sacramento Kings,5,99-99,-2,dunk,True,0,False,True
+2006-12-19,18.55,Charlotte Bobcats,Sacramento Kings,5,99-101,-1,three point jumper,True,24,False,True
+2006-11-02,14.05,Charlotte Bobcats,Chicago Bulls,2,30-24,4,two point jumper,False,10,False,False
+2006-11-02,14.3166666667,Charlotte Bobcats,Chicago Bulls,2,32-24,6,two point jumper,False,22,True,False
+2006-11-02,15.9666666667,Charlotte Bobcats,Chicago Bulls,2,34-29,3,two point shot,False,1,False,False
+2006-11-02,35.6666666667,Charlotte Bobcats,Chicago Bulls,3,87-67,19,free throw,False,15,False,False
+2006-11-02,35.6666666667,Charlotte Bobcats,Chicago Bulls,3,88-67,20,free throw,False,15,True,False
+2006-12-20,8.18333333333,Charlotte Bobcats,Chicago Bulls,1,20-17,2,free throw,False,15,False,False
+2006-12-20,8.18333333333,Charlotte Bobcats,Chicago Bulls,1,21-17,3,free throw,False,15,True,False
+2006-12-20,10.4,Charlotte Bobcats,Chicago Bulls,1,28-23,2,three point jumper,False,26,True,False
+2006-12-20,17.45,Charlotte Bobcats,Chicago Bulls,2,44-39,3,two point jumper,False,20,False,False
+2006-12-20,19.7833333333,Charlotte Bobcats,Chicago Bulls,2,52-43,7,two point jumper,False,19,True,False
+2006-12-20,20.25,Charlotte Bobcats,Chicago Bulls,2,52-43,7,two point jumper,False,18,False,False
+2006-12-20,35.0666666667,Charlotte Bobcats,Chicago Bulls,3,75-67,5,three point jumper,False,27,False,False
+2006-12-20,35.6,Charlotte Bobcats,Chicago Bulls,3,77-69,5,three point jumper,False,26,False,False
+2006-12-20,36.8,Charlotte Bobcats,Chicago Bulls,4,77-71,5,free throw,False,15,False,False
+2006-12-20,36.8,Charlotte Bobcats,Chicago Bulls,4,78-71,6,free throw,False,15,True,False
+2006-12-20,37.25,Charlotte Bobcats,Chicago Bulls,4,79-72,6,free throw,False,15,True,False
+2006-12-20,37.25,Charlotte Bobcats,Chicago Bulls,4,80-72,7,free throw,False,15,True,False
+2006-12-20,40.4833333333,Charlotte Bobcats,Chicago Bulls,4,88-76,10,two point jumper,False,18,True,False
+2006-12-28,15.5833333333,Charlotte Bobcats,Chicago Bulls,2,25-32,5,layup,True,0,True,True
+2006-12-28,16.25,Charlotte Bobcats,Chicago Bulls,2,25-32,5,two point jumper,True,23,False,True
+2006-12-28,24.0,Charlotte Bobcats,Chicago Bulls,2,45-45,-3,three point jumper,True,57,False,True
+2006-12-28,34.0166666667,Charlotte Bobcats,Chicago Bulls,3,61-59,-4,two point jumper,True,19,False,True
+2006-12-28,35.4166666667,Charlotte Bobcats,Chicago Bulls,3,63-61,-5,three point jumper,True,23,False,True
+2006-12-28,36.65,Charlotte Bobcats,Chicago Bulls,4,63-67,2,layup,True,0,False,True
+2006-12-28,37.45,Charlotte Bobcats,Chicago Bulls,4,63-67,1,three point jumper,True,27,False,True
+2006-12-28,44.2166666667,Charlotte Bobcats,Chicago Bulls,4,74-82,6,two point jumper,True,1,False,True
+2006-03-31,1.0,Charlotte Bobcats,Chicago Bulls,1,4-4,-2,two point jumper,True,18,True,False
+2006-03-31,1.0,Charlotte Bobcats,Chicago Bulls,1,4-5,0,free throw,True,15,True,False
+2006-03-31,1.4,Charlotte Bobcats,Chicago Bulls,1,6-7,-1,two point jumper,True,20,True,False
+2006-03-31,1.88333333333,Charlotte Bobcats,Chicago Bulls,1,8-7,-4,three point jumper,True,26,False,False
+2006-03-31,3.5,Charlotte Bobcats,Chicago Bulls,1,13-15,-1,three point jumper,True,24,True,False
+2006-03-31,4.0,Charlotte Bobcats,Chicago Bulls,1,15-15,-3,three point jumper,True,26,False,False
+2006-03-31,5.95,Charlotte Bobcats,Chicago Bulls,1,17-21,2,dunk,True,0,True,False
+2006-03-31,6.63333333333,Charlotte Bobcats,Chicago Bulls,1,19-21,-1,three point jumper,True,24,False,False
+2006-03-31,7.41666666667,Charlotte Bobcats,Chicago Bulls,1,21-21,-2,layup,True,0,False,False
+2006-03-31,9.0,Charlotte Bobcats,Chicago Bulls,1,29-21,-10,two point jumper,True,20,False,False
+2006-03-31,10.1,Charlotte Bobcats,Chicago Bulls,1,31-25,-8,two point jumper,True,20,True,False
+2006-03-31,10.75,Charlotte Bobcats,Chicago Bulls,1,31-25,-8,two point jumper,True,16,False,False
+2006-03-31,11.3666666667,Charlotte Bobcats,Chicago Bulls,1,33-25,-11,three point jumper,True,23,False,False
+2006-03-31,23.3,Charlotte Bobcats,Chicago Bulls,2,65-43,-25,three point jumper,True,25,False,False
+2006-03-31,24.0,Charlotte Bobcats,Chicago Bulls,2,67-43,-27,three point jumper,True,52,False,False
+2006-03-31,28.5666666667,Charlotte Bobcats,Chicago Bulls,3,71-57,-16,layup,True,0,True,False
+2006-03-31,31.2,Charlotte Bobcats,Chicago Bulls,3,74-59,-18,three point jumper,True,23,False,False
+2006-03-31,37.45,Charlotte Bobcats,Chicago Bulls,4,85-77,-11,three point jumper,True,23,True,False
+2006-03-31,38.0,Charlotte Bobcats,Chicago Bulls,4,87-77,-13,three point jumper,True,25,False,False
+2006-03-31,40.7333333333,Charlotte Bobcats,Chicago Bulls,4,90-80,-11,free throw,True,15,True,False
+2006-03-31,40.7333333333,Charlotte Bobcats,Chicago Bulls,4,90-81,-10,free throw,True,15,True,False
+2006-03-31,42.7333333333,Charlotte Bobcats,Chicago Bulls,4,95-86,-11,two point jumper,True,6,True,False
+2006-03-31,44.4666666667,Charlotte Bobcats,Chicago Bulls,4,101-89,-14,layup,True,0,True,False
+2006-03-31,44.4666666667,Charlotte Bobcats,Chicago Bulls,4,101-90,-12,free throw,True,15,True,False
+2006-03-31,44.95,Charlotte Bobcats,Chicago Bulls,4,103-91,-13,free throw,True,15,True,False
+2006-03-31,44.95,Charlotte Bobcats,Chicago Bulls,4,103-92,-12,free throw,True,15,True,False
+2006-03-31,45.4666666667,Charlotte Bobcats,Chicago Bulls,4,103-92,-14,three point jumper,True,25,False,False
+2006-03-31,46.85,Charlotte Bobcats,Chicago Bulls,4,105-96,-10,free throw,True,15,True,False
+2006-03-31,46.85,Charlotte Bobcats,Chicago Bulls,4,105-97,-9,free throw,True,15,True,False
+2006-01-30,3.56666666667,Charlotte Bobcats,Cleveland Cavaliers,1,9-7,-4,two point jumper,True,18,False,True
+2006-01-30,3.65,Charlotte Bobcats,Cleveland Cavaliers,1,9-7,-5,three point jumper,True,23,False,True
+2006-01-30,11.0166666667,Charlotte Bobcats,Cleveland Cavaliers,1,27-19,-10,layup,True,0,True,True
+2006-01-30,19.9166666667,Charlotte Bobcats,Cleveland Cavaliers,2,46-32,-17,three point jumper,True,26,False,True
+2006-01-30,21.0,Charlotte Bobcats,Cleveland Cavaliers,2,49-35,-17,three point jumper,True,24,True,True
+2006-01-30,22.1333333333,Charlotte Bobcats,Cleveland Cavaliers,2,54-35,-22,three point jumper,True,26,False,True
+2006-01-30,22.4833333333,Charlotte Bobcats,Cleveland Cavaliers,2,54-38,-19,three point jumper,True,25,True,True
+2006-01-30,23.05,Charlotte Bobcats,Cleveland Cavaliers,2,54-38,-19,three point jumper,True,25,False,True
+2006-01-30,23.5333333333,Charlotte Bobcats,Cleveland Cavaliers,2,56-39,-20,three point jumper,True,24,False,True
+2006-01-30,27.6833333333,Charlotte Bobcats,Cleveland Cavaliers,3,66-48,-21,three point jumper,True,23,True,True
+2006-03-22,0.45,Charlotte Bobcats,Cleveland Cavaliers,1,0-0,-2,two point jumper,False,21,False,False
+2006-03-22,4.78333333333,Charlotte Bobcats,Cleveland Cavaliers,1,13-10,0,three point jumper,False,23,True,False
+2006-03-22,4.78333333333,Charlotte Bobcats,Cleveland Cavaliers,1,14-10,3,free throw,False,15,True,False
+2006-03-22,5.41666666667,Charlotte Bobcats,Cleveland Cavaliers,1,14-12,-1,three point jumper,False,25,False,False
+2006-03-22,9.86666666667,Charlotte Bobcats,Cleveland Cavaliers,1,22-24,-5,three point jumper,False,24,False,False
+2006-03-22,11.2333333333,Charlotte Bobcats,Cleveland Cavaliers,1,22-30,-10,two point jumper,False,13,False,False
+2006-03-22,15.0666666667,Charlotte Bobcats,Cleveland Cavaliers,2,32-37,-8,three point jumper,False,22,True,False
+2006-03-22,16.7333333333,Charlotte Bobcats,Cleveland Cavaliers,2,37-42,-8,three point jumper,False,24,True,False
+2006-03-22,19.5333333333,Charlotte Bobcats,Cleveland Cavaliers,2,42-47,-8,three point jumper,False,26,False,False
+2006-03-22,22.8833333333,Charlotte Bobcats,Cleveland Cavaliers,2,46-53,-10,three point jumper,False,25,False,False
+2006-03-22,25.1833333333,Charlotte Bobcats,Cleveland Cavaliers,3,49-59,-13,three point jumper,False,23,True,False
+2006-03-22,26.6166666667,Charlotte Bobcats,Cleveland Cavaliers,3,51-61,-13,three point jumper,False,26,False,False
+2006-03-22,27.9,Charlotte Bobcats,Cleveland Cavaliers,3,55-61,-8,two point jumper,False,22,True,False
+2006-03-22,28.45,Charlotte Bobcats,Cleveland Cavaliers,3,55-61,-9,three point jumper,False,23,False,False
+2006-03-22,30.7,Charlotte Bobcats,Cleveland Cavaliers,3,61-64,-4,free throw,False,15,True,False
+2006-03-22,30.7,Charlotte Bobcats,Cleveland Cavaliers,3,62-64,-3,free throw,False,15,True,False
+2006-03-22,41.9166666667,Charlotte Bobcats,Cleveland Cavaliers,4,90-90,-3,three point jumper,False,23,False,False
+2006-03-22,42.2,Charlotte Bobcats,Cleveland Cavaliers,4,90-90,-3,three point jumper,False,23,False,False
+2006-03-22,17.7166666667,Charlotte Bobcats,Cleveland Cavaliers,5,104-106,-5,three point jumper,False,25,False,False
+2006-04-02,0.333333333333,Charlotte Bobcats,Cleveland Cavaliers,1,0-2,0,two point jumper,True,17,True,True
+2006-04-02,0.95,Charlotte Bobcats,Cleveland Cavaliers,1,2-2,-2,two point jumper,True,1,False,True
+2006-04-02,1.5,Charlotte Bobcats,Cleveland Cavaliers,1,4-2,-4,two point shot,True,1,False,True
+2006-04-02,2.06666666667,Charlotte Bobcats,Cleveland Cavaliers,1,6-6,-2,two point shot,True,1,True,True
+2006-04-02,2.61666666667,Charlotte Bobcats,Cleveland Cavaliers,1,8-8,-2,layup,True,0,True,True
+2006-04-02,3.36666666667,Charlotte Bobcats,Cleveland Cavaliers,1,8-8,-2,two point jumper,True,16,False,True
+2006-04-02,3.9,Charlotte Bobcats,Cleveland Cavaliers,1,9-8,-3,two point jumper,True,19,False,True
+2006-04-02,6.73333333333,Charlotte Bobcats,Cleveland Cavaliers,1,16-12,-6,two point jumper,True,18,False,True
+2006-04-02,8.48333333333,Charlotte Bobcats,Cleveland Cavaliers,1,23-17,-9,three point jumper,True,25,True,True
+2006-04-02,12.6333333333,Charlotte Bobcats,Cleveland Cavaliers,2,30-25,-7,layup,True,0,True,True
+2006-04-02,12.6333333333,Charlotte Bobcats,Cleveland Cavaliers,2,30-26,-5,free throw,True,15,True,True
+2006-04-02,17.95,Charlotte Bobcats,Cleveland Cavaliers,2,41-34,-9,two point jumper,True,18,False,True
+2006-04-02,19.3833333333,Charlotte Bobcats,Cleveland Cavaliers,2,41-37,-5,free throw,True,15,True,True
+2006-04-02,19.3833333333,Charlotte Bobcats,Cleveland Cavaliers,2,41-37,-5,free throw,True,15,False,True
+2006-04-02,29.5333333333,Charlotte Bobcats,Cleveland Cavaliers,3,61-56,-8,three point jumper,True,23,False,True
+2006-04-02,30.2,Charlotte Bobcats,Cleveland Cavaliers,3,63-56,-10,three point jumper,True,25,False,True
+2006-04-02,33.8166666667,Charlotte Bobcats,Cleveland Cavaliers,3,69-63,-7,free throw,True,15,True,True
+2006-04-02,33.8166666667,Charlotte Bobcats,Cleveland Cavaliers,3,69-64,-6,free throw,True,15,True,True
+2006-04-02,34.3333333333,Charlotte Bobcats,Cleveland Cavaliers,3,69-66,-5,two point jumper,True,12,True,True
+2006-04-02,36.0,Charlotte Bobcats,Cleveland Cavaliers,3,76-70,-8,two point jumper,True,19,False,True
+2006-04-02,46.7833333333,Charlotte Bobcats,Cleveland Cavaliers,4,96-93,-4,free throw,True,15,True,True
+2006-04-02,46.7833333333,Charlotte Bobcats,Cleveland Cavaliers,4,96-93,-4,free throw,True,15,False,True
+2006-04-02,46.7833333333,Charlotte Bobcats,Cleveland Cavaliers,4,96-93,-4,free throw,True,15,False,True
+2006-04-02,47.3833333333,Charlotte Bobcats,Cleveland Cavaliers,4,96-93,-6,three point jumper,True,26,False,True
+2006-12-17,6.56666666667,Charlotte Bobcats,Detroit Pistons,1,15-6,-11,two point jumper,True,17,False,True
+2006-12-17,11.9166666667,Charlotte Bobcats,Detroit Pistons,1,21-12,-11,dunk,True,0,True,True
+2006-12-17,13.15,Charlotte Bobcats,Detroit Pistons,2,21-15,-9,three point jumper,True,24,False,True
+2006-12-17,16.2,Charlotte Bobcats,Detroit Pistons,2,29-17,-14,two point jumper,True,21,False,True
+2006-12-17,16.2833333333,Charlotte Bobcats,Detroit Pistons,2,29-17,-15,three point jumper,True,26,False,True
+2006-12-17,32.1666666667,Charlotte Bobcats,Detroit Pistons,3,63-45,-20,two point jumper,True,16,True,True
+2006-12-17,34.9833333333,Charlotte Bobcats,Detroit Pistons,3,71-51,-23,three point jumper,True,25,False,True
+2006-12-17,43.1,Charlotte Bobcats,Detroit Pistons,4,95-69,-28,layup,True,0,True,True
+2006-12-17,45.8166666667,Charlotte Bobcats,Detroit Pistons,4,97-73,-26,layup,True,0,True,True
+2006-01-14,5.78333333333,Charlotte Bobcats,Detroit Pistons,1,11-12,-3,two point jumper,False,18,True,True
+2006-01-14,23.2666666667,Charlotte Bobcats,Detroit Pistons,2,41-57,-18,two point jumper,False,1,False,True
+2006-01-14,31.6333333333,Charlotte Bobcats,Detroit Pistons,3,59-72,-15,two point jumper,False,19,True,True
+2006-01-14,35.0,Charlotte Bobcats,Detroit Pistons,3,68-83,-17,two point jumper,False,18,True,True
+2006-01-14,35.6166666667,Charlotte Bobcats,Detroit Pistons,3,70-83,-15,two point jumper,False,19,True,True
+2006-01-14,36.45,Charlotte Bobcats,Detroit Pistons,4,70-83,-15,two point jumper,False,19,False,True
+2006-01-14,37.1833333333,Charlotte Bobcats,Detroit Pistons,4,72-86,-16,two point jumper,False,19,True,True
+2006-01-14,38.7,Charlotte Bobcats,Detroit Pistons,4,76-90,-16,layup,False,0,True,True
+2006-01-14,41.6666666667,Charlotte Bobcats,Detroit Pistons,4,77-95,-20,two point jumper,False,20,False,True
+2006-01-14,44.3333333333,Charlotte Bobcats,Detroit Pistons,4,82-101,-21,two point jumper,False,21,False,True
+2006-01-14,44.8333333333,Charlotte Bobcats,Detroit Pistons,4,82-103,-24,three point jumper,False,26,False,True
+2006-01-14,47.3333333333,Charlotte Bobcats,Detroit Pistons,4,91-111,-23,three point jumper,False,24,False,True
+2006-03-12,2.25,Charlotte Bobcats,Detroit Pistons,1,6-6,-3,three point jumper,False,26,True,False
+2006-03-12,3.95,Charlotte Bobcats,Detroit Pistons,1,8-12,-6,two point jumper,False,18,False,False
+2006-03-12,7.6,Charlotte Bobcats,Detroit Pistons,1,17-16,-1,two point jumper,False,18,True,False
+2006-03-12,11.0833333333,Charlotte Bobcats,Detroit Pistons,1,19-21,-4,two point jumper,False,22,False,False
+2006-03-12,11.5333333333,Charlotte Bobcats,Detroit Pistons,1,19-21,-4,layup,False,0,False,False
+2006-03-12,20.3666666667,Charlotte Bobcats,Detroit Pistons,2,32-42,-13,three point jumper,False,28,False,False
+2006-03-12,21.7,Charlotte Bobcats,Detroit Pistons,2,37-48,-14,three point jumper,False,25,True,False
+2006-03-12,22.2166666667,Charlotte Bobcats,Detroit Pistons,2,37-48,-14,three point jumper,False,26,False,False
+2006-03-12,26.7166666667,Charlotte Bobcats,Detroit Pistons,3,43-56,-15,two point jumper,False,15,True,False
+2006-03-12,28.8833333333,Charlotte Bobcats,Detroit Pistons,3,49-61,-14,two point jumper,False,15,True,False
+2006-03-12,34.2166666667,Charlotte Bobcats,Detroit Pistons,3,60-72,-15,three point jumper,False,25,False,False
+2006-03-12,42.6,Charlotte Bobcats,Detroit Pistons,4,73-80,-8,free throw,False,15,True,False
+2006-03-12,42.6,Charlotte Bobcats,Detroit Pistons,4,73-80,-8,free throw,False,15,False,False
+2006-03-12,45.4333333333,Charlotte Bobcats,Detroit Pistons,4,75-88,-15,two point jumper,False,18,False,False
+2006-03-18,1.31666666667,Charlotte Bobcats,Detroit Pistons,1,2-5,0,three point jumper,True,23,True,False
+2006-03-18,4.88333333333,Charlotte Bobcats,Detroit Pistons,1,12-9,-5,two point jumper,True,19,False,False
+2006-03-18,10.7333333333,Charlotte Bobcats,Detroit Pistons,1,22-21,-4,three point jumper,True,25,False,False
+2006-03-18,18.45,Charlotte Bobcats,Detroit Pistons,2,41-44,0,three point jumper,True,23,False,False
+2006-03-18,20.7166666667,Charlotte Bobcats,Detroit Pistons,2,47-46,-3,two point jumper,True,16,False,False
+2006-03-18,21.5333333333,Charlotte Bobcats,Detroit Pistons,2,47-48,-2,three point jumper,True,23,False,False
+2006-03-18,22.35,Charlotte Bobcats,Detroit Pistons,2,50-50,-2,layup,True,0,True,False
+2006-03-18,22.35,Charlotte Bobcats,Detroit Pistons,2,50-51,0,free throw,True,15,True,False
+2006-03-18,28.8166666667,Charlotte Bobcats,Detroit Pistons,3,63-66,1,two point jumper,True,1,False,False
+2006-03-18,30.95,Charlotte Bobcats,Detroit Pistons,3,73-74,-2,three point jumper,True,25,True,False
+2006-11-18,11.8,Charlotte Bobcats,Indiana Pacers,1,18-28,-12,two point jumper,False,18,False,False
+2006-11-18,17.0333333333,Charlotte Bobcats,Indiana Pacers,2,35-33,-1,three point jumper,False,26,False,False
+2006-11-18,23.0666666667,Charlotte Bobcats,Indiana Pacers,2,46-45,-1,layup,False,0,False,False
+2006-11-18,23.35,Charlotte Bobcats,Indiana Pacers,2,48-45,1,layup,False,0,True,False
+2006-11-18,23.35,Charlotte Bobcats,Indiana Pacers,2,48-45,2,free throw,False,15,False,False
+2006-11-18,23.9333333333,Charlotte Bobcats,Indiana Pacers,2,48-48,-3,three point jumper,False,26,False,False
+2006-11-18,40.95,Charlotte Bobcats,Indiana Pacers,4,67-79,-14,two point jumper,False,21,False,False
+2006-01-18,9.93333333333,Charlotte Bobcats,Indiana Pacers,1,29-19,7,three point jumper,False,26,True,False
+2006-01-18,10.55,Charlotte Bobcats,Indiana Pacers,1,29-21,6,two point jumper,False,19,False,False
+2006-01-18,31.1666666667,Charlotte Bobcats,Indiana Pacers,3,62-63,-3,two point shot,False,1,True,False
+2006-01-18,31.8833333333,Charlotte Bobcats,Indiana Pacers,3,62-63,-4,three point jumper,False,24,False,False
+2006-01-18,38.4,Charlotte Bobcats,Indiana Pacers,4,70-78,-10,two point jumper,False,1,False,False
+2006-01-18,47.7666666667,Charlotte Bobcats,Indiana Pacers,4,92-97,-7,two point jumper,False,3,False,False
+2006-01-18,47.8166666667,Charlotte Bobcats,Indiana Pacers,4,92-97,-8,three point jumper,False,29,False,False
+2006-04-15,8.31666666667,Charlotte Bobcats,Indiana Pacers,1,12-14,0,two point jumper,True,18,False,True
+2006-04-15,16.85,Charlotte Bobcats,Indiana Pacers,2,27-27,-2,layup,True,0,False,True
+2006-04-15,17.6,Charlotte Bobcats,Indiana Pacers,2,27-30,1,layup,True,0,False,True
+2006-04-15,19.1666666667,Charlotte Bobcats,Indiana Pacers,2,29-33,2,two point jumper,True,16,True,True
+2006-04-15,21.8666666667,Charlotte Bobcats,Indiana Pacers,2,31-41,8,layup,True,0,True,True
+2006-04-15,27.55,Charlotte Bobcats,Indiana Pacers,3,46-51,3,two point jumper,True,17,False,True
+2006-04-15,28.0333333333,Charlotte Bobcats,Indiana Pacers,3,49-53,2,layup,True,0,True,True
+2006-04-15,28.4833333333,Charlotte Bobcats,Indiana Pacers,3,49-53,1,three point jumper,True,24,False,True
+2006-01-13,7.16666666667,Charlotte Bobcats,Milwaukee Bucks,1,17-12,-7,layup,True,0,True,False
+2006-01-13,8.75,Charlotte Bobcats,Milwaukee Bucks,1,21-12,-12,three point jumper,True,23,False,False
+2006-01-13,12.45,Charlotte Bobcats,Milwaukee Bucks,2,31-15,-18,two point jumper,True,21,False,False
+2006-01-13,13.5166666667,Charlotte Bobcats,Milwaukee Bucks,2,33-17,-18,layup,True,0,False,False
+2006-01-13,13.6333333333,Charlotte Bobcats,Milwaukee Bucks,2,33-17,-19,three point jumper,True,23,False,False
+2006-01-13,18.35,Charlotte Bobcats,Milwaukee Bucks,2,39-30,-11,two point jumper,True,19,False,False
+2006-01-13,18.8833333333,Charlotte Bobcats,Milwaukee Bucks,2,41-33,-11,three point jumper,True,26,True,False
+2006-01-13,31.6333333333,Charlotte Bobcats,Milwaukee Bucks,3,69-60,-11,two point jumper,True,16,False,False
+2006-01-13,33.7166666667,Charlotte Bobcats,Milwaukee Bucks,3,76-65,-13,tip shot,True,0,True,False
+2006-01-13,34.15,Charlotte Bobcats,Milwaukee Bucks,3,78-68,-13,three point jumper,True,25,True,False
+2006-01-13,37.25,Charlotte Bobcats,Milwaukee Bucks,4,80-76,-7,three point jumper,True,25,False,False
+2006-01-13,38.5,Charlotte Bobcats,Milwaukee Bucks,4,82-83,-2,three point jumper,True,22,True,False
+2006-01-13,40.2333333333,Charlotte Bobcats,Milwaukee Bucks,4,84-85,-2,three point jumper,True,22,False,False
+2006-01-13,40.3166666667,Charlotte Bobcats,Milwaukee Bucks,4,84-85,-2,three point jumper,True,25,False,False
+2006-01-13,47.9166666667,Charlotte Bobcats,Milwaukee Bucks,4,103-100,-5,two point jumper,True,15,False,False
+2006-01-13,48.0,Charlotte Bobcats,Milwaukee Bucks,4,103-100,-5,two point jumper,True,9,False,False
+2006-01-21,3.15,Charlotte Bobcats,Milwaukee Bucks,1,10-0,8,layup,False,0,True,True
+2006-01-21,9.66666666667,Charlotte Bobcats,Milwaukee Bucks,1,19-14,3,two point jumper,False,15,True,True
+2006-01-21,11.4166666667,Charlotte Bobcats,Milwaukee Bucks,1,22-21,-2,three point jumper,False,26,True,True
+2006-01-21,19.9833333333,Charlotte Bobcats,Milwaukee Bucks,2,40-38,0,two point jumper,False,17,False,True
+2006-01-21,24.55,Charlotte Bobcats,Milwaukee Bucks,3,47-46,-2,three point jumper,False,24,False,True
+2006-01-21,30.0333333333,Charlotte Bobcats,Milwaukee Bucks,3,57-59,-5,three point jumper,False,26,False,True
+2006-01-21,36.2666666667,Charlotte Bobcats,Milwaukee Bucks,4,66-78,-13,free throw,False,15,True,True
+2006-01-21,36.2666666667,Charlotte Bobcats,Milwaukee Bucks,4,67-78,-12,free throw,False,15,True,True
+2006-01-21,37.2666666667,Charlotte Bobcats,Milwaukee Bucks,4,68-80,-13,free throw,False,15,True,True
+2006-01-21,37.2666666667,Charlotte Bobcats,Milwaukee Bucks,4,69-80,-12,free throw,False,15,True,True
+2006-01-21,37.2666666667,Charlotte Bobcats,Milwaukee Bucks,4,70-80,-11,free throw,False,15,True,True
+2006-01-21,40.9166666667,Charlotte Bobcats,Milwaukee Bucks,4,77-84,-9,layup,False,0,True,True
+2006-01-21,41.8166666667,Charlotte Bobcats,Milwaukee Bucks,4,81-87,-8,two point jumper,False,16,True,True
+2006-01-21,45.55,Charlotte Bobcats,Milwaukee Bucks,4,87-98,-13,two point jumper,False,15,True,True
+2006-02-11,0.616666666667,Charlotte Bobcats,Milwaukee Bucks,1,0-2,-5,three point jumper,False,23,False,False
+2006-02-11,2.93333333333,Charlotte Bobcats,Milwaukee Bucks,1,6-7,-3,two point jumper,False,18,False,False
+2006-02-11,6.73333333333,Charlotte Bobcats,Milwaukee Bucks,1,15-13,-1,three point jumper,False,23,False,False
+2006-02-11,9.33333333333,Charlotte Bobcats,Milwaukee Bucks,1,25-19,3,three point jumper,False,26,False,False
+2006-02-11,15.0166666667,Charlotte Bobcats,Milwaukee Bucks,2,32-35,-6,three point jumper,False,23,True,False
+2006-02-11,20.75,Charlotte Bobcats,Milwaukee Bucks,2,42-44,-5,three point jumper,False,23,False,False
+2006-02-11,27.2666666667,Charlotte Bobcats,Milwaukee Bucks,3,60-53,5,layup,False,0,False,False
+2006-02-11,29.1333333333,Charlotte Bobcats,Milwaukee Bucks,3,63-57,5,free throw,False,15,True,False
+2006-02-11,29.1333333333,Charlotte Bobcats,Milwaukee Bucks,3,64-57,6,free throw,False,15,True,False
+2006-02-11,30.9166666667,Charlotte Bobcats,Milwaukee Bucks,3,69-61,5,three point jumper,False,24,True,False
+2006-02-11,39.0833333333,Charlotte Bobcats,Milwaukee Bucks,4,77-82,-8,three point jumper,False,23,False,False
+2006-02-11,42.5333333333,Charlotte Bobcats,Milwaukee Bucks,4,85-87,-4,two point jumper,False,20,True,False
+2006-02-11,43.2,Charlotte Bobcats,Milwaukee Bucks,4,87-89,-4,two point jumper,False,1,True,False
+2006-02-11,43.9166666667,Charlotte Bobcats,Milwaukee Bucks,4,87-91,-7,three point jumper,False,23,False,False
+2006-02-11,46.8,Charlotte Bobcats,Milwaukee Bucks,4,91-93,-5,three point jumper,False,25,False,False
+2006-03-03,1.96666666667,Charlotte Bobcats,Dallas Mavericks,1,3-8,-8,three point jumper,False,25,True,False
+2006-03-03,2.61666666667,Charlotte Bobcats,Dallas Mavericks,1,6-8,-5,three point jumper,False,24,True,False
+2006-03-03,5.48333333333,Charlotte Bobcats,Dallas Mavericks,1,11-16,-8,three point jumper,False,25,True,False
+2006-03-03,6.28333333333,Charlotte Bobcats,Dallas Mavericks,1,13-16,-5,tip shot,False,0,True,False
+2006-03-03,7.16666666667,Charlotte Bobcats,Dallas Mavericks,1,13-16,-6,three point jumper,False,25,False,False
+2006-03-03,8.06666666667,Charlotte Bobcats,Dallas Mavericks,1,14-16,-4,layup,False,0,False,False
+2006-03-03,8.28333333333,Charlotte Bobcats,Dallas Mavericks,1,14-16,-4,two point jumper,False,1,False,False
+2006-03-03,22.5333333333,Charlotte Bobcats,Dallas Mavericks,2,34-32,-1,three point jumper,False,24,False,False
+2006-03-03,25.0,Charlotte Bobcats,Dallas Mavericks,3,37-38,-4,three point jumper,False,24,False,False
+2006-01-10,11.7833333333,Charlotte Bobcats,Houston Rockets,1,21-24,1,two point jumper,True,19,True,True
+2006-01-10,25.1166666667,Charlotte Bobcats,Houston Rockets,3,25-24,-3,two point jumper,True,1,False,True
+2006-01-10,28.2833333333,Charlotte Bobcats,Houston Rockets,3,28-30,0,two point jumper,True,21,False,True
+2006-01-10,28.7833333333,Charlotte Bobcats,Houston Rockets,3,28-31,1,two point jumper,True,19,False,True
+2006-01-10,17.1166666667,Charlotte Bobcats,Houston Rockets,5,58-57,-3,two point jumper,True,16,False,True
+2006-01-10,18.4,Charlotte Bobcats,Houston Rockets,5,58-59,-2,three point jumper,True,26,False,True
+2006-01-10,13.1,Charlotte Bobcats,Houston Rockets,6,65-64,-3,two point jumper,True,16,False,True
+2006-01-25,3.31666666667,Charlotte Bobcats,Houston Rockets,1,6-4,-1,three point jumper,False,26,False,True
+2006-01-25,7.1,Charlotte Bobcats,Houston Rockets,1,13-10,0,three point jumper,False,25,True,True
+2006-01-25,7.73333333333,Charlotte Bobcats,Houston Rockets,1,13-12,-2,three point jumper,False,25,False,True
+2006-01-25,13.3333333333,Charlotte Bobcats,Houston Rockets,2,22-29,-9,two point jumper,False,19,True,True
+2006-01-25,19.85,Charlotte Bobcats,Houston Rockets,2,29-43,-17,three point jumper,False,26,True,True
+2006-01-25,20.75,Charlotte Bobcats,Houston Rockets,2,34-47,-16,three point jumper,False,25,True,True
+2006-01-25,23.6,Charlotte Bobcats,Houston Rockets,2,44-50,-9,three point jumper,False,26,False,True
+2006-01-25,41.7833333333,Charlotte Bobcats,Houston Rockets,4,52-66,-17,three point jumper,False,24,False,True
+2006-03-26,1.11666666667,Charlotte Bobcats,Memphis Grizzlies,1,2-4,-4,two point jumper,False,22,False,True
+2006-03-26,17.35,Charlotte Bobcats,Memphis Grizzlies,2,28-35,-9,two point jumper,False,18,True,True
+2006-03-26,26.55,Charlotte Bobcats,Memphis Grizzlies,3,49-49,-3,three point jumper,False,25,False,True
+2006-03-26,44.8666666667,Charlotte Bobcats,Memphis Grizzlies,4,91-94,-6,three point jumper,False,24,False,True
+2006-03-26,46.55,Charlotte Bobcats,Memphis Grizzlies,4,93-96,-6,three point jumper,False,24,False,True
+2006-04-12,1.25,Charlotte Bobcats,Memphis Grizzlies,1,3-2,-3,two point jumper,True,19,False,False
+2006-04-12,3.2,Charlotte Bobcats,Memphis Grizzlies,1,5-6,-1,two point shot,True,1,True,False
+2006-04-12,3.93333333333,Charlotte Bobcats,Memphis Grizzlies,1,7-6,-3,two point jumper,True,10,False,False
+2006-04-12,8.71666666667,Charlotte Bobcats,Memphis Grizzlies,1,18-17,-3,two point jumper,True,20,False,False
+2006-04-12,9.03333333333,Charlotte Bobcats,Memphis Grizzlies,1,21-17,-6,two point jumper,True,18,False,False
+2006-04-12,9.46666666667,Charlotte Bobcats,Memphis Grizzlies,1,21-17,-6,tip shot,True,0,False,False
+2006-04-12,20.4166666667,Charlotte Bobcats,Memphis Grizzlies,2,41-37,-7,three point jumper,True,25,False,False
+2006-04-12,21.2166666667,Charlotte Bobcats,Memphis Grizzlies,2,41-39,-5,three point jumper,True,23,False,False
+2006-04-12,36.4,Charlotte Bobcats,Memphis Grizzlies,4,47-46,-3,two point jumper,True,17,False,False
+2006-04-12,40.8166666667,Charlotte Bobcats,Memphis Grizzlies,4,51-55,1,three point jumper,True,24,True,False
+2006-04-12,43.4166666667,Charlotte Bobcats,Memphis Grizzlies,4,58-59,-2,three point jumper,True,26,False,False
+2006-01-02,6.53333333333,Charlotte Bobcats,New Orleans Pelicans,1,17-13,2,dunk,False,0,True,True
+2006-01-02,8.06666666667,Charlotte Bobcats,New Orleans Pelicans,1,19-15,2,two point jumper,False,19,False,True
+2006-01-02,19.8833333333,Charlotte Bobcats,New Orleans Pelicans,2,43-42,-1,two point jumper,False,1,True,True
+2006-01-02,20.6666666667,Charlotte Bobcats,New Orleans Pelicans,2,46-44,-1,three point jumper,False,25,True,True
+2006-01-02,22.1333333333,Charlotte Bobcats,New Orleans Pelicans,2,48-46,-1,three point jumper,False,25,False,True
+2006-01-02,33.8,Charlotte Bobcats,New Orleans Pelicans,3,63-68,-8,three point jumper,False,25,False,True
+2006-01-02,37.3833333333,Charlotte Bobcats,New Orleans Pelicans,4,68-76,-10,two point jumper,False,16,False,True
+2006-01-02,43.5333333333,Charlotte Bobcats,New Orleans Pelicans,4,80-88,-11,three point jumper,False,24,False,True
+2006-01-16,10.5833333333,Charlotte Bobcats,New Orleans Pelicans,1,25-23,-5,three point jumper,True,24,True,True
+2006-01-16,10.9166666667,Charlotte Bobcats,New Orleans Pelicans,1,25-25,-2,two point jumper,True,16,True,True
+2006-01-16,15.95,Charlotte Bobcats,New Orleans Pelicans,2,34-29,-7,two point jumper,True,17,False,True
+2006-01-16,31.0333333333,Charlotte Bobcats,New Orleans Pelicans,3,76-58,-20,two point jumper,True,20,False,True
+2006-01-16,33.1,Charlotte Bobcats,New Orleans Pelicans,3,83-65,-21,three point jumper,True,24,True,True
+2006-11-09,12.4666666667,Charlotte Bobcats,San Antonio Spurs,2,30-19,-13,two point shot,True,12,False,False
+2006-11-09,16.5333333333,Charlotte Bobcats,San Antonio Spurs,2,30-27,-6,three point jumper,True,26,False,False
+2006-01-24,3.06666666667,Charlotte Bobcats,San Antonio Spurs,1,6-11,-7,two point jumper,False,21,False,True
+2006-01-24,5.81666666667,Charlotte Bobcats,San Antonio Spurs,1,11-17,-9,three point jumper,False,24,True,True
+2006-01-24,7.06666666667,Charlotte Bobcats,San Antonio Spurs,1,13-19,-8,two point jumper,False,12,False,True
+2006-01-24,21.4,Charlotte Bobcats,San Antonio Spurs,2,34-46,-14,two point jumper,False,16,True,True
+2006-01-24,26.05,Charlotte Bobcats,San Antonio Spurs,3,38-55,-20,three point jumper,False,24,False,True
+2006-01-24,27.25,Charlotte Bobcats,San Antonio Spurs,3,40-60,-22,two point jumper,False,17,True,True
+2006-01-24,28.8833333333,Charlotte Bobcats,San Antonio Spurs,3,40-63,-25,two point shot,False,1,False,True
+2006-01-24,31.5333333333,Charlotte Bobcats,San Antonio Spurs,3,47-65,-20,two point jumper,False,19,True,True
+2006-01-24,34.9833333333,Charlotte Bobcats,San Antonio Spurs,3,53-71,-20,two point jumper,False,17,True,True
+2006-01-24,42.75,Charlotte Bobcats,San Antonio Spurs,4,64-87,-25,two point jumper,False,18,True,True
+2006-01-24,43.2,Charlotte Bobcats,San Antonio Spurs,4,64-89,-28,three point jumper,False,25,False,True
+2006-01-24,43.8166666667,Charlotte Bobcats,San Antonio Spurs,4,65-91,-27,free throw,False,15,True,True
+2006-01-24,43.8166666667,Charlotte Bobcats,San Antonio Spurs,4,66-91,-26,free throw,False,15,True,True
+2006-02-01,1.15,Charlotte Bobcats,Atlanta Hawks,1,2-2,-2,two point jumper,True,22,True,True
+2006-02-01,3.75,Charlotte Bobcats,Atlanta Hawks,1,8-4,-7,three point jumper,True,24,False,True
+2006-02-01,10.7166666667,Charlotte Bobcats,Atlanta Hawks,1,22-19,-6,three point jumper,True,25,False,True
+2006-02-01,18.5,Charlotte Bobcats,Atlanta Hawks,2,36-29,-9,layup,True,0,False,True
+2006-02-01,22.6,Charlotte Bobcats,Atlanta Hawks,2,42-40,-5,three point jumper,True,22,False,True
+2006-02-01,36.95,Charlotte Bobcats,Atlanta Hawks,4,47-42,-7,two point jumper,True,21,True,True
+2006-02-01,41.25,Charlotte Bobcats,Atlanta Hawks,4,58-52,-8,two point jumper,True,16,True,True
+2006-02-01,42.5,Charlotte Bobcats,Atlanta Hawks,4,60-54,-8,two point jumper,True,19,True,True
+2006-02-01,12.5833333333,Charlotte Bobcats,Atlanta Hawks,5,80-66,-17,three point jumper,True,25,False,True
+2006-02-01,16.7166666667,Charlotte Bobcats,Atlanta Hawks,5,88-74,-16,two point jumper,True,18,True,True
+2006-02-01,17.25,Charlotte Bobcats,Atlanta Hawks,5,91-77,-17,three point jumper,True,23,True,True
+2006-02-01,18.8333333333,Charlotte Bobcats,Atlanta Hawks,5,93-80,-16,three point jumper,True,25,False,True
+2006-02-01,20.8833333333,Charlotte Bobcats,Atlanta Hawks,5,100-86,-17,three point jumper,True,26,False,True
+2006-03-28,0.366666666667,Charlotte Bobcats,Atlanta Hawks,1,0-2,0,two point jumper,True,19,True,True
+2006-03-28,8.75,Charlotte Bobcats,Atlanta Hawks,1,21-29,5,three point jumper,True,24,False,True
+2006-03-28,10.1666666667,Charlotte Bobcats,Atlanta Hawks,1,23-33,8,two point jumper,True,19,True,True
+2006-03-28,10.7333333333,Charlotte Bobcats,Atlanta Hawks,1,25-33,6,layup,True,0,False,True
+2006-03-28,22.8833333333,Charlotte Bobcats,Atlanta Hawks,2,58-65,4,three point jumper,True,24,True,True
+2006-03-28,26.6333333333,Charlotte Bobcats,Atlanta Hawks,3,64-71,5,two point jumper,True,17,False,True
+2006-03-28,27.7666666667,Charlotte Bobcats,Atlanta Hawks,3,66-75,7,two point jumper,True,22,True,True
+2006-03-28,30.9833333333,Charlotte Bobcats,Atlanta Hawks,3,74-85,9,layup,True,0,True,True
+2006-03-28,10.65,Charlotte Bobcats,Atlanta Hawks,5,93-93,-2,two point jumper,True,22,False,True
+2006-04-14,1.95,Charlotte Bobcats,Atlanta Hawks,1,2-5,-6,three point jumper,False,24,False,True
+2006-04-14,3.2,Charlotte Bobcats,Atlanta Hawks,1,4-9,-8,three point jumper,False,25,False,True
+2006-04-14,20.5833333333,Charlotte Bobcats,Atlanta Hawks,2,50-51,-2,free throw,False,15,False,True
+2006-04-14,20.5833333333,Charlotte Bobcats,Atlanta Hawks,2,51-51,-1,free throw,False,15,True,True
+2006-04-14,23.4833333333,Charlotte Bobcats,Atlanta Hawks,2,55-53,0,two point shot,False,1,True,True
+2006-04-14,26.3,Charlotte Bobcats,Atlanta Hawks,3,63-55,5,three point jumper,False,25,True,True
+2006-04-14,38.15,Charlotte Bobcats,Atlanta Hawks,4,93-82,9,two point jumper,False,16,False,True
+2006-04-14,39.8666666667,Charlotte Bobcats,Atlanta Hawks,4,93-85,5,three point jumper,False,23,False,True
+2006-04-14,40.6333333333,Charlotte Bobcats,Atlanta Hawks,4,94-85,8,free throw,False,15,True,True
+2006-04-14,40.6333333333,Charlotte Bobcats,Atlanta Hawks,4,94-85,8,free throw,False,15,False,True
+2006-04-14,48.0,Charlotte Bobcats,Atlanta Hawks,4,115-110,4,free throw,False,15,False,True
+2006-04-14,48.0,Charlotte Bobcats,Atlanta Hawks,4,116-110,5,free throw,False,15,True,True
+2006-11-07,12.55,Charlotte Bobcats,Utah Jazz,2,19-14,-7,two point jumper,True,17,True,False
+2006-11-07,15.95,Charlotte Bobcats,Utah Jazz,2,28-23,-8,three point jumper,True,23,True,False
+2006-11-07,28.2833333333,Charlotte Bobcats,Utah Jazz,3,50-45,-8,three point jumper,True,25,False,False
+2006-11-07,33.0333333333,Charlotte Bobcats,Utah Jazz,3,65-51,-17,three point jumper,True,25,False,False
+2006-11-07,35.4666666667,Charlotte Bobcats,Utah Jazz,3,70-61,-10,free throw,True,15,True,False
+2006-11-07,35.4666666667,Charlotte Bobcats,Utah Jazz,3,70-62,-9,free throw,True,15,True,False
+2006-11-07,21.9,Charlotte Bobcats,Utah Jazz,5,93-89,-7,three point jumper,True,27,False,False
+2006-11-15,1.68333333333,Charlotte Bobcats,Orlando Magic,1,0-5,-8,three point jumper,False,26,False,False
+2006-11-15,2.63333333333,Charlotte Bobcats,Orlando Magic,1,4-6,-4,two point shot,False,15,True,False
+2006-11-15,6.98333333333,Charlotte Bobcats,Orlando Magic,1,8-16,-10,two point jumper,False,22,False,False
+2006-11-15,37.3333333333,Charlotte Bobcats,Orlando Magic,4,64-66,-4,two point shot,False,19,True,False
+2006-11-15,38.95,Charlotte Bobcats,Orlando Magic,4,66-69,-5,two point jumper,False,18,False,False
+2006-11-19,16.6333333333,Charlotte Bobcats,Minnesota Timberwolves,2,26-29,-6,three point jumper,False,25,True,True
+2006-11-19,18.45,Charlotte Bobcats,Minnesota Timberwolves,2,26-31,-7,two point jumper,False,19,False,True
+2006-11-19,29.1666666667,Charlotte Bobcats,Minnesota Timberwolves,3,42-52,-13,three point jumper,False,27,False,True
+2006-11-19,32.6166666667,Charlotte Bobcats,Minnesota Timberwolves,3,50-65,-17,two point shot,False,6,True,True
+2006-11-19,35.7333333333,Charlotte Bobcats,Minnesota Timberwolves,3,58-72,-17,three point jumper,False,25,False,True
+2006-11-19,37.8833333333,Charlotte Bobcats,Minnesota Timberwolves,4,58-78,-23,three point jumper,False,26,False,True
+2006-11-19,46.0,Charlotte Bobcats,Minnesota Timberwolves,4,82-98,-18,two point jumper,False,20,True,True
+2006-11-30,32.9333333333,Charlotte Bobcats,Oklahoma City Thunder,3,65-76,-14,three point jumper,False,24,False,True
+2006-12-13,9.21666666667,Charlotte Bobcats,Denver Nuggets,1,20-14,-9,three point jumper,True,26,False,True
+2006-12-13,24.9333333333,Charlotte Bobcats,Denver Nuggets,3,49-46,-5,two point jumper,True,20,False,True
+2006-12-13,25.5666666667,Charlotte Bobcats,Denver Nuggets,3,51-47,-7,three point jumper,True,23,False,True
+2006-12-13,28.4166666667,Charlotte Bobcats,Denver Nuggets,3,57-53,-7,three point jumper,True,23,False,True
+2006-01-07,7.73333333333,Charlotte Bobcats,Orlando Magic,1,16-21,-7,two point jumper,False,20,False,True
+2006-01-07,10.4833333333,Charlotte Bobcats,Orlando Magic,1,22-26,-6,tip shot,False,0,False,True
+2006-01-07,11.95,Charlotte Bobcats,Orlando Magic,1,31-27,1,three point jumper,False,24,True,True
+2006-01-07,13.2666666667,Charlotte Bobcats,Orlando Magic,2,33-29,1,three point jumper,False,25,False,True
+2006-01-07,23.9333333333,Charlotte Bobcats,Orlando Magic,2,50-47,1,layup,False,0,True,True
+2006-01-07,40.4166666667,Charlotte Bobcats,Orlando Magic,4,56-59,-5,two point jumper,False,19,False,True
+2006-01-07,44.1,Charlotte Bobcats,Orlando Magic,4,58-67,-11,two point shot,False,1,False,True
+2006-01-07,46.1166666667,Charlotte Bobcats,Orlando Magic,4,60-75,-17,two point jumper,False,16,True,True
+2006-01-07,46.6166666667,Charlotte Bobcats,Orlando Magic,4,60-75,-18,three point jumper,False,25,False,True
+2006-01-07,10.6666666667,Charlotte Bobcats,Orlando Magic,5,62-84,-24,two point jumper,False,16,False,True
+2006-01-07,11.3,Charlotte Bobcats,Orlando Magic,5,65-84,-22,three point jumper,False,24,True,True
+2006-01-07,16.2833333333,Charlotte Bobcats,Orlando Magic,5,75-98,-26,three point jumper,False,24,False,True
+2006-01-07,21.3,Charlotte Bobcats,Orlando Magic,5,90-106,-19,three point jumper,False,26,False,True
+2006-01-20,11.95,Charlotte Bobcats,Orlando Magic,1,27-21,-9,three point jumper,True,26,False,True
+2006-01-20,12.25,Charlotte Bobcats,Orlando Magic,2,27-21,-9,three point jumper,True,24,False,True
+2006-01-20,30.1333333333,Charlotte Bobcats,Orlando Magic,3,68-52,-19,three point jumper,True,24,False,True
+2006-01-20,30.95,Charlotte Bobcats,Orlando Magic,3,71-52,-21,two point jumper,True,16,False,True
+2006-01-20,36.6166666667,Charlotte Bobcats,Orlando Magic,4,84-68,-19,three point jumper,True,26,True,True
+2006-01-27,1.68333333333,Charlotte Bobcats,Miami Heat,1,5-5,-3,three point jumper,True,23,True,False
+2006-01-27,3.95,Charlotte Bobcats,Miami Heat,1,7-7,-3,three point jumper,True,24,False,False
+2006-01-27,9.66666666667,Charlotte Bobcats,Miami Heat,1,11-18,5,two point jumper,True,21,False,False
+2006-01-27,11.6,Charlotte Bobcats,Miami Heat,1,13-19,5,free throw,True,15,True,False
+2006-01-27,11.6,Charlotte Bobcats,Miami Heat,1,13-20,6,free throw,True,15,True,False
+2006-01-27,18.8833333333,Charlotte Bobcats,Miami Heat,2,22-30,6,two point jumper,True,16,True,False
+2006-01-27,25.6333333333,Charlotte Bobcats,Miami Heat,3,30-39,6,three point jumper,True,24,False,False
+2006-01-27,28.1666666667,Charlotte Bobcats,Miami Heat,3,41-46,3,two point jumper,True,20,False,False
+2006-01-27,28.85,Charlotte Bobcats,Miami Heat,3,43-46,1,two point jumper,True,18,False,False
+2006-01-27,29.1666666667,Charlotte Bobcats,Miami Heat,3,43-48,3,two point jumper,True,18,True,False
+2006-01-27,32.0,Charlotte Bobcats,Miami Heat,3,49-52,1,two point jumper,True,19,False,False
+2006-01-27,32.5166666667,Charlotte Bobcats,Miami Heat,3,49-56,4,three point jumper,True,23,True,False
+2006-01-27,38.8,Charlotte Bobcats,Miami Heat,4,66-60,-9,three point jumper,True,25,False,False
+2006-01-27,40.7833333333,Charlotte Bobcats,Miami Heat,4,70-60,-13,three point jumper,True,24,False,False
+2006-01-27,45.5666666667,Charlotte Bobcats,Miami Heat,4,82-71,-14,three point jumper,True,24,False,False
+2006-01-27,47.2166666667,Charlotte Bobcats,Miami Heat,4,85-76,-11,layup,True,0,False,False
+2006-01-27,47.3333333333,Charlotte Bobcats,Miami Heat,4,85-76,-12,three point jumper,True,25,False,False
+2006-01-28,3.3,Charlotte Bobcats,Washington Wizards,1,2-10,-11,three point jumper,False,24,False,True
+2006-01-28,24.4,Charlotte Bobcats,Washington Wizards,3,57-57,-3,three point jumper,False,23,True,True
+2006-01-28,27.0166666667,Charlotte Bobcats,Washington Wizards,3,59-66,-9,two point jumper,False,20,False,True
+2006-01-28,34.15,Charlotte Bobcats,Washington Wizards,3,73-75,-5,three point jumper,False,25,False,True
+2006-01-28,34.8833333333,Charlotte Bobcats,Washington Wizards,3,73-77,-7,three point jumper,False,26,False,True
+2006-01-28,46.1833333333,Charlotte Bobcats,Washington Wizards,4,96-101,-8,three point jumper,False,25,False,True
+2006-01-28,47.0666666667,Charlotte Bobcats,Washington Wizards,4,99-103,-7,three point jumper,False,22,True,True
+2006-02-06,1.36666666667,Charlotte Bobcats,Oklahoma City Thunder,1,2-4,0,two point jumper,True,21,False,True
+2006-02-06,3.33333333333,Charlotte Bobcats,Oklahoma City Thunder,1,6-10,1,three point jumper,True,26,False,True
+2006-02-06,3.95,Charlotte Bobcats,Oklahoma City Thunder,1,7-10,0,three point jumper,True,23,False,True
+2006-02-06,5.06666666667,Charlotte Bobcats,Oklahoma City Thunder,1,7-14,5,hook shot,True,5,True,True
+2006-02-06,8.9,Charlotte Bobcats,Oklahoma City Thunder,1,11-28,15,two point jumper,True,7,True,True
+2006-02-06,8.9,Charlotte Bobcats,Oklahoma City Thunder,1,11-29,17,free throw,True,15,True,True
+2006-02-06,9.41666666667,Charlotte Bobcats,Oklahoma City Thunder,1,14-29,12,three point jumper,True,25,False,True
+2006-02-06,14.0,Charlotte Bobcats,Oklahoma City Thunder,2,26-36,8,two point jumper,True,20,False,True
+2006-02-06,15.3166666667,Charlotte Bobcats,Oklahoma City Thunder,2,29-40,9,two point jumper,True,13,True,True
+2006-02-06,16.2833333333,Charlotte Bobcats,Oklahoma City Thunder,2,29-43,11,three point jumper,True,26,True,True
+2006-02-06,19.5666666667,Charlotte Bobcats,Oklahoma City Thunder,2,39-50,9,two point jumper,True,21,False,True
+2006-02-06,20.6,Charlotte Bobcats,Oklahoma City Thunder,2,41-56,13,two point shot,True,1,True,True
+2006-02-06,24.75,Charlotte Bobcats,Oklahoma City Thunder,3,54-70,13,three point jumper,True,23,True,True
+2006-02-06,26.5166666667,Charlotte Bobcats,Oklahoma City Thunder,3,56-73,14,three point jumper,True,23,True,True
+2006-02-06,36.5833333333,Charlotte Bobcats,Oklahoma City Thunder,4,74-97,20,three point jumper,True,26,False,True
+2006-02-06,41.6,Charlotte Bobcats,Oklahoma City Thunder,4,89-101,10,two point jumper,True,14,False,True
+2006-02-06,44.2833333333,Charlotte Bobcats,Oklahoma City Thunder,4,94-110,15,free throw,True,15,False,True
+2006-02-06,44.2833333333,Charlotte Bobcats,Oklahoma City Thunder,4,94-110,15,free throw,True,15,False,True
+2006-02-06,45.7333333333,Charlotte Bobcats,Oklahoma City Thunder,4,96-112,14,two point shot,True,1,True,True
+2006-02-06,46.35,Charlotte Bobcats,Oklahoma City Thunder,4,98-114,14,two point jumper,True,1,True,True
+2006-02-06,46.5833333333,Charlotte Bobcats,Oklahoma City Thunder,4,98-115,16,free throw,True,15,True,True
+2006-02-06,46.5833333333,Charlotte Bobcats,Oklahoma City Thunder,4,98-115,16,free throw,True,15,False,True
+2006-02-13,0.616666666667,Charlotte Bobcats,Portland Trail Blazers,1,0-0,-2,two point jumper,True,19,False,False
+2006-02-13,1.2,Charlotte Bobcats,Portland Trail Blazers,1,2-3,-2,three point jumper,True,24,True,False
+2006-02-13,5.35,Charlotte Bobcats,Portland Trail Blazers,1,10-7,-6,three point jumper,True,26,False,False
+2006-02-13,8.6,Charlotte Bobcats,Portland Trail Blazers,1,14-13,-4,three point jumper,True,23,False,False
+2006-02-13,29.7833333333,Charlotte Bobcats,Portland Trail Blazers,3,57-50,-10,three point jumper,True,24,True,False
+2006-02-13,31.1666666667,Charlotte Bobcats,Portland Trail Blazers,3,57-52,-7,layup,True,0,False,False
+2006-02-13,31.2,Charlotte Bobcats,Portland Trail Blazers,3,57-54,-5,layup,True,0,True,False
+2006-02-13,32.6166666667,Charlotte Bobcats,Portland Trail Blazers,3,57-56,-3,tip shot,True,0,False,False
+2006-02-13,34.75,Charlotte Bobcats,Portland Trail Blazers,3,61-60,-4,three point jumper,True,23,False,False
+2006-02-13,44.6,Charlotte Bobcats,Portland Trail Blazers,4,81-74,-10,three point jumper,True,26,False,False
+2006-02-13,46.3333333333,Charlotte Bobcats,Portland Trail Blazers,4,87-76,-14,three point jumper,True,25,False,False
+2006-02-13,46.8666666667,Charlotte Bobcats,Portland Trail Blazers,4,87-77,-11,free throw,True,15,True,False
+2006-02-13,46.8666666667,Charlotte Bobcats,Portland Trail Blazers,4,87-77,-11,free throw,True,15,False,False
+2006-02-21,3.11666666667,Charlotte Bobcats,Denver Nuggets,1,2-11,-11,two point jumper,False,21,False,True
+2006-02-21,3.21666666667,Charlotte Bobcats,Denver Nuggets,1,2-11,-11,two point jumper,False,19,False,True
+2006-02-21,6.7,Charlotte Bobcats,Denver Nuggets,1,12-17,-7,tip shot,False,0,True,True
+2006-02-21,7.16666666667,Charlotte Bobcats,Denver Nuggets,1,14-17,-5,two point jumper,False,19,True,True
+2006-02-21,7.56666666667,Charlotte Bobcats,Denver Nuggets,1,17-19,-5,three point jumper,False,24,True,True
+2006-02-21,8.73333333333,Charlotte Bobcats,Denver Nuggets,1,21-23,-4,two point jumper,False,1,True,True
+2006-02-21,9.56666666667,Charlotte Bobcats,Denver Nuggets,1,23-23,-2,two point jumper,False,18,False,True
+2006-02-21,10.5833333333,Charlotte Bobcats,Denver Nuggets,1,29-27,0,two point jumper,False,1,True,True
+2006-02-21,18.5,Charlotte Bobcats,Denver Nuggets,2,45-37,6,two point jumper,False,22,False,True
+2006-02-21,24.0,Charlotte Bobcats,Denver Nuggets,2,57-45,9,three point jumper,False,28,False,True
+2006-02-21,36.0,Charlotte Bobcats,Denver Nuggets,3,57-45,11,free throw,False,15,False,True
+2006-02-21,25.0666666667,Charlotte Bobcats,Denver Nuggets,3,57-45,9,three point jumper,False,24,False,True
+2006-02-21,30.8166666667,Charlotte Bobcats,Denver Nuggets,3,65-64,0,free throw,False,15,False,True
+2006-02-21,30.8166666667,Charlotte Bobcats,Denver Nuggets,3,66-64,1,free throw,False,15,True,True
+2006-02-21,30.8166666667,Charlotte Bobcats,Denver Nuggets,3,67-64,2,free throw,False,15,True,True
+2006-02-21,42.4166666667,Charlotte Bobcats,Denver Nuggets,4,80-90,-13,three point jumper,False,26,False,True
+2006-02-21,44.3666666667,Charlotte Bobcats,Denver Nuggets,4,82-92,-13,three point jumper,False,23,False,True
+2006-02-21,44.4833333333,Charlotte Bobcats,Denver Nuggets,4,82-92,-13,three point jumper,False,24,False,True
+2006-02-21,45.2,Charlotte Bobcats,Denver Nuggets,4,84-94,-13,three point jumper,False,25,False,True
+2006-02-22,2.13333333333,Charlotte Bobcats,Portland Trail Blazers,1,4-4,-2,two point jumper,False,20,False,True
+2006-02-22,5.53333333333,Charlotte Bobcats,Portland Trail Blazers,1,15-9,4,two point shot,False,1,True,True
+2006-02-22,6.41666666667,Charlotte Bobcats,Portland Trail Blazers,1,17-13,2,two point jumper,False,18,True,True
+2006-02-22,7.13333333333,Charlotte Bobcats,Portland Trail Blazers,1,17-15,0,two point jumper,False,9,False,True
+2006-02-22,8.06666666667,Charlotte Bobcats,Portland Trail Blazers,1,19-17,-1,three point jumper,False,23,False,True
+2006-02-22,8.75,Charlotte Bobcats,Portland Trail Blazers,1,21-17,2,two point jumper,False,23,False,True
+2006-02-22,9.08333333333,Charlotte Bobcats,Portland Trail Blazers,1,23-17,4,two point jumper,False,19,True,True
+2006-02-22,10.6333333333,Charlotte Bobcats,Portland Trail Blazers,1,25-21,2,layup,False,0,False,True
+2006-02-22,11.9833333333,Charlotte Bobcats,Portland Trail Blazers,1,29-24,2,three point jumper,False,25,False,True
+2006-02-22,19.7,Charlotte Bobcats,Portland Trail Blazers,2,51-39,10,two point shot,False,1,False,True
+2006-02-22,28.0333333333,Charlotte Bobcats,Portland Trail Blazers,3,69-67,-1,three point jumper,False,23,True,True
+2006-02-22,29.1666666667,Charlotte Bobcats,Portland Trail Blazers,3,69-67,0,two point shot,False,12,False,True
+2006-02-22,31.7333333333,Charlotte Bobcats,Portland Trail Blazers,3,72-73,-4,three point jumper,False,25,False,True
+2006-02-22,32.4,Charlotte Bobcats,Portland Trail Blazers,3,74-75,-3,two point jumper,False,1,True,True
+2006-02-22,34.8833333333,Charlotte Bobcats,Portland Trail Blazers,3,78-81,-5,two point jumper,False,4,False,True
+2006-02-22,38.9,Charlotte Bobcats,Portland Trail Blazers,4,88-89,-3,two point jumper,False,18,True,True
+2006-02-22,39.3166666667,Charlotte Bobcats,Portland Trail Blazers,4,90-89,-1,layup,False,0,True,True
+2006-02-22,44.1166666667,Charlotte Bobcats,Portland Trail Blazers,4,95-99,-7,three point jumper,False,25,False,True
+2006-03-01,1.68333333333,Charlotte Bobcats,Utah Jazz,1,2-3,-3,two point jumper,False,22,False,False
+2006-03-01,2.61666666667,Charlotte Bobcats,Utah Jazz,1,6-8,-4,two point jumper,False,19,True,False
+2006-03-01,17.0666666667,Charlotte Bobcats,Utah Jazz,2,38-33,2,three point jumper,False,25,True,False
+2006-03-01,18.3166666667,Charlotte Bobcats,Utah Jazz,2,40-35,2,three point jumper,False,25,False,False
+2006-03-01,19.0,Charlotte Bobcats,Utah Jazz,2,42-35,5,two point jumper,False,19,False,False
+2006-03-01,38.2666666667,Charlotte Bobcats,Utah Jazz,4,61-51,8,two point jumper,False,21,False,False
+2006-03-01,38.65,Charlotte Bobcats,Utah Jazz,4,61-51,7,three point jumper,False,25,False,False
+2006-03-01,39.2,Charlotte Bobcats,Utah Jazz,4,61-51,7,three point jumper,False,24,False,False
+2006-03-01,13.0333333333,Charlotte Bobcats,Utah Jazz,5,83-71,9,three point jumper,False,24,False,False
+2006-03-01,16.0333333333,Charlotte Bobcats,Utah Jazz,5,89-73,15,free throw,False,15,True,False
+2006-03-01,16.0333333333,Charlotte Bobcats,Utah Jazz,5,90-73,16,free throw,False,15,True,False
+2006-03-01,16.65,Charlotte Bobcats,Utah Jazz,5,90-75,12,three point jumper,False,25,False,False
+2006-03-01,18.0,Charlotte Bobcats,Utah Jazz,5,94-77,16,free throw,False,15,True,False
+2006-03-01,18.0,Charlotte Bobcats,Utah Jazz,5,94-77,16,free throw,False,15,False,False
+2006-03-01,19.3333333333,Charlotte Bobcats,Utah Jazz,5,99-79,17,three point jumper,False,23,True,False
+2006-03-06,0.883333333333,Charlotte Bobcats,Miami Heat,1,2-2,-2,two point jumper,True,16,False,False
+2006-03-06,4.28333333333,Charlotte Bobcats,Miami Heat,1,8-14,3,three point jumper,True,22,True,False
+2006-03-06,15.8666666667,Charlotte Bobcats,Miami Heat,2,33-40,4,three point jumper,True,23,False,False
+2006-03-06,17.0666666667,Charlotte Bobcats,Miami Heat,2,35-46,8,three point jumper,True,23,True,False
+2006-03-06,18.2166666667,Charlotte Bobcats,Miami Heat,2,37-48,8,three point jumper,True,23,False,False
+2006-03-06,22.6,Charlotte Bobcats,Miami Heat,2,47-58,8,three point jumper,True,24,False,False
+2006-03-06,23.3666666667,Charlotte Bobcats,Miami Heat,2,48-59,10,free throw,True,15,True,False
+2006-03-06,23.3666666667,Charlotte Bobcats,Miami Heat,2,48-59,10,free throw,True,15,False,False
+2006-03-06,30.9166666667,Charlotte Bobcats,Miami Heat,3,63-69,3,three point jumper,True,22,False,False
+2006-03-06,31.8833333333,Charlotte Bobcats,Miami Heat,3,63-71,5,three point jumper,True,25,False,False
+2006-03-06,45.2,Charlotte Bobcats,Miami Heat,4,89-98,6,three point jumper,True,25,False,False
+2006-03-06,46.35,Charlotte Bobcats,Miami Heat,4,93-100,5,two point jumper,True,13,False,False
+2006-03-06,19.8333333333,Charlotte Bobcats,Miami Heat,5,102-104,-1,three point jumper,True,23,False,False
+2006-03-14,3.55,Charlotte Bobcats,Washington Wizards,1,8-9,-2,three point jumper,True,25,True,False
+2006-03-14,4.06666666667,Charlotte Bobcats,Washington Wizards,1,8-9,-1,two point jumper,True,21,False,False
+2006-03-14,5.2,Charlotte Bobcats,Washington Wizards,1,10-9,-3,two point jumper,True,18,False,False
+2006-03-14,7.38333333333,Charlotte Bobcats,Washington Wizards,1,12-13,-1,two point jumper,True,19,True,False
+2006-03-14,17.8166666667,Charlotte Bobcats,Washington Wizards,2,45-40,-8,three point jumper,True,25,False,False
+2006-03-14,18.2,Charlotte Bobcats,Washington Wizards,2,45-40,-8,three point jumper,True,27,False,False
+2006-03-14,18.25,Charlotte Bobcats,Washington Wizards,2,45-40,-7,two point jumper,True,17,False,False
+2006-03-14,20.6,Charlotte Bobcats,Washington Wizards,2,47-45,-5,three point jumper,True,25,False,False
+2006-03-14,21.55,Charlotte Bobcats,Washington Wizards,2,48-45,-5,tip shot,True,0,False,False
+2006-03-14,23.3333333333,Charlotte Bobcats,Washington Wizards,2,57-48,-10,free throw,True,15,True,False
+2006-03-14,23.3333333333,Charlotte Bobcats,Washington Wizards,2,57-49,-9,free throw,True,15,True,False
+2006-03-14,40.7,Charlotte Bobcats,Washington Wizards,4,97-89,-10,layup,True,0,False,False
+2006-03-14,40.95,Charlotte Bobcats,Washington Wizards,4,99-89,-12,two point jumper,True,17,False,False
+2006-03-14,41.7,Charlotte Bobcats,Washington Wizards,4,102-91,-12,free throw,True,15,False,False
+2006-03-14,41.7,Charlotte Bobcats,Washington Wizards,4,102-92,-11,free throw,True,15,True,False
+2006-03-14,42.85,Charlotte Bobcats,Washington Wizards,4,104-97,-10,three point jumper,True,26,True,False
+2006-03-14,44.65,Charlotte Bobcats,Washington Wizards,4,110-102,-11,three point jumper,True,24,True,False
+2006-03-14,45.1,Charlotte Bobcats,Washington Wizards,4,110-103,-8,free throw,True,15,True,False
+2006-03-14,45.1,Charlotte Bobcats,Washington Wizards,4,110-104,-7,free throw,True,15,True,False
+2006-03-14,45.9333333333,Charlotte Bobcats,Washington Wizards,4,110-108,-4,layup,True,0,True,False
+2006-03-15,0.266666666667,Charlotte Bobcats,Washington Wizards,1,0-2,-4,two point jumper,False,17,False,True
+2006-03-15,3.21666666667,Charlotte Bobcats,Washington Wizards,1,3-12,-12,three point jumper,False,26,True,True
+2006-03-15,5.38333333333,Charlotte Bobcats,Washington Wizards,1,3-12,-11,two point jumper,False,15,False,True
+2006-03-15,7.28333333333,Charlotte Bobcats,Washington Wizards,1,8-15,-9,layup,False,0,True,True
+2006-03-15,7.28333333333,Charlotte Bobcats,Washington Wizards,1,9-15,-7,free throw,False,15,True,True
+2006-03-15,14.1833333333,Charlotte Bobcats,Washington Wizards,2,18-29,-13,layup,False,0,True,True
+2006-03-15,16.0,Charlotte Bobcats,Washington Wizards,2,24-33,-12,three point jumper,False,23,True,True
+2006-03-15,18.1333333333,Charlotte Bobcats,Washington Wizards,2,26-39,-15,two point jumper,False,21,True,True
+2006-03-15,19.1,Charlotte Bobcats,Washington Wizards,2,26-40,-17,three point jumper,False,22,False,True
+2006-03-15,21.1833333333,Charlotte Bobcats,Washington Wizards,2,33-43,-13,three point jumper,False,26,True,True
+2006-03-15,26.0666666667,Charlotte Bobcats,Washington Wizards,3,48-55,-10,three point jumper,False,24,False,True
+2006-03-15,29.7333333333,Charlotte Bobcats,Washington Wizards,3,58-68,-13,three point jumper,False,25,True,True
+2006-03-15,39.75,Charlotte Bobcats,Washington Wizards,4,81-89,-11,three point jumper,False,25,True,True
+2006-03-15,42.1,Charlotte Bobcats,Washington Wizards,4,83-95,-14,layup,False,0,False,True
+2006-03-15,45.0,Charlotte Bobcats,Washington Wizards,4,92-100,-11,three point jumper,False,28,True,True
+2006-03-21,5.85,Charlotte Bobcats,Orlando Magic,1,8-18,7,three point jumper,True,23,True,True
+2006-03-21,8.9,Charlotte Bobcats,Orlando Magic,1,18-26,6,hook shot,True,4,False,True
+2006-03-21,10.3333333333,Charlotte Bobcats,Orlando Magic,1,22-28,3,three point jumper,True,26,False,True
+2006-03-21,12.9,Charlotte Bobcats,Orlando Magic,2,28-36,6,two point jumper,True,17,True,True
+2006-03-21,13.3166666667,Charlotte Bobcats,Orlando Magic,2,28-36,6,two point jumper,True,1,False,True
+2006-03-21,13.95,Charlotte Bobcats,Orlando Magic,2,30-39,6,three point jumper,True,26,False,True
+2006-03-21,14.05,Charlotte Bobcats,Orlando Magic,2,30-39,6,three point jumper,True,24,False,True
+2006-03-21,15.25,Charlotte Bobcats,Orlando Magic,2,30-42,9,three point jumper,True,23,False,True
+2006-03-21,15.3166666667,Charlotte Bobcats,Orlando Magic,2,30-42,10,two point jumper,True,18,False,True
+2006-03-21,29.0,Charlotte Bobcats,Orlando Magic,3,65-76,8,three point jumper,True,24,True,True
+2006-03-21,30.7,Charlotte Bobcats,Orlando Magic,3,69-80,8,three point jumper,True,23,False,True
+2006-03-21,31.2333333333,Charlotte Bobcats,Orlando Magic,3,71-80,6,three point jumper,True,25,False,True
+2006-03-21,33.1166666667,Charlotte Bobcats,Orlando Magic,3,74-81,6,free throw,True,15,True,True
+2006-03-21,33.1166666667,Charlotte Bobcats,Orlando Magic,3,74-82,7,free throw,True,15,True,True
+2006-03-21,37.1333333333,Charlotte Bobcats,Orlando Magic,4,79-85,4,two point jumper,True,13,False,True
+2006-03-21,37.55,Charlotte Bobcats,Orlando Magic,4,79-85,3,three point jumper,True,26,False,True
+2006-03-21,42.25,Charlotte Bobcats,Orlando Magic,4,87-96,7,two point jumper,True,21,False,True
+2006-03-21,46.6666666667,Charlotte Bobcats,Orlando Magic,4,95-102,4,three point jumper,True,24,True,True
+2006-03-24,1.11666666667,Charlotte Bobcats,Miami Heat,1,2-4,-5,three point jumper,False,23,False,True
+2006-03-24,3.06666666667,Charlotte Bobcats,Miami Heat,1,6-12,-8,two point jumper,False,17,False,True
+2006-03-24,6.56666666667,Charlotte Bobcats,Miami Heat,1,11-20,-12,three point jumper,False,25,False,True
+2006-03-24,17.3833333333,Charlotte Bobcats,Miami Heat,2,32-45,-16,three point jumper,False,23,False,True
+2006-03-24,29.45,Charlotte Bobcats,Miami Heat,3,58-71,-15,two point jumper,False,19,True,True
+2006-03-24,29.8833333333,Charlotte Bobcats,Miami Heat,3,58-71,-15,two point jumper,False,18,False,True
+2006-03-24,31.8833333333,Charlotte Bobcats,Miami Heat,3,60-79,-22,three point jumper,False,24,False,True
+2006-03-24,32.6666666667,Charlotte Bobcats,Miami Heat,3,62-80,-20,two point jumper,False,14,True,True
+2006-03-24,33.4833333333,Charlotte Bobcats,Miami Heat,3,62-83,-24,three point jumper,False,24,False,True
+2006-04-04,4.78333333333,Charlotte Bobcats,Minnesota Timberwolves,1,15-16,-2,three point jumper,True,24,True,True
+2006-04-04,5.28333333333,Charlotte Bobcats,Minnesota Timberwolves,1,15-18,1,two point jumper,True,1,True,True
+2006-04-04,12.2,Charlotte Bobcats,Minnesota Timberwolves,2,22-25,0,three point jumper,True,25,False,True
+2006-04-04,12.5666666667,Charlotte Bobcats,Minnesota Timberwolves,2,22-25,1,two point jumper,True,19,False,True
+2006-04-04,14.1833333333,Charlotte Bobcats,Minnesota Timberwolves,2,26-27,-2,three point jumper,True,25,False,True
+2006-04-04,33.6,Charlotte Bobcats,Minnesota Timberwolves,3,65-68,1,two point jumper,True,21,True,True
+2006-04-04,35.9833333333,Charlotte Bobcats,Minnesota Timberwolves,3,71-70,-4,three point jumper,True,27,False,True
+2007-12-29,12.2166666667,Phoenix Suns,New York Knicks,2,14-34,18,two point jumper,True,17,False,False
+2007-12-29,14.9333333333,Phoenix Suns,New York Knicks,2,22-39,14,three point jumper,True,25,True,False
+2007-12-29,16.3166666667,Phoenix Suns,New York Knicks,2,24-39,12,three point jumper,True,24,False,False
+2007-12-29,45.2,Phoenix Suns,New York Knicks,4,83-101,15,three point jumper,True,25,False,False
+2007-01-07,45.65,Phoenix Suns,Golden State Warriors,4,98-124,23,three point jumper,True,22,False,True
+2007-01-07,46.6,Phoenix Suns,Golden State Warriors,4,102-126,22,two point jumper,True,20,False,True
+2007-01-07,47.4666666667,Phoenix Suns,Golden State Warriors,4,104-128,22,layup,True,0,True,True
+2007-02-20,43.45,Phoenix Suns,Los Angeles Clippers,4,103-82,19,two point jumper,False,20,False,False
+2007-02-20,47.4666666667,Phoenix Suns,Los Angeles Clippers,4,113-89,22,two point jumper,False,1,False,False
+2007-11-11,12.8833333333,Phoenix Suns,Memphis Grizzlies,2,28-23,-8,three point jumper,True,26,False,True
+2007-11-11,17.0,Phoenix Suns,Memphis Grizzlies,2,37-36,-3,two point jumper,True,17,False,True
+2007-11-11,17.2166666667,Phoenix Suns,Memphis Grizzlies,2,37-36,-4,three point jumper,True,26,False,True
+2007-11-11,38.1333333333,Phoenix Suns,Memphis Grizzlies,4,60-91,28,three point jumper,True,24,False,True
+2007-11-11,39.75,Phoenix Suns,Memphis Grizzlies,4,62-91,26,three point jumper,True,25,False,True
+2007-11-11,41.1333333333,Phoenix Suns,Memphis Grizzlies,4,66-91,23,two point jumper,True,18,False,True
+2007-12-10,45.0333333333,Phoenix Suns,Charlotte Bobcats,4,108-76,30,two point jumper,False,20,True,False
+2007-12-10,45.4833333333,Phoenix Suns,Charlotte Bobcats,4,111-78,30,three point jumper,False,26,True,False
+2007-12-10,46.15,Phoenix Suns,Charlotte Bobcats,4,111-80,28,three point jumper,False,26,False,False
+2007-12-22,13.0166666667,Phoenix Suns,Washington Wizards,2,41-33,-11,three point jumper,True,24,True,False
+2007-12-22,13.5,Phoenix Suns,Washington Wizards,2,41-33,-11,three point jumper,True,25,False,False
+2007-12-22,16.2833333333,Phoenix Suns,Washington Wizards,2,45-41,-7,three point jumper,True,26,False,False
+2007-12-22,37.55,Phoenix Suns,Washington Wizards,4,99-92,-10,three point jumper,True,27,False,False
+2007-12-26,13.0666666667,Phoenix Suns,Portland Trail Blazers,2,16-28,9,three point jumper,True,25,True,False
+2007-12-26,14.7,Phoenix Suns,Portland Trail Blazers,2,20-30,7,three point jumper,True,25,False,False
+2007-12-26,36.6333333333,Phoenix Suns,Portland Trail Blazers,4,59-76,14,three point jumper,True,26,False,False
+2007-12-26,37.3166666667,Phoenix Suns,Portland Trail Blazers,4,59-80,19,layup,True,0,True,False
+2007-12-26,37.3166666667,Phoenix Suns,Portland Trail Blazers,4,59-81,21,free throw,True,15,True,False
+2007-12-26,40.1333333333,Phoenix Suns,Portland Trail Blazers,4,66-93,24,three point jumper,True,24,True,False
+2007-12-26,40.1333333333,Phoenix Suns,Portland Trail Blazers,4,66-94,27,free throw,True,15,True,False
+2007-12-26,43.1666666667,Phoenix Suns,Portland Trail Blazers,4,73-96,21,two point jumper,True,17,False,False
+2007-12-26,43.6333333333,Phoenix Suns,Portland Trail Blazers,4,75-99,21,three point jumper,True,26,True,False
+2007-12-28,37.5666666667,Phoenix Suns,Dallas Mavericks,4,83-78,2,three point jumper,False,23,True,True
+2007-12-28,38.0,Phoenix Suns,Dallas Mavericks,4,86-78,5,three point jumper,False,24,True,True
+2007-12-28,40.9166666667,Phoenix Suns,Dallas Mavericks,4,91-84,4,three point jumper,False,25,False,True
+2007-01-05,43.2833333333,Phoenix Suns,Miami Heat,4,78-100,19,three point jumper,True,26,False,False
+2007-01-05,45.9166666667,Phoenix Suns,Miami Heat,4,80-102,20,two point jumper,True,21,False,False
+2007-01-05,46.4333333333,Phoenix Suns,Miami Heat,4,80-102,19,three point jumper,True,23,False,False
+2007-01-11,47.6666666667,Phoenix Suns,Cleveland Cavaliers,4,88-109,18,three point jumper,True,24,False,False
+2007-01-21,11.5166666667,Phoenix Suns,Minnesota Timberwolves,1,27-35,5,three point jumper,True,26,True,True
+2007-01-21,12.0,Phoenix Suns,Minnesota Timberwolves,1,28-35,4,three point jumper,True,41,False,True
+2007-01-21,13.5,Phoenix Suns,Minnesota Timberwolves,2,36-37,-2,three point jumper,True,26,False,True
+2007-01-21,45.2,Phoenix Suns,Minnesota Timberwolves,4,95-123,25,three point jumper,True,23,False,True
+2007-01-21,47.0833333333,Phoenix Suns,Minnesota Timberwolves,4,100-125,23,two point jumper,True,18,False,True
+2007-01-21,47.6,Phoenix Suns,Minnesota Timberwolves,4,102-129,25,two point jumper,True,19,True,True
+2007-01-23,9.78333333333,Phoenix Suns,Washington Wizards,1,34-14,17,three point jumper,False,25,True,True
+2007-02-14,42.3833333333,Phoenix Suns,Oklahoma City Thunder,4,84-103,-22,three point jumper,False,26,False,True
+2007-02-14,44.9833333333,Phoenix Suns,Oklahoma City Thunder,4,86-107,-23,two point jumper,False,1,False,True
+2007-02-14,45.05,Phoenix Suns,Oklahoma City Thunder,4,86-107,-23,two point jumper,False,13,False,True
+2007-03-17,44.85,Phoenix Suns,Denver Nuggets,4,98-129,-33,two point jumper,False,21,False,False
+2007-03-17,47.0333333333,Phoenix Suns,Denver Nuggets,4,103-131,-30,two point jumper,False,16,False,False

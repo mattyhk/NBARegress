@@ -1,0 +1,448 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2013-11-25,3.81666666667,Orlando Magic,Boston Celtics,1,9-8,-3,two point jumper,True,10,False,False
+2013-11-25,18.2833333333,Orlando Magic,Boston Celtics,2,44-36,-10,layup,True,0,True,False
+2013-02-01,1.2,Orlando Magic,Boston Celtics,1,2-0,-1,three point jumper,False,23,False,False
+2013-02-01,23.2666666667,Orlando Magic,Boston Celtics,2,35-45,-12,two point shot,False,1,True,False
+2013-02-01,25.7666666667,Orlando Magic,Boston Celtics,3,40-48,-10,two point shot,False,1,True,False
+2013-02-01,27.75,Orlando Magic,Boston Celtics,3,43-51,-10,layup,False,0,False,False
+2013-02-01,30.3833333333,Orlando Magic,Boston Celtics,3,51-55,-6,layup,False,0,True,False
+2013-02-01,31.7333333333,Orlando Magic,Boston Celtics,3,54-59,-7,two point jumper,False,1,False,False
+2013-02-01,32.9333333333,Orlando Magic,Boston Celtics,3,56-62,-8,layup,False,0,True,False
+2013-02-01,35.4833333333,Orlando Magic,Boston Celtics,3,59-70,-13,tip shot,False,0,False,False
+2013-02-01,45.7833333333,Orlando Magic,Boston Celtics,4,78-92,-17,three point jumper,False,23,False,False
+2013-11-09,18.8666666667,Orlando Magic,Brooklyn Nets,5,96-66,-32,two point shot,True,9,False,True
+2013-11-09,19.25,Orlando Magic,Brooklyn Nets,5,98-66,-33,free throw,True,15,False,True
+2013-11-09,19.25,Orlando Magic,Brooklyn Nets,5,98-66,-33,free throw,True,15,False,True
+2013-11-11,8.28333333333,Orlando Magic,Brooklyn Nets,1,13-24,-13,two point jumper,False,7,False,False
+2013-11-11,11.8166666667,Orlando Magic,Brooklyn Nets,1,19-35,-18,two point jumper,False,4,False,False
+2013-11-30,1.9,Orlando Magic,Brooklyn Nets,1,2-4,0,layup,True,0,True,False
+2013-11-30,3.51666666667,Orlando Magic,Brooklyn Nets,1,2-4,0,layup,True,0,False,False
+2013-11-30,19.5666666667,Orlando Magic,Brooklyn Nets,2,34-33,-3,two point jumper,True,20,False,False
+2013-11-30,25.8,Orlando Magic,Brooklyn Nets,3,45-48,1,dunk,True,0,True,False
+2013-11-30,45.55,Orlando Magic,Brooklyn Nets,4,95-79,-18,layup,True,0,True,False
+2013-11-30,47.2333333333,Orlando Magic,Brooklyn Nets,4,98-82,-18,layup,True,0,False,False
+2013-11-30,47.2666666667,Orlando Magic,Brooklyn Nets,4,98-84,-16,layup,True,0,True,False
+2013-01-28,1.9,Orlando Magic,Brooklyn Nets,1,4-0,2,layup,False,0,True,False
+2013-01-28,4.5,Orlando Magic,Brooklyn Nets,1,6-8,-5,three point jumper,False,24,False,False
+2013-01-28,18.7833333333,Orlando Magic,Brooklyn Nets,2,30-43,-15,two point shot,False,3,True,False
+2013-01-28,20.1833333333,Orlando Magic,Brooklyn Nets,2,34-48,-16,layup,False,0,True,False
+2013-01-28,21.7833333333,Orlando Magic,Brooklyn Nets,2,36-52,-18,layup,False,0,True,False
+2013-01-28,28.0666666667,Orlando Magic,Brooklyn Nets,3,47-62,-18,three point jumper,False,23,True,False
+2013-01-28,29.35,Orlando Magic,Brooklyn Nets,3,50-62,-15,three point jumper,False,23,True,False
+2013-01-28,37.0,Orlando Magic,Brooklyn Nets,4,63-70,-10,three point jumper,False,24,False,False
+2013-01-28,41.7333333333,Orlando Magic,Brooklyn Nets,4,67-85,-20,tip shot,False,0,False,False
+2013-01-28,45.4833333333,Orlando Magic,Brooklyn Nets,4,71-95,-26,layup,False,0,True,False
+2013-11-13,9.3,Orlando Magic,New York Knicks,1,18-17,-3,two point jumper,True,4,False,False
+2013-11-13,9.33333333333,Orlando Magic,New York Knicks,1,18-17,-3,layup,True,0,False,False
+2013-11-13,9.35,Orlando Magic,New York Knicks,1,18-19,-1,layup,True,0,True,False
+2013-11-13,16.7833333333,Orlando Magic,New York Knicks,2,35-35,-2,two point shot,True,1,True,False
+2013-11-13,17.9166666667,Orlando Magic,New York Knicks,2,39-39,-2,two point shot,True,1,True,False
+2013-11-13,22.5,Orlando Magic,New York Knicks,2,47-47,-2,two point shot,True,1,True,False
+2013-11-13,22.9333333333,Orlando Magic,New York Knicks,2,47-51,2,two point shot,True,2,True,False
+2013-11-13,23.4166666667,Orlando Magic,New York Knicks,2,49-51,1,free throw,True,15,False,False
+2013-11-13,23.4166666667,Orlando Magic,New York Knicks,2,49-51,1,free throw,True,15,False,False
+2013-01-05,13.0,Orlando Magic,New York Knicks,2,27-38,9,dunk,True,0,True,False
+2013-01-30,9.0,Orlando Magic,New York Knicks,1,26-24,-1,three point jumper,False,23,False,True
+2013-01-30,25.05,Orlando Magic,New York Knicks,3,51-53,-4,two point jumper,False,18,False,True
+2013-01-30,27.2166666667,Orlando Magic,New York Knicks,3,58-58,-1,free throw,False,15,True,True
+2013-01-30,27.2166666667,Orlando Magic,New York Knicks,3,59-58,0,free throw,False,15,True,True
+2013-01-30,35.3666666667,Orlando Magic,New York Knicks,3,72-79,-8,free throw,False,15,False,True
+2013-01-30,35.3666666667,Orlando Magic,New York Knicks,3,73-79,-7,free throw,False,15,True,True
+2013-01-30,39.4666666667,Orlando Magic,New York Knicks,4,77-86,-11,two point shot,False,1,True,True
+2013-01-30,39.4666666667,Orlando Magic,New York Knicks,4,78-86,-9,free throw,False,15,True,True
+2013-03-20,4.21666666667,Orlando Magic,New York Knicks,1,7-12,-7,layup,False,0,True,True
+2013-03-20,5.85,Orlando Magic,New York Knicks,1,7-12,-8,three point jumper,False,23,False,True
+2013-03-20,8.0,Orlando Magic,New York Knicks,1,7-19,-14,two point jumper,False,21,False,True
+2013-03-20,11.0666666667,Orlando Magic,New York Knicks,1,14-24,-12,two point jumper,False,1,False,True
+2013-03-20,19.9166666667,Orlando Magic,New York Knicks,2,34-40,-8,two point shot,False,1,True,True
+2013-03-20,22.4,Orlando Magic,New York Knicks,2,43-50,-10,three point jumper,False,23,True,True
+2013-03-20,23.9833333333,Orlando Magic,New York Knicks,2,46-51,-7,two point jumper,False,1,False,True
+2013-03-20,25.5,Orlando Magic,New York Knicks,3,46-56,-13,three point jumper,False,25,False,True
+2013-03-20,27.5,Orlando Magic,New York Knicks,3,52-61,-11,dunk,False,0,True,True
+2013-03-20,29.6333333333,Orlando Magic,New York Knicks,3,52-64,-14,layup,False,0,False,True
+2013-03-20,37.3166666667,Orlando Magic,New York Knicks,4,69-87,-20,layup,False,0,True,True
+2013-03-20,41.3833333333,Orlando Magic,New York Knicks,4,76-93,-19,two point jumper,False,5,False,True
+2013-03-20,41.4166666667,Orlando Magic,New York Knicks,4,76-93,-19,tip shot,False,0,False,True
+2013-02-04,1.11666666667,Orlando Magic,Philadelphia 76ers,1,2-2,-2,two point shot,False,19,True,False
+2013-02-04,2.5,Orlando Magic,Philadelphia 76ers,1,4-2,-1,three point jumper,False,25,False,False
+2013-02-04,7.7,Orlando Magic,Philadelphia 76ers,1,6-20,-17,three point jumper,False,23,False,False
+2013-02-04,16.1333333333,Orlando Magic,Philadelphia 76ers,2,22-30,-10,two point jumper,False,10,False,False
+2013-02-04,20.3333333333,Orlando Magic,Philadelphia 76ers,2,25-35,-12,two point jumper,False,1,False,False
+2013-02-04,20.5833333333,Orlando Magic,Philadelphia 76ers,2,27-35,-10,layup,False,0,True,False
+2013-02-04,24.9333333333,Orlando Magic,Philadelphia 76ers,3,36-42,-7,free throw,False,15,True,False
+2013-02-04,24.9333333333,Orlando Magic,Philadelphia 76ers,3,37-42,-6,free throw,False,15,True,False
+2013-02-04,25.6166666667,Orlando Magic,Philadelphia 76ers,3,37-42,-7,two point jumper,False,18,False,False
+2013-02-04,27.3666666667,Orlando Magic,Philadelphia 76ers,3,41-44,-5,layup,False,0,True,False
+2013-02-04,43.6,Orlando Magic,Philadelphia 76ers,4,56-70,-16,layup,False,0,True,False
+2013-02-26,0.716666666667,Orlando Magic,Philadelphia 76ers,1,2-0,0,two point jumper,False,14,True,True
+2013-02-26,1.58333333333,Orlando Magic,Philadelphia 76ers,1,2-2,-3,three point jumper,False,25,False,True
+2013-02-26,17.45,Orlando Magic,Philadelphia 76ers,2,30-31,-3,two point shot,False,1,True,True
+2013-02-26,17.45,Orlando Magic,Philadelphia 76ers,2,30-31,-2,free throw,False,15,False,True
+2013-02-26,23.3833333333,Orlando Magic,Philadelphia 76ers,2,46-42,3,free throw,False,15,True,True
+2013-02-26,23.3833333333,Orlando Magic,Philadelphia 76ers,2,47-42,4,free throw,False,15,True,True
+2013-02-26,28.2,Orlando Magic,Philadelphia 76ers,3,60-44,15,free throw,False,15,True,True
+2013-02-26,28.2,Orlando Magic,Philadelphia 76ers,3,61-44,16,free throw,False,15,True,True
+2013-02-26,32.6,Orlando Magic,Philadelphia 76ers,3,65-55,8,two point jumper,False,18,True,True
+2013-03-10,2.65,Orlando Magic,Philadelphia 76ers,1,7-4,-5,two point shot,True,1,True,True
+2013-03-10,12.6333333333,Orlando Magic,Philadelphia 76ers,2,32-28,-6,layup,True,0,False,True
+2013-03-10,26.8833333333,Orlando Magic,Philadelphia 76ers,3,57-60,1,two point shot,True,8,True,True
+2013-03-10,27.55,Orlando Magic,Philadelphia 76ers,3,59-60,-2,three point jumper,True,23,False,True
+2013-03-10,28.4833333333,Orlando Magic,Philadelphia 76ers,3,59-60,-1,two point jumper,True,1,False,True
+2013-11-18,11.1166666667,Orlando Magic,Toronto Raptors,1,19-32,-15,two point jumper,False,7,False,False
+2013-12-29,25.3833333333,Orlando Magic,Toronto Raptors,3,69-49,-22,tip shot,True,0,False,True
+2013-12-29,25.3833333333,Orlando Magic,Toronto Raptors,3,69-49,-22,tip shot,True,0,False,True
+2013-12-29,28.9833333333,Orlando Magic,Toronto Raptors,3,76-57,-21,layup,True,0,False,True
+2013-01-24,34.3333333333,Orlando Magic,Toronto Raptors,3,72-65,-10,three point jumper,True,23,False,False
+2013-01-24,36.4333333333,Orlando Magic,Toronto Raptors,4,77-68,-11,dunk,True,0,True,False
+2013-12-03,14.6333333333,Orlando Magic,Golden State Warriors,2,32-29,0,three point jumper,False,25,False,False
+2013-12-03,15.3333333333,Orlando Magic,Golden State Warriors,2,32-31,-1,two point jumper,False,3,False,False
+2013-12-03,21.4166666667,Orlando Magic,Golden State Warriors,2,46-40,4,two point shot,False,1,True,False
+2013-12-03,25.5666666667,Orlando Magic,Golden State Warriors,3,53-47,4,two point shot,False,6,False,False
+2013-12-03,36.0,Orlando Magic,Golden State Warriors,3,69-69,-2,two point shot,False,1,False,False
+2013-12-14,6.31666666667,Orlando Magic,Golden State Warriors,1,8-11,0,three point jumper,True,24,False,True
+2013-12-14,22.4333333333,Orlando Magic,Golden State Warriors,2,33-45,10,layup,True,0,True,True
+2013-12-14,26.9,Orlando Magic,Golden State Warriors,3,40-55,13,dunk,True,0,True,True
+2013-12-14,28.8833333333,Orlando Magic,Golden State Warriors,3,43-61,16,layup,True,0,True,True
+2013-12-14,36.4666666667,Orlando Magic,Golden State Warriors,4,66-82,15,free throw,True,15,True,True
+2013-12-14,36.4666666667,Orlando Magic,Golden State Warriors,4,66-82,15,free throw,True,15,False,True
+2013-12-14,43.2833333333,Orlando Magic,Golden State Warriors,4,76-93,15,tip shot,True,0,False,True
+2013-12-14,43.3166666667,Orlando Magic,Golden State Warriors,4,76-93,15,tip shot,True,0,False,True
+2013-12-14,43.4166666667,Orlando Magic,Golden State Warriors,4,76-93,15,tip shot,True,0,False,True
+2013-01-12,14.65,Orlando Magic,Los Angeles Clippers,2,33-33,-2,dunk,False,0,True,True
+2013-02-06,7.2,Orlando Magic,Los Angeles Clippers,1,8-14,4,two point shot,True,1,True,False
+2013-02-06,9.6,Orlando Magic,Los Angeles Clippers,1,12-16,2,layup,True,0,False,False
+2013-02-06,19.6,Orlando Magic,Los Angeles Clippers,2,32-37,2,three point jumper,True,23,False,False
+2013-02-06,22.0333333333,Orlando Magic,Los Angeles Clippers,2,35-40,3,two point shot,True,6,True,False
+2013-02-06,27.5,Orlando Magic,Los Angeles Clippers,3,46-46,-3,three point jumper,True,25,False,False
+2013-02-06,29.3166666667,Orlando Magic,Los Angeles Clippers,3,53-46,-9,layup,True,0,False,False
+2013-02-06,37.0166666667,Orlando Magic,Los Angeles Clippers,4,66-57,-11,two point jumper,True,4,False,False
+2013-02-06,37.7,Orlando Magic,Los Angeles Clippers,4,68-59,-11,two point shot,True,2,False,False
+2013-02-06,38.8333333333,Orlando Magic,Los Angeles Clippers,4,68-63,-6,free throw,True,15,True,False
+2013-02-06,38.8333333333,Orlando Magic,Los Angeles Clippers,4,68-63,-6,free throw,True,15,True,False
+2013-02-06,43.1666666667,Orlando Magic,Los Angeles Clippers,4,73-65,-10,two point jumper,True,9,False,False
+2013-02-06,47.5333333333,Orlando Magic,Los Angeles Clippers,4,83-74,-11,two point jumper,True,1,False,False
+2013-12-02,26.7666666667,Orlando Magic,Los Angeles Lakers,3,54-57,-5,two point jumper,False,15,True,True
+2013-03-12,2.0,Orlando Magic,Los Angeles Lakers,1,5-5,-2,two point shot,True,2,True,True
+2013-03-12,6.66666666667,Orlando Magic,Los Angeles Lakers,1,13-10,-5,two point jumper,True,2,False,True
+2013-03-12,7.48333333333,Orlando Magic,Los Angeles Lakers,1,16-10,-8,two point jumper,True,19,False,True
+2013-03-12,7.98333333333,Orlando Magic,Los Angeles Lakers,1,16-12,-6,layup,True,0,True,True
+2013-03-12,11.5833333333,Orlando Magic,Los Angeles Lakers,1,22-22,-1,free throw,True,15,False,True
+2013-03-12,11.5833333333,Orlando Magic,Los Angeles Lakers,1,22-23,0,free throw,True,15,True,True
+2013-03-12,12.9666666667,Orlando Magic,Los Angeles Lakers,2,24-24,-1,free throw,True,15,True,True
+2013-03-12,12.9666666667,Orlando Magic,Los Angeles Lakers,2,24-24,-1,free throw,True,15,False,True
+2013-03-12,16.0333333333,Orlando Magic,Los Angeles Lakers,2,33-24,-12,three point jumper,True,25,False,True
+2013-03-12,22.75,Orlando Magic,Los Angeles Lakers,2,49-43,-8,two point shot,True,1,True,True
+2013-03-12,22.75,Orlando Magic,Los Angeles Lakers,2,49-44,-6,free throw,True,15,True,True
+2013-03-12,25.4666666667,Orlando Magic,Los Angeles Lakers,3,52-49,-6,three point jumper,True,23,True,True
+2013-12-09,24.3833333333,Orlando Magic,Phoenix Suns,3,55-48,5,two point shot,False,1,True,True
+2013-12-09,25.6333333333,Orlando Magic,Phoenix Suns,3,57-48,7,dunk,False,0,True,True
+2013-12-07,2.08333333333,Orlando Magic,Sacramento Kings,1,4-0,2,two point jumper,False,1,False,False
+2013-12-07,20.1666666667,Orlando Magic,Sacramento Kings,2,32-38,-9,three point jumper,False,24,False,False
+2013-12-07,27.0833333333,Orlando Magic,Sacramento Kings,3,42-50,-9,free throw,False,15,True,False
+2013-12-07,27.0833333333,Orlando Magic,Sacramento Kings,3,43-50,-8,free throw,False,15,True,False
+2013-02-27,6.95,Orlando Magic,Sacramento Kings,1,18-17,-3,two point shot,True,1,True,False
+2013-02-27,9.23333333333,Orlando Magic,Sacramento Kings,1,25-17,-10,two point jumper,True,1,False,False
+2013-02-27,17.0,Orlando Magic,Sacramento Kings,2,49-31,-21,three point jumper,True,23,False,False
+2013-02-27,17.95,Orlando Magic,Sacramento Kings,2,52-35,-19,layup,True,0,True,False
+2013-02-27,37.7,Orlando Magic,Sacramento Kings,4,100-73,-29,two point shot,True,1,True,False
+2013-02-27,38.3333333333,Orlando Magic,Sacramento Kings,4,100-75,-27,dunk,True,0,True,False
+2013-02-27,42.0666666667,Orlando Magic,Sacramento Kings,4,107-87,-23,three point jumper,True,23,True,False
+2013-02-27,43.6333333333,Orlando Magic,Sacramento Kings,4,110-88,-23,free throw,True,15,True,False
+2013-02-27,43.6333333333,Orlando Magic,Sacramento Kings,4,110-88,-23,free throw,True,15,False,False
+2013-11-23,2.21666666667,Orlando Magic,Cleveland Cavaliers,1,2-5,1,two point shot,True,2,True,True
+2013-11-23,26.9333333333,Orlando Magic,Cleveland Cavaliers,3,56-52,-6,two point shot,True,4,True,True
+2013-11-23,28.2,Orlando Magic,Cleveland Cavaliers,3,60-54,-8,tip shot,True,0,False,True
+2013-11-23,28.2333333333,Orlando Magic,Cleveland Cavaliers,3,60-56,-6,two point shot,True,1,True,True
+2013-02-08,5.48333333333,Orlando Magic,Cleveland Cavaliers,1,10-11,-4,three point jumper,False,24,False,False
+2013-02-08,9.91666666667,Orlando Magic,Cleveland Cavaliers,1,21-19,0,dunk,False,0,True,False
+2013-02-08,29.5,Orlando Magic,Cleveland Cavaliers,3,73-67,4,layup,False,0,True,False
+2013-02-08,46.4833333333,Orlando Magic,Cleveland Cavaliers,4,103-111,-10,layup,False,0,True,False
+2013-02-08,46.4833333333,Orlando Magic,Cleveland Cavaliers,4,104-111,-8,free throw,False,15,True,False
+2013-02-08,47.5,Orlando Magic,Cleveland Cavaliers,4,106-116,-12,layup,False,0,True,False
+2013-02-23,4.78333333333,Orlando Magic,Cleveland Cavaliers,1,14-7,-9,two point jumper,True,16,True,True
+2013-02-23,5.81666666667,Orlando Magic,Cleveland Cavaliers,1,18-12,-8,layup,True,0,True,True
+2013-02-23,7.78333333333,Orlando Magic,Cleveland Cavaliers,1,24-17,-10,three point jumper,True,25,True,True
+2013-02-23,9.3,Orlando Magic,Cleveland Cavaliers,1,24-17,-8,free throw,True,15,False,True
+2013-02-23,9.3,Orlando Magic,Cleveland Cavaliers,1,24-17,-8,free throw,True,15,False,True
+2013-02-23,19.75,Orlando Magic,Cleveland Cavaliers,2,44-41,-5,two point shot,True,1,False,True
+2013-02-23,24.0,Orlando Magic,Cleveland Cavaliers,2,51-51,-2,tip shot,True,0,False,True
+2013-02-23,30.1,Orlando Magic,Cleveland Cavaliers,3,69-60,-11,layup,True,0,True,True
+2013-02-23,32.0,Orlando Magic,Cleveland Cavaliers,3,71-63,-10,two point shot,True,1,True,True
+2013-02-23,37.1333333333,Orlando Magic,Cleveland Cavaliers,4,82-72,-13,three point jumper,True,23,False,True
+2013-02-23,37.5666666667,Orlando Magic,Cleveland Cavaliers,4,84-72,-14,layup,True,0,False,True
+2013-02-23,38.45,Orlando Magic,Cleveland Cavaliers,4,87-76,-13,layup,True,0,True,True
+2013-02-23,38.45,Orlando Magic,Cleveland Cavaliers,4,87-76,-12,free throw,True,15,False,True
+2013-02-23,45.3666666667,Orlando Magic,Cleveland Cavaliers,4,111-88,-25,two point jumper,True,19,False,True
+2013-11-16,16.7833333333,Orlando Magic,Detroit Pistons,2,32-30,0,two point shot,False,1,True,True
+2013-11-16,19.9166666667,Orlando Magic,Detroit Pistons,2,36-40,-6,layup,False,0,False,True
+2013-11-21,1.75,Orlando Magic,Detroit Pistons,1,2-2,-2,two point jumper,True,10,False,True
+2013-11-21,3.11666666667,Orlando Magic,Detroit Pistons,1,6-2,-6,layup,True,0,False,True
+2013-11-21,3.13333333333,Orlando Magic,Detroit Pistons,1,6-4,-4,two point shot,True,2,True,True
+2013-11-21,16.5666666667,Orlando Magic,Detroit Pistons,2,33-33,-2,dunk,True,0,True,True
+2013-11-21,24.6333333333,Orlando Magic,Detroit Pistons,3,48-49,-1,layup,True,0,True,True
+2013-11-21,41.8166666667,Orlando Magic,Detroit Pistons,4,58-83,24,free throw,True,15,True,True
+2013-11-21,41.8166666667,Orlando Magic,Detroit Pistons,4,58-83,24,free throw,True,15,False,True
+2013-11-21,44.1666666667,Orlando Magic,Detroit Pistons,4,62-86,22,layup,True,0,False,True
+2013-11-21,45.0333333333,Orlando Magic,Detroit Pistons,4,64-86,20,two point jumper,True,3,False,True
+2013-01-22,11.95,Orlando Magic,Detroit Pistons,1,25-26,-3,layup,False,0,True,True
+2013-01-22,12.7666666667,Orlando Magic,Detroit Pistons,2,27-28,-3,two point shot,False,4,True,True
+2013-01-22,33.4666666667,Orlando Magic,Detroit Pistons,3,85-99,-16,two point jumper,False,1,False,True
+2013-01-27,13.8833333333,Orlando Magic,Detroit Pistons,2,29-28,-3,layup,True,0,False,False
+2013-01-27,22.3,Orlando Magic,Detroit Pistons,2,49-40,-12,three point jumper,True,24,False,False
+2013-01-27,35.1666666667,Orlando Magic,Detroit Pistons,3,75-75,-2,two point shot,True,1,True,False
+2013-01-16,47.2,Orlando Magic,Indiana Pacers,4,84-95,9,two point shot,True,1,True,True
+2013-03-08,0.883333333333,Orlando Magic,Indiana Pacers,1,2-3,-2,three point jumper,True,25,False,True
+2013-03-08,3.68333333333,Orlando Magic,Indiana Pacers,1,8-6,-4,tip shot,True,0,False,True
+2013-03-08,7.1,Orlando Magic,Indiana Pacers,1,16-10,-8,two point shot,True,1,False,True
+2013-03-08,8.45,Orlando Magic,Indiana Pacers,1,16-12,-5,free throw,True,15,False,True
+2013-03-08,8.45,Orlando Magic,Indiana Pacers,1,16-13,-4,free throw,True,15,True,True
+2013-03-08,12.0,Orlando Magic,Indiana Pacers,1,22-15,-10,three point jumper,True,37,False,True
+2013-03-08,23.45,Orlando Magic,Indiana Pacers,2,53-36,-19,tip shot,True,0,False,True
+2013-03-08,27.5166666667,Orlando Magic,Indiana Pacers,3,63-41,-24,two point jumper,True,22,False,True
+2013-03-08,32.25,Orlando Magic,Indiana Pacers,3,78-53,-26,free throw,True,15,True,True
+2013-03-08,32.25,Orlando Magic,Indiana Pacers,3,78-54,-25,free throw,True,15,True,True
+2013-03-08,34.8833333333,Orlando Magic,Indiana Pacers,3,82-61,-23,two point jumper,True,1,False,True
+2013-03-19,0.816666666667,Orlando Magic,Indiana Pacers,1,2-0,0,two point shot,False,1,True,False
+2013-03-19,3.38333333333,Orlando Magic,Indiana Pacers,1,5-4,-1,two point shot,False,1,False,False
+2013-03-19,3.86666666667,Orlando Magic,Indiana Pacers,1,8-4,1,three point jumper,False,23,True,False
+2013-03-19,7.31666666667,Orlando Magic,Indiana Pacers,1,12-7,3,two point jumper,False,8,False,False
+2013-03-19,11.2333333333,Orlando Magic,Indiana Pacers,1,12-16,-6,two point jumper,False,7,False,False
+2013-03-19,11.3166666667,Orlando Magic,Indiana Pacers,1,12-16,-6,two point jumper,False,1,False,False
+2013-03-19,13.7,Orlando Magic,Indiana Pacers,2,16-25,-11,two point jumper,False,21,False,False
+2013-03-19,14.75,Orlando Magic,Indiana Pacers,2,21-25,-5,free throw,False,15,True,False
+2013-03-19,14.75,Orlando Magic,Indiana Pacers,2,21-25,-5,free throw,False,15,False,False
+2013-03-19,30.5666666667,Orlando Magic,Indiana Pacers,3,44-55,-13,layup,False,0,True,False
+2013-03-19,31.45,Orlando Magic,Indiana Pacers,3,44-60,-18,two point jumper,False,16,False,False
+2013-03-19,32.0,Orlando Magic,Indiana Pacers,3,46-62,-18,two point shot,False,1,True,False
+2013-03-19,36.8,Orlando Magic,Indiana Pacers,4,55-71,-19,three point jumper,False,23,False,False
+2013-02-02,0.5,Orlando Magic,Milwaukee Bucks,1,2-0,0,two point jumper,False,16,True,True
+2013-02-02,5.35,Orlando Magic,Milwaukee Bucks,1,7-13,-9,three point jumper,False,23,False,True
+2013-02-02,8.98333333333,Orlando Magic,Milwaukee Bucks,1,14-22,-10,dunk,False,0,True,True
+2013-02-02,9.61666666667,Orlando Magic,Milwaukee Bucks,1,14-24,-12,layup,False,0,False,True
+2013-02-02,10.7166666667,Orlando Magic,Milwaukee Bucks,1,16-29,-15,two point jumper,False,1,False,True
+2013-02-02,10.7666666667,Orlando Magic,Milwaukee Bucks,1,18-29,-13,layup,False,0,True,True
+2013-02-02,14.8833333333,Orlando Magic,Milwaukee Bucks,2,26-35,-11,dunk,False,0,True,True
+2013-02-02,15.5,Orlando Magic,Milwaukee Bucks,2,29-38,-11,layup,False,0,True,True
+2013-02-02,17.5,Orlando Magic,Milwaukee Bucks,2,33-42,-10,free throw,False,15,False,True
+2013-02-02,17.5,Orlando Magic,Milwaukee Bucks,2,34-42,-9,free throw,False,15,True,True
+2013-02-02,21.25,Orlando Magic,Milwaukee Bucks,2,43-46,-5,layup,False,0,False,True
+2013-02-02,25.3333333333,Orlando Magic,Milwaukee Bucks,3,48-52,-5,free throw,False,15,False,True
+2013-02-02,25.3333333333,Orlando Magic,Milwaukee Bucks,3,48-52,-5,free throw,False,15,False,True
+2013-02-02,33.35,Orlando Magic,Milwaukee Bucks,3,65-72,-9,layup,False,0,False,True
+2013-02-02,40.0333333333,Orlando Magic,Milwaukee Bucks,4,74-87,-15,layup,False,0,False,True
+2013-02-02,40.75,Orlando Magic,Milwaukee Bucks,4,78-87,-11,layup,False,0,True,True
+2013-02-02,43.5666666667,Orlando Magic,Milwaukee Bucks,4,82-96,-16,layup,False,0,True,True
+2013-02-02,43.5666666667,Orlando Magic,Milwaukee Bucks,4,83-96,-14,free throw,False,15,True,True
+2013-02-02,46.6666666667,Orlando Magic,Milwaukee Bucks,4,92-101,-10,free throw,False,15,False,True
+2013-02-02,46.6666666667,Orlando Magic,Milwaukee Bucks,4,93-101,-9,free throw,False,15,True,True
+2013-02-02,47.4833333333,Orlando Magic,Milwaukee Bucks,4,97-103,-7,free throw,False,15,True,True
+2013-02-02,47.4833333333,Orlando Magic,Milwaukee Bucks,4,98-103,-6,free throw,False,15,True,True
+2013-03-17,0.266666666667,Orlando Magic,Milwaukee Bucks,1,2-0,0,dunk,False,0,True,False
+2013-03-17,7.38333333333,Orlando Magic,Milwaukee Bucks,1,11-11,-2,layup,False,0,True,False
+2013-03-17,9.78333333333,Orlando Magic,Milwaukee Bucks,1,19-15,2,layup,False,0,True,False
+2013-03-17,15.0833333333,Orlando Magic,Milwaukee Bucks,2,30-22,7,free throw,False,15,True,False
+2013-03-17,15.0833333333,Orlando Magic,Milwaukee Bucks,2,30-22,7,free throw,False,15,False,False
+2013-03-17,15.3,Orlando Magic,Milwaukee Bucks,2,32-22,8,two point jumper,False,15,True,False
+2013-03-17,15.75,Orlando Magic,Milwaukee Bucks,2,32-22,8,layup,False,0,False,False
+2013-03-17,18.75,Orlando Magic,Milwaukee Bucks,2,36-30,3,three point jumper,False,25,False,False
+2013-03-17,19.75,Orlando Magic,Milwaukee Bucks,2,40-32,6,dunk,False,0,True,False
+2013-03-17,22.1166666667,Orlando Magic,Milwaukee Bucks,2,47-37,7,three point jumper,False,23,True,False
+2013-03-17,23.6,Orlando Magic,Milwaukee Bucks,2,54-41,10,three point jumper,False,23,True,False
+2013-03-17,24.0,Orlando Magic,Milwaukee Bucks,2,54-44,8,two point jumper,False,16,False,False
+2013-03-17,26.5,Orlando Magic,Milwaukee Bucks,3,58-53,3,two point jumper,False,19,True,False
+2013-03-17,28.5333333333,Orlando Magic,Milwaukee Bucks,3,62-55,5,two point shot,False,1,False,False
+2013-03-17,29.0666666667,Orlando Magic,Milwaukee Bucks,3,62-57,3,two point jumper,False,1,False,False
+2013-03-17,34.25,Orlando Magic,Milwaukee Bucks,3,73-66,5,layup,False,0,False,False
+2013-03-17,34.2666666667,Orlando Magic,Milwaukee Bucks,3,75-66,7,layup,False,0,True,False
+2013-03-17,34.2666666667,Orlando Magic,Milwaukee Bucks,3,76-66,9,free throw,False,15,True,False
+2013-03-17,46.2666666667,Orlando Magic,Milwaukee Bucks,4,108-106,-1,three point jumper,False,23,False,False
+2013-03-17,46.8833333333,Orlando Magic,Milwaukee Bucks,4,108-108,-1,free throw,False,15,False,False
+2013-03-17,46.8833333333,Orlando Magic,Milwaukee Bucks,4,109-108,0,free throw,False,15,True,False
+2013-01-20,13.5,Orlando Magic,Dallas Mavericks,2,28-31,1,dunk,True,0,True,False
+2013-01-20,31.8166666667,Orlando Magic,Dallas Mavericks,3,72-68,-6,dunk,True,0,True,False
+2013-01-20,32.4833333333,Orlando Magic,Dallas Mavericks,3,74-70,-6,dunk,True,0,True,False
+2013-01-20,33.7166666667,Orlando Magic,Dallas Mavericks,3,80-72,-11,three point jumper,True,23,False,False
+2013-02-20,1.06666666667,Orlando Magic,Dallas Mavericks,1,0-0,-2,two point jumper,False,19,False,True
+2013-02-20,2.18333333333,Orlando Magic,Dallas Mavericks,1,2-5,-5,two point jumper,False,11,False,True
+2013-02-20,10.4833333333,Orlando Magic,Dallas Mavericks,1,27-35,-9,free throw,False,15,False,True
+2013-02-20,10.4833333333,Orlando Magic,Dallas Mavericks,1,28-35,-8,free throw,False,15,True,True
+2013-02-20,11.8833333333,Orlando Magic,Dallas Mavericks,1,30-39,-11,two point shot,False,1,True,True
+2013-02-20,18.7333333333,Orlando Magic,Dallas Mavericks,2,42-53,-13,two point jumper,False,13,False,True
+2013-02-20,22.1166666667,Orlando Magic,Dallas Mavericks,2,51-55,-6,two point shot,False,1,True,True
+2013-02-20,25.6333333333,Orlando Magic,Dallas Mavericks,3,57-61,-6,layup,False,0,True,True
+2013-02-20,26.2666666667,Orlando Magic,Dallas Mavericks,3,60-61,-4,three point jumper,False,24,True,True
+2013-02-20,27.8666666667,Orlando Magic,Dallas Mavericks,3,64-61,1,two point shot,False,1,True,True
+2013-02-20,30.1666666667,Orlando Magic,Dallas Mavericks,3,71-67,2,two point shot,False,1,True,True
+2013-02-20,31.45,Orlando Magic,Dallas Mavericks,3,73-69,1,three point jumper,False,24,False,True
+2013-02-20,31.9166666667,Orlando Magic,Dallas Mavericks,3,75-71,2,two point shot,False,1,True,True
+2013-02-20,46.6166666667,Orlando Magic,Dallas Mavericks,4,90-108,-19,free throw,False,15,False,True
+2013-02-20,46.6166666667,Orlando Magic,Dallas Mavericks,4,90-108,-19,free throw,False,15,False,True
+2013-02-20,47.3166666667,Orlando Magic,Dallas Mavericks,4,94-111,-19,layup,False,0,True,True
+2013-02-20,47.6666666667,Orlando Magic,Dallas Mavericks,4,96-111,-17,two point shot,False,1,True,True
+2013-03-01,0.616666666667,Orlando Magic,Houston Rockets,1,3-0,-6,three point jumper,True,23,False,False
+2013-03-01,6.06666666667,Orlando Magic,Houston Rockets,1,24-15,-11,layup,True,0,False,False
+2013-03-01,8.35,Orlando Magic,Houston Rockets,1,26-22,-7,three point jumper,True,24,True,False
+2013-03-01,19.7,Orlando Magic,Houston Rockets,2,54-49,-7,layup,True,0,True,False
+2013-03-01,20.1,Orlando Magic,Houston Rockets,2,56-52,-7,three point jumper,True,24,True,False
+2013-03-01,21.2166666667,Orlando Magic,Houston Rockets,2,58-57,-4,three point jumper,True,23,True,False
+2013-03-01,26.9,Orlando Magic,Houston Rockets,3,69-72,1,dunk,True,0,True,False
+2013-02-22,9.66666666667,Orlando Magic,Memphis Grizzlies,1,17-15,-1,three point jumper,False,23,True,False
+2013-02-22,10.15,Orlando Magic,Memphis Grizzlies,1,19-15,2,layup,False,0,True,False
+2013-02-22,15.6833333333,Orlando Magic,Memphis Grizzlies,2,32-27,3,layup,False,0,True,False
+2013-02-22,16.4166666667,Orlando Magic,Memphis Grizzlies,2,34-29,3,two point shot,False,1,True,False
+2013-02-22,17.5333333333,Orlando Magic,Memphis Grizzlies,2,34-29,3,two point jumper,False,4,False,False
+2013-02-22,25.8166666667,Orlando Magic,Memphis Grizzlies,3,39-46,-8,free throw,False,15,True,False
+2013-02-22,25.8166666667,Orlando Magic,Memphis Grizzlies,3,39-46,-8,free throw,False,15,False,False
+2013-02-22,27.45,Orlando Magic,Memphis Grizzlies,3,41-50,-11,two point shot,False,6,True,False
+2013-02-22,31.4833333333,Orlando Magic,Memphis Grizzlies,3,44-55,-14,three point jumper,False,23,False,False
+2013-02-22,31.5333333333,Orlando Magic,Memphis Grizzlies,3,44-55,-13,two point shot,False,1,False,False
+2013-02-22,40.8166666667,Orlando Magic,Memphis Grizzlies,4,63-72,-11,layup,False,0,False,False
+2013-02-22,42.6666666667,Orlando Magic,Memphis Grizzlies,4,69-72,-5,two point shot,False,1,True,False
+2013-02-22,43.6333333333,Orlando Magic,Memphis Grizzlies,4,71-74,-5,layup,False,0,True,False
+2013-02-22,45.5166666667,Orlando Magic,Memphis Grizzlies,4,71-78,-9,two point jumper,False,8,False,False
+2013-02-22,46.8666666667,Orlando Magic,Memphis Grizzlies,4,73-82,-12,three point jumper,False,23,False,False
+2013-02-22,47.0,Orlando Magic,Memphis Grizzlies,4,75-84,-11,layup,False,0,True,False
+2013-02-22,47.0,Orlando Magic,Memphis Grizzlies,4,76-84,-9,free throw,False,15,True,False
+2013-03-03,5.45,Orlando Magic,Memphis Grizzlies,1,16-9,-9,two point shot,True,6,True,True
+2013-03-03,9.26666666667,Orlando Magic,Memphis Grizzlies,1,24-13,-13,two point shot,True,1,False,True
+2013-03-03,10.8333333333,Orlando Magic,Memphis Grizzlies,1,26-17,-11,two point shot,True,2,True,True
+2013-03-03,16.8833333333,Orlando Magic,Memphis Grizzlies,2,40-27,-15,two point shot,True,1,True,True
+2013-03-03,24.4333333333,Orlando Magic,Memphis Grizzlies,3,60-38,-25,three point jumper,True,25,True,True
+2013-03-03,32.2166666667,Orlando Magic,Memphis Grizzlies,3,72-49,-25,two point shot,True,1,True,True
+2013-12-26,11.9333333333,Orlando Magic,New Orleans Pelicans,1,26-24,-4,two point jumper,True,10,False,False
+2013-12-26,20.2666666667,Orlando Magic,New Orleans Pelicans,2,41-40,-4,three point jumper,True,25,False,False
+2013-12-26,23.5666666667,Orlando Magic,New Orleans Pelicans,2,49-53,2,dunk,True,0,True,False
+2013-12-26,31.6333333333,Orlando Magic,New Orleans Pelicans,3,66-62,-6,layup,True,0,False,False
+2013-12-26,31.6666666667,Orlando Magic,New Orleans Pelicans,3,66-62,-6,tip shot,True,0,False,False
+2013-03-04,3.58333333333,Orlando Magic,New Orleans Pelicans,1,4-9,-8,three point jumper,False,26,False,True
+2013-03-04,5.2,Orlando Magic,New Orleans Pelicans,1,9-10,-3,layup,False,0,True,True
+2013-03-04,7.35,Orlando Magic,New Orleans Pelicans,1,11-15,-6,two point jumper,False,5,False,True
+2013-03-04,24.0,Orlando Magic,New Orleans Pelicans,2,36-46,-13,three point jumper,False,80,False,True
+2013-03-04,26.4,Orlando Magic,New Orleans Pelicans,3,40-52,-14,layup,False,0,True,True
+2013-03-04,29.0,Orlando Magic,New Orleans Pelicans,3,49-61,-14,two point shot,False,1,True,True
+2013-03-04,31.95,Orlando Magic,New Orleans Pelicans,3,61-66,-7,layup,False,0,True,True
+2013-03-04,31.95,Orlando Magic,New Orleans Pelicans,3,62-66,-5,free throw,False,15,True,True
+2013-03-04,35.1833333333,Orlando Magic,New Orleans Pelicans,3,68-74,-9,three point jumper,False,26,False,True
+2013-03-04,35.7333333333,Orlando Magic,New Orleans Pelicans,3,70-74,-6,two point shot,False,2,True,True
+2013-03-04,46.0,Orlando Magic,New Orleans Pelicans,4,96-98,-4,two point shot,False,1,True,True
+2013-11-28,2.0,Orlando Magic,San Antonio Spurs,1,2-2,-3,three point jumper,True,25,False,True
+2013-11-28,45.3333333333,Orlando Magic,San Antonio Spurs,4,106-85,-23,two point shot,True,1,True,True
+2013-11-28,45.75,Orlando Magic,San Antonio Spurs,4,106-87,-21,layup,True,0,True,True
+2013-11-19,9.01666666667,Orlando Magic,Atlanta Hawks,1,15-14,-1,two point jumper,False,18,False,False
+2013-11-19,11.4,Orlando Magic,Atlanta Hawks,1,21-21,-2,dunk,False,0,True,False
+2013-11-19,42.8833333333,Orlando Magic,Atlanta Hawks,4,60-78,-19,free throw,False,15,False,False
+2013-11-19,42.8833333333,Orlando Magic,Atlanta Hawks,4,60-78,-19,free throw,False,15,False,False
+2013-11-19,45.3,Orlando Magic,Atlanta Hawks,4,66-78,-14,two point shot,False,1,True,False
+2013-11-19,45.3,Orlando Magic,Atlanta Hawks,4,66-78,-13,free throw,False,15,False,False
+2013-11-19,46.6166666667,Orlando Magic,Atlanta Hawks,4,70-79,-11,two point shot,False,1,True,False
+2013-11-19,47.5833333333,Orlando Magic,Atlanta Hawks,4,72-81,-11,dunk,False,0,True,False
+2013-12-12,0.383333333333,Orlando Magic,Atlanta Hawks,1,0-0,-3,three point jumper,True,23,False,False
+2013-12-12,4.35,Orlando Magic,Atlanta Hawks,1,8-0,-11,three point jumper,True,23,False,False
+2013-12-12,12.6833333333,Orlando Magic,Atlanta Hawks,2,20-15,-7,two point shot,True,1,False,False
+2013-12-12,13.2666666667,Orlando Magic,Atlanta Hawks,2,20-15,-7,layup,True,0,False,False
+2013-02-13,15.8666666667,Orlando Magic,Atlanta Hawks,2,36-23,-15,two point jumper,True,20,False,True
+2013-02-13,27.15,Orlando Magic,Atlanta Hawks,3,61-38,-25,two point shot,True,6,True,True
+2013-02-13,28.9166666667,Orlando Magic,Atlanta Hawks,3,65-38,-30,three point jumper,True,23,False,True
+2013-02-13,30.1666666667,Orlando Magic,Atlanta Hawks,3,69-41,-31,three point jumper,True,24,False,True
+2013-02-13,30.8833333333,Orlando Magic,Atlanta Hawks,3,71-43,-30,two point shot,True,2,True,True
+2013-12-15,2.2,Orlando Magic,Charlotte Bobcats,1,5-6,-3,layup,False,0,True,False
+2013-02-19,1.3,Orlando Magic,Charlotte Bobcats,1,5-2,-5,layup,True,0,True,True
+2013-02-19,2.0,Orlando Magic,Charlotte Bobcats,1,5-3,-3,free throw,True,15,True,True
+2013-02-19,2.0,Orlando Magic,Charlotte Bobcats,1,5-4,-2,free throw,True,15,True,True
+2013-02-19,2.5,Orlando Magic,Charlotte Bobcats,1,5-6,-1,layup,True,0,True,True
+2013-02-19,3.38333333333,Orlando Magic,Charlotte Bobcats,1,10-6,-6,two point jumper,True,1,False,True
+2013-02-19,13.0,Orlando Magic,Charlotte Bobcats,2,37-27,-12,layup,True,0,False,True
+2013-02-19,15.95,Orlando Magic,Charlotte Bobcats,2,42-34,-11,three point jumper,True,23,True,True
+2013-02-19,18.0666666667,Orlando Magic,Charlotte Bobcats,2,48-36,-15,three point jumper,True,23,False,True
+2013-02-19,19.1,Orlando Magic,Charlotte Bobcats,2,50-38,-14,two point jumper,True,1,False,True
+2013-02-19,22.6666666667,Orlando Magic,Charlotte Bobcats,2,58-41,-19,layup,True,0,True,True
+2013-02-19,27.2666666667,Orlando Magic,Charlotte Bobcats,3,63-53,-12,two point shot,True,1,True,True
+2013-02-19,28.45,Orlando Magic,Charlotte Bobcats,3,70-56,-16,layup,True,0,False,True
+2013-02-19,33.1,Orlando Magic,Charlotte Bobcats,3,78-64,-16,dunk,True,0,True,True
+2013-02-19,43.2833333333,Orlando Magic,Charlotte Bobcats,4,89-85,-7,three point jumper,True,23,False,True
+2013-03-06,4.23333333333,Orlando Magic,Miami Heat,1,4-8,-6,two point jumper,False,21,False,False
+2013-03-06,17.9166666667,Orlando Magic,Miami Heat,2,31-37,-9,three point jumper,False,23,True,False
+2013-03-06,26.2166666667,Orlando Magic,Miami Heat,3,46-63,-19,dunk,False,0,True,False
+2013-03-06,30.0666666667,Orlando Magic,Miami Heat,3,55-69,-16,two point shot,False,12,False,False
+2013-03-06,31.9166666667,Orlando Magic,Miami Heat,3,61-71,-12,two point shot,False,1,True,False
+2013-03-06,34.1666666667,Orlando Magic,Miami Heat,3,66-74,-11,three point jumper,False,24,True,False
+2013-03-06,38.95,Orlando Magic,Miami Heat,4,82-81,-2,three point jumper,False,23,False,False
+2013-03-06,41.8166666667,Orlando Magic,Miami Heat,4,89-87,0,dunk,False,0,True,False
+2013-03-06,42.2833333333,Orlando Magic,Miami Heat,4,89-87,-1,three point jumper,False,24,False,False
+2013-03-25,0.866666666667,Orlando Magic,Miami Heat,1,0-0,-1,free throw,True,15,False,True
+2013-03-25,0.866666666667,Orlando Magic,Miami Heat,1,0-0,-1,free throw,True,15,False,True
+2013-03-25,5.98333333333,Orlando Magic,Miami Heat,1,13-15,0,two point shot,True,1,True,True
+2013-03-25,7.85,Orlando Magic,Miami Heat,1,19-18,-4,three point jumper,True,24,False,True
+2013-03-25,8.71666666667,Orlando Magic,Miami Heat,1,19-18,-3,two point jumper,True,7,False,True
+2013-03-25,12.8666666667,Orlando Magic,Miami Heat,2,28-31,0,three point jumper,True,23,True,True
+2013-03-25,16.1666666667,Orlando Magic,Miami Heat,2,34-40,4,layup,True,0,True,True
+2013-03-25,16.9833333333,Orlando Magic,Miami Heat,2,37-40,1,two point shot,True,11,False,True
+2013-03-25,17.6666666667,Orlando Magic,Miami Heat,2,37-42,2,three point jumper,True,24,False,True
+2013-03-25,21.5666666667,Orlando Magic,Miami Heat,2,51-44,-9,tip shot,True,0,False,True
+2013-03-25,22.0,Orlando Magic,Miami Heat,2,51-44,-10,three point jumper,True,23,False,True
+2013-03-25,31.25,Orlando Magic,Miami Heat,3,68-61,-9,two point shot,True,1,False,True
+2013-03-25,43.6666666667,Orlando Magic,Miami Heat,4,100-83,-20,three point jumper,True,24,False,True
+2013-12-05,3.86666666667,Orlando Magic,Utah Jazz,1,4-7,-5,two point jumper,False,1,False,False
+2013-12-05,25.8166666667,Orlando Magic,Utah Jazz,3,36-49,-16,three point jumper,False,25,False,False
+2013-12-17,0.433333333333,Orlando Magic,Minnesota Timberwolves,1,0-3,0,three point jumper,True,26,True,False
+2013-12-17,20.3166666667,Orlando Magic,Minnesota Timberwolves,2,45-44,-3,dunk,True,0,True,False
+2013-12-19,0.633333333333,Orlando Magic,Washington Wizards,1,0-2,0,layup,True,0,True,True
+2013-12-19,6.35,Orlando Magic,Washington Wizards,1,10-9,-2,free throw,True,15,True,True
+2013-12-19,6.35,Orlando Magic,Washington Wizards,1,10-10,-1,free throw,True,15,True,True
+2013-12-19,18.7,Orlando Magic,Washington Wizards,2,35-46,9,layup,True,0,True,True
+2013-12-19,28.5333333333,Orlando Magic,Washington Wizards,3,52-61,7,two point shot,True,1,True,True
+2013-12-19,34.1666666667,Orlando Magic,Washington Wizards,3,58-70,9,three point jumper,True,26,False,True
+2013-12-19,47.2166666667,Orlando Magic,Washington Wizards,4,83-90,6,free throw,True,15,True,True
+2013-12-19,47.2166666667,Orlando Magic,Washington Wizards,4,83-90,6,free throw,True,15,False,True
+2013-12-23,0.45,Orlando Magic,Utah Jazz,1,0-2,0,two point shot,True,1,True,False
+2013-12-23,18.0666666667,Orlando Magic,Utah Jazz,2,31-44,11,layup,True,0,True,False
+2013-12-23,29.7333333333,Orlando Magic,Utah Jazz,3,52-61,6,three point jumper,True,23,True,False
+2013-12-23,32.15,Orlando Magic,Utah Jazz,3,59-65,5,free throw,True,15,False,False
+2013-12-23,32.15,Orlando Magic,Utah Jazz,3,59-65,5,free throw,True,15,False,False
+2013-12-28,1.43333333333,Orlando Magic,Washington Wizards,1,2-2,-2,two point shot,False,1,True,True
+2013-12-28,36.55,Orlando Magic,Washington Wizards,4,74-82,-10,layup,False,0,True,True
+2013-12-28,38.55,Orlando Magic,Washington Wizards,4,78-82,-6,layup,False,0,True,True
+2013-01-07,16.7,Orlando Magic,Portland Trail Blazers,2,34-33,-1,two point shot,False,1,False,False
+2013-01-07,17.1333333333,Orlando Magic,Portland Trail Blazers,2,36-36,-2,layup,False,0,True,False
+2013-01-09,10.75,Orlando Magic,Denver Nuggets,1,30-20,7,three point jumper,False,23,True,False
+2013-01-09,22.0333333333,Orlando Magic,Denver Nuggets,2,49-48,-2,three point jumper,False,24,False,False
+2013-01-09,23.9,Orlando Magic,Denver Nuggets,2,55-53,0,two point shot,False,1,True,False
+2013-01-09,35.5166666667,Orlando Magic,Denver Nuggets,3,77-70,5,two point shot,False,1,True,False
+2013-01-09,48.0,Orlando Magic,Denver Nuggets,4,105-108,-5,layup,False,0,True,False
+2013-01-14,13.9,Orlando Magic,Washington Wizards,2,24-32,-11,three point jumper,False,23,False,True
+2013-01-14,33.6,Orlando Magic,Washington Wizards,3,73-86,-15,dunk,False,0,True,True
+2013-01-14,44.0333333333,Orlando Magic,Washington Wizards,4,83-111,-30,layup,False,0,False,True
+2013-01-14,44.1666666667,Orlando Magic,Washington Wizards,4,85-111,-28,two point shot,False,1,True,True
+2013-02-10,2.96666666667,Orlando Magic,Portland Trail Blazers,1,5-4,-3,layup,True,0,True,True
+2013-02-10,4.56666666667,Orlando Magic,Portland Trail Blazers,1,8-6,-4,two point jumper,True,7,False,True
+2013-02-10,5.88333333333,Orlando Magic,Portland Trail Blazers,1,13-6,-9,two point jumper,True,12,False,True
+2013-02-10,31.3833333333,Orlando Magic,Portland Trail Blazers,3,61-71,8,layup,True,0,True,True
+2013-03-15,0.266666666667,Orlando Magic,Oklahoma City Thunder,1,0-0,-2,layup,False,0,False,False
+2013-03-15,6.23333333333,Orlando Magic,Oklahoma City Thunder,1,14-18,-6,dunk,False,0,True,False
+2013-03-15,8.76666666667,Orlando Magic,Oklahoma City Thunder,1,22-28,-9,three point jumper,False,23,True,False
+2013-03-15,11.0833333333,Orlando Magic,Oklahoma City Thunder,1,24-33,-12,three point jumper,False,24,False,False
+2013-03-15,17.7333333333,Orlando Magic,Oklahoma City Thunder,2,37-59,-24,layup,False,0,True,False
+2013-03-15,19.5666666667,Orlando Magic,Oklahoma City Thunder,2,41-63,-23,free throw,False,15,False,False
+2013-03-15,19.5666666667,Orlando Magic,Oklahoma City Thunder,2,41-63,-23,free throw,False,15,False,False
+2013-03-15,20.1,Orlando Magic,Oklahoma City Thunder,2,45-63,-20,dunk,False,0,True,False
+2013-03-15,25.6833333333,Orlando Magic,Oklahoma City Thunder,3,58-76,-21,three point jumper,False,23,False,False
+2013-03-15,26.6333333333,Orlando Magic,Oklahoma City Thunder,3,61-78,-18,free throw,False,15,True,False
+2013-03-15,26.6333333333,Orlando Magic,Oklahoma City Thunder,3,61-78,-18,free throw,False,15,False,False
+2013-03-15,41.2833333333,Orlando Magic,Oklahoma City Thunder,4,95-103,-10,layup,False,0,False,False
+2013-03-15,41.35,Orlando Magic,Oklahoma City Thunder,4,97-103,-8,layup,False,0,True,False
+2013-03-22,15.7,Orlando Magic,Oklahoma City Thunder,2,27-20,-9,layup,True,0,True,False
+2013-03-22,15.7,Orlando Magic,Oklahoma City Thunder,2,27-21,-7,free throw,True,15,True,False
+2013-03-22,17.3833333333,Orlando Magic,Oklahoma City Thunder,2,34-23,-13,layup,True,0,False,False
+2013-03-22,17.4166666667,Orlando Magic,Oklahoma City Thunder,2,34-25,-11,two point shot,True,1,True,False
+2013-03-22,19.6,Orlando Magic,Oklahoma City Thunder,2,37-28,-12,three point jumper,True,25,False,False
+2013-03-22,23.2666666667,Orlando Magic,Oklahoma City Thunder,2,47-32,-17,two point jumper,True,4,False,False
+2013-03-22,23.5666666667,Orlando Magic,Oklahoma City Thunder,2,47-34,-15,two point shot,True,1,True,False
+2013-03-22,26.3333333333,Orlando Magic,Oklahoma City Thunder,3,50-46,-6,two point jumper,True,14,True,False
+2013-03-22,27.5,Orlando Magic,Oklahoma City Thunder,3,52-48,-6,two point shot,True,2,True,False
+2013-03-22,30.1,Orlando Magic,Oklahoma City Thunder,3,60-55,-8,three point jumper,True,25,True,False
+2013-03-22,30.95,Orlando Magic,Oklahoma City Thunder,3,60-59,-3,layup,True,0,True,False
+2013-03-22,31.9833333333,Orlando Magic,Oklahoma City Thunder,3,62-62,-3,three point jumper,True,23,True,False
+2013-03-22,33.5666666667,Orlando Magic,Oklahoma City Thunder,3,66-64,-4,two point jumper,True,22,False,False
+2013-03-22,37.5,Orlando Magic,Oklahoma City Thunder,4,70-68,-4,two point shot,True,3,True,False
+2013-03-22,38.3333333333,Orlando Magic,Oklahoma City Thunder,4,72-70,-4,layup,True,0,True,False
+2013-03-22,40.1,Orlando Magic,Oklahoma City Thunder,4,76-76,-2,two point shot,True,1,True,False

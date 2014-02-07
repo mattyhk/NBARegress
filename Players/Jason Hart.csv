@@ -1,0 +1,840 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2006-12-30,14.3,Sacramento Kings,Boston Celtics,2,26-32,4,two point jumper,True,19,True,True
+2006-12-30,17.35,Sacramento Kings,Boston Celtics,2,31-41,8,two point jumper,True,23,False,True
+2006-12-30,36.6166666667,Sacramento Kings,Boston Celtics,4,86-87,-1,two point jumper,True,1,False,True
+2006-12-30,38.3166666667,Sacramento Kings,Boston Celtics,4,90-89,-3,two point jumper,True,16,True,True
+2006-12-30,40.5666666667,Sacramento Kings,Boston Celtics,4,92-95,0,three point jumper,True,24,False,True
+2006-12-30,46.3,Sacramento Kings,Boston Celtics,4,103-109,4,two point jumper,True,19,False,True
+2006-01-27,17.1333333333,Sacramento Kings,Boston Celtics,2,32-39,-9,two point jumper,False,22,False,False
+2006-01-27,38.05,Sacramento Kings,Boston Celtics,4,64-70,-8,layup,False,0,False,False
+2006-01-27,40.1,Sacramento Kings,Boston Celtics,4,65-72,-9,two point jumper,False,17,False,False
+2006-01-27,40.2833333333,Sacramento Kings,Boston Celtics,4,65-72,-9,layup,False,0,False,False
+2006-11-23,14.6833333333,Sacramento Kings,Brooklyn Nets,2,34-32,-3,free throw,True,15,True,True
+2006-11-23,14.6833333333,Sacramento Kings,Brooklyn Nets,2,34-32,-3,free throw,True,15,False,True
+2006-11-23,47.0666666667,Sacramento Kings,Brooklyn Nets,4,101-112,9,two point jumper,True,9,False,True
+2006-11-23,47.7333333333,Sacramento Kings,Brooklyn Nets,4,103-113,9,free throw,True,15,True,True
+2006-11-23,47.7333333333,Sacramento Kings,Brooklyn Nets,4,103-114,10,free throw,True,15,True,True
+2006-03-06,44.2166666667,Sacramento Kings,Brooklyn Nets,4,100-77,20,three point jumper,False,22,False,False
+2006-03-06,45.0166666667,Sacramento Kings,Brooklyn Nets,4,104-78,24,two point jumper,False,21,True,False
+2006-03-06,47.3,Sacramento Kings,Brooklyn Nets,4,109-82,24,three point jumper,False,23,True,False
+2006-03-06,47.5666666667,Sacramento Kings,Brooklyn Nets,4,112-82,27,three point jumper,False,24,True,False
+2006-11-13,16.6333333333,Sacramento Kings,New York Knicks,2,42-27,-18,three point jumper,True,25,True,True
+2006-11-13,18.5666666667,Sacramento Kings,New York Knicks,2,46-33,-15,two point jumper,True,19,False,True
+2006-11-13,41.8166666667,Sacramento Kings,New York Knicks,4,90-79,-14,three point jumper,True,23,False,True
+2006-11-13,45.45,Sacramento Kings,New York Knicks,4,97-86,-13,two point jumper,True,21,False,True
+2006-11-13,46.55,Sacramento Kings,New York Knicks,4,97-90,-8,free throw,True,15,False,True
+2006-11-13,46.55,Sacramento Kings,New York Knicks,4,97-91,-7,free throw,True,15,True,True
+2006-01-25,12.3833333333,Sacramento Kings,New York Knicks,2,23-27,-6,two point jumper,False,19,False,True
+2006-01-25,13.55,Sacramento Kings,New York Knicks,2,24-27,-5,two point jumper,False,18,False,True
+2006-01-25,16.45,Sacramento Kings,New York Knicks,2,26-33,-9,two point jumper,False,1,False,True
+2006-01-03,16.5666666667,Sacramento Kings,Philadelphia 76ers,2,26-38,10,two point jumper,True,19,False,True
+2006-01-03,19.5,Sacramento Kings,Philadelphia 76ers,2,35-40,4,free throw,True,15,False,True
+2006-01-03,19.5,Sacramento Kings,Philadelphia 76ers,2,35-40,4,free throw,True,15,False,True
+2006-01-03,36.5,Sacramento Kings,Philadelphia 76ers,4,84-75,-11,two point jumper,True,21,False,True
+2006-01-03,46.0,Sacramento Kings,Philadelphia 76ers,4,107-92,-16,free throw,True,15,True,True
+2006-01-03,46.0,Sacramento Kings,Philadelphia 76ers,4,107-93,-15,free throw,True,15,True,True
+2006-01-03,46.3666666667,Sacramento Kings,Philadelphia 76ers,4,107-95,-14,layup,True,0,True,True
+2006-01-03,46.8666666667,Sacramento Kings,Philadelphia 76ers,4,107-95,-15,three point jumper,True,24,False,True
+2006-01-24,16.0,Sacramento Kings,Philadelphia 76ers,2,32-37,-8,three point jumper,False,26,True,False
+2006-01-24,19.1,Sacramento Kings,Philadelphia 76ers,2,34-37,-6,three point jumper,False,28,False,False
+2006-01-24,39.0,Sacramento Kings,Philadelphia 76ers,4,82-89,-9,two point jumper,False,20,True,False
+2006-01-24,41.7333333333,Sacramento Kings,Philadelphia 76ers,4,87-93,-9,three point jumper,False,25,False,False
+2006-11-25,13.75,Sacramento Kings,Toronto Raptors,2,28-28,-2,layup,True,0,False,True
+2006-11-25,15.9666666667,Sacramento Kings,Toronto Raptors,2,36-33,-5,two point jumper,True,17,False,True
+2006-11-25,16.75,Sacramento Kings,Toronto Raptors,2,36-33,-4,free throw,True,15,False,True
+2006-11-25,16.75,Sacramento Kings,Toronto Raptors,2,36-34,-3,free throw,True,15,True,True
+2006-11-25,19.45,Sacramento Kings,Toronto Raptors,2,40-44,2,layup,True,0,True,True
+2006-11-25,37.9,Sacramento Kings,Toronto Raptors,4,89-87,-4,two point shot,True,6,True,True
+2006-11-30,0.4,Sacramento Kings,Golden State Warriors,1,33-31,0,layup,False,0,True,False
+2006-11-30,27.0,Sacramento Kings,Golden State Warriors,3,35-35,-2,layup,False,0,True,False
+2006-11-30,35.3166666667,Sacramento Kings,Golden State Warriors,3,68-72,-5,free throw,False,15,False,False
+2006-11-30,40.45,Sacramento Kings,Golden State Warriors,4,75-83,-10,two point jumper,False,19,False,False
+2006-02-21,37.3166666667,Sacramento Kings,Golden State Warriors,4,55-86,29,layup,True,0,True,False
+2006-02-21,37.3166666667,Sacramento Kings,Golden State Warriors,4,55-87,31,free throw,True,15,True,False
+2006-02-21,38.5666666667,Sacramento Kings,Golden State Warriors,4,56-89,31,two point jumper,True,21,False,False
+2006-02-21,38.8,Sacramento Kings,Golden State Warriors,4,56-91,33,layup,True,0,True,False
+2006-02-21,41.2,Sacramento Kings,Golden State Warriors,4,61-95,32,two point jumper,True,22,False,False
+2006-02-21,44.75,Sacramento Kings,Golden State Warriors,4,75-97,20,layup,True,0,True,False
+2006-02-21,45.9833333333,Sacramento Kings,Golden State Warriors,4,75-99,22,two point jumper,True,5,True,False
+2006-02-21,46.55,Sacramento Kings,Golden State Warriors,4,77-99,20,two point jumper,True,19,False,False
+2006-03-26,17.4833333333,Sacramento Kings,Golden State Warriors,2,32-29,-4,free throw,True,15,True,False
+2006-03-26,17.4833333333,Sacramento Kings,Golden State Warriors,2,32-29,-4,free throw,True,15,False,False
+2006-03-26,20.3666666667,Sacramento Kings,Golden State Warriors,2,34-34,-3,three point jumper,True,24,False,False
+2006-03-26,20.9333333333,Sacramento Kings,Golden State Warriors,2,36-34,-3,free throw,True,15,False,False
+2006-03-26,20.9333333333,Sacramento Kings,Golden State Warriors,2,36-35,-2,free throw,True,15,True,False
+2006-03-26,37.3333333333,Sacramento Kings,Golden State Warriors,4,71-56,-17,two point jumper,True,1,False,False
+2006-03-26,47.7333333333,Sacramento Kings,Golden State Warriors,4,88-82,-7,free throw,True,15,True,False
+2006-03-26,47.7333333333,Sacramento Kings,Golden State Warriors,4,88-83,-6,free throw,True,15,True,False
+2006-03-26,47.85,Sacramento Kings,Golden State Warriors,4,90-83,-10,three point jumper,True,27,False,False
+2006-03-31,10.9166666667,Sacramento Kings,Golden State Warriors,1,25-29,-6,two point jumper,False,1,False,True
+2006-03-31,18.75,Sacramento Kings,Golden State Warriors,2,38-40,-4,two point jumper,False,18,False,True
+2006-03-31,37.9333333333,Sacramento Kings,Golden State Warriors,4,73-69,2,two point jumper,False,17,False,True
+2006-12-27,19.6333333333,Sacramento Kings,Los Angeles Clippers,2,46-37,7,two point jumper,False,18,True,False
+2006-12-27,22.4833333333,Sacramento Kings,Los Angeles Clippers,2,54-40,13,free throw,False,15,True,False
+2006-12-27,22.4833333333,Sacramento Kings,Los Angeles Clippers,2,55-40,14,free throw,False,15,True,False
+2006-01-06,12.5,Sacramento Kings,Los Angeles Clippers,2,28-28,-2,layup,True,0,True,True
+2006-01-06,12.5,Sacramento Kings,Los Angeles Clippers,2,28-28,-1,free throw,True,15,False,True
+2006-01-06,13.45,Sacramento Kings,Los Angeles Clippers,2,29-32,1,layup,True,0,True,True
+2006-01-06,14.9666666667,Sacramento Kings,Los Angeles Clippers,2,31-36,3,two point jumper,True,19,True,True
+2006-01-06,20.05,Sacramento Kings,Los Angeles Clippers,2,47-52,3,two point jumper,True,22,False,True
+2006-01-06,42.2166666667,Sacramento Kings,Los Angeles Clippers,4,99-107,6,two point jumper,True,19,True,True
+2006-01-06,42.85,Sacramento Kings,Los Angeles Clippers,4,101-108,6,free throw,True,15,True,True
+2006-01-06,42.85,Sacramento Kings,Los Angeles Clippers,4,101-109,7,free throw,True,15,True,True
+2006-01-19,16.1666666667,Sacramento Kings,Los Angeles Lakers,2,35-36,-1,two point jumper,True,22,True,True
+2006-01-19,18.2166666667,Sacramento Kings,Los Angeles Lakers,2,42-38,-6,two point jumper,True,20,False,True
+2006-01-19,19.5333333333,Sacramento Kings,Los Angeles Lakers,2,46-41,-6,free throw,True,15,True,True
+2006-01-19,19.5333333333,Sacramento Kings,Los Angeles Lakers,2,46-42,-5,free throw,True,15,True,True
+2006-01-19,38.65,Sacramento Kings,Los Angeles Lakers,4,84-81,-5,two point jumper,True,7,False,True
+2006-11-06,14.6833333333,Sacramento Kings,Phoenix Suns,2,36-38,-4,two point jumper,False,21,True,True
+2006-01-17,12.6166666667,Sacramento Kings,Phoenix Suns,2,24-34,8,two point jumper,True,21,True,False
+2006-01-17,13.6333333333,Sacramento Kings,Phoenix Suns,2,24-37,11,two point jumper,True,22,False,False
+2006-01-17,18.7,Sacramento Kings,Phoenix Suns,2,31-47,13,three point jumper,True,23,False,False
+2006-01-17,38.2666666667,Sacramento Kings,Phoenix Suns,4,70-99,27,two point jumper,True,21,False,False
+2006-01-17,41.6666666667,Sacramento Kings,Phoenix Suns,4,79-109,28,two point jumper,True,17,True,False
+2006-01-17,43.0,Sacramento Kings,Phoenix Suns,4,80-109,27,two point jumper,True,1,False,False
+2006-01-17,45.2666666667,Sacramento Kings,Phoenix Suns,4,84-114,27,three point jumper,True,24,True,False
+2006-01-17,45.7333333333,Sacramento Kings,Phoenix Suns,4,84-114,28,two point jumper,True,20,False,False
+2006-01-17,47.6666666667,Sacramento Kings,Phoenix Suns,4,89-119,27,three point jumper,True,24,False,False
+2006-11-01,10.2166666667,Sacramento Kings,New Orleans Pelicans,1,17-17,-2,two point jumper,False,17,False,False
+2006-11-01,37.4,Sacramento Kings,New Orleans Pelicans,4,50-71,-23,two point jumper,False,22,False,False
+2006-11-01,39.8666666667,Sacramento Kings,New Orleans Pelicans,4,53-71,-19,free throw,False,15,True,False
+2006-11-01,39.8666666667,Sacramento Kings,New Orleans Pelicans,4,53-71,-19,free throw,False,15,False,False
+2006-11-01,43.8166666667,Sacramento Kings,New Orleans Pelicans,4,55-81,-28,two point jumper,False,20,False,False
+2006-11-02,15.6166666667,Sacramento Kings,Houston Rockets,5,73-83,-12,two point jumper,False,20,True,False
+2006-11-08,13.5666666667,Sacramento Kings,Detroit Pistons,2,31-24,-9,layup,True,0,False,True
+2006-11-08,14.25,Sacramento Kings,Detroit Pistons,2,33-24,-11,two point jumper,True,5,False,True
+2006-11-08,36.8333333333,Sacramento Kings,Detroit Pistons,4,83-65,-20,two point jumper,True,16,False,True
+2006-11-08,44.7833333333,Sacramento Kings,Detroit Pistons,4,97-75,-25,three point jumper,True,25,False,True
+2006-11-08,47.6666666667,Sacramento Kings,Detroit Pistons,4,102-86,-19,three point jumper,True,24,True,True
+2006-11-09,11.3,Sacramento Kings,Denver Nuggets,1,28-27,0,free throw,False,15,True,True
+2006-11-09,11.3,Sacramento Kings,Denver Nuggets,1,28-27,0,free throw,False,15,False,True
+2006-11-09,16.5,Sacramento Kings,Denver Nuggets,2,37-40,-5,two point jumper,False,21,False,True
+2006-11-11,14.7,Sacramento Kings,Denver Nuggets,2,23-40,15,two point jumper,True,21,True,False
+2006-11-11,16.25,Sacramento Kings,Denver Nuggets,2,27-45,16,two point shot,True,1,True,False
+2006-11-11,37.1166666667,Sacramento Kings,Denver Nuggets,4,66-82,15,free throw,True,15,False,False
+2006-11-11,37.1166666667,Sacramento Kings,Denver Nuggets,4,66-83,16,free throw,True,15,True,False
+2006-11-11,37.3166666667,Sacramento Kings,Denver Nuggets,4,66-85,17,layup,True,0,True,False
+2006-11-15,29.2166666667,Sacramento Kings,Utah Jazz,3,72-104,30,two point jumper,True,1,True,False
+2006-11-15,30.1666666667,Sacramento Kings,Utah Jazz,3,74-107,30,three point jumper,True,24,True,False
+2006-11-15,32.4,Sacramento Kings,Utah Jazz,3,78-109,29,two point jumper,True,16,False,False
+2006-11-18,16.85,Sacramento Kings,Milwaukee Bucks,2,31-37,4,layup,True,0,True,False
+2006-11-18,40.3833333333,Sacramento Kings,Milwaukee Bucks,4,72-88,14,layup,True,0,True,False
+2006-11-18,42.2,Sacramento Kings,Milwaukee Bucks,4,75-93,16,two point jumper,True,19,True,False
+2006-11-18,44.8,Sacramento Kings,Milwaukee Bucks,4,80-98,16,two point jumper,True,20,True,False
+2006-11-18,46.1,Sacramento Kings,Milwaukee Bucks,4,80-101,19,two point jumper,True,19,False,False
+2006-11-20,15.8833333333,Sacramento Kings,Oklahoma City Thunder,2,42-31,9,two point jumper,False,21,False,False
+2006-11-20,36.55,Sacramento Kings,Oklahoma City Thunder,4,88-87,-1,two point jumper,False,17,False,False
+2006-11-20,40.7833333333,Sacramento Kings,Oklahoma City Thunder,4,92-92,-2,two point jumper,False,19,False,False
+2006-11-21,16.0666666667,Sacramento Kings,San Antonio Spurs,2,29-25,-6,two point jumper,True,20,True,False
+2006-11-21,35.9666666667,Sacramento Kings,San Antonio Spurs,3,72-58,-17,three point jumper,True,24,False,False
+2006-11-21,37.1833333333,Sacramento Kings,San Antonio Spurs,4,76-60,-19,three point jumper,True,23,False,False
+2006-11-21,39.1166666667,Sacramento Kings,San Antonio Spurs,4,78-65,-15,two point jumper,True,17,False,False
+2006-11-29,39.5833333333,Sacramento Kings,Charlotte Bobcats,4,72-99,25,two point jumper,True,20,True,False
+2006-11-29,40.4166666667,Sacramento Kings,Charlotte Bobcats,4,74-101,25,two point jumper,True,20,True,False
+2006-11-29,40.9833333333,Sacramento Kings,Charlotte Bobcats,4,76-101,23,two point jumper,True,19,False,False
+2006-11-29,43.0333333333,Sacramento Kings,Charlotte Bobcats,4,80-105,23,two point jumper,True,17,False,False
+2006-11-29,46.75,Sacramento Kings,Charlotte Bobcats,4,85-110,23,two point jumper,True,20,False,False
+2006-12-02,12.25,Sacramento Kings,Miami Heat,2,29-24,-7,two point jumper,True,1,False,False
+2006-12-04,12.95,Sacramento Kings,Minnesota Timberwolves,2,27-23,-6,two point jumper,True,19,True,False
+2006-12-04,18.7,Sacramento Kings,Minnesota Timberwolves,2,38-32,-9,three point jumper,True,22,False,False
+2006-12-04,38.5,Sacramento Kings,Minnesota Timberwolves,4,70-56,-17,three point jumper,True,23,False,False
+2006-12-04,44.0,Sacramento Kings,Minnesota Timberwolves,4,76-67,-10,free throw,True,15,False,False
+2006-12-04,44.0,Sacramento Kings,Minnesota Timberwolves,4,76-67,-10,free throw,True,15,False,False
+2006-12-04,45.5166666667,Sacramento Kings,Minnesota Timberwolves,4,79-69,-13,three point jumper,True,24,False,False
+2006-12-04,47.35,Sacramento Kings,Minnesota Timberwolves,4,85-75,-12,two point jumper,True,5,True,False
+2006-12-06,14.8333333333,Sacramento Kings,Cleveland Cavaliers,2,29-25,-6,two point jumper,True,1,True,True
+2006-12-06,16.6,Sacramento Kings,Cleveland Cavaliers,2,35-31,-6,two point jumper,True,16,True,True
+2006-12-06,18.1666666667,Sacramento Kings,Cleveland Cavaliers,2,37-31,-8,two point jumper,True,23,False,True
+2006-12-08,11.4333333333,Sacramento Kings,Houston Rockets,1,27-29,0,two point jumper,True,19,True,True
+2006-12-10,18.5,Sacramento Kings,Oklahoma City Thunder,2,45-40,3,two point jumper,False,19,True,True
+2006-12-10,19.7833333333,Sacramento Kings,Oklahoma City Thunder,2,47-43,2,two point jumper,False,17,False,True
+2006-12-11,17.35,Sacramento Kings,New Orleans Pelicans,2,36-39,1,two point jumper,True,14,True,True
+2006-12-11,18.3166666667,Sacramento Kings,New Orleans Pelicans,2,38-41,1,two point jumper,True,22,False,True
+2006-12-11,18.45,Sacramento Kings,New Orleans Pelicans,2,38-41,1,two point jumper,True,22,False,True
+2006-12-13,38.8833333333,Sacramento Kings,Minnesota Timberwolves,4,70-70,-2,two point jumper,False,20,True,True
+2006-12-14,28.5,Sacramento Kings,Detroit Pistons,3,33-36,-5,layup,False,0,True,True
+2006-12-14,29.7,Sacramento Kings,Detroit Pistons,3,37-37,-2,two point jumper,False,23,True,True
+2006-12-14,30.75,Sacramento Kings,Detroit Pistons,3,40-37,2,free throw,False,15,True,True
+2006-12-14,30.75,Sacramento Kings,Detroit Pistons,3,40-37,2,free throw,False,15,False,True
+2006-12-14,15.9,Sacramento Kings,Detroit Pistons,5,81-98,-19,two point jumper,False,16,False,True
+2006-12-14,17.2833333333,Sacramento Kings,Detroit Pistons,5,85-101,-18,layup,False,0,True,True
+2006-12-14,18.95,Sacramento Kings,Detroit Pistons,5,89-105,-18,layup,False,0,False,True
+2006-12-17,12.8666666667,Sacramento Kings,San Antonio Spurs,2,18-29,-12,free throw,False,15,True,False
+2006-12-17,12.8666666667,Sacramento Kings,San Antonio Spurs,2,18-29,-12,free throw,False,15,False,False
+2006-12-17,20.1833333333,Sacramento Kings,San Antonio Spurs,2,33-39,-8,two point jumper,False,17,False,False
+2006-12-17,21.1833333333,Sacramento Kings,San Antonio Spurs,2,35-39,-5,free throw,False,15,False,False
+2006-12-17,21.1833333333,Sacramento Kings,San Antonio Spurs,2,36-39,-4,free throw,False,15,True,False
+2006-12-17,22.2666666667,Sacramento Kings,San Antonio Spurs,2,38-41,-5,two point jumper,False,17,False,False
+2006-12-17,36.3833333333,Sacramento Kings,San Antonio Spurs,4,65-71,-8,two point jumper,False,18,True,False
+2006-12-19,16.4166666667,Sacramento Kings,Charlotte Bobcats,2,38-33,3,two point jumper,False,18,False,False
+2006-12-22,12.6333333333,Sacramento Kings,Dallas Mavericks,2,33-23,-12,layup,True,0,False,True
+2006-12-26,14.8,Sacramento Kings,Portland Trail Blazers,2,31-35,2,two point jumper,True,1,False,True
+2006-12-26,17.3833333333,Sacramento Kings,Portland Trail Blazers,2,37-37,-2,two point jumper,True,20,False,True
+2006-01-08,12.7166666667,Sacramento Kings,Indiana Pacers,2,28-20,-10,two point jumper,True,21,False,True
+2006-01-08,14.0,Sacramento Kings,Indiana Pacers,2,28-27,-3,two point jumper,True,16,True,True
+2006-01-08,18.8833333333,Sacramento Kings,Indiana Pacers,2,41-31,-12,two point jumper,True,16,True,True
+2006-01-08,19.45,Sacramento Kings,Indiana Pacers,2,44-33,-13,two point jumper,True,19,True,True
+2006-01-08,29.0,Sacramento Kings,Indiana Pacers,3,80-47,-35,two point jumper,True,20,False,True
+2006-01-08,31.5666666667,Sacramento Kings,Indiana Pacers,3,80-53,-29,two point jumper,True,19,False,True
+2006-01-08,35.0166666667,Sacramento Kings,Indiana Pacers,3,91-61,-32,two point jumper,True,1,True,True
+2006-01-08,38.25,Sacramento Kings,Indiana Pacers,4,96-64,-34,two point jumper,True,1,False,True
+2006-01-08,42.2,Sacramento Kings,Indiana Pacers,4,103-68,-37,two point jumper,True,22,False,True
+2006-01-08,43.35,Sacramento Kings,Indiana Pacers,4,103-68,-37,layup,True,0,False,True
+2006-01-08,46.1833333333,Sacramento Kings,Indiana Pacers,4,105-79,-28,two point jumper,True,20,True,True
+2006-01-10,17.45,Sacramento Kings,Memphis Grizzlies,2,43-28,13,two point jumper,False,21,True,False
+2006-01-10,37.1333333333,Sacramento Kings,Memphis Grizzlies,4,68-81,-15,two point jumper,False,20,False,False
+2006-01-10,45.45,Sacramento Kings,Memphis Grizzlies,4,80-96,-18,two point jumper,False,21,False,False
+2006-01-10,47.05,Sacramento Kings,Memphis Grizzlies,4,83-99,-17,free throw,False,15,True,False
+2006-01-10,47.05,Sacramento Kings,Memphis Grizzlies,4,83-99,-17,free throw,False,15,False,False
+2006-01-11,19.7333333333,Sacramento Kings,Houston Rockets,2,34-26,6,two point jumper,False,16,False,True
+2006-01-11,33.4333333333,Sacramento Kings,Houston Rockets,3,56-51,4,free throw,False,15,False,True
+2006-01-11,33.4333333333,Sacramento Kings,Houston Rockets,3,57-51,5,free throw,False,15,True,True
+2006-01-11,35.8833333333,Sacramento Kings,Houston Rockets,3,66-55,10,free throw,False,15,False,True
+2006-01-11,42.1,Sacramento Kings,Houston Rockets,4,76-68,6,two point jumper,False,1,False,True
+2006-01-11,47.3333333333,Sacramento Kings,Houston Rockets,4,83-77,5,free throw,False,15,True,True
+2006-01-11,47.3333333333,Sacramento Kings,Houston Rockets,4,84-77,6,free throw,False,15,True,True
+2006-01-11,47.45,Sacramento Kings,Houston Rockets,4,85-77,7,free throw,False,15,True,True
+2006-01-11,47.45,Sacramento Kings,Houston Rockets,4,86-77,8,free throw,False,15,True,True
+2006-01-13,36.2666666667,Sacramento Kings,New Orleans Pelicans,4,55-72,-19,two point jumper,False,18,True,False
+2006-01-13,38.75,Sacramento Kings,New Orleans Pelicans,4,57-75,-20,two point jumper,False,4,True,False
+2006-01-13,41.7,Sacramento Kings,New Orleans Pelicans,4,62-80,-21,three point jumper,False,25,True,False
+2006-01-13,43.8833333333,Sacramento Kings,New Orleans Pelicans,4,66-83,-20,three point jumper,False,24,False,False
+2006-01-13,45.2666666667,Sacramento Kings,New Orleans Pelicans,4,70-84,-17,three point jumper,False,25,True,False
+2006-01-13,46.5,Sacramento Kings,New Orleans Pelicans,4,70-91,-24,three point jumper,False,25,False,False
+2006-01-13,47.9,Sacramento Kings,New Orleans Pelicans,4,75-91,-17,free throw,False,15,True,False
+2006-01-13,47.9,Sacramento Kings,New Orleans Pelicans,4,76-91,-16,free throw,False,15,True,False
+2006-01-15,13.8833333333,Sacramento Kings,Orlando Magic,2,24-25,-1,two point jumper,True,20,False,True
+2006-01-15,17.75,Sacramento Kings,Orlando Magic,2,27-36,7,two point jumper,True,22,True,True
+2006-01-21,16.2,Sacramento Kings,Orlando Magic,2,32-26,3,three point jumper,False,23,True,False
+2006-01-21,18.1333333333,Sacramento Kings,Orlando Magic,2,41-29,10,two point jumper,False,20,True,False
+2006-01-21,34.9166666667,Sacramento Kings,Orlando Magic,3,59-54,3,two point jumper,False,21,False,False
+2006-01-21,43.7833333333,Sacramento Kings,Orlando Magic,4,71-68,0,three point jumper,False,25,False,False
+2006-01-21,46.6,Sacramento Kings,Orlando Magic,4,74-70,1,three point jumper,False,25,False,False
+2006-01-21,17.9,Sacramento Kings,Orlando Magic,5,74-74,-2,two point jumper,False,1,False,False
+2006-01-21,20.7166666667,Sacramento Kings,Orlando Magic,5,76-78,-4,two point jumper,False,15,False,False
+2006-01-22,26.7666666667,Sacramento Kings,Miami Heat,3,30-42,-14,two point jumper,False,21,False,True
+2006-01-22,27.8833333333,Sacramento Kings,Miami Heat,3,34-44,-12,layup,False,0,True,True
+2006-01-22,33.1666666667,Sacramento Kings,Miami Heat,3,50-54,-5,free throw,False,15,True,True
+2006-01-22,33.1666666667,Sacramento Kings,Miami Heat,3,50-54,-5,free throw,False,15,False,True
+2006-01-22,12.0833333333,Sacramento Kings,Miami Heat,5,89-93,-6,two point jumper,False,21,True,True
+2006-01-22,13.1,Sacramento Kings,Miami Heat,5,89-97,-10,two point jumper,False,15,False,True
+2006-02-05,16.6,Sacramento Kings,Utah Jazz,2,29-37,6,two point jumper,True,18,False,True
+2006-02-09,45.45,Sacramento Kings,Chicago Bulls,4,76-98,20,two point jumper,True,19,False,True
+2006-02-12,45.2333333333,Sacramento Kings,Atlanta Hawks,4,81-103,20,two point jumper,True,16,False,False
+2006-02-12,46.3666666667,Sacramento Kings,Atlanta Hawks,4,82-105,21,two point shot,True,4,False,False
+2006-02-12,47.05,Sacramento Kings,Atlanta Hawks,4,84-107,21,two point jumper,True,22,True,False
+2006-02-12,47.9166666667,Sacramento Kings,Atlanta Hawks,4,84-109,23,layup,True,0,True,False
+2006-02-14,13.05,Sacramento Kings,Chicago Bulls,2,26-26,-2,two point jumper,False,1,False,True
+2006-02-27,46.3833333333,Sacramento Kings,Portland Trail Blazers,4,89-112,21,two point jumper,True,1,True,False
+2006-03-25,14.3166666667,Sacramento Kings,Utah Jazz,2,33-25,6,two point jumper,False,18,True,True
+2006-03-25,17.4833333333,Sacramento Kings,Utah Jazz,2,37-31,4,two point jumper,False,22,True,True
+2006-03-25,19.6,Sacramento Kings,Utah Jazz,2,39-37,0,two point jumper,False,23,False,True
+2006-03-25,37.3833333333,Sacramento Kings,Utah Jazz,4,71-68,1,two point jumper,False,21,False,True
+2006-03-29,15.1333333333,Sacramento Kings,Portland Trail Blazers,2,38-24,12,two point jumper,False,19,True,False
+2006-03-29,20.4833333333,Sacramento Kings,Portland Trail Blazers,2,47-31,14,two point jumper,False,18,False,False
+2006-03-29,37.2,Sacramento Kings,Portland Trail Blazers,4,87-70,15,two point jumper,False,21,True,False
+2006-03-29,39.05,Sacramento Kings,Portland Trail Blazers,4,92-74,16,layup,False,0,True,False
+2006-03-29,40.4833333333,Sacramento Kings,Portland Trail Blazers,4,94-76,16,two point jumper,False,1,False,False
+2006-04-04,42.6,Sacramento Kings,Dallas Mavericks,4,88-115,-29,two point jumper,False,18,True,False
+2006-04-04,43.4833333333,Sacramento Kings,Dallas Mavericks,4,91-117,-27,free throw,False,15,True,False
+2006-04-04,43.4833333333,Sacramento Kings,Dallas Mavericks,4,92-117,-26,free throw,False,15,True,False
+2006-04-04,44.05,Sacramento Kings,Dallas Mavericks,4,94-117,-25,two point jumper,False,20,True,False
+2006-04-04,47.5333333333,Sacramento Kings,Dallas Mavericks,4,101-127,-28,layup,False,0,True,False
+2006-04-04,48.0,Sacramento Kings,Dallas Mavericks,4,101-127,-29,three point jumper,False,30,False,False
+2006-04-05,36.8833333333,Sacramento Kings,San Antonio Spurs,4,81-67,12,two point jumper,False,14,False,True
+2006-04-15,13.25,Sacramento Kings,Denver Nuggets,2,27-20,5,two point jumper,False,16,False,False
+2006-04-15,15.3166666667,Sacramento Kings,Denver Nuggets,2,31-26,3,two point jumper,False,19,True,False
+2006-04-15,16.35,Sacramento Kings,Denver Nuggets,2,31-29,-1,three point jumper,False,25,False,False
+2006-04-15,17.4833333333,Sacramento Kings,Denver Nuggets,2,36-30,4,layup,False,0,True,False
+2006-04-15,45.0333333333,Sacramento Kings,Denver Nuggets,4,100-75,23,layup,False,0,True,False
+2006-04-15,45.7833333333,Sacramento Kings,Denver Nuggets,4,100-77,21,two point jumper,False,18,False,False
+2006-04-16,14.7,Sacramento Kings,New Orleans Pelicans,2,24-31,6,free throw,True,15,True,True
+2006-04-16,14.7,Sacramento Kings,New Orleans Pelicans,2,24-32,7,free throw,True,15,True,True
+2006-04-16,15.2,Sacramento Kings,New Orleans Pelicans,2,25-34,7,two point jumper,True,20,True,True
+2006-04-16,17.2166666667,Sacramento Kings,New Orleans Pelicans,2,27-38,9,two point jumper,True,20,True,True
+2006-04-16,18.0333333333,Sacramento Kings,New Orleans Pelicans,2,28-38,8,two point jumper,True,21,False,True
+2006-04-16,41.1333333333,Sacramento Kings,New Orleans Pelicans,4,68-87,17,two point jumper,True,21,False,True
+2006-04-16,45.0166666667,Sacramento Kings,New Orleans Pelicans,4,73-94,19,two point jumper,True,6,False,True
+2006-04-18,14.8833333333,Sacramento Kings,Oklahoma City Thunder,2,27-39,10,two point jumper,True,17,True,True
+2006-04-18,15.4666666667,Sacramento Kings,Oklahoma City Thunder,2,30-41,9,layup,True,0,True,True
+2006-04-18,16.6,Sacramento Kings,Oklahoma City Thunder,2,32-41,7,two point jumper,True,19,False,True
+2007-03-18,2.95,Los Angeles Clippers,Brooklyn Nets,1,3-9,-8,two point jumper,False,20,False,True
+2007-03-18,25.75,Los Angeles Clippers,Brooklyn Nets,3,47-53,-8,two point jumper,False,19,False,True
+2007-03-18,33.8666666667,Los Angeles Clippers,Brooklyn Nets,3,66-68,-4,two point jumper,False,18,False,True
+2007-12-27,48.0,Sacramento Kings,Philadelphia 76ers,4,76-101,22,three point jumper,True,24,True,False
+2007-11-16,20.6833333333,Sacramento Kings,Golden State Warriors,2,44-57,-15,two point jumper,False,21,True,False
+2007-11-16,21.4833333333,Sacramento Kings,Golden State Warriors,2,46-60,-16,layup,False,0,True,False
+2007-11-16,21.4833333333,Sacramento Kings,Golden State Warriors,2,47-60,-14,free throw,False,15,True,False
+2007-11-16,35.65,Sacramento Kings,Golden State Warriors,3,79-92,-14,free throw,False,15,True,False
+2007-11-16,35.65,Sacramento Kings,Golden State Warriors,3,80-92,-13,free throw,False,15,True,False
+2007-11-16,38.3166666667,Sacramento Kings,Golden State Warriors,4,84-94,-12,two point jumper,False,14,False,False
+2007-11-16,41.6333333333,Sacramento Kings,Golden State Warriors,4,92-100,-10,two point jumper,False,17,True,False
+2007-11-16,44.9333333333,Sacramento Kings,Golden State Warriors,4,95-110,-18,three point jumper,False,25,False,False
+2007-12-12,12.6333333333,Sacramento Kings,Golden State Warriors,2,27-34,-9,two point jumper,False,21,True,False
+2007-12-12,16.75,Sacramento Kings,Golden State Warriors,2,37-49,-14,two point jumper,False,20,True,False
+2007-12-12,38.65,Sacramento Kings,Golden State Warriors,4,89-101,-14,two point jumper,False,21,False,False
+2007-03-09,2.5,Los Angeles Clippers,Golden State Warriors,1,2-8,-8,two point jumper,False,20,True,False
+2007-03-09,3.11666666667,Los Angeles Clippers,Golden State Warriors,1,5-10,-8,three point jumper,False,23,True,False
+2007-03-09,6.95,Los Angeles Clippers,Golden State Warriors,1,17-21,-7,three point jumper,False,23,True,False
+2007-03-09,17.75,Los Angeles Clippers,Golden State Warriors,2,41-46,-8,three point jumper,False,24,False,False
+2007-03-09,26.1833333333,Los Angeles Clippers,Golden State Warriors,3,50-67,-18,free throw,False,15,False,False
+2007-03-09,26.1833333333,Los Angeles Clippers,Golden State Warriors,3,51-67,-17,free throw,False,15,True,False
+2007-03-09,30.6666666667,Los Angeles Clippers,Golden State Warriors,3,60-72,-13,free throw,False,15,True,False
+2007-03-09,30.6666666667,Los Angeles Clippers,Golden State Warriors,3,61-72,-12,free throw,False,15,True,False
+2007-03-09,46.5833333333,Los Angeles Clippers,Golden State Warriors,4,89-95,-9,three point jumper,False,23,False,False
+2007-03-09,47.7333333333,Los Angeles Clippers,Golden State Warriors,4,89-99,-13,three point jumper,False,25,False,False
+2007-03-05,16.0666666667,Los Angeles Clippers,San Antonio Spurs,2,29-25,-6,two point jumper,True,7,True,False
+2007-03-05,18.0666666667,Los Angeles Clippers,San Antonio Spurs,2,31-27,-6,layup,True,0,False,False
+2007-03-05,30.0333333333,Los Angeles Clippers,San Antonio Spurs,3,51-40,-13,two point jumper,True,21,False,False
+2007-03-05,34.2166666667,Los Angeles Clippers,San Antonio Spurs,3,60-43,-19,two point jumper,True,18,True,False
+2007-03-05,35.9166666667,Los Angeles Clippers,San Antonio Spurs,3,64-48,-17,free throw,True,15,True,False
+2007-03-05,35.9166666667,Los Angeles Clippers,San Antonio Spurs,3,64-49,-16,free throw,True,15,True,False
+2007-03-05,42.6333333333,Los Angeles Clippers,San Antonio Spurs,4,73-59,-17,three point jumper,True,24,True,False
+2007-03-11,2.4,Los Angeles Clippers,Detroit Pistons,1,2-6,2,two point jumper,True,19,True,False
+2007-03-11,6.81666666667,Los Angeles Clippers,Detroit Pistons,1,17-12,-7,two point jumper,True,19,True,False
+2007-03-11,18.45,Los Angeles Clippers,Detroit Pistons,2,38-31,-9,two point jumper,True,22,True,False
+2007-03-11,21.4166666667,Los Angeles Clippers,Detroit Pistons,2,42-37,-7,two point jumper,True,17,True,False
+2007-03-11,28.9166666667,Los Angeles Clippers,Detroit Pistons,3,58-43,-17,two point jumper,True,20,False,False
+2007-03-11,29.9166666667,Los Angeles Clippers,Detroit Pistons,3,59-43,-18,two point jumper,True,19,False,False
+2007-03-11,44.9833333333,Los Angeles Clippers,Detroit Pistons,4,88-78,-12,two point jumper,True,17,True,False
+2007-03-11,46.6666666667,Los Angeles Clippers,Detroit Pistons,4,94-78,-19,three point jumper,True,25,False,False
+2007-03-13,3.2,Los Angeles Clippers,San Antonio Spurs,1,9-4,3,two point jumper,False,20,True,False
+2007-03-13,8.98333333333,Los Angeles Clippers,San Antonio Spurs,1,13-18,-7,two point jumper,False,19,True,False
+2007-03-13,10.1166666667,Los Angeles Clippers,San Antonio Spurs,1,18-18,-2,two point shot,False,1,True,False
+2007-03-13,10.8,Los Angeles Clippers,San Antonio Spurs,1,20-21,-3,two point jumper,False,21,True,False
+2007-03-13,14.3333333333,Los Angeles Clippers,San Antonio Spurs,2,26-27,-3,layup,False,0,True,False
+2007-03-13,20.25,Los Angeles Clippers,San Antonio Spurs,2,36-42,-8,two point jumper,False,19,False,False
+2007-03-13,24.0,Los Angeles Clippers,San Antonio Spurs,2,40-50,-13,three point jumper,False,26,False,False
+2007-03-13,26.9666666667,Los Angeles Clippers,San Antonio Spurs,3,46-55,-11,two point jumper,False,19,False,False
+2007-03-13,47.5666666667,Los Angeles Clippers,San Antonio Spurs,4,82-92,-13,three point jumper,False,25,False,False
+2007-03-14,5.85,Los Angeles Clippers,Houston Rockets,1,5-19,-17,three point jumper,False,25,False,False
+2007-03-14,7.85,Los Angeles Clippers,Houston Rockets,1,11-25,-16,two point jumper,False,15,True,False
+2007-03-14,10.2833333333,Los Angeles Clippers,Houston Rockets,1,13-29,-18,two point jumper,False,22,False,False
+2007-03-14,10.6,Los Angeles Clippers,Houston Rockets,1,13-29,-18,two point shot,False,1,False,False
+2007-03-14,27.4666666667,Los Angeles Clippers,Houston Rockets,3,54-67,-15,two point jumper,False,15,False,False
+2007-03-14,29.2,Los Angeles Clippers,Houston Rockets,3,57-69,-14,two point jumper,False,20,False,False
+2007-03-14,30.4166666667,Los Angeles Clippers,Houston Rockets,3,59-71,-14,two point jumper,False,1,True,False
+2007-03-14,30.9833333333,Los Angeles Clippers,Houston Rockets,3,59-73,-16,two point jumper,False,17,False,False
+2007-03-16,1.86666666667,Los Angeles Clippers,Charlotte Bobcats,1,4-6,-4,two point jumper,False,21,False,False
+2007-03-16,5.1,Los Angeles Clippers,Charlotte Bobcats,1,10-15,-7,two point jumper,False,21,True,False
+2007-03-16,26.25,Los Angeles Clippers,Charlotte Bobcats,3,57-57,-2,two point jumper,False,21,False,False
+2007-03-16,32.4666666667,Los Angeles Clippers,Charlotte Bobcats,3,70-64,4,two point jumper,False,21,False,False
+2007-03-16,43.8833333333,Los Angeles Clippers,Charlotte Bobcats,4,97-83,12,tip shot,False,0,False,False
+2007-03-16,45.7666666667,Los Angeles Clippers,Charlotte Bobcats,4,102-87,13,two point jumper,False,21,False,False
+2007-03-16,46.2833333333,Los Angeles Clippers,Charlotte Bobcats,4,102-87,12,three point jumper,False,23,False,False
+2007-03-20,7.25,Los Angeles Clippers,Chicago Bulls,1,17-18,-3,two point jumper,False,22,True,False
+2007-03-20,8.33333333333,Los Angeles Clippers,Chicago Bulls,1,17-21,-6,two point jumper,False,1,False,False
+2007-03-20,23.4333333333,Los Angeles Clippers,Chicago Bulls,2,50-44,4,two point jumper,False,21,True,False
+2007-03-20,28.8166666667,Los Angeles Clippers,Chicago Bulls,3,62-58,2,two point jumper,False,22,False,False
+2007-03-20,35.2,Los Angeles Clippers,Chicago Bulls,3,68-70,-3,free throw,False,15,True,False
+2007-03-20,35.2,Los Angeles Clippers,Chicago Bulls,3,69-70,-2,free throw,False,15,True,False
+2007-03-20,37.4,Los Angeles Clippers,Chicago Bulls,4,71-72,-3,two point jumper,False,19,False,False
+2007-03-21,1.25,Los Angeles Clippers,Milwaukee Bucks,1,0-4,-6,two point jumper,False,22,False,True
+2007-03-21,3.36666666667,Los Angeles Clippers,Milwaukee Bucks,1,7-7,-2,layup,False,0,False,True
+2007-03-21,4.6,Los Angeles Clippers,Milwaukee Bucks,1,11-9,0,two point jumper,False,17,True,True
+2007-03-21,6.45,Los Angeles Clippers,Milwaukee Bucks,1,17-13,2,layup,False,0,True,True
+2007-03-21,7.21666666667,Los Angeles Clippers,Milwaukee Bucks,1,19-15,2,two point jumper,False,23,True,True
+2007-03-21,30.5,Los Angeles Clippers,Milwaukee Bucks,3,80-64,14,two point jumper,False,16,True,True
+2007-03-21,33.6,Los Angeles Clippers,Milwaukee Bucks,3,88-66,20,two point jumper,False,21,True,True
+2007-03-21,47.0166666667,Los Angeles Clippers,Milwaukee Bucks,4,100-101,-3,two point jumper,False,18,False,True
+2007-03-21,47.95,Los Angeles Clippers,Milwaukee Bucks,4,104-103,-1,layup,False,0,True,True
+2007-03-23,2.7,Los Angeles Clippers,Utah Jazz,1,2-6,2,two point jumper,True,21,True,False
+2007-03-23,11.1666666667,Los Angeles Clippers,Utah Jazz,1,16-22,4,two point jumper,True,19,False,False
+2007-03-23,23.4333333333,Los Angeles Clippers,Utah Jazz,2,38-55,14,three point jumper,True,23,False,False
+2007-03-23,27.3666666667,Los Angeles Clippers,Utah Jazz,3,40-59,18,free throw,True,15,False,False
+2007-03-23,27.3666666667,Los Angeles Clippers,Utah Jazz,3,40-59,18,free throw,True,15,False,False
+2007-03-23,29.2,Los Angeles Clippers,Utah Jazz,3,42-63,19,two point jumper,True,20,True,False
+2007-03-23,29.5333333333,Los Angeles Clippers,Utah Jazz,3,42-64,21,free throw,True,15,True,False
+2007-03-23,29.5333333333,Los Angeles Clippers,Utah Jazz,3,42-65,22,free throw,True,15,True,False
+2007-03-24,5.35,Los Angeles Clippers,Washington Wizards,1,6-10,2,two point jumper,True,21,False,True
+2007-03-24,8.23333333333,Los Angeles Clippers,Washington Wizards,1,15-14,-3,two point jumper,True,22,False,True
+2007-03-24,28.6333333333,Los Angeles Clippers,Washington Wizards,3,54-61,5,two point jumper,True,18,True,True
+2007-03-24,29.45,Los Angeles Clippers,Washington Wizards,3,57-63,4,two point jumper,True,19,True,True
+2007-03-24,31.4166666667,Los Angeles Clippers,Washington Wizards,3,60-67,5,two point jumper,True,1,True,True
+2007-03-24,34.0833333333,Los Angeles Clippers,Washington Wizards,3,67-73,4,two point jumper,True,21,False,True
+2007-03-24,34.3666666667,Los Angeles Clippers,Washington Wizards,3,67-75,6,layup,True,0,True,True
+2007-03-24,41.4833333333,Los Angeles Clippers,Washington Wizards,4,81-85,1,three point jumper,True,24,False,True
+2007-03-24,43.1666666667,Los Angeles Clippers,Washington Wizards,4,85-87,0,two point jumper,True,21,False,True
+2007-03-24,47.0166666667,Los Angeles Clippers,Washington Wizards,4,93-100,6,free throw,True,15,True,True
+2007-03-24,47.0166666667,Los Angeles Clippers,Washington Wizards,4,93-100,6,free throw,True,15,False,True
+2007-03-28,1.43333333333,Los Angeles Clippers,Houston Rockets,1,2-2,-2,two point jumper,True,19,True,False
+2007-03-28,3.61666666667,Los Angeles Clippers,Houston Rockets,1,8-6,-4,two point jumper,True,10,True,False
+2007-03-28,13.3166666667,Los Angeles Clippers,Houston Rockets,2,23-33,8,two point jumper,True,20,True,False
+2007-03-28,20.5333333333,Los Angeles Clippers,Houston Rockets,2,39-43,2,two point jumper,True,1,False,False
+2007-03-28,21.1833333333,Los Angeles Clippers,Houston Rockets,2,40-45,3,two point jumper,True,20,True,False
+2007-03-28,22.9666666667,Los Angeles Clippers,Houston Rockets,2,42-47,3,layup,True,0,True,False
+2007-03-28,23.8,Los Angeles Clippers,Houston Rockets,2,42-49,5,two point jumper,True,20,True,False
+2007-03-28,25.05,Los Angeles Clippers,Houston Rockets,3,44-49,2,three point jumper,True,25,False,False
+2007-03-28,29.3166666667,Los Angeles Clippers,Houston Rockets,3,52-58,5,free throw,True,15,True,False
+2007-03-28,29.3166666667,Los Angeles Clippers,Houston Rockets,3,52-59,6,free throw,True,15,True,False
+2007-03-28,30.45,Los Angeles Clippers,Houston Rockets,3,54-59,3,two point jumper,True,21,False,False
+2007-03-28,35.9833333333,Los Angeles Clippers,Houston Rockets,3,70-61,-12,three point jumper,True,30,False,False
+2007-03-28,38.8166666667,Los Angeles Clippers,Houston Rockets,4,70-65,-7,two point jumper,True,18,False,False
+2007-03-28,46.25,Los Angeles Clippers,Houston Rockets,4,83-83,-2,two point jumper,True,13,True,False
+2007-03-30,1.11666666667,Los Angeles Clippers,Sacramento Kings,1,2-0,0,two point jumper,False,17,False,True
+2007-03-30,5.95,Los Angeles Clippers,Sacramento Kings,1,14-9,3,two point jumper,False,20,True,True
+2007-03-30,6.6,Los Angeles Clippers,Sacramento Kings,1,16-11,3,two point jumper,False,17,True,True
+2007-03-30,9.55,Los Angeles Clippers,Sacramento Kings,1,26-17,7,two point jumper,False,20,True,True
+2007-03-30,10.3666666667,Los Angeles Clippers,Sacramento Kings,1,26-18,6,two point jumper,False,16,False,True
+2007-03-30,18.0666666667,Los Angeles Clippers,Sacramento Kings,2,41-34,5,two point jumper,False,16,True,True
+2007-03-30,23.9666666667,Los Angeles Clippers,Sacramento Kings,2,56-48,7,free throw,False,15,True,True
+2007-03-30,23.9666666667,Los Angeles Clippers,Sacramento Kings,2,57-48,8,free throw,False,15,True,True
+2007-03-30,27.4,Los Angeles Clippers,Sacramento Kings,3,65-55,8,layup,False,0,True,True
+2007-03-30,31.8166666667,Los Angeles Clippers,Sacramento Kings,3,72-61,9,two point jumper,False,16,False,True
+2007-03-30,33.65,Los Angeles Clippers,Sacramento Kings,3,74-67,5,two point jumper,False,19,True,True
+2007-03-30,45.7,Los Angeles Clippers,Sacramento Kings,4,94-90,2,two point jumper,False,20,False,True
+2007-03-30,46.1833333333,Los Angeles Clippers,Sacramento Kings,4,95-90,4,free throw,False,15,True,True
+2007-03-30,46.1833333333,Los Angeles Clippers,Sacramento Kings,4,96-90,5,free throw,False,15,True,True
+2007-03-31,2.76666666667,Los Angeles Clippers,Portland Trail Blazers,1,8-2,4,two point jumper,False,18,True,True
+2007-03-31,5.13333333333,Los Angeles Clippers,Portland Trail Blazers,1,11-7,3,free throw,False,15,True,True
+2007-03-31,5.13333333333,Los Angeles Clippers,Portland Trail Blazers,1,12-7,4,free throw,False,15,True,True
+2007-03-31,14.8666666667,Los Angeles Clippers,Portland Trail Blazers,2,42-24,16,two point jumper,False,20,False,True
+2007-03-31,17.9166666667,Los Angeles Clippers,Portland Trail Blazers,2,52-27,23,tip shot,False,0,True,True
+2007-03-31,21.05,Los Angeles Clippers,Portland Trail Blazers,2,59-31,27,free throw,False,15,True,True
+2007-03-31,21.05,Los Angeles Clippers,Portland Trail Blazers,2,60-31,28,free throw,False,15,True,True
+2007-03-31,26.6333333333,Los Angeles Clippers,Portland Trail Blazers,3,73-45,26,two point jumper,False,22,True,True
+2007-03-31,28.2833333333,Los Angeles Clippers,Portland Trail Blazers,3,77-51,24,two point jumper,False,22,True,True
+2007-03-31,31.4833333333,Los Angeles Clippers,Portland Trail Blazers,3,83-56,25,two point jumper,False,22,True,True
+2007-03-31,33.0833333333,Los Angeles Clippers,Portland Trail Blazers,3,83-58,23,two point jumper,False,21,False,True
+2007-04-04,8.61666666667,Los Angeles Clippers,Los Angeles Lakers,1,14-22,6,two point jumper,True,21,True,True
+2007-04-04,22.1166666667,Los Angeles Clippers,Los Angeles Lakers,2,40-49,7,two point jumper,True,19,True,True
+2007-04-04,22.7833333333,Los Angeles Clippers,Los Angeles Lakers,2,42-51,7,two point jumper,True,19,True,True
+2007-04-04,23.2166666667,Los Angeles Clippers,Los Angeles Lakers,2,42-51,7,layup,True,0,False,True
+2007-04-04,23.5833333333,Los Angeles Clippers,Los Angeles Lakers,2,42-55,11,two point jumper,True,18,True,True
+2007-04-04,25.25,Los Angeles Clippers,Los Angeles Lakers,3,42-61,17,two point jumper,True,20,True,True
+2007-04-04,28.85,Los Angeles Clippers,Los Angeles Lakers,3,51-65,12,two point jumper,True,18,False,True
+2007-04-04,32.8166666667,Los Angeles Clippers,Los Angeles Lakers,3,64-71,5,two point jumper,True,19,False,True
+2007-04-04,38.3,Los Angeles Clippers,Los Angeles Lakers,4,71-77,4,layup,True,0,True,True
+2007-04-04,39.1333333333,Los Angeles Clippers,Los Angeles Lakers,4,73-77,2,two point jumper,True,21,False,True
+2007-04-04,43.2166666667,Los Angeles Clippers,Los Angeles Lakers,4,78-80,1,free throw,True,15,True,True
+2007-04-04,43.2166666667,Los Angeles Clippers,Los Angeles Lakers,4,78-81,2,free throw,True,15,True,True
+2007-04-07,11.5,Los Angeles Clippers,Denver Nuggets,1,26-31,3,two point jumper,True,21,True,False
+2007-04-07,18.45,Los Angeles Clippers,Denver Nuggets,2,38-45,5,two point jumper,True,19,False,False
+2007-04-07,23.8333333333,Los Angeles Clippers,Denver Nuggets,2,46-52,4,two point jumper,True,22,True,False
+2007-04-07,25.6333333333,Los Angeles Clippers,Denver Nuggets,3,51-52,-1,two point jumper,True,19,False,False
+2007-04-07,26.75,Los Angeles Clippers,Denver Nuggets,3,53-52,-3,two point jumper,True,18,False,False
+2007-04-07,30.9166666667,Los Angeles Clippers,Denver Nuggets,3,60-62,0,two point jumper,True,1,True,False
+2007-04-07,36.0,Los Angeles Clippers,Denver Nuggets,3,66-74,6,two point jumper,True,19,False,False
+2007-04-07,41.1,Los Angeles Clippers,Denver Nuggets,4,78-82,2,layup,True,0,True,False
+2007-04-07,44.4166666667,Los Angeles Clippers,Denver Nuggets,4,83-85,0,two point jumper,True,17,True,False
+2007-04-07,47.9833333333,Los Angeles Clippers,Denver Nuggets,4,96-93,-6,three point jumper,True,23,False,False
+2007-04-09,1.58333333333,Los Angeles Clippers,Dallas Mavericks,1,1-6,-6,free throw,False,15,True,False
+2007-04-09,1.58333333333,Los Angeles Clippers,Dallas Mavericks,1,2-6,-5,free throw,False,15,True,False
+2007-04-09,2.76666666667,Los Angeles Clippers,Dallas Mavericks,1,6-10,-6,two point jumper,False,21,True,False
+2007-04-09,9.0,Los Angeles Clippers,Dallas Mavericks,1,21-21,-2,two point jumper,False,20,False,False
+2007-04-09,20.2,Los Angeles Clippers,Dallas Mavericks,2,39-40,-4,three point jumper,False,23,False,False
+2007-04-09,23.45,Los Angeles Clippers,Dallas Mavericks,2,45-49,-6,two point jumper,False,17,True,False
+2007-04-09,25.5666666667,Los Angeles Clippers,Dallas Mavericks,3,45-58,-15,two point shot,False,13,False,False
+2007-04-09,27.0,Los Angeles Clippers,Dallas Mavericks,3,49-60,-13,two point jumper,False,4,False,False
+2007-04-09,29.9833333333,Los Angeles Clippers,Dallas Mavericks,3,53-66,-15,two point jumper,False,21,True,False
+2007-04-09,31.35,Los Angeles Clippers,Dallas Mavericks,3,57-70,-15,two point jumper,False,19,True,False
+2007-04-09,33.4166666667,Los Angeles Clippers,Dallas Mavericks,3,61-74,-15,two point jumper,False,21,False,False
+2007-04-09,45.8,Los Angeles Clippers,Dallas Mavericks,4,81-90,-11,two point jumper,False,1,True,False
+2007-04-09,47.7166666667,Los Angeles Clippers,Dallas Mavericks,4,86-94,-10,two point jumper,False,13,True,False
+2007-04-10,1.0,Los Angeles Clippers,New Orleans Pelicans,1,0-2,-4,two point jumper,False,18,False,False
+2007-04-10,2.25,Los Angeles Clippers,New Orleans Pelicans,1,4-4,-2,layup,False,0,True,False
+2007-04-10,3.83333333333,Los Angeles Clippers,New Orleans Pelicans,1,10-9,-1,layup,False,0,True,False
+2007-04-10,4.48333333333,Los Angeles Clippers,New Orleans Pelicans,1,10-11,-3,two point jumper,False,19,False,False
+2007-04-10,28.9833333333,Los Angeles Clippers,New Orleans Pelicans,3,56-53,1,two point jumper,False,22,False,False
+2007-04-10,39.0166666667,Los Angeles Clippers,New Orleans Pelicans,4,71-75,-7,three point jumper,False,24,True,False
+2007-04-10,44.75,Los Angeles Clippers,New Orleans Pelicans,4,80-83,-5,two point jumper,False,5,False,False
+2007-04-10,44.9166666667,Los Angeles Clippers,New Orleans Pelicans,4,80-83,-6,three point jumper,False,24,False,False
+2007-04-10,21.8166666667,Los Angeles Clippers,New Orleans Pelicans,5,95-102,-10,three point jumper,False,24,False,False
+2007-04-10,22.0333333333,Los Angeles Clippers,New Orleans Pelicans,5,100-102,-4,layup,False,0,True,False
+2007-04-12,7.95,Los Angeles Clippers,Los Angeles Lakers,1,23-14,7,two point jumper,False,21,False,True
+2007-04-12,9.78333333333,Los Angeles Clippers,Los Angeles Lakers,1,25-18,5,two point jumper,False,1,False,True
+2007-04-12,11.9833333333,Los Angeles Clippers,Los Angeles Lakers,1,28-23,3,two point jumper,False,7,False,True
+2007-04-12,21.4166666667,Los Angeles Clippers,Los Angeles Lakers,2,41-48,-9,layup,False,0,True,True
+2007-04-12,24.95,Los Angeles Clippers,Los Angeles Lakers,3,54-59,-7,two point jumper,False,5,True,True
+2007-04-12,26.5166666667,Los Angeles Clippers,Los Angeles Lakers,3,55-67,-13,free throw,False,15,True,True
+2007-04-12,26.5166666667,Los Angeles Clippers,Los Angeles Lakers,3,56-67,-12,free throw,False,15,True,True
+2007-04-12,27.45,Los Angeles Clippers,Los Angeles Lakers,3,57-71,-17,three point jumper,False,25,False,True
+2007-04-12,29.1333333333,Los Angeles Clippers,Los Angeles Lakers,3,61-74,-15,two point jumper,False,19,False,True
+2007-04-12,30.3166666667,Los Angeles Clippers,Los Angeles Lakers,3,67-76,-10,free throw,False,15,True,True
+2007-04-12,30.3166666667,Los Angeles Clippers,Los Angeles Lakers,3,68-76,-9,free throw,False,15,True,True
+2007-04-12,32.85,Los Angeles Clippers,Los Angeles Lakers,3,75-83,-10,two point jumper,False,19,False,True
+2007-04-13,5.21666666667,Los Angeles Clippers,Portland Trail Blazers,1,10-12,0,two point jumper,True,19,True,False
+2007-04-13,6.45,Los Angeles Clippers,Portland Trail Blazers,1,12-17,3,layup,True,0,True,False
+2007-04-13,16.85,Los Angeles Clippers,Portland Trail Blazers,2,25-34,7,two point jumper,True,1,False,False
+2007-04-13,21.0,Los Angeles Clippers,Portland Trail Blazers,2,33-44,9,two point jumper,True,20,False,False
+2007-04-13,21.4833333333,Los Angeles Clippers,Portland Trail Blazers,2,33-44,9,two point jumper,True,20,False,False
+2007-04-13,44.05,Los Angeles Clippers,Portland Trail Blazers,4,80-99,17,two point jumper,True,11,False,False
+2007-04-13,47.3166666667,Los Angeles Clippers,Portland Trail Blazers,4,85-105,18,two point jumper,True,12,False,False
+2007-04-15,1.38333333333,Los Angeles Clippers,Sacramento Kings,1,2-4,0,two point jumper,True,18,True,False
+2007-04-15,9.01666666667,Los Angeles Clippers,Sacramento Kings,1,25-17,-10,two point jumper,True,20,True,False
+2007-04-15,10.5333333333,Los Angeles Clippers,Sacramento Kings,1,30-19,-13,two point jumper,True,17,False,False
+2007-04-15,23.9666666667,Los Angeles Clippers,Sacramento Kings,2,60-41,-21,layup,True,0,True,False
+2007-04-15,34.6666666667,Los Angeles Clippers,Sacramento Kings,3,81-61,-22,two point jumper,True,20,False,False
+2007-04-17,2.0,Los Angeles Clippers,Phoenix Suns,1,0-3,-5,two point jumper,False,20,False,False
+2007-04-17,3.43333333333,Los Angeles Clippers,Phoenix Suns,1,5-3,0,two point jumper,False,18,True,False
+2007-04-17,6.21666666667,Los Angeles Clippers,Phoenix Suns,1,13-13,-2,two point jumper,False,18,True,False
+2007-04-17,8.5,Los Angeles Clippers,Phoenix Suns,1,19-17,0,two point jumper,False,19,False,False
+2007-04-17,12.0,Los Angeles Clippers,Phoenix Suns,1,21-20,-1,two point jumper,False,20,False,False
+2007-04-17,18.85,Los Angeles Clippers,Phoenix Suns,2,37-36,-1,two point jumper,False,17,False,False
+2007-04-17,22.75,Los Angeles Clippers,Phoenix Suns,2,50-45,3,two point jumper,False,11,True,False
+2007-04-17,25.8333333333,Los Angeles Clippers,Phoenix Suns,3,56-52,2,two point jumper,False,20,False,False
+2007-04-17,25.95,Los Angeles Clippers,Phoenix Suns,3,56-52,2,two point jumper,False,18,False,False
+2007-04-17,39.2,Los Angeles Clippers,Phoenix Suns,4,76-79,-5,two point jumper,False,21,False,False
+2007-04-17,43.1666666667,Los Angeles Clippers,Phoenix Suns,4,89-86,1,tip shot,False,0,True,False
+2007-04-17,43.6666666667,Los Angeles Clippers,Phoenix Suns,4,91-88,1,two point jumper,False,17,True,False
+2007-04-17,44.2166666667,Los Angeles Clippers,Phoenix Suns,4,91-88,1,two point jumper,False,9,False,False
+2007-04-17,46.6333333333,Los Angeles Clippers,Phoenix Suns,4,97-92,3,two point jumper,False,8,True,False
+2007-04-17,47.8833333333,Los Angeles Clippers,Phoenix Suns,4,100-97,2,free throw,False,15,True,False
+2007-04-17,47.8833333333,Los Angeles Clippers,Phoenix Suns,4,101-97,3,free throw,False,15,True,False
+2007-04-17,48.0,Los Angeles Clippers,Phoenix Suns,4,102-99,2,free throw,False,15,True,False
+2007-04-17,48.0,Los Angeles Clippers,Phoenix Suns,4,103-99,3,free throw,False,15,True,False
+2007-04-18,3.76666666667,Los Angeles Clippers,New Orleans Pelicans,1,8-7,-3,two point jumper,True,19,False,False
+2007-04-18,19.0666666667,Los Angeles Clippers,New Orleans Pelicans,2,38-40,0,two point shot,True,12,False,False
+2007-04-18,19.7333333333,Los Angeles Clippers,New Orleans Pelicans,2,38-40,0,two point jumper,True,18,False,False
+2007-04-18,22.75,Los Angeles Clippers,New Orleans Pelicans,2,40-42,0,two point jumper,True,18,False,False
+2007-04-18,23.6333333333,Los Angeles Clippers,New Orleans Pelicans,2,42-42,-2,two point jumper,True,22,False,False
+2007-04-18,41.95,Los Angeles Clippers,New Orleans Pelicans,4,72-74,0,two point jumper,True,19,False,False
+2007-12-05,14.1333333333,Sacramento Kings,Phoenix Suns,2,31-41,-12,two point jumper,False,18,False,False
+2007-12-05,19.0333333333,Sacramento Kings,Phoenix Suns,2,41-49,-10,two point jumper,False,17,True,False
+2007-12-05,22.15,Sacramento Kings,Phoenix Suns,2,45-54,-11,layup,False,0,True,False
+2007-12-05,23.75,Sacramento Kings,Phoenix Suns,2,51-62,-13,layup,False,0,False,False
+2007-12-05,33.55,Sacramento Kings,Phoenix Suns,3,70-88,-20,two point jumper,False,21,False,False
+2007-12-05,33.8166666667,Sacramento Kings,Phoenix Suns,3,72-88,-18,layup,False,0,True,False
+2007-12-05,35.0666666667,Sacramento Kings,Phoenix Suns,3,75-92,-19,two point jumper,False,19,True,False
+2007-12-05,35.6666666667,Sacramento Kings,Phoenix Suns,3,75-95,-23,three point jumper,False,26,False,False
+2007-12-05,39.8333333333,Sacramento Kings,Phoenix Suns,4,83-101,-20,two point jumper,False,9,False,False
+2007-11-19,46.8833333333,Sacramento Kings,San Antonio Spurs,4,108-93,-16,free throw,True,15,True,True
+2007-11-19,46.8833333333,Sacramento Kings,San Antonio Spurs,4,108-94,-15,free throw,True,15,True,True
+2007-11-19,47.45,Sacramento Kings,San Antonio Spurs,4,108-97,-14,three point jumper,True,24,True,True
+2007-11-19,47.8166666667,Sacramento Kings,San Antonio Spurs,4,108-98,-11,free throw,True,15,True,True
+2007-11-19,47.8166666667,Sacramento Kings,San Antonio Spurs,4,108-99,-10,free throw,True,15,True,True
+2007-12-01,41.5666666667,Sacramento Kings,Dallas Mavericks,4,74-98,-26,two point jumper,False,21,True,True
+2007-12-01,42.8166666667,Sacramento Kings,Dallas Mavericks,4,76-103,-29,two point jumper,False,10,False,True
+2007-12-01,47.3833333333,Sacramento Kings,Dallas Mavericks,4,90-109,-22,three point jumper,False,26,True,True
+2007-12-10,18.5333333333,Sacramento Kings,Atlanta Hawks,2,28-36,7,free throw,True,15,True,False
+2007-12-10,18.5333333333,Sacramento Kings,Atlanta Hawks,2,28-37,8,free throw,True,15,True,False
+2007-12-10,19.4833333333,Sacramento Kings,Atlanta Hawks,2,30-39,7,two point jumper,True,19,False,False
+2007-12-10,37.7,Sacramento Kings,Atlanta Hawks,4,66-98,30,layup,True,0,True,False
+2007-12-10,40.35,Sacramento Kings,Atlanta Hawks,4,75-104,27,layup,True,0,True,False
+2007-12-10,41.2833333333,Sacramento Kings,Atlanta Hawks,4,77-106,28,free throw,True,15,False,False
+2007-12-10,41.2833333333,Sacramento Kings,Atlanta Hawks,4,77-107,29,free throw,True,15,True,False
+2007-12-10,46.2166666667,Sacramento Kings,Atlanta Hawks,4,87-115,25,three point jumper,True,24,False,False
+2007-12-18,6.2,Sacramento Kings,Dallas Mavericks,1,19-5,-16,two point jumper,True,20,False,True
+2007-12-18,9.86666666667,Sacramento Kings,Dallas Mavericks,1,27-13,-16,two point jumper,True,19,False,True
+2008-12-29,11.1333333333,Utah Jazz,Boston Celtics,1,25-27,0,two point jumper,True,14,True,True
+2008-12-29,15.4,Utah Jazz,Boston Celtics,2,36-38,0,two point jumper,True,22,True,True
+2008-12-29,35.5666666667,Utah Jazz,Boston Celtics,3,74-78,2,two point jumper,True,1,False,True
+2008-12-29,36.3833333333,Utah Jazz,Boston Celtics,4,76-78,0,layup,True,0,False,True
+2008-11-26,34.3,Utah Jazz,New York Knicks,3,76-81,-7,two point jumper,False,21,True,False
+2008-11-26,35.45,Utah Jazz,New York Knicks,3,80-86,-8,two point jumper,False,22,True,False
+2008-11-28,33.85,Utah Jazz,Philadelphia 76ers,3,73-60,11,layup,False,0,True,False
+2008-11-28,35.0,Utah Jazz,Philadelphia 76ers,3,75-66,7,two point jumper,False,21,True,False
+2008-01-02,11.1333333333,Utah Jazz,Philadelphia 76ers,1,18-24,4,two point jumper,True,18,False,True
+2008-01-02,35.8333333333,Utah Jazz,Philadelphia 76ers,3,68-77,7,two point jumper,True,17,False,True
+2008-11-14,9.46666666667,Utah Jazz,Toronto Raptors,1,14-20,-8,two point jumper,False,18,False,True
+2008-10-30,11.2166666667,Utah Jazz,Golden State Warriors,1,26-25,-1,two point shot,False,11,False,False
+2008-10-30,21.45,Utah Jazz,Golden State Warriors,2,58-45,11,two point jumper,False,19,False,False
+2008-10-30,22.1833333333,Utah Jazz,Golden State Warriors,2,61-47,13,free throw,False,15,True,False
+2008-10-30,22.1833333333,Utah Jazz,Golden State Warriors,2,62-47,14,free throw,False,15,True,False
+2008-10-30,33.7166666667,Utah Jazz,Golden State Warriors,3,81-70,8,three point jumper,False,26,False,False
+2008-10-30,47.4333333333,Utah Jazz,Golden State Warriors,4,114-96,16,two point jumper,False,16,False,False
+2008-10-30,47.9166666667,Utah Jazz,Golden State Warriors,4,116-96,18,two point jumper,False,11,True,False
+2008-10-30,47.9166666667,Utah Jazz,Golden State Warriors,4,117-96,20,free throw,False,15,True,False
+2008-11-03,11.2166666667,Utah Jazz,Golden State Warriors,1,26-26,-2,two point jumper,True,17,True,True
+2008-11-03,32.9166666667,Utah Jazz,Golden State Warriors,3,72-90,16,two point jumper,True,22,False,True
+2008-02-19,47.4666666667,Utah Jazz,Golden State Warriors,4,107-116,8,free throw,True,15,True,True
+2008-02-19,47.4666666667,Utah Jazz,Golden State Warriors,4,107-117,9,free throw,True,15,True,True
+2008-01-18,10.9833333333,Utah Jazz,Los Angeles Clippers,1,23-32,7,two point jumper,True,23,True,False
+2008-01-18,11.8666666667,Utah Jazz,Los Angeles Clippers,1,23-34,9,two point jumper,True,20,True,False
+2008-01-18,22.0333333333,Utah Jazz,Los Angeles Clippers,2,41-55,13,free throw,True,15,True,False
+2008-01-18,22.0333333333,Utah Jazz,Los Angeles Clippers,2,41-56,14,free throw,True,15,True,False
+2008-01-18,23.5666666667,Utah Jazz,Los Angeles Clippers,2,45-58,12,free throw,True,15,True,False
+2008-01-18,23.5666666667,Utah Jazz,Los Angeles Clippers,2,45-59,13,free throw,True,15,True,False
+2008-01-18,32.2333333333,Utah Jazz,Los Angeles Clippers,3,65-81,14,two point jumper,True,1,False,False
+2008-01-18,35.9166666667,Utah Jazz,Los Angeles Clippers,3,69-88,17,two point jumper,True,23,False,False
+2008-01-18,36.5666666667,Utah Jazz,Los Angeles Clippers,4,73-88,13,layup,True,0,False,False
+2008-01-18,39.5,Utah Jazz,Los Angeles Clippers,4,75-98,21,layup,True,0,True,False
+2008-01-21,10.9833333333,Utah Jazz,Los Angeles Clippers,1,23-20,1,two point jumper,False,22,False,False
+2008-02-22,45.85,Utah Jazz,Los Angeles Clippers,4,95-114,-21,two point jumper,False,20,True,False
+2008-02-22,47.0666666667,Utah Jazz,Los Angeles Clippers,4,102-114,-14,two point jumper,False,13,True,False
+2008-02-22,47.7333333333,Utah Jazz,Los Angeles Clippers,4,102-114,-14,two point jumper,False,22,False,False
+2008-03-28,35.1,Utah Jazz,Los Angeles Clippers,3,68-85,16,free throw,True,15,True,True
+2008-03-28,35.1,Utah Jazz,Los Angeles Clippers,3,68-86,17,free throw,True,15,True,True
+2008-03-28,38.2,Utah Jazz,Los Angeles Clippers,4,73-97,22,two point jumper,True,21,False,True
+2008-03-28,38.3166666667,Utah Jazz,Los Angeles Clippers,4,73-97,21,three point jumper,True,25,False,True
+2008-03-28,38.4333333333,Utah Jazz,Los Angeles Clippers,4,73-99,24,layup,True,0,True,True
+2008-03-28,44.9666666667,Utah Jazz,Los Angeles Clippers,4,93-109,14,two point jumper,True,15,True,True
+2008-11-04,36.0,Utah Jazz,Los Angeles Lakers,3,82-81,-2,three point jumper,False,45,False,False
+2008-11-30,12.3166666667,Utah Jazz,Los Angeles Lakers,2,22-30,6,two point jumper,True,20,False,False
+2008-11-30,12.45,Utah Jazz,Los Angeles Lakers,2,22-32,8,two point shot,True,1,True,False
+2008-11-30,33.8333333333,Utah Jazz,Los Angeles Lakers,3,80-99,16,three point jumper,True,22,True,False
+2008-11-30,35.45,Utah Jazz,Los Angeles Lakers,3,82-102,17,three point jumper,True,23,False,False
+2008-11-30,36.0,Utah Jazz,Los Angeles Lakers,3,82-102,18,two point jumper,True,23,False,False
+2008-12-28,12.8,Utah Jazz,Los Angeles Lakers,2,23-40,-19,two point jumper,False,11,False,False
+2008-12-28,13.75,Utah Jazz,Los Angeles Lakers,2,23-42,-22,three point jumper,False,26,False,False
+2008-12-28,36.6333333333,Utah Jazz,Los Angeles Lakers,4,77-106,-31,two point shot,False,4,True,False
+2008-12-28,40.3833333333,Utah Jazz,Los Angeles Lakers,4,89-109,-22,two point shot,False,10,True,False
+2008-12-28,45.2833333333,Utah Jazz,Los Angeles Lakers,4,99-117,-20,two point jumper,False,21,False,False
+2008-12-12,10.8833333333,Utah Jazz,Phoenix Suns,1,19-24,-7,two point jumper,False,7,False,True
+2008-12-12,10.9,Utah Jazz,Phoenix Suns,1,19-24,-6,free throw,False,15,False,True
+2008-12-12,10.9,Utah Jazz,Phoenix Suns,1,20-24,-5,free throw,False,15,True,True
+2008-12-12,15.1333333333,Utah Jazz,Phoenix Suns,2,30-28,0,two point jumper,False,18,False,True
+2008-12-12,35.5333333333,Utah Jazz,Phoenix Suns,3,65-67,-4,two point jumper,False,17,False,True
+2008-12-12,35.9166666667,Utah Jazz,Phoenix Suns,3,65-67,-4,two point jumper,False,18,False,True
+2008-01-10,10.6166666667,Utah Jazz,Phoenix Suns,1,23-33,8,two point jumper,True,22,False,False
+2008-01-10,15.2,Utah Jazz,Phoenix Suns,2,30-38,6,two point jumper,True,23,False,False
+2008-01-10,16.1333333333,Utah Jazz,Phoenix Suns,2,30-39,7,two point jumper,True,12,False,False
+2008-01-10,24.0,Utah Jazz,Phoenix Suns,2,48-58,8,two point jumper,True,22,False,False
+2008-01-10,36.0,Utah Jazz,Phoenix Suns,3,60-86,23,three point jumper,True,25,False,False
+2008-01-10,43.7833333333,Utah Jazz,Phoenix Suns,4,71-98,25,two point jumper,True,21,False,False
+2008-01-10,45.9333333333,Utah Jazz,Phoenix Suns,4,78-104,24,layup,True,0,True,False
+2008-11-12,9.48333333333,Utah Jazz,Sacramento Kings,1,15-24,7,two point jumper,True,22,True,False
+2008-11-12,10.2333333333,Utah Jazz,Sacramento Kings,1,15-24,7,two point shot,True,4,False,False
+2008-11-12,11.1833333333,Utah Jazz,Sacramento Kings,1,16-30,12,layup,True,0,True,False
+2008-11-12,34.9,Utah Jazz,Sacramento Kings,3,73-85,10,two point jumper,True,18,True,False
+2008-11-12,34.9,Utah Jazz,Sacramento Kings,3,73-86,12,free throw,True,15,True,False
+2008-11-12,35.4666666667,Utah Jazz,Sacramento Kings,3,74-86,10,two point jumper,True,20,False,False
+2008-12-04,10.9833333333,Utah Jazz,Sacramento Kings,1,31-25,4,layup,False,0,True,False
+2008-01-25,10.2833333333,Utah Jazz,Sacramento Kings,1,16-22,4,two point jumper,True,19,False,True
+2008-01-25,23.95,Utah Jazz,Sacramento Kings,2,52-58,4,two point jumper,True,20,True,True
+2008-02-08,11.4666666667,Utah Jazz,Sacramento Kings,1,24-30,-8,two point jumper,False,19,True,False
+2008-02-08,11.9833333333,Utah Jazz,Sacramento Kings,1,24-32,-10,two point jumper,False,20,False,False
+2008-02-08,47.4,Utah Jazz,Sacramento Kings,4,102-117,-17,two point jumper,False,20,False,False
+2008-02-09,12.0,Utah Jazz,Chicago Bulls,1,22-24,0,two point jumper,True,9,False,True
+2008-11-07,11.4166666667,Utah Jazz,Cleveland Cavaliers,1,21-27,4,two point jumper,True,19,False,True
+2008-11-16,11.9666666667,Utah Jazz,Cleveland Cavaliers,1,24-19,3,two point jumper,False,21,True,False
+2008-11-16,33.2333333333,Utah Jazz,Cleveland Cavaliers,3,67-63,2,two point jumper,False,17,True,False
+2008-11-16,34.4333333333,Utah Jazz,Cleveland Cavaliers,3,72-65,4,three point jumper,False,26,True,False
+2008-11-16,35.5833333333,Utah Jazz,Cleveland Cavaliers,3,74-68,4,two point jumper,False,17,False,False
+2008-11-25,34.9833333333,Utah Jazz,Detroit Pistons,3,75-68,6,free throw,False,15,True,False
+2008-11-25,34.9833333333,Utah Jazz,Detroit Pistons,3,76-68,7,free throw,False,15,True,False
+2008-11-25,35.5666666667,Utah Jazz,Detroit Pistons,3,76-68,5,three point jumper,False,26,False,False
+2008-11-17,10.3833333333,Utah Jazz,Indiana Pacers,1,15-29,-17,three point jumper,False,26,False,True
+2008-11-17,13.6166666667,Utah Jazz,Indiana Pacers,2,20-36,-18,two point jumper,False,1,False,True
+2008-11-17,37.4,Utah Jazz,Indiana Pacers,4,74-97,-25,layup,False,0,True,True
+2008-11-17,37.4,Utah Jazz,Indiana Pacers,4,75-97,-23,free throw,False,15,True,True
+2008-11-17,38.8333333333,Utah Jazz,Indiana Pacers,4,78-103,-26,free throw,False,15,True,True
+2008-11-17,38.8333333333,Utah Jazz,Indiana Pacers,4,79-103,-25,free throw,False,15,True,True
+2008-11-17,42.2,Utah Jazz,Indiana Pacers,4,88-109,-23,two point jumper,False,19,True,True
+2008-11-17,42.85,Utah Jazz,Indiana Pacers,4,88-112,-26,two point jumper,False,18,False,True
+2008-11-17,46.3,Utah Jazz,Indiana Pacers,4,92-116,-26,layup,False,0,False,True
+2008-11-17,47.9,Utah Jazz,Indiana Pacers,4,97-117,-23,three point jumper,False,26,False,True
+2008-01-08,11.3833333333,Utah Jazz,Indiana Pacers,1,19-35,15,free throw,True,15,True,False
+2008-01-08,11.3833333333,Utah Jazz,Indiana Pacers,1,19-36,16,free throw,True,15,True,False
+2008-01-08,11.55,Utah Jazz,Indiana Pacers,1,19-38,17,layup,True,0,True,False
+2008-01-08,13.9333333333,Utah Jazz,Indiana Pacers,2,19-44,22,three point jumper,True,23,True,False
+2008-01-08,14.3333333333,Utah Jazz,Indiana Pacers,2,19-44,22,three point jumper,True,25,False,False
+2008-01-08,15.7666666667,Utah Jazz,Indiana Pacers,2,22-50,26,two point jumper,True,22,True,False
+2008-01-08,24.0,Utah Jazz,Indiana Pacers,2,50-67,15,two point jumper,True,22,False,False
+2008-01-08,36.9666666667,Utah Jazz,Indiana Pacers,4,68-94,24,two point jumper,True,21,True,False
+2008-01-08,37.6333333333,Utah Jazz,Indiana Pacers,4,68-94,24,two point jumper,True,20,False,False
+2008-01-08,40.2833333333,Utah Jazz,Indiana Pacers,4,72-102,27,three point jumper,True,25,False,False
+2008-01-14,12.0,Utah Jazz,Milwaukee Bucks,1,22-24,-1,three point jumper,True,45,False,True
+2008-01-14,31.9166666667,Utah Jazz,Milwaukee Bucks,3,66-61,-7,two point jumper,True,19,False,True
+2008-01-14,32.5166666667,Utah Jazz,Milwaukee Bucks,3,66-63,-5,layup,True,0,True,True
+2008-12-08,6.03333333333,Utah Jazz,Dallas Mavericks,1,13-16,-5,layup,False,0,True,False
+2008-12-08,8.73333333333,Utah Jazz,Dallas Mavericks,1,15-21,-7,free throw,False,15,False,False
+2008-12-08,8.73333333333,Utah Jazz,Dallas Mavericks,1,16-21,-6,free throw,False,15,True,False
+2008-12-08,8.73333333333,Utah Jazz,Dallas Mavericks,1,17-21,-5,free throw,False,15,True,False
+2008-12-08,12.95,Utah Jazz,Dallas Mavericks,2,23-28,-7,two point jumper,False,17,False,False
+2008-12-26,11.35,Utah Jazz,Dallas Mavericks,1,13-28,14,free throw,True,15,True,True
+2008-12-26,11.35,Utah Jazz,Dallas Mavericks,1,13-29,15,free throw,True,15,True,True
+2008-12-26,34.5,Utah Jazz,Dallas Mavericks,3,66-75,7,layup,True,0,True,True
+2008-12-26,35.5,Utah Jazz,Dallas Mavericks,3,68-78,7,three point jumper,True,25,False,True
+2008-12-26,35.95,Utah Jazz,Dallas Mavericks,3,70-78,6,two point jumper,True,21,False,True
+2008-11-01,8.0,Utah Jazz,Houston Rockets,1,12-20,6,two point jumper,True,21,False,True
+2008-11-01,34.3666666667,Utah Jazz,Houston Rockets,3,75-63,-14,two point jumper,True,17,False,True
+2008-11-01,34.9333333333,Utah Jazz,Houston Rockets,3,77-63,-17,three point jumper,True,24,False,True
+2008-11-01,36.0,Utah Jazz,Houston Rockets,3,78-66,-14,layup,True,0,False,True
+2008-11-10,11.1666666667,Utah Jazz,Memphis Grizzlies,1,26-30,2,two point jumper,True,20,False,False
+2008-11-10,34.2166666667,Utah Jazz,Memphis Grizzlies,3,60-84,22,two point jumper,True,6,False,False
+2008-11-10,34.2166666667,Utah Jazz,Memphis Grizzlies,3,60-84,23,free throw,True,15,False,False
+2008-11-10,34.2166666667,Utah Jazz,Memphis Grizzlies,3,60-85,24,free throw,True,15,True,False
+2008-11-10,34.75,Utah Jazz,Memphis Grizzlies,3,62-87,23,two point jumper,True,19,True,False
+2008-11-10,35.9333333333,Utah Jazz,Memphis Grizzlies,3,68-89,19,two point jumper,True,21,True,False
+2008-11-23,11.35,Utah Jazz,New Orleans Pelicans,1,21-18,-5,two point jumper,True,23,True,True
+2008-11-23,31.5,Utah Jazz,New Orleans Pelicans,3,53-66,10,three point jumper,True,23,True,True
+2008-11-23,34.65,Utah Jazz,New Orleans Pelicans,3,60-73,11,two point jumper,True,18,False,True
+2008-11-23,45.1166666667,Utah Jazz,New Orleans Pelicans,4,70-93,20,three point jumper,True,25,True,True
+2008-11-23,47.15,Utah Jazz,New Orleans Pelicans,4,71-99,25,three point jumper,True,23,True,True
+2008-11-23,47.9666666667,Utah Jazz,New Orleans Pelicans,4,71-99,25,three point jumper,True,25,False,True
+2008-12-07,11.4333333333,Utah Jazz,San Antonio Spurs,1,29-19,8,two point jumper,False,19,False,True
+2008-12-07,12.8333333333,Utah Jazz,San Antonio Spurs,2,31-24,5,two point shot,False,11,True,True
+2008-12-07,35.4,Utah Jazz,San Antonio Spurs,3,74-71,1,two point jumper,False,18,False,True
+2008-04-04,47.3,Utah Jazz,San Antonio Spurs,4,64-90,24,two point jumper,True,22,False,True
+2008-04-16,36.0,Utah Jazz,San Antonio Spurs,3,60-85,-28,three point jumper,False,25,False,True
+2008-04-16,38.2166666667,Utah Jazz,San Antonio Spurs,4,64-90,-28,two point jumper,False,19,False,True
+2008-04-16,41.6333333333,Utah Jazz,San Antonio Spurs,4,69-100,-33,two point jumper,False,20,False,True
+2008-04-16,45.1166666667,Utah Jazz,San Antonio Spurs,4,75-104,-31,two point jumper,False,22,False,True
+2008-12-17,12.0,Utah Jazz,Atlanta Hawks,1,31-25,3,three point jumper,False,42,False,False
+2008-12-17,12.4333333333,Utah Jazz,Atlanta Hawks,2,31-25,4,two point jumper,False,18,False,False
+2008-12-19,11.7,Utah Jazz,Charlotte Bobcats,1,17-21,-5,free throw,False,15,True,False
+2008-12-19,16.0666666667,Utah Jazz,Charlotte Bobcats,2,27-25,0,two point jumper,False,19,False,False
+2008-12-19,19.7,Utah Jazz,Charlotte Bobcats,2,34-33,-1,two point jumper,False,16,False,False
+2008-12-19,21.05,Utah Jazz,Charlotte Bobcats,2,38-35,1,layup,False,0,True,False
+2008-12-19,38.5,Utah Jazz,Charlotte Bobcats,4,74-70,1,three point jumper,False,25,True,False
+2008-12-19,39.3,Utah Jazz,Charlotte Bobcats,4,77-70,4,three point jumper,False,23,True,False
+2008-12-19,39.3,Utah Jazz,Charlotte Bobcats,4,78-70,7,free throw,False,15,True,False
+2008-12-19,47.9666666667,Utah Jazz,Charlotte Bobcats,4,90-98,-10,layup,False,0,False,False
+2008-12-03,11.15,Utah Jazz,Miami Heat,1,28-29,-1,two point jumper,True,19,False,True
+2008-12-22,14.3166666667,Utah Jazz,Miami Heat,2,23-27,-5,free throw,False,15,False,False
+2008-12-22,14.55,Utah Jazz,Miami Heat,2,23-27,-7,three point jumper,False,25,False,False
+2008-12-22,36.0,Utah Jazz,Miami Heat,3,63-74,-13,layup,False,0,False,False
+2008-12-22,40.6,Utah Jazz,Miami Heat,4,77-84,-10,three point jumper,False,25,False,False
+2008-12-21,13.4,Utah Jazz,Orlando Magic,2,30-27,1,two point jumper,False,23,False,False
+2008-12-21,15.7666666667,Utah Jazz,Orlando Magic,2,33-31,1,free throw,False,15,True,False
+2008-12-21,16.9166666667,Utah Jazz,Orlando Magic,2,35-34,-1,two point jumper,False,13,False,False
+2008-12-21,37.0666666667,Utah Jazz,Orlando Magic,4,82-73,8,free throw,False,15,True,False
+2008-01-12,33.5833333333,Utah Jazz,Orlando Magic,3,72-75,2,free throw,True,15,True,True
+2008-01-12,33.5833333333,Utah Jazz,Orlando Magic,3,72-76,3,free throw,True,15,True,True
+2008-01-12,35.3,Utah Jazz,Orlando Magic,3,76-80,2,two point jumper,True,17,False,True
+2008-01-12,36.0,Utah Jazz,Orlando Magic,3,80-85,2,three point jumper,True,23,True,True
+2008-01-17,8.43333333333,Utah Jazz,Denver Nuggets,1,20-20,-2,two point jumper,False,21,False,False
+2008-01-17,35.4333333333,Utah Jazz,Denver Nuggets,3,87-98,-12,free throw,False,15,True,False
+2008-01-17,35.4333333333,Utah Jazz,Denver Nuggets,3,88-98,-11,free throw,False,15,True,False
+2008-01-17,44.6166666667,Utah Jazz,Denver Nuggets,4,99-120,-23,two point jumper,False,9,False,False
+2008-01-17,44.7666666667,Utah Jazz,Denver Nuggets,4,100-120,-21,free throw,False,15,True,False
+2008-01-17,44.7666666667,Utah Jazz,Denver Nuggets,4,101-120,-20,free throw,False,15,True,False
+2008-01-17,45.05,Utah Jazz,Denver Nuggets,4,101-120,-21,layup,False,0,False,False
+2008-02-06,16.0666666667,Utah Jazz,Denver Nuggets,2,35-28,5,two point jumper,False,17,False,True
+2008-02-06,24.0,Utah Jazz,Denver Nuggets,2,56-41,13,two point jumper,False,20,False,True
+2008-03-08,46.0833333333,Utah Jazz,Denver Nuggets,4,103-130,25,two point jumper,True,20,False,True
+2008-03-08,46.5166666667,Utah Jazz,Denver Nuggets,4,105-130,24,free throw,True,15,False,True
+2008-03-08,46.5166666667,Utah Jazz,Denver Nuggets,4,105-130,24,free throw,True,15,False,True
+2008-03-08,47.0,Utah Jazz,Denver Nuggets,4,105-130,23,two point jumper,True,17,False,True
+2008-04-12,10.8333333333,Utah Jazz,Denver Nuggets,1,23-34,9,layup,True,0,True,False
+2008-04-12,11.0666666667,Utah Jazz,Denver Nuggets,1,23-35,11,free throw,True,15,True,False
+2008-04-12,11.0666666667,Utah Jazz,Denver Nuggets,1,23-36,12,free throw,True,15,True,False
+2008-04-12,11.9666666667,Utah Jazz,Denver Nuggets,1,25-40,13,two point jumper,True,22,True,False
+2008-04-12,13.8666666667,Utah Jazz,Denver Nuggets,2,29-40,9,two point jumper,True,23,False,False
+2008-04-12,23.2833333333,Utah Jazz,Denver Nuggets,2,59-60,-1,two point jumper,True,18,False,False
+2008-04-12,47.0333333333,Utah Jazz,Denver Nuggets,4,96-120,22,two point jumper,True,19,True,False
+2008-04-12,47.2666666667,Utah Jazz,Denver Nuggets,4,96-122,24,layup,True,0,True,False
+2008-04-12,47.75,Utah Jazz,Denver Nuggets,4,97-124,25,two point jumper,True,18,True,False
+2008-03-05,46.0833333333,Utah Jazz,Minnesota Timberwolves,4,72-101,27,two point jumper,True,17,False,False
+2008-03-05,47.0,Utah Jazz,Minnesota Timberwolves,4,72-103,29,two point jumper,True,20,False,False
+2008-11-09,32.55,Utah Jazz,Oklahoma City Thunder,3,69-65,2,two point jumper,False,1,False,True
+2008-11-09,33.0166666667,Utah Jazz,Oklahoma City Thunder,3,69-66,2,free throw,False,15,False,True
+2008-11-09,33.0166666667,Utah Jazz,Oklahoma City Thunder,3,70-66,3,free throw,False,15,True,True
+2008-11-09,33.6833333333,Utah Jazz,Oklahoma City Thunder,3,70-66,2,two point jumper,False,1,False,True
+2008-12-15,13.8833333333,Utah Jazz,Oklahoma City Thunder,2,29-22,-9,two point jumper,True,16,False,True
+2008-12-15,47.3666666667,Utah Jazz,Oklahoma City Thunder,4,75-93,16,two point jumper,True,18,False,True
+2008-12-15,47.9333333333,Utah Jazz,Oklahoma City Thunder,4,75-96,18,three point jumper,True,24,True,True
+2008-12-11,9.15,Utah Jazz,Portland Trail Blazers,1,21-23,0,two point jumper,True,23,True,False
+2008-12-11,11.2666666667,Utah Jazz,Portland Trail Blazers,1,26-23,-5,two point jumper,True,21,False,False
+2008-12-11,35.9833333333,Utah Jazz,Portland Trail Blazers,3,78-64,-16,two point jumper,True,19,False,False
+2008-12-11,37.3333333333,Utah Jazz,Portland Trail Blazers,4,78-69,-12,three point jumper,True,27,True,False
+2008-12-11,37.95,Utah Jazz,Portland Trail Blazers,4,78-69,-11,two point jumper,True,11,False,False
+2008-12-11,39.5666666667,Utah Jazz,Portland Trail Blazers,4,80-73,-9,two point jumper,True,16,False,False
+2008-12-11,39.75,Utah Jazz,Portland Trail Blazers,4,80-73,-10,three point jumper,True,23,False,False
+2008-12-31,14.75,Utah Jazz,Portland Trail Blazers,2,36-27,-11,two point jumper,True,22,False,True
+2008-12-31,35.8166666667,Utah Jazz,Portland Trail Blazers,3,79-87,6,two point jumper,True,20,False,True
+2008-12-31,36.5666666667,Utah Jazz,Portland Trail Blazers,4,81-89,6,two point jumper,True,17,True,True
+2008-12-31,37.75,Utah Jazz,Portland Trail Blazers,4,83-89,4,two point jumper,True,21,False,True
+2008-01-05,9.91666666667,Utah Jazz,Portland Trail Blazers,1,19-18,-1,layup,False,0,False,True
+2008-01-05,13.8333333333,Utah Jazz,Portland Trail Blazers,2,25-23,0,two point shot,False,5,False,True
+2009-03-16,46.8666666667,Denver Nuggets,Brooklyn Nets,4,94-119,23,two point jumper,True,15,True,False
+2009-03-16,47.6,Denver Nuggets,Brooklyn Nets,4,96-121,23,two point shot,True,1,True,False
+2009-11-21,7.45,Los Angeles Clippers,Philadelphia 76ers,1,12-16,-6,two point jumper,False,12,False,False
+2009-11-21,10.8833333333,Los Angeles Clippers,Philadelphia 76ers,1,14-26,-14,two point jumper,False,15,False,False
+2009-11-21,40.0,Los Angeles Clippers,Philadelphia 76ers,4,78-73,3,two point jumper,False,21,False,False
+2009-12-31,11.1666666667,Los Angeles Clippers,Philadelphia 76ers,1,26-25,-3,two point jumper,True,1,False,True
+2009-12-31,12.95,Los Angeles Clippers,Philadelphia 76ers,2,26-27,-1,two point jumper,True,21,False,True
+2009-12-31,15.8,Los Angeles Clippers,Philadelphia 76ers,2,31-30,-3,two point jumper,True,21,False,True
+2009-12-31,17.5333333333,Los Angeles Clippers,Philadelphia 76ers,2,35-32,-5,two point jumper,True,19,False,True
+2009-12-31,38.5,Los Angeles Clippers,Philadelphia 76ers,4,74-68,-8,two point jumper,True,15,False,True
+2009-12-22,46.9333333333,Los Angeles Clippers,Toronto Raptors,4,97-75,-24,two point jumper,True,19,False,False
+2009-01-25,15.15,Los Angeles Clippers,Golden State Warriors,2,23-33,-12,two point shot,False,13,True,True
+2009-01-25,16.0,Los Angeles Clippers,Golden State Warriors,2,23-36,-15,two point jumper,False,19,False,True
+2009-01-25,37.4333333333,Los Angeles Clippers,Golden State Warriors,4,68-84,-18,two point shot,False,1,True,True
+2009-01-25,39.6333333333,Los Angeles Clippers,Golden State Warriors,4,68-93,-27,two point jumper,False,18,False,True
+2009-01-25,43.75,Los Angeles Clippers,Golden State Warriors,4,79-102,-25,two point shot,False,7,False,True
+2009-01-25,46.4833333333,Los Angeles Clippers,Golden State Warriors,4,84-105,-23,two point jumper,False,1,False,True
+2009-10-29,13.0166666667,Los Angeles Clippers,Los Angeles Lakers,2,30-31,-1,two point shot,True,1,True,True
+2009-10-29,14.0666666667,Los Angeles Clippers,Los Angeles Lakers,2,32-31,-3,two point jumper,True,1,False,True
+2009-10-29,36.75,Los Angeles Clippers,Los Angeles Lakers,4,85-59,-28,layup,True,0,True,True
+2009-10-29,39.9,Los Angeles Clippers,Los Angeles Lakers,4,96-64,-34,layup,True,0,False,True
+2009-10-31,13.8166666667,Los Angeles Clippers,Denver Nuggets,2,21-29,6,two point jumper,True,21,False,False
+2009-10-31,18.5,Los Angeles Clippers,Denver Nuggets,2,32-38,5,free throw,True,15,True,False
+2009-10-31,39.95,Los Angeles Clippers,Denver Nuggets,4,78-88,8,two point jumper,True,17,True,False
+2009-10-31,21.8666666667,Los Angeles Clippers,Denver Nuggets,5,111-101,-12,two point jumper,True,22,False,False
+2009-11-01,3.5,Los Angeles Clippers,Utah Jazz,1,7-8,-3,two point jumper,False,21,False,True
+2009-11-01,37.8666666667,Los Angeles Clippers,Utah Jazz,4,62-78,-18,two point jumper,False,20,True,True
+2009-11-01,38.25,Los Angeles Clippers,Utah Jazz,4,62-80,-20,two point jumper,False,21,False,True
+2009-11-01,42.1,Los Angeles Clippers,Utah Jazz,4,64-90,-28,two point jumper,False,18,False,True
+2009-11-09,12.8166666667,Los Angeles Clippers,Dallas Mavericks,2,24-27,1,two point jumper,True,19,True,False
+2009-11-09,14.6833333333,Los Angeles Clippers,Dallas Mavericks,2,28-30,0,two point shot,True,4,False,False
+2009-11-19,40.35,Los Angeles Clippers,Oklahoma City Thunder,4,85-75,8,two point jumper,False,21,True,False
+2009-11-19,41.9166666667,Los Angeles Clippers,Oklahoma City Thunder,4,87-77,8,layup,False,0,False,False
+2009-12-03,16.95,Los Angeles Clippers,Houston Rockets,2,30-35,-7,two point jumper,False,1,False,True
+2009-12-03,19.5666666667,Los Angeles Clippers,Houston Rockets,2,38-43,-6,free throw,False,15,False,True
+2009-12-03,19.5666666667,Los Angeles Clippers,Houston Rockets,2,39-43,-5,free throw,False,15,True,True
+2009-12-06,37.1166666667,Los Angeles Clippers,Minnesota Timberwolves,4,81-58,21,two point jumper,False,23,True,False
+2009-12-06,39.0,Los Angeles Clippers,Minnesota Timberwolves,4,81-61,18,layup,False,0,False,False
+2009-12-06,39.55,Los Angeles Clippers,Minnesota Timberwolves,4,83-63,18,two point jumper,False,6,False,False
+2009-12-13,36.4666666667,Los Angeles Clippers,Houston Rockets,4,64-70,4,two point jumper,True,11,False,True
+2009-12-13,39.4333333333,Los Angeles Clippers,Houston Rockets,4,67-75,7,free throw,True,15,True,True
+2009-12-13,39.4333333333,Los Angeles Clippers,Houston Rockets,4,67-76,8,free throw,True,15,True,True
+2009-12-13,41.9833333333,Los Angeles Clippers,Houston Rockets,4,67-80,11,two point jumper,True,17,False,True
+2009-12-16,15.2166666667,Los Angeles Clippers,Oklahoma City Thunder,2,32-23,7,two point jumper,False,19,False,True
+2009-12-16,43.1,Los Angeles Clippers,Oklahoma City Thunder,4,89-75,12,layup,False,0,True,True
+2009-12-16,44.2166666667,Los Angeles Clippers,Oklahoma City Thunder,4,93-79,12,two point jumper,False,21,True,True
+2009-12-16,44.8166666667,Los Angeles Clippers,Oklahoma City Thunder,4,93-79,11,three point jumper,False,26,False,True
+2009-12-17,17.35,Los Angeles Clippers,Chicago Bulls,2,35-36,-3,two point jumper,False,21,False,False
+2009-12-17,18.75,Los Angeles Clippers,Chicago Bulls,2,37-39,-3,free throw,False,15,False,False
+2009-12-17,18.75,Los Angeles Clippers,Chicago Bulls,2,38-39,-2,free throw,False,15,True,False
+2009-12-19,19.1666666667,Los Angeles Clippers,Indiana Pacers,2,35-40,-7,two point shot,False,9,True,True
+2009-12-19,36.0,Los Angeles Clippers,Indiana Pacers,3,70-69,-2,three point jumper,False,40,False,True
+2009-12-20,10.85,Los Angeles Clippers,Milwaukee Bucks,1,14-31,-18,free throw,False,15,True,True
+2009-12-20,10.85,Los Angeles Clippers,Milwaukee Bucks,1,15-31,-17,free throw,False,15,True,True
+2009-12-20,15.5666666667,Los Angeles Clippers,Milwaukee Bucks,2,19-41,-24,two point jumper,False,18,True,True
+2009-12-20,16.2333333333,Los Angeles Clippers,Milwaukee Bucks,2,19-41,-24,two point jumper,False,1,False,True
+2009-12-20,34.2833333333,Los Angeles Clippers,Milwaukee Bucks,3,51-89,-40,two point jumper,False,19,False,True
+2009-12-20,39.8666666667,Los Angeles Clippers,Milwaukee Bucks,4,62-101,-41,two point jumper,False,14,False,True
+2009-12-20,41.5333333333,Los Angeles Clippers,Milwaukee Bucks,4,64-103,-41,layup,False,0,False,True
+2009-12-20,43.4166666667,Los Angeles Clippers,Milwaukee Bucks,4,66-108,-44,layup,False,0,True,True
+2009-12-20,43.4166666667,Los Angeles Clippers,Milwaukee Bucks,4,67-108,-42,free throw,False,15,True,True
+2009-12-20,45.5,Los Angeles Clippers,Milwaukee Bucks,4,73-114,-42,free throw,False,15,True,True
+2009-12-20,45.5,Los Angeles Clippers,Milwaukee Bucks,4,74-114,-41,free throw,False,15,True,True
+2009-12-28,8.76666666667,Los Angeles Clippers,Dallas Mavericks,1,17-8,-10,free throw,True,15,False,False
+2009-12-28,8.76666666667,Los Angeles Clippers,Dallas Mavericks,1,17-9,-9,free throw,True,15,True,False
+2009-12-28,12.3333333333,Los Angeles Clippers,Dallas Mavericks,2,24-15,-11,two point jumper,True,20,True,False
+2009-12-28,13.5666666667,Los Angeles Clippers,Dallas Mavericks,2,27-17,-12,layup,True,0,False,False
+2009-12-28,16.75,Los Angeles Clippers,Dallas Mavericks,2,29-27,-4,two point jumper,True,20,True,False
+2009-12-28,17.3833333333,Los Angeles Clippers,Dallas Mavericks,2,31-27,-6,two point jumper,True,21,False,False
+2009-12-28,33.4833333333,Los Angeles Clippers,Dallas Mavericks,3,67-52,-17,two point jumper,True,20,False,False
+2009-12-28,34.3666666667,Los Angeles Clippers,Dallas Mavericks,3,71-55,-17,free throw,True,15,True,False
+2009-12-28,34.3666666667,Los Angeles Clippers,Dallas Mavericks,3,71-55,-17,free throw,True,15,False,False
+2009-12-28,36.75,Los Angeles Clippers,Dallas Mavericks,4,78-63,-17,two point jumper,True,1,True,False
+2009-12-28,41.6666666667,Los Angeles Clippers,Dallas Mavericks,4,84-69,-17,layup,True,0,False,False
+2009-12-30,9.48333333333,Los Angeles Clippers,Sacramento Kings,1,10-22,-14,two point jumper,False,20,True,False
+2009-12-30,10.55,Los Angeles Clippers,Sacramento Kings,1,10-25,-17,two point jumper,False,17,False,False
+2009-12-30,12.25,Los Angeles Clippers,Sacramento Kings,2,14-27,-15,layup,False,0,True,False
+2009-12-30,13.0,Los Angeles Clippers,Sacramento Kings,2,16-27,-13,layup,False,0,True,False
+2009-12-30,14.4333333333,Los Angeles Clippers,Sacramento Kings,2,20-32,-14,two point jumper,False,19,False,False
+2009-12-30,33.0333333333,Los Angeles Clippers,Sacramento Kings,3,64-61,1,two point jumper,False,10,False,False
+2009-12-30,34.3666666667,Los Angeles Clippers,Sacramento Kings,3,70-65,4,free throw,False,15,True,False
+2009-12-30,34.3666666667,Los Angeles Clippers,Sacramento Kings,3,71-65,5,free throw,False,15,True,False
+2009-12-30,37.5666666667,Los Angeles Clippers,Sacramento Kings,4,75-78,-5,two point jumper,False,15,False,False
+2009-01-08,11.8333333333,Los Angeles Clippers,San Antonio Spurs,1,22-16,4,two point jumper,False,1,False,True
+2009-01-08,37.3166666667,Los Angeles Clippers,San Antonio Spurs,4,69-80,-13,layup,False,0,False,True
+2009-01-08,46.0,Los Angeles Clippers,San Antonio Spurs,4,81-100,-21,two point jumper,False,16,False,True
+2009-01-08,46.4833333333,Los Angeles Clippers,San Antonio Spurs,4,83-102,-21,two point jumper,False,16,True,True
+2009-01-08,48.0,Los Angeles Clippers,San Antonio Spurs,4,84-106,-25,three point jumper,False,28,False,True
+2009-01-09,15.4333333333,Los Angeles Clippers,New Orleans Pelicans,2,29-43,-16,two point jumper,False,18,False,True
+2009-01-23,11.2333333333,Los Angeles Clippers,Oklahoma City Thunder,1,27-24,-5,layup,True,0,False,True
+2009-01-23,18.2333333333,Los Angeles Clippers,Oklahoma City Thunder,2,42-37,-7,two point jumper,True,1,True,True
+2009-02-04,47.0666666667,Los Angeles Clippers,Orlando Magic,4,91-123,-34,two point jumper,False,22,False,True
+2009-02-04,47.45,Los Angeles Clippers,Orlando Magic,4,93-123,-32,layup,False,0,True,True
+2009-02-04,47.45,Los Angeles Clippers,Orlando Magic,4,94-123,-30,free throw,False,15,True,True
+2009-02-06,47.6666666667,Los Angeles Clippers,Memphis Grizzlies,4,126-103,21,two point jumper,False,22,True,True
+2009-02-07,46.8333333333,Los Angeles Clippers,Atlanta Hawks,4,121-92,27,layup,False,0,True,False
+2009-02-17,45.1,Los Angeles Clippers,Phoenix Suns,4,86-136,-53,three point jumper,False,26,False,False
+2009-03-14,47.3833333333,Denver Nuggets,Los Angeles Clippers,4,94-107,10,three point jumper,True,27,False,False
+2009-04-09,47.75,Denver Nuggets,Los Angeles Lakers,4,102-116,-16,two point jumper,False,20,False,False
+2009-03-09,17.9166666667,Denver Nuggets,Houston Rockets,2,30-32,0,two point jumper,True,19,True,False
+2009-03-20,46.2333333333,Denver Nuggets,Washington Wizards,4,99-111,9,three point jumper,True,25,False,True
+2009-03-05,47.3,Denver Nuggets,Portland Trail Blazers,4,88-105,15,two point jumper,True,19,True,False
+2009-03-05,47.4833333333,Denver Nuggets,Portland Trail Blazers,4,88-106,17,free throw,True,15,True,False
+2009-03-05,47.4833333333,Denver Nuggets,Portland Trail Blazers,4,88-106,17,free throw,True,15,False,False
+2009-04-05,43.1333333333,Denver Nuggets,Minnesota Timberwolves,4,97-74,21,two point jumper,False,17,False,False
+2009-04-05,45.4,Denver Nuggets,Minnesota Timberwolves,4,103-81,21,free throw,False,15,True,False
+2009-04-05,45.4,Denver Nuggets,Minnesota Timberwolves,4,104-81,22,free throw,False,15,True,False
+2009-04-15,43.0666666667,Denver Nuggets,Portland Trail Blazers,4,68-95,-29,hook shot,False,5,True,True
+2010-11-13,46.5166666667,Minnesota Timberwolves,Dallas Mavericks,4,89-72,-19,two point jumper,True,16,False,False
+2010-02-06,16.6333333333,New Orleans Pelicans,Charlotte Bobcats,2,29-36,-9,two point jumper,False,19,True,False

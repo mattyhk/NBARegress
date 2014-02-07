@@ -1,0 +1,436 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2006-11-28,15.4,Orlando Magic,Boston Celtics,2,27-29,-4,two point shot,False,9,True,True
+2006-11-28,15.4,Orlando Magic,Boston Celtics,2,27-29,-3,free throw,False,15,False,True
+2006-11-28,16.3833333333,Orlando Magic,Boston Celtics,2,27-31,-6,two point jumper,False,19,False,True
+2006-11-28,17.0666666667,Orlando Magic,Boston Celtics,2,29-33,-6,two point jumper,False,16,True,True
+2006-11-28,21.7333333333,Orlando Magic,Boston Celtics,2,38-39,-3,layup,False,0,False,True
+2006-11-28,23.1666666667,Orlando Magic,Boston Celtics,2,45-41,2,two point shot,False,19,True,True
+2006-11-28,23.7166666667,Orlando Magic,Boston Celtics,2,47-43,2,two point jumper,False,21,True,True
+2006-11-28,36.3166666667,Orlando Magic,Boston Celtics,4,64-63,-2,three point jumper,False,24,False,True
+2006-11-28,37.3166666667,Orlando Magic,Boston Celtics,4,66-67,-3,two point jumper,False,17,True,True
+2006-02-04,29.6666666667,Orlando Magic,Boston Celtics,3,56-61,2,three point jumper,True,25,True,False
+2006-02-04,31.4833333333,Orlando Magic,Boston Celtics,3,60-65,3,two point jumper,True,18,False,False
+2006-02-04,34.9333333333,Orlando Magic,Boston Celtics,3,64-69,2,three point jumper,True,26,False,False
+2006-02-04,35.0666666667,Orlando Magic,Boston Celtics,3,64-70,5,free throw,True,15,True,False
+2006-02-04,35.0666666667,Orlando Magic,Boston Celtics,3,64-71,6,free throw,True,15,True,False
+2006-02-04,38.75,Orlando Magic,Boston Celtics,4,71-79,6,two point jumper,True,22,True,False
+2006-02-12,23.5,Orlando Magic,Boston Celtics,2,43-46,-6,three point jumper,False,24,True,True
+2006-02-12,45.75,Orlando Magic,Boston Celtics,4,71-68,1,two point jumper,False,17,True,True
+2006-02-12,21.7,Orlando Magic,Boston Celtics,5,92-98,-9,three point jumper,False,25,False,True
+2006-12-21,14.45,Orlando Magic,Brooklyn Nets,2,25-20,-8,three point jumper,True,26,False,False
+2006-12-21,34.2833333333,Orlando Magic,Brooklyn Nets,3,67-61,-8,layup,True,0,False,False
+2006-12-21,13.2333333333,Orlando Magic,Brooklyn Nets,5,74-73,-4,three point jumper,True,26,False,False
+2006-01-06,8.05,Orlando Magic,Brooklyn Nets,1,19-17,-1,three point jumper,False,26,True,False
+2006-01-06,11.9333333333,Orlando Magic,Brooklyn Nets,1,27-27,-3,three point jumper,False,26,False,False
+2006-01-06,10.35,Orlando Magic,Brooklyn Nets,5,65-83,-20,two point jumper,False,20,True,False
+2006-01-06,13.0333333333,Orlando Magic,Brooklyn Nets,5,72-87,-18,three point jumper,False,25,True,False
+2006-01-06,19.0166666667,Orlando Magic,Brooklyn Nets,5,85-99,-17,three point jumper,False,24,True,False
+2006-02-22,14.65,Orlando Magic,Brooklyn Nets,2,34-27,6,free throw,False,15,True,False
+2006-02-22,40.1333333333,Orlando Magic,Brooklyn Nets,4,74-79,-7,two point jumper,False,19,False,False
+2006-02-22,44.4166666667,Orlando Magic,Brooklyn Nets,4,83-85,-5,three point jumper,False,25,True,False
+2006-02-22,47.55,Orlando Magic,Brooklyn Nets,4,92-94,-5,three point jumper,False,22,True,False
+2006-12-14,12.25,Orlando Magic,New York Knicks,2,28-24,1,three point jumper,False,26,True,False
+2006-12-14,12.8833333333,Orlando Magic,New York Knicks,2,31-24,4,three point jumper,False,26,True,False
+2006-12-14,18.1,Orlando Magic,New York Knicks,2,41-36,2,three point jumper,False,25,False,False
+2006-12-14,39.2666666667,Orlando Magic,New York Knicks,4,82-68,12,two point jumper,False,20,True,False
+2006-12-14,40.4833333333,Orlando Magic,New York Knicks,4,86-68,15,three point jumper,False,25,True,False
+2006-12-14,41.4833333333,Orlando Magic,New York Knicks,4,89-70,16,three point jumper,False,24,True,False
+2006-12-14,42.3833333333,Orlando Magic,New York Knicks,4,95-74,18,three point jumper,False,25,True,False
+2006-12-14,45.7333333333,Orlando Magic,New York Knicks,4,98-86,9,three point jumper,False,24,False,False
+2006-01-27,36.65,Orlando Magic,New York Knicks,4,58-78,-23,three point jumper,False,25,False,False
+2006-01-27,39.5666666667,Orlando Magic,New York Knicks,4,64-78,-16,two point jumper,False,20,False,False
+2006-01-27,41.7,Orlando Magic,New York Knicks,4,69-82,-15,two point jumper,False,22,False,False
+2006-01-27,42.1666666667,Orlando Magic,New York Knicks,4,69-83,-15,free throw,False,15,False,False
+2006-01-27,42.4166666667,Orlando Magic,New York Knicks,4,71-83,-14,layup,False,0,True,False
+2006-01-27,44.1166666667,Orlando Magic,New York Knicks,4,76-83,-10,three point jumper,False,24,True,False
+2006-01-26,12.75,Orlando Magic,Philadelphia 76ers,2,30-34,-6,two point jumper,False,14,True,True
+2006-01-26,16.8166666667,Orlando Magic,Philadelphia 76ers,2,40-36,1,three point jumper,False,25,True,True
+2006-01-26,18.5666666667,Orlando Magic,Philadelphia 76ers,2,42-38,2,two point jumper,False,18,True,True
+2006-01-26,18.9833333333,Orlando Magic,Philadelphia 76ers,2,45-38,4,three point jumper,False,27,True,True
+2006-01-26,20.1666666667,Orlando Magic,Philadelphia 76ers,2,48-40,5,three point jumper,False,25,True,True
+2006-01-26,20.6166666667,Orlando Magic,Philadelphia 76ers,2,48-40,5,three point jumper,False,26,False,True
+2006-01-26,21.4,Orlando Magic,Philadelphia 76ers,2,48-40,7,free throw,False,15,False,True
+2006-01-26,21.4,Orlando Magic,Philadelphia 76ers,2,49-40,8,free throw,False,15,True,True
+2006-01-26,36.9,Orlando Magic,Philadelphia 76ers,4,79-76,0,three point jumper,False,25,False,True
+2006-01-26,42.1333333333,Orlando Magic,Philadelphia 76ers,4,88-88,-2,two point jumper,False,18,True,True
+2006-01-26,45.75,Orlando Magic,Philadelphia 76ers,4,98-99,-3,two point jumper,False,19,True,True
+2006-01-26,17.4,Orlando Magic,Philadelphia 76ers,5,106-103,0,three point jumper,False,23,True,True
+2006-01-26,18.1166666667,Orlando Magic,Philadelphia 76ers,5,109-103,3,three point jumper,False,23,True,True
+2006-01-29,11.95,Orlando Magic,Philadelphia 76ers,1,21-17,-7,three point jumper,True,23,False,False
+2006-01-29,14.25,Orlando Magic,Philadelphia 76ers,2,23-21,-4,two point jumper,True,1,False,False
+2006-01-29,17.1333333333,Orlando Magic,Philadelphia 76ers,2,27-28,-1,two point jumper,True,1,False,False
+2006-01-29,18.5333333333,Orlando Magic,Philadelphia 76ers,2,32-30,-4,dunk,True,0,True,False
+2006-01-29,20.8166666667,Orlando Magic,Philadelphia 76ers,2,36-37,-2,three point jumper,True,25,True,False
+2006-01-29,33.0,Orlando Magic,Philadelphia 76ers,3,61-57,-7,three point jumper,True,26,False,False
+2006-12-19,10.55,Orlando Magic,Toronto Raptors,1,15-25,7,three point jumper,True,26,False,False
+2006-12-19,13.75,Orlando Magic,Toronto Raptors,2,21-34,10,three point jumper,True,23,True,False
+2006-01-04,11.8166666667,Orlando Magic,Toronto Raptors,1,22-26,-7,three point jumper,False,24,False,True
+2006-01-04,10.6,Orlando Magic,Toronto Raptors,5,68-87,-22,three point jumper,False,25,False,True
+2006-01-04,11.9666666667,Orlando Magic,Toronto Raptors,5,70-91,-23,two point jumper,False,13,False,True
+2006-01-04,13.7666666667,Orlando Magic,Toronto Raptors,5,75-95,-23,three point jumper,False,25,False,True
+2006-01-04,17.65,Orlando Magic,Toronto Raptors,5,85-109,-26,two point jumper,False,1,False,True
+2006-03-01,38.4666666667,Orlando Magic,Golden State Warriors,4,76-73,1,two point shot,False,9,True,False
+2006-03-01,39.4666666667,Orlando Magic,Golden State Warriors,4,76-75,-2,three point jumper,False,26,False,False
+2006-03-01,47.8,Orlando Magic,Golden State Warriors,4,90-95,-8,three point jumper,False,27,False,False
+2006-01-10,28.35,Orlando Magic,Los Angeles Clippers,3,42-50,-11,three point jumper,False,25,False,False
+2006-01-10,31.85,Orlando Magic,Los Angeles Clippers,3,52-59,-10,three point jumper,False,26,False,False
+2006-01-10,38.8666666667,Orlando Magic,Los Angeles Clippers,4,64-74,-12,two point jumper,False,1,False,False
+2006-01-10,42.8166666667,Orlando Magic,Los Angeles Clippers,4,68-79,-13,two point jumper,False,1,False,False
+2006-01-10,47.1666666667,Orlando Magic,Los Angeles Clippers,4,73-88,-17,tip shot,False,0,False,False
+2006-02-01,12.45,Orlando Magic,Los Angeles Clippers,2,27-23,-7,three point jumper,True,25,True,True
+2006-02-01,20.0333333333,Orlando Magic,Los Angeles Clippers,2,49-40,-11,layup,True,0,True,True
+2006-02-01,38.75,Orlando Magic,Los Angeles Clippers,4,88-77,-14,three point jumper,True,24,False,True
+2006-02-01,40.95,Orlando Magic,Los Angeles Clippers,4,92-79,-16,three point jumper,True,26,False,True
+2006-02-01,42.4833333333,Orlando Magic,Los Angeles Clippers,4,96-81,-18,three point jumper,True,25,False,True
+2006-02-01,43.1666666667,Orlando Magic,Los Angeles Clippers,4,96-83,-15,layup,True,0,True,True
+2006-02-01,47.85,Orlando Magic,Los Angeles Clippers,4,106-94,-15,three point jumper,True,23,False,True
+2006-12-23,34.4,Orlando Magic,Los Angeles Lakers,3,77-68,-11,two point jumper,True,12,True,True
+2006-12-23,37.1333333333,Orlando Magic,Los Angeles Lakers,4,85-68,-20,three point jumper,True,26,False,True
+2006-12-23,40.9166666667,Orlando Magic,Los Angeles Lakers,4,88-69,-21,two point jumper,True,21,False,True
+2006-12-23,41.0,Orlando Magic,Los Angeles Lakers,4,88-69,-21,two point jumper,True,21,False,True
+2006-02-28,18.3833333333,Orlando Magic,Los Angeles Lakers,2,30-36,-9,three point jumper,False,26,False,True
+2006-02-28,35.4333333333,Orlando Magic,Los Angeles Lakers,3,63-80,-18,free throw,False,15,True,True
+2006-02-28,35.4333333333,Orlando Magic,Los Angeles Lakers,3,64-80,-17,free throw,False,15,True,True
+2006-01-24,17.9166666667,Orlando Magic,Phoenix Suns,2,37-40,1,two point jumper,True,13,True,True
+2006-01-24,18.95,Orlando Magic,Phoenix Suns,2,39-40,-1,two point jumper,True,13,False,True
+2006-01-24,21.8166666667,Orlando Magic,Phoenix Suns,2,45-52,5,two point jumper,True,1,True,True
+2006-01-24,22.35,Orlando Magic,Phoenix Suns,2,45-55,7,three point jumper,True,25,True,True
+2006-01-24,23.8333333333,Orlando Magic,Phoenix Suns,2,52-58,4,two point jumper,True,14,True,True
+2006-01-24,35.4166666667,Orlando Magic,Phoenix Suns,3,81-84,0,three point jumper,True,24,False,True
+2006-03-03,14.9333333333,Orlando Magic,Phoenix Suns,2,31-35,-6,two point jumper,False,16,False,False
+2006-03-03,16.6,Orlando Magic,Phoenix Suns,2,35-39,-6,two point shot,False,9,True,False
+2006-03-03,21.55,Orlando Magic,Phoenix Suns,2,49-56,-8,free throw,False,15,True,False
+2006-03-03,21.55,Orlando Magic,Phoenix Suns,2,50-56,-7,free throw,False,15,True,False
+2006-01-15,36.6166666667,Orlando Magic,Sacramento Kings,4,64-78,-16,two point jumper,False,19,True,False
+2006-01-15,40.8166666667,Orlando Magic,Sacramento Kings,4,74-86,-14,two point shot,False,13,True,False
+2006-01-21,12.5833333333,Orlando Magic,Sacramento Kings,2,22-21,-4,three point jumper,True,25,False,True
+2006-01-21,15.95,Orlando Magic,Sacramento Kings,2,29-26,-5,layup,True,0,False,True
+2006-01-21,16.0333333333,Orlando Magic,Sacramento Kings,2,29-26,-5,tip shot,True,0,False,True
+2006-01-21,32.75,Orlando Magic,Sacramento Kings,3,56-52,-7,three point jumper,True,23,False,True
+2006-11-29,10.75,Orlando Magic,Chicago Bulls,1,24-20,2,two point jumper,False,18,False,False
+2006-11-29,13.95,Orlando Magic,Chicago Bulls,2,30-24,4,two point jumper,False,20,True,False
+2006-11-29,14.4,Orlando Magic,Chicago Bulls,2,30-24,4,two point jumper,False,18,False,False
+2006-11-29,17.2,Orlando Magic,Chicago Bulls,2,36-26,8,two point jumper,False,21,True,False
+2006-11-29,18.1666666667,Orlando Magic,Chicago Bulls,2,39-28,8,three point jumper,False,27,True,False
+2006-11-29,19.7333333333,Orlando Magic,Chicago Bulls,2,39-32,4,three point jumper,False,26,False,False
+2006-11-29,20.1833333333,Orlando Magic,Chicago Bulls,2,39-32,4,three point jumper,False,25,False,False
+2006-11-29,31.75,Orlando Magic,Chicago Bulls,3,54-55,-3,two point jumper,False,19,True,False
+2006-11-29,33.75,Orlando Magic,Chicago Bulls,3,54-60,-8,two point jumper,False,18,False,False
+2006-11-29,40.1666666667,Orlando Magic,Chicago Bulls,4,66-73,-9,two point jumper,False,17,False,False
+2006-11-29,44.0333333333,Orlando Magic,Chicago Bulls,4,73-82,-12,three point jumper,False,26,False,False
+2006-11-29,45.9833333333,Orlando Magic,Chicago Bulls,4,74-84,-13,three point jumper,False,26,False,False
+2006-12-07,11.8166666667,Orlando Magic,Chicago Bulls,1,18-22,1,three point jumper,True,25,False,True
+2006-12-07,14.6333333333,Orlando Magic,Chicago Bulls,2,26-27,-1,two point jumper,True,18,False,True
+2006-12-07,10.6333333333,Orlando Magic,Chicago Bulls,5,79-70,-12,three point jumper,True,25,True,True
+2006-12-07,13.2,Orlando Magic,Chicago Bulls,5,79-75,-7,three point jumper,True,25,False,True
+2006-12-07,14.0333333333,Orlando Magic,Chicago Bulls,5,81-75,-9,three point jumper,True,26,False,True
+2006-12-07,14.5833333333,Orlando Magic,Chicago Bulls,5,81-76,-6,free throw,True,15,True,True
+2006-12-07,14.5833333333,Orlando Magic,Chicago Bulls,5,81-76,-6,free throw,True,15,False,True
+2006-12-07,14.5833333333,Orlando Magic,Chicago Bulls,5,81-77,-5,free throw,True,15,True,True
+2006-03-28,37.2,Orlando Magic,Chicago Bulls,4,73-84,-14,three point jumper,False,28,False,True
+2006-03-28,39.0,Orlando Magic,Chicago Bulls,4,75-84,-12,three point jumper,False,24,False,True
+2006-11-18,9.66666666667,Orlando Magic,Cleveland Cavaliers,1,20-22,-5,three point jumper,False,25,True,True
+2006-11-18,12.2666666667,Orlando Magic,Cleveland Cavaliers,2,24-30,-7,free throw,False,15,True,True
+2006-11-18,14.4,Orlando Magic,Cleveland Cavaliers,2,28-31,-5,two point jumper,False,18,False,True
+2006-11-18,43.75,Orlando Magic,Cleveland Cavaliers,4,72-97,-28,three point jumper,False,24,False,True
+2006-11-18,44.3166666667,Orlando Magic,Cleveland Cavaliers,4,73-97,-25,free throw,False,15,True,True
+2006-11-18,44.3166666667,Orlando Magic,Cleveland Cavaliers,4,74-97,-24,free throw,False,15,True,True
+2006-11-18,44.7166666667,Orlando Magic,Cleveland Cavaliers,4,74-97,-26,three point jumper,False,25,False,True
+2006-11-18,46.5166666667,Orlando Magic,Cleveland Cavaliers,4,76-100,-26,tip shot,False,0,True,True
+2006-02-21,10.4666666667,Orlando Magic,Cleveland Cavaliers,1,15-22,-9,two point jumper,False,17,False,True
+2006-02-21,13.05,Orlando Magic,Cleveland Cavaliers,2,23-25,-4,layup,False,0,True,True
+2006-02-21,13.05,Orlando Magic,Cleveland Cavaliers,2,24-25,-2,free throw,False,15,True,True
+2006-02-21,18.0333333333,Orlando Magic,Cleveland Cavaliers,2,32-33,-4,three point jumper,False,25,False,True
+2006-02-21,36.5833333333,Orlando Magic,Cleveland Cavaliers,4,65-76,-13,two point jumper,False,19,True,True
+2006-02-21,37.75,Orlando Magic,Cleveland Cavaliers,4,68-78,-13,three point jumper,False,24,True,True
+2006-02-21,42.1333333333,Orlando Magic,Cleveland Cavaliers,4,79-92,-16,three point jumper,False,25,True,True
+2006-01-03,13.45,Orlando Magic,Detroit Pistons,2,31-30,-2,three point jumper,False,25,True,True
+2006-01-03,17.1333333333,Orlando Magic,Detroit Pistons,2,45-38,5,hook shot,False,1,True,True
+2006-02-10,11.15,Orlando Magic,Detroit Pistons,1,20-15,-8,three point jumper,True,26,False,False
+2006-02-10,11.4,Orlando Magic,Detroit Pistons,1,20-17,-5,two point shot,True,1,True,False
+2006-02-10,15.8666666667,Orlando Magic,Detroit Pistons,2,23-26,1,layup,True,0,False,False
+2006-02-10,19.9166666667,Orlando Magic,Detroit Pistons,2,27-33,3,three point jumper,True,23,True,False
+2006-02-10,36.0,Orlando Magic,Detroit Pistons,3,62-54,-11,three point jumper,True,23,False,False
+2006-02-10,38.3,Orlando Magic,Detroit Pistons,4,67-54,-15,two point jumper,True,17,False,False
+2006-02-10,40.5666666667,Orlando Magic,Detroit Pistons,4,72-54,-20,two point jumper,True,21,False,False
+2006-11-02,22.3,Orlando Magic,Indiana Pacers,2,43-37,-7,free throw,True,15,True,False
+2006-11-02,22.3,Orlando Magic,Indiana Pacers,2,43-38,-6,free throw,True,15,True,False
+2006-12-03,36.8333333333,Orlando Magic,Milwaukee Bucks,4,63-67,-7,three point jumper,False,24,True,True
+2006-12-03,37.3333333333,Orlando Magic,Milwaukee Bucks,4,63-67,-7,three point jumper,False,26,False,True
+2006-12-03,39.0666666667,Orlando Magic,Milwaukee Bucks,4,64-74,-11,free throw,False,15,True,True
+2006-12-03,39.0666666667,Orlando Magic,Milwaukee Bucks,4,65-74,-10,free throw,False,15,True,True
+2006-12-03,40.6333333333,Orlando Magic,Milwaukee Bucks,4,68-80,-14,two point jumper,False,15,False,True
+2006-12-03,41.1333333333,Orlando Magic,Milwaukee Bucks,4,70-82,-14,two point jumper,False,20,True,True
+2006-12-03,46.2833333333,Orlando Magic,Milwaukee Bucks,4,76-101,-27,two point jumper,False,12,False,True
+2006-12-03,47.7833333333,Orlando Magic,Milwaukee Bucks,4,78-104,-29,three point jumper,False,27,False,True
+2006-12-26,11.6833333333,Orlando Magic,Milwaukee Bucks,1,27-34,5,two point jumper,True,21,False,False
+2006-12-26,15.05,Orlando Magic,Milwaukee Bucks,2,35-37,-1,three point jumper,True,24,False,False
+2006-02-08,10.75,Orlando Magic,Milwaukee Bucks,1,17-10,5,two point jumper,False,15,False,False
+2006-02-08,12.8833333333,Orlando Magic,Milwaukee Bucks,2,25-17,5,three point jumper,False,27,True,False
+2006-02-08,18.8833333333,Orlando Magic,Milwaukee Bucks,2,31-34,-5,two point jumper,False,21,False,False
+2006-02-08,19.4833333333,Orlando Magic,Milwaukee Bucks,2,34-36,-5,three point jumper,False,27,True,False
+2006-02-08,33.0,Orlando Magic,Milwaukee Bucks,3,52-54,-4,two point jumper,False,18,False,False
+2006-02-08,34.8833333333,Orlando Magic,Milwaukee Bucks,3,58-57,0,free throw,False,15,True,False
+2006-02-08,34.8833333333,Orlando Magic,Milwaukee Bucks,3,58-57,0,free throw,False,15,False,False
+2006-02-08,37.0833333333,Orlando Magic,Milwaukee Bucks,4,61-64,-6,three point jumper,False,24,False,False
+2006-02-08,40.6,Orlando Magic,Milwaukee Bucks,4,67-67,-2,two point jumper,False,9,False,False
+2006-02-08,41.5,Orlando Magic,Milwaukee Bucks,4,70-70,-3,three point jumper,False,28,True,False
+2006-02-08,45.6,Orlando Magic,Milwaukee Bucks,4,75-76,-4,three point jumper,False,27,False,False
+2006-02-08,20.05,Orlando Magic,Milwaukee Bucks,6,85-83,0,two point jumper,False,18,False,False
+2006-02-08,21.9166666667,Orlando Magic,Milwaukee Bucks,6,86-88,-4,tip shot,False,0,False,False
+2006-02-08,23.9833333333,Orlando Magic,Milwaukee Bucks,6,89-92,-6,three point jumper,False,27,False,False
+2006-12-16,26.65,Orlando Magic,Dallas Mavericks,3,28-30,-4,two point jumper,False,17,True,False
+2006-12-16,16.2166666667,Orlando Magic,Dallas Mavericks,5,81-84,-5,two point jumper,False,1,True,False
+2006-11-08,14.3166666667,Orlando Magic,Houston Rockets,2,22-22,-2,two point jumper,False,16,False,True
+2006-11-08,18.2,Orlando Magic,Houston Rockets,2,25-28,-5,two point jumper,False,18,False,True
+2006-11-08,18.35,Orlando Magic,Houston Rockets,2,28-28,-3,three point jumper,False,25,True,True
+2006-02-26,10.75,Orlando Magic,Houston Rockets,1,20-15,-7,two point jumper,True,16,True,False
+2006-02-26,15.4666666667,Orlando Magic,Houston Rockets,2,28-23,-7,two point jumper,True,18,False,False
+2006-12-02,14.3833333333,Orlando Magic,Memphis Grizzlies,2,15-35,-22,two point jumper,False,18,False,False
+2006-12-02,17.4166666667,Orlando Magic,Memphis Grizzlies,2,17-37,-22,two point jumper,False,15,False,False
+2006-12-02,31.95,Orlando Magic,Memphis Grizzlies,3,42-61,-21,two point jumper,False,20,True,False
+2006-12-02,33.05,Orlando Magic,Memphis Grizzlies,3,44-61,-19,two point jumper,False,20,False,False
+2006-11-09,25.0,Orlando Magic,New Orleans Pelicans,3,25-16,7,two point jumper,False,12,True,True
+2006-11-09,27.3333333333,Orlando Magic,New Orleans Pelicans,3,29-20,6,three point jumper,False,26,False,True
+2006-11-09,28.3833333333,Orlando Magic,New Orleans Pelicans,3,30-24,5,free throw,False,15,True,True
+2006-11-09,28.3833333333,Orlando Magic,New Orleans Pelicans,3,30-24,5,free throw,False,15,False,True
+2006-11-09,28.3833333333,Orlando Magic,New Orleans Pelicans,3,31-24,6,free throw,False,15,True,True
+2006-11-09,11.7833333333,Orlando Magic,New Orleans Pelicans,5,68-57,9,two point jumper,False,18,True,True
+2006-11-19,19.1333333333,Orlando Magic,New Orleans Pelicans,2,38-35,-6,three point jumper,True,23,False,False
+2006-11-19,19.75,Orlando Magic,New Orleans Pelicans,2,38-35,-5,two point jumper,True,1,False,False
+2006-11-19,47.85,Orlando Magic,New Orleans Pelicans,4,97-87,-13,three point jumper,True,28,False,False
+2006-12-05,33.35,Orlando Magic,San Antonio Spurs,3,68-61,-9,tip shot,True,0,True,True
+2006-12-05,35.1666666667,Orlando Magic,San Antonio Spurs,3,75-61,-17,three point jumper,True,26,False,True
+2006-12-05,36.8833333333,Orlando Magic,San Antonio Spurs,4,77-67,-13,three point jumper,True,27,True,True
+2006-12-05,41.6666666667,Orlando Magic,San Antonio Spurs,4,87-73,-17,three point jumper,True,25,False,True
+2006-12-05,43.7833333333,Orlando Magic,San Antonio Spurs,4,95-77,-19,free throw,True,15,True,True
+2006-12-05,43.7833333333,Orlando Magic,San Antonio Spurs,4,95-78,-18,free throw,True,15,True,True
+2006-11-15,38.0166666667,Orlando Magic,Charlotte Bobcats,4,64-69,2,three point jumper,True,25,True,True
+2006-11-15,39.95,Orlando Magic,Charlotte Bobcats,4,68-71,0,three point jumper,True,26,False,True
+2006-01-20,10.7833333333,Orlando Magic,Charlotte Bobcats,1,25-19,4,two point jumper,False,19,True,False
+2006-01-20,11.3,Orlando Magic,Charlotte Bobcats,1,27-19,6,two point jumper,False,16,True,False
+2006-01-20,12.7,Orlando Magic,Charlotte Bobcats,2,29-21,6,two point jumper,False,17,True,False
+2006-01-20,23.5333333333,Orlando Magic,Charlotte Bobcats,2,55-42,10,three point jumper,False,24,True,False
+2006-11-26,23.25,Orlando Magic,Miami Heat,2,31-41,8,two point jumper,True,16,True,True
+2006-11-26,40.0333333333,Orlando Magic,Miami Heat,4,63-69,3,three point jumper,True,25,True,True
+2006-11-26,41.7,Orlando Magic,Miami Heat,4,63-69,3,three point jumper,True,25,False,True
+2006-02-14,13.4,Orlando Magic,Miami Heat,2,24-34,-13,three point jumper,False,23,False,True
+2006-02-14,20.4833333333,Orlando Magic,Miami Heat,2,45-51,-9,three point jumper,False,25,False,True
+2006-02-14,11.4833333333,Orlando Magic,Miami Heat,5,74-88,-17,three point jumper,False,24,False,True
+2006-02-14,18.0333333333,Orlando Magic,Miami Heat,5,85-100,-18,three point jumper,False,24,False,True
+2006-02-14,18.8333333333,Orlando Magic,Miami Heat,5,85-100,-18,three point jumper,False,23,False,True
+2006-02-15,19.4833333333,Orlando Magic,Miami Heat,2,42-36,-7,free throw,True,15,True,False
+2006-02-15,19.4833333333,Orlando Magic,Miami Heat,2,42-37,-6,free throw,True,15,True,False
+2006-02-15,37.3166666667,Orlando Magic,Miami Heat,4,85-59,-27,free throw,True,15,False,False
+2006-02-15,37.3166666667,Orlando Magic,Miami Heat,4,85-60,-26,free throw,True,15,True,False
+2006-02-15,39.2,Orlando Magic,Miami Heat,4,90-68,-25,three point jumper,True,25,True,False
+2006-11-23,14.9,Orlando Magic,Washington Wizards,2,20-28,7,free throw,True,15,True,True
+2006-11-23,14.9,Orlando Magic,Washington Wizards,2,20-29,8,free throw,True,15,True,True
+2006-11-23,24.0,Orlando Magic,Washington Wizards,2,31-44,11,two point jumper,True,13,False,True
+2006-11-23,43.4166666667,Orlando Magic,Washington Wizards,4,70-78,5,three point jumper,True,24,False,True
+2006-11-25,12.6333333333,Orlando Magic,Portland Trail Blazers,2,35-27,-10,two point jumper,True,16,False,False
+2006-11-25,19.95,Orlando Magic,Portland Trail Blazers,2,41-48,5,two point jumper,True,11,False,False
+2006-11-25,21.45,Orlando Magic,Portland Trail Blazers,2,45-51,3,three point jumper,True,25,False,False
+2006-12-10,8.16666666667,Orlando Magic,Denver Nuggets,1,19-17,-4,two point jumper,True,21,False,True
+2006-12-10,12.25,Orlando Magic,Denver Nuggets,2,21-27,3,three point jumper,True,29,False,True
+2006-12-10,14.45,Orlando Magic,Denver Nuggets,2,26-32,3,three point jumper,True,26,True,True
+2006-12-10,17.8833333333,Orlando Magic,Denver Nuggets,2,29-34,4,free throw,True,15,False,True
+2006-12-10,18.8166666667,Orlando Magic,Denver Nuggets,2,31-36,2,three point jumper,True,26,False,True
+2006-12-10,34.9,Orlando Magic,Denver Nuggets,3,57-71,11,three point jumper,True,25,False,True
+2006-12-10,36.7166666667,Orlando Magic,Denver Nuggets,4,57-74,14,three point jumper,True,26,True,True
+2006-12-10,37.9,Orlando Magic,Denver Nuggets,4,59-77,15,three point jumper,True,28,True,True
+2006-12-10,40.35,Orlando Magic,Denver Nuggets,4,63-77,11,three point jumper,True,27,False,True
+2006-01-11,17.0,Orlando Magic,Oklahoma City Thunder,2,34-41,-10,three point jumper,False,23,False,False
+2006-01-11,18.5333333333,Orlando Magic,Oklahoma City Thunder,2,36-42,-8,two point jumper,False,13,False,False
+2006-01-11,37.95,Orlando Magic,Oklahoma City Thunder,4,70-86,-18,two point jumper,False,20,True,False
+2006-01-11,44.8166666667,Orlando Magic,Oklahoma City Thunder,4,89-105,-18,two point jumper,False,20,True,False
+2006-01-11,47.2333333333,Orlando Magic,Oklahoma City Thunder,4,101-112,-14,three point jumper,False,26,True,False
+2006-01-18,10.6166666667,Orlando Magic,Washington Wizards,1,23-23,-3,three point jumper,True,25,True,False
+2006-01-18,16.7833333333,Orlando Magic,Washington Wizards,2,33-27,-9,three point jumper,True,25,False,False
+2006-01-18,22.2666666667,Orlando Magic,Washington Wizards,2,46-40,-8,two point jumper,True,12,False,False
+2006-01-18,22.75,Orlando Magic,Washington Wizards,2,48-42,-8,two point jumper,True,9,False,False
+2006-01-18,36.75,Orlando Magic,Washington Wizards,4,71-76,2,three point jumper,True,25,True,False
+2006-01-18,39.95,Orlando Magic,Washington Wizards,4,78-84,4,two point jumper,True,21,True,False
+2006-01-18,42.8166666667,Orlando Magic,Washington Wizards,4,83-90,4,three point jumper,True,25,False,False
+2006-02-06,14.2,Orlando Magic,Washington Wizards,2,19-29,-12,two point jumper,False,6,False,False
+2006-02-06,16.0,Orlando Magic,Washington Wizards,2,23-29,-9,three point jumper,False,26,False,False
+2006-02-06,19.5,Orlando Magic,Washington Wizards,2,30-40,-13,three point jumper,False,26,True,False
+2006-02-06,23.6166666667,Orlando Magic,Washington Wizards,2,39-50,-14,three point jumper,False,27,False,False
+2006-02-06,40.1333333333,Orlando Magic,Washington Wizards,4,67-79,-15,three point jumper,False,24,True,False
+2006-02-06,45.85,Orlando Magic,Washington Wizards,4,76-92,-17,free throw,False,15,True,False
+2006-02-06,45.85,Orlando Magic,Washington Wizards,4,77-92,-16,free throw,False,15,True,False
+2006-02-06,47.5666666667,Orlando Magic,Washington Wizards,4,82-94,-14,two point jumper,False,1,False,False
+2006-02-24,13.1833333333,Orlando Magic,Oklahoma City Thunder,2,19-29,7,three point jumper,True,26,False,False
+2006-02-24,14.0666666667,Orlando Magic,Oklahoma City Thunder,2,21-31,7,three point jumper,True,25,False,False
+2006-02-24,16.7333333333,Orlando Magic,Oklahoma City Thunder,2,32-37,3,two point jumper,True,18,True,False
+2006-02-24,18.5333333333,Orlando Magic,Oklahoma City Thunder,2,36-42,3,three point jumper,True,25,True,False
+2006-02-24,22.0,Orlando Magic,Oklahoma City Thunder,2,44-53,7,two point jumper,True,13,True,False
+2006-02-24,22.6166666667,Orlando Magic,Oklahoma City Thunder,2,46-53,5,two point jumper,True,15,False,False
+2006-02-24,12.95,Orlando Magic,Oklahoma City Thunder,5,78-82,1,three point jumper,True,25,False,False
+2006-02-24,16.4333333333,Orlando Magic,Oklahoma City Thunder,5,81-91,7,three point jumper,True,23,False,False
+2007-01-20,17.2,Orlando Magic,Brooklyn Nets,2,35-29,3,three point jumper,False,25,True,True
+2007-01-20,34.9666666667,Orlando Magic,Brooklyn Nets,3,68-65,0,three point jumper,False,25,True,True
+2007-01-20,40.95,Orlando Magic,Brooklyn Nets,4,74-79,-7,two point jumper,False,15,False,True
+2007-02-02,44.0666666667,Orlando Magic,Brooklyn Nets,4,78-112,32,two point jumper,True,21,True,False
+2007-02-02,46.6666666667,Orlando Magic,Brooklyn Nets,4,83-117,32,two point jumper,True,18,False,False
+2007-02-02,47.0,Orlando Magic,Brooklyn Nets,4,83-119,34,two point shot,True,1,True,False
+2007-11-03,11.45,Orlando Magic,Philadelphia 76ers,1,26-23,-6,three point jumper,True,26,False,False
+2007-11-03,24.0,Orlando Magic,Philadelphia 76ers,2,53-52,-4,three point jumper,True,26,False,False
+2007-11-03,34.6666666667,Orlando Magic,Philadelphia 76ers,3,74-74,-3,three point jumper,True,26,False,False
+2007-11-03,35.2,Orlando Magic,Philadelphia 76ers,3,77-75,-3,free throw,True,15,True,False
+2007-11-03,35.2,Orlando Magic,Philadelphia 76ers,3,77-76,-2,free throw,True,15,True,False
+2007-11-03,39.95,Orlando Magic,Philadelphia 76ers,4,86-86,-2,two point jumper,True,20,True,False
+2007-12-09,18.1,Orlando Magic,Philadelphia 76ers,2,36-43,4,three point jumper,True,26,False,True
+2007-02-07,19.8166666667,Orlando Magic,Toronto Raptors,2,40-40,-2,two point shot,False,5,False,False
+2007-12-03,40.0666666667,Orlando Magic,Los Angeles Clippers,4,79-96,-20,three point jumper,False,27,False,True
+2007-12-03,42.35,Orlando Magic,Los Angeles Clippers,4,81-100,-22,three point jumper,False,28,False,True
+2007-03-08,42.75,Orlando Magic,Chicago Bulls,4,88-63,-27,two point jumper,True,21,False,True
+2007-03-08,42.8833333333,Orlando Magic,Chicago Bulls,4,88-64,-25,free throw,True,15,True,True
+2007-03-08,42.8833333333,Orlando Magic,Chicago Bulls,4,88-64,-25,free throw,True,15,False,True
+2007-12-16,17.35,Orlando Magic,Cleveland Cavaliers,2,28-22,-9,three point jumper,True,24,False,True
+2007-12-23,10.75,Orlando Magic,Cleveland Cavaliers,1,25-16,7,two point jumper,False,19,True,False
+2007-12-23,15.7,Orlando Magic,Cleveland Cavaliers,2,33-27,4,two point jumper,False,19,True,False
+2007-12-23,16.45,Orlando Magic,Cleveland Cavaliers,2,33-27,4,two point shot,False,1,False,False
+2007-12-23,17.6,Orlando Magic,Cleveland Cavaliers,2,33-29,1,three point jumper,False,25,False,False
+2007-12-08,13.7,Orlando Magic,Detroit Pistons,2,21-27,3,three point jumper,True,25,True,False
+2007-12-08,16.2166666667,Orlando Magic,Detroit Pistons,2,21-29,5,three point jumper,True,25,False,False
+2007-02-21,46.65,Orlando Magic,Detroit Pistons,4,88-110,-24,layup,False,0,False,True
+2007-03-05,44.65,Orlando Magic,Milwaukee Bucks,4,68-95,25,two point jumper,True,17,True,True
+2007-03-05,45.3,Orlando Magic,Milwaukee Bucks,4,70-95,23,layup,True,0,False,True
+2007-03-11,47.7,Orlando Magic,Houston Rockets,4,92-103,-13,two point shot,False,18,True,True
+2007-04-07,37.4333333333,Orlando Magic,Memphis Grizzlies,4,65-97,30,two point jumper,True,16,False,False
+2007-04-07,40.0666666667,Orlando Magic,Memphis Grizzlies,4,73-100,26,free throw,True,15,True,False
+2007-04-07,40.0666666667,Orlando Magic,Memphis Grizzlies,4,73-101,27,free throw,True,15,True,False
+2007-04-07,44.4833333333,Orlando Magic,Memphis Grizzlies,4,84-110,24,two point jumper,True,18,False,False
+2007-04-07,46.7833333333,Orlando Magic,Memphis Grizzlies,4,86-114,25,three point jumper,True,27,False,False
+2007-01-16,12.7,Orlando Magic,New Orleans Pelicans,2,19-20,-3,hook shot,False,4,False,False
+2007-03-02,47.6833333333,Orlando Magic,San Antonio Spurs,4,74-98,-26,two point jumper,False,11,False,False
+2007-11-05,36.7666666667,Orlando Magic,Atlanta Hawks,4,60-66,-9,three point jumper,False,27,False,False
+2007-11-05,40.0666666667,Orlando Magic,Atlanta Hawks,4,69-74,-7,two point jumper,False,17,False,False
+2007-11-05,42.2833333333,Orlando Magic,Atlanta Hawks,4,73-79,-9,three point jumper,False,26,False,False
+2007-11-18,18.35,Orlando Magic,Charlotte Bobcats,2,30-39,6,three point jumper,True,25,False,True
+2007-11-18,18.45,Orlando Magic,Charlotte Bobcats,2,30-42,9,three point jumper,True,26,True,True
+2007-12-14,16.9833333333,Orlando Magic,Charlotte Bobcats,2,25-30,-7,two point jumper,False,1,False,False
+2007-12-14,18.2833333333,Orlando Magic,Charlotte Bobcats,2,27-33,-8,two point jumper,False,1,False,False
+2007-12-14,43.7,Orlando Magic,Charlotte Bobcats,4,81-92,-14,three point jumper,False,25,True,False
+2007-12-14,47.0333333333,Orlando Magic,Charlotte Bobcats,4,89-99,-13,three point jumper,False,26,False,False
+2007-01-05,35.95,Orlando Magic,Charlotte Bobcats,3,60-73,11,two point jumper,True,21,False,False
+2007-01-05,41.5333333333,Orlando Magic,Charlotte Bobcats,4,68-85,14,three point jumper,True,25,True,False
+2007-01-05,44.5333333333,Orlando Magic,Charlotte Bobcats,4,69-96,24,three point jumper,True,25,True,False
+2007-03-12,37.65,Orlando Magic,Charlotte Bobcats,4,79-100,-23,two point shot,False,14,False,False
+2007-03-12,37.75,Orlando Magic,Charlotte Bobcats,4,80-100,-21,free throw,False,15,True,False
+2007-03-12,41.95,Orlando Magic,Charlotte Bobcats,4,93-104,-14,three point jumper,False,25,True,False
+2007-03-12,43.3166666667,Orlando Magic,Charlotte Bobcats,4,94-106,-15,three point jumper,False,25,False,False
+2007-12-30,41.4166666667,Orlando Magic,Miami Heat,4,59-80,19,two point jumper,True,18,False,True
+2007-12-30,46.25,Orlando Magic,Miami Heat,4,66-91,23,two point jumper,True,1,True,True
+2007-12-30,47.5666666667,Orlando Magic,Miami Heat,4,68-96,27,free throw,True,15,True,True
+2007-12-30,47.5666666667,Orlando Magic,Miami Heat,4,68-97,28,free throw,True,15,True,True
+2007-04-18,15.9333333333,Orlando Magic,Miami Heat,2,27-26,-4,three point jumper,True,25,False,True
+2007-04-18,44.5,Orlando Magic,Miami Heat,4,64-87,21,layup,True,0,True,True
+2007-11-08,18.8166666667,Orlando Magic,Oklahoma City Thunder,2,33-35,-1,three point jumper,True,25,False,True
+2007-11-08,20.0333333333,Orlando Magic,Oklahoma City Thunder,2,38-35,-5,two point jumper,True,20,False,True
+2007-11-08,21.8666666667,Orlando Magic,Oklahoma City Thunder,2,42-39,-5,layup,True,0,False,True
+2007-11-08,21.9333333333,Orlando Magic,Oklahoma City Thunder,2,42-41,-3,hook shot,True,5,True,True
+2007-11-11,12.8,Orlando Magic,Minnesota Timberwolves,2,31-20,9,two point shot,False,9,True,False
+2007-11-11,15.4333333333,Orlando Magic,Minnesota Timberwolves,2,38-24,13,free throw,False,15,True,False
+2007-11-11,15.4333333333,Orlando Magic,Minnesota Timberwolves,2,39-24,14,free throw,False,15,True,False
+2007-11-11,38.95,Orlando Magic,Minnesota Timberwolves,4,87-75,9,three point jumper,False,25,True,False
+2007-11-11,39.6333333333,Orlando Magic,Minnesota Timberwolves,4,87-76,8,three point jumper,False,24,False,False
+2007-11-11,43.85,Orlando Magic,Minnesota Timberwolves,4,96-83,12,free throw,False,15,True,False
+2007-11-11,43.85,Orlando Magic,Minnesota Timberwolves,4,96-83,12,free throw,False,15,False,False
+2007-11-11,43.85,Orlando Magic,Minnesota Timberwolves,4,97-83,13,free throw,False,15,True,False
+2007-11-11,46.3,Orlando Magic,Minnesota Timberwolves,4,100-90,9,free throw,False,15,True,False
+2007-11-11,46.3,Orlando Magic,Minnesota Timberwolves,4,101-90,10,free throw,False,15,True,False
+2007-11-11,46.7833333333,Orlando Magic,Minnesota Timberwolves,4,102-94,5,three point jumper,False,26,False,False
+2007-02-14,15.9666666667,Orlando Magic,Portland Trail Blazers,2,29-30,-1,two point jumper,True,16,False,False
+2007-02-14,18.0,Orlando Magic,Portland Trail Blazers,2,33-32,-4,three point jumper,True,26,False,False
+2007-02-14,47.05,Orlando Magic,Portland Trail Blazers,4,87-101,12,two point jumper,True,20,False,False
+2007-02-14,47.65,Orlando Magic,Portland Trail Blazers,4,89-102,12,free throw,True,15,True,False
+2007-02-14,47.65,Orlando Magic,Portland Trail Blazers,4,89-103,13,free throw,True,15,True,False
+2007-02-28,17.45,Orlando Magic,Denver Nuggets,2,30-30,-2,two point jumper,False,20,False,False
+2007-02-28,21.0,Orlando Magic,Denver Nuggets,2,40-39,-2,three point jumper,False,26,False,False
+2007-02-28,23.3,Orlando Magic,Denver Nuggets,2,44-46,-4,two point jumper,False,16,False,False
+2007-02-28,43.95,Orlando Magic,Denver Nuggets,4,91-101,-13,three point jumper,False,26,True,False
+2007-02-28,45.7,Orlando Magic,Denver Nuggets,4,96-101,-8,three point jumper,False,27,True,False
+2008-11-16,9.95,Orlando Magic,Brooklyn Nets,1,22-10,10,two point jumper,False,18,True,True
+2008-11-16,11.1833333333,Orlando Magic,Brooklyn Nets,1,22-10,10,two point jumper,False,8,False,True
+2008-11-16,12.3166666667,Orlando Magic,Brooklyn Nets,2,25-10,12,three point jumper,False,25,False,True
+2008-11-16,13.1166666667,Orlando Magic,Brooklyn Nets,2,27-12,13,two point jumper,False,13,True,True
+2008-11-16,36.8166666667,Orlando Magic,Brooklyn Nets,4,69-60,7,two point jumper,False,18,False,True
+2008-11-09,19.2833333333,Orlando Magic,New York Knicks,2,40-41,-4,three point jumper,False,25,False,True
+2008-11-09,21.7833333333,Orlando Magic,New York Knicks,2,42-45,-6,three point jumper,False,26,False,True
+2008-11-09,23.4,Orlando Magic,New York Knicks,2,46-47,-4,three point jumper,False,24,True,True
+2008-11-09,33.3166666667,Orlando Magic,New York Knicks,3,68-69,-4,three point jumper,False,25,False,True
+2008-11-09,37.55,Orlando Magic,New York Knicks,4,80-76,1,three point jumper,False,25,False,True
+2008-03-01,46.35,Orlando Magic,New York Knicks,4,86-114,26,two point jumper,True,1,True,False
+2008-04-06,10.0333333333,Orlando Magic,New York Knicks,1,12-22,-12,two point jumper,False,19,True,True
+2008-04-06,10.8,Orlando Magic,New York Knicks,1,12-24,-14,two point jumper,False,16,False,True
+2008-04-06,16.1666666667,Orlando Magic,New York Knicks,2,26-28,-4,layup,False,0,True,True
+2008-04-06,28.45,Orlando Magic,New York Knicks,3,50-53,-6,three point jumper,False,25,False,True
+2008-04-06,29.45,Orlando Magic,New York Knicks,3,50-53,-6,three point jumper,False,24,False,True
+2008-04-06,32.2833333333,Orlando Magic,New York Knicks,3,56-58,-5,three point jumper,False,25,False,True
+2008-04-06,33.7333333333,Orlando Magic,New York Knicks,3,59-63,-7,three point jumper,False,25,False,True
+2008-04-06,34.9333333333,Orlando Magic,New York Knicks,3,59-65,-8,hook shot,False,7,False,True
+2008-03-21,43.0333333333,Orlando Magic,Philadelphia 76ers,4,77-106,27,two point jumper,True,5,True,False
+2008-11-07,10.9166666667,Orlando Magic,Toronto Raptors,1,29-20,6,three point jumper,False,24,True,False
+2008-11-07,11.4666666667,Orlando Magic,Toronto Raptors,1,29-20,6,three point jumper,False,25,False,False
+2008-03-12,46.35,Orlando Magic,Los Angeles Clippers,4,86-110,22,two point jumper,True,18,True,False
+2008-11-10,10.0333333333,Orlando Magic,Phoenix Suns,1,31-23,-10,two point jumper,True,15,False,True
+2008-11-10,12.25,Orlando Magic,Phoenix Suns,2,34-27,-10,three point jumper,True,25,False,True
+2008-11-10,14.95,Orlando Magic,Phoenix Suns,2,43-33,-12,two point jumper,True,19,False,True
+2008-04-09,47.3833333333,Orlando Magic,Chicago Bulls,4,83-115,29,three point jumper,True,25,False,False
+2008-04-13,46.5166666667,Orlando Magic,Chicago Bulls,4,102-80,20,two point jumper,False,21,False,False
+2008-04-13,47.0166666667,Orlando Magic,Chicago Bulls,4,104-80,22,two point jumper,False,20,True,False
+2008-03-17,15.8833333333,Orlando Magic,Cleveland Cavaliers,2,23-29,3,three point jumper,True,25,True,False
+2008-03-17,20.05,Orlando Magic,Cleveland Cavaliers,2,33-36,1,two point jumper,True,21,True,False
+2008-03-17,22.3,Orlando Magic,Cleveland Cavaliers,2,39-38,-4,three point jumper,True,25,False,False
+2008-04-05,8.73333333333,Orlando Magic,Cleveland Cavaliers,1,19-19,-3,three point jumper,False,25,False,False
+2008-04-05,8.98333333333,Orlando Magic,Cleveland Cavaliers,1,22-19,0,three point jumper,False,25,True,False
+2008-04-05,12.0,Orlando Magic,Cleveland Cavaliers,1,30-26,1,three point jumper,False,23,True,False
+2008-04-05,12.7,Orlando Magic,Cleveland Cavaliers,2,30-26,1,three point jumper,False,26,False,False
+2008-04-05,14.7,Orlando Magic,Cleveland Cavaliers,2,36-31,3,two point jumper,False,16,True,False
+2008-04-05,20.2166666667,Orlando Magic,Cleveland Cavaliers,2,41-44,-5,two point jumper,False,20,True,False
+2008-04-05,32.35,Orlando Magic,Cleveland Cavaliers,3,62-66,-7,three point jumper,False,24,True,False
+2008-04-05,36.2666666667,Orlando Magic,Cleveland Cavaliers,4,69-72,-6,three point jumper,False,25,False,False
+2008-11-02,14.5666666667,Orlando Magic,Detroit Pistons,2,34-34,-2,two point jumper,True,1,False,True
+2008-11-02,37.9666666667,Orlando Magic,Detroit Pistons,4,94-80,-16,two point jumper,True,22,False,True
+2008-02-19,46.9333333333,Orlando Magic,Detroit Pistons,4,103-79,21,three point jumper,False,27,False,False
+2008-10-31,9.21666666667,Orlando Magic,Milwaukee Bucks,1,18-21,1,two point jumper,True,22,True,False
+2008-10-31,11.45,Orlando Magic,Milwaukee Bucks,1,22-23,-2,three point jumper,True,23,False,False
+2008-10-31,22.65,Orlando Magic,Milwaukee Bucks,2,44-48,1,three point jumper,True,23,False,False
+2008-10-31,43.9833333333,Orlando Magic,Milwaukee Bucks,4,74-97,21,two point jumper,True,20,False,False
+2008-03-28,46.6833333333,Orlando Magic,Milwaukee Bucks,4,101-82,17,two point jumper,False,11,False,False
+2008-12-19,11.1166666667,Orlando Magic,Houston Rockets,1,13-22,-11,two point jumper,False,17,True,True
+2008-12-19,24.0,Orlando Magic,Houston Rockets,2,44-40,1,three point jumper,False,25,False,True
+2008-12-19,34.35,Orlando Magic,Houston Rockets,3,68-57,9,two point jumper,False,18,False,True
+2008-04-01,8.15,Orlando Magic,New Orleans Pelicans,1,10-18,5,three point jumper,True,25,False,False
+2008-04-01,11.6,Orlando Magic,New Orleans Pelicans,1,19-27,6,two point jumper,True,22,False,False
+2008-04-01,14.4333333333,Orlando Magic,New Orleans Pelicans,2,25-33,6,hook shot,True,1,True,False
+2008-04-01,26.5,Orlando Magic,New Orleans Pelicans,3,49-59,7,three point jumper,True,24,False,False
+2008-04-15,39.4,Orlando Magic,Atlanta Hawks,4,94-86,6,two point shot,False,7,False,True
+2008-04-15,39.45,Orlando Magic,Atlanta Hawks,4,95-86,8,free throw,False,15,True,True
+2008-04-15,39.45,Orlando Magic,Atlanta Hawks,4,96-86,9,free throw,False,15,True,True
+2008-04-15,43.1,Orlando Magic,Atlanta Hawks,4,104-95,7,two point jumper,False,1,False,True
+2008-04-15,46.2333333333,Orlando Magic,Atlanta Hawks,4,116-97,18,free throw,False,15,True,True
+2008-11-03,9.95,Orlando Magic,Washington Wizards,1,17-13,1,three point jumper,False,24,False,True
+2008-11-06,7.75,Orlando Magic,Minnesota Timberwolves,1,20-19,-1,layup,False,0,True,True
+2008-11-06,10.05,Orlando Magic,Minnesota Timberwolves,1,24-21,1,two point jumper,False,18,True,True
+2008-11-06,21.65,Orlando Magic,Minnesota Timberwolves,2,51-45,3,three point jumper,False,22,False,True
+2008-11-06,35.9166666667,Orlando Magic,Minnesota Timberwolves,3,88-74,11,three point jumper,False,24,True,True
+2008-11-06,36.8,Orlando Magic,Minnesota Timberwolves,4,90-76,12,two point shot,False,11,True,True
+2008-11-06,37.0833333333,Orlando Magic,Minnesota Timberwolves,4,90-76,12,two point jumper,False,17,False,True
+2008-11-13,35.9666666667,Orlando Magic,Oklahoma City Thunder,3,56-85,26,three point jumper,True,26,False,False
+2008-11-13,37.5166666667,Orlando Magic,Oklahoma City Thunder,4,58-87,27,layup,True,0,True,False
+2008-11-13,39.8833333333,Orlando Magic,Oklahoma City Thunder,4,60-93,30,three point jumper,True,25,False,False
+2008-12-21,19.75,Orlando Magic,Utah Jazz,2,42-43,-1,two point jumper,True,1,False,True
+2008-03-05,44.1,Orlando Magic,Washington Wizards,4,112-84,26,two point jumper,False,20,False,False
+2008-03-05,44.7666666667,Orlando Magic,Washington Wizards,4,115-86,26,three point jumper,False,24,True,False
+2008-03-05,45.1666666667,Orlando Magic,Washington Wizards,4,116-86,29,free throw,False,15,True,False
+2008-03-05,45.1666666667,Orlando Magic,Washington Wizards,4,116-86,29,free throw,False,15,False,False
+2008-03-05,47.3,Orlando Magic,Washington Wizards,4,120-90,27,three point jumper,False,26,False,False
+2008-03-19,38.0,Orlando Magic,Washington Wizards,4,69-67,-4,two point jumper,True,18,False,False
+2008-04-16,13.9333333333,Orlando Magic,Washington Wizards,2,21-27,4,layup,True,0,False,False
+2008-04-16,22.5,Orlando Magic,Washington Wizards,2,37-44,5,two point jumper,True,18,False,False
+2008-04-16,24.6333333333,Orlando Magic,Washington Wizards,3,41-47,3,three point jumper,True,27,False,False
+2008-04-16,25.8,Orlando Magic,Washington Wizards,3,46-49,1,layup,True,0,True,False
+2008-04-16,28.7833333333,Orlando Magic,Washington Wizards,3,51-53,-1,three point jumper,True,24,False,False

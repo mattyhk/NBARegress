@@ -1,0 +1,592 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2008-11-10,37.0166666667,Brooklyn Nets,Boston Celtics,4,90-68,-23,free throw,True,15,True,False
+2008-11-10,37.0166666667,Brooklyn Nets,Boston Celtics,4,90-69,-22,free throw,True,15,True,False
+2008-11-10,40.0,Brooklyn Nets,Boston Celtics,4,92-76,-18,layup,True,0,True,False
+2008-11-10,40.5333333333,Brooklyn Nets,Boston Celtics,4,92-78,-16,two point shot,True,1,True,False
+2008-11-10,43.6,Brooklyn Nets,Boston Celtics,4,98-83,-17,layup,True,0,False,False
+2008-11-10,44.3,Brooklyn Nets,Boston Celtics,4,98-87,-13,two point jumper,True,9,True,False
+2008-11-10,46.3333333333,Brooklyn Nets,Boston Celtics,4,105-97,-10,two point shot,True,1,True,False
+2008-11-14,7.91666666667,Brooklyn Nets,Boston Celtics,1,16-10,4,dunk,False,0,True,False
+2008-11-14,9.33333333333,Brooklyn Nets,Boston Celtics,1,19-12,5,layup,False,0,True,False
+2008-11-14,9.81666666667,Brooklyn Nets,Boston Celtics,1,19-13,5,free throw,False,15,False,False
+2008-11-14,9.81666666667,Brooklyn Nets,Boston Celtics,1,19-13,5,free throw,False,15,False,False
+2008-11-14,28.85,Brooklyn Nets,Boston Celtics,3,41-50,-10,free throw,False,15,False,False
+2008-11-14,28.85,Brooklyn Nets,Boston Celtics,3,42-50,-9,free throw,False,15,True,False
+2008-11-14,34.25,Brooklyn Nets,Boston Celtics,3,54-58,-6,layup,False,0,True,False
+2008-11-14,38.05,Brooklyn Nets,Boston Celtics,4,56-68,-14,dunk,False,0,True,False
+2008-11-14,38.75,Brooklyn Nets,Boston Celtics,4,56-68,-14,two point shot,False,9,False,False
+2008-11-14,41.0666666667,Brooklyn Nets,Boston Celtics,4,58-74,-18,tip shot,False,0,False,False
+2008-11-14,45.8166666667,Brooklyn Nets,Boston Celtics,4,66-87,-23,layup,False,0,True,False
+2008-11-14,47.0166666667,Brooklyn Nets,Boston Celtics,4,66-89,-24,free throw,False,15,False,False
+2008-11-14,47.0166666667,Brooklyn Nets,Boston Celtics,4,67-89,-23,free throw,False,15,True,False
+2008-11-14,47.8666666667,Brooklyn Nets,Boston Celtics,4,68-91,-24,free throw,False,15,True,False
+2008-11-14,47.8666666667,Brooklyn Nets,Boston Celtics,4,69-91,-23,free throw,False,15,True,False
+2008-01-11,4.28333333333,Brooklyn Nets,Boston Celtics,1,5-11,4,dunk,True,0,True,False
+2008-01-11,7.16666666667,Brooklyn Nets,Boston Celtics,1,13-16,1,two point shot,True,11,False,False
+2008-04-16,18.5666666667,Brooklyn Nets,Boston Celtics,2,36-39,-5,tip shot,False,0,False,True
+2008-04-16,39.8166666667,Brooklyn Nets,Boston Celtics,4,79-85,-8,layup,False,0,False,True
+2008-04-16,41.6333333333,Brooklyn Nets,Boston Celtics,4,82-89,-8,free throw,False,15,True,True
+2008-04-16,41.6333333333,Brooklyn Nets,Boston Celtics,4,82-89,-8,free throw,False,15,False,True
+2008-04-16,43.1666666667,Brooklyn Nets,Boston Celtics,4,84-93,-10,free throw,False,15,False,True
+2008-04-16,43.1666666667,Brooklyn Nets,Boston Celtics,4,85-93,-9,free throw,False,15,True,True
+2008-11-02,34.0166666667,Brooklyn Nets,Toronto Raptors,3,77-53,-26,layup,True,0,True,True
+2008-11-02,41.75,Brooklyn Nets,Toronto Raptors,4,98-61,-39,two point jumper,True,10,True,True
+2008-11-02,47.8,Brooklyn Nets,Toronto Raptors,4,106-69,-39,hook shot,True,1,False,True
+2008-11-08,12.8,Brooklyn Nets,Washington Wizards,2,28-17,-13,layup,True,0,True,True
+2008-11-12,15.95,Brooklyn Nets,New Orleans Pelicans,2,33-25,-10,two point shot,True,1,False,False
+2008-11-12,37.8166666667,Brooklyn Nets,New Orleans Pelicans,4,65-68,2,free throw,True,15,True,False
+2008-11-12,37.8166666667,Brooklyn Nets,New Orleans Pelicans,4,65-69,3,free throw,True,15,True,False
+2008-11-12,38.6833333333,Brooklyn Nets,New Orleans Pelicans,4,65-69,2,layup,True,0,False,False
+2008-11-12,41.9833333333,Brooklyn Nets,New Orleans Pelicans,4,68-75,5,dunk,True,0,True,False
+2008-11-12,42.4833333333,Brooklyn Nets,New Orleans Pelicans,4,68-75,6,free throw,True,15,False,False
+2008-11-12,42.4833333333,Brooklyn Nets,New Orleans Pelicans,4,68-76,7,free throw,True,15,True,False
+2008-11-12,42.7833333333,Brooklyn Nets,New Orleans Pelicans,4,68-76,7,free throw,True,15,False,False
+2008-11-12,42.7833333333,Brooklyn Nets,New Orleans Pelicans,4,68-77,8,free throw,True,15,True,False
+2008-11-16,30.6333333333,Brooklyn Nets,Orlando Magic,3,56-49,-9,two point shot,True,1,False,False
+2008-11-16,34.05,Brooklyn Nets,Orlando Magic,3,67-57,-12,two point shot,True,5,True,False
+2008-11-16,44.2,Brooklyn Nets,Orlando Magic,4,86-64,-23,free throw,True,15,True,False
+2008-11-16,44.2,Brooklyn Nets,Orlando Magic,4,86-65,-22,free throw,True,15,True,False
+2008-11-16,45.5666666667,Brooklyn Nets,Orlando Magic,4,86-67,-21,two point jumper,True,5,True,False
+2008-11-16,45.5666666667,Brooklyn Nets,Orlando Magic,4,86-68,-19,free throw,True,15,True,False
+2008-11-16,46.8833333333,Brooklyn Nets,Orlando Magic,4,89-70,-21,two point shot,True,8,True,False
+2008-11-17,4.95,Brooklyn Nets,Miami Heat,1,6-14,6,two point shot,True,1,True,False
+2008-11-17,5.6,Brooklyn Nets,Miami Heat,1,8-16,6,two point shot,True,1,True,False
+2008-11-17,6.1,Brooklyn Nets,Miami Heat,1,10-17,6,free throw,True,15,True,False
+2008-11-17,6.1,Brooklyn Nets,Miami Heat,1,10-18,7,free throw,True,15,True,False
+2008-11-17,8.36666666667,Brooklyn Nets,Miami Heat,1,12-20,6,two point jumper,True,8,False,False
+2008-11-17,9.26666666667,Brooklyn Nets,Miami Heat,1,12-20,6,tip shot,True,0,False,False
+2008-11-17,10.15,Brooklyn Nets,Miami Heat,1,14-23,8,free throw,True,15,True,False
+2008-11-17,10.15,Brooklyn Nets,Miami Heat,1,14-23,8,free throw,True,15,False,False
+2008-11-17,17.9833333333,Brooklyn Nets,Miami Heat,2,27-29,0,dunk,True,0,True,False
+2008-11-17,23.2333333333,Brooklyn Nets,Miami Heat,2,41-35,-8,two point jumper,True,11,False,False
+2008-11-17,26.45,Brooklyn Nets,Miami Heat,3,49-39,-12,two point jumper,True,17,True,False
+2008-11-17,29.4833333333,Brooklyn Nets,Miami Heat,3,52-47,-7,dunk,True,0,True,False
+2008-11-17,32.9833333333,Brooklyn Nets,Miami Heat,3,56-53,-5,two point shot,True,1,False,False
+2008-11-17,42.95,Brooklyn Nets,Miami Heat,4,80-72,-9,free throw,True,15,True,False
+2008-11-17,42.95,Brooklyn Nets,Miami Heat,4,80-73,-8,free throw,True,15,True,False
+2008-11-17,43.35,Brooklyn Nets,Miami Heat,4,80-74,-7,free throw,True,15,True,False
+2008-11-17,43.35,Brooklyn Nets,Miami Heat,4,80-74,-7,free throw,True,15,False,False
+2008-11-17,43.5,Brooklyn Nets,Miami Heat,4,80-76,-6,two point shot,True,1,True,False
+2008-11-17,44.0833333333,Brooklyn Nets,Miami Heat,4,83-77,-7,free throw,True,15,True,False
+2008-11-17,44.0833333333,Brooklyn Nets,Miami Heat,4,83-78,-6,free throw,True,15,True,False
+2008-11-17,47.8166666667,Brooklyn Nets,Miami Heat,4,89-87,-4,two point shot,True,1,True,False
+2008-11-19,4.13333333333,Brooklyn Nets,Utah Jazz,1,5-8,-4,free throw,False,15,True,True
+2008-11-19,4.13333333333,Brooklyn Nets,Utah Jazz,1,6-8,-3,free throw,False,15,True,True
+2008-11-19,4.7,Brooklyn Nets,Utah Jazz,1,8-10,-4,layup,False,0,True,True
+2008-11-19,17.4833333333,Brooklyn Nets,Utah Jazz,2,28-41,-15,two point shot,False,1,True,True
+2008-11-19,22.6833333333,Brooklyn Nets,Utah Jazz,2,39-47,-9,free throw,False,15,False,True
+2008-11-19,22.6833333333,Brooklyn Nets,Utah Jazz,2,39-47,-9,free throw,False,15,False,True
+2008-11-19,24.3,Brooklyn Nets,Utah Jazz,3,41-51,-12,two point jumper,False,13,False,True
+2008-11-19,30.3833333333,Brooklyn Nets,Utah Jazz,3,52-70,-20,tip shot,False,0,True,True
+2008-11-19,30.3833333333,Brooklyn Nets,Utah Jazz,3,52-73,-23,two point jumper,False,4,False,True
+2008-11-19,45.0666666667,Brooklyn Nets,Utah Jazz,4,70-97,-28,free throw,False,15,True,True
+2008-11-19,45.0666666667,Brooklyn Nets,Utah Jazz,4,71-97,-27,free throw,False,15,True,True
+2008-11-21,13.6166666667,Brooklyn Nets,Portland Trail Blazers,2,20-29,-10,free throw,False,15,True,True
+2008-11-21,13.6166666667,Brooklyn Nets,Portland Trail Blazers,2,20-29,-10,free throw,False,15,False,True
+2008-11-21,14.0,Brooklyn Nets,Portland Trail Blazers,2,22-31,-11,two point shot,False,1,True,True
+2008-11-23,10.85,Brooklyn Nets,Oklahoma City Thunder,1,27-20,5,two point shot,False,13,True,True
+2008-11-23,11.3,Brooklyn Nets,Oklahoma City Thunder,1,28-20,7,free throw,False,15,True,True
+2008-11-23,11.3,Brooklyn Nets,Oklahoma City Thunder,1,28-20,7,free throw,False,15,False,True
+2008-11-23,14.3333333333,Brooklyn Nets,Oklahoma City Thunder,2,30-27,1,two point shot,False,8,False,True
+2008-11-23,29.9166666667,Brooklyn Nets,Oklahoma City Thunder,3,66-53,11,two point shot,False,7,True,True
+2008-11-23,29.9166666667,Brooklyn Nets,Oklahoma City Thunder,3,66-53,12,free throw,False,15,False,True
+2008-11-23,30.5,Brooklyn Nets,Oklahoma City Thunder,3,66-53,11,two point jumper,False,13,False,True
+2008-11-23,32.4833333333,Brooklyn Nets,Oklahoma City Thunder,3,70-61,7,dunk,False,0,True,True
+2008-11-25,21.5166666667,Brooklyn Nets,Los Angeles Lakers,2,35-47,-14,layup,False,0,False,True
+2008-11-25,30.4833333333,Brooklyn Nets,Los Angeles Lakers,3,55-61,-8,two point shot,False,5,True,True
+2008-11-25,35.4166666667,Brooklyn Nets,Los Angeles Lakers,3,69-70,-3,dunk,False,0,True,True
+2008-11-25,36.8,Brooklyn Nets,Los Angeles Lakers,4,76-74,0,dunk,False,0,True,True
+2008-11-27,11.2166666667,Brooklyn Nets,Memphis Grizzlies,1,26-23,-4,free throw,True,15,True,False
+2008-11-27,11.2166666667,Brooklyn Nets,Memphis Grizzlies,1,26-23,-4,free throw,True,15,False,False
+2008-11-27,11.5,Brooklyn Nets,Memphis Grizzlies,1,28-24,-5,free throw,True,15,True,False
+2008-11-27,11.5,Brooklyn Nets,Memphis Grizzlies,1,28-25,-4,free throw,True,15,True,False
+2008-11-27,12.45,Brooklyn Nets,Memphis Grizzlies,2,31-27,-6,layup,True,0,True,False
+2008-11-27,12.45,Brooklyn Nets,Memphis Grizzlies,2,31-27,-5,free throw,True,15,False,False
+2008-11-27,23.8166666667,Brooklyn Nets,Memphis Grizzlies,2,56-45,-13,two point shot,True,1,True,False
+2008-12-01,16.35,Brooklyn Nets,Philadelphia 76ers,2,32-26,-8,dunk,True,0,True,True
+2008-12-01,32.0666666667,Brooklyn Nets,Philadelphia 76ers,3,58-49,-11,layup,True,0,False,True
+2008-12-01,33.9333333333,Brooklyn Nets,Philadelphia 76ers,3,61-55,-8,two point shot,True,1,True,True
+2008-12-01,41.75,Brooklyn Nets,Philadelphia 76ers,4,73-68,-7,hook shot,True,1,False,True
+2008-12-02,9.53333333333,Brooklyn Nets,Detroit Pistons,1,25-20,3,layup,False,0,True,True
+2008-12-02,11.9166666667,Brooklyn Nets,Detroit Pistons,1,27-27,-2,tip shot,False,0,False,True
+2008-12-02,35.6333333333,Brooklyn Nets,Detroit Pistons,3,67-85,-20,two point shot,False,8,False,True
+2008-12-02,36.5166666667,Brooklyn Nets,Detroit Pistons,4,68-89,-22,free throw,False,15,True,True
+2008-12-02,36.5166666667,Brooklyn Nets,Detroit Pistons,4,69-89,-21,free throw,False,15,True,True
+2008-12-02,46.3666666667,Brooklyn Nets,Detroit Pistons,4,89-113,-25,free throw,False,15,True,True
+2008-12-02,46.3666666667,Brooklyn Nets,Detroit Pistons,4,90-113,-24,free throw,False,15,True,True
+2008-12-02,47.5333333333,Brooklyn Nets,Detroit Pistons,4,95-115,-22,two point shot,False,16,False,True
+2008-12-04,11.1333333333,Brooklyn Nets,Cleveland Cavaliers,1,19-20,-3,tip shot,False,0,False,False
+2008-12-04,37.25,Brooklyn Nets,Cleveland Cavaliers,4,75-61,13,free throw,False,15,False,False
+2008-12-04,37.25,Brooklyn Nets,Cleveland Cavaliers,4,75-61,13,free throw,False,15,False,False
+2008-12-05,23.0,Brooklyn Nets,New York Knicks,2,47-39,-9,free throw,True,15,True,True
+2008-12-05,23.0,Brooklyn Nets,New York Knicks,2,47-40,-8,free throw,True,15,True,True
+2008-12-07,11.9833333333,Brooklyn Nets,Houston Rockets,1,28-18,-12,two point jumper,True,13,True,False
+2008-12-14,9.66666666667,Brooklyn Nets,Cleveland Cavaliers,1,20-18,-4,two point shot,True,1,True,False
+2008-12-14,14.2166666667,Brooklyn Nets,Cleveland Cavaliers,2,27-28,-1,layup,True,0,True,False
+2008-12-14,14.2166666667,Brooklyn Nets,Cleveland Cavaliers,2,27-29,1,free throw,True,15,True,False
+2008-12-14,14.6333333333,Brooklyn Nets,Cleveland Cavaliers,2,27-31,2,two point shot,True,1,True,False
+2008-12-14,24.3166666667,Brooklyn Nets,Cleveland Cavaliers,3,57-52,-7,two point jumper,True,1,True,False
+2008-12-14,28.8166666667,Brooklyn Nets,Cleveland Cavaliers,3,65-63,-4,hook shot,True,6,False,False
+2008-12-14,32.15,Brooklyn Nets,Cleveland Cavaliers,3,73-70,-5,layup,True,0,False,False
+2008-12-15,8.45,Brooklyn Nets,New York Knicks,1,14-12,0,two point jumper,False,18,False,False
+2008-12-15,10.8333333333,Brooklyn Nets,New York Knicks,1,19-18,-1,layup,False,0,True,False
+2008-12-15,11.55,Brooklyn Nets,New York Knicks,1,24-18,4,layup,False,0,True,False
+2008-12-15,13.0833333333,Brooklyn Nets,New York Knicks,2,26-20,4,two point shot,False,12,True,False
+2008-12-15,39.0166666667,Brooklyn Nets,New York Knicks,4,66-72,-8,two point jumper,False,14,False,False
+2008-12-15,42.2833333333,Brooklyn Nets,New York Knicks,4,72-78,-8,two point jumper,False,10,True,False
+2008-12-18,0.266666666667,Brooklyn Nets,Sacramento Kings,1,0-2,0,dunk,True,0,True,False
+2008-12-18,5.28333333333,Brooklyn Nets,Sacramento Kings,1,12-15,1,two point jumper,True,9,True,False
+2008-12-18,9.26666666667,Brooklyn Nets,Sacramento Kings,1,21-23,0,dunk,True,0,True,False
+2008-12-18,17.3166666667,Brooklyn Nets,Sacramento Kings,2,35-36,0,free throw,True,15,False,False
+2008-12-18,17.3166666667,Brooklyn Nets,Sacramento Kings,2,35-37,1,free throw,True,15,True,False
+2008-12-18,18.5,Brooklyn Nets,Sacramento Kings,2,35-39,2,layup,True,0,False,False
+2008-12-18,25.8666666667,Brooklyn Nets,Sacramento Kings,3,56-54,-4,two point jumper,True,8,True,False
+2008-12-18,26.4,Brooklyn Nets,Sacramento Kings,3,56-54,-4,hook shot,True,8,False,False
+2008-12-18,27.15,Brooklyn Nets,Sacramento Kings,3,58-54,-6,layup,True,0,False,False
+2008-12-18,33.25,Brooklyn Nets,Sacramento Kings,3,71-67,-5,free throw,True,15,True,False
+2008-12-18,33.25,Brooklyn Nets,Sacramento Kings,3,71-68,-4,free throw,True,15,True,False
+2008-12-18,34.4166666667,Brooklyn Nets,Sacramento Kings,3,74-72,-4,layup,True,0,False,False
+2008-12-20,33.05,Brooklyn Nets,Miami Heat,3,59-64,-7,dunk,False,0,True,True
+2008-12-20,33.9,Brooklyn Nets,Miami Heat,3,62-64,-4,dunk,False,0,True,True
+2008-12-20,38.2666666667,Brooklyn Nets,Miami Heat,4,72-75,-4,free throw,False,15,True,True
+2008-12-20,38.2666666667,Brooklyn Nets,Miami Heat,4,73-75,-3,free throw,False,15,True,True
+2008-12-20,38.8833333333,Brooklyn Nets,Miami Heat,4,73-77,-6,two point jumper,False,7,False,True
+2008-12-22,26.6166666667,Brooklyn Nets,Golden State Warriors,3,55-61,4,two point shot,True,1,True,False
+2008-12-22,26.6166666667,Brooklyn Nets,Golden State Warriors,3,55-62,6,free throw,True,15,True,False
+2008-12-22,27.0833333333,Brooklyn Nets,Golden State Warriors,3,55-62,5,layup,True,0,False,False
+2008-12-26,1.15,Brooklyn Nets,Detroit Pistons,1,4-0,-6,layup,True,0,False,True
+2008-12-26,1.5,Brooklyn Nets,Detroit Pistons,1,4-2,-4,layup,True,0,True,True
+2008-12-26,10.4166666667,Brooklyn Nets,Detroit Pistons,1,21-23,0,two point shot,True,1,True,True
+2008-12-26,11.0166666667,Brooklyn Nets,Detroit Pistons,1,23-24,0,free throw,True,15,True,True
+2008-12-26,11.0166666667,Brooklyn Nets,Detroit Pistons,1,23-24,0,free throw,True,15,False,True
+2008-12-26,19.9166666667,Brooklyn Nets,Detroit Pistons,2,32-38,4,hook shot,True,10,False,True
+2008-12-26,21.7333333333,Brooklyn Nets,Detroit Pistons,2,36-42,4,two point shot,True,13,False,True
+2008-12-26,25.65,Brooklyn Nets,Detroit Pistons,3,49-48,-3,two point jumper,True,16,True,True
+2008-12-26,28.9833333333,Brooklyn Nets,Detroit Pistons,3,60-48,-14,two point shot,True,1,False,True
+2008-12-26,44.5666666667,Brooklyn Nets,Detroit Pistons,4,89-75,-16,dunk,True,0,True,True
+2008-12-26,46.5333333333,Brooklyn Nets,Detroit Pistons,4,97-81,-18,two point jumper,True,1,True,True
+2008-12-28,0.25,Brooklyn Nets,Washington Wizards,1,0-0,-2,layup,True,0,False,True
+2008-12-28,4.91666666667,Brooklyn Nets,Washington Wizards,1,10-14,2,layup,True,0,True,True
+2008-12-28,7.38333333333,Brooklyn Nets,Washington Wizards,1,19-19,-2,dunk,True,0,False,True
+2008-12-28,18.4166666667,Brooklyn Nets,Washington Wizards,2,44-43,-3,two point shot,True,7,False,True
+2008-12-28,18.9833333333,Brooklyn Nets,Washington Wizards,2,44-45,-1,two point shot,True,1,True,True
+2008-12-28,23.95,Brooklyn Nets,Washington Wizards,2,59-53,-8,two point shot,True,1,True,True
+2008-12-28,36.2,Brooklyn Nets,Washington Wizards,4,86-89,1,two point shot,True,1,True,True
+2008-12-28,38.8,Brooklyn Nets,Washington Wizards,4,90-92,0,hook shot,True,5,False,True
+2008-12-28,43.5666666667,Brooklyn Nets,Washington Wizards,4,100-103,1,dunk,True,0,True,True
+2008-12-28,44.2166666667,Brooklyn Nets,Washington Wizards,4,100-105,3,dunk,True,0,True,True
+2008-12-28,45.7166666667,Brooklyn Nets,Washington Wizards,4,102-108,5,free throw,True,15,True,True
+2008-12-28,45.7166666667,Brooklyn Nets,Washington Wizards,4,102-109,6,free throw,True,15,True,True
+2008-12-29,1.26666666667,Brooklyn Nets,Milwaukee Bucks,1,0-2,-4,two point jumper,False,8,False,True
+2008-12-29,19.8833333333,Brooklyn Nets,Milwaukee Bucks,2,35-37,-4,two point jumper,False,16,False,True
+2008-12-29,28.6,Brooklyn Nets,Milwaukee Bucks,3,51-52,-3,two point shot,False,1,True,True
+2008-12-29,30.2166666667,Brooklyn Nets,Milwaukee Bucks,3,56-55,-1,layup,False,0,True,True
+2008-12-29,30.2166666667,Brooklyn Nets,Milwaukee Bucks,3,56-55,0,free throw,False,15,False,True
+2008-12-29,33.0833333333,Brooklyn Nets,Milwaukee Bucks,3,61-61,-2,two point jumper,False,10,False,True
+2008-12-29,34.3,Brooklyn Nets,Milwaukee Bucks,3,63-61,0,layup,False,0,True,True
+2008-01-02,1.71666666667,Brooklyn Nets,Orlando Magic,1,7-6,-1,layup,False,0,True,True
+2008-01-02,1.71666666667,Brooklyn Nets,Orlando Magic,1,7-6,0,free throw,False,15,False,True
+2008-01-02,6.5,Brooklyn Nets,Orlando Magic,1,15-15,-2,two point jumper,False,9,False,True
+2008-01-02,24.3166666667,Brooklyn Nets,Orlando Magic,3,38-46,-10,two point shot,False,1,False,True
+2008-01-02,39.8666666667,Brooklyn Nets,Orlando Magic,4,74-82,-10,two point shot,False,8,False,True
+2008-01-04,0.633333333333,Brooklyn Nets,Charlotte Bobcats,1,3-0,-5,two point jumper,True,1,False,False
+2008-01-04,18.7833333333,Brooklyn Nets,Charlotte Bobcats,2,41-33,-10,dunk,True,0,True,False
+2008-01-04,25.8,Brooklyn Nets,Charlotte Bobcats,3,48-48,-2,layup,True,0,True,False
+2008-01-08,1.56666666667,Brooklyn Nets,Charlotte Bobcats,1,4-2,0,two point shot,False,1,True,True
+2008-01-08,2.3,Brooklyn Nets,Charlotte Bobcats,1,6-4,0,layup,False,0,True,True
+2008-01-08,4.7,Brooklyn Nets,Charlotte Bobcats,1,10-8,1,free throw,False,15,False,True
+2008-01-08,4.7,Brooklyn Nets,Charlotte Bobcats,1,11-8,2,free throw,False,15,True,True
+2008-01-08,25.1166666667,Brooklyn Nets,Charlotte Bobcats,3,49-61,-14,two point shot,False,6,True,True
+2008-01-08,26.3,Brooklyn Nets,Charlotte Bobcats,3,51-63,-14,tip shot,False,0,False,True
+2008-01-08,27.4333333333,Brooklyn Nets,Charlotte Bobcats,3,54-66,-14,two point shot,False,1,True,True
+2008-01-08,30.0666666667,Brooklyn Nets,Charlotte Bobcats,3,58-71,-15,two point shot,False,1,False,True
+2008-01-08,30.45,Brooklyn Nets,Charlotte Bobcats,3,58-71,-15,two point shot,False,1,False,True
+2008-01-08,31.1666666667,Brooklyn Nets,Charlotte Bobcats,3,58-73,-16,free throw,False,15,False,True
+2008-01-08,31.1666666667,Brooklyn Nets,Charlotte Bobcats,3,59-73,-15,free throw,False,15,True,True
+2008-01-08,45.6166666667,Brooklyn Nets,Charlotte Bobcats,4,94-110,-18,layup,False,0,True,True
+2008-01-09,21.35,Brooklyn Nets,Oklahoma City Thunder,2,41-53,10,two point jumper,True,1,True,True
+2008-01-14,2.4,Brooklyn Nets,Portland Trail Blazers,1,8-3,-7,layup,True,0,True,False
+2008-01-14,2.4,Brooklyn Nets,Portland Trail Blazers,1,8-4,-5,free throw,True,15,True,False
+2008-01-14,17.9166666667,Brooklyn Nets,Portland Trail Blazers,2,34-24,-12,layup,True,0,False,False
+2008-01-14,27.25,Brooklyn Nets,Portland Trail Blazers,3,53-43,-12,dunk,True,0,True,False
+2008-01-14,32.0,Brooklyn Nets,Portland Trail Blazers,3,58-47,-13,two point jumper,True,7,False,False
+2008-01-14,46.2333333333,Brooklyn Nets,Portland Trail Blazers,4,93-68,-27,two point shot,True,1,False,False
+2008-01-14,46.5,Brooklyn Nets,Portland Trail Blazers,4,95-68,-29,layup,True,0,False,False
+2008-01-14,47.1666666667,Brooklyn Nets,Portland Trail Blazers,4,97-70,-28,free throw,True,15,False,False
+2008-01-14,47.1666666667,Brooklyn Nets,Portland Trail Blazers,4,97-71,-27,free throw,True,15,True,False
+2008-01-14,47.7666666667,Brooklyn Nets,Portland Trail Blazers,4,99-73,-28,tip shot,True,0,True,False
+2008-01-16,0.216666666667,Brooklyn Nets,New York Knicks,1,0-2,0,layup,True,0,True,False
+2008-01-16,0.716666666667,Brooklyn Nets,New York Knicks,1,0-4,2,two point shot,True,1,True,False
+2008-01-16,1.13333333333,Brooklyn Nets,New York Knicks,1,0-6,4,dunk,True,0,True,False
+2008-01-16,2.58333333333,Brooklyn Nets,New York Knicks,1,2-9,5,layup,True,0,False,False
+2008-01-16,3.13333333333,Brooklyn Nets,New York Knicks,1,5-11,4,two point jumper,True,1,True,False
+2008-01-16,5.25,Brooklyn Nets,New York Knicks,1,10-17,5,two point shot,True,4,True,False
+2008-01-16,17.8166666667,Brooklyn Nets,New York Knicks,2,31-45,12,layup,True,0,True,False
+2008-01-16,40.3833333333,Brooklyn Nets,New York Knicks,4,94-84,-12,two point shot,True,11,False,False
+2008-01-16,40.8166666667,Brooklyn Nets,New York Knicks,4,96-84,-13,free throw,True,15,False,False
+2008-01-16,40.8166666667,Brooklyn Nets,New York Knicks,4,96-84,-13,free throw,True,15,False,False
+2008-01-16,42.5666666667,Brooklyn Nets,New York Knicks,4,97-92,-7,two point shot,True,1,True,False
+2008-01-16,43.6333333333,Brooklyn Nets,New York Knicks,4,97-95,-4,two point shot,True,1,False,False
+2008-01-16,46.85,Brooklyn Nets,New York Knicks,4,102-101,-2,free throw,True,15,True,False
+2008-01-16,46.85,Brooklyn Nets,New York Knicks,4,102-102,-1,free throw,True,15,True,False
+2008-01-19,2.55,Brooklyn Nets,Los Angeles Clippers,1,2-4,-4,two point jumper,False,16,False,False
+2008-01-19,6.13333333333,Brooklyn Nets,Los Angeles Clippers,1,13-9,2,two point jumper,False,5,True,False
+2008-01-19,22.7166666667,Brooklyn Nets,Los Angeles Clippers,2,44-40,3,free throw,False,15,True,False
+2008-01-19,22.7166666667,Brooklyn Nets,Los Angeles Clippers,2,45-40,4,free throw,False,15,True,False
+2008-01-19,27.5666666667,Brooklyn Nets,Los Angeles Clippers,3,49-50,-2,free throw,False,15,False,False
+2008-01-19,27.5666666667,Brooklyn Nets,Los Angeles Clippers,3,50-50,-1,free throw,False,15,True,False
+2008-01-19,29.0,Brooklyn Nets,Los Angeles Clippers,3,54-55,-3,tip shot,False,0,True,False
+2008-01-19,29.9166666667,Brooklyn Nets,Los Angeles Clippers,3,58-55,1,dunk,False,0,True,False
+2008-01-19,40.1333333333,Brooklyn Nets,Los Angeles Clippers,4,82-81,-1,two point jumper,False,18,True,False
+2008-01-20,1.0,Brooklyn Nets,Phoenix Suns,1,0-0,-2,two point jumper,False,8,False,True
+2008-01-20,1.25,Brooklyn Nets,Phoenix Suns,1,2-0,0,two point shot,False,1,True,True
+2008-01-20,4.5,Brooklyn Nets,Phoenix Suns,1,8-12,-6,two point shot,False,9,True,True
+2008-01-20,5.0,Brooklyn Nets,Phoenix Suns,1,10-14,-6,layup,False,0,True,True
+2008-01-20,29.9833333333,Brooklyn Nets,Phoenix Suns,3,58-71,-15,two point shot,False,1,True,True
+2008-01-20,32.1833333333,Brooklyn Nets,Phoenix Suns,3,64-77,-15,layup,False,0,True,True
+2008-01-20,42.6666666667,Brooklyn Nets,Phoenix Suns,4,81-100,-21,layup,False,0,False,True
+2008-01-20,43.25,Brooklyn Nets,Phoenix Suns,4,83-102,-21,two point jumper,False,9,True,True
+2008-01-22,3.0,Brooklyn Nets,Sacramento Kings,1,7-11,-6,two point shot,False,7,True,True
+2008-01-22,7.91666666667,Brooklyn Nets,Sacramento Kings,1,13-21,-10,dunk,False,0,True,True
+2008-01-22,24.3,Brooklyn Nets,Sacramento Kings,3,49-64,-17,dunk,False,0,True,True
+2008-01-22,24.65,Brooklyn Nets,Sacramento Kings,3,49-66,-19,two point jumper,False,8,False,True
+2008-01-22,25.3,Brooklyn Nets,Sacramento Kings,3,49-66,-18,free throw,False,15,False,True
+2008-01-22,25.3,Brooklyn Nets,Sacramento Kings,3,49-66,-18,free throw,False,15,False,True
+2008-01-22,32.05,Brooklyn Nets,Sacramento Kings,3,69-86,-19,two point shot,False,1,True,True
+2008-01-22,35.7,Brooklyn Nets,Sacramento Kings,3,73-94,-23,two point shot,False,13,False,True
+2008-01-24,11.2166666667,Brooklyn Nets,Golden State Warriors,1,26-31,-6,free throw,False,15,True,False
+2008-01-24,11.2166666667,Brooklyn Nets,Golden State Warriors,1,26-31,-6,free throw,False,15,False,False
+2008-01-24,34.7666666667,Brooklyn Nets,Golden State Warriors,3,85-80,3,two point jumper,False,5,True,False
+2008-01-24,34.7666666667,Brooklyn Nets,Golden State Warriors,3,86-80,5,free throw,False,15,True,False
+2008-01-24,36.75,Brooklyn Nets,Golden State Warriors,4,94-85,7,two point shot,False,5,True,False
+2008-01-24,38.8833333333,Brooklyn Nets,Golden State Warriors,4,94-96,-4,two point jumper,False,5,False,False
+2008-01-25,8.91666666667,Brooklyn Nets,Denver Nuggets,1,9-12,-5,tip shot,False,0,False,True
+2008-01-25,9.53333333333,Brooklyn Nets,Denver Nuggets,1,11-14,-5,two point shot,False,8,False,True
+2008-01-25,9.93333333333,Brooklyn Nets,Denver Nuggets,1,11-14,-4,free throw,False,15,False,True
+2008-01-25,9.93333333333,Brooklyn Nets,Denver Nuggets,1,11-14,-4,free throw,False,15,False,True
+2008-01-25,10.5166666667,Brooklyn Nets,Denver Nuggets,1,11-16,-7,two point shot,False,19,False,True
+2008-01-25,24.75,Brooklyn Nets,Denver Nuggets,3,31-47,-18,two point jumper,False,6,False,True
+2008-01-25,25.2166666667,Brooklyn Nets,Denver Nuggets,3,33-49,-18,layup,False,0,True,True
+2008-01-27,4.6,Brooklyn Nets,Minnesota Timberwolves,1,13-7,4,two point shot,False,1,True,False
+2008-01-27,5.91666666667,Brooklyn Nets,Minnesota Timberwolves,1,15-7,6,dunk,False,0,True,False
+2008-01-27,5.91666666667,Brooklyn Nets,Minnesota Timberwolves,1,15-7,7,free throw,False,15,False,False
+2008-01-27,8.73333333333,Brooklyn Nets,Minnesota Timberwolves,1,18-15,1,two point jumper,False,4,False,False
+2008-01-27,18.9166666667,Brooklyn Nets,Minnesota Timberwolves,2,36-31,3,two point shot,False,7,False,False
+2008-01-27,19.5,Brooklyn Nets,Minnesota Timberwolves,2,39-31,7,free throw,False,15,True,False
+2008-01-27,19.5,Brooklyn Nets,Minnesota Timberwolves,2,40-31,8,free throw,False,15,True,False
+2008-01-27,23.5166666667,Brooklyn Nets,Minnesota Timberwolves,2,48-37,9,tip shot,False,0,False,False
+2008-01-27,28.95,Brooklyn Nets,Minnesota Timberwolves,3,56-52,2,two point jumper,False,5,False,False
+2008-01-27,28.9833333333,Brooklyn Nets,Minnesota Timberwolves,3,58-52,4,two point shot,False,9,True,False
+2008-01-29,2.31666666667,Brooklyn Nets,Milwaukee Bucks,1,4-4,-1,free throw,True,15,False,True
+2008-01-29,2.31666666667,Brooklyn Nets,Milwaukee Bucks,1,4-5,0,free throw,True,15,True,True
+2008-01-29,2.88333333333,Brooklyn Nets,Milwaukee Bucks,1,4-5,-1,layup,True,0,False,True
+2008-01-29,4.95,Brooklyn Nets,Milwaukee Bucks,1,12-7,-7,layup,True,0,False,True
+2008-01-29,6.85,Brooklyn Nets,Milwaukee Bucks,1,14-9,-7,dunk,True,0,False,True
+2008-01-29,20.6166666667,Brooklyn Nets,Milwaukee Bucks,2,35-33,-4,dunk,True,0,False,True
+2008-01-29,21.9,Brooklyn Nets,Milwaukee Bucks,2,35-35,-1,free throw,True,15,False,True
+2008-01-29,21.9,Brooklyn Nets,Milwaukee Bucks,2,35-36,0,free throw,True,15,True,True
+2008-01-29,25.1166666667,Brooklyn Nets,Milwaukee Bucks,3,35-43,6,two point jumper,True,11,True,True
+2008-01-29,26.25,Brooklyn Nets,Milwaukee Bucks,3,35-45,8,two point shot,True,1,True,True
+2008-01-29,36.5666666667,Brooklyn Nets,Milwaukee Bucks,4,54-61,6,free throw,True,15,False,True
+2008-01-29,36.5666666667,Brooklyn Nets,Milwaukee Bucks,4,54-62,7,free throw,True,15,True,True
+2008-02-01,8.01666666667,Brooklyn Nets,Miami Heat,1,20-14,4,tip shot,False,0,False,True
+2008-02-01,19.9166666667,Brooklyn Nets,Miami Heat,2,36-27,7,dunk,False,0,False,True
+2008-02-01,22.1166666667,Brooklyn Nets,Miami Heat,2,40-29,9,dunk,False,0,True,True
+2008-02-01,22.6833333333,Brooklyn Nets,Miami Heat,2,41-31,9,free throw,False,15,True,True
+2008-02-01,22.6833333333,Brooklyn Nets,Miami Heat,2,41-31,9,free throw,False,15,False,True
+2008-02-01,24.9333333333,Brooklyn Nets,Miami Heat,3,44-33,10,free throw,False,15,True,True
+2008-02-01,24.9333333333,Brooklyn Nets,Miami Heat,3,44-33,10,free throw,False,15,False,True
+2008-02-02,8.25,Brooklyn Nets,Atlanta Hawks,1,13-15,-4,two point jumper,False,14,False,True
+2008-02-02,33.4833333333,Brooklyn Nets,Atlanta Hawks,3,60-72,-14,two point shot,False,1,True,True
+2008-02-02,34.15,Brooklyn Nets,Atlanta Hawks,3,62-74,-14,two point shot,False,8,True,True
+2008-02-02,36.5666666667,Brooklyn Nets,Atlanta Hawks,4,66-81,-17,two point jumper,False,18,True,True
+2008-02-05,0.366666666667,Brooklyn Nets,Los Angeles Lakers,1,2-2,-2,layup,True,0,True,True
+2008-02-05,11.2,Brooklyn Nets,Los Angeles Lakers,1,24-25,0,free throw,True,15,True,True
+2008-02-05,11.2,Brooklyn Nets,Los Angeles Lakers,1,24-25,0,free throw,True,15,False,True
+2008-02-05,11.7833333333,Brooklyn Nets,Los Angeles Lakers,1,24-27,1,two point shot,True,10,True,True
+2008-02-05,25.0,Brooklyn Nets,Los Angeles Lakers,3,49-47,-4,two point jumper,True,1,False,True
+2008-02-05,38.9333333333,Brooklyn Nets,Los Angeles Lakers,4,82-77,-7,dunk,True,0,True,True
+2008-02-05,40.1333333333,Brooklyn Nets,Los Angeles Lakers,4,84-77,-9,two point shot,True,1,False,True
+2008-02-05,40.2,Brooklyn Nets,Los Angeles Lakers,4,84-77,-9,hook shot,True,4,False,True
+2008-02-06,0.466666666667,Brooklyn Nets,Orlando Magic,1,0-0,-2,layup,False,0,False,True
+2008-02-06,0.466666666667,Brooklyn Nets,Orlando Magic,1,0-0,-2,tip shot,False,0,False,True
+2008-02-06,1.9,Brooklyn Nets,Orlando Magic,1,5-0,3,layup,False,0,True,True
+2008-02-06,2.7,Brooklyn Nets,Orlando Magic,1,7-2,3,two point shot,False,7,True,True
+2008-02-06,6.91666666667,Brooklyn Nets,Orlando Magic,1,17-9,6,hook shot,False,11,False,True
+2008-02-06,19.6666666667,Brooklyn Nets,Orlando Magic,2,34-37,-5,two point jumper,False,17,False,True
+2008-02-06,46.7833333333,Brooklyn Nets,Orlando Magic,4,82-98,-18,two point jumper,False,19,False,True
+2008-02-08,12.0,Brooklyn Nets,Charlotte Bobcats,1,24-18,4,tip shot,False,0,False,False
+2008-02-08,12.7166666667,Brooklyn Nets,Charlotte Bobcats,2,26-20,4,hook shot,False,8,True,False
+2008-02-08,13.9666666667,Brooklyn Nets,Charlotte Bobcats,2,28-20,6,two point jumper,False,9,True,False
+2008-02-08,14.8166666667,Brooklyn Nets,Charlotte Bobcats,2,30-20,8,two point jumper,False,14,True,False
+2008-02-08,30.2833333333,Brooklyn Nets,Charlotte Bobcats,3,60-50,9,free throw,False,15,False,False
+2008-02-08,30.2833333333,Brooklyn Nets,Charlotte Bobcats,3,61-50,10,free throw,False,15,True,False
+2008-02-08,31.7,Brooklyn Nets,Charlotte Bobcats,3,65-53,10,two point shot,False,1,True,False
+2008-02-08,33.5,Brooklyn Nets,Charlotte Bobcats,3,67-58,7,two point shot,False,1,True,False
+2008-02-10,7.25,Brooklyn Nets,Dallas Mavericks,1,13-17,2,two point jumper,True,12,True,False
+2008-02-10,9.58333333333,Brooklyn Nets,Dallas Mavericks,1,15-19,2,hook shot,True,11,True,False
+2008-02-10,11.1166666667,Brooklyn Nets,Dallas Mavericks,1,19-21,0,dunk,True,0,False,False
+2008-02-10,13.3666666667,Brooklyn Nets,Dallas Mavericks,2,24-21,-5,two point jumper,True,12,False,False
+2008-02-10,37.6333333333,Brooklyn Nets,Dallas Mavericks,4,64-80,14,two point shot,True,1,True,False
+2008-02-10,38.5166666667,Brooklyn Nets,Dallas Mavericks,4,64-82,16,two point jumper,True,13,True,False
+2008-02-10,38.5166666667,Brooklyn Nets,Dallas Mavericks,4,64-83,18,free throw,True,15,True,False
+2008-02-10,40.25,Brooklyn Nets,Dallas Mavericks,4,68-83,14,free throw,True,15,False,False
+2008-02-10,40.25,Brooklyn Nets,Dallas Mavericks,4,68-84,15,free throw,True,15,True,False
+2008-02-10,42.0333333333,Brooklyn Nets,Dallas Mavericks,4,71-88,15,two point shot,True,1,True,False
+2008-02-10,43.4833333333,Brooklyn Nets,Dallas Mavericks,4,75-92,15,dunk,True,0,True,False
+2008-02-10,43.4833333333,Brooklyn Nets,Dallas Mavericks,4,75-93,17,free throw,True,15,True,False
+2008-02-12,12.5,Brooklyn Nets,Minnesota Timberwolves,2,16-18,0,two point jumper,True,6,True,True
+2008-02-12,31.4833333333,Brooklyn Nets,Minnesota Timberwolves,3,46-50,2,layup,True,0,True,True
+2008-02-12,31.4833333333,Brooklyn Nets,Minnesota Timberwolves,3,46-50,3,free throw,True,15,False,True
+2008-02-12,34.3,Brooklyn Nets,Minnesota Timberwolves,3,53-62,7,two point shot,True,1,True,True
+2008-02-12,41.2,Brooklyn Nets,Minnesota Timberwolves,4,65-74,7,two point shot,True,1,True,True
+2008-02-13,11.9666666667,Brooklyn Nets,Toronto Raptors,1,17-30,-15,two point jumper,False,1,True,True
+2008-02-13,37.5833333333,Brooklyn Nets,Toronto Raptors,4,64-93,-31,two point shot,False,1,True,True
+2008-02-13,39.0666666667,Brooklyn Nets,Toronto Raptors,4,68-93,-27,two point shot,False,14,False,True
+2008-02-13,47.0166666667,Brooklyn Nets,Toronto Raptors,4,86-110,-26,dunk,False,0,True,True
+2008-02-20,9.73333333333,Brooklyn Nets,Chicago Bulls,1,19-17,-4,two point jumper,True,9,False,True
+2008-02-20,10.9333333333,Brooklyn Nets,Chicago Bulls,1,21-20,-3,layup,True,0,True,True
+2008-02-20,14.9666666667,Brooklyn Nets,Chicago Bulls,2,27-25,-4,tip shot,True,0,False,True
+2008-02-20,31.7833333333,Brooklyn Nets,Chicago Bulls,3,62-60,-3,free throw,True,15,True,True
+2008-02-20,31.7833333333,Brooklyn Nets,Chicago Bulls,3,62-61,-2,free throw,True,15,True,True
+2008-02-22,44.45,Brooklyn Nets,Indiana Pacers,4,94-106,-14,layup,False,0,False,False
+2008-02-22,45.4833333333,Brooklyn Nets,Indiana Pacers,4,95-108,-15,two point shot,False,10,False,False
+2008-02-22,47.4666666667,Brooklyn Nets,Indiana Pacers,4,101-110,-10,free throw,False,15,True,False
+2008-02-22,47.4666666667,Brooklyn Nets,Indiana Pacers,4,101-110,-10,free throw,False,15,False,False
+2008-02-23,6.35,Brooklyn Nets,Indiana Pacers,1,14-12,-4,two point jumper,True,17,False,False
+2008-02-23,10.2166666667,Brooklyn Nets,Indiana Pacers,1,23-23,-2,layup,True,0,True,False
+2008-03-08,45.55,Brooklyn Nets,Dallas Mavericks,4,83-108,-27,two point jumper,False,6,False,True
+2008-03-10,30.2,Brooklyn Nets,Houston Rockets,3,42-58,-18,dunk,False,0,True,False
+2008-03-10,35.4333333333,Brooklyn Nets,Houston Rockets,3,45-70,-27,two point shot,False,14,False,False
+2008-03-12,34.9166666667,Brooklyn Nets,Cleveland Cavaliers,3,67-78,10,free throw,True,15,False,False
+2008-03-12,34.9166666667,Brooklyn Nets,Cleveland Cavaliers,3,67-78,10,free throw,True,15,False,False
+2008-03-15,0.45,Brooklyn Nets,Utah Jazz,1,2-2,-2,two point shot,True,1,True,True
+2008-03-15,24.8166666667,Brooklyn Nets,Utah Jazz,3,59-52,-9,layup,True,0,True,True
+2008-03-15,31.4166666667,Brooklyn Nets,Utah Jazz,3,72-71,-3,hook shot,True,5,False,True
+2008-03-18,0.716666666667,Brooklyn Nets,Chicago Bulls,1,2-0,0,two point shot,False,1,True,True
+2008-03-18,29.4833333333,Brooklyn Nets,Chicago Bulls,3,50-67,-19,tip shot,False,0,True,True
+2008-03-19,0.5,Brooklyn Nets,Atlanta Hawks,1,0-2,0,dunk,True,0,True,True
+2008-03-19,1.31666666667,Brooklyn Nets,Atlanta Hawks,1,2-4,0,dunk,True,0,True,True
+2008-03-19,19.0333333333,Brooklyn Nets,Atlanta Hawks,2,52-51,-3,dunk,True,0,False,True
+2008-03-19,27.2666666667,Brooklyn Nets,Atlanta Hawks,3,75-69,-8,two point jumper,True,17,False,True
+2008-03-19,31.5666666667,Brooklyn Nets,Atlanta Hawks,3,81-80,-2,free throw,True,15,False,True
+2008-03-19,31.5666666667,Brooklyn Nets,Atlanta Hawks,3,81-81,-1,free throw,True,15,True,True
+2008-03-21,8.6,Brooklyn Nets,Denver Nuggets,1,25-21,-6,two point jumper,True,14,True,False
+2008-03-22,17.2833333333,Brooklyn Nets,Philadelphia 76ers,2,29-32,-5,hook shot,False,6,True,False
+2008-03-24,17.0666666667,Brooklyn Nets,New York Knicks,2,39-31,7,free throw,False,15,False,False
+2008-03-24,17.0666666667,Brooklyn Nets,New York Knicks,2,40-31,8,free throw,False,15,True,False
+2008-03-24,17.4166666667,Brooklyn Nets,New York Knicks,2,42-31,9,two point shot,False,1,True,False
+2008-03-29,11.5666666667,Brooklyn Nets,Phoenix Suns,1,21-31,8,hook shot,True,8,True,False
+2008-03-29,23.7,Brooklyn Nets,Phoenix Suns,2,48-51,1,two point shot,True,1,False,False
+2008-03-29,35.0,Brooklyn Nets,Phoenix Suns,3,79-68,-13,two point shot,True,1,False,False
+2008-03-29,39.7,Brooklyn Nets,Phoenix Suns,4,88-80,-10,layup,True,0,True,False
+2008-03-29,41.9166666667,Brooklyn Nets,Phoenix Suns,4,91-84,-9,two point jumper,True,18,True,False
+2008-04-01,14.2,Brooklyn Nets,Philadelphia 76ers,2,41-32,-11,two point jumper,True,6,False,True
+2008-04-01,14.8333333333,Brooklyn Nets,Philadelphia 76ers,2,41-36,-7,layup,True,0,True,True
+2008-04-01,35.9333333333,Brooklyn Nets,Philadelphia 76ers,3,78-73,-7,dunk,True,0,True,True
+2008-04-04,8.68333333333,Brooklyn Nets,Detroit Pistons,1,10-21,-13,two point jumper,False,14,False,True
+2008-04-04,12.45,Brooklyn Nets,Detroit Pistons,2,20-27,-9,layup,False,0,False,True
+2008-04-04,14.0,Brooklyn Nets,Detroit Pistons,2,22-29,-9,dunk,False,0,True,True
+2008-04-04,35.4666666667,Brooklyn Nets,Detroit Pistons,3,58-79,-23,layup,False,0,True,True
+2008-04-04,37.3833333333,Brooklyn Nets,Detroit Pistons,4,66-83,-19,hook shot,False,7,True,True
+2008-04-04,40.4833333333,Brooklyn Nets,Detroit Pistons,4,70-94,-26,tip shot,False,0,True,True
+2008-04-05,23.1833333333,Brooklyn Nets,Toronto Raptors,2,47-53,4,two point jumper,True,8,False,True
+2009-03-04,39.4333333333,Brooklyn Nets,Boston Celtics,4,96-87,-11,dunk,True,0,False,False
+2009-03-04,39.45,Brooklyn Nets,Boston Celtics,4,96-88,-9,free throw,True,15,True,False
+2009-03-04,39.45,Brooklyn Nets,Boston Celtics,4,96-89,-8,free throw,True,15,True,False
+2009-03-04,40.0333333333,Brooklyn Nets,Boston Celtics,4,96-89,-9,tip shot,True,0,False,False
+2009-11-04,21.8666666667,Brooklyn Nets,Phoenix Suns,2,58-53,-6,free throw,True,15,True,True
+2009-11-04,21.8666666667,Brooklyn Nets,Phoenix Suns,2,58-53,-6,free throw,True,15,False,True
+2009-11-04,22.5166666667,Brooklyn Nets,Phoenix Suns,2,61-55,-8,two point shot,True,12,True,True
+2009-11-04,41.6333333333,Brooklyn Nets,Phoenix Suns,4,104-80,-26,layup,True,0,False,True
+2009-11-04,43.95,Brooklyn Nets,Phoenix Suns,4,106-80,-28,two point jumper,True,22,False,True
+2009-11-08,42.95,Brooklyn Nets,Indiana Pacers,4,70-83,-15,two point shot,False,10,False,False
+2009-11-12,38.7666666667,Brooklyn Nets,Indiana Pacers,4,76-67,-11,two point shot,True,1,True,False
+2009-11-12,40.1333333333,Brooklyn Nets,Indiana Pacers,4,76-71,-7,dunk,True,0,True,False
+2009-11-12,40.95,Brooklyn Nets,Indiana Pacers,4,79-71,-10,two point jumper,True,20,False,False
+2009-11-12,41.5666666667,Brooklyn Nets,Indiana Pacers,4,81-71,-12,two point jumper,True,18,False,False
+2009-11-12,43.3833333333,Brooklyn Nets,Indiana Pacers,4,83-75,-10,tip shot,True,0,False,False
+2009-11-14,8.2,Brooklyn Nets,Atlanta Hawks,1,14-17,2,free throw,True,15,True,True
+2009-11-14,8.2,Brooklyn Nets,Atlanta Hawks,1,14-18,3,free throw,True,15,True,True
+2009-11-14,21.0166666667,Brooklyn Nets,Atlanta Hawks,2,45-43,-4,two point shot,True,1,False,True
+2009-11-14,21.2166666667,Brooklyn Nets,Atlanta Hawks,2,45-45,-2,two point shot,True,1,True,True
+2009-11-15,6.31666666667,Brooklyn Nets,Atlanta Hawks,1,15-13,0,tip shot,False,0,True,True
+2009-11-15,38.7,Brooklyn Nets,Atlanta Hawks,4,89-75,12,two point jumper,False,5,False,True
+2009-11-18,10.85,Brooklyn Nets,Cleveland Cavaliers,1,25-28,1,two point jumper,True,11,False,True
+2009-11-18,32.5833333333,Brooklyn Nets,Cleveland Cavaliers,3,71-59,-13,free throw,True,15,True,True
+2009-11-18,32.5833333333,Brooklyn Nets,Cleveland Cavaliers,3,71-59,-13,free throw,True,15,False,True
+2009-11-21,8.0,Brooklyn Nets,Toronto Raptors,1,17-20,-5,hook shot,False,11,False,True
+2009-11-21,20.55,Brooklyn Nets,Toronto Raptors,2,43-51,-10,tip shot,False,0,True,True
+2009-11-21,35.55,Brooklyn Nets,Toronto Raptors,3,76-82,-8,two point shot,False,1,True,True
+2009-11-22,10.1,Brooklyn Nets,Los Angeles Clippers,1,20-28,6,hook shot,True,1,False,False
+2009-11-22,37.0166666667,Brooklyn Nets,Los Angeles Clippers,4,73-84,10,free throw,True,15,False,False
+2009-11-22,37.0166666667,Brooklyn Nets,Los Angeles Clippers,4,73-85,11,free throw,True,15,True,False
+2009-11-26,9.21666666667,Brooklyn Nets,Sacramento Kings,1,20-17,1,layup,False,0,False,True
+2009-11-26,14.25,Brooklyn Nets,Sacramento Kings,2,34-26,7,free throw,False,15,True,True
+2009-11-26,14.25,Brooklyn Nets,Sacramento Kings,2,34-26,7,free throw,False,15,False,True
+2009-11-30,40.0666666667,Brooklyn Nets,Phoenix Suns,4,84-88,-5,free throw,False,15,False,True
+2009-11-30,40.0666666667,Brooklyn Nets,Phoenix Suns,4,85-88,-4,free throw,False,15,True,True
+2009-12-02,13.6333333333,Brooklyn Nets,Washington Wizards,2,28-29,-1,two point jumper,True,14,False,True
+2009-12-05,16.35,Brooklyn Nets,Minnesota Timberwolves,2,21-38,15,two point jumper,True,1,True,False
+2009-12-10,40.85,Brooklyn Nets,New York Knicks,4,106-98,-10,tip shot,True,0,True,False
+2009-12-12,44.0666666667,Brooklyn Nets,Toronto Raptors,4,94-64,-32,two point jumper,True,11,False,True
+2009-02-04,44.45,Brooklyn Nets,Washington Wizards,4,111-84,25,two point shot,False,1,True,False
+2009-02-04,46.3666666667,Brooklyn Nets,Washington Wizards,4,113-84,27,two point shot,False,1,True,False
+2009-02-07,44.0166666667,Brooklyn Nets,Denver Nuggets,4,70-105,33,layup,True,0,True,False
+2009-02-07,45.2833333333,Brooklyn Nets,Denver Nuggets,4,70-106,34,two point shot,True,5,False,False
+2009-02-07,45.95,Brooklyn Nets,Denver Nuggets,4,70-109,37,two point shot,True,1,True,False
+2009-02-07,47.2833333333,Brooklyn Nets,Denver Nuggets,4,70-113,42,free throw,True,15,False,False
+2009-02-07,47.2833333333,Brooklyn Nets,Denver Nuggets,4,70-114,43,free throw,True,15,True,False
+2009-02-08,17.3166666667,Brooklyn Nets,Orlando Magic,2,30-45,-17,tip shot,False,0,False,True
+2009-02-08,18.5333333333,Brooklyn Nets,Orlando Magic,2,32-47,-17,two point jumper,False,14,False,True
+2009-02-08,19.0666666667,Brooklyn Nets,Orlando Magic,2,35-47,-14,dunk,False,0,True,True
+2009-02-08,35.15,Brooklyn Nets,Orlando Magic,3,65-77,-14,tip shot,False,0,False,True
+2009-02-17,47.1166666667,Brooklyn Nets,Houston Rockets,4,86-112,-28,two point shot,False,10,False,True
+2009-02-23,23.25,Brooklyn Nets,Philadelphia 76ers,2,48-50,1,free throw,True,15,True,True
+2009-02-23,23.25,Brooklyn Nets,Philadelphia 76ers,2,48-51,2,free throw,True,15,True,True
+2009-02-23,34.65,Brooklyn Nets,Philadelphia 76ers,3,75-71,-5,free throw,True,15,False,True
+2009-02-23,34.65,Brooklyn Nets,Philadelphia 76ers,3,75-72,-4,free throw,True,15,True,True
+2009-02-25,13.5,Brooklyn Nets,Chicago Bulls,2,31-27,-6,two point jumper,True,10,False,False
+2009-02-25,15.7,Brooklyn Nets,Chicago Bulls,2,33-31,-4,two point shot,True,1,True,False
+2009-02-25,23.3833333333,Brooklyn Nets,Chicago Bulls,2,49-50,-1,two point shot,True,1,True,False
+2009-02-25,38.15,Brooklyn Nets,Chicago Bulls,4,80-79,-3,hook shot,True,6,True,False
+2009-03-01,16.6,Brooklyn Nets,New Orleans Pelicans,2,30-28,-4,two point shot,True,1,True,False
+2009-03-01,17.25,Brooklyn Nets,New Orleans Pelicans,2,33-28,-7,two point shot,True,10,False,False
+2009-03-01,44.9166666667,Brooklyn Nets,New Orleans Pelicans,4,88-92,2,dunk,True,0,True,False
+2009-03-01,45.5833333333,Brooklyn Nets,New Orleans Pelicans,4,90-92,0,hook shot,True,7,False,False
+2009-03-03,34.6666666667,Brooklyn Nets,Milwaukee Bucks,3,59-67,-10,two point jumper,False,17,False,True
+2009-03-06,5.91666666667,Brooklyn Nets,Orlando Magic,1,11-16,-6,free throw,False,15,False,False
+2009-03-06,5.91666666667,Brooklyn Nets,Orlando Magic,1,12-16,-5,free throw,False,15,True,False
+2009-03-06,6.78333333333,Brooklyn Nets,Orlando Magic,1,14-16,-4,two point jumper,False,16,True,False
+2009-03-06,10.35,Brooklyn Nets,Orlando Magic,1,25-24,0,free throw,False,15,True,False
+2009-03-06,10.35,Brooklyn Nets,Orlando Magic,1,26-24,1,free throw,False,15,True,False
+2009-03-06,37.8833333333,Brooklyn Nets,Orlando Magic,4,88-83,3,hook shot,False,1,True,False
+2009-03-06,38.3666666667,Brooklyn Nets,Orlando Magic,4,88-83,3,two point jumper,False,9,False,False
+2009-03-06,39.3166666667,Brooklyn Nets,Orlando Magic,4,90-86,2,dunk,False,0,True,False
+2009-03-08,19.9833333333,Brooklyn Nets,New York Knicks,2,44-42,-4,two point shot,True,1,True,True
+2009-03-08,36.95,Brooklyn Nets,New York Knicks,4,79-81,0,two point jumper,True,1,False,True
+2009-03-11,14.1833333333,Brooklyn Nets,Golden State Warriors,2,36-34,1,free throw,False,15,False,False
+2009-03-11,14.1833333333,Brooklyn Nets,Golden State Warriors,2,37-34,2,free throw,False,15,True,False
+2009-03-11,15.0666666667,Brooklyn Nets,Golden State Warriors,2,42-36,4,layup,False,0,True,False
+2009-03-11,15.0666666667,Brooklyn Nets,Golden State Warriors,2,43-36,6,free throw,False,15,True,False
+2009-03-11,36.6333333333,Brooklyn Nets,Golden State Warriors,4,87-87,-1,free throw,False,15,False,False
+2009-03-11,36.6333333333,Brooklyn Nets,Golden State Warriors,4,87-87,-1,free throw,False,15,False,False
+2009-03-11,38.2166666667,Brooklyn Nets,Golden State Warriors,4,89-89,-2,two point shot,False,4,True,False
+2009-03-13,9.0,Brooklyn Nets,Portland Trail Blazers,1,16-15,0,free throw,False,15,False,False
+2009-03-13,9.0,Brooklyn Nets,Portland Trail Blazers,1,17-15,1,free throw,False,15,True,False
+2009-03-13,9.35,Brooklyn Nets,Portland Trail Blazers,1,19-15,2,two point shot,False,1,True,False
+2009-03-13,10.6166666667,Brooklyn Nets,Portland Trail Blazers,1,21-18,1,tip shot,False,0,False,False
+2009-03-13,10.9833333333,Brooklyn Nets,Portland Trail Blazers,1,23-20,1,two point shot,False,1,True,False
+2009-03-13,13.0833333333,Brooklyn Nets,Portland Trail Blazers,2,31-22,7,tip shot,False,0,True,False
+2009-03-13,16.7333333333,Brooklyn Nets,Portland Trail Blazers,2,42-30,10,two point jumper,False,17,False,False
+2009-03-30,46.3833333333,Brooklyn Nets,Milwaukee Bucks,4,105-71,-36,two point shot,True,11,False,True
+2009-03-30,47.45,Brooklyn Nets,Milwaukee Bucks,4,107-75,-34,dunk,True,0,True,True
+2009-03-30,47.45,Brooklyn Nets,Milwaukee Bucks,4,107-76,-32,free throw,True,15,True,True
+2009-04-05,47.75,Brooklyn Nets,Philadelphia 76ers,4,67-96,27,two point jumper,True,16,False,True
+2009-04-15,37.0166666667,Brooklyn Nets,New York Knicks,4,58-81,-25,two point jumper,False,7,False,True
+2009-04-15,38.05,Brooklyn Nets,New York Knicks,4,60-83,-25,layup,False,0,True,True
+2009-04-15,39.9,Brooklyn Nets,New York Knicks,4,60-86,-28,two point jumper,False,14,False,True
+2009-04-15,42.3166666667,Brooklyn Nets,New York Knicks,4,62-89,-29,hook shot,False,6,False,True
+2010-11-07,16.1666666667,Brooklyn Nets,Boston Celtics,2,25-26,-1,two point shot,True,1,True,False
+2010-11-07,17.0333333333,Brooklyn Nets,Boston Celtics,2,27-28,-1,two point jumper,True,1,True,False
+2010-10-31,45.9,Brooklyn Nets,Washington Wizards,4,98-122,-26,two point shot,False,1,True,False
+2010-10-31,46.75,Brooklyn Nets,Washington Wizards,4,100-122,-24,two point jumper,False,1,True,False
+2010-10-31,47.85,Brooklyn Nets,Washington Wizards,4,104-123,-21,layup,False,0,False,False
+2010-11-04,45.6833333333,Brooklyn Nets,Denver Nuggets,4,117-88,-31,layup,True,0,True,True
+2010-11-04,45.6833333333,Brooklyn Nets,Denver Nuggets,4,117-88,-30,free throw,True,15,False,True
+2010-11-04,46.2833333333,Brooklyn Nets,Denver Nuggets,4,117-88,-31,two point shot,True,6,False,True
+2010-11-04,46.5833333333,Brooklyn Nets,Denver Nuggets,4,117-90,-28,free throw,True,15,False,True
+2010-11-04,46.5833333333,Brooklyn Nets,Denver Nuggets,4,117-91,-27,free throw,True,15,True,True
+2010-11-04,46.9333333333,Brooklyn Nets,Denver Nuggets,4,117-91,-27,free throw,True,15,False,True
+2010-11-04,46.9333333333,Brooklyn Nets,Denver Nuggets,4,117-92,-26,free throw,True,15,True,True
+2010-11-04,47.5166666667,Brooklyn Nets,Denver Nuggets,4,120-94,-28,dunk,True,0,True,True
+2010-11-13,15.0666666667,Brooklyn Nets,Orlando Magic,2,32-26,4,two point jumper,False,19,False,False
+2010-11-13,17.9833333333,Brooklyn Nets,Orlando Magic,2,36-26,9,free throw,False,15,True,False
+2010-11-13,17.9833333333,Brooklyn Nets,Orlando Magic,2,36-26,9,free throw,False,15,False,False
+2010-11-13,37.0666666667,Brooklyn Nets,Orlando Magic,4,58-66,-10,two point shot,False,1,True,False
+2010-11-13,48.0,Brooklyn Nets,Orlando Magic,4,72-88,-19,three point jumper,False,25,False,False
+2010-11-14,34.2666666667,Brooklyn Nets,Miami Heat,3,55-58,-5,two point shot,False,1,True,False
+2010-11-14,35.3666666667,Brooklyn Nets,Miami Heat,3,57-58,-3,dunk,False,0,True,False
+2010-11-14,38.3833333333,Brooklyn Nets,Miami Heat,4,59-58,-1,hook shot,False,9,False,False
+2010-11-14,40.3833333333,Brooklyn Nets,Miami Heat,4,61-61,-2,layup,False,0,True,False
+2010-11-14,40.9833333333,Brooklyn Nets,Miami Heat,4,63-63,-2,dunk,False,0,True,False
+2010-11-14,42.45,Brooklyn Nets,Miami Heat,4,67-65,0,hook shot,False,13,True,False
+2010-11-14,47.3,Brooklyn Nets,Miami Heat,4,78-75,1,two point jumper,False,17,True,False
+2010-11-17,19.2833333333,Brooklyn Nets,Indiana Pacers,2,46-37,-11,tip shot,True,0,True,False
+2010-11-17,26.4,Brooklyn Nets,Indiana Pacers,3,61-46,-17,two point jumper,True,14,False,False
+2010-11-18,19.4833333333,Brooklyn Nets,Milwaukee Bucks,2,40-31,7,two point jumper,False,14,False,False
+2010-11-18,20.1666666667,Brooklyn Nets,Milwaukee Bucks,2,42-32,8,hook shot,False,5,True,False
+2010-11-18,32.2,Brooklyn Nets,Milwaukee Bucks,3,57-63,-8,two point jumper,False,17,False,False
+2010-11-18,33.55,Brooklyn Nets,Milwaukee Bucks,3,57-63,-8,hook shot,False,9,False,False
+2010-11-18,33.7,Brooklyn Nets,Milwaukee Bucks,3,57-63,-8,two point jumper,False,14,False,False
+2010-11-18,43.95,Brooklyn Nets,Milwaukee Bucks,4,73-88,-17,hook shot,False,10,False,False
+2010-11-18,46.2166666667,Brooklyn Nets,Milwaukee Bucks,4,79-93,-15,free throw,False,15,True,False
+2010-11-18,46.2166666667,Brooklyn Nets,Milwaukee Bucks,4,80-93,-14,free throw,False,15,True,False
+2010-11-21,11.15,Brooklyn Nets,New York Knicks,1,29-22,-9,two point shot,True,1,False,False
+2010-11-21,14.5166666667,Brooklyn Nets,New York Knicks,2,35-31,-6,hook shot,True,11,False,False
+2010-11-21,30.5333333333,Brooklyn Nets,New York Knicks,3,68-54,-16,tip shot,True,0,False,False
+2010-11-21,36.3333333333,Brooklyn Nets,New York Knicks,4,74-67,-9,tip shot,True,0,False,False
+2010-11-21,38.7666666667,Brooklyn Nets,New York Knicks,4,76-73,-5,two point jumper,True,1,False,False
+2010-11-24,40.0333333333,Brooklyn Nets,Denver Nuggets,4,70-85,-16,free throw,False,15,False,True
+2010-11-24,40.0333333333,Brooklyn Nets,Denver Nuggets,4,70-85,-16,free throw,False,15,False,True
+2010-11-27,38.0,Brooklyn Nets,Sacramento Kings,4,71-86,-17,tip shot,False,0,False,True
+2010-11-29,7.91666666667,Brooklyn Nets,Los Angeles Lakers,1,10-18,-10,two point jumper,False,10,False,True
+2010-11-29,31.9833333333,Brooklyn Nets,Los Angeles Lakers,3,52-80,-30,two point jumper,False,5,True,True
+2010-11-29,32.5,Brooklyn Nets,Los Angeles Lakers,3,52-80,-30,layup,False,0,False,True
+2010-11-29,36.0,Brooklyn Nets,Los Angeles Lakers,3,60-87,-29,two point jumper,False,10,False,True
+2010-12-02,11.3333333333,Brooklyn Nets,Dallas Mavericks,1,25-28,1,layup,True,0,False,False
+2010-12-02,13.9333333333,Brooklyn Nets,Dallas Mavericks,2,32-32,-2,two point shot,True,15,False,False
+2010-12-02,47.4666666667,Brooklyn Nets,Dallas Mavericks,4,117-101,-18,layup,True,0,True,False
+2010-12-13,41.2,Brooklyn Nets,Atlanta Hawks,4,92-113,-23,two point shot,False,13,False,False
+2010-12-13,44.2666666667,Brooklyn Nets,Atlanta Hawks,4,99-121,-24,two point jumper,False,19,False,False
+2010-12-13,44.7833333333,Brooklyn Nets,Atlanta Hawks,4,100-123,-24,free throw,False,15,True,False
+2010-12-13,44.7833333333,Brooklyn Nets,Atlanta Hawks,4,100-123,-24,free throw,False,15,False,False
+2010-12-18,8.11666666667,Brooklyn Nets,Toronto Raptors,1,12-28,-18,two point jumper,False,16,False,True
+2010-12-18,39.3166666667,Brooklyn Nets,Toronto Raptors,4,65-104,-40,free throw,False,15,True,True
+2010-12-18,39.3166666667,Brooklyn Nets,Toronto Raptors,4,66-104,-39,free throw,False,15,True,True
+2010-12-18,39.95,Brooklyn Nets,Toronto Raptors,4,68-106,-40,tip shot,False,0,True,True
+2010-12-18,41.25,Brooklyn Nets,Toronto Raptors,4,70-108,-39,free throw,False,15,True,True
+2010-12-18,41.25,Brooklyn Nets,Toronto Raptors,4,71-108,-38,free throw,False,15,True,True
+2010-12-18,44.2166666667,Brooklyn Nets,Toronto Raptors,4,82-110,-30,two point jumper,False,4,False,True
+2010-12-18,44.8666666667,Brooklyn Nets,Toronto Raptors,4,86-112,-28,tip shot,False,0,True,True
+2010-12-18,46.9166666667,Brooklyn Nets,Toronto Raptors,4,93-116,-25,two point shot,False,7,False,True
+2010-12-18,46.9833333333,Brooklyn Nets,Toronto Raptors,4,95-116,-23,dunk,False,0,True,True
+2010-12-19,43.2166666667,Brooklyn Nets,Los Angeles Lakers,4,96-73,-24,free throw,True,15,False,True
+2010-12-19,43.2166666667,Brooklyn Nets,Los Angeles Lakers,4,96-73,-24,free throw,True,15,False,True
+2010-01-06,46.4833333333,Brooklyn Nets,Atlanta Hawks,4,85-115,-32,layup,False,0,False,True
+2010-01-06,47.0833333333,Brooklyn Nets,Atlanta Hawks,4,87-117,-32,two point jumper,False,9,True,True
+2012-04-24,12.7666666667,Boston Celtics,Miami Heat,2,17-13,-5,free throw,True,15,True,True
+2012-04-24,17.75,Boston Celtics,Miami Heat,2,23-20,-5,layup,True,0,False,True
+2012-04-24,18.9166666667,Boston Celtics,Miami Heat,2,26-20,-8,two point jumper,True,19,False,True
+2012-04-24,37.5666666667,Boston Celtics,Miami Heat,4,52-50,-4,two point jumper,True,17,False,True
+2012-04-24,39.4666666667,Boston Celtics,Miami Heat,4,52-56,2,layup,True,0,True,True
+2012-04-24,40.2333333333,Boston Celtics,Miami Heat,4,52-56,2,two point shot,True,11,False,True
+2012-04-24,40.8166666667,Boston Celtics,Miami Heat,4,54-57,2,free throw,True,15,True,True
+2012-04-24,40.8166666667,Boston Celtics,Miami Heat,4,54-58,3,free throw,True,15,True,True
+2012-04-26,21.4833333333,Boston Celtics,Milwaukee Bucks,2,35-51,14,dunk,True,0,True,True
+2012-04-26,22.7666666667,Boston Celtics,Milwaukee Bucks,2,37-55,17,free throw,True,15,True,True
+2012-04-26,22.7666666667,Boston Celtics,Milwaukee Bucks,2,37-56,18,free throw,True,15,True,True
+2012-04-26,41.6666666667,Boston Celtics,Milwaukee Bucks,4,66-84,17,free throw,True,15,True,True
+2012-04-26,41.6666666667,Boston Celtics,Milwaukee Bucks,4,66-85,18,free throw,True,15,True,True
+2012-03-10,9.48333333333,Dallas Mavericks,Golden State Warriors,1,13-18,-7,layup,False,0,False,True
+2012-03-10,10.8666666667,Dallas Mavericks,Golden State Warriors,1,15-21,-8,two point jumper,False,4,True,True
+2012-03-10,46.85,Dallas Mavericks,Golden State Warriors,4,83-109,-28,layup,False,0,True,True
+2012-03-08,10.5166666667,Dallas Mavericks,Phoenix Suns,1,24-21,1,two point shot,False,7,True,False
+2012-03-08,16.25,Dallas Mavericks,Phoenix Suns,2,34-32,0,two point jumper,False,11,False,False
+2012-03-08,37.9666666667,Dallas Mavericks,Phoenix Suns,4,80-83,-5,two point shot,False,1,True,False
+2012-03-09,6.78333333333,Dallas Mavericks,Sacramento Kings,1,12-23,-13,layup,False,0,True,True
+2012-03-09,11.3333333333,Dallas Mavericks,Sacramento Kings,1,22-29,-8,free throw,False,15,True,True
+2012-03-09,11.3333333333,Dallas Mavericks,Sacramento Kings,1,22-29,-8,free throw,False,15,False,True
+2012-03-09,32.3666666667,Dallas Mavericks,Sacramento Kings,3,63-78,-17,dunk,False,0,True,True
+2012-03-09,45.7666666667,Dallas Mavericks,Sacramento Kings,4,91-108,-19,layup,False,0,True,True
+2012-12-26,33.9166666667,Dallas Mavericks,Denver Nuggets,3,95-63,-33,free throw,True,15,True,True
+2012-12-26,33.9166666667,Dallas Mavericks,Denver Nuggets,3,95-64,-32,free throw,True,15,True,True
+2012-12-26,37.2,Dallas Mavericks,Denver Nuggets,4,99-70,-31,two point shot,True,1,True,True
+2012-12-26,37.5666666667,Dallas Mavericks,Denver Nuggets,4,99-72,-29,two point shot,True,5,True,True
+2012-12-26,39.8166666667,Dallas Mavericks,Denver Nuggets,4,102-75,-28,free throw,True,15,True,True
+2012-12-26,39.8166666667,Dallas Mavericks,Denver Nuggets,4,102-76,-27,free throw,True,15,True,True
+2012-12-26,42.3833333333,Dallas Mavericks,Denver Nuggets,4,104-83,-23,two point shot,True,1,True,True
+2012-12-26,44.0833333333,Dallas Mavericks,Denver Nuggets,4,106-88,-20,two point shot,True,1,True,True
+2012-12-29,7.63333333333,Dallas Mavericks,Oklahoma City Thunder,1,21-11,8,dunk,False,0,True,False
+2012-12-29,10.5333333333,Dallas Mavericks,Oklahoma City Thunder,1,23-23,-2,layup,False,0,False,False
+2012-01-01,47.45,Dallas Mavericks,Minnesota Timberwolves,4,82-99,-19,two point jumper,False,9,False,False

@@ -1,0 +1,361 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2008-11-30,10.4833333333,Utah Jazz,Los Angeles Lakers,1,17-26,7,two point jumper,True,1,True,False
+2008-11-30,11.9,Utah Jazz,Los Angeles Lakers,1,22-30,6,dunk,True,0,True,False
+2008-11-30,22.15,Utah Jazz,Los Angeles Lakers,2,51-66,13,layup,True,0,True,False
+2008-11-30,22.6166666667,Utah Jazz,Los Angeles Lakers,2,51-66,13,layup,True,0,False,False
+2008-11-30,46.6166666667,Utah Jazz,Los Angeles Lakers,4,92-116,22,two point shot,True,4,False,False
+2008-12-17,13.0166666667,Utah Jazz,Atlanta Hawks,2,31-25,4,layup,False,0,False,False
+2008-12-17,13.0666666667,Utah Jazz,Atlanta Hawks,2,31-25,4,layup,False,0,False,False
+2008-12-22,10.6166666667,Utah Jazz,Miami Heat,1,21-19,0,layup,False,0,True,False
+2008-12-21,14.9,Utah Jazz,Orlando Magic,2,32-29,1,hook shot,False,1,False,False
+2008-12-21,47.4833333333,Utah Jazz,Orlando Magic,4,113-92,19,layup,False,0,False,False
+2008-03-31,44.8166666667,Utah Jazz,Washington Wizards,4,78-123,43,two point jumper,True,5,False,False
+2008-03-31,46.6666666667,Utah Jazz,Washington Wizards,4,85-126,40,free throw,True,15,True,False
+2008-03-31,46.6666666667,Utah Jazz,Washington Wizards,4,85-127,41,free throw,True,15,True,False
+2008-03-31,47.6833333333,Utah Jazz,Washington Wizards,4,87-129,40,tip shot,True,0,True,False
+2008-03-30,35.4,Utah Jazz,Minnesota Timberwolves,3,74-72,1,free throw,False,15,False,False
+2008-03-30,35.4,Utah Jazz,Minnesota Timberwolves,3,74-72,1,free throw,False,15,False,False
+2008-12-15,34.1,Utah Jazz,Oklahoma City Thunder,3,59-72,11,layup,True,0,True,True
+2008-12-14,34.55,Utah Jazz,Portland Trail Blazers,3,72-66,4,layup,False,0,False,False
+2009-12-29,47.05,Utah Jazz,Philadelphia 76ers,4,93-109,14,layup,True,0,True,False
+2009-12-29,47.4833333333,Utah Jazz,Philadelphia 76ers,4,93-110,16,free throw,True,15,True,False
+2009-12-29,47.4833333333,Utah Jazz,Philadelphia 76ers,4,93-110,16,free throw,True,15,False,False
+2009-11-01,47.7166666667,Utah Jazz,Los Angeles Clippers,4,79-101,20,two point shot,True,1,True,False
+2009-04-14,45.55,Utah Jazz,Los Angeles Lakers,4,109-121,-14,dunk,False,0,True,False
+2009-04-14,45.9166666667,Utah Jazz,Los Angeles Lakers,4,109-121,-13,free throw,False,15,False,False
+2009-04-14,45.9166666667,Utah Jazz,Los Angeles Lakers,4,110-121,-12,free throw,False,15,True,False
+2009-11-28,45.8,Utah Jazz,Sacramento Kings,4,91-115,22,two point shot,True,5,False,False
+2009-11-28,46.15,Utah Jazz,Sacramento Kings,4,92-115,22,free throw,True,15,False,False
+2009-11-28,46.15,Utah Jazz,Sacramento Kings,4,92-115,22,free throw,True,15,False,False
+2009-01-24,9.18333333333,Utah Jazz,Cleveland Cavaliers,1,26-17,-11,dunk,True,0,True,True
+2009-12-26,14.3,Utah Jazz,Dallas Mavericks,2,26-31,3,layup,True,0,True,True
+2009-12-26,17.7,Utah Jazz,Dallas Mavericks,2,28-39,9,dunk,True,0,True,True
+2009-12-26,33.7,Utah Jazz,Dallas Mavericks,3,59-69,8,layup,True,0,False,True
+2009-12-26,35.5,Utah Jazz,Dallas Mavericks,3,62-74,10,tip shot,True,0,True,True
+2009-12-26,38.2,Utah Jazz,Dallas Mavericks,4,68-80,10,two point jumper,True,4,True,True
+2009-02-05,46.4333333333,Utah Jazz,Dallas Mavericks,4,87-111,22,hook shot,True,2,False,False
+2009-04-08,44.9,Utah Jazz,Dallas Mavericks,4,92-123,-32,free throw,False,15,False,False
+2009-04-08,44.9,Utah Jazz,Dallas Mavericks,4,92-123,-32,free throw,False,15,False,False
+2009-04-08,45.0166666667,Utah Jazz,Dallas Mavericks,4,93-123,-31,free throw,False,15,True,False
+2009-04-08,45.0166666667,Utah Jazz,Dallas Mavericks,4,93-123,-31,free throw,False,15,False,False
+2009-04-08,45.5666666667,Utah Jazz,Dallas Mavericks,4,95-124,-31,dunk,False,0,True,False
+2009-12-27,12.65,Utah Jazz,Houston Rockets,2,26-34,-10,layup,False,0,True,False
+2009-12-27,13.8833333333,Utah Jazz,Houston Rockets,2,26-36,-12,hook shot,False,9,False,False
+2009-12-27,31.9833333333,Utah Jazz,Houston Rockets,3,61-73,-14,two point shot,False,20,True,False
+2009-12-27,34.5833333333,Utah Jazz,Houston Rockets,3,67-78,-13,two point shot,False,1,True,False
+2009-12-27,20.35,Utah Jazz,Houston Rockets,5,98-98,-1,free throw,False,15,False,False
+2009-12-27,20.35,Utah Jazz,Houston Rockets,5,98-98,-1,free throw,False,15,False,False
+2009-12-27,21.35,Utah Jazz,Houston Rockets,5,100-101,-3,dunk,False,0,True,False
+2009-12-27,23.4166666667,Utah Jazz,Houston Rockets,6,109-116,-9,dunk,False,0,True,False
+2009-12-27,23.7,Utah Jazz,Houston Rockets,6,111-117,-8,two point shot,False,1,True,False
+2009-02-17,47.6,Utah Jazz,Memphis Grizzlies,4,99-116,16,free throw,True,15,True,False
+2009-02-17,47.6,Utah Jazz,Memphis Grizzlies,4,99-117,17,free throw,True,15,True,False
+2009-11-21,40.4166666667,Utah Jazz,San Antonio Spurs,4,81-103,-24,dunk,False,0,True,True
+2009-01-27,9.58333333333,Utah Jazz,San Antonio Spurs,1,20-21,0,free throw,True,15,False,False
+2009-01-27,9.58333333333,Utah Jazz,San Antonio Spurs,1,20-21,0,free throw,True,15,False,False
+2009-01-27,10.2833333333,Utah Jazz,San Antonio Spurs,1,20-21,-1,dunk,True,0,False,False
+2009-01-25,13.7166666667,Utah Jazz,Denver Nuggets,2,26-37,-12,free throw,False,15,False,True
+2009-01-25,13.7166666667,Utah Jazz,Denver Nuggets,2,27-37,-11,free throw,False,15,True,True
+2009-01-25,16.25,Utah Jazz,Denver Nuggets,2,29-45,-18,layup,False,0,True,True
+2009-01-25,16.25,Utah Jazz,Denver Nuggets,2,30-45,-16,free throw,False,15,True,True
+2009-01-25,17.7833333333,Utah Jazz,Denver Nuggets,2,35-47,-14,layup,False,0,True,True
+2009-01-25,19.0333333333,Utah Jazz,Denver Nuggets,2,38-50,-13,free throw,False,15,False,True
+2009-01-25,19.0333333333,Utah Jazz,Denver Nuggets,2,38-50,-13,free throw,False,15,False,True
+2009-01-25,20.5833333333,Utah Jazz,Denver Nuggets,2,42-53,-13,two point shot,False,8,False,True
+2009-01-25,30.3833333333,Utah Jazz,Denver Nuggets,3,62-81,-21,two point jumper,False,15,False,True
+2009-01-30,12.8833333333,Utah Jazz,Oklahoma City Thunder,2,28-30,0,dunk,True,0,True,False
+2009-01-30,35.6333333333,Utah Jazz,Oklahoma City Thunder,3,75-94,17,two point jumper,True,1,False,False
+2009-01-30,36.7166666667,Utah Jazz,Oklahoma City Thunder,4,77-97,18,dunk,True,0,True,False
+2009-01-31,8.53333333333,Utah Jazz,Portland Trail Blazers,1,19-25,-8,two point jumper,False,20,False,False
+2009-01-31,44.3,Utah Jazz,Portland Trail Blazers,4,92-113,-23,two point shot,False,3,False,False
+2009-01-31,47.2666666667,Utah Jazz,Portland Trail Blazers,4,106-122,-18,layup,False,0,True,False
+2010-11-11,33.7166666667,Utah Jazz,Boston Celtics,3,59-77,-20,hook shot,False,7,True,True
+2010-11-11,34.4833333333,Utah Jazz,Boston Celtics,3,59-77,-20,hook shot,False,5,False,True
+2010-11-11,45.7,Utah Jazz,Boston Celtics,4,81-103,-23,free throw,False,15,True,True
+2010-11-11,45.7,Utah Jazz,Boston Celtics,4,82-103,-22,free throw,False,15,True,True
+2010-12-16,13.65,Utah Jazz,Brooklyn Nets,2,27-28,-2,free throw,False,15,True,False
+2010-12-16,13.65,Utah Jazz,Brooklyn Nets,2,27-28,-2,free throw,False,15,False,False
+2010-12-16,15.4,Utah Jazz,Brooklyn Nets,2,31-31,-2,layup,False,0,False,False
+2010-12-16,15.45,Utah Jazz,Brooklyn Nets,2,31-31,-2,tip shot,False,0,False,False
+2010-12-16,16.0333333333,Utah Jazz,Brooklyn Nets,2,33-31,0,layup,False,0,True,False
+2010-12-16,30.6333333333,Utah Jazz,Brooklyn Nets,3,66-50,14,dunk,False,0,True,False
+2010-12-16,46.7666666667,Utah Jazz,Brooklyn Nets,4,108-88,19,free throw,False,15,True,False
+2010-12-16,46.7666666667,Utah Jazz,Brooklyn Nets,4,108-88,19,free throw,False,15,False,False
+2010-11-18,1.43333333333,Utah Jazz,Toronto Raptors,1,0-6,4,layup,True,0,True,False
+2010-11-18,2.56666666667,Utah Jazz,Toronto Raptors,1,2-8,4,tip shot,True,0,False,False
+2010-11-18,25.7666666667,Utah Jazz,Toronto Raptors,3,58-63,3,hook shot,True,5,False,False
+2010-11-18,27.8666666667,Utah Jazz,Toronto Raptors,3,62-66,3,free throw,True,15,True,False
+2010-11-18,27.8666666667,Utah Jazz,Toronto Raptors,3,62-66,3,free throw,True,15,False,False
+2010-03-24,47.55,Utah Jazz,Toronto Raptors,4,113-87,25,free throw,False,15,True,False
+2010-03-24,47.55,Utah Jazz,Toronto Raptors,4,113-87,25,free throw,False,15,False,False
+2010-02-19,34.2166666667,Utah Jazz,Golden State Warriors,3,80-59,19,two point jumper,False,4,False,False
+2010-02-19,34.25,Utah Jazz,Golden State Warriors,3,82-59,21,layup,False,0,True,False
+2010-02-19,34.25,Utah Jazz,Golden State Warriors,3,82-59,22,free throw,False,15,False,False
+2010-03-31,45.1166666667,Utah Jazz,Golden State Warriors,4,96-123,25,dunk,True,0,True,True
+2010-10-30,2.55,Utah Jazz,Los Angeles Clippers,1,12-8,-6,layup,True,0,True,False
+2010-10-30,26.1166666667,Utah Jazz,Los Angeles Clippers,3,65-64,-3,hook shot,True,3,True,False
+2010-10-30,27.8833333333,Utah Jazz,Los Angeles Clippers,3,67-68,-1,dunk,True,0,True,False
+2010-10-30,28.9166666667,Utah Jazz,Los Angeles Clippers,3,67-70,1,dunk,True,0,True,False
+2010-10-30,35.4,Utah Jazz,Los Angeles Clippers,3,84-80,-6,two point jumper,True,4,True,False
+2010-04-02,46.2833333333,Utah Jazz,Los Angeles Lakers,4,86-101,-17,dunk,False,0,True,True
+2010-04-02,47.6833333333,Utah Jazz,Los Angeles Lakers,4,92-104,-14,tip shot,False,0,True,True
+2010-03-19,24.25,Utah Jazz,Phoenix Suns,3,37-52,-17,two point jumper,False,1,False,False
+2010-04-14,10.6833333333,Utah Jazz,Phoenix Suns,1,24-23,-3,two point shot,True,5,False,True
+2010-04-14,11.45,Utah Jazz,Phoenix Suns,1,27-25,-4,hook shot,True,1,True,True
+2010-11-07,13.0833333333,Utah Jazz,Sacramento Kings,2,22-35,11,dunk,True,0,True,True
+2010-11-07,14.8333333333,Utah Jazz,Sacramento Kings,2,24-39,13,two point shot,True,1,False,True
+2010-02-26,9.58333333333,Utah Jazz,Sacramento Kings,1,13-19,-8,two point jumper,False,1,False,True
+2010-02-26,11.35,Utah Jazz,Sacramento Kings,1,20-21,-3,layup,False,0,True,True
+2010-02-26,11.35,Utah Jazz,Sacramento Kings,1,20-21,-2,free throw,False,15,False,True
+2010-03-09,46.1,Utah Jazz,Chicago Bulls,4,127-106,19,layup,False,0,False,True
+2010-11-14,16.35,Utah Jazz,Cleveland Cavaliers,2,31-42,-13,two point jumper,False,4,False,False
+2010-11-21,5.48333333333,Utah Jazz,Detroit Pistons,1,12-14,1,free throw,True,15,True,False
+2010-11-21,5.48333333333,Utah Jazz,Detroit Pistons,1,12-15,2,free throw,True,15,True,False
+2010-11-21,25.3833333333,Utah Jazz,Detroit Pistons,3,50-44,-8,tip shot,True,0,True,False
+2010-11-21,29.1,Utah Jazz,Detroit Pistons,3,54-50,-6,two point shot,True,6,False,False
+2010-11-03,11.9166666667,Utah Jazz,Dallas Mavericks,1,20-17,1,two point shot,False,8,False,False
+2010-11-03,13.75,Utah Jazz,Dallas Mavericks,2,20-18,0,two point jumper,False,4,False,False
+2010-11-03,35.9833333333,Utah Jazz,Dallas Mavericks,3,67-52,13,dunk,False,0,True,False
+2010-11-03,38.8166666667,Utah Jazz,Dallas Mavericks,4,72-58,12,two point shot,False,6,False,False
+2010-02-01,21.55,Utah Jazz,Dallas Mavericks,2,42-44,0,two point shot,True,1,False,False
+2010-02-01,23.0,Utah Jazz,Dallas Mavericks,2,44-48,2,layup,True,0,True,False
+2010-11-02,47.1166666667,Utah Jazz,Houston Rockets,4,113-92,-23,dunk,True,0,True,True
+2010-11-02,47.1166666667,Utah Jazz,Houston Rockets,4,113-92,-22,free throw,True,15,False,True
+2010-02-27,46.1166666667,Utah Jazz,Houston Rockets,4,109-131,21,free throw,True,15,False,True
+2010-02-27,46.1166666667,Utah Jazz,Houston Rockets,4,109-131,21,free throw,True,15,False,True
+2010-02-27,46.4,Utah Jazz,Houston Rockets,4,109-131,21,free throw,True,15,False,True
+2010-02-27,46.4,Utah Jazz,Houston Rockets,4,109-131,21,free throw,True,15,False,True
+2010-11-30,24.3166666667,Utah Jazz,Memphis Grizzlies,3,48-63,13,two point shot,True,6,True,False
+2010-11-30,25.2,Utah Jazz,Memphis Grizzlies,3,49-63,12,two point shot,True,7,False,False
+2010-11-30,28.1666666667,Utah Jazz,Memphis Grizzlies,3,51-70,17,layup,True,0,True,False
+2010-11-30,34.3666666667,Utah Jazz,Memphis Grizzlies,3,68-88,18,layup,True,0,True,False
+2010-11-30,37.6333333333,Utah Jazz,Memphis Grizzlies,4,74-99,23,dunk,True,0,True,False
+2010-11-30,39.0666666667,Utah Jazz,Memphis Grizzlies,4,78-103,24,free throw,True,15,False,False
+2010-11-30,39.0666666667,Utah Jazz,Memphis Grizzlies,4,78-104,25,free throw,True,15,True,False
+2010-11-30,47.2,Utah Jazz,Memphis Grizzlies,4,93-120,25,two point shot,True,4,True,False
+2010-01-06,12.0,Utah Jazz,Memphis Grizzlies,1,28-28,-2,hook shot,True,5,False,False
+2010-01-06,13.6166666667,Utah Jazz,Memphis Grizzlies,2,28-32,2,tip shot,True,0,True,False
+2010-01-06,47.6333333333,Utah Jazz,Memphis Grizzlies,4,94-117,21,hook shot,True,5,False,False
+2010-01-08,23.2666666667,Utah Jazz,Memphis Grizzlies,2,40-47,-9,dunk,False,0,True,False
+2010-03-20,1.71666666667,Utah Jazz,New Orleans Pelicans,1,0-6,4,layup,True,0,True,False
+2010-03-20,2.26666666667,Utah Jazz,New Orleans Pelicans,1,2-8,4,layup,True,0,True,False
+2010-03-20,2.26666666667,Utah Jazz,New Orleans Pelicans,1,2-8,5,free throw,True,15,False,False
+2010-03-20,12.8833333333,Utah Jazz,New Orleans Pelicans,2,22-34,10,layup,True,0,True,False
+2010-03-20,15.8333333333,Utah Jazz,New Orleans Pelicans,2,26-44,16,dunk,True,0,True,False
+2010-03-20,16.8166666667,Utah Jazz,New Orleans Pelicans,2,28-44,14,two point jumper,True,14,False,False
+2010-03-20,20.9333333333,Utah Jazz,New Orleans Pelicans,2,38-53,13,two point shot,True,6,True,False
+2010-03-20,34.2333333333,Utah Jazz,New Orleans Pelicans,3,55-88,32,free throw,True,15,False,False
+2010-03-20,34.2333333333,Utah Jazz,New Orleans Pelicans,3,55-89,33,free throw,True,15,True,False
+2010-03-20,41.7833333333,Utah Jazz,New Orleans Pelicans,4,67-101,32,two point shot,True,6,False,False
+2010-03-20,44.6,Utah Jazz,New Orleans Pelicans,4,73-103,28,two point jumper,True,10,False,False
+2010-11-05,46.7166666667,Utah Jazz,San Antonio Spurs,4,95-109,12,layup,True,0,False,False
+2010-12-18,37.1166666667,Utah Jazz,Atlanta Hawks,4,53-81,-29,free throw,False,15,False,False
+2010-12-18,37.1166666667,Utah Jazz,Atlanta Hawks,4,54-81,-28,free throw,False,15,True,False
+2010-12-18,43.7,Utah Jazz,Atlanta Hawks,4,69-89,-22,tip shot,False,0,False,False
+2010-12-18,47.4333333333,Utah Jazz,Atlanta Hawks,4,81-96,-17,layup,False,0,True,False
+2010-02-22,15.2166666667,Utah Jazz,Atlanta Hawks,2,30-38,6,layup,True,0,False,False
+2010-02-22,15.2166666667,Utah Jazz,Atlanta Hawks,2,30-40,8,layup,True,0,True,False
+2010-02-22,15.2166666667,Utah Jazz,Atlanta Hawks,2,30-41,10,free throw,True,15,True,False
+2010-02-22,19.0666666667,Utah Jazz,Atlanta Hawks,2,39-47,6,layup,True,0,True,False
+2010-02-22,22.7666666667,Utah Jazz,Atlanta Hawks,2,52-51,-3,tip shot,True,0,True,False
+2010-02-22,37.25,Utah Jazz,Atlanta Hawks,4,77-78,0,free throw,True,15,True,False
+2010-02-22,37.25,Utah Jazz,Atlanta Hawks,4,77-79,1,free throw,True,15,True,False
+2010-02-24,10.4666666667,Utah Jazz,Charlotte Bobcats,1,25-26,-1,two point shot,True,4,True,False
+2010-02-24,14.25,Utah Jazz,Charlotte Bobcats,2,36-32,-6,dunk,True,0,True,False
+2010-02-24,14.25,Utah Jazz,Charlotte Bobcats,2,36-33,-4,free throw,True,15,True,False
+2010-12-21,35.0833333333,Utah Jazz,Orlando Magic,3,65-70,-6,free throw,False,15,True,True
+2010-12-21,35.0833333333,Utah Jazz,Orlando Magic,3,65-70,-6,free throw,False,15,False,True
+2010-03-15,35.9833333333,Utah Jazz,Washington Wizards,3,60-90,28,tip shot,True,0,False,False
+2010-03-15,37.2,Utah Jazz,Washington Wizards,4,60-94,32,dunk,True,0,True,False
+2010-03-15,38.45,Utah Jazz,Washington Wizards,4,65-98,31,two point shot,True,1,True,False
+2010-03-15,39.2166666667,Utah Jazz,Washington Wizards,4,65-98,31,two point jumper,True,6,False,False
+2010-03-15,45.15,Utah Jazz,Washington Wizards,4,82-106,22,two point shot,True,1,False,False
+2010-10-28,2.36666666667,Utah Jazz,Denver Nuggets,1,4-8,-6,layup,False,0,True,False
+2010-10-28,4.75,Utah Jazz,Denver Nuggets,1,10-12,-4,dunk,False,0,True,False
+2010-10-28,47.8333333333,Utah Jazz,Denver Nuggets,4,105-114,-11,layup,False,0,True,False
+2010-12-14,12.3833333333,Utah Jazz,Minnesota Timberwolves,2,32-35,1,dunk,True,0,True,False
+2010-12-14,31.0666666667,Utah Jazz,Minnesota Timberwolves,3,74-73,-3,layup,True,0,False,False
+2010-12-14,35.0333333333,Utah Jazz,Minnesota Timberwolves,3,83-80,-4,free throw,True,15,False,False
+2010-12-14,35.0333333333,Utah Jazz,Minnesota Timberwolves,3,83-80,-4,free throw,True,15,False,False
+2010-12-14,35.4333333333,Utah Jazz,Minnesota Timberwolves,3,86-82,-6,tip shot,True,0,True,False
+2010-03-17,17.85,Utah Jazz,Minnesota Timberwolves,2,34-37,2,free throw,True,15,True,True
+2010-03-17,17.85,Utah Jazz,Minnesota Timberwolves,2,34-37,2,free throw,True,15,False,True
+2010-03-14,9.85,Utah Jazz,Oklahoma City Thunder,1,19-25,-8,dunk,False,0,False,False
+2010-03-14,11.2,Utah Jazz,Oklahoma City Thunder,1,21-27,-8,dunk,False,0,True,False
+2010-03-14,12.5666666667,Utah Jazz,Oklahoma City Thunder,2,26-31,-6,free throw,False,15,False,False
+2010-03-14,12.5666666667,Utah Jazz,Oklahoma City Thunder,2,26-31,-6,free throw,False,15,False,False
+2010-03-14,34.55,Utah Jazz,Oklahoma City Thunder,3,77-88,-12,free throw,False,15,False,False
+2010-03-14,34.55,Utah Jazz,Oklahoma City Thunder,3,78-88,-11,free throw,False,15,True,False
+2010-03-14,35.1333333333,Utah Jazz,Oklahoma City Thunder,3,79-88,-10,free throw,False,15,True,False
+2010-03-14,35.1333333333,Utah Jazz,Oklahoma City Thunder,3,79-88,-10,free throw,False,15,False,False
+2010-03-14,37.4333333333,Utah Jazz,Oklahoma City Thunder,4,81-90,-10,free throw,False,15,False,False
+2010-03-14,37.4333333333,Utah Jazz,Oklahoma City Thunder,4,81-90,-10,free throw,False,15,False,False
+2010-11-28,23.0,Utah Jazz,Portland Trail Blazers,2,44-57,11,two point jumper,True,10,True,False
+2010-11-28,23.4333333333,Utah Jazz,Portland Trail Blazers,2,44-59,13,two point shot,True,1,True,False
+2010-11-28,32.2833333333,Utah Jazz,Portland Trail Blazers,3,64-80,14,layup,True,0,True,False
+2010-11-28,33.7333333333,Utah Jazz,Portland Trail Blazers,3,64-84,18,two point shot,True,4,False,False
+2010-11-28,34.2166666667,Utah Jazz,Portland Trail Blazers,3,64-84,19,free throw,True,15,False,False
+2010-11-28,34.2166666667,Utah Jazz,Portland Trail Blazers,3,64-84,19,free throw,True,15,False,False
+2010-11-28,35.5166666667,Utah Jazz,Portland Trail Blazers,3,66-86,19,free throw,True,15,False,False
+2010-11-28,35.5166666667,Utah Jazz,Portland Trail Blazers,3,66-87,20,free throw,True,15,True,False
+2010-11-28,36.3,Utah Jazz,Portland Trail Blazers,4,67-90,22,free throw,True,15,True,False
+2010-11-28,36.3,Utah Jazz,Portland Trail Blazers,4,67-90,22,free throw,True,15,False,False
+2010-11-28,38.75,Utah Jazz,Portland Trail Blazers,4,69-94,23,two point shot,True,4,False,False
+2010-11-28,46.6833333333,Utah Jazz,Portland Trail Blazers,4,88-107,18,free throw,True,15,False,False
+2010-11-28,46.6833333333,Utah Jazz,Portland Trail Blazers,4,88-108,19,free throw,True,15,True,False
+2010-11-28,47.6166666667,Utah Jazz,Portland Trail Blazers,4,92-108,14,tip shot,True,0,False,False
+2010-02-21,15.7,Utah Jazz,Portland Trail Blazers,2,22-37,-17,dunk,False,0,True,True
+2010-02-21,32.5333333333,Utah Jazz,Portland Trail Blazers,3,54-68,-15,free throw,False,15,True,True
+2010-02-21,32.5333333333,Utah Jazz,Portland Trail Blazers,3,54-68,-15,free throw,False,15,False,True
+2010-02-21,41.0666666667,Utah Jazz,Portland Trail Blazers,4,67-75,-9,free throw,False,15,True,True
+2010-02-21,41.0666666667,Utah Jazz,Portland Trail Blazers,4,67-75,-9,free throw,False,15,False,True
+2010-02-21,17.8666666667,Utah Jazz,Portland Trail Blazers,5,85-86,-3,dunk,False,0,True,True
+2010-02-21,19.6333333333,Utah Jazz,Portland Trail Blazers,5,89-86,1,dunk,False,0,True,True
+2010-02-21,19.6333333333,Utah Jazz,Portland Trail Blazers,5,89-86,2,free throw,False,15,False,True
+2011-01-21,34.7833333333,Utah Jazz,Boston Celtics,3,62-81,-21,two point jumper,False,10,False,True
+2011-01-21,35.9333333333,Utah Jazz,Boston Celtics,3,62-85,-24,free throw,False,15,False,True
+2011-01-21,35.9333333333,Utah Jazz,Boston Celtics,3,63-85,-23,free throw,False,15,True,True
+2011-01-21,39.0,Utah Jazz,Boston Celtics,4,71-90,-21,dunk,False,0,True,True
+2011-01-21,40.8833333333,Utah Jazz,Boston Celtics,4,73-94,-23,hook shot,False,8,True,True
+2011-01-21,45.4666666667,Utah Jazz,Boston Celtics,4,83-103,-22,hook shot,False,4,True,True
+2011-01-21,47.9166666667,Utah Jazz,Boston Celtics,4,86-110,-26,two point jumper,False,1,False,True
+2011-03-14,14.3666666667,Utah Jazz,Philadelphia 76ers,2,27-34,5,two point jumper,True,17,False,True
+2011-03-14,15.0833333333,Utah Jazz,Philadelphia 76ers,2,27-36,7,two point shot,True,6,True,True
+2011-03-09,17.7833333333,Utah Jazz,Toronto Raptors,2,37-41,-6,two point shot,False,6,False,True
+2011-03-09,18.9166666667,Utah Jazz,Toronto Raptors,2,38-43,-6,free throw,False,15,True,True
+2011-03-09,18.9166666667,Utah Jazz,Toronto Raptors,2,38-43,-6,free throw,False,15,False,True
+2011-03-09,20.8333333333,Utah Jazz,Toronto Raptors,2,44-45,-3,layup,False,0,True,True
+2011-03-09,23.3,Utah Jazz,Toronto Raptors,2,51-47,2,layup,False,0,False,True
+2011-03-09,34.3666666667,Utah Jazz,Toronto Raptors,3,70-71,-3,tip shot,False,0,False,True
+2011-12-13,35.95,Utah Jazz,Golden State Warriors,3,70-74,2,two point shot,True,1,True,False
+2011-11-06,13.75,Utah Jazz,Los Angeles Clippers,2,37-24,-15,two point jumper,True,4,True,True
+2011-11-06,14.9,Utah Jazz,Los Angeles Clippers,2,37-26,-13,two point jumper,True,4,False,True
+2011-11-28,12.3833333333,Utah Jazz,Los Angeles Clippers,2,32-32,-2,hook shot,False,7,True,False
+2011-11-28,13.3166666667,Utah Jazz,Los Angeles Clippers,2,35-34,-1,dunk,False,0,True,False
+2011-12-29,9.65,Utah Jazz,Los Angeles Clippers,1,17-24,-9,layup,False,0,True,False
+2011-12-29,12.8166666667,Utah Jazz,Los Angeles Clippers,2,26-34,-10,layup,False,0,True,False
+2011-12-29,15.5666666667,Utah Jazz,Los Angeles Clippers,2,32-39,-9,layup,False,0,True,False
+2011-04-01,5.13333333333,Utah Jazz,Los Angeles Lakers,1,9-14,3,two point jumper,True,19,True,False
+2011-04-01,8.56666666667,Utah Jazz,Los Angeles Lakers,1,13-24,9,two point shot,True,1,True,False
+2011-10-28,11.8833333333,Utah Jazz,Phoenix Suns,1,25-20,-7,tip shot,True,0,False,True
+2011-10-28,11.8833333333,Utah Jazz,Phoenix Suns,1,25-22,-5,tip shot,True,0,True,True
+2011-10-28,12.0,Utah Jazz,Phoenix Suns,1,27-22,-8,three point jumper,True,31,False,True
+2011-10-28,13.6833333333,Utah Jazz,Phoenix Suns,2,32-28,-6,two point shot,True,5,True,True
+2011-02-11,10.0166666667,Utah Jazz,Phoenix Suns,1,14-27,11,two point jumper,True,20,False,False
+2011-02-11,12.5666666667,Utah Jazz,Phoenix Suns,2,19-31,10,hook shot,True,1,False,False
+2011-11-22,12.25,Utah Jazz,Sacramento Kings,2,22-20,-3,free throw,True,15,False,True
+2011-11-22,12.25,Utah Jazz,Sacramento Kings,2,22-20,-3,free throw,True,15,False,True
+2011-11-22,13.5833333333,Utah Jazz,Sacramento Kings,2,24-22,-4,two point jumper,True,21,False,True
+2011-11-22,14.3,Utah Jazz,Sacramento Kings,2,24-22,-4,two point jumper,True,7,False,True
+2011-11-22,18.8833333333,Utah Jazz,Sacramento Kings,2,32-39,5,layup,True,0,True,True
+2011-11-22,18.8833333333,Utah Jazz,Sacramento Kings,2,32-39,6,free throw,True,15,False,True
+2011-11-22,20.7333333333,Utah Jazz,Sacramento Kings,2,35-43,6,layup,True,0,False,True
+2011-11-22,22.7333333333,Utah Jazz,Sacramento Kings,2,53-64,9,two point jumper,True,1,False,True
+2011-02-07,12.5,Utah Jazz,Sacramento Kings,2,30-30,-2,two point jumper,False,5,False,True
+2011-02-07,14.7666666667,Utah Jazz,Sacramento Kings,2,34-36,-3,free throw,False,15,True,True
+2011-02-07,14.7666666667,Utah Jazz,Sacramento Kings,2,34-36,-3,free throw,False,15,False,True
+2011-02-07,15.25,Utah Jazz,Sacramento Kings,2,36-38,-4,dunk,False,0,True,True
+2011-02-07,15.8166666667,Utah Jazz,Sacramento Kings,2,39-39,-2,dunk,False,0,True,True
+2011-02-07,17.0666666667,Utah Jazz,Sacramento Kings,2,41-39,0,two point shot,False,6,True,True
+2011-02-07,31.2333333333,Utah Jazz,Sacramento Kings,3,68-73,-7,tip shot,False,0,False,True
+2011-02-07,35.6,Utah Jazz,Sacramento Kings,3,78-84,-8,two point shot,False,5,True,True
+2011-02-07,36.0,Utah Jazz,Sacramento Kings,4,80-87,-8,free throw,False,15,False,True
+2011-02-07,36.0,Utah Jazz,Sacramento Kings,4,80-87,-8,free throw,False,15,False,True
+2011-02-07,36.75,Utah Jazz,Sacramento Kings,4,82-87,-7,hook shot,False,5,True,True
+2011-04-03,6.38333333333,Utah Jazz,Sacramento Kings,1,12-9,2,free throw,False,15,True,True
+2011-04-03,6.38333333333,Utah Jazz,Sacramento Kings,1,13-9,3,free throw,False,15,True,True
+2011-01-03,17.6666666667,Utah Jazz,Detroit Pistons,2,37-45,6,layup,True,0,True,False
+2011-01-03,18.1,Utah Jazz,Detroit Pistons,2,39-46,6,free throw,True,15,True,False
+2011-01-03,18.1,Utah Jazz,Detroit Pistons,2,39-46,6,free throw,True,15,False,False
+2011-12-01,36.3666666667,Utah Jazz,Indiana Pacers,4,68-85,15,two point jumper,True,4,False,False
+2011-12-03,12.5666666667,Utah Jazz,Dallas Mavericks,2,25-20,-6,free throw,True,15,False,False
+2011-12-03,12.5666666667,Utah Jazz,Dallas Mavericks,2,25-21,-5,free throw,True,15,True,False
+2011-12-03,13.1166666667,Utah Jazz,Dallas Mavericks,2,25-21,-6,two point jumper,True,19,False,False
+2011-12-03,14.95,Utah Jazz,Dallas Mavericks,2,27-26,-3,two point shot,True,1,True,False
+2011-12-03,16.35,Utah Jazz,Dallas Mavericks,2,27-30,1,two point shot,True,1,True,False
+2011-02-23,47.7666666667,Utah Jazz,Dallas Mavericks,4,99-118,-21,two point jumper,False,15,False,True
+2011-01-08,13.1166666667,Utah Jazz,Houston Rockets,2,23-27,-6,two point jumper,False,17,True,False
+2011-01-08,14.1166666667,Utah Jazz,Houston Rockets,2,23-27,-6,tip shot,False,0,False,False
+2011-12-06,18.0666666667,Utah Jazz,Memphis Grizzlies,2,24-29,3,hook shot,True,5,False,True
+2011-01-01,14.5166666667,Utah Jazz,Memphis Grizzlies,2,25-27,0,hook shot,True,5,True,True
+2011-01-01,18.2333333333,Utah Jazz,Memphis Grizzlies,2,28-35,5,two point shot,True,4,False,True
+2011-01-01,19.6333333333,Utah Jazz,Memphis Grizzlies,2,31-42,9,dunk,True,0,True,True
+2011-01-01,20.5166666667,Utah Jazz,Memphis Grizzlies,2,33-42,7,hook shot,True,11,False,True
+2011-01-01,34.9333333333,Utah Jazz,Memphis Grizzlies,3,65-69,2,layup,True,0,False,True
+2011-01-01,14.25,Utah Jazz,Memphis Grizzlies,5,79-79,-1,free throw,True,15,True,True
+2011-01-01,14.25,Utah Jazz,Memphis Grizzlies,5,79-79,-1,free throw,True,15,False,True
+2011-01-07,10.3833333333,Utah Jazz,Memphis Grizzlies,1,19-23,-6,two point shot,False,2,True,True
+2011-01-07,36.1833333333,Utah Jazz,Memphis Grizzlies,4,67-76,-11,dunk,False,0,True,True
+2011-11-24,13.8666666667,Utah Jazz,New Orleans Pelicans,2,30-35,3,tip shot,True,0,False,False
+2011-12-17,47.5333333333,Utah Jazz,New Orleans Pelicans,4,71-100,-30,free throw,False,15,False,True
+2011-12-17,47.5333333333,Utah Jazz,New Orleans Pelicans,4,71-100,-30,free throw,False,15,False,True
+2011-12-17,47.8666666667,Utah Jazz,New Orleans Pelicans,4,71-100,-31,two point jumper,False,1,False,True
+2011-11-12,16.2833333333,Utah Jazz,Atlanta Hawks,2,29-30,-3,two point jumper,False,18,False,True
+2011-11-12,35.9666666667,Utah Jazz,Atlanta Hawks,3,63-69,-8,layup,False,0,False,True
+2011-11-12,36.0,Utah Jazz,Atlanta Hawks,3,63-69,-8,tip shot,False,0,False,True
+2011-11-12,40.7833333333,Utah Jazz,Atlanta Hawks,4,75-78,-5,tip shot,False,0,True,True
+2011-01-05,12.5666666667,Utah Jazz,Atlanta Hawks,2,30-17,-14,free throw,True,15,False,True
+2011-01-05,12.5666666667,Utah Jazz,Atlanta Hawks,2,30-18,-13,free throw,True,15,True,True
+2011-01-05,35.1333333333,Utah Jazz,Atlanta Hawks,3,84-68,-17,free throw,True,15,True,True
+2011-01-05,35.1333333333,Utah Jazz,Atlanta Hawks,3,84-69,-16,free throw,True,15,True,True
+2011-01-05,35.8833333333,Utah Jazz,Atlanta Hawks,3,86-69,-19,two point shot,True,1,False,True
+2011-01-05,44.3333333333,Utah Jazz,Atlanta Hawks,4,103-79,-26,two point jumper,True,18,False,True
+2011-11-13,15.9,Utah Jazz,Charlotte Bobcats,2,21-32,-13,dunk,False,0,True,True
+2011-11-13,34.55,Utah Jazz,Charlotte Bobcats,3,60-71,-12,free throw,False,15,False,True
+2011-11-13,34.55,Utah Jazz,Charlotte Bobcats,3,60-71,-12,free throw,False,15,False,True
+2011-11-13,40.0333333333,Utah Jazz,Charlotte Bobcats,4,75-80,-7,tip shot,False,0,True,True
+2011-01-31,13.3166666667,Utah Jazz,Charlotte Bobcats,2,20-24,2,two point jumper,True,6,False,True
+2011-11-09,37.4,Utah Jazz,Miami Heat,4,66-75,-11,layup,False,0,True,True
+2011-11-09,17.9666666667,Utah Jazz,Miami Heat,5,106-104,0,layup,False,0,True,True
+2011-11-09,18.6,Utah Jazz,Miami Heat,5,106-107,-3,two point jumper,False,4,False,True
+2011-11-09,19.1333333333,Utah Jazz,Miami Heat,5,106-109,-4,free throw,False,15,False,True
+2011-11-09,19.1333333333,Utah Jazz,Miami Heat,5,107-109,-3,free throw,False,15,True,True
+2011-11-10,11.8833333333,Utah Jazz,Orlando Magic,1,22-20,0,layup,False,0,False,False
+2011-11-10,34.7166666667,Utah Jazz,Orlando Magic,3,56-74,-19,free throw,False,15,False,False
+2011-11-10,34.7166666667,Utah Jazz,Orlando Magic,3,57-74,-18,free throw,False,15,True,False
+2011-11-10,37.3,Utah Jazz,Orlando Magic,4,69-76,-9,dunk,False,0,True,False
+2011-11-10,38.05,Utah Jazz,Orlando Magic,4,72-76,-6,hook shot,False,3,True,False
+2011-10-27,12.5666666667,Utah Jazz,Denver Nuggets,2,22-30,-10,dunk,False,0,True,True
+2011-10-27,14.95,Utah Jazz,Denver Nuggets,2,26-36,-11,free throw,False,15,False,True
+2011-10-27,14.95,Utah Jazz,Denver Nuggets,2,26-36,-11,free throw,False,15,False,True
+2011-10-27,41.45,Utah Jazz,Denver Nuggets,4,73-97,-25,free throw,False,15,False,True
+2011-10-27,41.45,Utah Jazz,Denver Nuggets,4,73-97,-25,free throw,False,15,False,True
+2011-02-04,5.28333333333,Utah Jazz,Denver Nuggets,1,14-10,2,dunk,False,0,True,True
+2011-02-04,6.66666666667,Utah Jazz,Denver Nuggets,1,16-12,2,two point jumper,False,8,False,True
+2011-02-04,23.4833333333,Utah Jazz,Denver Nuggets,2,50-47,1,layup,False,0,False,True
+2011-03-03,36.7166666667,Utah Jazz,Denver Nuggets,4,75-78,1,tip shot,True,0,True,False
+2011-03-03,39.15,Utah Jazz,Denver Nuggets,4,78-84,4,layup,True,0,False,False
+2011-12-22,34.5,Utah Jazz,Minnesota Timberwolves,3,67-77,-11,free throw,False,15,True,True
+2011-12-22,34.5,Utah Jazz,Minnesota Timberwolves,3,68-77,-10,free throw,False,15,True,True
+2011-03-11,16.9833333333,Utah Jazz,Minnesota Timberwolves,2,37-52,-17,two point jumper,False,10,False,False
+2011-10-31,47.5166666667,Utah Jazz,Oklahoma City Thunder,4,120-98,20,two point jumper,False,1,False,False
+2011-11-15,14.0,Utah Jazz,Oklahoma City Thunder,2,34-38,2,layup,True,0,False,False
+2011-11-15,14.0666666667,Utah Jazz,Oklahoma City Thunder,2,34-38,2,layup,True,0,False,False
+2011-11-15,15.5,Utah Jazz,Oklahoma City Thunder,2,37-42,3,two point shot,True,1,True,False
+2011-02-05,47.0333333333,Utah Jazz,Oklahoma City Thunder,4,119-101,-20,two point shot,True,1,True,False
+2011-02-05,47.0333333333,Utah Jazz,Oklahoma City Thunder,4,119-101,-19,free throw,True,15,False,False
+2011-02-05,48.0,Utah Jazz,Oklahoma City Thunder,4,121-105,-18,two point jumper,True,18,False,False
+2011-12-30,10.7166666667,Utah Jazz,Portland Trail Blazers,1,19-26,-8,free throw,False,15,True,True
+2011-12-30,10.7166666667,Utah Jazz,Portland Trail Blazers,1,20-26,-7,free throw,False,15,True,True
+2011-12-30,12.3166666667,Utah Jazz,Portland Trail Blazers,2,25-29,-5,free throw,False,15,False,True
+2011-12-30,12.3166666667,Utah Jazz,Portland Trail Blazers,2,25-29,-5,free throw,False,15,False,True
+2011-12-30,13.3,Utah Jazz,Portland Trail Blazers,2,27-29,-4,two point shot,False,3,True,True
+2011-12-30,14.6333333333,Utah Jazz,Portland Trail Blazers,2,27-29,-4,two point jumper,False,14,False,True
+2011-12-30,15.8333333333,Utah Jazz,Portland Trail Blazers,2,28-29,-3,two point shot,False,8,False,True
+2011-12-30,19.0666666667,Utah Jazz,Portland Trail Blazers,2,32-34,-4,layup,False,0,False,True
+2011-12-30,23.55,Utah Jazz,Portland Trail Blazers,2,40-44,-5,free throw,False,15,False,True
+2011-12-30,23.55,Utah Jazz,Portland Trail Blazers,2,40-44,-5,free throw,False,15,False,True
+2011-12-30,37.95,Utah Jazz,Portland Trail Blazers,4,72-81,-11,two point shot,False,6,True,True
+2011-12-30,38.8333333333,Utah Jazz,Portland Trail Blazers,4,72-85,-15,hook shot,False,3,False,True
+2011-12-30,46.85,Utah Jazz,Portland Trail Blazers,4,83-100,-18,free throw,False,15,False,True
+2011-12-30,46.85,Utah Jazz,Portland Trail Blazers,4,85-100,-16,free throw,False,15,True,True
+2012-04-13,44.3666666667,Indiana Pacers,Cleveland Cavaliers,4,79-93,13,free throw,True,15,True,False
+2012-04-13,44.3666666667,Indiana Pacers,Cleveland Cavaliers,4,79-93,13,free throw,True,15,False,False
+2012-04-13,46.1833333333,Indiana Pacers,Cleveland Cavaliers,4,79-99,19,free throw,True,15,True,False
+2012-04-13,46.1833333333,Indiana Pacers,Cleveland Cavaliers,4,79-99,19,free throw,True,15,False,False
+2012-04-23,21.7833333333,Indiana Pacers,Detroit Pistons,2,46-48,0,layup,True,0,False,False
+2012-04-23,22.3,Indiana Pacers,Detroit Pistons,2,46-50,2,two point shot,True,6,True,False
+2012-04-23,23.9166666667,Indiana Pacers,Detroit Pistons,2,52-53,0,free throw,True,15,True,False
+2012-04-23,23.9166666667,Indiana Pacers,Detroit Pistons,2,52-54,1,free throw,True,15,True,False
+2012-04-16,45.3666666667,Indiana Pacers,Minnesota Timberwolves,4,86-102,14,layup,True,0,False,False
+2012-04-16,45.4,Indiana Pacers,Minnesota Timberwolves,4,86-104,16,tip shot,True,0,True,False

@@ -1,0 +1,410 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2006-01-21,42.5666666667,Brooklyn Nets,Boston Celtics,4,68-100,31,free throw,True,15,False,False
+2006-01-21,42.5666666667,Brooklyn Nets,Boston Celtics,4,68-100,31,free throw,True,15,False,False
+2006-01-21,45.0666666667,Brooklyn Nets,Boston Celtics,4,72-102,28,two point jumper,True,1,True,False
+2006-11-23,47.85,Brooklyn Nets,Sacramento Kings,4,105-114,-11,layup,False,0,True,False
+2006-12-07,47.8666666667,Brooklyn Nets,Charlotte Bobcats,4,99-84,13,two point jumper,False,1,False,True
+2006-12-14,14.95,Brooklyn Nets,Charlotte Bobcats,2,21-29,6,two point jumper,True,7,True,False
+2006-12-14,16.5333333333,Brooklyn Nets,Charlotte Bobcats,2,23-31,6,two point jumper,True,4,False,False
+2006-01-25,42.7333333333,Brooklyn Nets,Los Angeles Clippers,4,60-82,-24,two point jumper,False,15,False,False
+2006-01-25,43.35,Brooklyn Nets,Los Angeles Clippers,4,62-82,-22,layup,False,0,True,False
+2006-01-25,46.5166666667,Brooklyn Nets,Los Angeles Clippers,4,72-86,-16,dunk,False,0,True,False
+2006-01-25,47.55,Brooklyn Nets,Los Angeles Clippers,4,78-90,-14,layup,False,0,True,False
+2006-01-25,47.55,Brooklyn Nets,Los Angeles Clippers,4,78-90,-13,free throw,False,15,False,False
+2006-01-25,47.55,Brooklyn Nets,Los Angeles Clippers,4,79-90,-12,free throw,False,15,True,False
+2006-04-02,0.633333333333,New Orleans Pelicans,Toronto Raptors,1,0-2,-4,two point jumper,False,17,False,True
+2006-04-02,13.5666666667,New Orleans Pelicans,Toronto Raptors,2,25-23,-1,three point jumper,False,22,False,True
+2006-04-02,21.2,New Orleans Pelicans,Toronto Raptors,5,98-100,-5,three point jumper,False,23,False,True
+2006-04-02,22.45,New Orleans Pelicans,Toronto Raptors,6,111-105,5,free throw,False,15,False,True
+2006-04-02,22.45,New Orleans Pelicans,Toronto Raptors,6,112-105,6,free throw,False,15,True,True
+2006-04-02,23.05,New Orleans Pelicans,Toronto Raptors,6,114-107,5,tip shot,False,0,True,True
+2006-04-07,0.65,New Orleans Pelicans,Toronto Raptors,1,0-3,1,two point jumper,True,24,False,True
+2006-04-07,2.06666666667,New Orleans Pelicans,Toronto Raptors,1,0-9,7,layup,True,0,True,True
+2006-04-07,3.5,New Orleans Pelicans,Toronto Raptors,1,5-11,4,two point jumper,True,16,False,True
+2006-04-07,3.76666666667,New Orleans Pelicans,Toronto Raptors,1,5-14,6,three point jumper,True,25,True,True
+2006-04-07,4.6,New Orleans Pelicans,Toronto Raptors,1,7-16,7,layup,True,0,True,True
+2006-04-07,24.0,New Orleans Pelicans,Toronto Raptors,2,47-53,3,three point jumper,True,23,True,True
+2006-04-07,29.5666666667,New Orleans Pelicans,Toronto Raptors,3,54-63,6,three point jumper,True,23,True,True
+2006-04-07,32.0166666667,New Orleans Pelicans,Toronto Raptors,3,59-65,3,three point jumper,True,24,False,True
+2006-03-29,1.56666666667,New Orleans Pelicans,Golden State Warriors,1,2-3,-3,two point jumper,False,12,False,True
+2006-03-29,2.51666666667,New Orleans Pelicans,Golden State Warriors,1,4-5,-3,two point jumper,False,21,False,True
+2006-03-29,4.88333333333,New Orleans Pelicans,Golden State Warriors,1,6-13,-10,three point jumper,False,23,False,True
+2006-03-29,13.3833333333,New Orleans Pelicans,Golden State Warriors,2,22-29,-9,two point jumper,False,4,False,True
+2006-03-29,13.4,New Orleans Pelicans,Golden State Warriors,2,22-29,-9,tip shot,False,0,False,True
+2006-03-29,26.6333333333,New Orleans Pelicans,Golden State Warriors,3,50-49,-1,two point jumper,False,22,False,True
+2006-03-29,27.5,New Orleans Pelicans,Golden State Warriors,3,50-51,-3,two point jumper,False,16,False,True
+2006-04-05,0.883333333333,New Orleans Pelicans,Golden State Warriors,1,0-2,0,layup,True,0,True,True
+2006-04-05,5.2,New Orleans Pelicans,Golden State Warriors,1,12-12,-2,layup,True,0,True,True
+2006-04-05,5.78333333333,New Orleans Pelicans,Golden State Warriors,1,12-12,-2,two point jumper,True,22,False,True
+2006-04-05,28.45,New Orleans Pelicans,Golden State Warriors,3,63-63,-2,layup,True,0,True,True
+2006-04-05,30.25,New Orleans Pelicans,Golden State Warriors,3,69-70,-2,three point jumper,True,24,True,True
+2006-04-05,31.2833333333,New Orleans Pelicans,Golden State Warriors,3,71-70,-4,three point jumper,True,23,False,True
+2006-04-05,40.4833333333,New Orleans Pelicans,Golden State Warriors,4,89-89,-2,two point shot,True,6,False,True
+2006-04-05,40.5666666667,New Orleans Pelicans,Golden State Warriors,4,89-91,0,layup,True,0,True,True
+2006-04-05,42.0333333333,New Orleans Pelicans,Golden State Warriors,4,94-91,-5,two point jumper,True,5,False,True
+2006-04-05,18.6166666667,New Orleans Pelicans,Golden State Warriors,5,105-106,-1,layup,True,0,True,True
+2006-03-01,12.2666666667,New Orleans Pelicans,Los Angeles Clippers,2,30-25,3,two point jumper,False,8,False,False
+2006-03-01,13.5,New Orleans Pelicans,Los Angeles Clippers,2,32-29,1,two point jumper,False,1,False,False
+2006-03-01,16.7833333333,New Orleans Pelicans,Los Angeles Clippers,2,34-34,-3,three point jumper,False,26,False,False
+2006-03-01,38.2,New Orleans Pelicans,Los Angeles Clippers,4,59-70,-14,three point jumper,False,23,False,False
+2006-03-01,38.8166666667,New Orleans Pelicans,Los Angeles Clippers,4,59-72,-15,two point jumper,False,16,False,False
+2006-03-08,43.6666666667,New Orleans Pelicans,Los Angeles Lakers,4,97-93,-7,three point jumper,True,22,False,False
+2006-03-26,11.4333333333,New Orleans Pelicans,Los Angeles Lakers,1,29-28,-2,three point jumper,False,23,True,True
+2006-03-26,36.0,New Orleans Pelicans,Los Angeles Lakers,3,75-83,-11,three point jumper,False,23,False,True
+2006-03-26,36.3833333333,New Orleans Pelicans,Los Angeles Lakers,4,77-83,-8,dunk,False,0,True,True
+2006-03-26,37.3833333333,New Orleans Pelicans,Los Angeles Lakers,4,77-87,-11,free throw,False,15,False,True
+2006-03-26,37.3833333333,New Orleans Pelicans,Los Angeles Lakers,4,78-87,-10,free throw,False,15,True,True
+2006-04-19,13.0,New Orleans Pelicans,Los Angeles Lakers,2,22-32,-12,layup,False,0,True,True
+2006-04-19,15.3333333333,New Orleans Pelicans,Los Angeles Lakers,2,24-38,-16,two point jumper,False,19,False,True
+2006-04-19,15.7666666667,New Orleans Pelicans,Los Angeles Lakers,2,24-40,-18,two point jumper,False,16,False,True
+2006-04-19,45.4333333333,New Orleans Pelicans,Los Angeles Lakers,4,86-110,-26,layup,False,0,True,True
+2006-03-06,35.0833333333,New Orleans Pelicans,Phoenix Suns,3,70-75,3,two point jumper,True,16,False,True
+2006-04-17,8.11666666667,New Orleans Pelicans,Phoenix Suns,1,14-17,-5,two point jumper,False,18,False,True
+2006-04-17,10.8666666667,New Orleans Pelicans,Phoenix Suns,1,16-20,-6,two point jumper,False,23,False,True
+2006-04-17,11.15,New Orleans Pelicans,Phoenix Suns,1,18-20,-4,two point jumper,False,18,True,True
+2006-04-17,12.9333333333,New Orleans Pelicans,Phoenix Suns,2,20-27,-9,two point jumper,False,15,False,True
+2006-04-17,16.0,New Orleans Pelicans,Phoenix Suns,2,23-35,-14,two point jumper,False,21,False,True
+2006-04-17,36.45,New Orleans Pelicans,Phoenix Suns,4,66-87,-23,two point jumper,False,17,True,True
+2006-04-17,41.0666666667,New Orleans Pelicans,Phoenix Suns,4,70-96,-29,three point jumper,False,23,False,True
+2006-04-17,42.5,New Orleans Pelicans,Phoenix Suns,4,70-101,-34,three point jumper,False,25,False,True
+2006-04-17,47.4333333333,New Orleans Pelicans,Phoenix Suns,4,78-115,-40,three point jumper,False,25,False,True
+2006-04-16,11.5666666667,New Orleans Pelicans,Sacramento Kings,1,18-25,-9,two point jumper,False,20,False,False
+2006-04-16,12.5833333333,New Orleans Pelicans,Sacramento Kings,2,22-26,-6,two point shot,False,1,True,False
+2006-04-16,19.45,New Orleans Pelicans,Sacramento Kings,2,30-42,-14,two point jumper,False,21,True,False
+2006-04-16,22.2666666667,New Orleans Pelicans,Sacramento Kings,2,33-49,-18,two point jumper,False,13,False,False
+2006-04-16,45.1666666667,New Orleans Pelicans,Sacramento Kings,4,76-94,-21,three point jumper,False,25,True,False
+2006-04-16,47.05,New Orleans Pelicans,Sacramento Kings,4,79-94,-17,tip shot,False,0,False,False
+2006-03-24,8.53333333333,New Orleans Pelicans,Chicago Bulls,1,18-13,4,free throw,False,15,True,False
+2006-03-24,8.53333333333,New Orleans Pelicans,Chicago Bulls,1,18-13,4,free throw,False,15,False,False
+2006-03-24,8.53333333333,New Orleans Pelicans,Chicago Bulls,1,19-13,5,free throw,False,15,True,False
+2006-03-24,11.5,New Orleans Pelicans,Chicago Bulls,1,26-15,8,three point jumper,False,23,True,False
+2006-03-24,26.55,New Orleans Pelicans,Chicago Bulls,3,47-50,-5,layup,False,0,False,False
+2006-03-24,27.45,New Orleans Pelicans,Chicago Bulls,3,51-50,-1,layup,False,0,True,False
+2006-03-24,29.5333333333,New Orleans Pelicans,Chicago Bulls,3,56-51,2,three point jumper,False,26,True,False
+2006-03-24,30.0333333333,New Orleans Pelicans,Chicago Bulls,3,56-53,1,two point jumper,False,11,False,False
+2006-03-24,30.7333333333,New Orleans Pelicans,Chicago Bulls,3,56-55,-1,two point jumper,False,18,False,False
+2006-03-24,31.4166666667,New Orleans Pelicans,Chicago Bulls,3,57-57,-1,free throw,False,15,True,False
+2006-03-24,31.4166666667,New Orleans Pelicans,Chicago Bulls,3,57-57,-1,free throw,False,15,False,False
+2006-03-24,31.75,New Orleans Pelicans,Chicago Bulls,3,57-57,-3,three point jumper,False,25,False,False
+2006-04-10,14.5,New Orleans Pelicans,Cleveland Cavaliers,2,30-32,-1,three point jumper,True,24,False,False
+2006-04-10,16.2,New Orleans Pelicans,Cleveland Cavaliers,2,37-38,-1,dunk,True,0,True,False
+2006-04-10,18.7833333333,New Orleans Pelicans,Cleveland Cavaliers,2,39-47,6,two point jumper,True,19,False,False
+2006-04-10,36.2166666667,New Orleans Pelicans,Cleveland Cavaliers,4,81-75,-9,three point jumper,True,22,False,False
+2006-04-04,2.68333333333,New Orleans Pelicans,Detroit Pistons,1,4-2,0,tip shot,False,0,False,True
+2006-04-04,2.7,New Orleans Pelicans,Detroit Pistons,1,4-2,0,tip shot,False,0,False,True
+2006-04-04,2.71666666667,New Orleans Pelicans,Detroit Pistons,1,6-2,2,tip shot,False,0,True,True
+2006-04-04,28.7,New Orleans Pelicans,Detroit Pistons,3,50-62,-15,three point jumper,False,25,False,True
+2006-04-04,29.9833333333,New Orleans Pelicans,Detroit Pistons,3,52-64,-14,two point jumper,False,10,False,True
+2006-04-04,40.3166666667,New Orleans Pelicans,Detroit Pistons,4,70-86,-18,two point jumper,False,22,True,True
+2006-03-10,14.8166666667,New Orleans Pelicans,Indiana Pacers,2,33-30,-5,two point jumper,True,5,False,False
+2006-03-10,15.3333333333,New Orleans Pelicans,Indiana Pacers,2,36-30,-8,two point jumper,True,16,False,False
+2006-03-10,15.5666666667,New Orleans Pelicans,Indiana Pacers,2,36-30,-8,two point jumper,True,16,False,False
+2006-04-08,2.4,New Orleans Pelicans,Dallas Mavericks,1,5-10,-7,layup,False,0,True,True
+2006-04-08,44.7833333333,New Orleans Pelicans,Dallas Mavericks,4,71-98,-29,two point jumper,False,18,False,True
+2006-04-08,45.4833333333,New Orleans Pelicans,Dallas Mavericks,4,73-98,-27,tip shot,False,0,True,True
+2006-04-08,47.9833333333,New Orleans Pelicans,Dallas Mavericks,4,77-101,-26,two point jumper,False,18,False,True
+2006-03-23,16.3166666667,New Orleans Pelicans,Houston Rockets,2,35-34,-4,three point jumper,True,26,False,False
+2006-03-23,18.8166666667,New Orleans Pelicans,Houston Rockets,2,40-38,-4,two point shot,True,8,True,False
+2006-03-23,31.7,New Orleans Pelicans,Houston Rockets,3,59-62,1,two point jumper,True,13,False,False
+2006-03-23,34.2166666667,New Orleans Pelicans,Houston Rockets,3,63-62,-3,tip shot,True,0,False,False
+2006-03-23,35.15,New Orleans Pelicans,Houston Rockets,3,68-62,-8,tip shot,True,0,False,False
+2006-03-23,35.2,New Orleans Pelicans,Houston Rockets,3,68-64,-6,tip shot,True,0,True,False
+2006-03-31,3.86666666667,New Orleans Pelicans,Memphis Grizzlies,1,4-9,3,two point jumper,True,19,True,True
+2006-03-31,11.8,New Orleans Pelicans,Memphis Grizzlies,1,18-26,6,two point shot,True,1,True,True
+2006-03-31,12.4,New Orleans Pelicans,Memphis Grizzlies,2,18-28,8,two point jumper,True,17,True,True
+2006-03-31,13.3,New Orleans Pelicans,Memphis Grizzlies,2,20-30,8,two point jumper,True,18,True,True
+2006-03-31,17.1666666667,New Orleans Pelicans,Memphis Grizzlies,2,28-34,4,two point jumper,True,18,False,True
+2006-03-31,22.2333333333,New Orleans Pelicans,Memphis Grizzlies,2,40-42,-1,three point jumper,True,23,False,True
+2006-03-31,23.9666666667,New Orleans Pelicans,Memphis Grizzlies,2,43-44,-1,two point jumper,True,17,True,True
+2006-03-31,24.3833333333,New Orleans Pelicans,Memphis Grizzlies,3,43-46,1,two point jumper,True,22,True,True
+2006-03-31,29.5,New Orleans Pelicans,Memphis Grizzlies,3,52-57,4,free throw,True,15,True,True
+2006-03-31,29.5,New Orleans Pelicans,Memphis Grizzlies,3,52-58,5,free throw,True,15,True,True
+2006-03-31,47.95,New Orleans Pelicans,Memphis Grizzlies,4,102-105,2,free throw,True,15,True,True
+2006-03-31,47.95,New Orleans Pelicans,Memphis Grizzlies,4,102-106,3,free throw,True,15,True,True
+2006-02-25,12.8,New Orleans Pelicans,Utah Jazz,2,28-25,1,tip shot,False,0,True,False
+2006-02-25,15.5,New Orleans Pelicans,Utah Jazz,2,35-29,3,three point jumper,False,23,True,False
+2006-02-25,16.5333333333,New Orleans Pelicans,Utah Jazz,2,37-31,4,layup,False,0,True,False
+2006-02-25,20.7166666667,New Orleans Pelicans,Utah Jazz,2,49-41,6,layup,False,0,True,False
+2006-02-25,20.7166666667,New Orleans Pelicans,Utah Jazz,2,50-41,8,free throw,False,15,True,False
+2006-02-25,28.0,New Orleans Pelicans,Utah Jazz,3,66-59,5,two point jumper,False,9,True,False
+2006-02-25,28.45,New Orleans Pelicans,Utah Jazz,3,69-59,7,three point jumper,False,24,True,False
+2006-02-25,29.9166666667,New Orleans Pelicans,Utah Jazz,3,71-62,7,two point jumper,False,9,True,False
+2006-02-26,14.2,New Orleans Pelicans,Portland Trail Blazers,2,18-23,-6,free throw,False,15,False,True
+2006-02-26,14.2,New Orleans Pelicans,Portland Trail Blazers,2,18-23,-6,free throw,False,15,False,True
+2006-02-26,15.3833333333,New Orleans Pelicans,Portland Trail Blazers,2,20-25,-8,three point jumper,False,23,False,True
+2006-02-26,15.6166666667,New Orleans Pelicans,Portland Trail Blazers,2,22-25,-5,layup,False,0,True,True
+2006-02-26,40.0,New Orleans Pelicans,Portland Trail Blazers,4,67-64,1,two point jumper,False,18,True,True
+2006-02-28,14.7,New Orleans Pelicans,Oklahoma City Thunder,2,29-30,-3,tip shot,False,0,False,False
+2006-02-28,15.95,New Orleans Pelicans,Oklahoma City Thunder,2,31-30,-2,three point jumper,False,23,False,False
+2006-02-28,16.4833333333,New Orleans Pelicans,Oklahoma City Thunder,2,32-32,-1,free throw,False,15,True,False
+2006-02-28,16.4833333333,New Orleans Pelicans,Oklahoma City Thunder,2,33-32,0,free throw,False,15,True,False
+2006-02-28,17.7333333333,New Orleans Pelicans,Oklahoma City Thunder,2,36-37,-2,free throw,False,15,True,False
+2006-02-28,17.7333333333,New Orleans Pelicans,Oklahoma City Thunder,2,37-37,-1,free throw,False,15,True,False
+2006-02-28,39.8333333333,New Orleans Pelicans,Oklahoma City Thunder,4,82-92,-12,two point jumper,False,4,False,False
+2006-02-28,42.5,New Orleans Pelicans,Oklahoma City Thunder,4,91-97,-8,two point shot,False,4,False,False
+2006-02-28,47.2666666667,New Orleans Pelicans,Oklahoma City Thunder,4,101-111,-13,three point jumper,False,27,False,False
+2006-03-14,15.2666666667,New Orleans Pelicans,San Antonio Spurs,2,32-37,-6,free throw,False,15,True,False
+2006-03-14,15.2666666667,New Orleans Pelicans,San Antonio Spurs,2,32-37,-6,free throw,False,15,False,False
+2006-03-14,35.85,New Orleans Pelicans,San Antonio Spurs,3,65-77,-14,two point jumper,False,4,False,False
+2006-03-18,7.48333333333,New Orleans Pelicans,Denver Nuggets,1,21-12,-11,two point jumper,True,22,False,True
+2006-03-18,7.78333333333,New Orleans Pelicans,Denver Nuggets,1,24-14,-12,two point jumper,True,22,True,True
+2006-03-18,27.8166666667,New Orleans Pelicans,Denver Nuggets,3,69-48,-23,layup,True,0,False,True
+2006-03-18,28.5,New Orleans Pelicans,Denver Nuggets,3,69-49,-21,free throw,True,15,True,True
+2006-03-18,28.5,New Orleans Pelicans,Denver Nuggets,3,69-50,-20,free throw,True,15,True,True
+2006-03-18,36.3166666667,New Orleans Pelicans,Denver Nuggets,4,82-66,-18,two point jumper,True,18,True,True
+2006-03-18,37.65,New Orleans Pelicans,Denver Nuggets,4,85-68,-19,two point jumper,True,23,True,True
+2006-03-18,38.3666666667,New Orleans Pelicans,Denver Nuggets,4,88-71,-20,three point jumper,True,23,True,True
+2006-03-27,11.85,New Orleans Pelicans,Utah Jazz,1,31-25,3,three point jumper,False,24,True,True
+2006-03-27,12.5,New Orleans Pelicans,Utah Jazz,2,31-27,2,tip shot,False,0,False,True
+2006-03-27,33.7333333333,New Orleans Pelicans,Utah Jazz,3,63-76,-16,three point jumper,False,24,True,True
+2006-03-27,38.5666666667,New Orleans Pelicans,Utah Jazz,4,70-88,-21,three point jumper,False,24,False,True
+2006-03-27,39.3166666667,New Orleans Pelicans,Utah Jazz,4,70-90,-22,tip shot,False,0,False,True
+2006-03-27,39.3333333333,New Orleans Pelicans,Utah Jazz,4,72-90,-20,tip shot,False,0,True,True
+2006-03-27,43.1,New Orleans Pelicans,Utah Jazz,4,76-96,-22,two point jumper,False,17,False,True
+2006-03-27,46.6,New Orleans Pelicans,Utah Jazz,4,80-104,-26,dunk,False,0,True,True
+2006-04-12,13.1333333333,New Orleans Pelicans,Oklahoma City Thunder,2,31-28,-5,dunk,True,0,True,False
+2006-04-14,11.95,New Orleans Pelicans,Utah Jazz,1,20-28,5,three point jumper,True,24,False,False
+2006-04-14,16.0333333333,New Orleans Pelicans,Utah Jazz,2,24-38,12,two point shot,True,15,True,False
+2006-04-14,16.7333333333,New Orleans Pelicans,Utah Jazz,2,24-38,12,two point jumper,True,10,False,False
+2006-04-14,35.15,New Orleans Pelicans,Utah Jazz,3,74-78,2,layup,True,0,False,False
+2007-11-01,14.0666666667,New Orleans Pelicans,Boston Celtics,2,35-19,14,layup,False,0,True,True
+2007-11-01,14.0666666667,New Orleans Pelicans,Boston Celtics,2,36-19,16,free throw,False,15,True,True
+2007-11-01,14.7666666667,New Orleans Pelicans,Boston Celtics,2,38-20,16,dunk,False,0,True,True
+2007-11-01,17.9166666667,New Orleans Pelicans,Boston Celtics,2,41-28,12,free throw,False,15,True,True
+2007-11-01,17.9166666667,New Orleans Pelicans,Boston Celtics,2,41-28,12,free throw,False,15,False,True
+2007-02-21,12.6166666667,New Orleans Pelicans,Brooklyn Nets,2,27-25,0,two point shot,False,11,False,True
+2007-02-21,14.5,New Orleans Pelicans,Brooklyn Nets,2,34-29,3,two point jumper,False,21,True,True
+2007-02-21,15.4333333333,New Orleans Pelicans,Brooklyn Nets,2,36-30,4,two point jumper,False,22,False,True
+2007-02-21,33.35,New Orleans Pelicans,Brooklyn Nets,3,72-73,-3,two point jumper,False,22,True,True
+2007-03-13,9.03333333333,New Orleans Pelicans,Brooklyn Nets,1,17-16,-3,two point jumper,True,15,True,False
+2007-03-13,15.0166666667,New Orleans Pelicans,Brooklyn Nets,2,37-30,-8,free throw,True,15,False,False
+2007-03-13,15.0166666667,New Orleans Pelicans,Brooklyn Nets,2,37-31,-7,free throw,True,15,True,False
+2007-03-13,16.1333333333,New Orleans Pelicans,Brooklyn Nets,2,39-31,-10,two point jumper,True,22,False,False
+2007-03-13,34.7833333333,New Orleans Pelicans,Brooklyn Nets,3,81-73,-10,two point jumper,True,21,False,False
+2007-03-13,38.8,New Orleans Pelicans,Brooklyn Nets,4,84-82,-4,two point jumper,True,23,True,False
+2007-03-13,40.35,New Orleans Pelicans,Brooklyn Nets,4,85-85,-2,layup,True,0,True,False
+2007-03-16,9.16666666667,New Orleans Pelicans,New York Knicks,1,8-19,-13,two point jumper,False,1,False,True
+2007-03-16,10.0,New Orleans Pelicans,New York Knicks,1,8-21,-15,two point jumper,False,21,False,True
+2007-03-16,11.55,New Orleans Pelicans,New York Knicks,1,15-27,-14,two point jumper,False,19,False,True
+2007-01-23,34.4,New Orleans Pelicans,Philadelphia 76ers,3,62-74,-14,two point jumper,False,19,False,True
+2007-01-23,36.7166666667,New Orleans Pelicans,Philadelphia 76ers,4,65-78,-15,layup,False,0,False,True
+2007-01-23,38.05,New Orleans Pelicans,Philadelphia 76ers,4,67-82,-17,layup,False,0,True,True
+2007-01-31,11.9333333333,New Orleans Pelicans,Philadelphia 76ers,1,18-18,-2,two point jumper,True,21,False,False
+2007-01-31,14.3833333333,New Orleans Pelicans,Philadelphia 76ers,2,22-24,0,tip shot,True,0,True,False
+2007-11-28,43.9166666667,New Orleans Pelicans,Toronto Raptors,4,86-68,-20,two point jumper,True,1,True,False
+2007-11-28,44.95,New Orleans Pelicans,Toronto Raptors,4,89-68,-23,two point jumper,True,16,False,False
+2007-01-24,10.5166666667,New Orleans Pelicans,Toronto Raptors,1,28-20,6,two point shot,False,3,True,False
+2007-01-24,11.9166666667,New Orleans Pelicans,Toronto Raptors,1,31-22,6,three point jumper,False,23,True,False
+2007-01-24,16.2833333333,New Orleans Pelicans,Toronto Raptors,2,35-26,7,two point jumper,False,19,False,False
+2007-01-24,37.5666666667,New Orleans Pelicans,Toronto Raptors,4,71-64,5,two point jumper,False,22,True,False
+2007-11-07,14.3166666667,New Orleans Pelicans,Golden State Warriors,2,19-32,11,layup,True,0,False,True
+2007-11-07,15.3166666667,New Orleans Pelicans,Golden State Warriors,2,23-34,9,two point jumper,True,20,True,True
+2007-11-07,16.1666666667,New Orleans Pelicans,Golden State Warriors,2,23-37,11,three point jumper,True,23,True,True
+2007-11-07,17.1,New Orleans Pelicans,Golden State Warriors,2,28-42,12,two point jumper,True,1,True,True
+2007-11-09,15.95,New Orleans Pelicans,Golden State Warriors,2,39-40,-3,two point shot,False,6,True,False
+2007-11-09,34.1,New Orleans Pelicans,Golden State Warriors,3,81-88,-8,free throw,False,15,True,False
+2007-11-09,34.1,New Orleans Pelicans,Golden State Warriors,3,82-88,-7,free throw,False,15,True,False
+2007-11-09,35.5166666667,New Orleans Pelicans,Golden State Warriors,3,83-90,-10,three point jumper,False,23,False,False
+2007-12-09,46.35,New Orleans Pelicans,Golden State Warriors,4,78-96,-19,free throw,False,15,True,True
+2007-12-09,46.35,New Orleans Pelicans,Golden State Warriors,4,78-96,-19,free throw,False,15,False,True
+2007-01-08,6.66666666667,New Orleans Pelicans,Los Angeles Clippers,1,9-16,5,two point shot,True,1,False,True
+2007-01-08,8.48333333333,New Orleans Pelicans,Los Angeles Clippers,1,11-20,7,two point jumper,True,1,True,True
+2007-01-08,9.56666666667,New Orleans Pelicans,Los Angeles Clippers,1,12-22,8,two point jumper,True,17,False,True
+2007-01-08,10.7666666667,New Orleans Pelicans,Los Angeles Clippers,1,14-24,8,two point shot,True,4,True,True
+2007-01-08,11.4666666667,New Orleans Pelicans,Los Angeles Clippers,1,15-26,9,layup,True,0,True,True
+2007-01-08,35.7666666667,New Orleans Pelicans,Los Angeles Clippers,3,69-73,2,two point jumper,True,18,False,True
+2007-01-08,39.2666666667,New Orleans Pelicans,Los Angeles Clippers,4,79-77,-5,three point jumper,True,23,False,True
+2007-01-08,39.8166666667,New Orleans Pelicans,Los Angeles Clippers,4,82-79,-5,two point jumper,True,1,True,True
+2007-01-20,13.45,New Orleans Pelicans,Los Angeles Lakers,2,33-29,-6,dunk,True,0,True,True
+2007-01-20,14.75,New Orleans Pelicans,Los Angeles Lakers,2,38-32,-8,layup,True,0,False,True
+2007-01-20,15.3,New Orleans Pelicans,Los Angeles Lakers,2,38-33,-7,two point jumper,True,20,False,True
+2007-01-20,40.95,New Orleans Pelicans,Los Angeles Lakers,4,88-92,2,two point jumper,True,15,False,True
+2007-03-09,10.2333333333,New Orleans Pelicans,Phoenix Suns,1,27-32,-7,two point shot,False,1,True,False
+2007-03-09,13.8666666667,New Orleans Pelicans,Phoenix Suns,2,33-37,-6,two point jumper,False,18,True,False
+2007-03-09,15.8666666667,New Orleans Pelicans,Phoenix Suns,2,39-39,-2,two point shot,False,13,True,False
+2007-01-26,10.8333333333,New Orleans Pelicans,Sacramento Kings,1,17-21,2,two point jumper,True,17,True,True
+2007-01-26,16.45,New Orleans Pelicans,Sacramento Kings,2,29-37,6,dunk,True,0,True,True
+2007-01-26,37.0,New Orleans Pelicans,Sacramento Kings,4,62-69,5,layup,True,0,True,True
+2007-01-26,37.6833333333,New Orleans Pelicans,Sacramento Kings,4,64-69,3,two point jumper,True,21,False,True
+2007-01-26,39.0666666667,New Orleans Pelicans,Sacramento Kings,4,66-71,3,two point jumper,True,16,False,True
+2007-02-05,10.6666666667,New Orleans Pelicans,Sacramento Kings,1,24-32,-10,two point shot,False,15,False,True
+2007-02-05,11.15,New Orleans Pelicans,Sacramento Kings,1,24-34,-12,two point jumper,False,20,False,True
+2007-02-05,11.9833333333,New Orleans Pelicans,Sacramento Kings,1,24-40,-19,three point jumper,False,23,False,True
+2007-02-05,37.1333333333,New Orleans Pelicans,Sacramento Kings,4,83-87,-6,two point jumper,False,22,True,True
+2007-02-05,37.6333333333,New Orleans Pelicans,Sacramento Kings,4,83-87,-6,tip shot,False,0,False,True
+2007-02-05,37.65,New Orleans Pelicans,Sacramento Kings,4,84-87,-4,free throw,False,15,True,True
+2007-02-05,37.65,New Orleans Pelicans,Sacramento Kings,4,85-87,-3,free throw,False,15,True,True
+2007-02-14,7.88333333333,New Orleans Pelicans,Sacramento Kings,1,13-20,5,two point jumper,True,18,True,False
+2007-02-14,9.58333333333,New Orleans Pelicans,Sacramento Kings,1,17-24,5,layup,True,0,True,False
+2007-02-14,14.75,New Orleans Pelicans,Sacramento Kings,2,28-29,-1,two point jumper,True,18,False,False
+2007-02-14,34.15,New Orleans Pelicans,Sacramento Kings,3,62-82,19,free throw,True,15,True,False
+2007-02-14,34.15,New Orleans Pelicans,Sacramento Kings,3,62-83,20,free throw,True,15,True,False
+2007-02-14,34.75,New Orleans Pelicans,Sacramento Kings,3,64-85,19,two point jumper,True,19,True,False
+2007-02-14,38.7666666667,New Orleans Pelicans,Sacramento Kings,4,72-96,22,layup,True,0,True,False
+2007-02-14,39.7,New Orleans Pelicans,Sacramento Kings,4,74-98,22,dunk,True,0,True,False
+2007-12-01,21.0166666667,New Orleans Pelicans,Chicago Bulls,2,50-41,-11,two point jumper,True,17,True,False
+2007-12-01,38.1166666667,New Orleans Pelicans,Chicago Bulls,4,88-77,-14,three point jumper,True,25,False,False
+2007-03-02,10.75,New Orleans Pelicans,Chicago Bulls,1,16-26,-12,two point jumper,False,19,True,True
+2007-03-02,35.2666666667,New Orleans Pelicans,Chicago Bulls,3,77-76,-2,three point jumper,False,23,True,True
+2007-03-02,37.0666666667,New Orleans Pelicans,Chicago Bulls,4,79-79,-2,two point jumper,False,21,False,True
+2007-02-27,9.2,New Orleans Pelicans,Cleveland Cavaliers,1,16-18,-4,two point jumper,False,14,True,False
+2007-02-27,13.2666666667,New Orleans Pelicans,Cleveland Cavaliers,2,22-25,-5,two point jumper,False,21,True,False
+2007-02-27,15.1166666667,New Orleans Pelicans,Cleveland Cavaliers,2,29-27,-1,three point jumper,False,23,True,False
+2007-02-27,22.9333333333,New Orleans Pelicans,Cleveland Cavaliers,2,41-48,-10,three point jumper,False,23,False,False
+2007-02-27,35.4333333333,New Orleans Pelicans,Cleveland Cavaliers,3,63-72,-11,two point jumper,False,21,False,False
+2007-02-27,38.7,New Orleans Pelicans,Cleveland Cavaliers,4,70-79,-11,two point shot,False,1,True,False
+2007-02-27,39.4333333333,New Orleans Pelicans,Cleveland Cavaliers,4,70-81,-14,three point jumper,False,23,False,False
+2007-11-15,10.4833333333,New Orleans Pelicans,Detroit Pistons,1,23-18,2,three point jumper,False,23,True,False
+2007-11-15,12.3666666667,New Orleans Pelicans,Detroit Pistons,2,29-24,3,two point shot,False,12,True,False
+2007-11-15,14.3166666667,New Orleans Pelicans,Detroit Pistons,2,31-26,3,two point jumper,False,21,False,False
+2007-11-15,37.65,New Orleans Pelicans,Detroit Pistons,4,83-76,5,two point jumper,False,20,False,False
+2007-11-15,38.6833333333,New Orleans Pelicans,Detroit Pistons,4,84-78,4,tip shot,False,0,False,False
+2007-11-03,11.85,New Orleans Pelicans,Indiana Pacers,1,25-20,4,free throw,False,15,True,False
+2007-11-03,11.85,New Orleans Pelicans,Indiana Pacers,1,26-20,5,free throw,False,15,True,False
+2007-11-03,13.25,New Orleans Pelicans,Indiana Pacers,2,26-22,2,two point jumper,False,8,False,False
+2007-11-03,13.3,New Orleans Pelicans,Indiana Pacers,2,27-22,4,free throw,False,15,True,False
+2007-11-03,13.3,New Orleans Pelicans,Indiana Pacers,2,28-22,5,free throw,False,15,True,False
+2007-11-03,14.3166666667,New Orleans Pelicans,Indiana Pacers,2,28-25,1,two point jumper,False,22,False,False
+2007-11-03,37.0833333333,New Orleans Pelicans,Indiana Pacers,4,71-74,-5,two point jumper,False,16,True,False
+2007-11-03,41.8166666667,New Orleans Pelicans,Indiana Pacers,4,83-74,7,two point shot,False,1,True,False
+2007-01-06,8.26666666667,New Orleans Pelicans,Indiana Pacers,1,14-8,-8,two point jumper,True,21,False,True
+2007-01-06,8.76666666667,New Orleans Pelicans,Indiana Pacers,1,17-8,-11,two point jumper,True,13,False,True
+2007-01-06,9.16666666667,New Orleans Pelicans,Indiana Pacers,1,17-10,-9,two point jumper,True,15,True,True
+2007-01-06,32.1,New Orleans Pelicans,Indiana Pacers,3,62-60,-4,layup,True,0,False,True
+2007-01-06,36.0,New Orleans Pelicans,Indiana Pacers,3,71-70,-4,three point jumper,True,24,True,True
+2007-01-06,36.8833333333,New Orleans Pelicans,Indiana Pacers,4,74-70,-6,two point jumper,True,21,False,True
+2007-01-06,38.4,New Orleans Pelicans,Indiana Pacers,4,76-72,-6,tip shot,True,0,True,True
+2007-02-08,12.0,New Orleans Pelicans,Milwaukee Bucks,1,25-27,-1,three point jumper,True,23,False,True
+2007-02-08,12.3333333333,New Orleans Pelicans,Milwaukee Bucks,2,25-29,2,dunk,True,0,True,True
+2007-02-08,14.9333333333,New Orleans Pelicans,Milwaukee Bucks,2,25-33,6,two point jumper,True,21,False,True
+2007-02-08,28.4166666667,New Orleans Pelicans,Milwaukee Bucks,3,49-59,8,two point jumper,True,22,True,True
+2007-02-08,32.5166666667,New Orleans Pelicans,Milwaukee Bucks,3,57-70,11,two point jumper,True,16,True,True
+2007-02-08,33.4,New Orleans Pelicans,Milwaukee Bucks,3,57-70,11,two point jumper,True,4,False,True
+2007-02-08,34.5,New Orleans Pelicans,Milwaukee Bucks,3,62-70,6,tip shot,True,0,False,True
+2007-02-08,35.05,New Orleans Pelicans,Milwaukee Bucks,3,62-74,10,dunk,True,0,True,True
+2007-02-08,39.5666666667,New Orleans Pelicans,Milwaukee Bucks,4,72-82,8,two point jumper,True,1,True,True
+2007-11-25,7.48333333333,New Orleans Pelicans,Dallas Mavericks,1,8-24,-18,two point jumper,False,9,False,False
+2007-11-25,14.0833333333,New Orleans Pelicans,Dallas Mavericks,2,21-35,-16,two point jumper,False,19,False,False
+2007-11-25,37.95,New Orleans Pelicans,Dallas Mavericks,4,55-72,-19,two point jumper,False,21,False,False
+2007-11-25,41.3833333333,New Orleans Pelicans,Dallas Mavericks,4,59-77,-21,three point jumper,False,24,False,False
+2007-12-16,16.1333333333,New Orleans Pelicans,Dallas Mavericks,2,28-22,-8,two point jumper,True,19,False,False
+2007-12-16,18.4166666667,New Orleans Pelicans,Dallas Mavericks,2,34-26,-10,two point jumper,True,17,False,False
+2007-12-16,41.4833333333,New Orleans Pelicans,Dallas Mavericks,4,74-64,-12,two point jumper,True,1,False,False
+2007-11-05,37.4,New Orleans Pelicans,Houston Rockets,4,72-73,-1,layup,True,0,True,True
+2007-11-05,38.0833333333,New Orleans Pelicans,Houston Rockets,4,72-76,1,three point jumper,True,24,True,True
+2007-02-03,8.5,New Orleans Pelicans,Houston Rockets,1,10-10,-2,two point jumper,False,22,True,True
+2007-02-03,37.5166666667,New Orleans Pelicans,Houston Rockets,4,66-48,16,two point jumper,False,22,True,True
+2007-12-22,20.2166666667,New Orleans Pelicans,Memphis Grizzlies,2,37-34,-6,three point jumper,True,23,False,False
+2007-12-22,34.75,New Orleans Pelicans,Memphis Grizzlies,3,67-63,-7,three point jumper,True,23,False,False
+2007-02-10,10.4666666667,New Orleans Pelicans,Memphis Grizzlies,1,22-27,3,tip shot,True,0,False,False
+2007-02-10,15.3,New Orleans Pelicans,Memphis Grizzlies,2,32-33,-1,two point jumper,True,18,False,False
+2007-02-13,11.15,New Orleans Pelicans,Memphis Grizzlies,1,28-22,4,two point jumper,False,21,True,False
+2007-02-13,34.6333333333,New Orleans Pelicans,Memphis Grizzlies,3,77-70,5,two point jumper,False,1,False,False
+2007-02-13,37.0,New Orleans Pelicans,Memphis Grizzlies,4,81-76,3,two point jumper,False,19,True,False
+2007-11-21,16.1333333333,New Orleans Pelicans,Miami Heat,2,23-29,3,three point jumper,True,22,False,False
+2007-11-21,47.25,New Orleans Pelicans,Miami Heat,4,86-101,12,three point jumper,True,23,True,False
+2007-12-08,45.55,New Orleans Pelicans,Oklahoma City Thunder,4,68-86,-19,free throw,False,15,False,False
+2007-12-08,45.55,New Orleans Pelicans,Oklahoma City Thunder,4,69-86,-18,free throw,False,15,True,False
+2007-12-08,46.1,New Orleans Pelicans,Oklahoma City Thunder,4,71-88,-19,two point jumper,False,18,True,False
+2007-12-14,10.6166666667,New Orleans Pelicans,San Antonio Spurs,1,25-20,-7,two point shot,True,13,True,True
+2007-12-14,13.0,New Orleans Pelicans,San Antonio Spurs,2,29-24,-7,layup,True,0,True,True
+2007-12-14,14.75,New Orleans Pelicans,San Antonio Spurs,2,35-28,-9,layup,True,0,True,True
+2007-12-14,17.5666666667,New Orleans Pelicans,San Antonio Spurs,2,44-32,-14,two point jumper,True,21,False,True
+2007-12-14,37.2,New Orleans Pelicans,San Antonio Spurs,4,87-65,-23,free throw,True,15,True,True
+2007-12-14,37.2,New Orleans Pelicans,San Antonio Spurs,4,87-66,-22,free throw,True,15,True,True
+2007-12-14,39.6333333333,New Orleans Pelicans,San Antonio Spurs,4,87-68,-21,tip shot,True,0,False,True
+2007-12-14,46.3666666667,New Orleans Pelicans,San Antonio Spurs,4,103-75,-30,two point jumper,True,15,False,True
+2007-12-18,8.56666666667,New Orleans Pelicans,Miami Heat,1,14-20,-8,two point shot,False,16,False,True
+2007-12-18,9.06666666667,New Orleans Pelicans,Miami Heat,1,16-22,-8,tip shot,False,0,True,True
+2007-12-18,12.4,New Orleans Pelicans,Miami Heat,2,28-33,-7,layup,False,0,True,True
+2007-12-18,12.4,New Orleans Pelicans,Miami Heat,2,28-33,-6,free throw,False,15,False,True
+2007-12-18,34.35,New Orleans Pelicans,Miami Heat,3,80-75,3,two point jumper,False,19,True,True
+2007-12-18,39.9333333333,New Orleans Pelicans,Miami Heat,4,94-83,9,two point jumper,False,20,True,True
+2007-12-20,11.4833333333,New Orleans Pelicans,Orlando Magic,1,12-26,-15,free throw,False,15,True,False
+2007-12-20,11.4833333333,New Orleans Pelicans,Orlando Magic,1,13-26,-14,free throw,False,15,True,False
+2007-01-10,9.58333333333,New Orleans Pelicans,Atlanta Hawks,1,16-16,-1,free throw,False,15,True,True
+2007-01-10,9.58333333333,New Orleans Pelicans,Atlanta Hawks,1,17-16,0,free throw,False,15,True,True
+2007-01-10,11.2333333333,New Orleans Pelicans,Atlanta Hawks,1,21-20,-1,layup,False,0,True,True
+2007-01-10,34.6166666667,New Orleans Pelicans,Atlanta Hawks,3,65-54,9,two point jumper,False,20,False,True
+2007-01-10,37.8333333333,New Orleans Pelicans,Atlanta Hawks,4,71-56,13,two point jumper,False,20,False,True
+2007-01-10,39.55,New Orleans Pelicans,Atlanta Hawks,4,79-61,16,dunk,False,0,True,True
+2007-01-10,41.5666666667,New Orleans Pelicans,Atlanta Hawks,4,83-65,16,layup,False,0,True,True
+2007-01-10,41.5666666667,New Orleans Pelicans,Atlanta Hawks,4,84-65,18,free throw,False,15,True,True
+2007-01-12,11.6666666667,New Orleans Pelicans,Washington Wizards,1,32-23,-10,free throw,True,15,False,False
+2007-01-12,11.6666666667,New Orleans Pelicans,Washington Wizards,1,32-24,-9,free throw,True,15,True,False
+2007-01-12,41.7833333333,New Orleans Pelicans,Washington Wizards,4,84-85,-1,layup,True,0,False,False
+2007-01-12,47.6166666667,New Orleans Pelicans,Washington Wizards,4,95-100,3,dunk,True,0,True,False
+2007-01-16,15.3166666667,New Orleans Pelicans,Orlando Magic,2,22-22,-2,two point jumper,True,22,False,True
+2007-01-16,34.35,New Orleans Pelicans,Orlando Magic,3,51-58,5,tip shot,True,0,True,True
+2007-01-16,37.8833333333,New Orleans Pelicans,Orlando Magic,4,58-63,3,two point jumper,True,24,True,True
+2007-01-19,10.85,New Orleans Pelicans,San Antonio Spurs,1,12-22,-12,two point jumper,False,17,False,False
+2007-01-27,11.4833333333,New Orleans Pelicans,Utah Jazz,1,18-27,7,two point jumper,True,1,False,True
+2007-01-27,12.55,New Orleans Pelicans,Utah Jazz,2,18-28,9,free throw,True,15,True,True
+2007-01-27,12.55,New Orleans Pelicans,Utah Jazz,2,18-29,10,free throw,True,15,True,True
+2007-01-27,34.8833333333,New Orleans Pelicans,Utah Jazz,3,55-63,6,two point jumper,True,19,True,True
+2007-01-27,38.5833333333,New Orleans Pelicans,Utah Jazz,4,63-73,8,two point jumper,True,15,True,True
+2007-01-27,39.0666666667,New Orleans Pelicans,Utah Jazz,4,63-75,10,dunk,True,0,True,True
+2007-01-29,13.0833333333,New Orleans Pelicans,Portland Trail Blazers,2,27-29,0,tip shot,True,0,False,False
+2007-01-29,35.4333333333,New Orleans Pelicans,Portland Trail Blazers,3,69-74,3,two point jumper,True,22,True,False
+2007-01-29,40.6,New Orleans Pelicans,Portland Trail Blazers,4,76-84,6,two point jumper,True,18,False,False
+2007-02-02,9.15,New Orleans Pelicans,Minnesota Timberwolves,1,14-21,5,two point jumper,True,5,False,True
+2007-02-02,10.2333333333,New Orleans Pelicans,Minnesota Timberwolves,1,18-25,5,two point jumper,True,18,True,True
+2007-02-02,11.7833333333,New Orleans Pelicans,Minnesota Timberwolves,1,22-29,5,two point jumper,True,19,True,True
+2007-02-02,15.9333333333,New Orleans Pelicans,Minnesota Timberwolves,2,28-31,1,layup,True,0,False,True
+2007-02-07,7.73333333333,New Orleans Pelicans,Denver Nuggets,1,14-21,-9,layup,False,0,True,True
+2007-02-07,8.15,New Orleans Pelicans,Denver Nuggets,1,14-23,-11,two point jumper,False,20,False,True
+2007-02-07,9.9,New Orleans Pelicans,Denver Nuggets,1,20-28,-10,tip shot,False,0,False,True
+2007-02-23,7.35,New Orleans Pelicans,Oklahoma City Thunder,1,17-13,-6,tip shot,True,0,True,True
+2007-02-23,7.91666666667,New Orleans Pelicans,Oklahoma City Thunder,1,17-16,-2,free throw,True,15,True,True
+2007-02-23,7.91666666667,New Orleans Pelicans,Oklahoma City Thunder,1,17-17,-1,free throw,True,15,True,True
+2007-02-23,12.3166666667,New Orleans Pelicans,Oklahoma City Thunder,2,25-31,4,two point jumper,True,18,True,True
+2007-02-23,15.2,New Orleans Pelicans,Oklahoma City Thunder,2,27-36,7,layup,True,0,True,True
+2007-02-23,38.0,New Orleans Pelicans,Oklahoma City Thunder,4,81-81,-3,three point jumper,True,24,False,True
+2007-02-23,38.4333333333,New Orleans Pelicans,Oklahoma City Thunder,4,81-83,-1,three point jumper,True,23,False,True
+2007-02-23,42.8833333333,New Orleans Pelicans,Oklahoma City Thunder,4,87-91,1,three point jumper,True,25,False,True
+2007-02-28,12.7666666667,New Orleans Pelicans,Atlanta Hawks,2,32-27,-8,three point jumper,True,23,False,True
+2007-03-04,11.55,New Orleans Pelicans,Utah Jazz,1,15-15,-3,three point jumper,True,23,False,True
+2007-03-04,33.0166666667,New Orleans Pelicans,Utah Jazz,3,70-61,-10,free throw,True,15,True,True
+2007-03-04,33.0166666667,New Orleans Pelicans,Utah Jazz,3,70-62,-9,free throw,True,15,True,True
+2007-03-04,33.5666666667,New Orleans Pelicans,Utah Jazz,3,72-62,-13,three point jumper,True,22,False,True
+2007-03-04,40.2833333333,New Orleans Pelicans,Utah Jazz,4,86-74,-14,two point jumper,True,16,True,True
+2007-03-06,11.5833333333,New Orleans Pelicans,Denver Nuggets,1,25-24,-2,three point jumper,False,23,True,True
+2007-03-06,33.05,New Orleans Pelicans,Denver Nuggets,3,57-80,-25,two point jumper,False,21,False,True
+2007-03-06,33.4166666667,New Orleans Pelicans,Denver Nuggets,3,59-80,-23,two point jumper,False,20,True,True
+2007-03-06,34.6833333333,New Orleans Pelicans,Denver Nuggets,3,62-82,-22,two point jumper,False,23,False,True
+2007-03-06,35.5666666667,New Orleans Pelicans,Denver Nuggets,3,65-84,-21,two point jumper,False,1,True,True
+2007-03-06,36.8166666667,New Orleans Pelicans,Denver Nuggets,4,69-87,-20,tip shot,False,0,True,True
+2007-03-06,37.4333333333,New Orleans Pelicans,Denver Nuggets,4,69-87,-20,two point jumper,False,1,False,True
+2007-03-10,34.6166666667,New Orleans Pelicans,Utah Jazz,3,60-68,-11,three point jumper,False,23,False,False
+2008-03-30,41.3833333333,Toronto Raptors,New Orleans Pelicans,4,110-91,-21,two point jumper,True,21,False,False
+2008-03-30,41.85,Toronto Raptors,New Orleans Pelicans,4,110-93,-19,layup,True,0,True,False
+2008-03-30,42.7333333333,Toronto Raptors,New Orleans Pelicans,4,112-93,-22,three point jumper,True,23,False,False
+2008-03-30,43.0666666667,Toronto Raptors,New Orleans Pelicans,4,112-94,-19,free throw,True,15,True,False
+2008-03-30,43.0666666667,Toronto Raptors,New Orleans Pelicans,4,112-95,-18,free throw,True,15,True,False
+2008-03-30,43.8833333333,Toronto Raptors,New Orleans Pelicans,4,112-99,-15,two point jumper,True,1,True,False
+2008-03-31,19.4833333333,Toronto Raptors,Charlotte Bobcats,2,45-51,-8,two point jumper,False,19,False,True
+2008-02-24,39.3833333333,Phoenix Suns,Detroit Pistons,4,99-70,-31,tip shot,True,0,False,True
+2008-02-24,42.8833333333,Phoenix Suns,Detroit Pistons,4,108-82,-28,two point jumper,True,21,True,True
+2008-02-24,43.3166666667,Phoenix Suns,Detroit Pistons,4,108-84,-26,two point jumper,True,14,True,True
+2008-02-24,45.8166666667,Phoenix Suns,Detroit Pistons,4,111-86,-27,two point jumper,True,8,False,True
+2008-02-27,13.8166666667,Phoenix Suns,New Orleans Pelicans,2,37-31,3,three point jumper,False,23,True,False
+2008-02-27,23.35,Phoenix Suns,New Orleans Pelicans,2,53-59,-9,three point jumper,False,26,False,False
+2008-02-27,35.3833333333,Phoenix Suns,New Orleans Pelicans,3,77-97,-22,tip shot,False,0,False,False
+2008-02-27,37.55,Phoenix Suns,New Orleans Pelicans,4,81-97,-18,two point jumper,False,1,False,False
+2008-02-27,41.85,Phoenix Suns,New Orleans Pelicans,4,88-107,-21,two point jumper,False,20,True,False
+2008-03-11,39.6333333333,Phoenix Suns,Memphis Grizzlies,4,85-116,29,two point jumper,True,18,False,True
+2008-03-11,40.85,Phoenix Suns,Memphis Grizzlies,4,89-118,27,tip shot,True,0,True,True
+2008-03-11,41.4833333333,Phoenix Suns,Memphis Grizzlies,4,91-118,25,two point jumper,True,20,False,True
+2008-03-11,44.2166666667,Phoenix Suns,Memphis Grizzlies,4,99-128,27,two point jumper,True,13,True,True
+2008-03-11,47.6166666667,Phoenix Suns,Memphis Grizzlies,4,109-132,21,dunk,True,0,True,True
+2009-04-07,13.0,Chicago Bulls,New York Knicks,2,25-29,2,two point jumper,True,1,False,True
+2009-04-09,47.8,Chicago Bulls,Philadelphia 76ers,4,96-113,14,three point jumper,True,24,True,False
+2009-03-29,8.51666666667,Chicago Bulls,Toronto Raptors,1,15-20,-7,two point shot,False,1,True,False
+2009-03-29,10.35,Chicago Bulls,Toronto Raptors,1,17-28,-13,two point shot,False,15,True,False
+2009-03-29,12.3166666667,Chicago Bulls,Toronto Raptors,2,21-30,-11,two point jumper,False,21,False,False
+2009-04-15,10.7833333333,Chicago Bulls,Toronto Raptors,1,30-18,-14,layup,True,0,True,True
+2009-04-15,14.2,Chicago Bulls,Toronto Raptors,2,36-22,-17,three point jumper,True,25,False,True
+2009-03-11,41.0666666667,Chicago Bulls,Orlando Magic,4,61-96,-37,hook shot,False,7,False,True
+2009-03-11,44.6833333333,Chicago Bulls,Orlando Magic,4,67-101,-36,two point jumper,False,20,False,True
+2009-03-26,47.7666666667,Chicago Bulls,Miami Heat,4,87-106,17,two point jumper,True,17,False,False
+2009-04-11,13.4333333333,Chicago Bulls,Charlotte Bobcats,2,27-33,4,two point jumper,True,15,False,True

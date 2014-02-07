@@ -1,0 +1,131 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2013-11-07,8.18333333333,Dallas Mavericks,Toronto Raptors,1,16-26,8,two point shot,True,1,True,True
+2013-11-07,11.15,Dallas Mavericks,Toronto Raptors,1,24-34,8,two point shot,True,5,True,True
+2013-11-07,13.1833333333,Dallas Mavericks,Toronto Raptors,2,26-38,10,tip shot,True,0,False,True
+2013-11-07,14.45,Dallas Mavericks,Toronto Raptors,2,26-39,11,two point shot,True,2,False,True
+2013-11-07,14.4666666667,Dallas Mavericks,Toronto Raptors,2,26-40,13,free throw,True,15,True,True
+2013-11-07,14.4666666667,Dallas Mavericks,Toronto Raptors,2,26-41,14,free throw,True,15,True,True
+2013-11-19,10.1166666667,Dallas Mavericks,Golden State Warriors,1,18-17,-3,two point shot,True,2,True,False
+2013-11-19,11.1,Dallas Mavericks,Golden State Warriors,1,21-19,-4,two point shot,True,1,True,False
+2013-11-19,11.1,Dallas Mavericks,Golden State Warriors,1,21-19,-3,free throw,True,15,False,False
+2013-11-19,40.1333333333,Dallas Mavericks,Golden State Warriors,4,75-78,2,free throw,True,15,False,False
+2013-11-19,40.1333333333,Dallas Mavericks,Golden State Warriors,4,75-78,2,free throw,True,15,False,False
+2013-01-31,14.3166666667,Dallas Mavericks,Golden State Warriors,2,27-35,-10,two point shot,False,1,True,True
+2013-01-31,16.7,Dallas Mavericks,Golden State Warriors,2,34-38,-6,layup,False,0,True,True
+2013-01-31,16.7,Dallas Mavericks,Golden State Warriors,2,35-38,-4,free throw,False,15,True,True
+2013-01-31,33.6,Dallas Mavericks,Golden State Warriors,3,70-78,-9,free throw,False,15,True,True
+2013-01-31,33.6,Dallas Mavericks,Golden State Warriors,3,70-78,-9,free throw,False,15,False,True
+2013-02-09,1.08333333333,Dallas Mavericks,Golden State Warriors,1,2-2,-2,two point jumper,True,5,True,False
+2013-02-09,1.08333333333,Dallas Mavericks,Golden State Warriors,1,2-2,-1,free throw,True,15,False,False
+2013-02-09,27.0,Dallas Mavericks,Golden State Warriors,3,43-67,22,hook shot,True,10,False,False
+2013-02-09,28.5666666667,Dallas Mavericks,Golden State Warriors,3,46-70,23,free throw,True,15,False,False
+2013-02-09,28.5666666667,Dallas Mavericks,Golden State Warriors,3,46-70,23,free throw,True,15,False,False
+2013-11-24,28.95,Dallas Mavericks,Los Angeles Lakers,3,73-44,-31,two point shot,True,2,True,True
+2013-11-24,30.1666666667,Dallas Mavericks,Los Angeles Lakers,3,77-46,-33,tip shot,True,0,False,True
+2013-11-24,31.6,Dallas Mavericks,Los Angeles Lakers,3,79-48,-33,two point shot,True,1,True,True
+2013-11-24,44.5666666667,Dallas Mavericks,Los Angeles Lakers,4,112-81,-32,free throw,True,15,True,True
+2013-11-24,44.5666666667,Dallas Mavericks,Los Angeles Lakers,4,112-81,-32,free throw,True,15,False,True
+2013-11-24,47.5666666667,Dallas Mavericks,Los Angeles Lakers,4,115-87,-30,two point shot,True,1,True,True
+2013-11-24,47.5666666667,Dallas Mavericks,Los Angeles Lakers,4,115-87,-29,free throw,True,15,False,True
+2013-02-24,1.13333333333,Dallas Mavericks,Los Angeles Lakers,1,2-2,-2,two point shot,True,1,False,True
+2013-01-27,5.03333333333,Dallas Mavericks,Phoenix Suns,1,12-10,-4,two point shot,True,1,True,False
+2013-02-01,11.8833333333,Dallas Mavericks,Phoenix Suns,1,29-30,-3,two point jumper,False,6,True,False
+2013-02-01,11.8833333333,Dallas Mavericks,Phoenix Suns,1,29-29,-1,free throw,False,15,True,False
+2013-02-01,14.1333333333,Dallas Mavericks,Phoenix Suns,2,33-37,-6,layup,False,0,True,False
+2013-02-01,33.6166666667,Dallas Mavericks,Phoenix Suns,3,69-72,-5,layup,False,0,True,False
+2013-02-01,35.4333333333,Dallas Mavericks,Phoenix Suns,3,74-75,-3,two point jumper,False,12,False,False
+2013-12-10,43.6333333333,Dallas Mavericks,Sacramento Kings,4,84-108,22,layup,True,0,False,False
+2013-01-10,40.7333333333,Dallas Mavericks,Sacramento Kings,4,80-87,-9,layup,False,0,True,True
+2013-01-10,43.75,Dallas Mavericks,Sacramento Kings,4,88-91,-5,layup,False,0,True,True
+2013-02-13,1.65,Dallas Mavericks,Sacramento Kings,1,4-4,-2,layup,True,0,True,True
+2013-02-13,25.95,Dallas Mavericks,Sacramento Kings,3,49-63,13,free throw,True,15,True,True
+2013-02-13,25.95,Dallas Mavericks,Sacramento Kings,3,49-63,13,free throw,True,15,False,True
+2013-02-13,45.9833333333,Dallas Mavericks,Sacramento Kings,4,96-117,19,two point shot,True,1,True,True
+2013-11-28,45.7333333333,Dallas Mavericks,Chicago Bulls,4,70-94,-25,free throw,False,15,False,True
+2013-11-28,45.7333333333,Dallas Mavericks,Chicago Bulls,4,71-94,-24,free throw,False,15,True,True
+2013-11-17,9.5,Dallas Mavericks,Cleveland Cavaliers,1,16-23,-9,layup,False,0,True,False
+2013-11-17,11.5166666667,Dallas Mavericks,Cleveland Cavaliers,1,22-24,-4,dunk,False,0,True,False
+2013-11-17,32.55,Dallas Mavericks,Cleveland Cavaliers,3,69-69,-2,hook shot,False,6,False,False
+2013-11-17,36.6166666667,Dallas Mavericks,Cleveland Cavaliers,4,75-73,0,two point jumper,False,17,False,False
+2013-11-17,37.3166666667,Dallas Mavericks,Cleveland Cavaliers,4,75-73,0,two point jumper,False,9,False,False
+2013-12-01,11.9333333333,Dallas Mavericks,Detroit Pistons,1,27-24,-5,layup,True,0,False,True
+2013-12-01,12.15,Dallas Mavericks,Detroit Pistons,2,27-26,-3,two point shot,True,1,True,True
+2013-12-01,13.0666666667,Dallas Mavericks,Detroit Pistons,2,27-26,-3,hook shot,True,4,False,True
+2013-12-01,37.0,Dallas Mavericks,Detroit Pistons,4,61-67,4,two point shot,True,1,False,True
+2013-12-01,38.1833333333,Dallas Mavericks,Detroit Pistons,4,61-73,10,two point shot,True,1,True,True
+2013-12-01,39.3666666667,Dallas Mavericks,Detroit Pistons,4,61-77,14,two point shot,True,1,True,True
+2013-12-01,41.3833333333,Dallas Mavericks,Detroit Pistons,4,64-82,16,layup,True,0,False,True
+2013-11-16,12.8666666667,Dallas Mavericks,Indiana Pacers,2,25-26,-2,free throw,False,15,True,True
+2013-11-16,12.8666666667,Dallas Mavericks,Indiana Pacers,2,26-26,-1,free throw,False,15,True,True
+2013-11-16,14.8833333333,Dallas Mavericks,Indiana Pacers,2,34-31,2,free throw,False,15,False,True
+2013-11-16,14.8833333333,Dallas Mavericks,Indiana Pacers,2,35-31,3,free throw,False,15,True,True
+2013-11-16,34.65,Dallas Mavericks,Indiana Pacers,3,65-76,-13,two point jumper,False,3,True,True
+2013-11-16,35.2666666667,Dallas Mavericks,Indiana Pacers,3,66-76,-11,free throw,False,15,True,True
+2013-11-16,35.2666666667,Dallas Mavericks,Indiana Pacers,3,67-76,-10,free throw,False,15,True,True
+2013-11-16,35.9666666667,Dallas Mavericks,Indiana Pacers,3,67-76,-11,layup,False,0,False,True
+2013-11-16,36.6166666667,Dallas Mavericks,Indiana Pacers,4,69-78,-11,two point jumper,False,6,True,True
+2013-03-28,45.95,Dallas Mavericks,Indiana Pacers,4,97-73,-26,two point shot,True,1,True,True
+2013-02-26,4.16666666667,Dallas Mavericks,Milwaukee Bucks,1,2-13,9,two point shot,True,2,True,False
+2013-02-26,5.41666666667,Dallas Mavericks,Milwaukee Bucks,1,5-15,8,two point shot,True,1,True,False
+2013-10-31,15.7166666667,Dallas Mavericks,Utah Jazz,2,35-36,-3,hook shot,False,4,False,True
+2013-10-31,31.6,Dallas Mavericks,Utah Jazz,3,73-74,-2,free throw,False,15,True,True
+2013-10-31,31.6,Dallas Mavericks,Utah Jazz,3,74-74,-1,free throw,False,15,True,True
+2013-10-31,33.3333333333,Dallas Mavericks,Utah Jazz,3,74-85,-13,two point jumper,False,6,False,True
+2013-10-31,33.3666666667,Dallas Mavericks,Utah Jazz,3,76-85,-11,two point shot,False,1,True,True
+2013-10-31,41.7833333333,Dallas Mavericks,Utah Jazz,4,83-98,-17,two point jumper,False,4,False,True
+2013-10-31,43.95,Dallas Mavericks,Utah Jazz,4,89-106,-18,free throw,False,15,True,True
+2013-10-31,43.95,Dallas Mavericks,Utah Jazz,4,90-106,-17,free throw,False,15,True,True
+2013-10-31,44.65,Dallas Mavericks,Utah Jazz,4,90-108,-20,two point jumper,False,6,False,True
+2013-10-31,45.9833333333,Dallas Mavericks,Utah Jazz,4,91-110,-20,free throw,False,15,True,True
+2013-10-31,45.9833333333,Dallas Mavericks,Utah Jazz,4,92-110,-19,free throw,False,15,True,True
+2013-11-12,15.3833333333,Dallas Mavericks,Minnesota Timberwolves,2,29-21,-10,two point jumper,True,18,False,False
+2013-11-12,15.45,Dallas Mavericks,Minnesota Timberwolves,2,29-23,-8,two point shot,True,1,True,False
+2013-11-12,17.95,Dallas Mavericks,Minnesota Timberwolves,2,31-28,-5,layup,True,0,True,False
+2013-11-12,38.8666666667,Dallas Mavericks,Minnesota Timberwolves,4,69-62,-9,layup,True,0,True,False
+2013-11-14,9.4,Dallas Mavericks,Washington Wizards,1,17-20,0,three point jumper,True,24,False,True
+2013-11-14,24.3166666667,Dallas Mavericks,Washington Wizards,3,19-25,4,two point shot,True,1,True,True
+2013-11-14,25.4666666667,Dallas Mavericks,Washington Wizards,3,23-27,2,two point shot,True,1,True,True
+2013-12-08,37.7666666667,Dallas Mavericks,Houston Rockets,4,84-91,-8,free throw,False,15,False,True
+2013-12-08,37.7666666667,Dallas Mavericks,Houston Rockets,4,85-91,-7,free throw,False,15,True,True
+2013-12-20,11.9666666667,Dallas Mavericks,Miami Heat,1,31-20,-13,tip shot,True,0,False,True
+2013-12-20,11.9833333333,Dallas Mavericks,Miami Heat,1,31-20,-13,tip shot,True,0,False,True
+2013-12-20,14.1833333333,Dallas Mavericks,Miami Heat,2,33-26,-9,layup,True,0,True,True
+2013-12-20,15.8,Dallas Mavericks,Miami Heat,2,36-33,-5,two point shot,True,1,True,True
+2013-12-20,17.1,Dallas Mavericks,Miami Heat,2,40-35,-7,layup,True,0,True,True
+2013-12-20,32.6833333333,Dallas Mavericks,Miami Heat,3,84-53,-33,layup,True,0,True,True
+2013-12-20,34.3333333333,Dallas Mavericks,Miami Heat,3,88-55,-35,two point shot,True,11,False,True
+2013-12-20,35.3166666667,Dallas Mavericks,Miami Heat,3,91-57,-36,layup,True,0,False,True
+2013-12-20,43.7,Dallas Mavericks,Miami Heat,4,104-80,-26,two point shot,True,5,True,True
+2013-12-20,44.95,Dallas Mavericks,Miami Heat,4,106-84,-24,two point shot,True,2,True,True
+2013-01-12,43.35,Dallas Mavericks,Memphis Grizzlies,4,71-102,29,unknown,True,4,False,False
+2013-01-12,47.7833333333,Dallas Mavericks,Memphis Grizzlies,4,81-104,21,layup,True,0,False,False
+2013-01-25,33.3666666667,Dallas Mavericks,San Antonio Spurs,3,81-64,-19,two point shot,True,1,True,False
+2013-01-25,35.9833333333,Dallas Mavericks,San Antonio Spurs,3,88-68,-23,three point jumper,True,74,False,False
+2013-01-25,43.1333333333,Dallas Mavericks,San Antonio Spurs,4,99-87,-13,free throw,True,15,True,False
+2013-01-25,43.1333333333,Dallas Mavericks,San Antonio Spurs,4,99-88,-12,free throw,True,15,True,False
+2013-01-25,44.05,Dallas Mavericks,San Antonio Spurs,4,100-88,-14,hook shot,True,4,False,False
+2013-01-29,0.8,Dallas Mavericks,Portland Trail Blazers,1,2-2,-2,dunk,False,0,True,False
+2013-01-29,24.6333333333,Dallas Mavericks,Portland Trail Blazers,3,61-44,15,layup,False,0,True,False
+2013-01-29,25.2,Dallas Mavericks,Portland Trail Blazers,3,61-44,15,layup,False,0,False,False
+2013-01-29,26.3833333333,Dallas Mavericks,Portland Trail Blazers,3,65-46,17,layup,False,0,True,False
+2013-01-29,26.9666666667,Dallas Mavericks,Portland Trail Blazers,3,67-48,17,two point shot,False,3,True,False
+2013-01-29,28.6,Dallas Mavericks,Portland Trail Blazers,3,71-51,18,dunk,False,0,True,False
+2013-02-04,0.633333333333,Dallas Mavericks,Oklahoma City Thunder,1,2-0,0,dunk,False,0,True,True
+2013-02-04,17.35,Dallas Mavericks,Oklahoma City Thunder,2,30-46,-18,layup,False,0,False,True
+2013-02-06,26.9333333333,Dallas Mavericks,Portland Trail Blazers,3,66-66,-2,two point shot,True,1,True,False
+2013-02-06,30.4166666667,Dallas Mavericks,Portland Trail Blazers,3,70-72,0,hook shot,True,5,False,False
+2013-02-11,2.33333333333,Dallas Mavericks,Atlanta Hawks,1,6-0,-7,free throw,True,15,False,False
+2013-02-11,2.33333333333,Dallas Mavericks,Atlanta Hawks,1,6-0,-7,free throw,True,15,False,False
+2013-02-20,2.3,Dallas Mavericks,Orlando Magic,1,2-5,1,two point shot,True,1,False,False
+2013-02-20,2.33333333333,Dallas Mavericks,Orlando Magic,1,2-7,3,two point shot,True,1,True,False
+2013-02-20,3.83333333333,Dallas Mavericks,Orlando Magic,1,7-12,4,free throw,True,15,True,False
+2013-02-20,3.83333333333,Dallas Mavericks,Orlando Magic,1,7-13,5,free throw,True,15,True,False
+2013-02-20,24.7,Dallas Mavericks,Orlando Magic,3,55-61,4,two point shot,True,1,True,False
+2013-02-20,26.9,Dallas Mavericks,Orlando Magic,3,60-61,-1,layup,True,0,False,False
+2013-02-22,0.316666666667,Dallas Mavericks,New Orleans Pelicans,1,2-0,0,layup,False,0,True,True
+2013-02-22,2.5,Dallas Mavericks,New Orleans Pelicans,1,8-2,4,layup,False,0,True,True
+2013-03-10,46.2333333333,Dallas Mavericks,Minnesota Timberwolves,4,96-75,19,layup,False,0,False,False
+2013-03-18,47.3166666667,Dallas Mavericks,Atlanta Hawks,4,123-108,13,hook shot,False,10,False,True
+2013-03-24,46.5833333333,Dallas Mavericks,Utah Jazz,4,92-105,12,free throw,True,15,True,True
+2013-03-24,46.5833333333,Dallas Mavericks,Utah Jazz,4,92-105,12,free throw,True,15,False,True
+2013-04-17,45.4833333333,Dallas Mavericks,New Orleans Pelicans,4,79-97,16,layup,True,0,True,True

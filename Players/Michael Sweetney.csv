@@ -1,0 +1,74 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2007-03-11,47.4166666667,Chicago Bulls,Boston Celtics,4,94-78,14,two point jumper,False,5,False,True
+2007-04-06,45.15,Chicago Bulls,Brooklyn Nets,4,68-100,30,two point jumper,True,13,False,False
+2007-04-06,45.65,Chicago Bulls,Brooklyn Nets,4,68-101,32,free throw,True,15,True,False
+2007-04-06,45.65,Chicago Bulls,Brooklyn Nets,4,68-101,32,free throw,True,15,False,False
+2007-04-06,47.0,Chicago Bulls,Brooklyn Nets,4,70-102,31,free throw,True,15,True,False
+2007-04-06,47.0,Chicago Bulls,Brooklyn Nets,4,70-103,32,free throw,True,15,True,False
+2007-04-10,37.0666666667,Chicago Bulls,New York Knicks,4,50-82,30,dunk,True,0,True,True
+2007-04-10,46.1666666667,Chicago Bulls,New York Knicks,4,66-96,28,two point jumper,True,1,False,True
+2007-03-14,10.5,Chicago Bulls,Philadelphia 76ers,1,15-26,-13,layup,False,0,False,True
+2007-02-13,8.6,Chicago Bulls,Toronto Raptors,1,19-19,-2,layup,True,0,True,False
+2007-02-13,11.6666666667,Chicago Bulls,Toronto Raptors,1,31-25,-7,free throw,True,15,True,False
+2007-02-13,11.6666666667,Chicago Bulls,Toronto Raptors,1,31-26,-6,free throw,True,15,True,False
+2007-02-09,11.3,Chicago Bulls,Golden State Warriors,1,30-32,-4,dunk,False,0,True,False
+2007-02-09,14.6833333333,Chicago Bulls,Golden State Warriors,2,36-41,-7,two point shot,False,6,False,False
+2007-02-09,15.2166666667,Chicago Bulls,Golden State Warriors,2,36-41,-7,two point jumper,False,4,False,False
+2007-02-28,12.3833333333,Chicago Bulls,Golden State Warriors,2,28-31,1,layup,True,0,False,False
+2007-02-28,36.3333333333,Chicago Bulls,Golden State Warriors,4,69-96,26,free throw,True,15,True,False
+2007-02-28,36.3333333333,Chicago Bulls,Golden State Warriors,4,69-97,27,free throw,True,15,True,False
+2007-02-28,36.9,Chicago Bulls,Golden State Warriors,4,69-98,28,free throw,True,15,True,False
+2007-02-28,36.9,Chicago Bulls,Golden State Warriors,4,69-98,28,free throw,True,15,False,False
+2007-02-28,37.5833333333,Chicago Bulls,Golden State Warriors,4,69-98,27,two point shot,True,14,False,False
+2007-02-28,40.4833333333,Chicago Bulls,Golden State Warriors,4,73-106,32,free throw,True,15,True,False
+2007-02-28,40.4833333333,Chicago Bulls,Golden State Warriors,4,73-106,32,free throw,True,15,False,False
+2007-01-31,21.85,Chicago Bulls,Los Angeles Clippers,2,40-46,-8,layup,False,0,True,True
+2007-01-31,22.2333333333,Chicago Bulls,Los Angeles Clippers,2,40-49,-10,free throw,False,15,False,True
+2007-01-31,22.2333333333,Chicago Bulls,Los Angeles Clippers,2,40-49,-10,free throw,False,15,False,True
+2007-01-31,22.75,Chicago Bulls,Los Angeles Clippers,2,42-51,-11,layup,False,0,True,True
+2007-01-31,22.75,Chicago Bulls,Los Angeles Clippers,2,43-51,-9,free throw,False,15,True,True
+2007-02-11,6.2,Chicago Bulls,Phoenix Suns,1,15-10,3,hook shot,False,8,False,True
+2007-02-11,8.1,Chicago Bulls,Phoenix Suns,1,17-12,3,two point jumper,False,9,False,True
+2007-02-08,10.4166666667,Chicago Bulls,Sacramento Kings,1,19-18,-1,two point shot,False,6,False,False
+2007-02-08,13.0833333333,Chicago Bulls,Sacramento Kings,2,25-21,2,two point jumper,False,15,True,False
+2007-02-08,13.5833333333,Chicago Bulls,Sacramento Kings,2,25-21,2,two point jumper,False,6,False,False
+2007-02-08,16.85,Chicago Bulls,Sacramento Kings,2,31-26,3,layup,False,0,True,False
+2007-02-08,33.0333333333,Chicago Bulls,Sacramento Kings,3,51-58,-9,two point shot,False,6,False,False
+2007-02-08,38.2166666667,Chicago Bulls,Sacramento Kings,4,60-65,-7,two point jumper,False,6,False,False
+2007-02-08,40.4166666667,Chicago Bulls,Sacramento Kings,4,63-71,-9,free throw,False,15,False,False
+2007-02-08,40.4166666667,Chicago Bulls,Sacramento Kings,4,63-71,-9,free throw,False,15,False,False
+2007-01-17,8.75,Chicago Bulls,Milwaukee Bucks,1,20-18,0,hook shot,False,1,True,True
+2007-01-17,10.1666666667,Chicago Bulls,Milwaukee Bucks,1,26-22,2,layup,False,0,True,True
+2007-01-17,10.1666666667,Chicago Bulls,Milwaukee Bucks,1,26-22,3,free throw,False,15,False,True
+2007-01-20,15.9,Chicago Bulls,Utah Jazz,2,28-20,-10,layup,True,0,False,False
+2007-01-20,35.0166666667,Chicago Bulls,Utah Jazz,3,63-62,-3,layup,True,0,True,False
+2007-02-05,15.3166666667,Chicago Bulls,Utah Jazz,2,27-35,-10,two point jumper,False,5,True,True
+2007-02-14,16.4833333333,Chicago Bulls,Charlotte Bobcats,2,33-33,-2,hook shot,False,1,False,True
+2007-02-14,17.9166666667,Chicago Bulls,Charlotte Bobcats,2,35-35,-2,layup,False,0,True,True
+2007-02-14,47.35,Chicago Bulls,Charlotte Bobcats,4,82-100,-19,free throw,False,15,False,True
+2007-02-14,47.35,Chicago Bulls,Charlotte Bobcats,4,83-100,-18,free throw,False,15,True,True
+2007-02-26,16.8166666667,Chicago Bulls,Orlando Magic,2,33-30,-5,layup,True,0,True,False
+2007-02-26,19.3833333333,Chicago Bulls,Orlando Magic,2,37-36,-3,layup,True,0,True,False
+2007-02-26,19.3833333333,Chicago Bulls,Orlando Magic,2,37-36,-2,free throw,True,15,False,False
+2007-03-02,20.3,Chicago Bulls,New Orleans Pelicans,2,43-45,0,hook shot,True,5,True,False
+2007-03-02,21.9333333333,Chicago Bulls,New Orleans Pelicans,2,47-49,1,free throw,True,15,False,False
+2007-03-02,21.9333333333,Chicago Bulls,New Orleans Pelicans,2,47-49,1,free throw,True,15,False,False
+2007-03-02,34.4666666667,Chicago Bulls,New Orleans Pelicans,3,74-73,-2,free throw,True,15,False,False
+2007-03-02,34.4666666667,Chicago Bulls,New Orleans Pelicans,3,74-74,-1,free throw,True,15,True,False
+2007-03-02,36.6833333333,Chicago Bulls,New Orleans Pelicans,4,79-79,-2,layup,True,0,False,False
+2007-03-02,38.1333333333,Chicago Bulls,New Orleans Pelicans,4,79-81,0,layup,True,0,False,False
+2007-03-07,34.2833333333,Chicago Bulls,Miami Heat,3,55-67,-13,free throw,False,15,False,True
+2007-03-07,34.2833333333,Chicago Bulls,Miami Heat,3,56-67,-12,free throw,False,15,True,True
+2007-03-07,35.3666666667,Chicago Bulls,Miami Heat,3,56-70,-16,two point shot,False,4,False,True
+2007-03-08,43.8166666667,Chicago Bulls,Orlando Magic,4,88-66,20,hook shot,False,7,False,False
+2007-03-08,47.0833333333,Chicago Bulls,Orlando Magic,4,96-72,22,tip shot,False,0,True,False
+2007-03-08,47.45,Chicago Bulls,Orlando Magic,4,98-74,22,layup,False,0,True,False
+2007-03-08,47.9833333333,Chicago Bulls,Orlando Magic,4,100-76,22,two point jumper,False,19,True,False
+2007-03-17,10.4,Chicago Bulls,Memphis Grizzlies,1,17-21,-6,two point jumper,False,5,False,False
+2007-03-17,11.5166666667,Chicago Bulls,Memphis Grizzlies,1,17-25,-10,two point jumper,False,18,False,False
+2007-03-17,14.3833333333,Chicago Bulls,Memphis Grizzlies,2,19-29,-12,dunk,False,0,True,False
+2007-03-25,11.1166666667,Chicago Bulls,Indiana Pacers,1,26-26,-2,two point jumper,False,6,False,True
+2007-03-25,11.9833333333,Chicago Bulls,Indiana Pacers,1,28-29,-3,two point jumper,False,1,False,True
+2007-04-04,10.3833333333,Chicago Bulls,Detroit Pistons,1,22-20,0,hook shot,False,1,False,False
+2007-04-15,40.8833333333,Chicago Bulls,Washington Wizards,4,91-59,30,layup,False,0,True,False
+2007-04-15,47.1,Chicago Bulls,Washington Wizards,4,99-68,29,layup,False,0,True,False

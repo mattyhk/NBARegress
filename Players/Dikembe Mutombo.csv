@@ -1,0 +1,529 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2006-11-12,17.0,Houston Rockets,Brooklyn Nets,2,38-26,10,hook shot,False,12,False,True
+2006-02-05,10.0,Houston Rockets,New York Knicks,1,19-17,0,two point jumper,False,6,False,True
+2006-02-05,17.85,Houston Rockets,New York Knicks,2,38-29,7,two point shot,False,1,True,True
+2006-02-05,18.9166666667,Houston Rockets,New York Knicks,2,39-34,4,free throw,False,15,True,True
+2006-02-05,18.9166666667,Houston Rockets,New York Knicks,2,39-34,4,free throw,False,15,False,True
+2006-02-05,20.7166666667,Houston Rockets,New York Knicks,2,40-36,3,free throw,False,15,True,True
+2006-02-05,20.7166666667,Houston Rockets,New York Knicks,2,41-36,4,free throw,False,15,True,True
+2006-02-05,42.95,Houston Rockets,New York Knicks,4,81-76,4,free throw,False,15,True,True
+2006-02-05,42.95,Houston Rockets,New York Knicks,4,82-76,5,free throw,False,15,True,True
+2006-02-12,37.25,Houston Rockets,New York Knicks,4,62-70,7,free throw,True,15,True,True
+2006-02-12,37.25,Houston Rockets,New York Knicks,4,62-71,8,free throw,True,15,True,True
+2006-02-12,38.15,Houston Rockets,New York Knicks,4,64-71,5,tip shot,True,0,False,True
+2006-03-01,13.3333333333,Houston Rockets,Philadelphia 76ers,2,25-22,-4,free throw,True,15,True,False
+2006-03-01,13.3333333333,Houston Rockets,Philadelphia 76ers,2,25-23,-3,free throw,True,15,True,False
+2006-01-06,5.16666666667,Houston Rockets,Toronto Raptors,1,9-6,2,free throw,False,15,True,True
+2006-01-06,5.16666666667,Houston Rockets,Toronto Raptors,1,10-6,3,free throw,False,15,True,True
+2006-01-06,6.98333333333,Houston Rockets,Toronto Raptors,1,12-8,2,two point shot,False,1,True,True
+2006-01-06,9.28333333333,Houston Rockets,Toronto Raptors,1,15-12,1,tip shot,False,0,False,True
+2006-01-06,21.4833333333,Houston Rockets,Toronto Raptors,2,41-37,3,free throw,False,15,True,True
+2006-01-06,21.4833333333,Houston Rockets,Toronto Raptors,2,42-37,4,free throw,False,15,True,True
+2006-01-06,40.1333333333,Houston Rockets,Toronto Raptors,4,77-92,-17,layup,False,0,True,True
+2006-12-14,15.65,Houston Rockets,Golden State Warriors,2,34-27,6,free throw,False,15,True,True
+2006-12-14,15.65,Houston Rockets,Golden State Warriors,2,35-27,7,free throw,False,15,True,True
+2006-12-14,16.1333333333,Houston Rockets,Golden State Warriors,2,37-28,7,two point shot,False,1,True,True
+2006-12-14,34.6,Houston Rockets,Golden State Warriors,3,68-75,-8,free throw,False,15,False,True
+2006-12-14,34.6,Houston Rockets,Golden State Warriors,3,69-75,-7,free throw,False,15,True,True
+2006-12-31,4.41666666667,Houston Rockets,Golden State Warriors,1,4-3,-3,layup,True,0,True,False
+2006-12-31,27.8166666667,Houston Rockets,Golden State Warriors,3,59-48,-13,tip shot,True,0,True,False
+2006-12-31,29.0333333333,Houston Rockets,Golden State Warriors,3,64-50,-16,layup,True,0,True,False
+2006-02-24,14.1833333333,Houston Rockets,Golden State Warriors,2,23-32,8,free throw,True,15,True,True
+2006-04-07,12.9333333333,Houston Rockets,Golden State Warriors,2,25-19,4,two point shot,False,4,False,False
+2006-04-07,31.6333333333,Houston Rockets,Golden State Warriors,3,66-70,-6,layup,False,0,True,False
+2006-12-17,39.8333333333,Houston Rockets,Los Angeles Clippers,4,69-71,-4,layup,False,0,False,False
+2006-02-22,8.03333333333,Houston Rockets,Los Angeles Clippers,1,16-21,4,free throw,True,15,True,True
+2006-02-22,8.03333333333,Houston Rockets,Los Angeles Clippers,1,16-22,5,free throw,True,15,True,True
+2006-02-22,25.95,Houston Rockets,Los Angeles Clippers,3,31-31,-1,free throw,True,15,True,True
+2006-02-22,25.95,Houston Rockets,Los Angeles Clippers,3,31-31,-1,free throw,True,15,False,True
+2006-12-18,14.4666666667,Houston Rockets,Los Angeles Lakers,2,17-20,-5,dunk,False,0,False,True
+2006-12-18,28.5666666667,Houston Rockets,Los Angeles Lakers,3,40-52,-14,two point jumper,False,1,False,True
+2006-12-18,32.1833333333,Houston Rockets,Los Angeles Lakers,3,57-54,1,tip shot,False,0,True,True
+2006-12-18,38.2666666667,Houston Rockets,Los Angeles Lakers,4,69-58,9,layup,False,0,True,True
+2006-12-18,39.7,Houston Rockets,Los Angeles Lakers,4,71-61,8,two point jumper,False,1,False,True
+2006-02-27,12.3333333333,Houston Rockets,Phoenix Suns,2,21-27,4,dunk,True,0,True,True
+2006-02-27,13.5666666667,Houston Rockets,Phoenix Suns,2,25-29,2,tip shot,True,0,False,True
+2006-11-02,43.1,Houston Rockets,Sacramento Kings,4,53-63,8,layup,True,0,True,True
+2006-11-02,14.1166666667,Houston Rockets,Sacramento Kings,5,71-79,7,free throw,True,15,True,True
+2006-11-02,14.1166666667,Houston Rockets,Sacramento Kings,5,71-80,8,free throw,True,15,True,True
+2006-01-11,10.3,Houston Rockets,Sacramento Kings,1,16-13,-5,layup,True,0,True,False
+2006-01-11,22.6333333333,Houston Rockets,Sacramento Kings,2,40-34,-8,layup,True,0,True,False
+2006-01-11,22.6333333333,Houston Rockets,Sacramento Kings,2,40-35,-6,free throw,True,15,True,False
+2006-01-11,23.0333333333,Houston Rockets,Sacramento Kings,2,42-36,-7,free throw,True,15,True,False
+2006-01-11,23.0333333333,Houston Rockets,Sacramento Kings,2,42-36,-7,free throw,True,15,False,False
+2006-01-11,28.5666666667,Houston Rockets,Sacramento Kings,3,54-44,-12,tip shot,True,0,True,False
+2006-01-11,32.4833333333,Houston Rockets,Sacramento Kings,3,56-48,-10,two point jumper,True,1,False,False
+2006-04-09,14.7,Houston Rockets,Sacramento Kings,2,22-26,-6,two point shot,False,8,False,False
+2006-11-26,11.2166666667,Houston Rockets,Chicago Bulls,1,24-19,-6,free throw,True,15,False,False
+2006-11-26,11.2166666667,Houston Rockets,Chicago Bulls,1,24-20,-5,free throw,True,15,True,False
+2006-01-05,11.5166666667,Houston Rockets,Cleveland Cavaliers,1,23-18,3,layup,False,0,False,True
+2006-01-05,14.8333333333,Houston Rockets,Cleveland Cavaliers,2,27-24,1,hook shot,False,8,False,True
+2006-01-05,44.0833333333,Houston Rockets,Cleveland Cavaliers,4,82-76,5,free throw,False,15,True,True
+2006-01-05,44.0833333333,Houston Rockets,Cleveland Cavaliers,4,82-76,5,free throw,False,15,False,True
+2006-11-18,40.3833333333,Houston Rockets,Detroit Pistons,4,44-38,-8,hook shot,True,9,False,False
+2006-01-22,1.01666666667,Houston Rockets,Detroit Pistons,1,2-2,-2,layup,False,0,True,False
+2006-01-22,5.81666666667,Houston Rockets,Detroit Pistons,1,13-17,-6,hook shot,False,11,True,False
+2006-01-22,11.1666666667,Houston Rockets,Detroit Pistons,1,22-27,-7,hook shot,False,6,False,False
+2006-01-22,11.7833333333,Houston Rockets,Detroit Pistons,1,23-27,-5,free throw,False,15,True,False
+2006-01-22,11.7833333333,Houston Rockets,Detroit Pistons,1,24-27,-4,free throw,False,15,True,False
+2006-01-22,26.0,Houston Rockets,Detroit Pistons,3,51-57,-8,layup,False,0,True,False
+2006-11-22,12.25,Houston Rockets,Dallas Mavericks,2,29-19,8,dunk,False,0,True,True
+2006-11-22,17.75,Houston Rockets,Dallas Mavericks,2,41-34,5,dunk,False,0,True,True
+2006-03-15,34.25,Houston Rockets,Dallas Mavericks,3,77-62,-17,tip shot,True,0,True,False
+2006-03-15,35.0333333333,Houston Rockets,Dallas Mavericks,3,77-64,-15,layup,True,0,True,False
+2006-11-08,14.0666666667,Houston Rockets,Orlando Magic,2,22-21,-2,free throw,True,15,True,False
+2006-11-08,14.0666666667,Houston Rockets,Orlando Magic,2,22-22,-1,free throw,True,15,True,False
+2006-11-10,10.0166666667,Houston Rockets,Miami Heat,1,16-13,1,tip shot,False,0,True,False
+2006-11-10,10.6166666667,Houston Rockets,Miami Heat,1,17-14,2,free throw,False,15,True,False
+2006-11-10,10.6166666667,Houston Rockets,Miami Heat,1,17-14,2,free throw,False,15,False,False
+2006-11-15,14.05,Houston Rockets,Minnesota Timberwolves,2,24-29,-6,free throw,False,15,True,True
+2006-11-15,14.05,Houston Rockets,Minnesota Timberwolves,2,24-29,-6,free throw,False,15,False,True
+2006-11-15,14.75,Houston Rockets,Minnesota Timberwolves,2,26-31,-7,layup,False,0,True,True
+2006-11-15,37.95,Houston Rockets,Minnesota Timberwolves,4,70-71,-2,free throw,False,15,True,True
+2006-11-15,37.95,Houston Rockets,Minnesota Timberwolves,4,71-71,-1,free throw,False,15,True,True
+2006-11-15,39.8,Houston Rockets,Minnesota Timberwolves,4,76-73,1,layup,False,0,False,True
+2006-11-29,38.25,Houston Rockets,Atlanta Hawks,4,68-81,11,two point jumper,True,8,False,False
+2006-11-29,40.0666666667,Houston Rockets,Atlanta Hawks,4,71-85,12,two point jumper,True,1,False,False
+2006-12-11,26.25,Houston Rockets,Portland Trail Blazers,3,48-42,5,free throw,False,15,True,False
+2006-12-11,26.25,Houston Rockets,Portland Trail Blazers,3,49-42,6,free throw,False,15,True,False
+2006-12-11,31.8166666667,Houston Rockets,Portland Trail Blazers,3,56-51,4,free throw,False,15,True,False
+2006-12-11,31.8166666667,Houston Rockets,Portland Trail Blazers,3,57-51,5,free throw,False,15,True,False
+2006-12-11,34.6,Houston Rockets,Portland Trail Blazers,3,67-55,10,layup,False,0,True,False
+2006-12-11,34.6,Houston Rockets,Portland Trail Blazers,3,68-55,12,free throw,False,15,True,False
+2006-12-11,46.75,Houston Rockets,Portland Trail Blazers,4,89-79,8,two point jumper,False,20,False,False
+2006-12-15,14.75,Houston Rockets,Oklahoma City Thunder,2,26-29,-5,dunk,False,0,True,False
+2006-12-15,37.5,Houston Rockets,Oklahoma City Thunder,4,75-73,0,two point jumper,False,11,False,False
+2006-12-27,20.7,Houston Rockets,Utah Jazz,2,33-35,1,free throw,True,15,True,False
+2006-12-27,20.7,Houston Rockets,Utah Jazz,2,33-35,1,free throw,True,15,False,False
+2006-12-27,40.95,Houston Rockets,Utah Jazz,4,66-61,-7,hook shot,True,1,False,False
+2006-12-28,25.3166666667,Houston Rockets,New Orleans Pelicans,3,50-51,-2,free throw,False,15,True,False
+2006-12-28,25.3166666667,Houston Rockets,New Orleans Pelicans,3,51-51,-1,free throw,False,15,True,False
+2006-01-03,10.35,Houston Rockets,Washington Wizards,1,25-17,6,hook shot,False,9,True,True
+2006-01-03,25.2,Houston Rockets,Washington Wizards,3,60-46,12,layup,False,0,False,True
+2006-01-03,29.85,Houston Rockets,Washington Wizards,3,76-52,22,two point shot,False,1,True,True
+2006-01-08,6.13333333333,Houston Rockets,Denver Nuggets,1,6-8,1,free throw,True,15,False,False
+2006-01-08,6.13333333333,Houston Rockets,Denver Nuggets,1,6-9,2,free throw,True,15,True,False
+2006-01-08,29.5333333333,Houston Rockets,Denver Nuggets,3,50-49,-3,tip shot,True,0,False,False
+2006-01-10,22.1,Houston Rockets,Charlotte Bobcats,7,92-92,-2,layup,False,0,True,False
+2006-01-10,24.65,Houston Rockets,Charlotte Bobcats,7,94-94,-2,layup,False,0,False,False
+2006-01-14,11.0833333333,Houston Rockets,New Orleans Pelicans,1,16-10,-7,free throw,True,15,False,False
+2006-01-14,11.0833333333,Houston Rockets,New Orleans Pelicans,1,16-11,-6,free throw,True,15,True,False
+2006-01-14,15.05,Houston Rockets,New Orleans Pelicans,2,20-19,-3,layup,True,0,True,False
+2006-01-16,1.2,Houston Rockets,Atlanta Hawks,1,0-2,-3,free throw,False,15,False,False
+2006-01-16,1.2,Houston Rockets,Atlanta Hawks,1,1-2,-2,free throw,False,15,True,False
+2006-01-16,1.83333333333,Houston Rockets,Atlanta Hawks,1,3-4,-3,layup,False,0,True,False
+2006-01-16,4.7,Houston Rockets,Atlanta Hawks,1,8-10,-4,layup,False,0,True,False
+2006-01-16,11.3666666667,Houston Rockets,Atlanta Hawks,1,20-18,0,hook shot,False,6,True,False
+2006-01-16,12.0,Houston Rockets,Atlanta Hawks,1,21-20,0,free throw,False,15,True,False
+2006-01-16,12.0,Houston Rockets,Atlanta Hawks,1,21-20,0,free throw,False,15,False,False
+2006-01-16,21.55,Houston Rockets,Atlanta Hawks,2,36-44,-9,free throw,False,15,True,False
+2006-01-16,21.55,Houston Rockets,Atlanta Hawks,2,36-44,-9,free throw,False,15,False,False
+2006-01-16,22.8833333333,Houston Rockets,Atlanta Hawks,2,38-46,-9,free throw,False,15,False,False
+2006-01-16,22.8833333333,Houston Rockets,Atlanta Hawks,2,39-46,-8,free throw,False,15,True,False
+2006-01-16,28.2333333333,Houston Rockets,Atlanta Hawks,3,48-53,-7,layup,False,0,True,False
+2006-01-16,42.6333333333,Houston Rockets,Atlanta Hawks,4,74-86,-13,free throw,False,15,True,False
+2006-01-16,42.6333333333,Houston Rockets,Atlanta Hawks,4,75-86,-12,free throw,False,15,True,False
+2006-01-25,1.11666666667,Houston Rockets,Charlotte Bobcats,1,4-2,-4,layup,True,0,True,False
+2006-01-25,44.6,Houston Rockets,Charlotte Bobcats,4,54-73,17,tip shot,True,0,True,False
+2006-01-27,3.56666666667,Houston Rockets,Minnesota Timberwolves,1,4-10,4,layup,True,0,True,False
+2006-01-27,5.6,Houston Rockets,Minnesota Timberwolves,1,6-14,6,hook shot,True,8,True,False
+2006-01-27,8.15,Houston Rockets,Minnesota Timberwolves,1,15-17,1,free throw,True,15,False,False
+2006-01-27,8.15,Houston Rockets,Minnesota Timberwolves,1,15-17,1,free throw,True,15,False,False
+2006-01-29,1.43333333333,Houston Rockets,Miami Heat,1,4-3,-2,free throw,True,15,True,True
+2006-01-29,1.43333333333,Houston Rockets,Miami Heat,1,4-4,-1,free throw,True,15,True,True
+2006-01-29,4.48333333333,Houston Rockets,Miami Heat,1,10-6,-6,two point jumper,True,11,False,True
+2006-01-29,8.06666666667,Houston Rockets,Miami Heat,1,16-9,-9,tip shot,True,0,False,True
+2006-02-11,14.3,Houston Rockets,Utah Jazz,2,18-28,8,layup,True,0,True,False
+2006-02-11,14.7,Houston Rockets,Utah Jazz,2,18-28,9,free throw,True,15,False,False
+2006-02-11,14.7,Houston Rockets,Utah Jazz,2,18-29,10,free throw,True,15,True,False
+2006-02-11,34.75,Houston Rockets,Utah Jazz,3,56-76,19,free throw,True,15,False,False
+2006-02-11,34.75,Houston Rockets,Utah Jazz,3,56-77,20,free throw,True,15,True,False
+2006-02-11,35.9166666667,Houston Rockets,Utah Jazz,3,58-79,19,layup,True,0,True,False
+2006-02-11,35.9166666667,Houston Rockets,Utah Jazz,3,58-80,21,free throw,True,15,True,False
+2006-03-18,10.7166666667,Houston Rockets,San Antonio Spurs,1,9-17,6,dunk,True,0,True,False
+2006-03-18,13.8833333333,Houston Rockets,San Antonio Spurs,2,13-18,3,two point shot,True,13,False,False
+2006-03-18,34.9833333333,Houston Rockets,San Antonio Spurs,3,58-51,-9,tip shot,True,0,True,False
+2006-03-31,13.25,Houston Rockets,Washington Wizards,2,31-34,2,free throw,True,15,True,True
+2006-03-31,13.25,Houston Rockets,Washington Wizards,2,31-35,3,free throw,True,15,True,True
+2006-04-05,11.3333333333,Houston Rockets,Portland Trail Blazers,1,15-15,-2,layup,False,0,False,False
+2006-04-05,11.7333333333,Houston Rockets,Portland Trail Blazers,1,16-17,-2,free throw,False,15,True,False
+2006-04-05,11.7333333333,Houston Rockets,Portland Trail Blazers,1,17-17,-1,free throw,False,15,True,False
+2006-04-05,33.85,Houston Rockets,Portland Trail Blazers,3,55-55,-2,two point shot,False,5,True,False
+2006-04-10,30.75,Houston Rockets,Utah Jazz,3,47-52,-6,free throw,False,15,True,False
+2006-04-10,30.75,Houston Rockets,Utah Jazz,3,48-52,-5,free throw,False,15,True,False
+2006-04-12,2.13333333333,Houston Rockets,Minnesota Timberwolves,1,0-2,0,hook shot,True,7,False,False
+2006-04-12,37.6333333333,Houston Rockets,Minnesota Timberwolves,4,35-45,8,layup,True,0,False,False
+2006-04-12,37.6333333333,Houston Rockets,Minnesota Timberwolves,4,35-47,10,tip shot,True,0,True,False
+2006-04-15,2.58333333333,Houston Rockets,Memphis Grizzlies,1,4-3,-2,free throw,True,15,True,False
+2006-04-15,2.58333333333,Houston Rockets,Memphis Grizzlies,1,4-4,-1,free throw,True,15,True,False
+2006-04-15,6.23333333333,Houston Rockets,Memphis Grizzlies,1,10-12,0,dunk,True,0,True,False
+2006-04-15,25.8166666667,Houston Rockets,Memphis Grizzlies,3,49-49,-1,free throw,True,15,True,False
+2006-04-15,25.8166666667,Houston Rockets,Memphis Grizzlies,3,49-49,-1,free throw,True,15,False,False
+2006-04-15,37.6166666667,Houston Rockets,Memphis Grizzlies,4,80-63,-18,free throw,True,15,True,False
+2006-04-15,37.6166666667,Houston Rockets,Memphis Grizzlies,4,80-64,-17,free throw,True,15,True,False
+2006-04-15,38.7166666667,Houston Rockets,Memphis Grizzlies,4,80-68,-14,hook shot,True,6,True,False
+2006-04-17,23.2,Houston Rockets,Denver Nuggets,2,35-49,-16,two point shot,False,10,False,True
+2006-04-17,28.8166666667,Houston Rockets,Denver Nuggets,3,42-58,-18,dunk,False,0,True,True
+2006-04-17,34.5333333333,Houston Rockets,Denver Nuggets,3,57-67,-12,tip shot,False,0,True,True
+2006-04-17,35.1333333333,Houston Rockets,Denver Nuggets,3,59-68,-11,dunk,False,0,True,True
+2006-04-17,35.1333333333,Houston Rockets,Denver Nuggets,3,59-68,-10,free throw,False,15,False,True
+2006-04-19,1.56666666667,Houston Rockets,San Antonio Spurs,1,2-0,-4,two point jumper,True,12,False,False
+2006-04-19,26.2666666667,Houston Rockets,San Antonio Spurs,3,50-42,-10,layup,True,0,True,False
+2006-04-19,26.2666666667,Houston Rockets,San Antonio Spurs,3,50-43,-8,free throw,True,15,True,False
+2006-04-19,27.1333333333,Houston Rockets,San Antonio Spurs,3,52-45,-8,free throw,True,15,True,False
+2006-04-19,27.1333333333,Houston Rockets,San Antonio Spurs,3,52-45,-8,free throw,True,15,False,False
+2007-02-26,3.51666666667,Houston Rockets,Boston Celtics,1,0-7,5,tip shot,True,0,True,False
+2007-02-26,5.53333333333,Houston Rockets,Boston Celtics,1,4-9,3,two point shot,True,1,True,False
+2007-03-07,10.4166666667,Houston Rockets,Boston Celtics,1,26-16,8,tip shot,False,0,True,False
+2007-03-07,21.2,Houston Rockets,Boston Celtics,2,56-44,11,free throw,False,15,False,False
+2007-03-07,21.2,Houston Rockets,Boston Celtics,2,57-44,12,free throw,False,15,True,False
+2007-03-07,30.0333333333,Houston Rockets,Boston Celtics,3,74-59,14,free throw,False,15,False,False
+2007-03-07,30.0333333333,Houston Rockets,Boston Celtics,3,75-59,15,free throw,False,15,True,False
+2007-12-27,2.26666666667,Houston Rockets,Brooklyn Nets,1,2-0,0,layup,False,0,True,True
+2007-12-27,27.25,Houston Rockets,Brooklyn Nets,3,58-42,14,hook shot,False,4,True,True
+2007-12-27,29.9833333333,Houston Rockets,Brooklyn Nets,3,62-48,12,tip shot,False,0,False,True
+2007-03-09,11.2333333333,Houston Rockets,Brooklyn Nets,1,16-30,13,free throw,True,15,False,False
+2007-03-09,11.2333333333,Houston Rockets,Brooklyn Nets,1,16-31,14,free throw,True,15,True,False
+2007-11-10,9.08333333333,Houston Rockets,New York Knicks,1,12-22,8,layup,True,0,True,False
+2007-11-10,33.7333333333,Houston Rockets,New York Knicks,3,62-77,13,layup,True,0,True,False
+2007-01-29,11.0,Houston Rockets,Philadelphia 76ers,1,19-29,8,dunk,True,0,True,False
+2007-01-29,33.0833333333,Houston Rockets,Philadelphia 76ers,3,43-77,33,free throw,True,15,True,False
+2007-01-29,33.0833333333,Houston Rockets,Philadelphia 76ers,3,43-78,34,free throw,True,15,True,False
+2007-03-18,16.45,Houston Rockets,Philadelphia 76ers,2,44-23,19,layup,False,0,True,False
+2007-03-18,37.6833333333,Houston Rockets,Philadelphia 76ers,4,95-61,32,two point shot,False,7,False,False
+2007-02-28,4.85,Houston Rockets,Toronto Raptors,1,9-8,-3,two point shot,True,1,False,True
+2007-12-17,9.96666666667,Houston Rockets,Los Angeles Clippers,1,22-18,2,two point jumper,False,7,False,True
+2007-12-23,21.2666666667,Houston Rockets,Los Angeles Clippers,2,33-39,4,layup,True,0,False,False
+2007-12-23,21.3,Houston Rockets,Los Angeles Clippers,2,33-40,6,free throw,True,15,True,False
+2007-12-23,21.3,Houston Rockets,Los Angeles Clippers,2,33-41,7,free throw,True,15,True,False
+2007-03-14,20.15,Houston Rockets,Los Angeles Clippers,2,36-49,11,layup,True,0,False,True
+2007-12-12,17.2833333333,Houston Rockets,Los Angeles Lakers,2,33-38,4,free throw,True,15,True,True
+2007-12-12,17.2833333333,Houston Rockets,Los Angeles Lakers,2,33-39,5,free throw,True,15,True,True
+2007-12-15,12.2666666667,Houston Rockets,Los Angeles Lakers,2,31-10,19,dunk,False,0,True,False
+2007-12-15,13.3166666667,Houston Rockets,Los Angeles Lakers,2,31-12,18,free throw,False,15,False,False
+2007-12-15,13.3166666667,Houston Rockets,Los Angeles Lakers,2,32-12,19,free throw,False,15,True,False
+2007-01-10,5.63333333333,Houston Rockets,Los Angeles Lakers,1,12-11,-3,tip shot,True,0,True,False
+2007-01-10,24.8833333333,Houston Rockets,Los Angeles Lakers,3,46-51,4,free throw,True,15,True,False
+2007-01-10,24.8833333333,Houston Rockets,Los Angeles Lakers,3,46-51,4,free throw,True,15,False,False
+2007-01-10,26.4,Houston Rockets,Los Angeles Lakers,3,48-51,1,tip shot,True,0,False,False
+2007-01-10,31.6,Houston Rockets,Los Angeles Lakers,3,57-64,5,two point jumper,True,1,True,False
+2007-01-10,41.3833333333,Houston Rockets,Los Angeles Lakers,4,64-84,18,two point jumper,True,14,True,False
+2007-01-10,45.35,Houston Rockets,Los Angeles Lakers,4,69-92,21,tip shot,True,0,False,False
+2007-01-17,1.56666666667,Houston Rockets,Phoenix Suns,1,5-4,-3,dunk,True,0,True,True
+2007-01-17,2.65,Houston Rockets,Phoenix Suns,1,5-7,0,hook shot,True,7,False,True
+2007-01-17,26.3666666667,Houston Rockets,Phoenix Suns,3,52-54,0,layup,True,0,True,True
+2007-04-16,34.8,Houston Rockets,Phoenix Suns,3,76-89,11,tip shot,True,0,True,True
+2007-04-16,35.4833333333,Houston Rockets,Phoenix Suns,3,76-89,11,layup,True,0,False,True
+2007-04-16,35.4833333333,Houston Rockets,Phoenix Suns,3,76-91,13,tip shot,True,0,True,True
+2007-01-13,1.36666666667,Houston Rockets,Sacramento Kings,1,0-0,-2,two point jumper,False,1,False,True
+2007-01-13,17.8166666667,Houston Rockets,Sacramento Kings,2,33-35,-3,free throw,False,15,True,True
+2007-01-13,17.8166666667,Houston Rockets,Sacramento Kings,2,34-35,-2,free throw,False,15,True,True
+2007-01-13,19.6,Houston Rockets,Sacramento Kings,2,34-38,-6,tip shot,False,0,False,True
+2007-01-13,27.75,Houston Rockets,Sacramento Kings,3,58-56,1,free throw,False,15,True,True
+2007-01-13,27.75,Houston Rockets,Sacramento Kings,3,58-56,1,free throw,False,15,False,True
+2007-01-13,30.7833333333,Houston Rockets,Sacramento Kings,3,64-61,2,free throw,False,15,True,True
+2007-01-13,30.7833333333,Houston Rockets,Sacramento Kings,3,65-61,3,free throw,False,15,True,True
+2007-01-13,39.95,Houston Rockets,Sacramento Kings,4,85-84,-1,tip shot,False,0,True,True
+2007-01-13,45.7333333333,Houston Rockets,Sacramento Kings,4,94-94,-1,free throw,False,15,True,True
+2007-01-13,45.7333333333,Houston Rockets,Sacramento Kings,4,95-94,0,free throw,False,15,True,True
+2007-01-13,21.1333333333,Houston Rockets,Sacramento Kings,5,111-106,3,tip shot,False,0,True,True
+2007-02-13,2.01666666667,Houston Rockets,Sacramento Kings,1,4-6,0,layup,True,0,True,True
+2007-04-08,31.25,Houston Rockets,Sacramento Kings,3,65-71,-8,two point jumper,False,14,True,True
+2007-04-08,34.2166666667,Houston Rockets,Sacramento Kings,3,77-80,-4,free throw,False,15,True,True
+2007-04-08,34.2166666667,Houston Rockets,Sacramento Kings,3,78-80,-3,free throw,False,15,True,True
+2007-01-08,2.56666666667,Houston Rockets,Chicago Bulls,1,4-6,-4,layup,False,0,True,True
+2007-12-02,9.75,Houston Rockets,Cleveland Cavaliers,1,13-20,6,free throw,True,15,False,True
+2007-12-02,9.75,Houston Rockets,Cleveland Cavaliers,1,13-21,7,free throw,True,15,True,True
+2007-12-02,10.3333333333,Houston Rockets,Cleveland Cavaliers,1,13-22,8,free throw,True,15,True,True
+2007-12-02,10.3333333333,Houston Rockets,Cleveland Cavaliers,1,13-23,9,free throw,True,15,True,True
+2007-03-05,16.7,Houston Rockets,Cleveland Cavaliers,2,28-33,-7,dunk,False,0,True,False
+2007-03-05,33.35,Houston Rockets,Cleveland Cavaliers,3,55-60,-6,free throw,False,15,True,False
+2007-03-05,33.35,Houston Rockets,Cleveland Cavaliers,3,55-60,-6,free throw,False,15,False,False
+2007-11-18,10.0,Houston Rockets,Detroit Pistons,1,20-23,-4,free throw,False,15,True,True
+2007-11-18,10.0,Houston Rockets,Detroit Pistons,1,21-23,-3,free throw,False,15,True,True
+2007-03-22,11.3833333333,Houston Rockets,Detroit Pistons,1,15-20,3,tip shot,True,0,True,True
+2007-12-26,1.51666666667,Houston Rockets,Indiana Pacers,1,7-0,5,two point shot,False,5,True,False
+2007-12-26,27.15,Houston Rockets,Indiana Pacers,3,52-45,5,tip shot,False,0,True,False
+2007-12-26,27.7,Houston Rockets,Indiana Pacers,3,52-45,5,two point jumper,False,1,False,False
+2007-12-26,30.85,Houston Rockets,Indiana Pacers,3,54-52,0,two point jumper,False,7,False,False
+2007-12-26,34.8833333333,Houston Rockets,Indiana Pacers,3,58-60,-4,layup,False,0,False,False
+2007-03-20,10.8833333333,Houston Rockets,Indiana Pacers,1,12-17,4,free throw,True,15,True,True
+2007-03-20,10.8833333333,Houston Rockets,Indiana Pacers,1,12-18,5,free throw,True,15,True,True
+2007-03-20,13.55,Houston Rockets,Indiana Pacers,2,18-18,-2,tip shot,True,0,False,True
+2007-11-08,6.35,Houston Rockets,Milwaukee Bucks,1,12-10,0,two point jumper,False,12,True,True
+2007-11-08,8.1,Houston Rockets,Milwaukee Bucks,1,16-13,1,tip shot,False,0,True,True
+2007-11-08,8.53333333333,Houston Rockets,Milwaukee Bucks,1,16-13,1,layup,False,0,False,True
+2007-11-08,8.6,Houston Rockets,Milwaukee Bucks,1,18-13,3,layup,False,0,True,True
+2007-11-08,20.6166666667,Houston Rockets,Milwaukee Bucks,2,40-35,4,free throw,False,15,True,True
+2007-11-08,20.6166666667,Houston Rockets,Milwaukee Bucks,2,41-35,5,free throw,False,15,True,True
+2007-11-08,33.7166666667,Houston Rockets,Milwaukee Bucks,3,75-52,21,two point jumper,False,11,True,True
+2007-11-04,10.1833333333,Houston Rockets,Dallas Mavericks,1,13-23,8,layup,True,0,True,False
+2007-01-16,6.66666666667,Houston Rockets,Dallas Mavericks,1,14-15,-3,two point shot,False,6,False,True
+2007-01-16,11.0666666667,Houston Rockets,Dallas Mavericks,1,28-21,5,two point jumper,False,13,False,True
+2007-01-16,37.25,Houston Rockets,Dallas Mavericks,4,76-79,-5,layup,False,0,True,True
+2007-01-16,37.25,Houston Rockets,Dallas Mavericks,4,77-79,-3,free throw,False,15,True,True
+2007-02-09,0.25,Houston Rockets,Dallas Mavericks,1,0-0,-2,two point shot,False,1,False,False
+2007-02-09,5.78333333333,Houston Rockets,Dallas Mavericks,1,7-11,-6,two point jumper,False,11,False,False
+2007-02-09,6.5,Houston Rockets,Dallas Mavericks,1,9-13,-6,hook shot,False,7,True,False
+2007-02-09,30.0666666667,Houston Rockets,Dallas Mavericks,3,46-52,-8,two point shot,False,1,True,False
+2007-02-09,30.0666666667,Houston Rockets,Dallas Mavericks,3,46-52,-7,free throw,False,15,False,False
+2007-02-15,6.1,Houston Rockets,Dallas Mavericks,1,15-12,-5,tip shot,True,0,True,False
+2007-02-15,26.8333333333,Houston Rockets,Dallas Mavericks,3,43-49,4,two point shot,True,1,True,False
+2007-02-15,28.2833333333,Houston Rockets,Dallas Mavericks,3,45-49,2,two point jumper,True,13,False,False
+2007-11-01,8.01666666667,Houston Rockets,Utah Jazz,1,17-22,-7,hook shot,False,9,False,True
+2007-11-01,10.35,Houston Rockets,Utah Jazz,1,20-28,-9,free throw,False,15,True,True
+2007-11-01,10.35,Houston Rockets,Utah Jazz,1,21-28,-8,free throw,False,15,True,True
+2007-11-01,33.25,Houston Rockets,Utah Jazz,3,64-76,-13,free throw,False,15,False,True
+2007-11-01,33.25,Houston Rockets,Utah Jazz,3,65-76,-12,free throw,False,15,True,True
+2007-11-01,34.0166666667,Houston Rockets,Utah Jazz,3,65-78,-15,layup,False,0,False,True
+2007-11-25,9.21666666667,Houston Rockets,Memphis Grizzlies,1,10-21,9,two point jumper,True,12,True,True
+2007-11-25,14.1333333333,Houston Rockets,Memphis Grizzlies,2,18-25,6,free throw,True,15,True,True
+2007-11-25,14.1333333333,Houston Rockets,Memphis Grizzlies,2,18-25,6,free throw,True,15,False,True
+2007-12-06,8.93333333333,Houston Rockets,Minnesota Timberwolves,1,20-20,-2,layup,False,0,False,False
+2007-12-06,10.5166666667,Houston Rockets,Minnesota Timberwolves,1,24-20,2,hook shot,False,4,False,False
+2007-12-06,10.8,Houston Rockets,Minnesota Timberwolves,1,24-20,3,free throw,False,15,False,False
+2007-12-06,10.8,Houston Rockets,Minnesota Timberwolves,1,25-20,4,free throw,False,15,True,False
+2007-12-08,12.65,Houston Rockets,Charlotte Bobcats,2,33-17,14,tip shot,False,0,True,True
+2007-12-08,32.1666666667,Houston Rockets,Charlotte Bobcats,3,71-42,27,two point jumper,False,16,False,True
+2007-12-08,32.75,Houston Rockets,Charlotte Bobcats,3,73-42,29,tip shot,False,0,True,True
+2007-12-29,27.6333333333,Houston Rockets,Atlanta Hawks,3,34-56,20,two point shot,True,1,True,True
+2007-12-29,28.95,Houston Rockets,Atlanta Hawks,3,36-56,18,tip shot,True,0,False,True
+2007-12-29,29.6333333333,Houston Rockets,Atlanta Hawks,3,38-60,20,tip shot,True,0,True,True
+2007-12-29,31.75,Houston Rockets,Atlanta Hawks,3,43-65,21,free throw,True,15,False,True
+2007-12-29,31.75,Houston Rockets,Atlanta Hawks,3,43-65,21,free throw,True,15,False,True
+2007-12-31,5.48333333333,Houston Rockets,Memphis Grizzlies,1,11-11,-1,free throw,True,15,False,True
+2007-12-31,5.48333333333,Houston Rockets,Memphis Grizzlies,1,11-11,-1,free throw,True,15,False,True
+2007-12-31,28.8166666667,Houston Rockets,Memphis Grizzlies,3,66-67,-1,tip shot,True,0,False,True
+2007-12-31,28.9166666667,Houston Rockets,Memphis Grizzlies,3,66-69,1,layup,True,0,True,True
+2007-12-31,32.3166666667,Houston Rockets,Memphis Grizzlies,3,70-75,3,tip shot,True,0,False,True
+2007-01-03,7.2,Houston Rockets,Oklahoma City Thunder,1,15-19,2,dunk,True,0,True,False
+2007-01-03,27.95,Houston Rockets,Oklahoma City Thunder,3,58-65,5,layup,True,0,False,False
+2007-01-03,27.9666666667,Houston Rockets,Oklahoma City Thunder,3,58-65,6,free throw,True,15,False,False
+2007-01-03,27.9666666667,Houston Rockets,Oklahoma City Thunder,3,58-66,7,free throw,True,15,True,False
+2007-01-03,42.7833333333,Houston Rockets,Oklahoma City Thunder,4,86-94,6,tip shot,True,0,True,False
+2007-01-03,44.8666666667,Houston Rockets,Oklahoma City Thunder,4,92-100,6,layup,True,0,True,False
+2007-01-03,44.8666666667,Houston Rockets,Oklahoma City Thunder,4,92-101,8,free throw,True,15,True,False
+2007-01-05,2.56666666667,Houston Rockets,Utah Jazz,1,3-13,8,tip shot,True,0,True,False
+2007-01-05,17.2333333333,Houston Rockets,Utah Jazz,2,26-36,9,free throw,True,15,True,False
+2007-01-05,17.2333333333,Houston Rockets,Utah Jazz,2,26-37,10,free throw,True,15,True,False
+2007-01-05,18.9833333333,Houston Rockets,Utah Jazz,2,30-43,12,free throw,True,15,True,False
+2007-01-05,18.9833333333,Houston Rockets,Utah Jazz,2,30-43,12,free throw,True,15,False,False
+2007-01-05,24.6333333333,Houston Rockets,Utah Jazz,3,48-56,6,layup,True,0,True,False
+2007-01-05,32.1,Houston Rockets,Utah Jazz,3,60-75,13,hook shot,True,11,True,False
+2007-01-07,23.4,Houston Rockets,Minnesota Timberwolves,2,39-44,-7,tip shot,False,0,True,True
+2007-01-07,24.4333333333,Houston Rockets,Minnesota Timberwolves,3,40-44,-6,two point jumper,False,15,False,True
+2007-01-07,35.65,Houston Rockets,Minnesota Timberwolves,3,62-68,-8,tip shot,False,0,True,True
+2007-01-12,3.7,Houston Rockets,Denver Nuggets,1,4-5,-3,dunk,False,0,True,True
+2007-01-12,4.23333333333,Houston Rockets,Denver Nuggets,1,5-5,-1,free throw,False,15,True,True
+2007-01-12,4.23333333333,Houston Rockets,Denver Nuggets,1,5-5,-1,free throw,False,15,False,True
+2007-01-12,5.78333333333,Houston Rockets,Denver Nuggets,1,7-9,-4,layup,False,0,True,True
+2007-01-12,22.4333333333,Houston Rockets,Denver Nuggets,2,41-36,3,layup,False,0,True,True
+2007-01-20,7.2,Houston Rockets,Denver Nuggets,1,11-15,2,layup,True,0,False,False
+2007-01-20,9.65,Houston Rockets,Denver Nuggets,1,18-24,4,dunk,True,0,True,False
+2007-01-20,17.45,Houston Rockets,Denver Nuggets,2,36-48,10,layup,True,0,True,False
+2007-01-20,27.65,Houston Rockets,Denver Nuggets,3,64-62,-4,layup,True,0,True,False
+2007-01-20,28.4166666667,Houston Rockets,Denver Nuggets,3,64-64,-2,hook shot,True,7,True,False
+2007-01-20,30.45,Houston Rockets,Denver Nuggets,3,67-71,2,layup,True,0,True,False
+2007-01-20,30.45,Houston Rockets,Denver Nuggets,3,67-72,4,free throw,True,15,True,False
+2007-01-20,19.1333333333,Houston Rockets,Denver Nuggets,5,111-108,-5,two point jumper,True,13,False,False
+2007-01-24,7.81666666667,Houston Rockets,San Antonio Spurs,1,8-14,-8,tip shot,False,0,True,True
+2007-01-24,16.7,Houston Rockets,San Antonio Spurs,2,24-27,-5,two point shot,False,8,False,True
+2007-01-24,21.3333333333,Houston Rockets,San Antonio Spurs,2,30-33,-5,layup,False,0,False,True
+2007-01-26,25.6166666667,Houston Rockets,Portland Trail Blazers,3,39-39,-1,free throw,True,15,True,True
+2007-01-26,25.6166666667,Houston Rockets,Portland Trail Blazers,3,39-40,0,free throw,True,15,True,True
+2007-01-26,26.3166666667,Houston Rockets,Portland Trail Blazers,3,39-42,1,dunk,True,0,True,True
+2007-01-26,34.7833333333,Houston Rockets,Portland Trail Blazers,3,48-65,16,free throw,True,15,False,True
+2007-01-26,34.7833333333,Houston Rockets,Portland Trail Blazers,3,48-66,17,free throw,True,15,True,True
+2007-01-26,39.5666666667,Houston Rockets,Portland Trail Blazers,4,53-76,22,free throw,True,15,True,True
+2007-01-26,39.5666666667,Houston Rockets,Portland Trail Blazers,4,53-77,23,free throw,True,15,True,True
+2007-01-31,5.56666666667,Houston Rockets,Oklahoma City Thunder,1,14-14,-2,hook shot,True,8,True,True
+2007-01-31,25.25,Houston Rockets,Oklahoma City Thunder,3,56-61,3,dunk,True,0,True,True
+2007-01-31,25.8833333333,Houston Rockets,Oklahoma City Thunder,3,56-63,5,two point jumper,True,11,True,True
+2007-01-31,26.9,Houston Rockets,Oklahoma City Thunder,3,61-65,2,layup,True,0,True,True
+2007-01-31,30.8833333333,Houston Rockets,Oklahoma City Thunder,3,71-76,3,dunk,True,0,True,True
+2007-02-03,24.8333333333,Houston Rockets,New Orleans Pelicans,3,35-32,-5,layup,True,0,False,False
+2007-02-03,24.8833333333,Houston Rockets,New Orleans Pelicans,3,35-32,-5,layup,True,0,False,False
+2007-02-05,22.6666666667,Houston Rockets,Minnesota Timberwolves,2,30-45,13,two point shot,True,8,True,False
+2007-02-06,20.2833333333,Houston Rockets,Memphis Grizzlies,2,47-37,9,free throw,False,15,False,True
+2007-02-06,20.2833333333,Houston Rockets,Memphis Grizzlies,2,48-37,10,free throw,False,15,True,True
+2007-02-06,35.15,Houston Rockets,Memphis Grizzlies,3,79-72,5,two point jumper,False,15,False,True
+2007-02-06,39.7,Houston Rockets,Memphis Grizzlies,4,85-76,7,two point jumper,False,19,False,True
+2007-02-10,0.4,Houston Rockets,Charlotte Bobcats,1,0-0,-2,two point jumper,True,16,False,False
+2007-02-10,1.96666666667,Houston Rockets,Charlotte Bobcats,1,2-0,-4,tip shot,True,0,False,False
+2007-02-10,15.25,Houston Rockets,Charlotte Bobcats,2,32-41,7,two point shot,True,1,True,False
+2007-02-10,16.3166666667,Houston Rockets,Charlotte Bobcats,2,37-43,4,tip shot,True,0,True,False
+2007-02-10,18.25,Houston Rockets,Charlotte Bobcats,2,39-47,6,two point jumper,True,14,False,False
+2007-02-10,18.7,Houston Rockets,Charlotte Bobcats,2,39-48,8,free throw,True,15,True,False
+2007-02-10,18.7,Houston Rockets,Charlotte Bobcats,2,39-49,9,free throw,True,15,True,False
+2007-02-10,23.8833333333,Houston Rockets,Charlotte Bobcats,2,46-60,12,layup,True,0,True,False
+2007-02-10,32.4833333333,Houston Rockets,Charlotte Bobcats,3,61-80,17,tip shot,True,0,True,False
+2007-02-10,40.6333333333,Houston Rockets,Charlotte Bobcats,4,70-88,16,dunk,True,0,True,False
+2007-02-10,42.35,Houston Rockets,Charlotte Bobcats,4,72-92,18,layup,True,0,True,False
+2007-02-21,5.35,Houston Rockets,Miami Heat,1,8-17,8,free throw,True,15,True,True
+2007-02-21,5.35,Houston Rockets,Miami Heat,1,8-18,9,free throw,True,15,True,True
+2007-02-21,15.2,Houston Rockets,Miami Heat,2,24-39,13,layup,True,0,True,True
+2007-02-21,15.2,Houston Rockets,Miami Heat,2,24-40,15,free throw,True,15,True,True
+2007-02-21,20.0833333333,Houston Rockets,Miami Heat,2,36-51,13,tip shot,True,0,False,True
+2007-02-21,29.0333333333,Houston Rockets,Miami Heat,3,59-72,11,two point jumper,True,12,False,True
+2007-02-21,44.4333333333,Houston Rockets,Miami Heat,4,94-106,10,two point shot,True,1,False,True
+2007-02-23,4.21666666667,Houston Rockets,Atlanta Hawks,1,10-11,-3,layup,False,0,True,True
+2007-02-23,6.31666666667,Houston Rockets,Atlanta Hawks,1,16-14,0,dunk,False,0,True,True
+2007-02-23,17.95,Houston Rockets,Atlanta Hawks,2,36-39,-5,dunk,False,0,True,True
+2007-02-23,37.45,Houston Rockets,Atlanta Hawks,4,73-78,-7,layup,False,0,False,True
+2007-02-23,38.5666666667,Houston Rockets,Atlanta Hawks,4,77-80,-5,two point jumper,False,19,True,True
+2007-02-23,40.1,Houston Rockets,Atlanta Hawks,4,79-82,-4,free throw,False,15,False,True
+2007-02-23,40.1,Houston Rockets,Atlanta Hawks,4,80-82,-3,free throw,False,15,True,True
+2007-02-25,0.566666666667,Houston Rockets,Orlando Magic,1,2-0,0,dunk,False,0,True,True
+2007-03-02,1.2,Houston Rockets,Denver Nuggets,1,4-2,0,layup,False,0,True,False
+2007-03-02,18.6666666667,Houston Rockets,Denver Nuggets,2,53-43,8,tip shot,False,0,False,False
+2007-03-02,18.7,Houston Rockets,Denver Nuggets,2,53-43,8,tip shot,False,0,False,False
+2007-03-02,18.7,Houston Rockets,Denver Nuggets,2,54-43,10,free throw,False,15,True,False
+2007-03-02,18.7,Houston Rockets,Denver Nuggets,2,55-43,11,free throw,False,15,True,False
+2007-03-02,18.8833333333,Houston Rockets,Denver Nuggets,2,55-43,11,free throw,False,15,False,False
+2007-03-02,18.8833333333,Houston Rockets,Denver Nuggets,2,56-43,12,free throw,False,15,True,False
+2007-03-02,46.4666666667,Houston Rockets,Denver Nuggets,4,103-90,11,two point jumper,False,13,False,False
+2007-03-03,25.45,Houston Rockets,San Antonio Spurs,3,58-46,-14,two point shot,True,8,True,False
+2007-03-11,7.31666666667,Houston Rockets,Orlando Magic,1,11-16,4,free throw,True,15,False,False
+2007-03-11,7.31666666667,Houston Rockets,Orlando Magic,1,11-17,5,free throw,True,15,True,False
+2007-04-06,21.3666666667,Houston Rockets,Portland Trail Blazers,2,37-27,-12,tip shot,True,0,True,False
+2007-04-06,21.95,Houston Rockets,Portland Trail Blazers,2,37-29,-10,dunk,True,0,True,False
+2007-04-06,24.0,Houston Rockets,Portland Trail Blazers,2,40-33,-9,layup,True,0,False,False
+2007-04-09,9.73333333333,Houston Rockets,Oklahoma City Thunder,1,14-15,-3,layup,False,0,False,True
+2007-04-09,9.73333333333,Houston Rockets,Oklahoma City Thunder,1,15-15,-1,free throw,False,15,True,True
+2007-04-09,9.73333333333,Houston Rockets,Oklahoma City Thunder,1,15-15,-1,free throw,False,15,False,True
+2007-04-09,15.3166666667,Houston Rockets,Oklahoma City Thunder,2,31-22,7,tip shot,False,0,False,True
+2007-04-09,15.3833333333,Houston Rockets,Oklahoma City Thunder,2,31-22,7,tip shot,False,0,False,True
+2007-04-09,15.6333333333,Houston Rockets,Oklahoma City Thunder,2,32-24,6,tip shot,False,0,False,True
+2007-04-11,13.8333333333,Houston Rockets,Portland Trail Blazers,2,30-22,7,free throw,False,15,False,True
+2007-04-11,13.8333333333,Houston Rockets,Portland Trail Blazers,2,30-22,7,free throw,False,15,False,True
+2007-04-14,15.4666666667,Houston Rockets,New Orleans Pelicans,2,38-41,1,tip shot,True,0,True,True
+2008-03-18,9.3,Houston Rockets,Boston Celtics,1,17-13,-6,tip shot,True,0,False,False
+2008-03-18,25.5666666667,Houston Rockets,Boston Celtics,3,45-42,-5,layup,True,0,True,False
+2008-03-10,2.7,Houston Rockets,Brooklyn Nets,1,2-6,2,dunk,True,0,True,True
+2008-03-10,28.75,Houston Rockets,Brooklyn Nets,3,36-55,17,two point jumper,True,18,False,True
+2008-01-05,10.15,Houston Rockets,New York Knicks,1,9-20,9,two point jumper,True,22,False,False
+2008-04-06,7.35,Houston Rockets,Los Angeles Clippers,1,19-15,2,two point shot,False,1,True,False
+2008-04-06,26.25,Houston Rockets,Los Angeles Clippers,3,65-49,14,layup,False,0,True,False
+2008-04-06,27.1833333333,Houston Rockets,Los Angeles Clippers,3,67-49,16,tip shot,False,0,True,False
+2008-04-06,27.65,Houston Rockets,Los Angeles Clippers,3,69-51,16,hook shot,False,6,True,False
+2008-04-16,2.96666666667,Houston Rockets,Los Angeles Clippers,1,4-8,3,free throw,True,15,True,True
+2008-04-16,2.96666666667,Houston Rockets,Los Angeles Clippers,1,4-9,4,free throw,True,15,True,True
+2008-04-16,3.38333333333,Houston Rockets,Los Angeles Clippers,1,4-11,5,two point shot,True,1,True,True
+2008-04-16,9.1,Houston Rockets,Los Angeles Clippers,1,14-27,11,layup,True,0,True,True
+2008-04-16,31.5333333333,Houston Rockets,Los Angeles Clippers,3,56-70,12,dunk,True,0,True,True
+2008-04-16,32.0833333333,Houston Rockets,Los Angeles Clippers,3,56-70,12,hook shot,True,9,False,True
+2008-11-14,11.8833333333,Houston Rockets,Los Angeles Lakers,1,25-20,-7,tip shot,True,0,False,False
+2008-11-14,13.5833333333,Houston Rockets,Los Angeles Lakers,2,26-25,-2,free throw,True,15,True,False
+2008-11-14,13.5833333333,Houston Rockets,Los Angeles Lakers,2,26-25,-2,free throw,True,15,False,False
+2008-03-22,16.2,Houston Rockets,Phoenix Suns,2,32-49,-19,hook shot,False,10,False,False
+2008-03-22,17.5666666667,Houston Rockets,Phoenix Suns,2,34-51,-19,two point jumper,False,18,False,False
+2008-03-22,28.6,Houston Rockets,Phoenix Suns,3,68-85,-18,free throw,False,15,True,False
+2008-03-22,28.6,Houston Rockets,Phoenix Suns,3,69-85,-17,free throw,False,15,True,False
+2008-03-22,30.2,Houston Rockets,Phoenix Suns,3,76-87,-13,layup,False,0,True,False
+2008-03-22,45.5666666667,Houston Rockets,Phoenix Suns,4,107-116,-11,dunk,False,0,True,False
+2008-04-11,5.1,Houston Rockets,Phoenix Suns,1,13-6,-9,two point shot,True,1,True,False
+2008-04-11,22.3333333333,Houston Rockets,Phoenix Suns,2,42-55,11,hook shot,True,8,True,False
+2008-04-11,23.4166666667,Houston Rockets,Phoenix Suns,2,47-58,10,free throw,True,15,True,False
+2008-04-11,23.4166666667,Houston Rockets,Phoenix Suns,2,47-59,11,free throw,True,15,True,False
+2008-04-11,37.3333333333,Houston Rockets,Phoenix Suns,4,70-86,14,two point jumper,True,17,True,False
+2008-03-24,8.46666666667,Houston Rockets,Sacramento Kings,1,16-20,2,dunk,True,0,True,True
+2008-03-24,26.95,Houston Rockets,Sacramento Kings,3,55-60,4,free throw,True,15,True,True
+2008-03-24,26.95,Houston Rockets,Sacramento Kings,3,55-61,5,free throw,True,15,True,True
+2008-03-24,30.7333333333,Houston Rockets,Sacramento Kings,3,61-69,6,dunk,True,0,True,True
+2008-04-01,7.7,Houston Rockets,Sacramento Kings,1,20-18,0,layup,False,0,True,False
+2008-04-01,7.7,Houston Rockets,Sacramento Kings,1,21-18,2,free throw,False,15,True,False
+2008-04-01,9.01666666667,Houston Rockets,Sacramento Kings,1,24-22,1,free throw,False,15,True,False
+2008-04-01,9.01666666667,Houston Rockets,Sacramento Kings,1,24-22,1,free throw,False,15,False,False
+2008-04-01,10.5,Houston Rockets,Sacramento Kings,1,26-26,-2,dunk,False,0,True,False
+2008-04-01,28.85,Houston Rockets,Sacramento Kings,3,62-60,0,tip shot,False,0,True,False
+2008-04-01,30.6333333333,Houston Rockets,Sacramento Kings,3,62-62,-1,free throw,False,15,False,False
+2008-04-01,30.6333333333,Houston Rockets,Sacramento Kings,3,62-62,-1,free throw,False,15,False,False
+2008-04-01,33.0,Houston Rockets,Sacramento Kings,3,68-68,-2,layup,False,0,True,False
+2008-04-01,33.0,Houston Rockets,Sacramento Kings,3,69-68,0,free throw,False,15,True,False
+2008-03-05,25.75,Houston Rockets,Indiana Pacers,3,57-70,11,tip shot,True,0,True,False
+2008-11-21,16.0333333333,Houston Rockets,Dallas Mavericks,2,29-34,4,free throw,True,15,True,True
+2008-11-21,20.3,Houston Rockets,Dallas Mavericks,2,39-39,-2,layup,True,0,False,True
+2008-03-06,9.2,Houston Rockets,Dallas Mavericks,1,22-21,-1,two point shot,False,1,True,False
+2008-03-06,30.1,Houston Rockets,Dallas Mavericks,3,68-58,8,two point shot,False,6,False,False
+2008-03-06,31.3166666667,Houston Rockets,Dallas Mavericks,3,72-61,9,dunk,False,0,True,False
+2008-11-06,8.98333333333,Houston Rockets,San Antonio Spurs,1,11-18,5,dunk,True,0,True,True
+2008-11-23,20.65,Houston Rockets,Miami Heat,2,42-41,-1,layup,False,0,False,False
+2008-11-23,33.9666666667,Houston Rockets,Miami Heat,3,66-70,-5,free throw,False,15,False,False
+2008-11-23,33.9666666667,Houston Rockets,Miami Heat,3,67-70,-4,free throw,False,15,True,False
+2008-01-08,9.15,Houston Rockets,Washington Wizards,1,28-18,9,free throw,False,15,True,True
+2008-01-08,9.15,Houston Rockets,Washington Wizards,1,29-18,10,free throw,False,15,True,True
+2008-02-26,0.383333333333,Houston Rockets,Washington Wizards,1,0-2,0,layup,True,0,True,True
+2008-02-26,8.0,Houston Rockets,Washington Wizards,1,5-15,8,two point jumper,True,11,True,True
+2008-02-28,3.01666666667,Houston Rockets,Memphis Grizzlies,1,0-11,10,free throw,True,15,True,False
+2008-02-28,3.01666666667,Houston Rockets,Memphis Grizzlies,1,0-12,11,free throw,True,15,True,False
+2008-02-28,15.45,Houston Rockets,Memphis Grizzlies,2,23-41,16,dunk,True,0,True,False
+2008-03-02,23.1166666667,Houston Rockets,Denver Nuggets,2,40-46,4,two point shot,True,1,False,False
+2008-03-02,29.35,Houston Rockets,Denver Nuggets,3,53-67,12,tip shot,True,0,True,False
+2008-03-08,4.1,Houston Rockets,New Orleans Pelicans,1,7-6,-3,two point jumper,True,10,False,False
+2008-03-08,26.1333333333,Houston Rockets,New Orleans Pelicans,3,50-61,9,hook shot,True,8,False,False
+2008-03-08,26.3666666667,Houston Rockets,New Orleans Pelicans,3,50-63,11,dunk,True,0,True,False
+2008-03-08,27.7666666667,Houston Rockets,New Orleans Pelicans,3,57-65,6,dunk,True,0,True,False
+2008-03-12,25.5,Houston Rockets,Atlanta Hawks,3,35-37,-3,free throw,False,15,False,True
+2008-03-12,25.5,Houston Rockets,Atlanta Hawks,3,35-37,-3,free throw,False,15,False,True
+2008-03-12,27.3166666667,Houston Rockets,Atlanta Hawks,3,40-39,0,free throw,False,15,True,True
+2008-03-12,27.3166666667,Houston Rockets,Atlanta Hawks,3,41-39,1,free throw,False,15,True,True
+2008-03-14,40.6,Houston Rockets,Charlotte Bobcats,4,64-75,10,free throw,True,15,True,True
+2008-03-14,40.6,Houston Rockets,Charlotte Bobcats,4,64-75,10,free throw,True,15,False,True
+2008-03-19,1.81666666667,Houston Rockets,New Orleans Pelicans,1,1-2,-2,free throw,False,15,True,False
+2008-03-19,1.81666666667,Houston Rockets,New Orleans Pelicans,1,2-2,-1,free throw,False,15,True,False
+2008-03-19,2.95,Houston Rockets,New Orleans Pelicans,1,4-2,0,tip shot,False,0,True,False
+2008-03-19,11.45,Houston Rockets,New Orleans Pelicans,1,24-16,6,hook shot,False,1,True,False
+2008-03-19,30.0,Houston Rockets,New Orleans Pelicans,3,53-50,2,free throw,False,15,False,False
+2008-03-19,30.0,Houston Rockets,New Orleans Pelicans,3,53-50,2,free throw,False,15,False,False
+2008-03-19,31.6,Houston Rockets,New Orleans Pelicans,3,55-50,3,dunk,False,0,True,False
+2008-03-19,34.0333333333,Houston Rockets,New Orleans Pelicans,3,57-53,2,hook shot,False,10,False,False
+2008-03-19,41.7833333333,Houston Rockets,New Orleans Pelicans,4,63-72,-11,tip shot,False,0,True,False
+2008-03-26,8.58333333333,Houston Rockets,Minnesota Timberwolves,1,14-17,1,dunk,True,0,True,True
+2008-03-26,24.8833333333,Houston Rockets,Minnesota Timberwolves,3,44-48,2,layup,True,0,True,True
+2008-03-26,28.75,Houston Rockets,Minnesota Timberwolves,3,50-53,1,tip shot,True,0,False,True
+2008-03-30,33.2833333333,Houston Rockets,San Antonio Spurs,3,60-83,-25,tip shot,False,0,True,True
+2008-04-03,3.58333333333,Houston Rockets,Portland Trail Blazers,1,7-5,1,free throw,False,15,True,True
+2008-04-03,3.58333333333,Houston Rockets,Portland Trail Blazers,1,8-5,2,free throw,False,15,True,True
+2008-04-03,5.73333333333,Houston Rockets,Portland Trail Blazers,1,10-7,1,two point jumper,False,1,True,True
+2008-04-03,7.5,Houston Rockets,Portland Trail Blazers,1,13-11,0,two point jumper,False,15,False,True
+2008-04-03,17.8833333333,Houston Rockets,Portland Trail Blazers,2,38-30,6,tip shot,False,0,True,True
+2008-04-03,19.0333333333,Houston Rockets,Portland Trail Blazers,2,40-30,9,free throw,False,15,True,True
+2008-04-03,19.0333333333,Houston Rockets,Portland Trail Blazers,2,41-30,10,free throw,False,15,True,True
+2008-04-03,19.8166666667,Houston Rockets,Portland Trail Blazers,2,43-32,9,two point shot,False,6,True,True
+2008-04-03,27.8333333333,Houston Rockets,Portland Trail Blazers,3,54-50,2,layup,False,0,False,True
+2008-04-03,27.8666666667,Houston Rockets,Portland Trail Blazers,3,55-50,4,free throw,False,15,True,True
+2008-04-03,27.8666666667,Houston Rockets,Portland Trail Blazers,3,55-50,4,free throw,False,15,False,True
+2008-04-04,5.38333333333,Houston Rockets,Oklahoma City Thunder,1,12-8,2,dunk,False,0,True,True
+2008-04-04,24.4333333333,Houston Rockets,Oklahoma City Thunder,3,41-43,-3,free throw,False,15,True,True
+2008-04-04,24.4333333333,Houston Rockets,Oklahoma City Thunder,3,41-43,-3,free throw,False,15,False,True
+2008-04-04,30.0666666667,Houston Rockets,Oklahoma City Thunder,3,58-49,7,two point shot,False,1,True,True
+2008-04-09,3.2,Houston Rockets,Oklahoma City Thunder,1,4-6,0,tip shot,True,0,False,False
+2008-04-09,28.0,Houston Rockets,Oklahoma City Thunder,3,44-56,11,free throw,True,15,True,False
+2008-04-09,28.0,Houston Rockets,Oklahoma City Thunder,3,44-57,12,free throw,True,15,True,False
+2008-04-13,2.93333333333,Houston Rockets,Denver Nuggets,1,2-3,-3,two point jumper,False,9,False,True
+2008-04-13,4.1,Houston Rockets,Denver Nuggets,1,4-3,0,free throw,False,15,False,True
+2008-04-13,4.1,Houston Rockets,Denver Nuggets,1,5-3,1,free throw,False,15,True,True
+2008-04-13,4.56666666667,Houston Rockets,Denver Nuggets,1,5-6,-3,two point jumper,False,15,False,True
+2008-04-13,26.25,Houston Rockets,Denver Nuggets,3,49-68,-21,two point shot,False,8,True,True
+2008-04-13,28.2833333333,Houston Rockets,Denver Nuggets,3,54-72,-20,two point jumper,False,15,False,True
+2009-04-10,5.2,Houston Rockets,Golden State Warriors,1,12-10,0,two point shot,False,1,True,True
+2009-04-10,5.2,Houston Rockets,Golden State Warriors,1,13-10,2,free throw,False,15,True,True
+2009-04-10,7.21666666667,Houston Rockets,Golden State Warriors,1,14-12,0,layup,False,0,False,True
+2009-04-10,8.33333333333,Houston Rockets,Golden State Warriors,1,18-14,2,dunk,False,0,True,True
+2009-04-10,9.46666666667,Houston Rockets,Golden State Warriors,1,20-16,2,two point shot,False,1,False,True
+2009-04-10,19.2166666667,Houston Rockets,Golden State Warriors,2,42-42,-2,two point jumper,False,3,True,True
+2009-04-10,25.8833333333,Houston Rockets,Golden State Warriors,3,64-58,4,two point shot,False,1,False,True
+2009-04-10,27.1333333333,Houston Rockets,Golden State Warriors,3,65-58,5,tip shot,False,0,False,True
+2009-04-10,31.2833333333,Houston Rockets,Golden State Warriors,3,74-64,9,free throw,False,15,False,True
+2009-04-10,31.2833333333,Houston Rockets,Golden State Warriors,3,75-64,10,free throw,False,15,True,True
+2009-04-10,32.35,Houston Rockets,Golden State Warriors,3,76-64,11,free throw,False,15,True,True
+2009-04-10,32.35,Houston Rockets,Golden State Warriors,3,77-64,12,free throw,False,15,True,True
+2009-01-13,17.2833333333,Houston Rockets,Los Angeles Lakers,2,38-40,0,layup,True,0,True,False
+2009-01-13,19.45,Houston Rockets,Los Angeles Lakers,2,43-45,0,tip shot,True,0,True,False
+2009-04-01,14.05,Houston Rockets,Phoenix Suns,2,33-38,-6,free throw,False,15,True,False
+2009-04-01,14.05,Houston Rockets,Phoenix Suns,2,33-38,-6,free throw,False,15,False,False
+2009-02-04,35.15,Houston Rockets,Memphis Grizzlies,3,74-85,-13,layup,False,0,False,True
+2009-02-04,35.55,Houston Rockets,Memphis Grizzlies,3,74-86,-14,layup,False,0,False,True
+2009-03-16,5.23333333333,Houston Rockets,New Orleans Pelicans,1,11-12,-3,layup,False,0,False,True
+2009-03-16,23.5,Houston Rockets,New Orleans Pelicans,2,44-45,-2,free throw,False,15,True,True
+2009-03-16,23.5,Houston Rockets,New Orleans Pelicans,2,44-45,-2,free throw,False,15,False,True

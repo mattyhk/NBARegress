@@ -1,0 +1,49 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2012-02-19,47.95,Detroit Pistons,Boston Celtics,4,81-96,13,hook shot,True,4,True,True
+2012-02-10,45.8,Detroit Pistons,Brooklyn Nets,4,84-105,20,free throw,True,15,True,False
+2012-02-10,45.8,Detroit Pistons,Brooklyn Nets,4,84-105,20,free throw,True,15,False,False
+2012-01-31,46.2166666667,Detroit Pistons,New York Knicks,4,81-110,-30,free throw,False,15,False,True
+2012-01-31,46.2166666667,Detroit Pistons,New York Knicks,4,81-110,-30,free throw,False,15,False,True
+2012-01-31,47.4333333333,Detroit Pistons,New York Knicks,4,86-113,-29,layup,False,0,True,True
+2012-01-28,43.9166666667,Detroit Pistons,Philadelphia 76ers,4,62-88,-28,tip shot,False,0,True,False
+2012-01-28,45.7833333333,Detroit Pistons,Philadelphia 76ers,4,67-92,-27,two point shot,False,1,True,False
+2012-02-28,46.9833333333,Detroit Pistons,Philadelphia 76ers,4,95-66,-31,layup,True,0,False,False
+2012-04-26,44.9166666667,Detroit Pistons,Philadelphia 76ers,4,80-102,21,free throw,True,15,False,False
+2012-04-26,44.9166666667,Detroit Pistons,Philadelphia 76ers,4,80-103,22,free throw,True,15,True,False
+2012-04-26,46.1,Detroit Pistons,Philadelphia 76ers,4,80-105,23,layup,True,0,True,False
+2012-04-26,46.5,Detroit Pistons,Philadelphia 76ers,4,80-106,25,free throw,True,15,True,False
+2012-04-26,46.5,Detroit Pistons,Philadelphia 76ers,4,80-106,25,free throw,True,15,False,False
+2012-04-26,47.1,Detroit Pistons,Philadelphia 76ers,4,80-108,26,layup,True,0,True,False
+2012-12-28,46.6,Detroit Pistons,Cleveland Cavaliers,4,103-87,-18,dunk,True,0,True,True
+2012-12-28,47.25,Detroit Pistons,Cleveland Cavaliers,4,103-87,-18,layup,True,0,False,True
+2012-01-10,41.7333333333,Detroit Pistons,Dallas Mavericks,4,89-61,-30,layup,True,0,False,True
+2012-01-10,44.0333333333,Detroit Pistons,Dallas Mavericks,4,94-74,-22,hook shot,True,8,True,True
+2012-01-10,46.4166666667,Detroit Pistons,Dallas Mavericks,4,100-79,-22,free throw,True,15,True,True
+2012-01-10,46.4166666667,Detroit Pistons,Dallas Mavericks,4,100-80,-21,free throw,True,15,True,True
+2012-01-10,47.0,Detroit Pistons,Dallas Mavericks,4,100-81,-20,free throw,True,15,True,True
+2012-01-10,47.0,Detroit Pistons,Dallas Mavericks,4,100-81,-20,free throw,True,15,False,True
+2012-01-23,42.9166666667,Detroit Pistons,Oklahoma City Thunder,4,70-96,-28,hook shot,False,4,False,False
+2012-01-23,44.95,Detroit Pistons,Oklahoma City Thunder,4,73-96,-25,two point shot,False,1,False,False
+2012-01-23,45.8666666667,Detroit Pistons,Oklahoma City Thunder,4,75-96,-23,tip shot,False,0,False,False
+2012-01-23,46.2833333333,Detroit Pistons,Oklahoma City Thunder,4,77-97,-22,two point shot,False,1,True,False
+2012-01-23,46.7833333333,Detroit Pistons,Oklahoma City Thunder,4,79-97,-20,hook shot,False,1,True,False
+2012-01-30,42.95,Detroit Pistons,Milwaukee Bucks,4,72-91,-21,two point shot,False,1,True,True
+2012-01-30,45.0,Detroit Pistons,Milwaukee Bucks,4,73-93,-22,two point jumper,False,4,False,True
+2012-01-30,46.4833333333,Detroit Pistons,Milwaukee Bucks,4,75-95,-22,two point jumper,False,6,False,True
+2012-01-30,47.9833333333,Detroit Pistons,Milwaukee Bucks,4,82-103,-23,layup,False,0,True,True
+2012-03-03,47.65,Detroit Pistons,Memphis Grizzlies,4,83-100,-19,layup,False,0,True,True
+2012-04-18,13.05,Detroit Pistons,Atlanta Hawks,2,21-43,-23,free throw,False,15,True,True
+2012-04-18,13.05,Detroit Pistons,Atlanta Hawks,2,22-43,-22,free throw,False,15,True,True
+2012-04-18,13.5666666667,Detroit Pistons,Atlanta Hawks,2,24-43,-21,hook shot,False,7,True,True
+2012-04-18,33.6666666667,Detroit Pistons,Atlanta Hawks,3,59-89,-32,dunk,False,0,True,True
+2012-04-18,34.6166666667,Detroit Pistons,Atlanta Hawks,3,61-91,-32,two point shot,False,1,True,True
+2012-04-18,37.0,Detroit Pistons,Atlanta Hawks,4,68-104,-38,tip shot,False,0,False,True
+2012-04-18,37.0,Detroit Pistons,Atlanta Hawks,4,65-102,-39,tip shot,False,0,False,True
+2012-04-18,37.0666666667,Detroit Pistons,Atlanta Hawks,4,63-96,-35,layup,False,0,False,True
+2012-04-18,44.4833333333,Detroit Pistons,Atlanta Hawks,4,78-114,-38,layup,False,0,False,True
+2012-04-23,13.6833333333,Detroit Pistons,Indiana Pacers,2,32-28,2,two point shot,False,1,True,True
+2012-04-23,14.7,Detroit Pistons,Indiana Pacers,2,34-30,2,two point shot,False,12,True,True
+2012-04-23,16.35,Detroit Pistons,Indiana Pacers,2,34-37,-5,two point shot,False,7,False,True
+2012-04-23,37.6333333333,Detroit Pistons,Indiana Pacers,4,77-78,-3,tip shot,False,0,False,True
+2012-04-23,37.6833333333,Detroit Pistons,Indiana Pacers,4,77-78,-3,layup,False,0,False,True
+2012-04-23,38.8833333333,Detroit Pistons,Indiana Pacers,4,79-80,-3,tip shot,False,0,True,True

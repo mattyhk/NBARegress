@@ -1,0 +1,262 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2011-11-02,14.0833333333,Boston Celtics,Detroit Pistons,2,39-28,9,dunk,False,0,True,False
+2011-11-05,14.1833333333,Boston Celtics,Chicago Bulls,2,23-24,0,free throw,True,15,True,True
+2011-11-05,14.1833333333,Boston Celtics,Chicago Bulls,2,23-25,1,free throw,True,15,True,True
+2011-11-07,11.9833333333,Boston Celtics,Oklahoma City Thunder,1,27-21,4,layup,False,0,True,True
+2011-11-07,11.9833333333,Boston Celtics,Oklahoma City Thunder,1,28-21,6,free throw,False,15,True,True
+2011-11-07,12.3666666667,Boston Celtics,Oklahoma City Thunder,2,30-21,7,layup,False,0,True,True
+2011-11-07,36.3833333333,Boston Celtics,Oklahoma City Thunder,4,73-64,7,two point jumper,False,1,False,True
+2011-11-07,38.3666666667,Boston Celtics,Oklahoma City Thunder,4,78-67,10,free throw,False,15,True,True
+2011-11-07,38.3666666667,Boston Celtics,Oklahoma City Thunder,4,79-67,11,free throw,False,15,True,True
+2011-11-07,39.5666666667,Boston Celtics,Oklahoma City Thunder,4,82-69,12,free throw,False,15,True,True
+2011-11-07,39.5666666667,Boston Celtics,Oklahoma City Thunder,4,83-69,13,free throw,False,15,True,True
+2011-11-08,10.2833333333,Boston Celtics,Dallas Mavericks,1,16-18,-3,free throw,False,15,True,False
+2011-11-08,10.2833333333,Boston Celtics,Dallas Mavericks,1,17-18,-2,free throw,False,15,True,False
+2011-11-08,12.7,Boston Celtics,Dallas Mavericks,2,21-25,-6,dunk,False,0,True,False
+2011-11-08,16.95,Boston Celtics,Dallas Mavericks,2,30-36,-8,layup,False,0,True,False
+2011-11-08,34.5833333333,Boston Celtics,Dallas Mavericks,3,67-65,0,two point shot,False,1,False,False
+2011-11-11,10.0833333333,Boston Celtics,Miami Heat,1,24-15,7,layup,False,0,True,True
+2011-11-11,10.0833333333,Boston Celtics,Miami Heat,1,24-15,8,free throw,False,15,False,True
+2011-11-11,22.8833333333,Boston Celtics,Miami Heat,2,57-42,13,layup,False,0,False,True
+2011-11-11,37.1166666667,Boston Celtics,Miami Heat,4,91-78,12,free throw,False,15,True,True
+2011-11-11,37.1166666667,Boston Celtics,Miami Heat,4,91-78,12,free throw,False,15,False,True
+2011-11-17,9.68333333333,Boston Celtics,Washington Wizards,1,19-28,7,layup,True,0,True,False
+2011-11-17,14.5,Boston Celtics,Washington Wizards,2,31-35,2,layup,True,0,False,False
+2011-11-17,14.5,Boston Celtics,Washington Wizards,2,31-37,4,layup,True,0,True,False
+2011-11-17,34.2833333333,Boston Celtics,Washington Wizards,3,66-82,15,free throw,True,15,True,False
+2011-11-17,34.2833333333,Boston Celtics,Washington Wizards,3,66-83,16,free throw,True,15,True,False
+2011-11-17,37.15,Boston Celtics,Washington Wizards,4,69-91,20,hook shot,True,1,False,False
+2011-11-17,37.8333333333,Boston Celtics,Washington Wizards,4,69-93,22,dunk,True,0,True,False
+2011-11-17,37.8333333333,Boston Celtics,Washington Wizards,4,69-94,24,free throw,True,15,True,False
+2011-11-17,46.2166666667,Boston Celtics,Washington Wizards,4,77-114,35,hook shot,True,4,False,False
+2011-11-19,11.0666666667,Boston Celtics,Oklahoma City Thunder,1,21-23,0,hook shot,True,1,True,False
+2011-11-19,18.6666666667,Boston Celtics,Oklahoma City Thunder,2,39-34,-7,layup,True,0,False,False
+2011-11-19,18.7,Boston Celtics,Oklahoma City Thunder,2,39-34,-7,tip shot,True,0,False,False
+2011-11-19,35.0833333333,Boston Celtics,Oklahoma City Thunder,3,74-67,-8,free throw,True,15,False,False
+2011-11-19,35.0833333333,Boston Celtics,Oklahoma City Thunder,3,74-67,-8,free throw,True,15,False,False
+2011-11-21,14.55,Boston Celtics,Toronto Raptors,2,34-30,2,layup,False,0,False,False
+2011-11-22,9.36666666667,Boston Celtics,Atlanta Hawks,1,33-10,21,two point shot,False,6,True,True
+2011-11-22,34.5,Boston Celtics,Atlanta Hawks,3,85-56,28,free throw,False,15,False,True
+2011-11-22,34.5,Boston Celtics,Atlanta Hawks,3,85-56,28,free throw,False,15,False,True
+2011-11-22,44.85,Boston Celtics,Atlanta Hawks,4,99-70,27,dunk,False,0,True,True
+2011-11-24,8.78333333333,Boston Celtics,Brooklyn Nets,1,13-16,1,layup,True,0,False,True
+2011-11-24,10.8666666667,Boston Celtics,Brooklyn Nets,1,17-18,-1,two point jumper,True,1,False,True
+2011-11-26,10.1666666667,Boston Celtics,Toronto Raptors,1,18-31,11,two point shot,True,8,True,True
+2011-11-26,14.8833333333,Boston Celtics,Toronto Raptors,2,24-38,12,layup,True,0,True,True
+2011-11-26,15.3,Boston Celtics,Toronto Raptors,2,27-40,11,dunk,True,0,True,True
+2011-11-26,39.25,Boston Celtics,Toronto Raptors,4,79-92,11,dunk,True,0,True,True
+2011-12-01,14.9333333333,Boston Celtics,Portland Trail Blazers,2,32-25,-9,dunk,True,0,True,True
+2011-12-03,12.8166666667,Boston Celtics,Chicago Bulls,2,22-31,8,free throw,True,15,False,False
+2011-12-03,12.8166666667,Boston Celtics,Chicago Bulls,2,22-32,9,free throw,True,15,True,False
+2011-12-03,20.2166666667,Boston Celtics,Chicago Bulls,2,40-43,1,layup,True,0,True,False
+2011-12-03,22.2333333333,Boston Celtics,Chicago Bulls,2,45-49,2,two point shot,True,1,True,False
+2011-12-03,35.9666666667,Boston Celtics,Chicago Bulls,3,67-82,13,dunk,True,0,True,False
+2011-12-05,34.1666666667,Boston Celtics,Brooklyn Nets,3,76-50,24,layup,False,0,False,False
+2011-12-05,38.5,Boston Celtics,Brooklyn Nets,4,88-58,29,free throw,False,15,False,False
+2011-12-05,38.5,Boston Celtics,Brooklyn Nets,4,88-58,29,free throw,False,15,False,False
+2011-12-05,41.7,Boston Celtics,Brooklyn Nets,4,91-62,28,free throw,False,15,True,False
+2011-12-05,41.7,Boston Celtics,Brooklyn Nets,4,91-62,28,free throw,False,15,False,False
+2011-12-05,43.1,Boston Celtics,Brooklyn Nets,4,92-66,25,free throw,False,15,True,False
+2011-12-05,43.1,Boston Celtics,Brooklyn Nets,4,92-66,25,free throw,False,15,False,False
+2011-12-05,46.6666666667,Boston Celtics,Brooklyn Nets,4,98-72,24,two point jumper,False,18,True,False
+2011-12-08,12.8166666667,Boston Celtics,Denver Nuggets,2,21-37,14,layup,True,0,True,False
+2011-12-08,34.7666666667,Boston Celtics,Denver Nuggets,3,67-79,10,two point shot,True,1,True,False
+2011-12-08,34.7666666667,Boston Celtics,Denver Nuggets,3,67-79,11,free throw,True,15,False,False
+2011-12-09,0.4,Boston Celtics,Philadelphia 76ers,1,2-0,0,two point shot,False,1,True,True
+2011-12-09,2.65,Boston Celtics,Philadelphia 76ers,1,5-7,-3,free throw,False,15,True,True
+2011-12-09,2.65,Boston Celtics,Philadelphia 76ers,1,5-7,-3,free throw,False,15,False,True
+2011-12-09,25.1333333333,Boston Celtics,Philadelphia 76ers,3,58-56,0,dunk,False,0,True,True
+2011-12-09,28.9166666667,Boston Celtics,Philadelphia 76ers,3,66-66,-1,free throw,False,15,True,True
+2011-12-09,28.9166666667,Boston Celtics,Philadelphia 76ers,3,66-66,-1,free throw,False,15,False,True
+2011-12-09,34.5166666667,Boston Celtics,Philadelphia 76ers,3,75-80,-6,free throw,False,15,True,True
+2011-12-09,34.5166666667,Boston Celtics,Philadelphia 76ers,3,76-80,-5,free throw,False,15,True,True
+2011-12-11,0.7,Boston Celtics,Charlotte Bobcats,1,0-2,-4,layup,False,0,False,True
+2011-12-11,2.7,Boston Celtics,Charlotte Bobcats,1,2-6,-6,dunk,False,0,True,True
+2011-12-11,3.81666666667,Boston Celtics,Charlotte Bobcats,1,4-6,-4,two point shot,False,13,False,True
+2011-12-11,11.4166666667,Boston Celtics,Charlotte Bobcats,1,19-16,2,free throw,False,15,True,True
+2011-12-11,11.4166666667,Boston Celtics,Charlotte Bobcats,1,20-16,3,free throw,False,15,True,True
+2011-12-11,34.2833333333,Boston Celtics,Charlotte Bobcats,3,59-43,15,free throw,False,15,True,True
+2011-12-11,34.2833333333,Boston Celtics,Charlotte Bobcats,3,60-43,16,free throw,False,15,True,True
+2011-12-11,47.05,Boston Celtics,Charlotte Bobcats,4,91-61,28,two point shot,False,2,True,True
+2011-12-11,47.7666666667,Boston Celtics,Charlotte Bobcats,4,93-61,30,hook shot,False,6,True,True
+2011-12-15,0.566666666667,Boston Celtics,New York Knicks,1,4-3,-1,dunk,False,0,True,True
+2011-12-15,3.95,Boston Celtics,New York Knicks,1,9-15,-8,two point jumper,False,1,False,True
+2011-12-15,4.03333333333,Boston Celtics,New York Knicks,1,11-15,-6,tip shot,False,0,True,True
+2011-12-15,28.6333333333,Boston Celtics,New York Knicks,3,65-67,-4,two point shot,False,2,True,True
+2011-12-16,3.96666666667,Boston Celtics,Atlanta Hawks,1,8-7,-3,dunk,True,0,True,False
+2011-12-16,3.96666666667,Boston Celtics,Atlanta Hawks,1,8-7,-2,free throw,True,15,False,False
+2011-12-16,27.9666666667,Boston Celtics,Atlanta Hawks,3,53-55,0,hook shot,True,5,True,False
+2011-12-16,27.9666666667,Boston Celtics,Atlanta Hawks,3,53-55,1,free throw,True,15,False,False
+2011-12-16,30.3833333333,Boston Celtics,Atlanta Hawks,3,56-61,3,dunk,True,0,True,False
+2011-12-16,36.7166666667,Boston Celtics,Atlanta Hawks,4,71-77,4,layup,True,0,True,False
+2011-12-16,38.8666666667,Boston Celtics,Atlanta Hawks,4,75-77,0,layup,True,0,False,False
+2011-12-16,40.0333333333,Boston Celtics,Atlanta Hawks,4,75-84,7,two point shot,True,1,True,False
+2011-01-07,45.8166666667,Boston Celtics,Toronto Raptors,4,93-117,22,layup,True,0,True,True
+2011-01-12,10.55,Boston Celtics,Sacramento Kings,1,19-21,0,layup,True,0,True,False
+2011-01-12,10.55,Boston Celtics,Sacramento Kings,1,19-21,1,free throw,True,15,False,False
+2011-01-12,15.0166666667,Boston Celtics,Sacramento Kings,2,29-33,2,two point shot,True,1,False,False
+2011-01-12,15.5166666667,Boston Celtics,Sacramento Kings,2,31-34,2,free throw,True,15,True,False
+2011-01-12,15.5166666667,Boston Celtics,Sacramento Kings,2,31-35,3,free throw,True,15,True,False
+2011-01-12,15.8666666667,Boston Celtics,Sacramento Kings,2,31-37,4,dunk,True,0,True,False
+2011-01-12,31.6,Boston Celtics,Sacramento Kings,3,59-81,20,two point shot,True,2,True,False
+2011-01-12,38.25,Boston Celtics,Sacramento Kings,4,69-97,26,two point jumper,True,5,False,False
+2011-01-12,45.3333333333,Boston Celtics,Sacramento Kings,4,90-113,21,layup,True,0,True,False
+2011-01-14,32.6,Boston Celtics,Charlotte Bobcats,3,57-62,3,layup,True,0,False,True
+2011-01-19,13.5,Boston Celtics,Detroit Pistons,2,22-24,0,layup,True,0,True,True
+2011-01-19,31.7,Boston Celtics,Detroit Pistons,3,58-50,-10,hook shot,True,1,False,True
+2011-01-19,36.2,Boston Celtics,Detroit Pistons,4,61-60,-3,dunk,True,0,True,True
+2011-01-19,36.9666666667,Boston Celtics,Detroit Pistons,4,63-62,-3,dunk,True,0,True,True
+2011-01-21,25.8,Boston Celtics,Utah Jazz,3,44-63,17,tip shot,True,0,True,False
+2011-01-21,35.1,Boston Celtics,Utah Jazz,3,62-82,19,free throw,True,15,True,False
+2011-01-21,35.1,Boston Celtics,Utah Jazz,3,62-83,20,free throw,True,15,True,False
+2011-01-21,35.6166666667,Boston Celtics,Utah Jazz,3,62-84,21,free throw,True,15,True,False
+2011-01-21,35.6166666667,Boston Celtics,Utah Jazz,3,62-85,22,free throw,True,15,True,False
+2011-01-21,40.4166666667,Boston Celtics,Utah Jazz,4,71-94,21,dunk,True,0,True,False
+2011-01-21,41.2,Boston Celtics,Utah Jazz,4,73-96,21,dunk,True,0,True,False
+2011-01-21,42.0333333333,Boston Celtics,Utah Jazz,4,76-98,20,layup,True,0,True,False
+2011-01-21,42.0333333333,Boston Celtics,Utah Jazz,4,76-98,21,free throw,True,15,False,False
+2011-01-21,45.1666666667,Boston Celtics,Utah Jazz,4,81-103,20,dunk,True,0,True,False
+2011-01-22,5.91666666667,Boston Celtics,Washington Wizards,1,22-9,11,two point shot,False,1,True,False
+2011-01-22,11.9666666667,Boston Celtics,Washington Wizards,1,35-20,13,dunk,False,0,True,False
+2011-01-22,26.45,Boston Celtics,Washington Wizards,3,60-52,6,layup,False,0,True,False
+2011-01-22,35.4333333333,Boston Celtics,Washington Wizards,3,70-68,0,layup,False,0,False,False
+2011-01-22,37.9333333333,Boston Celtics,Washington Wizards,4,73-72,-1,layup,False,0,False,False
+2011-01-25,19.45,Boston Celtics,Cleveland Cavaliers,2,36-50,12,two point shot,True,1,True,False
+2011-01-27,24.8166666667,Boston Celtics,Portland Trail Blazers,3,46-40,4,two point shot,False,1,True,True
+2011-01-27,36.5833333333,Boston Celtics,Portland Trail Blazers,4,65-58,6,free throw,False,15,True,True
+2011-01-27,36.5833333333,Boston Celtics,Portland Trail Blazers,4,66-58,7,free throw,False,15,True,True
+2011-01-27,39.0666666667,Boston Celtics,Portland Trail Blazers,4,71-60,10,free throw,False,15,True,True
+2011-01-27,39.0666666667,Boston Celtics,Portland Trail Blazers,4,72-60,11,free throw,False,15,True,True
+2011-01-27,40.9833333333,Boston Celtics,Portland Trail Blazers,4,74-63,10,free throw,False,15,False,True
+2011-01-27,40.9833333333,Boston Celtics,Portland Trail Blazers,4,74-63,10,free throw,False,15,False,True
+2011-01-28,10.65,Boston Celtics,Phoenix Suns,1,14-23,-11,two point shot,False,2,True,False
+2011-02-04,14.65,Boston Celtics,Dallas Mavericks,2,39-34,-7,layup,True,0,False,True
+2011-02-04,15.8833333333,Boston Celtics,Dallas Mavericks,2,41-38,-5,layup,True,0,True,True
+2011-02-04,16.7,Boston Celtics,Dallas Mavericks,2,43-38,-7,layup,True,0,False,True
+2011-02-04,16.7333333333,Boston Celtics,Dallas Mavericks,2,43-40,-5,two point shot,True,1,True,True
+2011-02-06,9.83333333333,Boston Celtics,Orlando Magic,1,20-15,-7,dunk,True,0,True,True
+2011-04-08,16.0333333333,Cleveland Cavaliers,Chicago Bulls,2,34-32,-4,two point shot,True,1,True,False
+2011-04-08,16.8166666667,Cleveland Cavaliers,Chicago Bulls,2,37-32,-7,two point jumper,True,4,False,False
+2011-03-06,17.8166666667,Cleveland Cavaliers,New Orleans Pelicans,2,35-36,-1,tip shot,True,0,False,False
+2011-03-06,37.25,Cleveland Cavaliers,New Orleans Pelicans,4,77-66,-13,tip shot,True,0,False,False
+2011-03-06,37.3,Cleveland Cavaliers,New Orleans Pelicans,4,77-66,-13,tip shot,True,0,False,False
+2011-04-09,5.75,Cleveland Cavaliers,Milwaukee Bucks,1,9-16,-9,hook shot,False,6,True,False
+2011-04-09,10.1333333333,Cleveland Cavaliers,Milwaukee Bucks,1,16-24,-10,layup,False,0,True,False
+2011-04-09,12.8166666667,Cleveland Cavaliers,Milwaukee Bucks,2,19-30,-12,free throw,False,15,True,False
+2011-04-09,12.8166666667,Cleveland Cavaliers,Milwaukee Bucks,2,20-30,-11,free throw,False,15,True,False
+2011-04-09,36.55,Cleveland Cavaliers,Milwaukee Bucks,4,78-85,-9,hook shot,False,4,False,False
+2011-04-11,1.56666666667,Cleveland Cavaliers,Detroit Pistons,1,2-2,-2,hook shot,False,5,False,True
+2011-04-11,2.63333333333,Cleveland Cavaliers,Detroit Pistons,1,3-6,-4,free throw,False,15,False,True
+2011-04-11,2.63333333333,Cleveland Cavaliers,Detroit Pistons,1,4-6,-3,free throw,False,15,True,True
+2011-04-11,5.35,Cleveland Cavaliers,Detroit Pistons,1,9-14,-7,two point shot,False,1,False,True
+2011-04-11,6.91666666667,Cleveland Cavaliers,Detroit Pistons,1,13-18,-7,hook shot,False,5,True,True
+2011-04-11,21.2666666667,Cleveland Cavaliers,Detroit Pistons,2,50-51,-3,two point jumper,False,12,False,True
+2011-04-11,25.25,Cleveland Cavaliers,Detroit Pistons,3,56-61,-7,hook shot,False,6,False,True
+2011-04-11,27.2666666667,Cleveland Cavaliers,Detroit Pistons,3,62-63,-2,free throw,False,15,True,True
+2011-04-11,27.2666666667,Cleveland Cavaliers,Detroit Pistons,3,63-63,-1,free throw,False,15,True,True
+2012-02-28,5.63333333333,Cleveland Cavaliers,Boston Celtics,1,14-10,-5,free throw,True,15,False,False
+2012-02-28,5.63333333333,Cleveland Cavaliers,Boston Celtics,1,14-10,-5,free throw,True,15,False,False
+2012-02-28,21.0333333333,Cleveland Cavaliers,Boston Celtics,2,39-34,-7,layup,True,0,True,False
+2012-02-28,28.45,Cleveland Cavaliers,Boston Celtics,3,51-51,-2,two point shot,True,1,True,False
+2012-02-28,24.8,Cleveland Cavaliers,New York Knicks,3,61-49,11,free throw,False,15,False,False
+2012-02-28,24.8,Cleveland Cavaliers,New York Knicks,3,61-49,11,free throw,False,15,False,False
+2012-02-28,25.8833333333,Cleveland Cavaliers,New York Knicks,3,63-51,10,layup,False,0,True,False
+2012-02-28,28.8833333333,Cleveland Cavaliers,New York Knicks,3,65-63,0,two point shot,False,1,False,False
+2012-02-28,29.9833333333,Cleveland Cavaliers,New York Knicks,3,67-64,1,layup,False,0,True,False
+2012-02-28,30.6333333333,Cleveland Cavaliers,New York Knicks,3,69-64,3,layup,False,0,False,False
+2012-03-31,18.7333333333,Cleveland Cavaliers,New York Knicks,2,29-34,-6,free throw,False,15,False,False
+2012-03-31,18.7333333333,Cleveland Cavaliers,New York Knicks,2,30-34,-5,free throw,False,15,True,False
+2012-03-31,20.7166666667,Cleveland Cavaliers,New York Knicks,2,32-38,-8,two point jumper,False,5,False,False
+2012-03-31,20.9833333333,Cleveland Cavaliers,New York Knicks,2,32-38,-7,free throw,False,15,False,False
+2012-03-31,20.9833333333,Cleveland Cavaliers,New York Knicks,2,33-38,-6,free throw,False,15,True,False
+2012-03-31,21.7666666667,Cleveland Cavaliers,New York Knicks,2,36-40,-6,two point shot,False,2,True,False
+2012-03-31,22.6666666667,Cleveland Cavaliers,New York Knicks,2,36-43,-9,two point jumper,False,4,False,False
+2012-03-31,31.1,Cleveland Cavaliers,New York Knicks,3,52-56,-5,free throw,False,15,True,False
+2012-03-31,31.1,Cleveland Cavaliers,New York Knicks,3,53-56,-4,free throw,False,15,True,False
+2012-03-31,33.2,Cleveland Cavaliers,New York Knicks,3,55-61,-8,dunk,False,0,True,False
+2012-03-31,34.1666666667,Cleveland Cavaliers,New York Knicks,3,56-62,-8,layup,False,0,False,False
+2012-02-11,1.06666666667,Cleveland Cavaliers,Philadelphia 76ers,1,3-2,-3,two point shot,True,1,False,False
+2012-02-11,28.4166666667,Cleveland Cavaliers,Philadelphia 76ers,3,62-47,-17,layup,True,0,False,False
+2012-01-17,10.6666666667,Cleveland Cavaliers,Golden State Warriors,1,24-24,-2,dunk,True,0,True,True
+2012-01-17,12.65,Cleveland Cavaliers,Golden State Warriors,2,26-27,0,free throw,True,15,True,True
+2012-01-17,12.65,Cleveland Cavaliers,Golden State Warriors,2,26-28,1,free throw,True,15,True,True
+2012-01-17,14.0666666667,Cleveland Cavaliers,Golden State Warriors,2,32-30,-4,two point shot,True,7,True,True
+2012-01-17,14.7166666667,Cleveland Cavaliers,Golden State Warriors,2,32-32,-2,layup,True,0,True,True
+2012-01-17,17.0333333333,Cleveland Cavaliers,Golden State Warriors,2,37-39,0,layup,True,0,True,True
+2012-01-17,34.85,Cleveland Cavaliers,Golden State Warriors,3,77-74,-5,two point jumper,True,4,False,True
+2012-01-17,34.8833333333,Cleveland Cavaliers,Golden State Warriors,3,77-76,-3,dunk,True,0,True,True
+2012-01-17,37.2,Cleveland Cavaliers,Golden State Warriors,4,81-83,0,two point shot,True,7,True,True
+2012-01-13,33.85,Cleveland Cavaliers,Los Angeles Lakers,3,63-75,-13,free throw,False,15,False,False
+2012-01-13,33.85,Cleveland Cavaliers,Los Angeles Lakers,3,64-75,-12,free throw,False,15,True,False
+2012-01-13,34.4333333333,Cleveland Cavaliers,Los Angeles Lakers,3,65-77,-13,free throw,False,15,True,False
+2012-01-13,34.4333333333,Cleveland Cavaliers,Los Angeles Lakers,3,66-77,-12,free throw,False,15,True,False
+2012-01-13,36.2166666667,Cleveland Cavaliers,Los Angeles Lakers,4,70-82,-14,layup,False,0,False,False
+2012-01-12,11.5333333333,Cleveland Cavaliers,Phoenix Suns,1,28-27,0,free throw,False,15,False,False
+2012-01-12,11.5333333333,Cleveland Cavaliers,Phoenix Suns,1,28-27,0,free throw,False,15,False,False
+2012-03-25,44.85,Cleveland Cavaliers,Phoenix Suns,4,101-76,-27,two point jumper,True,16,False,True
+2012-03-25,45.75,Cleveland Cavaliers,Phoenix Suns,4,103-78,-27,dunk,True,0,True,True
+2012-03-25,47.4833333333,Cleveland Cavaliers,Phoenix Suns,4,107-82,-27,layup,True,0,True,True
+2012-02-19,40.7,Cleveland Cavaliers,Sacramento Kings,4,80-82,0,two point jumper,True,1,False,True
+2012-01-20,11.3333333333,Cleveland Cavaliers,Chicago Bulls,1,29-26,-5,two point shot,True,5,False,True
+2012-03-02,3.25,Cleveland Cavaliers,Chicago Bulls,1,9-5,-6,layup,True,0,True,True
+2012-03-02,4.28333333333,Cleveland Cavaliers,Chicago Bulls,1,11-7,-6,layup,True,0,True,True
+2012-03-02,24.8666666667,Cleveland Cavaliers,Chicago Bulls,3,56-44,-14,layup,True,0,False,True
+2012-03-02,25.8166666667,Cleveland Cavaliers,Chicago Bulls,3,60-46,-16,two point jumper,True,9,False,True
+2012-01-08,46.4833333333,Cleveland Cavaliers,Portland Trail Blazers,4,71-93,-23,free throw,False,15,False,False
+2012-01-08,46.4833333333,Cleveland Cavaliers,Portland Trail Blazers,4,72-93,-22,free throw,False,15,True,False
+2012-01-10,12.45,Cleveland Cavaliers,Utah Jazz,2,26-27,-3,layup,False,0,False,False
+2012-01-10,15.8333333333,Cleveland Cavaliers,Utah Jazz,2,35-35,-2,two point jumper,False,5,False,False
+2012-01-10,22.55,Cleveland Cavaliers,Utah Jazz,2,42-48,-7,free throw,False,15,False,False
+2012-01-10,22.55,Cleveland Cavaliers,Utah Jazz,2,43-48,-6,free throw,False,15,True,False
+2012-01-10,37.2,Cleveland Cavaliers,Utah Jazz,4,80-87,-8,free throw,False,15,False,False
+2012-01-10,37.2,Cleveland Cavaliers,Utah Jazz,4,81-87,-7,free throw,False,15,True,False
+2012-01-16,10.0833333333,Cleveland Cavaliers,Charlotte Bobcats,1,26-17,7,tip shot,False,0,True,False
+2012-01-16,11.9833333333,Cleveland Cavaliers,Charlotte Bobcats,1,30-23,5,layup,False,0,True,False
+2012-01-16,13.2,Cleveland Cavaliers,Charlotte Bobcats,2,30-25,3,dunk,False,0,False,False
+2012-01-16,14.8666666667,Cleveland Cavaliers,Charlotte Bobcats,2,32-27,4,free throw,False,15,False,False
+2012-01-16,14.8666666667,Cleveland Cavaliers,Charlotte Bobcats,2,33-27,5,free throw,False,15,True,False
+2012-01-21,14.0,Cleveland Cavaliers,Atlanta Hawks,2,24-29,-7,layup,False,0,True,True
+2012-01-21,41.2166666667,Cleveland Cavaliers,Atlanta Hawks,4,74-104,-32,hook shot,False,6,False,True
+2012-02-03,11.0,Cleveland Cavaliers,Orlando Magic,1,15-18,-5,layup,False,0,False,True
+2012-02-15,0.883333333333,Cleveland Cavaliers,Indiana Pacers,1,0-2,0,layup,True,0,True,True
+2012-02-15,2.06666666667,Cleveland Cavaliers,Indiana Pacers,1,2-4,0,layup,True,0,True,True
+2012-02-15,2.06666666667,Cleveland Cavaliers,Indiana Pacers,1,2-5,2,free throw,True,15,True,True
+2012-02-15,6.45,Cleveland Cavaliers,Indiana Pacers,1,11-19,6,dunk,True,0,True,True
+2012-02-15,18.8166666667,Cleveland Cavaliers,Indiana Pacers,2,25-46,20,free throw,True,15,False,True
+2012-02-15,18.8166666667,Cleveland Cavaliers,Indiana Pacers,2,25-46,20,free throw,True,15,False,True
+2012-02-15,20.3,Cleveland Cavaliers,Indiana Pacers,2,29-50,19,dunk,True,0,True,True
+2012-02-15,23.5833333333,Cleveland Cavaliers,Indiana Pacers,2,38-56,16,layup,True,0,True,True
+2012-02-15,31.4833333333,Cleveland Cavaliers,Indiana Pacers,3,52-71,18,free throw,True,15,True,True
+2012-02-15,31.4833333333,Cleveland Cavaliers,Indiana Pacers,3,52-72,19,free throw,True,15,True,True
+2012-02-15,32.0833333333,Cleveland Cavaliers,Indiana Pacers,3,52-72,18,two point shot,True,12,False,True
+2012-02-15,44.15,Cleveland Cavaliers,Indiana Pacers,4,74-87,12,free throw,True,15,True,True
+2012-02-15,44.15,Cleveland Cavaliers,Indiana Pacers,4,74-87,12,free throw,True,15,False,True
+2012-02-15,44.7666666667,Cleveland Cavaliers,Indiana Pacers,4,75-89,12,layup,True,0,True,True
+2012-02-15,47.3833333333,Cleveland Cavaliers,Indiana Pacers,4,85-96,9,two point shot,True,12,True,True
+2012-02-17,3.06666666667,Cleveland Cavaliers,Miami Heat,1,9-0,-10,free throw,True,15,False,True
+2012-02-17,3.06666666667,Cleveland Cavaliers,Miami Heat,1,9-0,-10,free throw,True,15,False,True
+2012-02-17,3.83333333333,Cleveland Cavaliers,Miami Heat,1,11-2,-11,two point shot,True,6,True,True
+2012-02-17,33.0,Cleveland Cavaliers,Miami Heat,3,85-55,-32,dunk,True,0,True,True
+2012-02-17,34.5833333333,Cleveland Cavaliers,Miami Heat,3,88-62,-28,layup,True,0,True,True
+2012-02-21,0.366666666667,Cleveland Cavaliers,Detroit Pistons,1,0-0,-2,two point jumper,True,6,False,True
+2012-02-21,2.56666666667,Cleveland Cavaliers,Detroit Pistons,1,8-4,-5,free throw,True,15,False,True
+2012-02-21,2.56666666667,Cleveland Cavaliers,Detroit Pistons,1,8-5,-4,free throw,True,15,True,True
+2012-02-21,4.48333333333,Cleveland Cavaliers,Detroit Pistons,1,10-9,-3,layup,True,0,True,True
+2012-02-21,23.6,Cleveland Cavaliers,Detroit Pistons,2,53-44,-11,layup,True,0,True,True
+2012-02-21,25.8,Cleveland Cavaliers,Detroit Pistons,3,58-45,-15,two point shot,True,8,False,True
+2012-02-22,3.3,Cleveland Cavaliers,New Orleans Pelicans,1,7-4,-5,dunk,True,0,True,False
+2012-02-22,5.23333333333,Cleveland Cavaliers,New Orleans Pelicans,1,9-6,-5,two point shot,True,1,True,False
+2012-03-23,33.5166666667,Cleveland Cavaliers,Orlando Magic,3,60-68,-10,layup,False,0,False,False
+2012-04-03,37.2166666667,Cleveland Cavaliers,San Antonio Spurs,4,94-67,-29,layup,True,0,True,True
+2012-04-03,39.0166666667,Cleveland Cavaliers,San Antonio Spurs,4,99-67,-34,two point jumper,True,7,False,True
+2012-04-03,39.3,Cleveland Cavaliers,San Antonio Spurs,4,99-68,-32,free throw,True,15,True,True
+2012-04-03,39.3,Cleveland Cavaliers,San Antonio Spurs,4,99-68,-32,free throw,True,15,False,True
+2012-04-03,40.0666666667,Cleveland Cavaliers,San Antonio Spurs,4,102-70,-34,dunk,True,0,True,True
+2012-04-03,41.5333333333,Cleveland Cavaliers,San Antonio Spurs,4,104-75,-31,layup,True,0,True,True
+2012-04-03,43.3833333333,Cleveland Cavaliers,San Antonio Spurs,4,109-80,-31,dunk,True,0,True,True
+2012-04-03,46.9666666667,Cleveland Cavaliers,San Antonio Spurs,4,121-86,-37,layup,True,0,False,True
+2012-04-03,47.3666666667,Cleveland Cavaliers,San Antonio Spurs,4,123-87,-37,free throw,True,15,True,True
+2012-04-03,47.3666666667,Cleveland Cavaliers,San Antonio Spurs,4,123-88,-36,free throw,True,15,True,True
+2012-04-10,39.8166666667,Cleveland Cavaliers,Charlotte Bobcats,4,75-86,9,layup,True,0,True,False
+2012-04-10,47.7,Cleveland Cavaliers,Charlotte Bobcats,4,88-103,13,tip shot,True,0,False,False
+2012-04-11,11.4666666667,Cleveland Cavaliers,Indiana Pacers,1,26-25,-3,dunk,True,0,True,True

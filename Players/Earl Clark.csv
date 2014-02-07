@@ -1,0 +1,949 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2010-11-06,12.25,Phoenix Suns,Boston Celtics,2,29-27,0,two point jumper,False,15,False,True
+2010-11-06,15.15,Phoenix Suns,Boston Celtics,2,37-34,1,two point jumper,False,3,False,True
+2010-11-06,16.8833333333,Phoenix Suns,Boston Celtics,2,42-36,4,two point jumper,False,19,False,True
+2010-12-30,43.8833333333,Phoenix Suns,Boston Celtics,4,91-110,17,two point jumper,True,18,True,False
+2010-12-30,47.0666666667,Phoenix Suns,Boston Celtics,4,96-116,18,two point jumper,True,8,False,False
+2010-12-01,30.85,Phoenix Suns,New York Knicks,3,68-90,-24,two point jumper,False,20,True,True
+2010-12-01,33.2833333333,Phoenix Suns,New York Knicks,3,71-94,-24,free throw,False,15,False,True
+2010-12-01,33.2833333333,Phoenix Suns,New York Knicks,3,72-94,-23,free throw,False,15,True,True
+2010-12-01,34.0,Phoenix Suns,New York Knicks,3,74-94,-22,two point jumper,False,15,True,True
+2010-12-01,39.5666666667,Phoenix Suns,New York Knicks,4,78-105,-29,two point jumper,False,19,False,True
+2010-12-01,43.1,Phoenix Suns,New York Knicks,4,86-114,-30,layup,False,0,False,True
+2010-12-01,44.9333333333,Phoenix Suns,New York Knicks,4,94-117,-25,layup,False,0,True,True
+2010-12-01,46.25,Phoenix Suns,New York Knicks,4,95-122,-29,two point jumper,False,20,False,True
+2010-12-01,47.1666666667,Phoenix Suns,New York Knicks,4,97-126,-31,two point jumper,False,1,False,True
+2010-03-26,41.95,Phoenix Suns,New York Knicks,4,84-115,29,layup,True,0,True,False
+2010-03-26,42.5666666667,Phoenix Suns,New York Knicks,4,84-117,31,two point jumper,True,7,True,False
+2010-03-26,47.3833333333,Phoenix Suns,New York Knicks,4,96-132,34,layup,True,0,True,False
+2010-02-24,47.05,Phoenix Suns,Philadelphia 76ers,4,90-106,14,two point jumper,True,19,False,False
+2010-02-24,47.9666666667,Phoenix Suns,Philadelphia 76ers,4,95-106,9,two point jumper,True,18,False,False
+2010-11-15,12.5,Phoenix Suns,Toronto Raptors,2,35-31,-6,two point jumper,True,14,False,True
+2010-11-29,46.7333333333,Phoenix Suns,Toronto Raptors,4,108-92,14,two point jumper,False,17,False,False
+2010-11-29,47.75,Phoenix Suns,Toronto Raptors,4,113-94,17,two point jumper,False,1,True,False
+2010-10-30,11.5333333333,Phoenix Suns,Golden State Warriors,1,24-28,2,two point jumper,True,15,False,True
+2010-01-23,33.9833333333,Phoenix Suns,Golden State Warriors,3,72-74,0,two point shot,True,8,False,True
+2010-01-23,35.5666666667,Phoenix Suns,Golden State Warriors,3,78-79,-1,two point jumper,True,18,True,True
+2010-01-23,35.9833333333,Phoenix Suns,Golden State Warriors,3,80-79,-4,three point jumper,True,46,False,True
+2010-01-23,39.95,Phoenix Suns,Golden State Warriors,4,85-90,4,free throw,True,15,True,True
+2010-01-23,39.95,Phoenix Suns,Golden State Warriors,4,85-91,5,free throw,True,15,True,True
+2010-01-23,42.85,Phoenix Suns,Golden State Warriors,4,93-94,-1,two point jumper,True,16,False,True
+2010-10-28,15.05,Phoenix Suns,Los Angeles Clippers,2,35-34,-1,layup,False,0,True,True
+2010-10-28,15.5,Phoenix Suns,Los Angeles Clippers,2,35-34,-1,two point jumper,False,17,False,True
+2010-10-28,15.8,Phoenix Suns,Los Angeles Clippers,2,37-34,1,dunk,False,0,True,True
+2010-10-28,18.9166666667,Phoenix Suns,Los Angeles Clippers,2,43-43,-2,tip shot,False,0,False,True
+2010-10-28,23.0166666667,Phoenix Suns,Los Angeles Clippers,2,51-53,-4,two point jumper,False,20,False,True
+2010-10-28,34.0,Phoenix Suns,Los Angeles Clippers,3,69-74,-7,two point jumper,False,22,False,True
+2010-10-28,35.4333333333,Phoenix Suns,Los Angeles Clippers,3,75-79,-6,two point shot,False,6,True,True
+2010-10-28,36.75,Phoenix Suns,Los Angeles Clippers,4,77-81,-6,two point jumper,False,18,False,True
+2010-03-03,42.9833333333,Phoenix Suns,Los Angeles Clippers,4,121-93,26,layup,False,0,True,True
+2010-03-03,43.3833333333,Phoenix Suns,Los Angeles Clippers,4,121-93,26,two point jumper,False,13,False,True
+2010-03-03,44.0,Phoenix Suns,Los Angeles Clippers,4,123-96,25,two point shot,False,17,True,True
+2010-03-03,44.9166666667,Phoenix Suns,Los Angeles Clippers,4,124-98,25,free throw,False,15,True,True
+2010-03-03,44.9166666667,Phoenix Suns,Los Angeles Clippers,4,125-98,26,free throw,False,15,True,True
+2010-03-03,45.6166666667,Phoenix Suns,Los Angeles Clippers,4,125-98,25,two point jumper,False,15,False,True
+2010-11-12,13.0,Phoenix Suns,Los Angeles Lakers,2,24-31,-9,tip shot,False,0,False,False
+2010-11-12,13.05,Phoenix Suns,Los Angeles Lakers,2,26-31,-7,tip shot,False,0,True,False
+2010-11-12,13.65,Phoenix Suns,Los Angeles Lakers,2,26-33,-8,free throw,False,15,False,False
+2010-11-12,13.65,Phoenix Suns,Los Angeles Lakers,2,26-33,-8,free throw,False,15,False,False
+2010-11-12,31.7333333333,Phoenix Suns,Los Angeles Lakers,3,61-82,-23,two point jumper,False,21,True,False
+2010-11-12,36.3166666667,Phoenix Suns,Los Angeles Lakers,4,71-92,-23,two point jumper,False,17,False,False
+2010-11-12,36.8833333333,Phoenix Suns,Los Angeles Lakers,4,73-94,-23,layup,False,0,True,False
+2010-11-12,38.7,Phoenix Suns,Los Angeles Lakers,4,75-98,-25,two point jumper,False,1,False,False
+2010-11-12,40.5333333333,Phoenix Suns,Los Angeles Lakers,4,80-104,-26,layup,False,0,True,False
+2010-11-12,45.5333333333,Phoenix Suns,Los Angeles Lakers,4,95-113,-20,two point shot,False,1,True,False
+2010-12-06,32.9833333333,Phoenix Suns,Los Angeles Lakers,3,63-74,-13,two point jumper,False,18,False,True
+2010-12-06,42.6666666667,Phoenix Suns,Los Angeles Lakers,4,78-98,-22,two point jumper,False,9,False,True
+2010-12-06,43.25,Phoenix Suns,Los Angeles Lakers,4,80-100,-22,two point jumper,False,20,False,True
+2010-12-06,43.9166666667,Phoenix Suns,Los Angeles Lakers,4,80-100,-22,two point jumper,False,19,False,True
+2010-12-06,45.4333333333,Phoenix Suns,Los Angeles Lakers,4,83-102,-20,free throw,False,15,True,True
+2010-12-06,45.4333333333,Phoenix Suns,Los Angeles Lakers,4,84-102,-19,free throw,False,15,True,True
+2010-12-06,46.65,Phoenix Suns,Los Angeles Lakers,4,86-104,-20,two point jumper,False,15,True,True
+2010-12-06,47.55,Phoenix Suns,Los Angeles Lakers,4,87-106,-20,free throw,False,15,True,True
+2010-12-06,47.55,Phoenix Suns,Los Angeles Lakers,4,88-106,-19,free throw,False,15,True,True
+2010-11-04,31.0333333333,Phoenix Suns,Orlando Magic,3,64-85,-23,two point jumper,False,17,True,False
+2010-11-04,32.0,Phoenix Suns,Orlando Magic,3,66-85,-21,layup,False,0,True,False
+2010-11-04,32.6,Phoenix Suns,Orlando Magic,3,66-88,-24,two point jumper,False,18,False,False
+2010-11-04,35.3833333333,Phoenix Suns,Orlando Magic,3,76-92,-18,tip shot,False,0,True,False
+2010-11-04,37.8,Phoenix Suns,Orlando Magic,4,81-99,-20,two point jumper,False,20,True,False
+2010-11-04,42.5333333333,Phoenix Suns,Orlando Magic,4,87-113,-28,two point jumper,False,23,False,False
+2010-11-04,45.5,Phoenix Suns,Orlando Magic,4,93-119,-27,free throw,False,15,True,False
+2010-11-04,45.5,Phoenix Suns,Orlando Magic,4,93-119,-27,free throw,False,15,False,False
+2010-11-08,37.9333333333,Phoenix Suns,Washington Wizards,4,82-74,6,two point jumper,False,18,False,False
+2010-11-11,40.3833333333,Phoenix Suns,New Orleans Pelicans,4,88-112,22,two point jumper,True,17,True,True
+2010-11-11,41.5333333333,Phoenix Suns,New Orleans Pelicans,4,88-114,24,two point jumper,True,11,False,True
+2010-11-11,41.9833333333,Phoenix Suns,New Orleans Pelicans,4,88-116,26,two point shot,True,1,False,True
+2010-11-11,44.4833333333,Phoenix Suns,New Orleans Pelicans,4,96-120,22,two point jumper,True,15,False,True
+2010-11-22,46.75,Phoenix Suns,Detroit Pistons,4,88-115,25,two point jumper,True,19,True,False
+2010-11-25,44.8,Phoenix Suns,Memphis Grizzlies,4,95-118,21,two point jumper,True,15,True,True
+2010-11-25,46.3833333333,Phoenix Suns,Memphis Grizzlies,4,103-122,17,two point jumper,True,20,False,True
+2010-11-27,35.85,Phoenix Suns,Minnesota Timberwolves,3,92-62,28,two point jumper,False,17,True,False
+2010-11-27,36.8666666667,Phoenix Suns,Minnesota Timberwolves,4,94-67,25,two point jumper,False,21,True,False
+2010-11-27,39.2166666667,Phoenix Suns,Minnesota Timberwolves,4,100-75,23,two point jumper,False,14,True,False
+2010-11-27,43.7333333333,Phoenix Suns,Minnesota Timberwolves,4,114-86,26,two point shot,False,1,True,False
+2010-11-27,44.3333333333,Phoenix Suns,Minnesota Timberwolves,4,116-86,28,two point jumper,False,1,True,False
+2010-11-27,45.0166666667,Phoenix Suns,Minnesota Timberwolves,4,117-86,30,free throw,False,15,True,False
+2010-11-27,45.0166666667,Phoenix Suns,Minnesota Timberwolves,4,118-86,31,free throw,False,15,True,False
+2010-11-27,45.9,Phoenix Suns,Minnesota Timberwolves,4,120-90,28,two point jumper,False,20,True,False
+2010-12-02,39.7166666667,Phoenix Suns,Cleveland Cavaliers,4,68-89,-23,two point jumper,False,20,False,True
+2010-12-02,41.4833333333,Phoenix Suns,Cleveland Cavaliers,4,73-91,-20,two point jumper,False,8,False,True
+2010-12-17,13.55,Phoenix Suns,Portland Trail Blazers,2,30-29,-1,two point shot,False,3,False,False
+2010-12-17,14.3833333333,Phoenix Suns,Portland Trail Blazers,2,32-30,0,two point jumper,False,19,False,False
+2010-12-19,41.4833333333,Phoenix Suns,Washington Wizards,4,85-113,26,two point jumper,True,19,False,False
+2010-12-19,43.75,Phoenix Suns,Washington Wizards,4,89-118,28,free throw,True,15,True,False
+2010-12-19,43.75,Phoenix Suns,Washington Wizards,4,89-118,28,free throw,True,15,False,False
+2010-12-19,47.1,Phoenix Suns,Washington Wizards,4,93-121,26,two point jumper,True,19,False,False
+2010-12-21,46.5166666667,Phoenix Suns,Cleveland Cavaliers,4,107-86,-22,free throw,True,15,False,True
+2010-12-21,46.5166666667,Phoenix Suns,Cleveland Cavaliers,4,107-87,-21,free throw,True,15,True,True
+2010-01-02,34.1,Phoenix Suns,Memphis Grizzlies,3,96-72,-26,two point jumper,True,21,True,False
+2010-01-02,37.0,Phoenix Suns,Memphis Grizzlies,4,101-76,-27,two point jumper,True,20,False,False
+2010-01-02,40.35,Phoenix Suns,Memphis Grizzlies,4,114-84,-32,two point shot,True,9,True,False
+2010-01-02,45.8166666667,Phoenix Suns,Memphis Grizzlies,4,126-94,-34,two point jumper,True,21,False,False
+2010-01-11,14.25,Phoenix Suns,Milwaukee Bucks,2,17-41,22,two point jumper,True,1,False,True
+2010-01-11,15.3166666667,Phoenix Suns,Milwaukee Bucks,2,19-43,22,two point jumper,True,18,False,True
+2010-01-11,16.0666666667,Phoenix Suns,Milwaukee Bucks,2,21-43,20,two point jumper,True,19,False,True
+2010-01-11,16.6333333333,Phoenix Suns,Milwaukee Bucks,2,21-43,20,layup,True,0,False,True
+2010-01-11,18.1666666667,Phoenix Suns,Milwaukee Bucks,2,28-47,17,two point jumper,True,18,True,True
+2010-01-13,20.7,Phoenix Suns,Indiana Pacers,2,62-41,19,two point jumper,False,10,True,False
+2010-01-13,21.5,Phoenix Suns,Indiana Pacers,2,62-43,17,two point jumper,False,19,False,False
+2010-01-13,33.75,Phoenix Suns,Indiana Pacers,3,87-84,1,two point jumper,False,20,False,False
+2010-01-13,34.1,Phoenix Suns,Indiana Pacers,3,87-85,0,two point jumper,False,11,False,False
+2010-01-16,16.1,Phoenix Suns,Charlotte Bobcats,2,27-51,-27,three point jumper,False,24,False,True
+2010-01-16,19.6,Phoenix Suns,Charlotte Bobcats,2,35-64,-31,two point jumper,False,18,True,True
+2010-01-16,20.2833333333,Phoenix Suns,Charlotte Bobcats,2,36-64,-29,free throw,False,15,True,True
+2010-01-16,20.2833333333,Phoenix Suns,Charlotte Bobcats,2,37-64,-28,free throw,False,15,True,True
+2010-01-16,20.8,Phoenix Suns,Charlotte Bobcats,2,39-66,-29,two point jumper,False,9,True,True
+2010-01-16,36.7666666667,Phoenix Suns,Charlotte Bobcats,4,79-109,-32,two point jumper,False,20,True,True
+2010-01-16,38.6166666667,Phoenix Suns,Charlotte Bobcats,4,82-111,-31,layup,False,0,False,True
+2010-01-16,40.2166666667,Phoenix Suns,Charlotte Bobcats,4,82-113,-33,layup,False,0,False,True
+2010-01-16,42.85,Phoenix Suns,Charlotte Bobcats,4,84-117,-35,dunk,False,0,True,True
+2010-01-16,43.8166666667,Phoenix Suns,Charlotte Bobcats,4,86-117,-33,two point shot,False,10,True,True
+2010-01-16,47.1,Phoenix Suns,Charlotte Bobcats,4,97-121,-26,two point jumper,False,19,False,True
+2010-01-25,15.6333333333,Phoenix Suns,Utah Jazz,2,38-32,4,layup,False,0,True,False
+2010-01-25,16.1666666667,Phoenix Suns,Utah Jazz,2,38-34,2,two point jumper,False,1,False,False
+2010-01-25,17.7833333333,Phoenix Suns,Utah Jazz,2,43-37,4,dunk,False,0,True,False
+2010-01-25,34.3,Phoenix Suns,Utah Jazz,3,96-83,11,layup,False,0,False,False
+2010-01-25,36.0,Phoenix Suns,Utah Jazz,3,96-91,3,two point jumper,False,21,False,False
+2010-01-26,15.15,Phoenix Suns,Charlotte Bobcats,2,30-37,5,two point jumper,True,1,True,False
+2010-01-26,16.5333333333,Phoenix Suns,Charlotte Bobcats,2,34-39,3,two point jumper,True,23,True,False
+2010-01-28,16.0333333333,Phoenix Suns,Dallas Mavericks,2,39-33,-8,two point jumper,True,1,False,True
+2010-01-28,18.3166666667,Phoenix Suns,Dallas Mavericks,2,46-41,-6,free throw,True,15,False,True
+2010-01-28,18.3166666667,Phoenix Suns,Dallas Mavericks,2,46-41,-6,free throw,True,15,False,True
+2010-01-28,37.1166666667,Phoenix Suns,Dallas Mavericks,4,92-84,-10,two point jumper,True,19,False,True
+2010-01-28,38.3166666667,Phoenix Suns,Dallas Mavericks,4,92-90,-5,three point jumper,True,26,True,True
+2010-01-31,12.8,Phoenix Suns,Houston Rockets,2,30-23,5,two point jumper,False,17,True,True
+2010-01-31,14.7,Phoenix Suns,Houston Rockets,2,33-25,6,two point jumper,False,1,False,True
+2010-01-31,15.1166666667,Phoenix Suns,Houston Rockets,2,35-25,8,two point jumper,False,17,False,True
+2010-01-31,38.7,Phoenix Suns,Houston Rockets,4,83-74,7,two point jumper,False,21,False,True
+2010-02-05,35.8333333333,Phoenix Suns,Sacramento Kings,3,96-71,23,two point jumper,False,11,False,True
+2010-02-05,46.4666666667,Phoenix Suns,Sacramento Kings,4,114-98,14,two point jumper,False,17,False,True
+2010-02-16,15.8166666667,Phoenix Suns,Memphis Grizzlies,2,38-34,2,two point jumper,False,20,False,False
+2010-02-21,11.5333333333,Phoenix Suns,Sacramento Kings,1,27-25,-4,two point jumper,True,8,True,False
+2010-02-21,12.0,Phoenix Suns,Sacramento Kings,1,27-25,-4,two point jumper,True,19,False,False
+2010-02-21,14.45,Phoenix Suns,Sacramento Kings,2,33-27,-9,three point jumper,True,26,False,False
+2010-02-23,12.3666666667,Phoenix Suns,Oklahoma City Thunder,2,29-25,2,two point jumper,False,18,True,True
+2010-02-23,13.55,Phoenix Suns,Oklahoma City Thunder,2,29-29,-2,two point jumper,False,19,False,True
+2010-02-23,16.2833333333,Phoenix Suns,Oklahoma City Thunder,2,31-31,-2,two point jumper,False,19,False,True
+2010-03-04,11.55,Phoenix Suns,Utah Jazz,1,22-34,10,two point jumper,True,16,False,False
+2010-03-04,15.7166666667,Phoenix Suns,Utah Jazz,2,30-42,10,two point shot,True,8,True,False
+2010-03-04,35.9,Phoenix Suns,Utah Jazz,3,75-86,9,two point jumper,True,8,False,False
+2010-03-06,13.6333333333,Phoenix Suns,Indiana Pacers,2,32-34,0,two point jumper,True,8,False,True
+2010-03-14,43.7,Phoenix Suns,New Orleans Pelicans,4,91-111,19,free throw,True,15,True,True
+2010-03-14,43.7,Phoenix Suns,New Orleans Pelicans,4,91-112,20,free throw,True,15,True,True
+2010-03-14,44.3666666667,Phoenix Suns,New Orleans Pelicans,4,91-112,19,two point jumper,True,17,False,True
+2010-03-14,45.3666666667,Phoenix Suns,New Orleans Pelicans,4,95-112,15,two point jumper,True,16,False,True
+2010-03-14,46.4,Phoenix Suns,New Orleans Pelicans,4,98-113,14,free throw,True,15,True,True
+2010-03-14,46.4,Phoenix Suns,New Orleans Pelicans,4,98-114,15,free throw,True,15,True,True
+2010-03-14,47.1,Phoenix Suns,New Orleans Pelicans,4,101-119,15,three point jumper,True,25,True,True
+2010-04-03,39.3166666667,Phoenix Suns,Milwaukee Bucks,4,72-87,-17,dunk,False,0,True,True
+2010-04-03,42.6,Phoenix Suns,Milwaukee Bucks,4,83-94,-13,two point jumper,False,1,True,True
+2010-04-03,43.2,Phoenix Suns,Milwaukee Bucks,4,85-96,-12,free throw,False,15,True,True
+2010-04-03,43.2,Phoenix Suns,Milwaukee Bucks,4,86-96,-11,free throw,False,15,True,True
+2010-04-03,47.0833333333,Phoenix Suns,Milwaukee Bucks,4,92-103,-12,free throw,False,15,True,True
+2010-04-03,47.0833333333,Phoenix Suns,Milwaukee Bucks,4,92-103,-12,free throw,False,15,False,True
+2010-04-09,40.95,Phoenix Suns,Oklahoma City Thunder,4,79-85,-8,two point jumper,False,18,False,False
+2010-04-13,17.2,Phoenix Suns,Denver Nuggets,2,33-49,14,two point jumper,True,18,False,True
+2010-04-13,18.2833333333,Phoenix Suns,Denver Nuggets,2,35-49,12,two point jumper,True,1,False,True
+2010-04-13,44.4333333333,Phoenix Suns,Denver Nuggets,4,92-113,19,two point jumper,True,7,True,True
+2010-04-13,45.85,Phoenix Suns,Denver Nuggets,4,97-114,15,tip shot,True,0,False,True
+2010-04-13,45.8666666667,Phoenix Suns,Denver Nuggets,4,97-116,17,tip shot,True,0,True,True
+2010-04-13,46.4833333333,Phoenix Suns,Denver Nuggets,4,99-116,16,free throw,True,15,False,True
+2010-04-13,46.4833333333,Phoenix Suns,Denver Nuggets,4,99-117,17,free throw,True,15,True,True
+2010-04-14,45.9333333333,Phoenix Suns,Utah Jazz,4,94-78,14,two point jumper,False,19,False,False
+2010-04-14,47.2333333333,Phoenix Suns,Utah Jazz,4,96-80,15,free throw,False,15,True,False
+2010-04-14,47.2333333333,Phoenix Suns,Utah Jazz,4,97-80,16,free throw,False,15,True,False
+2011-02-06,9.06666666667,Orlando Magic,Boston Celtics,1,20-12,6,two point jumper,False,12,True,False
+2011-02-06,10.3,Orlando Magic,Boston Celtics,1,22-15,5,two point shot,False,1,True,False
+2011-02-06,11.5166666667,Orlando Magic,Boston Celtics,1,22-17,3,two point jumper,False,1,False,False
+2011-02-06,12.8,Orlando Magic,Boston Celtics,2,24-17,5,two point jumper,False,18,True,False
+2011-02-06,13.6833333333,Orlando Magic,Boston Celtics,2,24-19,3,two point jumper,False,4,False,False
+2011-02-06,36.9333333333,Orlando Magic,Boston Celtics,4,61-70,-11,two point jumper,False,21,False,False
+2011-02-06,38.65,Orlando Magic,Boston Celtics,4,63-73,-12,two point shot,False,1,True,False
+2011-02-06,40.3166666667,Orlando Magic,Boston Celtics,4,63-75,-14,two point jumper,False,22,False,False
+2011-12-27,46.9833333333,Orlando Magic,Brooklyn Nets,4,104-86,16,two point shot,False,14,False,False
+2011-12-27,47.4833333333,Orlando Magic,Brooklyn Nets,4,104-88,14,two point jumper,False,9,False,False
+2011-03-01,12.5666666667,Orlando Magic,New York Knicks,2,23-33,9,free throw,True,15,True,True
+2011-03-01,12.5666666667,Orlando Magic,New York Knicks,2,23-34,10,free throw,True,15,True,True
+2011-03-01,20.0833333333,Orlando Magic,New York Knicks,2,47-44,-5,two point jumper,True,1,False,True
+2011-03-01,20.4833333333,Orlando Magic,New York Knicks,2,47-45,-3,free throw,True,15,True,True
+2011-03-01,20.4833333333,Orlando Magic,New York Knicks,2,47-46,-2,free throw,True,15,True,True
+2011-03-01,23.95,Orlando Magic,New York Knicks,2,58-47,-14,three point jumper,True,24,False,True
+2011-03-23,20.1666666667,Orlando Magic,New York Knicks,2,43-42,-1,dunk,False,0,True,False
+2011-03-23,41.3833333333,Orlando Magic,New York Knicks,4,92-86,4,layup,False,0,False,False
+2011-03-28,15.6333333333,Orlando Magic,New York Knicks,2,26-30,-6,two point jumper,False,15,False,False
+2011-03-28,31.3166666667,Orlando Magic,New York Knicks,3,63-64,-3,two point jumper,False,19,False,False
+2011-03-28,36.8166666667,Orlando Magic,New York Knicks,4,75-75,-2,two point jumper,False,23,True,False
+2011-02-09,11.1833333333,Orlando Magic,Philadelphia 76ers,1,18-24,-8,two point jumper,False,20,True,True
+2011-02-09,16.2,Orlando Magic,Philadelphia 76ers,2,29-32,-5,dunk,False,0,True,True
+2011-02-09,22.8,Orlando Magic,Philadelphia 76ers,2,47-45,0,two point shot,False,1,True,True
+2011-02-09,32.3333333333,Orlando Magic,Philadelphia 76ers,3,64-63,-1,two point jumper,False,18,False,True
+2011-02-09,32.8333333333,Orlando Magic,Philadelphia 76ers,3,66-63,1,dunk,False,0,True,True
+2011-02-09,35.2666666667,Orlando Magic,Philadelphia 76ers,3,73-65,6,two point jumper,False,14,False,True
+2011-02-09,37.6333333333,Orlando Magic,Philadelphia 76ers,4,77-71,4,layup,False,0,False,True
+2011-04-11,15.1833333333,Orlando Magic,Philadelphia 76ers,2,38-29,7,two point jumper,False,18,False,True
+2011-04-11,16.2333333333,Orlando Magic,Philadelphia 76ers,2,39-29,8,two point jumper,False,15,False,True
+2011-04-11,17.35,Orlando Magic,Philadelphia 76ers,2,43-29,12,dunk,False,0,True,True
+2011-04-11,18.7833333333,Orlando Magic,Philadelphia 76ers,2,43-34,7,two point jumper,False,1,False,True
+2011-04-11,19.3833333333,Orlando Magic,Philadelphia 76ers,2,43-37,4,layup,False,0,False,True
+2011-04-11,35.6166666667,Orlando Magic,Philadelphia 76ers,3,76-60,15,free throw,False,15,True,True
+2011-04-11,35.6166666667,Orlando Magic,Philadelphia 76ers,3,76-60,15,free throw,False,15,False,True
+2011-04-11,38.4666666667,Orlando Magic,Philadelphia 76ers,4,82-64,17,free throw,False,15,True,True
+2011-04-11,38.4666666667,Orlando Magic,Philadelphia 76ers,4,83-64,18,free throw,False,15,True,True
+2011-04-11,41.2333333333,Orlando Magic,Philadelphia 76ers,4,87-66,19,two point jumper,False,18,True,True
+2011-01-21,41.2333333333,Orlando Magic,Toronto Raptors,4,66-93,25,layup,True,0,True,False
+2011-01-21,41.2333333333,Orlando Magic,Toronto Raptors,4,66-93,26,free throw,True,15,False,False
+2011-01-21,41.8166666667,Orlando Magic,Toronto Raptors,4,66-93,25,two point jumper,True,21,False,False
+2011-01-21,42.7,Orlando Magic,Toronto Raptors,4,66-96,28,two point jumper,True,19,False,False
+2011-01-21,44.7166666667,Orlando Magic,Toronto Raptors,4,68-103,34,free throw,True,15,True,False
+2011-01-21,44.7166666667,Orlando Magic,Toronto Raptors,4,68-104,35,free throw,True,15,True,False
+2011-01-21,46.1,Orlando Magic,Toronto Raptors,4,70-106,33,three point jumper,True,25,False,False
+2011-02-08,9.95,Orlando Magic,Los Angeles Clippers,1,19-17,-4,two point jumper,True,17,False,False
+2011-02-08,11.6833333333,Orlando Magic,Los Angeles Clippers,1,23-21,-4,two point shot,True,2,True,False
+2011-02-08,12.8,Orlando Magic,Los Angeles Clippers,2,23-22,-3,two point jumper,True,16,False,False
+2011-02-08,12.8833333333,Orlando Magic,Los Angeles Clippers,2,23-22,-2,free throw,True,15,False,False
+2011-02-08,12.8833333333,Orlando Magic,Los Angeles Clippers,2,23-23,-1,free throw,True,15,True,False
+2011-02-08,18.3833333333,Orlando Magic,Los Angeles Clippers,2,35-32,-5,two point jumper,True,19,False,False
+2011-02-08,23.05,Orlando Magic,Los Angeles Clippers,2,43-42,-3,two point shot,True,1,True,False
+2011-02-08,40.9833333333,Orlando Magic,Los Angeles Clippers,4,70-82,10,dunk,True,0,True,False
+2011-02-08,46.9666666667,Orlando Magic,Los Angeles Clippers,4,82-98,14,layup,True,0,True,False
+2011-02-08,46.9666666667,Orlando Magic,Los Angeles Clippers,4,82-99,16,free throw,True,15,True,False
+2011-02-13,13.45,Orlando Magic,Los Angeles Lakers,2,23-26,1,two point jumper,True,7,False,True
+2011-02-13,13.45,Orlando Magic,Los Angeles Lakers,2,23-27,3,free throw,True,15,True,True
+2011-02-13,13.45,Orlando Magic,Los Angeles Lakers,2,23-28,4,free throw,True,15,True,True
+2011-02-13,13.9,Orlando Magic,Los Angeles Lakers,2,23-30,5,dunk,True,0,True,True
+2011-02-13,18.6333333333,Orlando Magic,Los Angeles Lakers,2,33-35,0,two point jumper,True,18,True,True
+2011-11-15,11.2833333333,Phoenix Suns,Denver Nuggets,1,22-17,-7,tip shot,True,0,False,False
+2011-11-15,11.4833333333,Phoenix Suns,Denver Nuggets,1,22-17,-6,free throw,True,15,False,False
+2011-11-15,11.4833333333,Phoenix Suns,Denver Nuggets,1,22-18,-5,free throw,True,15,True,False
+2011-11-17,21.05,Phoenix Suns,Miami Heat,2,38-51,-15,two point jumper,False,19,False,True
+2011-11-17,37.15,Phoenix Suns,Miami Heat,4,73-104,-33,two point jumper,False,18,False,True
+2011-11-17,40.2333333333,Phoenix Suns,Miami Heat,4,79-109,-31,free throw,False,15,False,True
+2011-11-17,40.2333333333,Phoenix Suns,Miami Heat,4,80-109,-30,free throw,False,15,True,True
+2011-11-17,45.1833333333,Phoenix Suns,Miami Heat,4,94-118,-26,dunk,False,0,True,True
+2011-11-18,32.9,Phoenix Suns,Orlando Magic,3,53-79,-28,two point jumper,False,18,True,True
+2011-11-18,33.6166666667,Phoenix Suns,Orlando Magic,3,55-81,-28,two point jumper,False,9,True,True
+2011-11-18,36.3166666667,Phoenix Suns,Orlando Magic,4,61-91,-32,two point shot,False,20,True,True
+2011-11-18,37.9,Phoenix Suns,Orlando Magic,4,63-91,-30,two point jumper,False,19,False,True
+2011-11-18,39.3166666667,Phoenix Suns,Orlando Magic,4,69-91,-24,layup,False,0,True,True
+2011-11-18,40.8166666667,Phoenix Suns,Orlando Magic,4,70-94,-25,free throw,False,15,True,True
+2011-11-18,40.8166666667,Phoenix Suns,Orlando Magic,4,71-94,-24,free throw,False,15,True,True
+2011-11-18,41.35,Phoenix Suns,Orlando Magic,4,73-95,-24,two point shot,False,17,True,True
+2011-11-18,43.1333333333,Phoenix Suns,Orlando Magic,4,76-97,-23,two point jumper,False,1,False,True
+2011-11-18,43.9166666667,Phoenix Suns,Orlando Magic,4,76-99,-25,two point jumper,False,8,False,True
+2011-11-20,12.3166666667,Phoenix Suns,Charlotte Bobcats,2,27-30,-5,two point jumper,False,18,True,False
+2011-11-20,35.3,Phoenix Suns,Charlotte Bobcats,3,74-87,-14,free throw,False,15,False,False
+2011-11-20,35.3,Phoenix Suns,Charlotte Bobcats,3,74-87,-14,free throw,False,15,False,False
+2011-12-03,32.6,Phoenix Suns,Indiana Pacers,3,73-68,-7,two point jumper,True,14,False,False
+2011-12-03,35.3,Phoenix Suns,Indiana Pacers,3,74-74,-2,two point jumper,True,22,False,False
+2011-12-03,38.05,Phoenix Suns,Indiana Pacers,4,80-79,-3,dunk,True,0,False,False
+2011-12-03,39.1833333333,Phoenix Suns,Indiana Pacers,4,82-83,-1,dunk,True,0,True,False
+2011-12-05,47.1166666667,Phoenix Suns,Washington Wizards,4,105-123,16,two point jumper,True,22,True,True
+2011-12-17,34.2166666667,Phoenix Suns,Dallas Mavericks,3,55-79,-26,two point jumper,False,19,False,True
+2011-12-17,35.5166666667,Phoenix Suns,Dallas Mavericks,3,57-80,-25,two point jumper,False,19,False,True
+2011-12-17,41.3833333333,Phoenix Suns,Dallas Mavericks,4,71-89,-20,two point jumper,False,18,False,True
+2011-12-17,41.7,Phoenix Suns,Dallas Mavericks,4,71-91,-22,two point jumper,False,20,False,True
+2011-12-17,41.8833333333,Phoenix Suns,Dallas Mavericks,4,71-91,-21,free throw,False,15,False,True
+2011-12-17,41.8833333333,Phoenix Suns,Dallas Mavericks,4,72-91,-20,free throw,False,15,True,True
+2011-12-17,43.0666666667,Phoenix Suns,Dallas Mavericks,4,77-93,-18,layup,False,0,True,True
+2011-12-17,43.5,Phoenix Suns,Dallas Mavericks,4,79-93,-16,two point shot,False,1,True,True
+2011-12-17,44.6166666667,Phoenix Suns,Dallas Mavericks,4,82-96,-16,two point jumper,False,17,False,True
+2011-12-17,44.9666666667,Phoenix Suns,Dallas Mavericks,4,84-97,-15,two point jumper,False,20,False,True
+2011-12-17,45.2,Phoenix Suns,Dallas Mavericks,4,86-99,-15,two point jumper,False,17,True,True
+2011-12-17,45.4833333333,Phoenix Suns,Dallas Mavericks,4,86-101,-17,layup,False,0,False,True
+2011-03-13,46.7166666667,Orlando Magic,Phoenix Suns,4,107-83,22,two point jumper,False,6,False,False
+2011-03-13,47.15,Orlando Magic,Phoenix Suns,4,109-83,24,two point shot,False,3,False,False
+2011-03-13,47.2166666667,Orlando Magic,Phoenix Suns,4,111-83,26,two point shot,False,3,True,False
+2011-04-10,13.3666666667,Orlando Magic,Chicago Bulls,2,32-28,-6,two point jumper,True,20,True,True
+2011-12-28,12.7,Orlando Magic,Cleveland Cavaliers,2,35-33,0,two point shot,False,12,True,False
+2011-12-28,13.2166666667,Orlando Magic,Cleveland Cavaliers,2,35-35,-2,two point jumper,False,22,False,False
+2011-12-28,14.7166666667,Orlando Magic,Cleveland Cavaliers,2,39-40,-3,layup,False,0,True,False
+2011-12-28,38.0666666667,Orlando Magic,Cleveland Cavaliers,4,83-78,3,two point jumper,False,23,True,False
+2011-12-28,39.6166666667,Orlando Magic,Cleveland Cavaliers,4,88-80,6,two point shot,False,1,True,False
+2011-12-28,40.8833333333,Orlando Magic,Cleveland Cavaliers,4,93-85,6,two point jumper,False,1,True,False
+2011-12-28,42.0666666667,Orlando Magic,Cleveland Cavaliers,4,95-85,8,two point jumper,False,7,False,False
+2011-12-28,44.9666666667,Orlando Magic,Cleveland Cavaliers,4,104-89,13,layup,False,0,True,False
+2011-12-28,45.95,Orlando Magic,Cleveland Cavaliers,4,104-91,11,two point jumper,False,9,False,False
+2011-01-30,43.8833333333,Orlando Magic,Cleveland Cavaliers,4,81-97,13,three point jumper,True,25,False,False
+2011-01-30,45.7333333333,Orlando Magic,Cleveland Cavaliers,4,85-101,14,two point shot,True,2,True,False
+2011-04-13,19.85,Orlando Magic,Indiana Pacers,2,28-39,9,layup,True,0,False,True
+2011-04-13,19.85,Orlando Magic,Indiana Pacers,2,28-41,11,tip shot,True,0,True,True
+2011-04-13,23.15,Orlando Magic,Indiana Pacers,2,29-51,20,two point jumper,True,19,False,True
+2011-04-13,37.8166666667,Orlando Magic,Indiana Pacers,4,59-74,13,two point jumper,True,17,True,True
+2011-04-13,39.7,Orlando Magic,Indiana Pacers,4,59-76,16,free throw,True,15,False,True
+2011-04-13,39.7,Orlando Magic,Indiana Pacers,4,59-77,17,free throw,True,15,True,True
+2011-04-13,44.0166666667,Orlando Magic,Indiana Pacers,4,65-81,14,two point jumper,True,19,True,True
+2011-12-21,12.3833333333,Orlando Magic,Dallas Mavericks,2,27-23,-6,two point jumper,True,1,True,True
+2011-12-21,17.1333333333,Orlando Magic,Dallas Mavericks,2,35-37,0,dunk,True,0,True,True
+2011-12-21,39.8333333333,Orlando Magic,Dallas Mavericks,4,83-76,-9,two point jumper,True,10,True,True
+2011-01-07,13.4666666667,Orlando Magic,Houston Rockets,2,30-31,-1,two point jumper,True,21,True,False
+2011-01-07,14.1166666667,Orlando Magic,Houston Rockets,2,32-33,-1,layup,True,0,True,False
+2011-01-07,14.45,Orlando Magic,Houston Rockets,2,32-33,-1,two point jumper,True,18,False,False
+2011-01-07,17.2166666667,Orlando Magic,Houston Rockets,2,36-37,-1,two point jumper,True,12,False,False
+2011-01-07,20.0166666667,Orlando Magic,Houston Rockets,2,43-44,-1,two point jumper,True,20,False,False
+2011-01-07,35.3833333333,Orlando Magic,Houston Rockets,3,69-90,19,two point shot,True,2,True,False
+2011-01-07,35.7666666667,Orlando Magic,Houston Rockets,3,71-92,19,layup,True,0,True,False
+2011-01-22,44.1,Orlando Magic,Houston Rockets,4,113-94,17,two point jumper,False,9,False,True
+2011-01-22,47.5333333333,Orlando Magic,Houston Rockets,4,116-104,9,three point jumper,False,25,False,True
+2011-02-11,12.4333333333,Orlando Magic,New Orleans Pelicans,2,28-24,-6,two point shot,True,4,False,False
+2011-02-11,16.7833333333,Orlando Magic,New Orleans Pelicans,2,40-38,-3,free throw,True,15,True,False
+2011-02-11,16.7833333333,Orlando Magic,New Orleans Pelicans,2,40-39,-2,free throw,True,15,True,False
+2011-02-11,17.7,Orlando Magic,New Orleans Pelicans,2,42-43,-1,layup,True,0,True,False
+2011-02-11,17.7,Orlando Magic,New Orleans Pelicans,2,42-44,1,free throw,True,15,True,False
+2011-02-11,18.6333333333,Orlando Magic,New Orleans Pelicans,2,46-46,-2,dunk,True,0,True,False
+2011-02-11,23.0333333333,Orlando Magic,New Orleans Pelicans,2,52-49,-5,two point jumper,True,17,False,False
+2011-02-11,34.8,Orlando Magic,New Orleans Pelicans,3,77-76,-3,two point jumper,True,1,True,False
+2011-02-11,36.3166666667,Orlando Magic,New Orleans Pelicans,4,80-80,-2,layup,True,0,False,False
+2011-02-11,38.2166666667,Orlando Magic,New Orleans Pelicans,4,82-84,0,two point jumper,True,16,True,False
+2011-02-11,39.3833333333,Orlando Magic,New Orleans Pelicans,4,84-88,3,free throw,True,15,False,False
+2011-02-11,39.3833333333,Orlando Magic,New Orleans Pelicans,4,84-89,4,free throw,True,15,True,False
+2011-02-11,41.45,Orlando Magic,New Orleans Pelicans,4,91-91,-2,two point shot,True,19,True,False
+2011-12-23,46.0,Orlando Magic,San Antonio Spurs,4,94-114,18,two point jumper,True,22,False,True
+2011-03-30,14.95,Orlando Magic,Atlanta Hawks,2,34-29,4,free throw,False,15,False,False
+2011-03-30,14.95,Orlando Magic,Atlanta Hawks,2,34-29,4,free throw,False,15,False,False
+2011-03-30,18.2,Orlando Magic,Atlanta Hawks,2,36-35,-1,two point shot,False,1,False,False
+2011-02-27,45.65,Orlando Magic,Charlotte Bobcats,4,82-98,14,two point jumper,True,18,True,False
+2011-02-27,47.95,Orlando Magic,Charlotte Bobcats,4,86-100,12,two point jumper,True,18,False,False
+2011-04-06,14.4333333333,Orlando Magic,Charlotte Bobcats,2,34-36,-4,tip shot,False,0,True,True
+2011-04-06,16.6666666667,Orlando Magic,Charlotte Bobcats,2,38-42,-6,dunk,False,0,True,True
+2011-04-06,20.9333333333,Orlando Magic,Charlotte Bobcats,2,41-53,-14,two point jumper,False,12,False,True
+2011-02-03,4.0,Orlando Magic,Miami Heat,1,8-2,-8,layup,True,0,False,False
+2011-02-03,7.53333333333,Orlando Magic,Miami Heat,1,18-10,-10,two point jumper,True,19,False,False
+2011-02-03,40.6,Orlando Magic,Miami Heat,4,90-69,-23,layup,True,0,True,False
+2011-02-03,41.4166666667,Orlando Magic,Miami Heat,4,90-69,-24,three point jumper,True,25,False,False
+2011-02-03,42.25,Orlando Magic,Miami Heat,4,90-70,-22,two point jumper,True,10,False,False
+2011-02-04,17.3166666667,Orlando Magic,Washington Wizards,2,35-37,-4,two point jumper,False,3,False,False
+2011-02-04,18.4166666667,Orlando Magic,Washington Wizards,2,37-39,-4,two point jumper,False,20,False,False
+2011-02-04,21.4333333333,Orlando Magic,Washington Wizards,2,47-47,-2,layup,False,0,True,False
+2011-02-04,22.5333333333,Orlando Magic,Washington Wizards,2,49-47,0,two point shot,False,1,True,False
+2011-02-04,23.05,Orlando Magic,Washington Wizards,2,51-47,2,layup,False,0,True,False
+2011-02-04,23.2333333333,Orlando Magic,Washington Wizards,2,51-49,0,two point jumper,False,19,False,False
+2011-02-04,35.0666666667,Orlando Magic,Washington Wizards,3,73-64,8,free throw,False,15,False,False
+2011-02-04,35.0666666667,Orlando Magic,Washington Wizards,3,73-64,8,free throw,False,15,False,False
+2011-02-04,36.45,Orlando Magic,Washington Wizards,4,76-64,10,dunk,False,0,True,False
+2011-02-04,39.8166666667,Orlando Magic,Washington Wizards,4,87-74,11,layup,False,0,True,False
+2011-02-04,39.8166666667,Orlando Magic,Washington Wizards,4,87-74,12,free throw,False,15,False,False
+2011-02-04,47.1166666667,Orlando Magic,Washington Wizards,4,107-90,15,two point jumper,False,17,False,False
+2011-02-16,43.6333333333,Orlando Magic,Washington Wizards,4,68-95,25,two point jumper,True,10,False,False
+2011-02-25,7.81666666667,Orlando Magic,Oklahoma City Thunder,1,10-19,7,two point jumper,True,16,False,False
+2011-02-25,14.0666666667,Orlando Magic,Oklahoma City Thunder,2,24-33,8,free throw,True,15,True,False
+2011-02-25,14.0666666667,Orlando Magic,Oklahoma City Thunder,2,24-33,8,free throw,True,15,False,False
+2011-02-25,32.6,Orlando Magic,Oklahoma City Thunder,3,60-76,15,free throw,True,15,False,False
+2011-02-25,32.6,Orlando Magic,Oklahoma City Thunder,3,60-76,15,free throw,True,15,False,False
+2011-02-25,34.9,Orlando Magic,Oklahoma City Thunder,3,66-78,10,layup,True,0,False,False
+2011-02-25,37.5,Orlando Magic,Oklahoma City Thunder,4,73-83,9,free throw,True,15,True,False
+2011-02-25,37.5,Orlando Magic,Oklahoma City Thunder,4,73-83,9,free throw,True,15,False,False
+2011-02-25,40.8833333333,Orlando Magic,Oklahoma City Thunder,4,79-90,9,two point jumper,True,21,False,False
+2011-02-25,46.6166666667,Orlando Magic,Oklahoma City Thunder,4,88-110,21,free throw,True,15,False,False
+2011-02-25,46.6166666667,Orlando Magic,Oklahoma City Thunder,4,88-111,22,free throw,True,15,True,False
+2011-03-07,10.9,Orlando Magic,Portland Trail Blazers,1,20-19,-3,layup,True,0,True,False
+2011-03-07,12.7666666667,Orlando Magic,Portland Trail Blazers,2,24-21,-5,two point shot,True,1,True,False
+2011-03-07,12.7666666667,Orlando Magic,Portland Trail Blazers,2,24-22,-3,free throw,True,15,True,False
+2011-03-07,17.3833333333,Orlando Magic,Portland Trail Blazers,2,31-27,-6,two point jumper,True,9,False,False
+2011-03-07,17.4166666667,Orlando Magic,Portland Trail Blazers,2,31-29,-4,two point shot,True,2,True,False
+2011-03-07,44.0333333333,Orlando Magic,Portland Trail Blazers,4,85-79,-8,two point jumper,True,20,False,False
+2011-03-07,44.6666666667,Orlando Magic,Portland Trail Blazers,4,85-81,-6,layup,True,0,True,False
+2012-01-23,22.2166666667,Orlando Magic,Boston Celtics,2,33-36,-5,two point jumper,False,17,False,False
+2012-01-23,44.2166666667,Orlando Magic,Boston Celtics,4,51-79,-30,two point jumper,False,1,False,False
+2012-01-23,47.8166666667,Orlando Magic,Boston Celtics,4,56-87,-33,two point jumper,False,21,False,False
+2012-01-26,16.0,Orlando Magic,Boston Celtics,2,22-39,15,two point jumper,True,20,True,False
+2012-01-26,19.4166666667,Orlando Magic,Boston Celtics,2,23-47,22,layup,True,0,True,False
+2012-01-26,21.2166666667,Orlando Magic,Boston Celtics,2,27-53,25,free throw,True,15,True,False
+2012-01-26,21.2166666667,Orlando Magic,Boston Celtics,2,27-53,25,free throw,True,15,False,False
+2012-04-18,12.4,Orlando Magic,Boston Celtics,2,24-33,-11,two point jumper,False,9,True,True
+2012-02-22,14.5666666667,Orlando Magic,Brooklyn Nets,2,41-21,18,dunk,False,0,True,False
+2012-02-22,15.5,Orlando Magic,Brooklyn Nets,2,41-23,16,two point jumper,False,19,False,False
+2012-02-22,19.6,Orlando Magic,Brooklyn Nets,2,49-27,20,two point jumper,False,20,False,False
+2012-03-16,45.8,Orlando Magic,Brooklyn Nets,4,68-86,16,layup,True,0,True,True
+2012-03-16,47.5333333333,Orlando Magic,Brooklyn Nets,4,70-86,14,two point shot,True,16,False,True
+2012-03-28,40.7333333333,Orlando Magic,New York Knicks,4,74-93,-21,two point jumper,False,14,False,True
+2012-03-28,41.35,Orlando Magic,New York Knicks,4,74-96,-24,two point jumper,False,19,False,True
+2012-04-05,23.4333333333,Orlando Magic,New York Knicks,2,54-41,-15,two point jumper,True,15,False,False
+2012-01-30,12.75,Orlando Magic,Philadelphia 76ers,2,18-21,-5,two point jumper,False,11,False,False
+2012-01-30,19.5666666667,Orlando Magic,Philadelphia 76ers,2,26-30,-5,free throw,False,15,True,False
+2012-01-30,19.5666666667,Orlando Magic,Philadelphia 76ers,2,27-30,-4,free throw,False,15,True,False
+2012-02-15,14.3833333333,Orlando Magic,Philadelphia 76ers,2,23-31,6,two point jumper,True,7,False,False
+2012-02-15,14.45,Orlando Magic,Philadelphia 76ers,2,23-33,8,hook shot,True,6,True,False
+2012-04-07,11.5333333333,Orlando Magic,Philadelphia 76ers,1,24-16,6,two point jumper,False,11,False,True
+2012-04-07,12.8,Orlando Magic,Philadelphia 76ers,2,24-21,1,two point jumper,False,14,False,True
+2012-04-07,13.2,Orlando Magic,Philadelphia 76ers,2,24-21,1,two point jumper,False,18,False,True
+2012-04-07,16.8166666667,Orlando Magic,Philadelphia 76ers,2,28-31,-5,layup,False,0,False,True
+2012-04-16,7.41666666667,Orlando Magic,Philadelphia 76ers,1,17-12,-7,layup,True,0,False,True
+2012-04-16,7.45,Orlando Magic,Philadelphia 76ers,1,17-12,-7,layup,True,0,False,True
+2012-04-16,9.5,Orlando Magic,Philadelphia 76ers,1,21-14,-9,two point jumper,True,10,False,True
+2012-04-16,11.65,Orlando Magic,Philadelphia 76ers,1,27-21,-8,layup,True,0,True,True
+2012-04-16,14.95,Orlando Magic,Philadelphia 76ers,2,29-33,2,two point jumper,True,19,True,True
+2012-04-16,15.7,Orlando Magic,Philadelphia 76ers,2,31-35,2,layup,True,0,True,True
+2012-04-16,23.5666666667,Orlando Magic,Philadelphia 76ers,2,55-61,4,two point jumper,True,18,True,True
+2012-04-16,33.8,Orlando Magic,Philadelphia 76ers,3,77-85,6,layup,True,0,False,True
+2012-04-16,38.75,Orlando Magic,Philadelphia 76ers,4,82-96,12,two point shot,True,1,True,True
+2012-04-16,40.8166666667,Orlando Magic,Philadelphia 76ers,4,84-97,11,layup,True,0,False,True
+2012-04-16,41.2833333333,Orlando Magic,Philadelphia 76ers,4,87-97,8,two point jumper,True,18,False,True
+2012-04-16,41.5333333333,Orlando Magic,Philadelphia 76ers,4,87-97,8,two point jumper,True,19,False,True
+2012-04-16,41.9166666667,Orlando Magic,Philadelphia 76ers,4,87-99,10,two point jumper,True,19,True,True
+2012-04-16,43.45,Orlando Magic,Philadelphia 76ers,4,91-101,8,two point jumper,True,16,True,True
+2012-01-08,8.43333333333,Orlando Magic,Sacramento Kings,1,11-17,-8,two point jumper,False,16,False,False
+2012-01-08,12.7,Orlando Magic,Sacramento Kings,2,23-23,-2,two point jumper,False,12,True,False
+2012-01-08,14.65,Orlando Magic,Sacramento Kings,2,28-25,1,two point jumper,False,17,False,False
+2012-03-19,47.15,Orlando Magic,Chicago Bulls,4,85-59,-28,two point jumper,True,17,False,False
+2012-03-19,47.5833333333,Orlando Magic,Chicago Bulls,4,85-59,-28,two point jumper,True,20,False,False
+2012-02-03,8.1,Orlando Magic,Cleveland Cavaliers,1,9-18,7,tip shot,True,0,False,False
+2012-02-03,8.85,Orlando Magic,Cleveland Cavaliers,1,9-18,7,two point jumper,True,1,False,False
+2012-02-03,9.68333333333,Orlando Magic,Cleveland Cavaliers,1,11-18,5,two point jumper,True,20,False,False
+2012-02-03,10.8,Orlando Magic,Cleveland Cavaliers,1,15-18,1,two point jumper,True,17,False,False
+2012-02-03,13.8666666667,Orlando Magic,Cleveland Cavaliers,2,18-25,5,two point jumper,True,14,True,False
+2012-02-03,15.3166666667,Orlando Magic,Cleveland Cavaliers,2,22-25,1,two point jumper,True,6,False,False
+2012-02-03,15.8833333333,Orlando Magic,Cleveland Cavaliers,2,22-29,5,dunk,True,0,True,False
+2012-02-03,16.4833333333,Orlando Magic,Cleveland Cavaliers,2,22-30,7,free throw,True,15,True,False
+2012-02-03,16.4833333333,Orlando Magic,Cleveland Cavaliers,2,22-30,7,free throw,True,15,False,False
+2012-02-03,23.1,Orlando Magic,Cleveland Cavaliers,2,35-47,11,free throw,True,15,False,False
+2012-02-03,23.1,Orlando Magic,Cleveland Cavaliers,2,35-48,12,free throw,True,15,True,False
+2012-02-03,35.95,Orlando Magic,Cleveland Cavaliers,3,53-72,17,dunk,True,0,True,False
+2012-02-03,38.3333333333,Orlando Magic,Cleveland Cavaliers,4,59-74,13,two point jumper,True,1,False,False
+2012-03-23,45.75,Orlando Magic,Cleveland Cavaliers,4,75-93,16,two point shot,True,2,True,True
+2012-03-23,47.4166666667,Orlando Magic,Cleveland Cavaliers,4,78-93,13,two point jumper,True,14,False,True
+2012-04-15,14.9333333333,Orlando Magic,Cleveland Cavaliers,2,25-17,6,layup,False,0,True,False
+2012-04-15,18.35,Orlando Magic,Cleveland Cavaliers,2,33-23,8,dunk,False,0,True,False
+2012-04-15,21.4833333333,Orlando Magic,Cleveland Cavaliers,2,43-23,18,layup,False,0,True,False
+2012-04-15,31.5333333333,Orlando Magic,Cleveland Cavaliers,3,63-50,11,two point jumper,False,17,True,False
+2012-04-15,42.1,Orlando Magic,Cleveland Cavaliers,4,83-69,13,free throw,False,15,False,False
+2012-04-15,42.1,Orlando Magic,Cleveland Cavaliers,4,84-69,14,free throw,False,15,True,False
+2012-04-15,45.45,Orlando Magic,Cleveland Cavaliers,4,93-77,14,two point jumper,False,18,True,False
+2012-04-15,45.8666666667,Orlando Magic,Cleveland Cavaliers,4,94-77,16,free throw,False,15,True,False
+2012-04-15,45.8666666667,Orlando Magic,Cleveland Cavaliers,4,95-77,17,free throw,False,15,True,False
+2012-04-03,11.2,Orlando Magic,Detroit Pistons,1,23-22,-1,dunk,False,0,True,True
+2012-04-03,15.5,Orlando Magic,Detroit Pistons,2,34-30,3,free throw,False,15,True,True
+2012-04-03,15.5,Orlando Magic,Detroit Pistons,2,34-30,3,free throw,False,15,False,True
+2012-04-03,16.5333333333,Orlando Magic,Detroit Pistons,2,36-33,1,two point jumper,False,18,True,True
+2012-04-03,17.5333333333,Orlando Magic,Detroit Pistons,2,36-33,1,two point jumper,False,20,False,True
+2012-04-03,35.5833333333,Orlando Magic,Detroit Pistons,3,72-74,-4,two point shot,False,13,False,True
+2012-04-03,36.6333333333,Orlando Magic,Detroit Pistons,4,74-77,-5,two point jumper,False,16,False,True
+2012-04-03,40.0333333333,Orlando Magic,Detroit Pistons,4,78-83,-7,two point jumper,False,17,False,True
+2012-04-09,6.13333333333,Orlando Magic,Detroit Pistons,1,12-13,-1,two point jumper,True,14,False,False
+2012-04-09,36.8666666667,Orlando Magic,Detroit Pistons,4,71-96,23,dunk,True,0,True,False
+2012-04-09,40.1,Orlando Magic,Detroit Pistons,4,78-102,23,free throw,True,15,False,False
+2012-04-09,40.1,Orlando Magic,Detroit Pistons,4,78-103,24,free throw,True,15,True,False
+2012-04-09,42.6666666667,Orlando Magic,Detroit Pistons,4,80-111,29,two point jumper,True,9,False,False
+2012-04-09,47.0333333333,Orlando Magic,Detroit Pistons,4,87-117,28,two point jumper,True,8,False,False
+2012-04-09,47.75,Orlando Magic,Detroit Pistons,4,89-117,26,layup,True,0,False,False
+2012-01-24,15.45,Orlando Magic,Indiana Pacers,2,27-33,-7,free throw,False,15,False,False
+2012-01-24,15.45,Orlando Magic,Indiana Pacers,2,28-33,-6,free throw,False,15,True,False
+2012-01-24,22.2166666667,Orlando Magic,Indiana Pacers,2,43-41,0,dunk,False,0,True,False
+2012-01-24,22.9833333333,Orlando Magic,Indiana Pacers,2,45-43,0,layup,False,0,True,False
+2012-01-24,36.45,Orlando Magic,Indiana Pacers,4,74-62,10,two point jumper,False,10,False,False
+2012-01-24,38.1833333333,Orlando Magic,Indiana Pacers,4,76-65,9,two point jumper,False,18,False,False
+2012-01-29,46.1833333333,Orlando Magic,Indiana Pacers,4,102-81,-23,two point jumper,True,19,False,True
+2012-01-29,47.6,Orlando Magic,Indiana Pacers,4,104-85,-21,two point jumper,True,19,True,True
+2012-02-04,15.2666666667,Orlando Magic,Indiana Pacers,2,29-25,2,tip shot,False,0,False,True
+2012-02-04,30.7333333333,Orlando Magic,Indiana Pacers,3,53-41,10,two point jumper,False,19,False,True
+2012-02-04,33.9333333333,Orlando Magic,Indiana Pacers,3,60-48,10,two point jumper,False,15,True,True
+2012-03-11,10.3833333333,Orlando Magic,Indiana Pacers,1,18-31,11,layup,True,0,True,False
+2012-03-11,32.85,Orlando Magic,Indiana Pacers,3,62-84,20,two point jumper,True,20,False,False
+2012-03-11,33.5666666667,Orlando Magic,Indiana Pacers,3,64-84,18,layup,True,0,False,False
+2012-03-11,33.9,Orlando Magic,Indiana Pacers,3,64-87,22,free throw,True,15,True,False
+2012-03-11,33.9,Orlando Magic,Indiana Pacers,3,64-88,23,free throw,True,15,True,False
+2012-03-11,37.0666666667,Orlando Magic,Indiana Pacers,4,69-94,23,two point jumper,True,18,False,False
+2012-03-11,42.1666666667,Orlando Magic,Indiana Pacers,4,75-104,27,two point jumper,True,10,True,False
+2012-02-17,9.0,Orlando Magic,Milwaukee Bucks,1,17-11,-8,two point jumper,True,20,False,True
+2012-03-30,11.95,Orlando Magic,Dallas Mavericks,1,17-27,8,dunk,True,0,True,True
+2012-03-30,12.45,Orlando Magic,Dallas Mavericks,2,17-29,10,two point jumper,True,16,True,True
+2012-03-30,13.4666666667,Orlando Magic,Dallas Mavericks,2,21-32,9,two point jumper,True,20,False,True
+2012-03-30,36.25,Orlando Magic,Dallas Mavericks,4,71-78,5,two point jumper,True,14,False,True
+2012-04-26,2.3,Orlando Magic,Memphis Grizzlies,1,0-6,-8,two point jumper,False,1,False,False
+2012-04-26,3.68333333333,Orlando Magic,Memphis Grizzlies,1,6-8,-4,two point shot,False,1,True,False
+2012-04-26,7.81666666667,Orlando Magic,Memphis Grizzlies,1,8-23,-17,two point jumper,False,21,False,False
+2012-04-26,29.7833333333,Orlando Magic,Memphis Grizzlies,3,42-58,-18,two point jumper,False,20,True,False
+2012-04-26,35.0833333333,Orlando Magic,Memphis Grizzlies,3,51-65,-16,two point jumper,False,22,False,False
+2012-04-26,39.5,Orlando Magic,Memphis Grizzlies,4,57-72,-17,tip shot,False,0,False,False
+2012-04-26,41.9166666667,Orlando Magic,Memphis Grizzlies,4,65-78,-15,two point jumper,False,11,True,False
+2012-04-26,43.3166666667,Orlando Magic,Memphis Grizzlies,4,65-82,-19,two point jumper,False,1,False,False
+2012-04-26,43.3833333333,Orlando Magic,Memphis Grizzlies,4,66-82,-17,free throw,False,15,True,False
+2012-04-26,43.3833333333,Orlando Magic,Memphis Grizzlies,4,67-82,-16,free throw,False,15,True,False
+2012-01-27,10.8333333333,Orlando Magic,New Orleans Pelicans,1,16-23,-9,two point jumper,False,22,False,False
+2012-01-27,14.7,Orlando Magic,New Orleans Pelicans,2,23-23,-2,two point jumper,False,19,True,False
+2012-01-27,43.3833333333,Orlando Magic,New Orleans Pelicans,4,60-84,-26,two point jumper,False,19,True,False
+2012-01-27,43.9833333333,Orlando Magic,New Orleans Pelicans,4,60-84,-26,dunk,False,0,False,False
+2012-01-18,14.6166666667,Orlando Magic,San Antonio Spurs,2,19-23,2,layup,True,0,True,False
+2012-01-18,16.3833333333,Orlando Magic,San Antonio Spurs,2,23-23,-2,two point jumper,True,16,False,False
+2012-02-23,22.55,Orlando Magic,Atlanta Hawks,2,30-47,-19,two point jumper,False,17,False,False
+2012-04-13,17.1666666667,Orlando Magic,Atlanta Hawks,2,44-37,-9,layup,True,0,True,True
+2012-04-13,35.65,Orlando Magic,Atlanta Hawks,3,89-63,-27,free throw,True,15,True,True
+2012-04-13,35.65,Orlando Magic,Atlanta Hawks,3,89-64,-26,free throw,True,15,True,True
+2012-04-25,10.1666666667,Orlando Magic,Charlotte Bobcats,1,19-35,14,layup,True,0,True,False
+2012-04-25,27.8,Orlando Magic,Charlotte Bobcats,3,55-62,6,free throw,True,15,True,False
+2012-04-25,27.8,Orlando Magic,Charlotte Bobcats,3,55-63,7,free throw,True,15,True,False
+2012-04-25,34.25,Orlando Magic,Charlotte Bobcats,3,71-76,3,layup,True,0,True,False
+2012-04-25,34.25,Orlando Magic,Charlotte Bobcats,3,71-76,4,free throw,True,15,False,False
+2012-04-25,35.15,Orlando Magic,Charlotte Bobcats,3,71-79,7,free throw,True,15,True,False
+2012-04-25,35.15,Orlando Magic,Charlotte Bobcats,3,71-80,8,free throw,True,15,True,False
+2012-12-25,10.55,Orlando Magic,Oklahoma City Thunder,1,21-20,-1,layup,False,0,False,False
+2012-12-25,23.2666666667,Orlando Magic,Oklahoma City Thunder,2,41-53,-14,two point jumper,False,20,True,False
+2012-12-25,34.2833333333,Orlando Magic,Oklahoma City Thunder,3,58-72,-16,dunk,False,0,False,False
+2012-01-04,45.7333333333,Orlando Magic,Washington Wizards,4,75-100,23,two point shot,True,16,False,False
+2012-02-13,12.3166666667,Orlando Magic,Minnesota Timberwolves,2,26-31,3,two point shot,True,1,True,False
+2012-02-13,13.1333333333,Orlando Magic,Minnesota Timberwolves,2,26-33,5,two point shot,True,1,True,False
+2012-02-13,16.45,Orlando Magic,Minnesota Timberwolves,2,30-41,9,two point jumper,True,16,True,False
+2012-02-13,19.8166666667,Orlando Magic,Minnesota Timberwolves,2,34-47,11,dunk,True,0,True,False
+2012-02-13,20.3,Orlando Magic,Minnesota Timberwolves,2,37-47,8,two point jumper,True,18,False,False
+2012-02-13,42.0,Orlando Magic,Minnesota Timberwolves,4,80-90,8,two point jumper,True,20,False,False
+2012-03-01,10.7666666667,Orlando Magic,Oklahoma City Thunder,1,18-20,0,two point shot,True,20,True,False
+2012-03-01,37.5166666667,Orlando Magic,Oklahoma City Thunder,4,72-83,9,two point jumper,True,18,False,False
+2012-04-01,11.45,Orlando Magic,Denver Nuggets,1,24-19,-7,two point jumper,True,16,False,False
+2012-04-01,13.7,Orlando Magic,Denver Nuggets,2,29-21,-10,dunk,True,0,True,False
+2012-04-01,16.2833333333,Orlando Magic,Denver Nuggets,2,37-25,-14,two point shot,True,9,False,False
+2012-04-01,16.95,Orlando Magic,Denver Nuggets,2,37-29,-10,two point jumper,True,18,True,False
+2012-04-01,24.0,Orlando Magic,Denver Nuggets,2,48-42,-8,two point jumper,True,14,False,False
+2012-04-10,13.0,Orlando Magic,Washington Wizards,2,29-20,7,two point jumper,False,19,False,False
+2012-04-10,14.0666666667,Orlando Magic,Washington Wizards,2,29-22,5,two point jumper,False,18,False,False
+2012-04-10,16.2833333333,Orlando Magic,Washington Wizards,2,32-27,3,layup,False,0,False,False
+2012-04-10,38.1166666667,Orlando Magic,Washington Wizards,4,64-65,-3,two point jumper,False,1,False,False
+2013-02-07,2.33333333333,Los Angeles Lakers,Boston Celtics,1,2-4,-4,layup,False,0,False,True
+2013-02-07,14.5,Los Angeles Lakers,Boston Celtics,2,25-35,-13,three point jumper,False,25,False,True
+2013-02-07,18.1333333333,Los Angeles Lakers,Boston Celtics,2,34-43,-11,two point jumper,False,1,False,True
+2013-02-07,20.8666666667,Los Angeles Lakers,Boston Celtics,2,40-51,-13,two point jumper,False,23,True,True
+2013-02-07,26.9,Los Angeles Lakers,Boston Celtics,3,49-60,-12,free throw,False,15,True,True
+2013-02-07,26.9,Los Angeles Lakers,Boston Celtics,3,49-60,-12,free throw,False,15,False,True
+2013-02-07,40.2,Los Angeles Lakers,Boston Celtics,4,73-103,-32,two point jumper,False,16,True,True
+2013-02-07,41.5,Los Angeles Lakers,Boston Celtics,4,75-105,-33,three point jumper,False,25,False,True
+2013-02-20,5.2,Los Angeles Lakers,Boston Celtics,1,15-14,-3,two point jumper,True,17,False,False
+2013-02-20,11.35,Los Angeles Lakers,Boston Celtics,1,25-33,6,layup,True,0,False,False
+2013-02-20,14.3166666667,Los Angeles Lakers,Boston Celtics,2,31-41,7,three point jumper,True,26,False,False
+2013-02-20,16.6666666667,Los Angeles Lakers,Boston Celtics,2,33-44,9,two point shot,True,1,True,False
+2013-02-20,21.5666666667,Los Angeles Lakers,Boston Celtics,2,50-57,5,two point jumper,True,1,True,False
+2013-02-20,23.3666666667,Los Angeles Lakers,Boston Celtics,2,53-62,8,free throw,True,15,True,False
+2013-02-20,23.3666666667,Los Angeles Lakers,Boston Celtics,2,53-62,8,free throw,True,15,True,False
+2013-02-20,28.1333333333,Los Angeles Lakers,Boston Celtics,3,57-75,16,two point shot,True,1,True,False
+2013-02-20,33.3666666667,Los Angeles Lakers,Boston Celtics,3,67-85,15,three point jumper,True,26,False,False
+2013-02-20,33.95,Los Angeles Lakers,Boston Celtics,3,69-87,16,two point shot,True,1,True,False
+2013-02-20,41.5333333333,Los Angeles Lakers,Boston Celtics,4,85-104,17,layup,True,0,False,False
+2013-02-20,42.9166666667,Los Angeles Lakers,Boston Celtics,4,88-106,16,two point shot,True,1,True,False
+2013-02-20,43.5666666667,Los Angeles Lakers,Boston Celtics,4,88-108,18,two point jumper,True,17,True,False
+2013-02-20,45.1833333333,Los Angeles Lakers,Boston Celtics,4,92-108,15,free throw,True,15,False,False
+2013-02-20,45.1833333333,Los Angeles Lakers,Boston Celtics,4,92-108,15,free throw,True,15,False,False
+2013-02-20,46.05,Los Angeles Lakers,Boston Celtics,4,94-108,11,three point jumper,True,26,False,False
+2013-02-05,2.0,Los Angeles Lakers,Brooklyn Nets,1,2-3,-4,three point jumper,False,27,False,True
+2013-02-05,2.25,Los Angeles Lakers,Brooklyn Nets,1,4-3,-1,layup,False,0,True,True
+2013-02-05,6.78333333333,Los Angeles Lakers,Brooklyn Nets,1,12-14,-4,two point jumper,False,18,False,True
+2013-02-05,13.3166666667,Los Angeles Lakers,Brooklyn Nets,2,20-24,-6,two point jumper,False,18,True,True
+2013-02-05,14.3666666667,Los Angeles Lakers,Brooklyn Nets,2,22-24,-4,layup,False,0,True,True
+2013-02-05,15.3166666667,Los Angeles Lakers,Brooklyn Nets,2,24-26,-4,two point jumper,False,17,True,True
+2013-02-05,15.3166666667,Los Angeles Lakers,Brooklyn Nets,2,24-26,-3,free throw,False,15,False,True
+2013-02-05,17.5666666667,Los Angeles Lakers,Brooklyn Nets,2,32-32,-2,two point shot,False,2,True,True
+2013-02-05,25.9333333333,Los Angeles Lakers,Brooklyn Nets,3,53-42,9,two point jumper,False,1,False,True
+2013-02-05,44.55,Los Angeles Lakers,Brooklyn Nets,4,79-80,-2,free throw,False,15,True,True
+2013-02-05,44.55,Los Angeles Lakers,Brooklyn Nets,4,80-80,-1,free throw,False,15,True,True
+2013-02-05,46.8333333333,Los Angeles Lakers,Brooklyn Nets,4,88-83,3,two point jumper,False,18,True,True
+2013-12-13,15.2,Los Angeles Lakers,New York Knicks,2,30-49,-21,two point jumper,False,20,False,False
+2013-01-20,5.56666666667,Los Angeles Lakers,Toronto Raptors,1,4-15,-13,two point jumper,False,15,False,False
+2013-01-20,8.56666666667,Los Angeles Lakers,Toronto Raptors,1,9-23,-16,two point shot,False,1,True,False
+2013-01-20,10.8333333333,Los Angeles Lakers,Toronto Raptors,1,17-27,-11,free throw,False,15,False,False
+2013-01-20,10.8333333333,Los Angeles Lakers,Toronto Raptors,1,18-27,-10,free throw,False,15,True,False
+2013-01-20,11.35,Los Angeles Lakers,Toronto Raptors,1,20-29,-11,two point shot,False,1,True,False
+2013-01-20,14.4,Los Angeles Lakers,Toronto Raptors,2,26-33,-9,two point jumper,False,20,False,False
+2013-01-20,15.0,Los Angeles Lakers,Toronto Raptors,2,28-35,-9,two point shot,False,8,True,False
+2013-01-20,22.2666666667,Los Angeles Lakers,Toronto Raptors,2,41-48,-9,two point shot,False,1,True,False
+2013-01-20,33.0166666667,Los Angeles Lakers,Toronto Raptors,3,67-76,-11,layup,False,0,False,False
+2013-01-20,43.3833333333,Los Angeles Lakers,Toronto Raptors,4,89-97,-10,two point shot,False,1,True,False
+2013-01-20,44.05,Los Angeles Lakers,Toronto Raptors,4,92-99,-10,three point jumper,False,23,True,False
+2013-03-08,3.95,Los Angeles Lakers,Toronto Raptors,1,9-13,2,two point shot,True,2,True,True
+2013-03-08,26.0666666667,Los Angeles Lakers,Toronto Raptors,3,63-57,-9,three point jumper,True,26,False,True
+2013-03-08,36.25,Los Angeles Lakers,Toronto Raptors,4,89-79,-12,layup,True,0,False,True
+2013-03-25,16.1,Los Angeles Lakers,Golden State Warriors,2,22-39,-20,three point jumper,False,24,False,False
+2013-03-25,32.9666666667,Los Angeles Lakers,Golden State Warriors,3,67-87,-22,two point jumper,False,13,False,False
+2013-04-12,3.8,Los Angeles Lakers,Golden State Warriors,1,11-11,-3,three point jumper,True,23,True,True
+2013-04-12,27.0,Los Angeles Lakers,Golden State Warriors,3,68-66,-5,three point jumper,True,23,True,True
+2013-04-12,28.1333333333,Los Angeles Lakers,Golden State Warriors,3,71-67,-7,three point jumper,True,25,False,True
+2013-02-14,0.366666666667,Los Angeles Lakers,Los Angeles Clippers,1,0-0,-3,three point jumper,True,27,False,False
+2013-02-14,2.71666666667,Los Angeles Lakers,Los Angeles Clippers,1,6-0,-8,two point jumper,True,1,False,False
+2013-02-14,4.31666666667,Los Angeles Lakers,Los Angeles Clippers,1,10-0,-12,two point jumper,True,18,False,False
+2013-02-14,13.7,Los Angeles Lakers,Los Angeles Clippers,2,31-23,-10,dunk,True,0,True,False
+2013-02-14,17.9166666667,Los Angeles Lakers,Los Angeles Clippers,2,40-35,-7,layup,True,0,True,False
+2013-02-14,24.2,Los Angeles Lakers,Los Angeles Clippers,3,64-52,-14,two point jumper,True,18,False,False
+2013-02-14,36.5,Los Angeles Lakers,Los Angeles Clippers,4,101-80,-23,two point jumper,True,1,False,False
+2013-02-14,47.0666666667,Los Angeles Lakers,Los Angeles Clippers,4,123-99,-26,two point jumper,True,18,False,False
+2013-04-07,7.88333333333,Los Angeles Lakers,Los Angeles Clippers,1,18-12,3,three point jumper,False,27,True,True
+2013-04-07,8.93333333333,Los Angeles Lakers,Los Angeles Clippers,1,21-16,2,three point jumper,False,28,True,True
+2013-04-07,11.0833333333,Los Angeles Lakers,Los Angeles Clippers,1,25-25,-2,two point shot,False,8,True,True
+2013-04-07,11.9833333333,Los Angeles Lakers,Los Angeles Clippers,1,25-30,-8,three point jumper,False,29,False,True
+2013-04-07,33.4,Los Angeles Lakers,Los Angeles Clippers,3,65-78,-16,three point jumper,False,28,False,True
+2013-04-07,37.3833333333,Los Angeles Lakers,Los Angeles Clippers,4,70-84,-17,three point jumper,False,24,False,True
+2013-04-07,38.45,Los Angeles Lakers,Los Angeles Clippers,4,72-86,-16,two point jumper,False,21,False,True
+2013-04-07,40.35,Los Angeles Lakers,Los Angeles Clippers,4,78-88,-12,layup,False,0,True,True
+2013-04-07,40.35,Los Angeles Lakers,Los Angeles Clippers,4,79-88,-10,free throw,False,15,True,True
+2013-04-07,40.8833333333,Los Angeles Lakers,Los Angeles Clippers,4,79-90,-14,three point jumper,False,26,False,True
+2013-04-07,47.6666666667,Los Angeles Lakers,Los Angeles Clippers,4,95-109,-17,three point jumper,False,29,False,True
+2013-11-11,46.35,Los Angeles Lakers,Sacramento Kings,4,82-98,14,two point jumper,True,13,False,False
+2013-11-11,46.7666666667,Los Angeles Lakers,Sacramento Kings,4,82-101,17,two point jumper,True,17,True,False
+2013-11-11,47.7666666667,Los Angeles Lakers,Sacramento Kings,4,87-103,14,layup,True,0,False,False
+2013-11-24,45.4833333333,Los Angeles Lakers,Dallas Mavericks,4,113-83,29,free throw,False,15,True,False
+2013-11-24,45.4833333333,Los Angeles Lakers,Dallas Mavericks,4,113-83,29,free throw,False,15,False,False
+2013-12-04,7.78333333333,Los Angeles Lakers,Houston Rockets,1,23-11,10,dunk,False,0,True,False
+2013-12-04,9.71666666667,Los Angeles Lakers,Houston Rockets,1,28-15,11,two point jumper,False,17,True,False
+2013-12-05,46.0833333333,Los Angeles Lakers,New Orleans Pelicans,4,102-84,16,two point jumper,False,12,False,False
+2013-12-28,43.6333333333,Los Angeles Lakers,Portland Trail Blazers,4,79-103,22,two point jumper,True,21,False,False
+2013-12-28,45.9333333333,Los Angeles Lakers,Portland Trail Blazers,4,82-103,19,layup,True,0,False,False
+2013-01-06,46.9166666667,Los Angeles Lakers,Denver Nuggets,4,105-98,-8,free throw,True,15,True,False
+2013-01-06,46.9166666667,Los Angeles Lakers,Denver Nuggets,4,105-99,-7,free throw,True,15,True,False
+2013-01-08,7.45,Los Angeles Lakers,Houston Rockets,1,22-11,9,two point shot,False,1,True,False
+2013-01-08,7.88333333333,Los Angeles Lakers,Houston Rockets,1,22-13,8,free throw,False,15,False,False
+2013-01-08,7.88333333333,Los Angeles Lakers,Houston Rockets,1,23-13,9,free throw,False,15,True,False
+2013-01-08,10.15,Los Angeles Lakers,Houston Rockets,1,29-18,9,two point jumper,False,4,False,False
+2013-01-08,10.2166666667,Los Angeles Lakers,Houston Rockets,1,31-18,11,two point shot,False,1,True,False
+2013-01-08,16.5666666667,Los Angeles Lakers,Houston Rockets,2,40-35,3,two point jumper,False,17,False,False
+2013-01-08,19.0333333333,Los Angeles Lakers,Houston Rockets,2,46-44,0,layup,False,0,False,False
+2013-01-08,47.7166666667,Los Angeles Lakers,Houston Rockets,4,112-125,-15,two point jumper,False,19,False,False
+2013-01-09,10.4833333333,Los Angeles Lakers,San Antonio Spurs,1,15-19,-6,two point jumper,False,20,True,False
+2013-01-09,12.2166666667,Los Angeles Lakers,San Antonio Spurs,2,17-24,-9,two point jumper,False,19,False,False
+2013-01-09,14.0166666667,Los Angeles Lakers,San Antonio Spurs,2,20-30,-11,free throw,False,15,True,False
+2013-01-09,14.0166666667,Los Angeles Lakers,San Antonio Spurs,2,20-30,-11,free throw,False,15,False,False
+2013-01-09,15.1333333333,Los Angeles Lakers,San Antonio Spurs,2,24-30,-8,two point shot,False,1,True,False
+2013-01-09,16.6,Los Angeles Lakers,San Antonio Spurs,2,28-34,-8,two point jumper,False,21,True,False
+2013-01-09,18.5333333333,Los Angeles Lakers,San Antonio Spurs,2,35-40,-7,layup,False,0,True,False
+2013-01-09,34.6166666667,Los Angeles Lakers,San Antonio Spurs,3,73-83,-12,two point jumper,False,21,True,False
+2013-01-09,36.55,Los Angeles Lakers,San Antonio Spurs,4,77-85,-10,layup,False,0,True,False
+2013-01-09,37.3833333333,Los Angeles Lakers,San Antonio Spurs,4,78-87,-10,free throw,False,15,True,False
+2013-01-09,37.3833333333,Los Angeles Lakers,San Antonio Spurs,4,79-87,-9,free throw,False,15,True,False
+2013-01-09,38.9666666667,Los Angeles Lakers,San Antonio Spurs,4,83-92,-11,two point shot,False,1,True,False
+2013-01-09,39.8,Los Angeles Lakers,San Antonio Spurs,4,83-95,-15,three point jumper,False,25,False,False
+2013-01-09,40.2333333333,Los Angeles Lakers,San Antonio Spurs,4,85-95,-12,layup,False,0,True,False
+2013-01-09,47.4833333333,Los Angeles Lakers,San Antonio Spurs,4,105-108,-6,three point jumper,False,26,True,False
+2013-01-09,47.9833333333,Los Angeles Lakers,San Antonio Spurs,4,105-108,-6,three point jumper,False,25,False,False
+2013-01-11,0.2,Los Angeles Lakers,Oklahoma City Thunder,1,0-0,-2,two point jumper,True,14,False,False
+2013-01-11,0.933333333333,Los Angeles Lakers,Oklahoma City Thunder,1,0-2,0,two point shot,True,1,True,False
+2013-01-11,9.35,Los Angeles Lakers,Oklahoma City Thunder,1,25-16,-11,two point jumper,True,17,True,False
+2013-01-11,10.1,Los Angeles Lakers,Oklahoma City Thunder,1,25-18,-9,two point jumper,True,20,True,False
+2013-01-11,14.1333333333,Los Angeles Lakers,Oklahoma City Thunder,2,29-30,-1,two point shot,True,16,True,False
+2013-01-11,24.5666666667,Los Angeles Lakers,Oklahoma City Thunder,3,66-48,-20,two point jumper,True,19,False,False
+2013-01-11,27.25,Los Angeles Lakers,Oklahoma City Thunder,3,70-50,-22,two point jumper,True,13,False,False
+2013-01-11,30.6,Los Angeles Lakers,Oklahoma City Thunder,3,80-57,-25,layup,True,0,False,False
+2013-01-11,32.05,Los Angeles Lakers,Oklahoma City Thunder,3,84-61,-25,two point jumper,True,17,False,False
+2013-01-11,40.6333333333,Los Angeles Lakers,Oklahoma City Thunder,4,103-83,-22,two point jumper,True,16,True,False
+2013-01-13,0.25,Los Angeles Lakers,Cleveland Cavaliers,1,0-0,-2,layup,True,0,False,False
+2013-01-13,0.266666666667,Los Angeles Lakers,Cleveland Cavaliers,1,0-1,0,free throw,True,15,True,False
+2013-01-13,0.266666666667,Los Angeles Lakers,Cleveland Cavaliers,1,0-2,1,free throw,True,15,True,False
+2013-01-13,2.81666666667,Los Angeles Lakers,Cleveland Cavaliers,1,4-9,2,three point jumper,True,25,True,False
+2013-01-13,4.73333333333,Los Angeles Lakers,Cleveland Cavaliers,1,7-15,6,two point jumper,True,19,False,False
+2013-01-13,6.78333333333,Los Angeles Lakers,Cleveland Cavaliers,1,14-21,5,dunk,True,0,True,False
+2013-01-13,15.5666666667,Los Angeles Lakers,Cleveland Cavaliers,2,27-45,16,two point jumper,True,11,False,False
+2013-01-13,25.25,Los Angeles Lakers,Cleveland Cavaliers,3,47-57,8,two point jumper,True,3,False,False
+2013-01-13,34.8833333333,Los Angeles Lakers,Cleveland Cavaliers,3,65-82,15,two point jumper,True,19,True,False
+2013-01-13,38.3666666667,Los Angeles Lakers,Cleveland Cavaliers,4,74-91,15,dunk,True,0,True,False
+2013-01-13,39.0666666667,Los Angeles Lakers,Cleveland Cavaliers,4,74-94,18,two point jumper,True,1,True,False
+2013-01-15,0.2,Los Angeles Lakers,Milwaukee Bucks,1,0-0,-2,two point jumper,True,18,False,False
+2013-01-15,9.83333333333,Los Angeles Lakers,Milwaukee Bucks,1,21-26,3,two point jumper,True,20,False,False
+2013-01-15,24.5,Los Angeles Lakers,Milwaukee Bucks,3,50-57,5,two point jumper,True,17,False,False
+2013-01-15,29.25,Los Angeles Lakers,Milwaukee Bucks,3,62-69,5,two point shot,True,1,True,False
+2013-01-15,44.15,Los Angeles Lakers,Milwaukee Bucks,4,82-102,18,two point shot,True,14,True,False
+2013-01-15,46.0166666667,Los Angeles Lakers,Milwaukee Bucks,4,86-104,16,layup,True,0,True,False
+2013-01-15,46.7166666667,Los Angeles Lakers,Milwaukee Bucks,4,88-104,14,two point jumper,True,18,False,False
+2013-01-17,2.86666666667,Los Angeles Lakers,Miami Heat,1,4-2,-4,layup,True,0,False,False
+2013-01-17,14.0,Los Angeles Lakers,Miami Heat,2,30-27,-6,three point jumper,True,26,True,False
+2013-01-17,16.1,Los Angeles Lakers,Miami Heat,2,31-29,-4,two point jumper,True,18,False,False
+2013-01-17,29.1333333333,Los Angeles Lakers,Miami Heat,3,57-55,-5,three point jumper,True,26,True,False
+2013-01-21,1.51666666667,Los Angeles Lakers,Chicago Bulls,1,2-6,-6,two point shot,False,19,True,False
+2013-01-21,3.25,Los Angeles Lakers,Chicago Bulls,1,3-8,-7,two point jumper,False,19,False,False
+2013-01-21,3.68333333333,Los Angeles Lakers,Chicago Bulls,1,7-8,-3,dunk,False,0,True,False
+2013-01-21,18.7,Los Angeles Lakers,Chicago Bulls,2,32-40,-10,two point shot,False,1,True,False
+2013-01-21,21.4333333333,Los Angeles Lakers,Chicago Bulls,2,40-42,-4,two point shot,False,1,True,False
+2013-01-21,25.95,Los Angeles Lakers,Chicago Bulls,3,40-50,-12,layup,False,0,False,False
+2013-01-21,27.8833333333,Los Angeles Lakers,Chicago Bulls,3,45-52,-9,two point jumper,False,20,False,False
+2013-01-21,28.5666666667,Los Angeles Lakers,Chicago Bulls,3,49-54,-7,two point jumper,False,19,True,False
+2013-01-21,31.5666666667,Los Angeles Lakers,Chicago Bulls,3,57-61,-6,two point jumper,False,19,False,False
+2013-01-21,35.35,Los Angeles Lakers,Chicago Bulls,3,65-67,-5,three point jumper,False,25,False,False
+2013-01-21,44.7,Los Angeles Lakers,Chicago Bulls,4,79-86,-9,layup,False,0,True,False
+2013-01-23,1.06666666667,Los Angeles Lakers,Memphis Grizzlies,1,2-0,0,layup,False,0,True,True
+2013-01-23,2.33333333333,Los Angeles Lakers,Memphis Grizzlies,1,4-0,1,three point jumper,False,26,False,True
+2013-01-23,20.35,Los Angeles Lakers,Memphis Grizzlies,2,40-52,-14,two point shot,False,7,True,True
+2013-01-23,20.35,Los Angeles Lakers,Memphis Grizzlies,2,41-52,-12,free throw,False,15,True,True
+2013-01-23,23.7666666667,Los Angeles Lakers,Memphis Grizzlies,2,50-56,-8,layup,False,0,False,True
+2013-01-23,24.3333333333,Los Angeles Lakers,Memphis Grizzlies,3,52-59,-9,dunk,False,0,True,True
+2013-01-23,24.75,Los Angeles Lakers,Memphis Grizzlies,3,52-59,-9,two point jumper,False,3,False,True
+2013-01-23,32.4333333333,Los Angeles Lakers,Memphis Grizzlies,3,66-75,-11,two point jumper,False,18,False,True
+2013-01-23,38.25,Los Angeles Lakers,Memphis Grizzlies,4,74-87,-15,layup,False,0,False,True
+2013-01-23,38.8833333333,Los Angeles Lakers,Memphis Grizzlies,4,76-89,-15,two point jumper,False,19,True,True
+2013-01-23,41.4833333333,Los Angeles Lakers,Memphis Grizzlies,4,78-93,-17,two point jumper,False,21,True,True
+2013-01-23,42.1666666667,Los Angeles Lakers,Memphis Grizzlies,4,78-95,-19,two point jumper,False,1,False,True
+2013-01-25,5.5,Los Angeles Lakers,Utah Jazz,1,9-15,3,three point jumper,True,25,False,False
+2013-01-25,10.15,Los Angeles Lakers,Utah Jazz,1,15-23,6,two point jumper,True,13,False,False
+2013-01-25,11.0,Los Angeles Lakers,Utah Jazz,1,15-25,8,two point shot,True,1,True,False
+2013-01-25,11.4833333333,Los Angeles Lakers,Utah Jazz,1,17-25,5,three point jumper,True,25,False,False
+2013-01-25,26.7666666667,Los Angeles Lakers,Utah Jazz,3,44-53,7,two point shot,True,1,True,False
+2013-01-25,29.4166666667,Los Angeles Lakers,Utah Jazz,3,48-57,7,two point jumper,True,18,False,False
+2013-01-25,43.6666666667,Los Angeles Lakers,Utah Jazz,4,76-92,14,two point jumper,True,20,False,False
+2013-01-25,47.2666666667,Los Angeles Lakers,Utah Jazz,4,81-102,18,three point jumper,True,26,True,False
+2013-01-27,4.91666666667,Los Angeles Lakers,Oklahoma City Thunder,1,8-10,-1,three point jumper,True,26,True,False
+2013-01-27,7.45,Los Angeles Lakers,Oklahoma City Thunder,1,11-13,0,dunk,True,0,True,False
+2013-01-27,24.5666666667,Los Angeles Lakers,Oklahoma City Thunder,3,55-52,-5,two point jumper,True,21,False,False
+2013-01-27,28.9833333333,Los Angeles Lakers,Oklahoma City Thunder,3,61-59,-4,layup,True,0,False,False
+2013-01-27,31.45,Los Angeles Lakers,Oklahoma City Thunder,3,63-65,0,layup,True,0,True,False
+2013-01-27,33.5833333333,Los Angeles Lakers,Oklahoma City Thunder,3,70-69,-3,two point shot,True,1,True,False
+2013-01-27,42.3833333333,Los Angeles Lakers,Oklahoma City Thunder,4,87-90,1,two point shot,True,2,True,False
+2013-01-27,43.6333333333,Los Angeles Lakers,Oklahoma City Thunder,4,87-93,4,two point jumper,True,9,False,False
+2013-01-29,2.18333333333,Los Angeles Lakers,New Orleans Pelicans,1,4-5,-2,three point jumper,True,24,True,True
+2013-01-29,8.3,Los Angeles Lakers,New Orleans Pelicans,1,21-18,-5,two point jumper,True,1,False,True
+2013-01-29,9.16666666667,Los Angeles Lakers,New Orleans Pelicans,1,24-21,-6,three point jumper,True,23,True,True
+2013-01-29,11.5,Los Angeles Lakers,New Orleans Pelicans,1,24-25,-1,two point shot,True,1,True,True
+2013-01-29,17.2,Los Angeles Lakers,New Orleans Pelicans,2,27-35,5,three point jumper,True,27,False,True
+2013-01-29,24.25,Los Angeles Lakers,New Orleans Pelicans,3,42-57,13,unknown,True,23,True,True
+2013-01-29,27.7,Los Angeles Lakers,New Orleans Pelicans,3,52-67,13,dunk,True,0,True,True
+2013-01-29,29.3833333333,Los Angeles Lakers,New Orleans Pelicans,3,58-69,9,two point shot,True,10,True,True
+2013-01-29,38.0666666667,Los Angeles Lakers,New Orleans Pelicans,4,75-91,13,three point jumper,True,27,True,True
+2013-01-29,46.2666666667,Los Angeles Lakers,New Orleans Pelicans,4,101-104,1,layup,True,0,True,True
+2013-01-29,47.3833333333,Los Angeles Lakers,New Orleans Pelicans,4,101-107,4,layup,True,0,False,True
+2013-01-30,9.93333333333,Los Angeles Lakers,Phoenix Suns,1,21-20,-2,three point jumper,False,26,True,False
+2013-01-30,11.4666666667,Los Angeles Lakers,Phoenix Suns,1,21-26,-6,free throw,False,15,False,False
+2013-01-30,11.4666666667,Los Angeles Lakers,Phoenix Suns,1,22-26,-5,free throw,False,15,True,False
+2013-01-30,17.85,Los Angeles Lakers,Phoenix Suns,2,31-30,-2,three point jumper,False,24,False,False
+2013-01-30,34.1,Los Angeles Lakers,Phoenix Suns,3,67-56,10,free throw,False,15,True,False
+2013-01-30,34.1,Los Angeles Lakers,Phoenix Suns,3,67-56,10,free throw,False,15,False,False
+2013-01-30,36.3166666667,Los Angeles Lakers,Phoenix Suns,4,73-63,7,three point jumper,False,23,False,False
+2013-01-30,47.9333333333,Los Angeles Lakers,Phoenix Suns,4,86-90,-7,three point jumper,False,26,False,False
+2013-02-01,2.38333333333,Los Angeles Lakers,Minnesota Timberwolves,1,6-2,2,two point jumper,False,1,True,True
+2013-02-01,2.88333333333,Los Angeles Lakers,Minnesota Timberwolves,1,8-2,4,layup,False,0,True,True
+2013-02-01,12.95,Los Angeles Lakers,Minnesota Timberwolves,2,41-28,11,layup,False,0,True,True
+2013-02-01,13.3833333333,Los Angeles Lakers,Minnesota Timberwolves,2,41-28,11,two point jumper,False,6,False,True
+2013-02-01,13.95,Los Angeles Lakers,Minnesota Timberwolves,2,46-31,13,two point shot,False,1,True,True
+2013-02-01,14.5,Los Angeles Lakers,Minnesota Timberwolves,2,49-31,15,three point jumper,False,23,True,True
+2013-02-01,22.65,Los Angeles Lakers,Minnesota Timberwolves,2,64-49,12,three point jumper,False,24,False,True
+2013-02-01,22.8833333333,Los Angeles Lakers,Minnesota Timberwolves,2,66-49,15,two point shot,False,1,True,True
+2013-02-01,24.65,Los Angeles Lakers,Minnesota Timberwolves,3,68-53,13,two point jumper,False,1,False,True
+2013-02-01,34.0833333333,Los Angeles Lakers,Minnesota Timberwolves,3,81-70,9,layup,False,0,False,True
+2013-02-01,34.15,Los Angeles Lakers,Minnesota Timberwolves,3,81-70,9,tip shot,False,0,False,True
+2013-02-01,36.3166666667,Los Angeles Lakers,Minnesota Timberwolves,4,85-76,6,three point jumper,False,23,False,True
+2013-02-01,45.3666666667,Los Angeles Lakers,Minnesota Timberwolves,4,103-94,7,two point jumper,False,19,False,True
+2013-02-03,0.966666666667,Los Angeles Lakers,Detroit Pistons,1,3-4,-2,free throw,False,15,True,True
+2013-02-03,0.966666666667,Los Angeles Lakers,Detroit Pistons,1,4-4,-1,free throw,False,15,True,True
+2013-02-03,5.6,Los Angeles Lakers,Detroit Pistons,1,16-13,0,three point jumper,False,25,True,True
+2013-02-03,7.63333333333,Los Angeles Lakers,Detroit Pistons,1,21-15,4,two point jumper,False,17,True,True
+2013-02-03,10.9833333333,Los Angeles Lakers,Detroit Pistons,1,32-24,6,layup,False,0,True,True
+2013-02-03,13.3166666667,Los Angeles Lakers,Detroit Pistons,2,34-33,-1,two point jumper,False,20,True,True
+2013-02-03,13.8166666667,Los Angeles Lakers,Detroit Pistons,2,34-35,-4,three point jumper,False,27,False,True
+2013-02-03,19.85,Los Angeles Lakers,Detroit Pistons,2,53-43,8,two point jumper,False,1,True,True
+2013-02-03,24.0,Los Angeles Lakers,Detroit Pistons,2,62-51,9,two point shot,False,1,True,True
+2013-02-03,26.45,Los Angeles Lakers,Detroit Pistons,3,65-54,10,free throw,False,15,True,True
+2013-02-03,26.45,Los Angeles Lakers,Detroit Pistons,3,66-54,11,free throw,False,15,True,True
+2013-02-03,32.6833333333,Los Angeles Lakers,Detroit Pistons,3,74-62,9,three point jumper,False,26,False,True
+2013-02-03,47.7333333333,Los Angeles Lakers,Detroit Pistons,4,98-97,0,free throw,False,15,False,True
+2013-02-03,47.7333333333,Los Angeles Lakers,Detroit Pistons,4,98-97,0,free throw,False,15,False,True
+2013-02-08,4.41666666667,Los Angeles Lakers,Charlotte Bobcats,1,9-9,-3,three point jumper,False,27,True,False
+2013-02-08,5.2,Los Angeles Lakers,Charlotte Bobcats,1,9-9,-2,two point shot,False,16,False,False
+2013-02-08,10.4666666667,Los Angeles Lakers,Charlotte Bobcats,1,17-26,-11,layup,False,0,False,False
+2013-02-08,11.6,Los Angeles Lakers,Charlotte Bobcats,1,20-30,-13,three point jumper,False,26,False,False
+2013-02-08,12.55,Los Angeles Lakers,Charlotte Bobcats,2,22-30,-10,dunk,False,0,True,False
+2013-02-08,16.7333333333,Los Angeles Lakers,Charlotte Bobcats,2,30-35,-7,two point jumper,False,17,False,False
+2013-02-08,24.55,Los Angeles Lakers,Charlotte Bobcats,3,41-55,-17,three point jumper,False,24,False,False
+2013-02-08,26.0666666667,Los Angeles Lakers,Charlotte Bobcats,3,45-59,-16,two point jumper,False,10,True,False
+2013-02-08,28.1666666667,Los Angeles Lakers,Charlotte Bobcats,3,49-66,-19,dunk,False,0,True,False
+2013-02-08,28.7,Los Angeles Lakers,Charlotte Bobcats,3,49-66,-20,three point jumper,False,26,False,False
+2013-02-08,30.8166666667,Los Angeles Lakers,Charlotte Bobcats,3,53-71,-20,layup,False,0,True,False
+2013-02-08,30.8166666667,Los Angeles Lakers,Charlotte Bobcats,3,54-71,-18,free throw,False,15,True,False
+2013-02-08,31.9833333333,Los Angeles Lakers,Charlotte Bobcats,3,57-71,-16,two point shot,False,1,True,False
+2013-02-08,34.9333333333,Los Angeles Lakers,Charlotte Bobcats,3,68-76,-10,two point jumper,False,8,True,False
+2013-02-08,35.45,Los Angeles Lakers,Charlotte Bobcats,3,68-78,-11,free throw,False,15,False,False
+2013-02-08,35.45,Los Angeles Lakers,Charlotte Bobcats,3,69-78,-10,free throw,False,15,True,False
+2013-02-08,35.9,Los Angeles Lakers,Charlotte Bobcats,3,69-78,-11,layup,False,0,False,False
+2013-02-10,4.1,Los Angeles Lakers,Miami Heat,1,7-8,-3,two point jumper,False,19,False,True
+2013-02-10,8.51666666667,Los Angeles Lakers,Miami Heat,1,19-14,3,two point shot,False,1,True,True
+2013-02-10,10.3333333333,Los Angeles Lakers,Miami Heat,1,21-21,-2,two point jumper,False,20,True,True
+2013-02-10,10.7333333333,Los Angeles Lakers,Miami Heat,1,23-21,0,dunk,False,0,True,True
+2013-02-10,11.25,Los Angeles Lakers,Miami Heat,1,23-23,-3,three point jumper,False,25,False,True
+2013-02-10,13.1833333333,Los Angeles Lakers,Miami Heat,2,31-27,2,two point shot,False,1,True,True
+2013-02-10,15.0,Los Angeles Lakers,Miami Heat,2,33-31,0,layup,False,0,False,True
+2013-02-10,15.05,Los Angeles Lakers,Miami Heat,2,35-31,2,layup,False,0,True,True
+2013-02-10,15.05,Los Angeles Lakers,Miami Heat,2,36-31,4,free throw,False,15,True,True
+2013-02-10,16.9166666667,Los Angeles Lakers,Miami Heat,2,40-35,3,two point jumper,False,19,False,True
+2013-02-10,24.25,Los Angeles Lakers,Miami Heat,3,55-53,0,dunk,False,0,True,True
+2013-02-10,27.8666666667,Los Angeles Lakers,Miami Heat,3,58-58,-2,two point jumper,False,16,False,True
+2013-02-10,37.2,Los Angeles Lakers,Miami Heat,4,78-80,-5,three point jumper,False,25,True,True
+2013-02-10,40.5666666667,Los Angeles Lakers,Miami Heat,4,82-86,-7,three point jumper,False,25,False,True
+2013-02-10,40.9833333333,Los Angeles Lakers,Miami Heat,4,84-89,-7,dunk,False,0,True,True
+2013-02-12,2.2,Los Angeles Lakers,Phoenix Suns,1,5-8,1,layup,True,0,True,True
+2013-02-12,2.2,Los Angeles Lakers,Phoenix Suns,1,5-8,2,free throw,True,15,False,True
+2013-02-12,4.66666666667,Los Angeles Lakers,Phoenix Suns,1,7-10,1,layup,True,0,True,True
+2013-02-12,5.16666666667,Los Angeles Lakers,Phoenix Suns,1,7-10,1,two point jumper,True,21,False,True
+2013-02-12,13.0666666667,Los Angeles Lakers,Phoenix Suns,2,24-33,6,three point jumper,True,26,True,True
+2013-02-12,14.0166666667,Los Angeles Lakers,Phoenix Suns,2,26-33,5,layup,True,0,False,True
+2013-02-12,14.4333333333,Los Angeles Lakers,Phoenix Suns,2,28-33,2,three point jumper,True,28,False,True
+2013-02-12,17.9833333333,Los Angeles Lakers,Phoenix Suns,2,35-43,6,two point jumper,True,21,True,True
+2013-02-12,19.0333333333,Los Angeles Lakers,Phoenix Suns,2,35-43,6,two point jumper,True,18,False,True
+2013-02-12,21.1166666667,Los Angeles Lakers,Phoenix Suns,2,38-46,7,free throw,True,15,True,True
+2013-02-12,21.1166666667,Los Angeles Lakers,Phoenix Suns,2,38-47,8,free throw,True,15,True,True
+2013-02-12,26.4333333333,Los Angeles Lakers,Phoenix Suns,3,51-60,6,three point jumper,True,23,False,True
+2013-02-22,2.55,Los Angeles Lakers,Portland Trail Blazers,1,9-6,-5,two point shot,True,1,True,True
+2013-02-22,4.41666666667,Los Angeles Lakers,Portland Trail Blazers,1,12-16,1,three point jumper,True,25,True,True
+2013-02-22,6.38333333333,Los Angeles Lakers,Portland Trail Blazers,1,19-17,-5,three point jumper,True,25,False,True
+2013-02-22,13.1333333333,Los Angeles Lakers,Portland Trail Blazers,2,30-32,0,two point jumper,True,12,False,True
+2013-02-22,13.7,Los Angeles Lakers,Portland Trail Blazers,2,30-32,-1,three point jumper,True,25,False,True
+2013-02-22,16.2,Los Angeles Lakers,Portland Trail Blazers,2,34-39,3,two point jumper,True,20,True,True
+2013-02-22,23.6,Los Angeles Lakers,Portland Trail Blazers,2,53-53,-2,two point jumper,True,18,False,True
+2013-02-22,32.6166666667,Los Angeles Lakers,Portland Trail Blazers,3,73-71,-4,two point jumper,True,20,True,True
+2013-02-22,33.5,Los Angeles Lakers,Portland Trail Blazers,3,75-72,-4,free throw,True,15,True,True
+2013-02-22,33.5,Los Angeles Lakers,Portland Trail Blazers,3,75-73,-3,free throw,True,15,True,True
+2013-02-24,4.98333333333,Los Angeles Lakers,Dallas Mavericks,1,12-9,1,layup,False,0,True,False
+2013-02-24,24.0,Los Angeles Lakers,Dallas Mavericks,2,54-54,-2,two point shot,False,1,False,False
+2013-02-24,25.6333333333,Los Angeles Lakers,Dallas Mavericks,3,58-59,-3,two point jumper,False,20,True,False
+2013-02-24,27.2,Los Angeles Lakers,Dallas Mavericks,3,62-59,1,layup,False,0,True,False
+2013-02-24,28.7333333333,Los Angeles Lakers,Dallas Mavericks,3,67-64,1,two point jumper,False,20,False,False
+2013-02-25,1.38333333333,Los Angeles Lakers,Denver Nuggets,1,6-3,1,two point jumper,False,19,True,False
+2013-02-25,5.0,Los Angeles Lakers,Denver Nuggets,1,12-12,-2,dunk,False,0,True,False
+2013-02-25,14.4666666667,Los Angeles Lakers,Denver Nuggets,2,33-45,-14,two point jumper,False,17,True,False
+2013-02-25,15.3166666667,Los Angeles Lakers,Denver Nuggets,2,37-45,-10,dunk,False,0,True,False
+2013-02-25,15.9666666667,Los Angeles Lakers,Denver Nuggets,2,37-47,-12,two point jumper,False,18,False,False
+2013-02-25,25.3,Los Angeles Lakers,Denver Nuggets,3,59-69,-13,three point jumper,False,24,False,False
+2013-02-25,26.3666666667,Los Angeles Lakers,Denver Nuggets,3,61-73,-14,two point jumper,False,14,False,False
+2013-02-25,28.75,Los Angeles Lakers,Denver Nuggets,3,65-77,-13,free throw,False,15,False,False
+2013-02-25,28.75,Los Angeles Lakers,Denver Nuggets,3,65-77,-13,free throw,False,15,False,False
+2013-02-25,29.7,Los Angeles Lakers,Denver Nuggets,3,67-82,-17,two point shot,False,10,False,False
+2013-02-25,32.0666666667,Los Angeles Lakers,Denver Nuggets,3,71-86,-18,three point jumper,False,26,False,False
+2013-02-28,26.2166666667,Los Angeles Lakers,Minnesota Timberwolves,3,51-65,12,two point jumper,True,3,True,False
+2013-02-28,27.45,Los Angeles Lakers,Minnesota Timberwolves,3,53-67,13,free throw,True,15,True,False
+2013-02-28,27.45,Los Angeles Lakers,Minnesota Timberwolves,3,53-68,14,free throw,True,15,True,False
+2013-02-28,32.6833333333,Los Angeles Lakers,Minnesota Timberwolves,3,65-76,9,two point jumper,True,3,False,False
+2013-02-28,34.9333333333,Los Angeles Lakers,Minnesota Timberwolves,3,70-86,14,two point jumper,True,1,False,False
+2013-03-03,2.81666666667,Los Angeles Lakers,Atlanta Hawks,1,3-5,-1,three point jumper,True,24,True,True
+2013-03-03,5.21666666667,Los Angeles Lakers,Atlanta Hawks,1,8-16,6,dunk,True,0,True,True
+2013-03-03,26.7166666667,Los Angeles Lakers,Atlanta Hawks,3,49-58,7,two point jumper,True,18,False,True
+2013-03-03,28.6666666667,Los Angeles Lakers,Atlanta Hawks,3,49-65,14,dunk,True,0,True,True
+2013-03-03,35.2833333333,Los Angeles Lakers,Atlanta Hawks,3,67-76,7,layup,True,0,False,True
+2013-03-05,0.25,Los Angeles Lakers,Oklahoma City Thunder,1,0-0,-2,two point jumper,False,14,False,False
+2013-03-05,3.0,Los Angeles Lakers,Oklahoma City Thunder,1,1-9,-9,free throw,False,15,False,False
+2013-03-05,3.0,Los Angeles Lakers,Oklahoma City Thunder,1,2-9,-8,free throw,False,15,True,False
+2013-03-05,4.2,Los Angeles Lakers,Oklahoma City Thunder,1,3-9,-7,free throw,False,15,True,False
+2013-03-05,4.2,Los Angeles Lakers,Oklahoma City Thunder,1,4-9,-6,free throw,False,15,True,False
+2013-03-05,10.4166666667,Los Angeles Lakers,Oklahoma City Thunder,1,21-33,-14,two point jumper,False,16,True,False
+2013-03-05,10.8833333333,Los Angeles Lakers,Oklahoma City Thunder,1,24-35,-14,three point jumper,False,24,True,False
+2013-03-05,11.9,Los Angeles Lakers,Oklahoma City Thunder,1,27-37,-11,free throw,False,15,True,False
+2013-03-05,11.9,Los Angeles Lakers,Oklahoma City Thunder,1,28-37,-10,free throw,False,15,True,False
+2013-03-05,12.5,Los Angeles Lakers,Oklahoma City Thunder,2,30-37,-9,layup,False,0,True,False
+2013-03-05,12.9666666667,Los Angeles Lakers,Oklahoma City Thunder,2,30-39,-11,two point jumper,False,9,False,False
+2013-03-05,31.0666666667,Los Angeles Lakers,Oklahoma City Thunder,3,75-85,-13,three point jumper,False,25,False,False
+2013-03-05,32.05,Los Angeles Lakers,Oklahoma City Thunder,3,75-85,-11,free throw,False,15,False,False
+2013-03-05,32.05,Los Angeles Lakers,Oklahoma City Thunder,3,76-85,-10,free throw,False,15,True,False
+2013-03-05,45.7333333333,Los Angeles Lakers,Oklahoma City Thunder,4,105-116,-13,two point jumper,False,18,False,False
+2013-03-06,1.7,Los Angeles Lakers,New Orleans Pelicans,1,3-2,-1,two point jumper,False,16,False,True
+2013-03-06,2.7,Los Angeles Lakers,New Orleans Pelicans,1,4-4,-1,free throw,False,15,True,True
+2013-03-06,2.7,Los Angeles Lakers,New Orleans Pelicans,1,4-4,-1,free throw,False,15,False,True
+2013-03-06,5.16666666667,Los Angeles Lakers,New Orleans Pelicans,1,9-8,0,free throw,False,15,True,True
+2013-03-06,5.16666666667,Los Angeles Lakers,New Orleans Pelicans,1,10-8,1,free throw,False,15,True,True
+2013-03-06,10.1333333333,Los Angeles Lakers,New Orleans Pelicans,1,21-26,-6,free throw,False,15,True,True
+2013-03-06,10.1333333333,Los Angeles Lakers,New Orleans Pelicans,1,22-26,-5,free throw,False,15,True,True
+2013-03-06,16.2833333333,Los Angeles Lakers,New Orleans Pelicans,2,34-42,-10,layup,False,0,False,True
+2013-03-06,17.0666666667,Los Angeles Lakers,New Orleans Pelicans,2,34-44,-13,three point jumper,False,25,False,True
+2013-03-06,30.1666666667,Los Angeles Lakers,New Orleans Pelicans,3,62-80,-21,three point jumper,False,28,False,True
+2013-03-10,1.95,Los Angeles Lakers,Chicago Bulls,1,2-6,2,two point jumper,True,19,True,True
+2013-03-10,5.0,Los Angeles Lakers,Chicago Bulls,1,8-12,1,three point jumper,True,24,False,True
+2013-03-10,5.45,Los Angeles Lakers,Chicago Bulls,1,10-12,0,two point shot,True,13,False,True
+2013-03-10,10.3333333333,Los Angeles Lakers,Chicago Bulls,1,14-16,0,two point jumper,True,18,False,True
+2013-03-10,11.9833333333,Los Angeles Lakers,Chicago Bulls,1,16-20,1,three point jumper,True,25,False,True
+2013-03-10,23.2,Los Angeles Lakers,Chicago Bulls,2,38-44,3,three point jumper,True,23,True,True
+2013-03-10,28.25,Los Angeles Lakers,Chicago Bulls,3,47-54,4,three point jumper,True,23,False,True
+2013-03-10,28.4166666667,Los Angeles Lakers,Chicago Bulls,3,47-56,7,two point shot,True,2,True,True
+2013-03-10,35.5333333333,Los Angeles Lakers,Chicago Bulls,3,58-71,11,dunk,True,0,True,True
+2013-03-10,35.9833333333,Los Angeles Lakers,Chicago Bulls,3,61-73,10,two point jumper,True,14,True,True
+2013-03-12,4.66666666667,Los Angeles Lakers,Orlando Magic,1,9-5,2,two point jumper,False,21,False,False
+2013-03-12,29.0,Los Angeles Lakers,Orlando Magic,3,59-57,-1,three point jumper,False,26,True,False
+2013-03-12,30.7333333333,Los Angeles Lakers,Orlando Magic,3,65-59,3,unknown,False,26,True,False
+2013-03-12,35.95,Los Angeles Lakers,Orlando Magic,3,76-68,5,three point jumper,False,24,False,False
+2013-03-12,47.6166666667,Los Angeles Lakers,Orlando Magic,4,106-95,8,three point jumper,False,24,False,False
+2013-03-13,3.46666666667,Los Angeles Lakers,Atlanta Hawks,1,5-2,0,three point jumper,False,25,False,False
+2013-03-13,14.8166666667,Los Angeles Lakers,Atlanta Hawks,2,27-33,-8,two point jumper,False,14,True,False
+2013-03-13,15.0833333333,Los Angeles Lakers,Atlanta Hawks,2,28-33,-6,free throw,False,15,True,False
+2013-03-13,15.0833333333,Los Angeles Lakers,Atlanta Hawks,2,29-33,-5,free throw,False,15,True,False
+2013-03-15,1.45,Los Angeles Lakers,Indiana Pacers,1,0-5,-7,two point jumper,False,20,False,True
+2013-03-15,2.93333333333,Los Angeles Lakers,Indiana Pacers,1,2-5,-5,two point jumper,False,19,True,True
+2013-03-15,4.73333333333,Los Angeles Lakers,Indiana Pacers,1,5-9,-6,two point jumper,False,1,False,True
+2013-03-15,5.23333333333,Los Angeles Lakers,Indiana Pacers,1,8-11,-5,layup,False,0,True,True
+2013-03-15,5.23333333333,Los Angeles Lakers,Indiana Pacers,1,8-11,-4,free throw,False,15,True,True
+2013-03-15,26.6333333333,Los Angeles Lakers,Indiana Pacers,3,50-49,-1,two point jumper,False,21,False,True
+2013-03-15,42.0333333333,Los Angeles Lakers,Indiana Pacers,4,82-79,0,three point jumper,False,24,True,True
+2013-03-17,0.55,Los Angeles Lakers,Sacramento Kings,1,0-0,-3,three point jumper,True,24,False,True
+2013-03-17,1.56666666667,Los Angeles Lakers,Sacramento Kings,1,2-4,0,two point shot,True,1,True,True
+2013-03-17,3.75,Los Angeles Lakers,Sacramento Kings,1,6-8,0,two point jumper,True,18,False,True
+2013-03-17,4.91666666667,Los Angeles Lakers,Sacramento Kings,1,11-12,-1,two point jumper,True,20,True,True
+2013-03-17,8.86666666667,Los Angeles Lakers,Sacramento Kings,1,19-21,0,two point jumper,True,18,False,True
+2013-03-17,13.0166666667,Los Angeles Lakers,Sacramento Kings,2,29-35,4,two point jumper,True,18,True,True
+2013-03-17,14.75,Los Angeles Lakers,Sacramento Kings,2,31-41,7,three point jumper,True,27,False,True
+2013-03-17,20.0,Los Angeles Lakers,Sacramento Kings,2,44-51,5,two point jumper,True,19,True,True
+2013-03-17,20.8333333333,Los Angeles Lakers,Sacramento Kings,2,47-51,3,free throw,True,15,False,True
+2013-03-17,20.8333333333,Los Angeles Lakers,Sacramento Kings,2,47-52,4,free throw,True,15,True,True
+2013-03-17,22.1333333333,Los Angeles Lakers,Sacramento Kings,2,52-54,-1,three point jumper,True,25,False,True
+2013-03-17,27.25,Los Angeles Lakers,Sacramento Kings,3,64-63,-3,two point jumper,True,19,False,True
+2013-03-17,37.3666666667,Los Angeles Lakers,Sacramento Kings,4,78-89,10,free throw,True,15,True,True
+2013-03-17,37.3666666667,Los Angeles Lakers,Sacramento Kings,4,78-90,11,free throw,True,15,True,True
+2013-03-18,1.65,Los Angeles Lakers,Phoenix Suns,1,2-6,-7,three point jumper,False,26,False,False
+2013-03-18,15.75,Los Angeles Lakers,Phoenix Suns,2,31-30,-1,two point jumper,False,19,True,False
+2013-03-18,31.3166666667,Los Angeles Lakers,Phoenix Suns,3,58-65,-9,two point jumper,False,22,False,False
+2013-03-18,35.6166666667,Los Angeles Lakers,Phoenix Suns,3,66-71,-6,free throw,False,15,False,False
+2013-03-18,35.6166666667,Los Angeles Lakers,Phoenix Suns,3,66-71,-6,free throw,False,15,False,False
+2013-03-18,39.0,Los Angeles Lakers,Phoenix Suns,4,68-76,-10,two point jumper,False,18,True,False
+2013-03-22,17.0333333333,Los Angeles Lakers,Washington Wizards,2,25-40,13,two point shot,True,1,True,False
+2013-03-22,17.7,Los Angeles Lakers,Washington Wizards,2,25-43,15,three point jumper,True,26,True,False
+2013-03-22,19.1333333333,Los Angeles Lakers,Washington Wizards,2,31-47,14,two point jumper,True,22,False,False
+2013-03-22,20.1666666667,Los Angeles Lakers,Washington Wizards,2,33-47,11,three point jumper,True,25,False,False
+2013-03-22,21.3166666667,Los Angeles Lakers,Washington Wizards,2,36-52,14,two point jumper,True,20,False,False
+2013-03-27,8.75,Los Angeles Lakers,Minnesota Timberwolves,1,19-19,-3,three point jumper,False,25,False,True
+2013-03-27,9.66666666667,Los Angeles Lakers,Minnesota Timberwolves,1,19-19,-2,layup,False,0,False,True
+2013-03-27,13.5,Los Angeles Lakers,Minnesota Timberwolves,2,26-27,-3,two point jumper,False,20,False,True
+2013-03-28,7.31666666667,Los Angeles Lakers,Milwaukee Bucks,1,14-16,-4,two point jumper,False,1,False,False
+2013-03-28,36.8833333333,Los Angeles Lakers,Milwaukee Bucks,4,79-82,-5,two point jumper,False,1,False,False
+2013-03-28,38.2,Los Angeles Lakers,Milwaukee Bucks,4,83-82,-1,two point jumper,False,21,False,False
+2013-03-30,9.0,Los Angeles Lakers,Sacramento Kings,1,25-30,-7,two point jumper,False,23,True,False
+2013-03-30,13.8,Los Angeles Lakers,Sacramento Kings,2,32-39,-10,three point jumper,False,24,True,False
+2013-03-30,34.8333333333,Los Angeles Lakers,Sacramento Kings,3,79-75,1,three point jumper,False,23,False,False
+2013-03-30,35.6166666667,Los Angeles Lakers,Sacramento Kings,3,79-75,2,two point jumper,False,17,False,False
+2013-03-30,36.95,Los Angeles Lakers,Sacramento Kings,4,82-78,1,three point jumper,False,24,False,False
+2013-03-30,37.7166666667,Los Angeles Lakers,Sacramento Kings,4,84-81,0,three point jumper,False,25,False,False
+2013-03-30,37.8333333333,Los Angeles Lakers,Sacramento Kings,4,86-81,3,dunk,False,0,True,False
+2013-04-02,9.1,Los Angeles Lakers,Dallas Mavericks,1,16-21,3,two point shot,True,1,True,False
+2013-04-02,9.86666666667,Los Angeles Lakers,Dallas Mavericks,1,16-24,5,three point jumper,True,24,True,False
+2013-04-02,13.9333333333,Los Angeles Lakers,Dallas Mavericks,2,27-31,2,two point jumper,True,19,True,False
+2013-04-02,14.8166666667,Los Angeles Lakers,Dallas Mavericks,2,29-31,-1,three point jumper,True,23,False,False
+2013-04-02,18.1,Los Angeles Lakers,Dallas Mavericks,2,31-38,5,two point shot,True,5,False,False
+2013-04-02,18.2,Los Angeles Lakers,Dallas Mavericks,2,31-40,7,two point jumper,True,18,True,False
+2013-04-02,20.55,Los Angeles Lakers,Dallas Mavericks,2,33-46,10,three point jumper,True,25,True,False
+2013-04-02,30.5666666667,Los Angeles Lakers,Dallas Mavericks,3,51-63,10,two point jumper,True,17,False,False
+2013-04-02,32.7666666667,Los Angeles Lakers,Dallas Mavericks,3,55-63,6,two point jumper,True,19,False,False
+2013-04-02,33.2166666667,Los Angeles Lakers,Dallas Mavericks,3,58-65,5,layup,True,0,True,False
+2013-04-02,33.2166666667,Los Angeles Lakers,Dallas Mavericks,3,58-65,6,free throw,True,15,False,False
+2013-04-02,33.4333333333,Los Angeles Lakers,Dallas Mavericks,3,58-68,7,three point jumper,True,24,True,False
+2013-04-02,47.5833333333,Los Angeles Lakers,Dallas Mavericks,4,81-101,17,three point jumper,True,25,False,False
+2013-04-05,7.1,Los Angeles Lakers,Memphis Grizzlies,1,12-16,2,two point shot,True,4,True,True
+2013-04-05,7.6,Los Angeles Lakers,Memphis Grizzlies,1,13-19,3,three point jumper,True,27,True,True
+2013-04-05,8.3,Los Angeles Lakers,Memphis Grizzlies,1,13-21,6,two point shot,True,2,True,True
+2013-04-05,16.0666666667,Los Angeles Lakers,Memphis Grizzlies,2,22-33,8,three point jumper,True,26,False,True
+2013-04-05,17.25,Los Angeles Lakers,Memphis Grizzlies,2,22-33,9,two point jumper,True,16,False,True
+2013-04-05,34.1833333333,Los Angeles Lakers,Memphis Grizzlies,3,58-63,3,two point shot,True,12,True,True
+2013-04-05,39.45,Los Angeles Lakers,Memphis Grizzlies,4,68-72,2,two point jumper,True,21,True,True
+2013-04-05,40.5,Los Angeles Lakers,Memphis Grizzlies,4,71-75,3,free throw,True,15,True,True
+2013-04-05,40.5,Los Angeles Lakers,Memphis Grizzlies,4,71-76,4,free throw,True,15,True,True
+2013-04-05,44.7166666667,Los Angeles Lakers,Memphis Grizzlies,4,82-83,-2,three point jumper,True,26,False,True
+2013-04-09,1.4,Los Angeles Lakers,New Orleans Pelicans,1,4-2,-5,three point jumper,True,24,False,False
+2013-04-09,14.3166666667,Los Angeles Lakers,New Orleans Pelicans,2,27-30,1,two point jumper,True,20,False,False
+2013-04-09,41.45,Los Angeles Lakers,New Orleans Pelicans,4,82-82,-3,three point jumper,True,25,False,False
+2013-04-10,25.5666666667,Los Angeles Lakers,Portland Trail Blazers,3,69-69,-3,three point jumper,False,26,True,True
+2013-04-10,37.3833333333,Los Angeles Lakers,Portland Trail Blazers,4,90-90,-3,three point jumper,False,23,False,True
+2013-04-10,47.0666666667,Los Angeles Lakers,Portland Trail Blazers,4,108-104,1,three point jumper,False,26,False,True
+2013-04-14,12.5666666667,Los Angeles Lakers,San Antonio Spurs,2,23-22,-4,three point jumper,True,26,False,True
+2013-04-14,31.7,Los Angeles Lakers,San Antonio Spurs,3,53-54,0,free throw,True,15,True,True
+2013-04-14,31.7,Los Angeles Lakers,San Antonio Spurs,3,53-55,1,free throw,True,15,True,True
+2013-04-14,33.25,Los Angeles Lakers,San Antonio Spurs,3,55-55,-2,two point jumper,True,21,False,True
+2013-04-17,11.6666666667,Los Angeles Lakers,Houston Rockets,1,24-21,-6,three point jumper,True,25,False,True

@@ -1,0 +1,65 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2012-01-16,13.45,Los Angeles Clippers,Brooklyn Nets,2,21-32,8,three point jumper,True,27,False,False
+2012-01-16,14.5666666667,Los Angeles Clippers,Brooklyn Nets,2,23-34,9,two point jumper,True,21,False,False
+2012-01-16,14.75,Los Angeles Clippers,Brooklyn Nets,2,23-34,9,layup,True,0,False,False
+2012-01-16,16.3166666667,Los Angeles Clippers,Brooklyn Nets,2,25-38,11,layup,True,0,True,False
+2012-01-16,35.5833333333,Los Angeles Clippers,Brooklyn Nets,3,61-74,11,two point jumper,True,21,False,False
+2012-01-22,45.2333333333,Los Angeles Clippers,Toronto Raptors,4,82-100,16,two point jumper,True,18,False,False
+2012-01-22,45.9333333333,Los Angeles Clippers,Toronto Raptors,4,84-100,15,free throw,True,15,False,False
+2012-01-22,45.9333333333,Los Angeles Clippers,Toronto Raptors,4,84-101,16,free throw,True,15,True,False
+2012-01-22,47.5833333333,Los Angeles Clippers,Toronto Raptors,4,91-103,10,layup,True,0,True,False
+2012-12-28,46.5,Los Angeles Clippers,San Antonio Spurs,4,88-113,-27,two point jumper,False,17,False,True
+2012-12-30,37.5166666667,Los Angeles Clippers,Chicago Bulls,4,85-79,-9,three point jumper,True,26,False,False
+2012-12-30,38.55,Los Angeles Clippers,Chicago Bulls,4,87-84,-6,three point jumper,True,24,True,False
+2012-12-30,39.6166666667,Los Angeles Clippers,Chicago Bulls,4,90-84,-8,layup,True,0,False,False
+2012-01-01,35.4333333333,Los Angeles Clippers,Portland Trail Blazers,3,52-66,12,two point jumper,True,13,True,True
+2012-01-04,15.0833333333,Los Angeles Clippers,Houston Rockets,2,34-45,9,dunk,True,0,True,False
+2012-01-04,15.65,Los Angeles Clippers,Houston Rockets,2,34-47,11,two point jumper,True,4,True,False
+2012-01-04,41.6,Los Angeles Clippers,Houston Rockets,4,81-107,24,layup,True,0,True,False
+2012-01-04,42.0333333333,Los Angeles Clippers,Houston Rockets,4,81-109,26,tip shot,True,0,True,False
+2012-01-04,42.4166666667,Los Angeles Clippers,Houston Rockets,4,81-109,26,two point jumper,True,17,False,False
+2012-01-04,43.6333333333,Los Angeles Clippers,Houston Rockets,4,83-111,25,three point jumper,True,27,False,False
+2012-01-04,44.75,Los Angeles Clippers,Houston Rockets,4,88-111,20,three point jumper,True,26,False,False
+2012-01-04,45.7166666667,Los Angeles Clippers,Houston Rockets,4,88-113,23,two point jumper,True,17,False,False
+2012-01-04,47.55,Los Angeles Clippers,Houston Rockets,4,89-116,25,two point jumper,True,18,False,False
+2012-01-17,11.9833333333,Los Angeles Clippers,Utah Jazz,1,17-29,-15,three point jumper,False,25,False,True
+2012-01-17,13.95,Los Angeles Clippers,Utah Jazz,2,23-31,-10,two point jumper,False,5,True,True
+2012-01-17,35.45,Los Angeles Clippers,Utah Jazz,3,58-78,-22,two point jumper,False,7,False,True
+2012-01-17,36.0,Los Angeles Clippers,Utah Jazz,3,59-78,-21,two point jumper,False,18,False,True
+2012-01-17,39.8166666667,Los Angeles Clippers,Utah Jazz,4,65-87,-24,two point jumper,False,5,False,True
+2012-01-17,40.0,Los Angeles Clippers,Utah Jazz,4,65-87,-24,two point jumper,False,11,False,True
+2012-01-17,41.9833333333,Los Angeles Clippers,Utah Jazz,4,68-95,-28,free throw,False,15,False,True
+2012-01-17,41.9833333333,Los Angeles Clippers,Utah Jazz,4,69-95,-27,free throw,False,15,True,True
+2012-01-17,43.4833333333,Los Angeles Clippers,Utah Jazz,4,69-101,-35,three point jumper,False,24,False,True
+2012-01-17,43.8833333333,Los Angeles Clippers,Utah Jazz,4,71-103,-34,dunk,False,0,True,True
+2012-01-17,45.85,Los Angeles Clippers,Utah Jazz,4,75-107,-34,two point jumper,False,19,False,True
+2012-01-17,47.25,Los Angeles Clippers,Utah Jazz,4,76-108,-33,free throw,False,15,True,True
+2012-01-17,47.25,Los Angeles Clippers,Utah Jazz,4,77-108,-32,free throw,False,15,True,True
+2012-02-02,39.75,Los Angeles Clippers,Denver Nuggets,4,93-70,-25,two point shot,True,3,True,True
+2012-02-02,44.4666666667,Los Angeles Clippers,Denver Nuggets,4,106-82,-27,three point jumper,True,27,False,True
+2012-02-02,44.55,Los Angeles Clippers,Denver Nuggets,4,106-84,-24,layup,True,0,True,True
+2012-02-02,47.8,Los Angeles Clippers,Denver Nuggets,4,112-91,-23,two point jumper,True,22,False,True
+2012-02-04,38.45,Los Angeles Clippers,Washington Wizards,4,89-58,29,two point jumper,False,1,False,False
+2012-02-04,38.8833333333,Los Angeles Clippers,Washington Wizards,4,89-58,28,three point jumper,False,24,False,False
+2012-02-04,43.9833333333,Los Angeles Clippers,Washington Wizards,4,100-68,30,dunk,False,0,True,False
+2012-02-11,43.1333333333,Los Angeles Clippers,Charlotte Bobcats,4,96-72,22,two point shot,False,1,True,False
+2012-02-11,45.5833333333,Los Angeles Clippers,Charlotte Bobcats,4,105-79,24,layup,False,0,True,False
+2012-02-11,45.5833333333,Los Angeles Clippers,Charlotte Bobcats,4,106-79,26,free throw,False,15,True,False
+2012-02-11,46.1333333333,Los Angeles Clippers,Charlotte Bobcats,4,106-80,24,layup,False,0,False,False
+2012-02-11,47.0666666667,Los Angeles Clippers,Charlotte Bobcats,4,111-83,25,three point jumper,False,24,True,False
+2012-03-01,47.2166666667,Los Angeles Clippers,Sacramento Kings,4,108-95,11,two point jumper,False,23,False,True
+2012-03-20,46.9333333333,Los Angeles Clippers,Indiana Pacers,4,87-102,-17,two point jumper,False,18,True,True
+2012-03-20,47.5,Los Angeles Clippers,Indiana Pacers,4,89-102,-15,layup,False,0,True,True
+2012-03-21,43.4166666667,Los Angeles Clippers,Oklahoma City Thunder,4,85-104,-21,two point jumper,False,18,False,True
+2012-03-21,47.05,Los Angeles Clippers,Oklahoma City Thunder,4,90-112,-24,two point shot,False,13,True,True
+2012-03-26,47.3166666667,Los Angeles Clippers,New Orleans Pelicans,4,82-95,11,two point jumper,True,18,False,True
+2012-03-26,47.8833333333,Los Angeles Clippers,New Orleans Pelicans,4,84-97,11,two point jumper,True,17,True,True
+2012-03-28,47.3166666667,Los Angeles Clippers,Phoenix Suns,4,83-103,17,three point jumper,True,26,True,False
+2012-04-02,45.75,Los Angeles Clippers,Dallas Mavericks,4,89-70,17,two point jumper,False,18,True,True
+2012-04-02,46.3833333333,Los Angeles Clippers,Dallas Mavericks,4,91-72,17,two point jumper,False,21,True,True
+2012-04-07,45.4833333333,Los Angeles Clippers,Sacramento Kings,4,87-109,20,two point jumper,True,15,False,False
+2012-04-07,46.6,Los Angeles Clippers,Sacramento Kings,4,89-109,17,three point jumper,True,26,False,False
+2012-04-07,47.6166666667,Los Angeles Clippers,Sacramento Kings,4,94-109,13,two point jumper,True,9,False,False
+2012-04-12,46.9666666667,Los Angeles Clippers,Minnesota Timberwolves,4,95-76,17,two point jumper,False,1,False,True
+2012-04-16,47.4333333333,Los Angeles Clippers,Oklahoma City Thunder,4,77-92,13,two point jumper,True,22,False,True
+2012-04-24,47.9333333333,Los Angeles Clippers,Atlanta Hawks,4,102-109,-10,three point jumper,False,25,True,False
