@@ -1,0 +1,440 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-16,1.81666666667,Los Angeles Clippers,Brooklyn Nets,1,7-5,-4,two point shot,True,3,True,True
+2014-11-16,2.8,Los Angeles Clippers,Brooklyn Nets,1,7-10,0,three point jumper,True,24,True,True
+2014-11-16,3.7,Los Angeles Clippers,Brooklyn Nets,1,9-13,1,three point jumper,True,25,True,True
+2014-11-16,4.35,Los Angeles Clippers,Brooklyn Nets,1,12-13,-1,two point jumper,True,1,False,True
+2014-11-16,4.88333333333,Los Angeles Clippers,Brooklyn Nets,1,12-13,-1,layup,True,0,False,True
+2014-11-16,6.48333333333,Los Angeles Clippers,Brooklyn Nets,1,12-19,5,two point jumper,True,14,True,True
+2014-11-16,20.7833333333,Los Angeles Clippers,Brooklyn Nets,2,51-42,-11,two point jumper,True,11,False,True
+2014-11-16,21.8,Los Angeles Clippers,Brooklyn Nets,2,54-46,-10,two point shot,True,1,True,True
+2014-11-16,24.5833333333,Los Angeles Clippers,Brooklyn Nets,3,55-54,-4,three point jumper,True,24,False,True
+2014-11-16,27.5666666667,Los Angeles Clippers,Brooklyn Nets,3,65-54,-14,three point jumper,True,24,False,True
+2014-11-16,30.0333333333,Los Angeles Clippers,Brooklyn Nets,3,67-59,-11,three point jumper,True,25,True,True
+2014-11-16,31.2,Los Angeles Clippers,Brooklyn Nets,3,67-64,-5,two point jumper,True,19,True,True
+2014-11-16,32.7666666667,Los Angeles Clippers,Brooklyn Nets,3,67-70,0,three point jumper,True,24,True,True
+2014-11-16,34.1833333333,Los Angeles Clippers,Brooklyn Nets,3,67-73,5,free throw,True,15,True,True
+2014-11-16,34.1833333333,Los Angeles Clippers,Brooklyn Nets,3,67-74,6,free throw,True,15,True,True
+2014-11-16,44.5833333333,Los Angeles Clippers,Brooklyn Nets,4,92-96,1,three point jumper,True,24,True,True
+2014-11-16,47.7833333333,Los Angeles Clippers,Brooklyn Nets,4,103-106,2,free throw,True,15,False,True
+2014-11-16,47.7833333333,Los Angeles Clippers,Brooklyn Nets,4,103-107,3,free throw,True,15,True,True
+2014-11-27,2.76666666667,Los Angeles Clippers,New York Knicks,1,8-4,-6,two point jumper,True,22,False,True
+2014-11-27,3.56666666667,Los Angeles Clippers,New York Knicks,1,8-6,-4,layup,True,0,True,True
+2014-11-27,6.13333333333,Los Angeles Clippers,New York Knicks,1,19-13,-9,three point jumper,True,26,True,True
+2014-11-27,6.95,Los Angeles Clippers,New York Knicks,1,21-14,-8,free throw,True,15,True,True
+2014-11-27,6.95,Los Angeles Clippers,New York Knicks,1,21-15,-7,free throw,True,15,True,True
+2014-11-27,18.7333333333,Los Angeles Clippers,New York Knicks,2,36-40,1,three point jumper,True,25,False,True
+2014-11-27,24.1833333333,Los Angeles Clippers,New York Knicks,3,45-52,4,three point jumper,True,23,True,True
+2014-11-27,25.7,Los Angeles Clippers,New York Knicks,3,45-54,6,three point jumper,True,24,False,True
+2014-11-27,28.0,Los Angeles Clippers,New York Knicks,3,53-59,3,three point jumper,True,23,True,True
+2014-11-27,30.6,Los Angeles Clippers,New York Knicks,3,61-63,-1,three point jumper,True,26,False,True
+2014-11-27,31.6333333333,Los Angeles Clippers,New York Knicks,3,61-65,1,three point jumper,True,25,False,True
+2014-11-27,31.7333333333,Los Angeles Clippers,New York Knicks,3,61-67,4,layup,True,0,True,True
+2014-01-17,1.06666666667,Los Angeles Clippers,New York Knicks,1,0-2,-4,two point jumper,False,18,False,False
+2014-01-17,3.2,Los Angeles Clippers,New York Knicks,1,7-8,-4,three point jumper,False,23,True,False
+2014-01-17,3.81666666667,Los Angeles Clippers,New York Knicks,1,9-8,-1,two point shot,False,1,True,False
+2014-01-17,5.63333333333,Los Angeles Clippers,New York Knicks,1,9-15,-8,two point jumper,False,9,False,False
+2014-01-17,8.45,Los Angeles Clippers,New York Knicks,1,13-17,-7,three point jumper,False,23,False,False
+2014-01-17,15.0666666667,Los Angeles Clippers,New York Knicks,2,26-33,-8,free throw,False,15,True,False
+2014-01-17,15.0666666667,Los Angeles Clippers,New York Knicks,2,27-33,-7,free throw,False,15,True,False
+2014-01-17,15.0666666667,Los Angeles Clippers,New York Knicks,2,28-33,-6,free throw,False,15,True,False
+2014-01-17,21.2333333333,Los Angeles Clippers,New York Knicks,2,46-44,-1,three point jumper,False,25,False,False
+2014-01-17,23.5,Los Angeles Clippers,New York Knicks,2,50-48,-1,three point jumper,False,26,False,False
+2014-01-17,24.2,Los Angeles Clippers,New York Knicks,3,52-50,0,two point jumper,False,16,True,False
+2014-01-17,24.6833333333,Los Angeles Clippers,New York Knicks,3,52-50,-1,three point jumper,False,25,False,False
+2014-01-17,26.95,Los Angeles Clippers,New York Knicks,3,55-50,4,free throw,False,15,True,False
+2014-01-17,26.95,Los Angeles Clippers,New York Knicks,3,56-50,5,free throw,False,15,True,False
+2014-01-17,29.7833333333,Los Angeles Clippers,New York Knicks,3,58-58,-2,layup,False,0,False,False
+2014-01-17,37.0666666667,Los Angeles Clippers,New York Knicks,4,78-70,5,three point jumper,False,23,False,False
+2014-01-25,1.4,Los Angeles Clippers,Toronto Raptors,1,4-5,-3,two point shot,False,21,True,True
+2014-01-25,2.11666666667,Los Angeles Clippers,Toronto Raptors,1,4-5,-3,two point jumper,False,1,False,True
+2014-01-25,25.1833333333,Los Angeles Clippers,Toronto Raptors,3,74-65,7,two point jumper,False,11,False,True
+2014-01-25,26.45,Los Angeles Clippers,Toronto Raptors,3,77-68,7,two point jumper,False,19,False,True
+2014-01-25,28.2,Los Angeles Clippers,Toronto Raptors,3,77-70,4,three point jumper,False,26,False,True
+2014-01-25,28.5666666667,Los Angeles Clippers,Toronto Raptors,3,77-71,4,two point jumper,False,22,False,True
+2014-01-25,31.0333333333,Los Angeles Clippers,Toronto Raptors,3,81-80,-1,two point shot,False,20,True,True
+2014-01-25,31.5333333333,Los Angeles Clippers,Toronto Raptors,3,83-80,1,layup,False,0,True,True
+2014-01-25,32.15,Los Angeles Clippers,Toronto Raptors,3,84-82,1,free throw,False,15,True,True
+2014-01-25,32.15,Los Angeles Clippers,Toronto Raptors,3,85-82,2,free throw,False,15,True,True
+2014-01-25,34.1,Los Angeles Clippers,Toronto Raptors,3,87-86,-1,unknown,False,18,False,True
+2014-01-25,41.6333333333,Los Angeles Clippers,Toronto Raptors,4,109-107,-1,three point jumper,False,24,True,True
+2014-01-25,42.85,Los Angeles Clippers,Toronto Raptors,4,113-107,4,two point jumper,False,20,True,True
+2014-01-25,45.3666666667,Los Angeles Clippers,Toronto Raptors,4,119-110,7,two point shot,False,1,True,True
+2014-01-25,47.0666666667,Los Angeles Clippers,Toronto Raptors,4,124-113,8,three point jumper,False,25,True,True
+2014-10-31,0.566666666667,Los Angeles Clippers,Golden State Warriors,1,0-2,-1,three point jumper,True,24,False,True
+2014-10-31,1.75,Los Angeles Clippers,Golden State Warriors,1,4-5,0,free throw,True,15,True,True
+2014-10-31,1.75,Los Angeles Clippers,Golden State Warriors,1,4-6,1,free throw,True,15,True,True
+2014-10-31,2.45,Los Angeles Clippers,Golden State Warriors,1,6-6,-3,three point jumper,True,25,False,True
+2014-10-31,3.5,Los Angeles Clippers,Golden State Warriors,1,11-9,-5,three point jumper,True,24,True,True
+2014-10-31,4.35,Los Angeles Clippers,Golden State Warriors,1,13-11,-4,layup,True,0,True,True
+2014-10-31,21.9166666667,Los Angeles Clippers,Golden State Warriors,2,47-63,13,three point jumper,True,26,True,True
+2014-10-31,22.2833333333,Los Angeles Clippers,Golden State Warriors,2,47-65,16,two point jumper,True,21,True,True
+2014-10-31,22.9,Los Angeles Clippers,Golden State Warriors,2,49-65,13,three point jumper,True,23,False,True
+2014-10-31,25.95,Los Angeles Clippers,Golden State Warriors,3,60-70,8,layup,True,0,False,True
+2014-10-31,28.0,Los Angeles Clippers,Golden State Warriors,3,65-74,7,two point jumper,True,18,False,True
+2014-10-31,44.8166666667,Los Angeles Clippers,Golden State Warriors,4,107-120,10,three point jumper,True,25,True,True
+2014-10-31,46.1333333333,Los Angeles Clippers,Golden State Warriors,4,113-122,6,three point jumper,True,24,False,True
+2014-10-31,47.1833333333,Los Angeles Clippers,Golden State Warriors,4,115-125,9,free throw,True,15,True,True
+2014-10-31,47.1833333333,Los Angeles Clippers,Golden State Warriors,4,115-126,10,free throw,True,15,True,True
+2014-01-30,1.55,Los Angeles Clippers,Golden State Warriors,1,2-2,-2,two point shot,False,26,False,True
+2014-01-30,6.56666666667,Los Angeles Clippers,Golden State Warriors,1,11-19,-11,three point jumper,False,23,True,True
+2014-01-30,19.75,Los Angeles Clippers,Golden State Warriors,2,43-56,-16,three point jumper,False,24,True,True
+2014-01-30,22.75,Los Angeles Clippers,Golden State Warriors,2,55-62,-10,three point jumper,False,26,True,True
+2014-01-30,24.3,Los Angeles Clippers,Golden State Warriors,3,56-64,-10,two point jumper,False,1,False,True
+2014-01-30,24.8666666667,Los Angeles Clippers,Golden State Warriors,3,56-66,-12,two point jumper,False,20,False,True
+2014-01-30,26.7,Los Angeles Clippers,Golden State Warriors,3,56-69,-15,two point shot,False,26,False,True
+2014-01-30,29.2833333333,Los Angeles Clippers,Golden State Warriors,3,58-76,-20,two point jumper,False,22,False,True
+2014-01-30,30.3833333333,Los Angeles Clippers,Golden State Warriors,3,61-80,-22,three point jumper,False,26,True,True
+2014-01-30,32.5166666667,Los Angeles Clippers,Golden State Warriors,3,64-84,-22,layup,False,0,False,True
+2014-01-30,33.9166666667,Los Angeles Clippers,Golden State Warriors,3,64-86,-24,two point shot,False,6,False,True
+2014-10-29,0.633333333333,Los Angeles Clippers,Los Angeles Lakers,1,3-2,-2,three point jumper,False,26,True,False
+2014-10-29,2.05,Los Angeles Clippers,Los Angeles Lakers,1,5-4,-1,two point jumper,False,16,True,False
+2014-10-29,3.0,Los Angeles Clippers,Los Angeles Lakers,1,7-4,1,two point jumper,False,17,False,False
+2014-10-29,4.5,Los Angeles Clippers,Los Angeles Lakers,1,14-8,3,three point jumper,False,26,True,False
+2014-10-29,5.56666666667,Los Angeles Clippers,Los Angeles Lakers,1,16-13,1,two point jumper,False,21,True,False
+2014-10-29,8.76666666667,Los Angeles Clippers,Los Angeles Lakers,1,20-17,1,two point jumper,False,17,True,False
+2014-10-29,9.46666666667,Los Angeles Clippers,Los Angeles Lakers,1,20-18,0,two point shot,False,5,False,False
+2014-10-29,21.4833333333,Los Angeles Clippers,Los Angeles Lakers,2,49-50,-2,free throw,False,15,True,False
+2014-10-29,22.35,Los Angeles Clippers,Los Angeles Lakers,2,51-52,-4,three point jumper,False,27,False,False
+2014-10-29,30.1666666667,Los Angeles Clippers,Los Angeles Lakers,3,65-66,-3,two point jumper,False,16,False,False
+2014-10-29,42.8833333333,Los Angeles Clippers,Los Angeles Lakers,4,89-100,-13,two point jumper,False,4,False,False
+2014-10-29,44.8333333333,Los Angeles Clippers,Los Angeles Lakers,4,91-106,-18,three point jumper,False,23,False,False
+2014-10-29,45.75,Los Angeles Clippers,Los Angeles Lakers,4,93-108,-18,three point jumper,False,26,False,False
+2014-11-01,0.633333333333,Los Angeles Clippers,Sacramento Kings,1,2-2,-2,two point jumper,False,19,True,True
+2014-11-01,2.13333333333,Los Angeles Clippers,Sacramento Kings,1,5-2,2,free throw,False,15,True,True
+2014-11-01,2.7,Los Angeles Clippers,Sacramento Kings,1,5-2,0,three point jumper,False,25,False,True
+2014-11-01,5.75,Los Angeles Clippers,Sacramento Kings,1,11-13,-4,two point shot,False,9,True,True
+2014-11-01,6.81666666667,Los Angeles Clippers,Sacramento Kings,1,17-13,1,three point jumper,False,24,True,True
+2014-11-01,7.85,Los Angeles Clippers,Sacramento Kings,1,19-13,3,three point jumper,False,25,False,True
+2014-11-01,19.2,Los Angeles Clippers,Sacramento Kings,2,41-36,2,three point jumper,False,24,False,True
+2014-11-01,22.6166666667,Los Angeles Clippers,Sacramento Kings,2,48-42,4,two point jumper,False,19,True,True
+2014-11-01,25.6333333333,Los Angeles Clippers,Sacramento Kings,3,61-47,12,two point jumper,False,21,True,True
+2014-11-01,45.2166666667,Los Angeles Clippers,Sacramento Kings,4,100-97,2,free throw,False,15,True,True
+2014-11-04,0.25,Los Angeles Clippers,Houston Rockets,1,0-2,0,two point jumper,True,16,True,True
+2014-11-04,0.816666666667,Los Angeles Clippers,Houston Rockets,1,0-4,2,two point jumper,True,16,True,True
+2014-11-04,1.65,Los Angeles Clippers,Houston Rockets,1,2-7,3,two point jumper,True,18,True,True
+2014-11-04,2.76666666667,Los Angeles Clippers,Houston Rockets,1,4-9,3,two point jumper,True,1,False,True
+2014-11-04,4.63333333333,Los Angeles Clippers,Houston Rockets,1,6-15,7,layup,True,0,True,True
+2014-11-04,5.6,Los Angeles Clippers,Houston Rockets,1,6-19,12,free throw,True,15,True,True
+2014-11-04,5.6,Los Angeles Clippers,Houston Rockets,1,6-20,13,free throw,True,15,True,True
+2014-11-04,8.71666666667,Los Angeles Clippers,Houston Rockets,1,16-28,9,three point jumper,True,24,False,True
+2014-11-04,8.8,Los Angeles Clippers,Houston Rockets,1,16-29,12,free throw,True,15,True,True
+2014-11-04,8.8,Los Angeles Clippers,Houston Rockets,1,16-30,13,free throw,True,15,True,True
+2014-11-04,9.31666666667,Los Angeles Clippers,Houston Rockets,1,19-33,11,three point jumper,True,24,True,True
+2014-11-04,18.9166666667,Los Angeles Clippers,Houston Rockets,2,49-64,12,three point jumper,True,25,False,True
+2014-11-04,21.25,Los Angeles Clippers,Houston Rockets,2,57-72,13,two point jumper,True,3,True,True
+2014-11-04,21.55,Los Angeles Clippers,Houston Rockets,2,57-73,15,free throw,True,15,True,True
+2014-11-04,21.55,Los Angeles Clippers,Houston Rockets,2,57-74,16,free throw,True,15,True,True
+2014-11-04,24.5666666667,Los Angeles Clippers,Houston Rockets,3,68-79,10,free throw,True,15,True,True
+2014-11-04,25.5666666667,Los Angeles Clippers,Houston Rockets,3,70-82,9,three point jumper,True,25,True,True
+2014-11-04,26.1333333333,Los Angeles Clippers,Houston Rockets,3,70-82,9,three point jumper,True,23,False,True
+2014-11-04,27.8,Los Angeles Clippers,Houston Rockets,3,74-85,9,two point jumper,True,19,False,True
+2014-11-04,27.9666666667,Los Angeles Clippers,Houston Rockets,3,74-85,8,three point jumper,True,25,False,True
+2014-11-04,29.6666666667,Los Angeles Clippers,Houston Rockets,3,80-91,9,layup,True,0,True,True
+2014-11-04,31.2833333333,Los Angeles Clippers,Houston Rockets,3,80-95,12,three point jumper,True,23,False,True
+2014-11-04,39.3833333333,Los Angeles Clippers,Houston Rockets,4,98-110,11,free throw,True,15,True,True
+2014-11-06,0.266666666667,Los Angeles Clippers,Orlando Magic,1,0-0,-2,two point jumper,False,16,False,False
+2014-11-06,1.7,Los Angeles Clippers,Orlando Magic,1,2-6,-6,two point shot,False,1,True,False
+2014-11-06,3.93333333333,Los Angeles Clippers,Orlando Magic,1,6-8,-4,two point jumper,False,19,True,False
+2014-11-06,5.31666666667,Los Angeles Clippers,Orlando Magic,1,10-14,-6,two point jumper,False,13,False,False
+2014-11-06,6.63333333333,Los Angeles Clippers,Orlando Magic,1,12-16,-7,three point jumper,False,24,False,False
+2014-11-06,19.0333333333,Los Angeles Clippers,Orlando Magic,2,34-46,-14,two point jumper,False,20,False,False
+2014-11-06,19.35,Los Angeles Clippers,Orlando Magic,2,34-46,-15,three point jumper,False,23,False,False
+2014-11-06,24.7,Los Angeles Clippers,Orlando Magic,3,42-59,-19,two point jumper,False,21,False,False
+2014-11-06,25.5833333333,Los Angeles Clippers,Orlando Magic,3,44-61,-19,two point jumper,False,20,True,False
+2014-11-06,26.2,Los Angeles Clippers,Orlando Magic,3,47-61,-17,three point jumper,False,23,True,False
+2014-11-06,27.15,Los Angeles Clippers,Orlando Magic,3,51-62,-13,layup,False,0,True,False
+2014-11-06,30.7,Los Angeles Clippers,Orlando Magic,3,62-65,-6,three point jumper,False,26,True,False
+2014-11-06,31.8166666667,Los Angeles Clippers,Orlando Magic,3,67-66,-1,two point jumper,False,1,True,False
+2014-11-06,43.7833333333,Los Angeles Clippers,Orlando Magic,4,87-86,0,free throw,False,15,True,False
+2014-11-06,45.0833333333,Los Angeles Clippers,Orlando Magic,4,87-86,-1,two point jumper,False,18,False,False
+2014-11-06,47.5666666667,Los Angeles Clippers,Orlando Magic,4,89-92,-6,three point jumper,False,26,False,False
+2014-11-07,1.2,Los Angeles Clippers,Miami Heat,1,3-0,2,free throw,False,15,True,True
+2014-11-07,1.2,Los Angeles Clippers,Miami Heat,1,4-0,3,free throw,False,15,True,True
+2014-11-07,1.56666666667,Los Angeles Clippers,Miami Heat,1,7-0,4,three point jumper,False,26,True,True
+2014-11-07,4.38333333333,Los Angeles Clippers,Miami Heat,1,14-9,3,two point shot,False,1,True,True
+2014-11-07,4.88333333333,Los Angeles Clippers,Miami Heat,1,14-11,0,three point jumper,False,24,False,True
+2014-11-07,6.73333333333,Los Angeles Clippers,Miami Heat,1,20-15,2,three point jumper,False,24,True,True
+2014-11-07,7.41666666667,Los Angeles Clippers,Miami Heat,1,20-17,1,two point jumper,False,20,False,True
+2014-11-07,18.7333333333,Los Angeles Clippers,Miami Heat,2,44-44,-3,three point jumper,False,22,False,True
+2014-11-07,19.7333333333,Los Angeles Clippers,Miami Heat,2,48-44,2,two point shot,False,1,True,True
+2014-11-07,20.4,Los Angeles Clippers,Miami Heat,2,48-44,3,free throw,False,15,False,True
+2014-11-07,20.4,Los Angeles Clippers,Miami Heat,2,49-44,4,free throw,False,15,True,True
+2014-11-07,26.6833333333,Los Angeles Clippers,Miami Heat,3,60-55,4,free throw,False,15,True,True
+2014-11-07,26.6833333333,Los Angeles Clippers,Miami Heat,3,61-55,5,free throw,False,15,True,True
+2014-11-07,36.9666666667,Los Angeles Clippers,Miami Heat,4,75-78,-5,layup,False,0,False,True
+2014-11-07,43.6666666667,Los Angeles Clippers,Miami Heat,4,87-95,-11,three point jumper,False,23,False,True
+2014-11-07,44.8,Los Angeles Clippers,Miami Heat,4,89-97,-10,two point jumper,False,11,False,True
+2014-11-09,0.3,Los Angeles Clippers,Houston Rockets,1,2-0,0,two point shot,False,1,True,False
+2014-11-09,1.55,Los Angeles Clippers,Houston Rockets,1,7-0,4,three point jumper,False,23,True,False
+2014-11-09,3.06666666667,Los Angeles Clippers,Houston Rockets,1,7-2,2,three point jumper,False,25,False,False
+2014-11-09,3.45,Los Angeles Clippers,Houston Rockets,1,10-4,3,three point jumper,False,25,True,False
+2014-11-09,7.2,Los Angeles Clippers,Houston Rockets,1,18-10,6,two point jumper,False,19,False,False
+2014-11-09,12.0,Los Angeles Clippers,Houston Rockets,1,22-26,-6,two point shot,False,27,False,False
+2014-11-09,17.0666666667,Los Angeles Clippers,Houston Rockets,2,31-39,-10,layup,False,0,True,False
+2014-11-09,17.8166666667,Los Angeles Clippers,Houston Rockets,2,34-39,-8,three point jumper,False,24,True,False
+2014-11-09,17.8166666667,Los Angeles Clippers,Houston Rockets,2,35-39,-5,free throw,False,15,True,False
+2014-11-09,18.95,Los Angeles Clippers,Houston Rockets,2,35-43,-11,three point jumper,False,26,False,False
+2014-11-09,21.95,Los Angeles Clippers,Houston Rockets,2,42-51,-11,two point jumper,False,21,True,False
+2014-11-09,25.3833333333,Los Angeles Clippers,Houston Rockets,3,51-55,-6,two point jumper,False,22,True,False
+2014-11-09,30.85,Los Angeles Clippers,Houston Rockets,3,60-69,-11,layup,False,0,False,False
+2014-11-09,31.2333333333,Los Angeles Clippers,Houston Rockets,3,60-71,-14,three point jumper,False,25,False,False
+2014-11-09,35.9833333333,Los Angeles Clippers,Houston Rockets,3,71-71,-2,two point jumper,False,18,False,False
+2014-11-09,36.3833333333,Los Angeles Clippers,Houston Rockets,4,75-71,2,two point shot,False,1,True,False
+2014-11-09,45.3,Los Angeles Clippers,Houston Rockets,4,98-90,7,free throw,False,15,True,False
+2014-11-09,45.3,Los Angeles Clippers,Houston Rockets,4,99-90,8,free throw,False,15,True,False
+2014-11-11,2.75,Los Angeles Clippers,Minnesota Timberwolves,1,4-6,-1,three point jumper,True,25,False,True
+2014-11-11,4.95,Los Angeles Clippers,Minnesota Timberwolves,1,9-10,-1,two point jumper,True,21,True,True
+2014-11-11,19.7,Los Angeles Clippers,Minnesota Timberwolves,2,41-49,5,three point jumper,True,25,True,True
+2014-11-11,22.1833333333,Los Angeles Clippers,Minnesota Timberwolves,2,49-57,6,two point jumper,True,11,True,True
+2014-11-11,22.65,Los Angeles Clippers,Minnesota Timberwolves,2,52-57,3,two point jumper,True,1,False,True
+2014-11-11,26.8833333333,Los Angeles Clippers,Minnesota Timberwolves,3,60-63,0,three point jumper,True,26,False,True
+2014-11-11,31.95,Los Angeles Clippers,Minnesota Timberwolves,3,71-73,-1,three point jumper,True,25,False,True
+2014-11-13,0.266666666667,Los Angeles Clippers,Oklahoma City Thunder,1,0-0,-2,two point jumper,True,1,False,True
+2014-11-13,1.93333333333,Los Angeles Clippers,Oklahoma City Thunder,1,0-4,2,two point jumper,True,12,False,True
+2014-11-13,6.2,Los Angeles Clippers,Oklahoma City Thunder,1,11-14,0,three point jumper,True,26,False,True
+2014-11-13,6.6,Los Angeles Clippers,Oklahoma City Thunder,1,13-14,-2,three point jumper,True,25,False,True
+2014-11-13,17.3833333333,Los Angeles Clippers,Oklahoma City Thunder,2,44-33,-13,two point jumper,True,13,False,True
+2014-11-13,18.5,Los Angeles Clippers,Oklahoma City Thunder,2,47-34,-14,free throw,True,15,True,True
+2014-11-13,19.2,Los Angeles Clippers,Oklahoma City Thunder,2,47-39,-11,three point jumper,True,26,True,True
+2014-11-13,19.7333333333,Los Angeles Clippers,Oklahoma City Thunder,2,49-41,-10,two point jumper,True,19,True,True
+2014-11-13,20.8166666667,Los Angeles Clippers,Oklahoma City Thunder,2,51-45,-8,layup,True,0,True,True
+2014-11-13,25.7666666667,Los Angeles Clippers,Oklahoma City Thunder,3,63-57,-8,layup,True,0,True,True
+2014-11-13,26.8833333333,Los Angeles Clippers,Oklahoma City Thunder,3,65-59,-8,two point jumper,True,19,False,True
+2014-11-13,28.9166666667,Los Angeles Clippers,Oklahoma City Thunder,3,69-61,-9,free throw,True,15,True,True
+2014-11-13,28.9166666667,Los Angeles Clippers,Oklahoma City Thunder,3,69-62,-8,free throw,True,15,True,True
+2014-11-13,29.3166666667,Los Angeles Clippers,Oklahoma City Thunder,3,69-65,-7,three point jumper,True,25,True,True
+2014-11-13,32.8,Los Angeles Clippers,Oklahoma City Thunder,3,73-74,-1,two point jumper,True,17,False,True
+2014-11-18,1.61666666667,Los Angeles Clippers,Memphis Grizzlies,1,0-0,-3,three point jumper,True,26,False,False
+2014-11-18,4.35,Los Angeles Clippers,Memphis Grizzlies,1,7-4,-6,three point jumper,True,25,False,False
+2014-11-18,5.23333333333,Los Angeles Clippers,Memphis Grizzlies,1,11-5,-7,free throw,True,15,True,False
+2014-11-18,5.23333333333,Los Angeles Clippers,Memphis Grizzlies,1,11-6,-6,free throw,True,15,True,False
+2014-11-18,20.35,Los Angeles Clippers,Memphis Grizzlies,2,42-41,-3,two point jumper,True,22,False,False
+2014-11-18,20.85,Los Angeles Clippers,Memphis Grizzlies,2,45-43,-4,two point shot,True,6,True,False
+2014-11-18,21.5833333333,Los Angeles Clippers,Memphis Grizzlies,2,47-45,-4,two point jumper,True,1,False,False
+2014-11-18,24.9,Los Angeles Clippers,Memphis Grizzlies,3,52-53,-2,three point jumper,True,24,False,False
+2014-11-18,26.05,Los Angeles Clippers,Memphis Grizzlies,3,56-54,-3,free throw,True,15,True,False
+2014-11-18,30.1333333333,Los Angeles Clippers,Memphis Grizzlies,3,67-66,-4,three point jumper,True,25,True,False
+2014-11-18,31.7333333333,Los Angeles Clippers,Memphis Grizzlies,3,72-71,-3,two point shot,True,1,True,False
+2014-11-18,32.9833333333,Los Angeles Clippers,Memphis Grizzlies,3,74-71,-6,three point jumper,True,26,False,False
+2014-11-18,42.8833333333,Los Angeles Clippers,Memphis Grizzlies,4,93-88,-7,two point jumper,True,12,False,False
+2014-11-18,46.8833333333,Los Angeles Clippers,Memphis Grizzlies,4,101-95,-8,two point shot,True,13,False,False
+2014-11-18,47.4666666667,Los Angeles Clippers,Memphis Grizzlies,4,101-96,-6,free throw,True,15,True,False
+2014-11-18,47.4666666667,Los Angeles Clippers,Memphis Grizzlies,4,101-97,-5,free throw,True,15,True,False
+2014-11-18,48.0,Los Angeles Clippers,Memphis Grizzlies,4,106-102,-7,three point jumper,True,42,False,False
+2014-11-20,1.06666666667,Los Angeles Clippers,Minnesota Timberwolves,1,0-0,-3,three point jumper,False,23,False,False
+2014-11-20,1.56666666667,Los Angeles Clippers,Minnesota Timberwolves,1,2-0,0,layup,False,0,True,False
+2014-11-20,1.93333333333,Los Angeles Clippers,Minnesota Timberwolves,1,5-0,2,three point jumper,False,23,True,False
+2014-11-20,3.36666666667,Los Angeles Clippers,Minnesota Timberwolves,1,12-0,9,three point jumper,False,23,True,False
+2014-11-20,4.13333333333,Los Angeles Clippers,Minnesota Timberwolves,1,12-2,7,three point jumper,False,25,False,False
+2014-11-20,5.23333333333,Los Angeles Clippers,Minnesota Timberwolves,1,16-4,10,two point shot,False,1,True,False
+2014-11-20,6.21666666667,Los Angeles Clippers,Minnesota Timberwolves,1,16-8,6,two point jumper,False,19,False,False
+2014-11-20,20.4666666667,Los Angeles Clippers,Minnesota Timberwolves,2,39-40,-3,two point jumper,False,1,False,False
+2014-11-20,21.75,Los Angeles Clippers,Minnesota Timberwolves,2,39-43,-6,two point jumper,False,17,False,False
+2014-11-20,24.0,Los Angeles Clippers,Minnesota Timberwolves,2,46-46,-3,three point jumper,False,26,False,False
+2014-11-20,25.3666666667,Los Angeles Clippers,Minnesota Timberwolves,3,48-50,-4,two point jumper,False,23,False,False
+2014-11-20,28.4833333333,Los Angeles Clippers,Minnesota Timberwolves,3,55-55,-2,two point jumper,False,21,False,False
+2014-11-20,34.1833333333,Los Angeles Clippers,Minnesota Timberwolves,3,71-61,8,layup,False,0,True,False
+2014-11-20,34.8833333333,Los Angeles Clippers,Minnesota Timberwolves,3,71-63,6,two point jumper,False,19,False,False
+2014-11-20,47.85,Los Angeles Clippers,Minnesota Timberwolves,4,100-96,3,free throw,False,15,True,False
+2014-11-20,47.85,Los Angeles Clippers,Minnesota Timberwolves,4,101-96,4,free throw,False,15,True,False
+2014-11-20,47.9166666667,Los Angeles Clippers,Minnesota Timberwolves,4,101-98,2,free throw,False,15,False,False
+2014-11-20,47.9166666667,Los Angeles Clippers,Minnesota Timberwolves,4,102-98,3,free throw,False,15,True,False
+2014-11-21,1.9,Los Angeles Clippers,Oklahoma City Thunder,1,1-2,-2,free throw,False,15,True,True
+2014-11-21,2.01666666667,Los Angeles Clippers,Oklahoma City Thunder,1,1-2,-3,two point jumper,False,18,False,True
+2014-11-21,3.43333333333,Los Angeles Clippers,Oklahoma City Thunder,1,1-6,-7,two point jumper,False,10,False,True
+2014-11-21,3.96666666667,Los Angeles Clippers,Oklahoma City Thunder,1,3-9,-8,two point jumper,False,17,True,True
+2014-11-21,17.45,Los Angeles Clippers,Oklahoma City Thunder,2,26-39,-15,two point shot,False,7,False,True
+2014-11-21,18.1333333333,Los Angeles Clippers,Oklahoma City Thunder,2,28-41,-16,three point jumper,False,24,False,True
+2014-11-21,19.6333333333,Los Angeles Clippers,Oklahoma City Thunder,2,32-42,-12,two point jumper,False,1,True,True
+2014-11-21,21.8666666667,Los Angeles Clippers,Oklahoma City Thunder,2,39-45,-9,three point jumper,False,23,False,True
+2014-11-21,22.3333333333,Los Angeles Clippers,Oklahoma City Thunder,2,39-45,-9,three point jumper,False,25,False,True
+2014-11-21,25.5,Los Angeles Clippers,Oklahoma City Thunder,3,48-56,-11,three point jumper,False,25,True,True
+2014-11-21,29.8833333333,Los Angeles Clippers,Oklahoma City Thunder,3,56-64,-11,three point jumper,False,25,False,True
+2014-11-21,43.5666666667,Los Angeles Clippers,Oklahoma City Thunder,4,84-95,-14,three point jumper,False,24,False,True
+2014-11-23,1.31666666667,Los Angeles Clippers,Sacramento Kings,1,0-0,-2,two point jumper,True,15,False,True
+2014-11-23,4.7,Los Angeles Clippers,Sacramento Kings,1,8-8,-3,three point jumper,True,25,True,True
+2014-11-23,18.35,Los Angeles Clippers,Sacramento Kings,2,34-44,8,two point jumper,True,5,False,True
+2014-11-23,18.6333333333,Los Angeles Clippers,Sacramento Kings,2,34-44,7,three point jumper,True,26,False,True
+2014-11-23,21.7333333333,Los Angeles Clippers,Sacramento Kings,2,42-53,9,layup,True,0,True,True
+2014-11-23,22.2166666667,Los Angeles Clippers,Sacramento Kings,2,44-55,9,two point jumper,True,19,True,True
+2014-11-23,26.2,Los Angeles Clippers,Sacramento Kings,3,54-64,8,two point jumper,True,19,True,True
+2014-11-23,26.95,Los Angeles Clippers,Sacramento Kings,3,54-64,7,three point jumper,True,23,False,True
+2014-11-23,28.2,Los Angeles Clippers,Sacramento Kings,3,58-64,4,layup,True,0,False,True
+2014-11-23,29.4833333333,Los Angeles Clippers,Sacramento Kings,3,62-66,2,two point jumper,True,21,False,True
+2014-11-23,39.9,Los Angeles Clippers,Sacramento Kings,4,79-78,-2,free throw,True,15,False,True
+2014-11-23,39.9,Los Angeles Clippers,Sacramento Kings,4,79-79,-1,free throw,True,15,True,True
+2014-11-23,41.3166666667,Los Angeles Clippers,Sacramento Kings,4,82-82,-2,two point jumper,True,19,True,True
+2014-11-23,42.3833333333,Los Angeles Clippers,Sacramento Kings,4,87-86,-2,free throw,True,15,True,True
+2014-11-23,42.3833333333,Los Angeles Clippers,Sacramento Kings,4,87-87,-1,free throw,True,15,True,True
+2014-11-23,45.2833333333,Los Angeles Clippers,Sacramento Kings,4,94-90,-5,free throw,True,15,True,True
+2014-11-24,0.25,Los Angeles Clippers,Chicago Bulls,1,0-0,-2,two point jumper,True,20,False,False
+2014-11-24,3.7,Los Angeles Clippers,Chicago Bulls,1,6-12,3,three point jumper,True,26,True,False
+2014-11-24,4.56666666667,Los Angeles Clippers,Chicago Bulls,1,8-16,6,two point shot,True,13,True,False
+2014-11-24,5.91666666667,Los Angeles Clippers,Chicago Bulls,1,13-16,0,three point jumper,True,26,False,False
+2014-11-24,7.45,Los Angeles Clippers,Chicago Bulls,1,17-23,4,two point jumper,True,22,True,False
+2014-11-24,18.0666666667,Los Angeles Clippers,Chicago Bulls,2,38-45,5,two point jumper,True,18,True,False
+2014-11-24,19.5333333333,Los Angeles Clippers,Chicago Bulls,2,41-48,4,three point jumper,True,26,False,False
+2014-11-24,20.05,Los Angeles Clippers,Chicago Bulls,2,43-50,5,two point jumper,True,1,True,False
+2014-11-24,21.4,Los Angeles Clippers,Chicago Bulls,2,44-57,12,free throw,True,15,True,False
+2014-11-24,21.4,Los Angeles Clippers,Chicago Bulls,2,44-58,13,free throw,True,15,True,False
+2014-11-24,22.8,Los Angeles Clippers,Chicago Bulls,2,48-60,10,two point jumper,True,19,True,False
+2014-11-24,26.2166666667,Los Angeles Clippers,Chicago Bulls,3,54-74,18,two point shot,True,1,True,False
+2014-11-24,29.2,Los Angeles Clippers,Chicago Bulls,3,63-81,16,two point jumper,True,22,True,False
+2014-11-29,1.61666666667,Los Angeles Clippers,Sacramento Kings,1,2-0,-1,three point jumper,False,24,False,False
+2014-11-29,2.56666666667,Los Angeles Clippers,Sacramento Kings,1,2-2,-2,two point jumper,False,18,False,False
+2014-11-29,4.13333333333,Los Angeles Clippers,Sacramento Kings,1,5-7,-5,three point jumper,False,24,False,False
+2014-11-29,4.2,Los Angeles Clippers,Sacramento Kings,1,7-7,-2,layup,False,0,True,False
+2014-11-29,5.28333333333,Los Angeles Clippers,Sacramento Kings,1,10-11,-4,three point jumper,False,23,True,False
+2014-11-29,7.73333333333,Los Angeles Clippers,Sacramento Kings,1,15-18,-4,free throw,False,15,True,False
+2014-11-29,7.73333333333,Los Angeles Clippers,Sacramento Kings,1,16-18,-3,free throw,False,15,True,False
+2014-11-29,12.5666666667,Los Angeles Clippers,Sacramento Kings,2,25-24,-1,two point jumper,False,18,True,False
+2014-11-29,14.3666666667,Los Angeles Clippers,Sacramento Kings,2,31-28,1,two point jumper,False,22,True,False
+2014-11-29,14.8166666667,Los Angeles Clippers,Sacramento Kings,2,32-28,3,free throw,False,15,True,False
+2014-11-29,14.8166666667,Los Angeles Clippers,Sacramento Kings,2,33-28,4,free throw,False,15,True,False
+2014-11-29,15.5666666667,Los Angeles Clippers,Sacramento Kings,2,33-30,1,two point jumper,False,20,False,False
+2014-11-29,18.9833333333,Los Angeles Clippers,Sacramento Kings,2,39-39,-3,three point jumper,False,24,False,False
+2014-01-10,0.616666666667,Los Angeles Clippers,Los Angeles Lakers,1,3-2,-3,two point shot,True,15,True,False
+2014-01-10,0.866666666667,Los Angeles Clippers,Los Angeles Lakers,1,3-4,-1,layup,True,0,True,False
+2014-01-10,1.31666666667,Los Angeles Clippers,Los Angeles Lakers,1,3-4,-1,two point jumper,True,21,False,False
+2014-01-10,3.08333333333,Los Angeles Clippers,Los Angeles Lakers,1,7-10,1,two point jumper,True,20,True,False
+2014-01-10,3.5,Los Angeles Clippers,Los Angeles Lakers,1,9-12,1,two point shot,True,18,True,False
+2014-01-10,7.1,Los Angeles Clippers,Los Angeles Lakers,1,17-22,3,two point jumper,True,1,True,False
+2014-01-10,17.4833333333,Los Angeles Clippers,Los Angeles Lakers,2,36-54,15,three point jumper,True,23,True,False
+2014-01-10,18.1,Los Angeles Clippers,Los Angeles Lakers,2,39-56,14,three point jumper,True,23,False,False
+2014-01-10,18.3833333333,Los Angeles Clippers,Los Angeles Lakers,2,39-56,14,three point jumper,True,23,False,False
+2014-01-10,18.4833333333,Los Angeles Clippers,Los Angeles Lakers,2,39-58,17,layup,True,0,True,False
+2014-01-10,20.2166666667,Los Angeles Clippers,Los Angeles Lakers,2,48-63,13,two point shot,True,13,False,False
+2014-01-10,20.6,Los Angeles Clippers,Los Angeles Lakers,2,48-64,15,free throw,True,15,True,False
+2014-01-10,20.6,Los Angeles Clippers,Los Angeles Lakers,2,48-65,16,free throw,True,15,True,False
+2014-01-10,23.4333333333,Los Angeles Clippers,Los Angeles Lakers,2,52-70,15,three point jumper,True,26,False,False
+2014-01-10,24.2166666667,Los Angeles Clippers,Los Angeles Lakers,3,52-70,16,two point jumper,True,19,False,False
+2014-01-10,28.1,Los Angeles Clippers,Los Angeles Lakers,3,56-87,29,two point shot,True,1,True,False
+2014-01-10,29.5666666667,Los Angeles Clippers,Los Angeles Lakers,3,56-87,29,two point jumper,True,20,False,False
+2014-01-15,0.75,Los Angeles Clippers,Dallas Mavericks,1,3-3,-3,three point jumper,True,27,True,True
+2014-01-15,2.0,Los Angeles Clippers,Dallas Mavericks,1,7-9,0,layup,True,0,True,True
+2014-01-15,2.56666666667,Los Angeles Clippers,Dallas Mavericks,1,7-11,1,three point jumper,True,23,False,True
+2014-01-15,4.66666666667,Los Angeles Clippers,Dallas Mavericks,1,15-16,-2,three point jumper,True,24,True,True
+2014-01-15,5.06666666667,Los Angeles Clippers,Dallas Mavericks,1,15-19,1,three point jumper,True,23,True,True
+2014-01-15,5.81666666667,Los Angeles Clippers,Dallas Mavericks,1,15-19,1,three point jumper,True,27,False,True
+2014-01-15,18.2333333333,Los Angeles Clippers,Dallas Mavericks,2,48-52,1,three point jumper,True,27,True,True
+2014-01-15,19.0666666667,Los Angeles Clippers,Dallas Mavericks,2,50-55,4,free throw,True,15,True,True
+2014-01-15,19.2833333333,Los Angeles Clippers,Dallas Mavericks,2,50-57,5,two point jumper,True,23,True,True
+2014-01-15,20.3166666667,Los Angeles Clippers,Dallas Mavericks,2,52-62,7,three point jumper,True,26,True,True
+2014-01-15,20.8666666667,Los Angeles Clippers,Dallas Mavericks,2,54-65,8,three point jumper,True,23,True,True
+2014-01-15,23.9666666667,Los Angeles Clippers,Dallas Mavericks,2,62-72,8,two point jumper,True,15,False,True
+2014-01-15,25.0666666667,Los Angeles Clippers,Dallas Mavericks,3,62-74,10,two point jumper,True,14,True,True
+2014-01-15,26.65,Los Angeles Clippers,Dallas Mavericks,3,69-77,7,free throw,True,15,True,True
+2014-01-15,26.65,Los Angeles Clippers,Dallas Mavericks,3,69-78,8,free throw,True,15,True,True
+2014-01-15,27.3333333333,Los Angeles Clippers,Dallas Mavericks,3,69-78,7,two point shot,True,4,False,True
+2014-01-15,29.4166666667,Los Angeles Clippers,Dallas Mavericks,3,78-84,5,free throw,True,15,False,True
+2014-01-15,39.55,Los Angeles Clippers,Dallas Mavericks,4,109-103,-7,free throw,True,15,True,True
+2014-01-15,39.55,Los Angeles Clippers,Dallas Mavericks,4,109-104,-6,free throw,True,15,True,True
+2014-01-15,44.0166666667,Los Angeles Clippers,Dallas Mavericks,4,123-112,-12,free throw,True,15,True,True
+2014-01-15,47.4333333333,Los Angeles Clippers,Dallas Mavericks,4,127-126,-4,three point jumper,True,25,True,True
+2014-01-18,0.316666666667,Los Angeles Clippers,Indiana Pacers,1,0-0,-3,three point jumper,False,24,False,True
+2014-01-18,9.76666666667,Los Angeles Clippers,Indiana Pacers,1,17-21,-6,two point jumper,False,5,False,True
+2014-01-18,17.7333333333,Los Angeles Clippers,Indiana Pacers,2,27-45,-21,three point jumper,False,26,False,True
+2014-01-18,18.6333333333,Los Angeles Clippers,Indiana Pacers,2,29-45,-18,two point jumper,False,20,True,True
+2014-01-18,19.7,Los Angeles Clippers,Indiana Pacers,2,32-48,-19,three point jumper,False,25,False,True
+2014-01-18,22.9,Los Angeles Clippers,Indiana Pacers,2,39-54,-17,two point jumper,False,16,True,True
+2014-01-18,23.2833333333,Los Angeles Clippers,Indiana Pacers,2,39-54,-17,two point jumper,False,8,False,True
+2014-01-18,25.1333333333,Los Angeles Clippers,Indiana Pacers,3,45-61,-18,two point jumper,False,20,False,True
+2014-01-18,26.1333333333,Los Angeles Clippers,Indiana Pacers,3,45-63,-21,three point jumper,False,25,False,True
+2014-01-18,27.3833333333,Los Angeles Clippers,Indiana Pacers,3,47-67,-23,three point jumper,False,24,False,True
+2014-01-18,27.5166666667,Los Angeles Clippers,Indiana Pacers,3,49-67,-20,two point jumper,False,1,True,True
+2014-01-18,28.7,Los Angeles Clippers,Indiana Pacers,3,53-67,-16,two point jumper,False,20,True,True
+2014-01-18,30.85,Los Angeles Clippers,Indiana Pacers,3,57-71,-16,two point jumper,False,5,False,True
+2014-01-18,32.8333333333,Los Angeles Clippers,Indiana Pacers,3,59-74,-18,three point jumper,False,26,False,True
+2014-01-18,35.6,Los Angeles Clippers,Indiana Pacers,3,68-78,-13,three point jumper,False,26,False,True
+2014-01-18,38.0833333333,Los Angeles Clippers,Indiana Pacers,4,72-83,-13,two point jumper,False,10,False,True
+2014-01-20,1.8,Los Angeles Clippers,Detroit Pistons,1,4-6,-4,two point jumper,False,4,False,True
+2014-01-20,4.7,Los Angeles Clippers,Detroit Pistons,1,14-10,2,two point jumper,False,19,False,True
+2014-01-20,13.2166666667,Los Angeles Clippers,Detroit Pistons,2,27-31,-5,free throw,False,15,True,True
+2014-01-20,13.2166666667,Los Angeles Clippers,Detroit Pistons,2,28-31,-4,free throw,False,15,True,True
+2014-01-20,13.2166666667,Los Angeles Clippers,Detroit Pistons,2,29-31,-3,free throw,False,15,True,True
+2014-01-20,14.75,Los Angeles Clippers,Detroit Pistons,2,37-33,1,three point jumper,False,24,True,True
+2014-01-20,14.75,Los Angeles Clippers,Detroit Pistons,2,38-33,4,free throw,False,15,True,True
+2014-01-20,15.15,Los Angeles Clippers,Detroit Pistons,2,40-33,5,layup,False,0,True,True
+2014-01-20,15.75,Los Angeles Clippers,Detroit Pistons,2,40-33,4,three point jumper,False,27,False,True
+2014-01-20,24.65,Los Angeles Clippers,Detroit Pistons,3,66-55,9,two point jumper,False,22,True,True
+2014-01-20,25.45,Los Angeles Clippers,Detroit Pistons,3,67-55,9,three point jumper,False,25,False,True
+2014-01-20,27.45,Los Angeles Clippers,Detroit Pistons,3,70-61,6,three point jumper,False,26,True,True
+2014-01-20,27.45,Los Angeles Clippers,Detroit Pistons,3,71-61,9,free throw,False,15,True,True
+2014-01-20,29.3833333333,Los Angeles Clippers,Detroit Pistons,3,76-67,8,free throw,False,15,True,True
+2014-01-20,29.3833333333,Los Angeles Clippers,Detroit Pistons,3,77-67,9,free throw,False,15,True,True
+2014-01-20,30.5333333333,Los Angeles Clippers,Detroit Pistons,3,80-67,10,three point jumper,False,24,True,True
+2014-01-20,42.1333333333,Los Angeles Clippers,Detroit Pistons,4,105-87,17,free throw,False,15,False,True
+2014-01-20,42.1333333333,Los Angeles Clippers,Detroit Pistons,4,105-87,17,free throw,False,15,False,True
+2014-01-22,0.316666666667,Los Angeles Clippers,Charlotte Bobcats,1,2-0,0,layup,False,0,True,False
+2014-01-22,4.06666666667,Los Angeles Clippers,Charlotte Bobcats,1,6-13,-10,three point jumper,False,27,False,False
+2014-01-22,4.16666666667,Los Angeles Clippers,Charlotte Bobcats,1,8-13,-7,two point jumper,False,21,True,False
+2014-01-22,16.95,Los Angeles Clippers,Charlotte Bobcats,2,32-39,-10,three point jumper,False,25,False,False
+2014-01-22,17.35,Los Angeles Clippers,Charlotte Bobcats,2,34-40,-8,two point jumper,False,18,True,False
+2014-01-22,17.95,Los Angeles Clippers,Charlotte Bobcats,2,36-40,-6,two point jumper,False,16,True,False
+2014-01-22,19.1,Los Angeles Clippers,Charlotte Bobcats,2,38-40,-5,three point jumper,False,24,False,False
+2014-01-22,19.85,Los Angeles Clippers,Charlotte Bobcats,2,40-40,-2,layup,False,0,True,False
+2014-01-22,26.3333333333,Los Angeles Clippers,Charlotte Bobcats,3,56-53,0,three point jumper,False,26,True,False
+2014-01-22,28.75,Los Angeles Clippers,Charlotte Bobcats,3,58-55,1,two point jumper,False,17,False,False
+2014-01-22,29.75,Los Angeles Clippers,Charlotte Bobcats,3,58-55,0,three point jumper,False,26,False,False
+2014-01-22,36.25,Los Angeles Clippers,Charlotte Bobcats,4,72-72,-2,two point jumper,False,17,True,False
+2014-01-22,41.0666666667,Los Angeles Clippers,Charlotte Bobcats,4,78-84,-8,two point jumper,False,18,False,False
+2014-01-22,45.2166666667,Los Angeles Clippers,Charlotte Bobcats,4,84-88,-7,three point jumper,False,28,False,False
+2014-01-24,0.316666666667,Los Angeles Clippers,Chicago Bulls,1,3-0,0,three point jumper,False,24,True,False
+2014-01-24,4.56666666667,Los Angeles Clippers,Chicago Bulls,1,11-10,0,free throw,False,15,True,False
+2014-01-24,4.56666666667,Los Angeles Clippers,Chicago Bulls,1,12-10,1,free throw,False,15,True,False
+2014-01-24,6.7,Los Angeles Clippers,Chicago Bulls,1,21-16,2,three point jumper,False,23,True,False
+2014-01-24,7.7,Los Angeles Clippers,Chicago Bulls,1,24-18,3,three point jumper,False,25,False,False
+2014-01-24,8.21666666667,Los Angeles Clippers,Chicago Bulls,1,27-20,4,three point jumper,False,26,True,False
+2014-01-24,17.4166666667,Los Angeles Clippers,Chicago Bulls,2,51-37,11,three point jumper,False,23,True,False
+2014-01-24,18.45,Los Angeles Clippers,Chicago Bulls,2,53-39,12,two point jumper,False,21,True,False
+2014-01-24,21.8166666667,Los Angeles Clippers,Chicago Bulls,2,62-46,14,two point jumper,False,5,False,False
+2014-01-24,24.0,Los Angeles Clippers,Chicago Bulls,2,68-55,10,three point jumper,False,23,False,False
+2014-01-24,27.8166666667,Los Angeles Clippers,Chicago Bulls,3,73-59,13,free throw,False,15,True,False
+2014-01-24,27.8166666667,Los Angeles Clippers,Chicago Bulls,3,74-59,14,free throw,False,15,True,False
+2014-01-24,29.1666666667,Los Angeles Clippers,Chicago Bulls,3,76-62,12,two point shot,False,1,False,False
+2014-01-24,31.6,Los Angeles Clippers,Chicago Bulls,3,78-67,8,three point jumper,False,23,False,False
+2014-01-24,43.6666666667,Los Angeles Clippers,Chicago Bulls,4,107-93,12,two point jumper,False,18,False,False
+2014-01-27,0.8,Los Angeles Clippers,Milwaukee Bucks,1,2-2,-2,two point jumper,False,19,False,False
+2014-01-27,1.45,Los Angeles Clippers,Milwaukee Bucks,1,5-4,-2,three point jumper,False,25,True,False
+2014-01-27,2.71666666667,Los Angeles Clippers,Milwaukee Bucks,1,10-4,5,free throw,False,15,True,False
+2014-01-27,2.71666666667,Los Angeles Clippers,Milwaukee Bucks,1,11-4,6,free throw,False,15,True,False
+2014-01-27,4.2,Los Angeles Clippers,Milwaukee Bucks,1,16-7,7,two point jumper,False,18,True,False
+2014-01-27,6.38333333333,Los Angeles Clippers,Milwaukee Bucks,1,21-13,7,free throw,False,15,True,False
+2014-01-27,15.7,Los Angeles Clippers,Milwaukee Bucks,2,36-34,0,two point jumper,False,6,False,False
+2014-01-27,20.95,Los Angeles Clippers,Milwaukee Bucks,2,52-36,13,three point jumper,False,25,True,False
+2014-01-27,29.3166666667,Los Angeles Clippers,Milwaukee Bucks,3,75-51,21,three point jumper,False,26,True,False
+2014-01-27,29.7333333333,Los Angeles Clippers,Milwaukee Bucks,3,75-51,22,two point jumper,False,21,False,False
+2014-01-27,30.2,Los Angeles Clippers,Milwaukee Bucks,3,75-51,21,three point jumper,False,27,False,False
+2014-01-29,0.75,Los Angeles Clippers,Washington Wizards,1,0-2,0,two point jumper,True,19,True,True
+2014-01-29,2.81666666667,Los Angeles Clippers,Washington Wizards,1,2-4,-1,three point jumper,True,25,False,True
+2014-01-29,4.45,Los Angeles Clippers,Washington Wizards,1,4-8,2,two point jumper,True,20,False,True
+2014-01-29,14.6333333333,Los Angeles Clippers,Washington Wizards,2,35-38,1,two point jumper,True,17,False,True
+2014-01-29,17.7333333333,Los Angeles Clippers,Washington Wizards,2,39-45,5,free throw,True,15,True,True
+2014-01-29,19.9833333333,Los Angeles Clippers,Washington Wizards,2,45-52,4,three point jumper,True,23,True,True
+2014-01-29,27.6833333333,Los Angeles Clippers,Washington Wizards,3,56-72,14,two point jumper,True,23,True,True
+2014-01-29,30.7333333333,Los Angeles Clippers,Washington Wizards,3,69-76,4,three point jumper,True,26,False,True
+2014-01-29,38.3666666667,Los Angeles Clippers,Washington Wizards,4,82-85,1,two point shot,True,5,True,True
+2014-01-29,39.3,Los Angeles Clippers,Washington Wizards,4,84-90,3,three point jumper,True,26,True,True
+2014-01-29,39.8166666667,Los Angeles Clippers,Washington Wizards,4,86-91,4,free throw,True,15,True,True
+2014-01-29,39.8166666667,Los Angeles Clippers,Washington Wizards,4,86-91,4,free throw,True,15,False,True
+2014-01-29,39.8166666667,Los Angeles Clippers,Washington Wizards,4,86-92,5,free throw,True,15,True,True
+2014-01-29,40.3833333333,Los Angeles Clippers,Washington Wizards,4,88-95,4,three point jumper,True,23,True,True
+2014-01-29,41.7,Los Angeles Clippers,Washington Wizards,4,90-97,5,two point jumper,True,18,True,True
+2014-02-01,0.7,Los Angeles Clippers,Utah Jazz,1,0-0,-2,two point jumper,True,23,False,False
+2014-02-01,1.83333333333,Los Angeles Clippers,Utah Jazz,1,0-2,-1,three point jumper,True,26,False,False
+2014-02-01,16.2833333333,Los Angeles Clippers,Utah Jazz,2,25-27,0,two point shot,True,18,True,False
+2014-02-01,18.4166666667,Los Angeles Clippers,Utah Jazz,2,30-32,1,free throw,True,15,True,False
+2014-02-01,18.4166666667,Los Angeles Clippers,Utah Jazz,2,30-33,2,free throw,True,15,True,False
+2014-02-01,21.7666666667,Los Angeles Clippers,Utah Jazz,2,38-36,-4,two point jumper,True,21,False,False
+2014-02-01,24.2166666667,Los Angeles Clippers,Utah Jazz,3,42-42,-2,layup,True,0,False,False
+2014-02-01,27.3166666667,Los Angeles Clippers,Utah Jazz,3,51-49,-4,two point jumper,True,17,False,False
+2014-02-03,1.01666666667,Los Angeles Clippers,Denver Nuggets,1,2-2,-2,two point jumper,False,16,False,False
+2014-02-03,5.1,Los Angeles Clippers,Denver Nuggets,1,10-10,-2,two point jumper,False,22,True,False
+2014-02-03,5.56666666667,Los Angeles Clippers,Denver Nuggets,1,10-12,-5,three point jumper,False,26,False,False
+2014-02-03,6.85,Los Angeles Clippers,Denver Nuggets,1,16-17,-3,layup,False,0,True,False
+2014-02-03,8.48333333333,Los Angeles Clippers,Denver Nuggets,1,20-20,-2,layup,False,0,True,False
+2014-02-03,18.2166666667,Los Angeles Clippers,Denver Nuggets,2,47-41,4,two point shot,False,1,False,False
+2014-02-03,21.7166666667,Los Angeles Clippers,Denver Nuggets,2,55-49,4,two point jumper,False,22,False,False
+2014-02-03,24.65,Los Angeles Clippers,Denver Nuggets,3,60-62,-4,two point jumper,False,17,False,False
+2014-02-03,43.5333333333,Los Angeles Clippers,Denver Nuggets,4,103-99,1,three point jumper,False,25,True,False
+2014-02-03,45.7666666667,Los Angeles Clippers,Denver Nuggets,4,107-107,-3,three point jumper,False,23,False,False

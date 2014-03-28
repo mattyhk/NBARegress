@@ -20,7 +20,7 @@ def calcFG(taken, made):
 def calcTrainingSets(f):
   name = f.name.split('/')
   name = name[-1]
-  name = name.split('.')
+  name = name.split('.csv')
   name = name[0]  
 
   player = plotShots.Player(name)
@@ -73,12 +73,12 @@ def calcTrainingSets(f):
     # Restart shot counters, and update date. Account for new shot
     else:     
       if beginTaken != 0 and endTaken != 0:
-        if counter % 2 == 0:
-          xTraining.append(calcFG(beginTaken, beginMade))
-          yTraining.append(calcFG(endTaken, endMade))
-        else:
-          xData.append(calcFG(beginTaken, beginMade))
-          yData.append(calcFG(endTaken, endMade))
+        # if counter % 2 == 0:
+        xTraining.append(calcFG(beginTaken, beginMade))
+        yTraining.append(calcFG(endTaken, endMade))
+        # else:
+        #   xData.append(calcFG(beginTaken, beginMade))
+        #   yData.append(calcFG(endTaken, endMade))
         counter += 1
       beginTaken = 0
       endTaken = 0
@@ -111,35 +111,56 @@ def calcTrainingSets(f):
 # Go through every player and display their p value
 def main():
   players = {}
+  significant = {}
   path = "/Users/Matthew/Documents/MIT/UAP - Basketball/Players/" 
   for filename in os.listdir(path):
     if filename == '.DS_Store':
       continue
     with open(path + filename, 'rb') as f:
         (name, trainBeginFG, trainEndFG) = calcTrainingSets(f)
-    if len(trainBeginFG) == 0:
+    if len(trainBeginFG) < 150:
       continue
+    # print name + " has more than 75 training points"
     (slope, intercept, rValue, pValue, stdErr) = stats.linregress(trainBeginFG, trainEndFG)
-    players[name] = [pValue, slope, intercept, rValue, stdErr, len(trainBeginFG)]
+    players[name] = [pValue, slope, intercept, rValue**2, stdErr, len(trainBeginFG)]
+    if pValue <= 0.05:
+      significant[name] = [pValue, rValue**2]
+      figure()
+      sct = scatter(trainBeginFG, trainEndFG)
+      xlabel("FG Percentage of First Three Quarters")
+      ylabel("FG Percentage of Fourth/Overtime Quarters")
+      suptitle("FG Percentages for " + str(name))
+      show()
 
-  filename = 'linRegressPValues.csv'
-  with open(filename, 'wb') as csvfile:
-    writer = csv.writer(csvfile, delimiter = ',')
-    writer.writerow(['player', 'pValue', 'slope', 'intercept', 'rValue', 'stdErr', 'numDataPoints'])
-    for player in players:
-      try:
-        # print 'writing ' + str(player) +' with values ' + str(players[player][0]) + ' ' +str(players[player][1])
-        writer.writerow([player] + players[player])
-      except:
-        pass
+  # filename = '/Users/Matthew/Documents/MIT/UAP - Basketball/Regression/linRegressValues.csv'
+  # with open(filename, 'wb') as csvfile:
+  #   writer = csv.writer(csvfile, delimiter = ',')
+  #   writer.writerow(['player', 'pValue', 'slope', 'intercept', 'r-SquaredValue', 'stdErr', 'numDataPoints'])
+  #   for player in players:
+  #     try:
+  #       writer.writerow([player] + players[player])
+  #     except:
+  #       pass
+
+  # for player in significant:
+  #   print str(player) + ' is significant with p value ' + str(significant[player][0]) + ' and r-squared value ' + str(significant[player][1])
+
+
+  # filename = '/Users/Matthew/Documents/MIT/UAP - Basketball/Regression/SignificantlinRegressValues.csv'
+  # with open(filename, 'wb') as csvfile:
+  #   writer = csv.writer(csvfile, delimiter = ',')
+  #   writer.writerow(['player', 'pValue', 'slope', 'intercept', 'r-SquaredValue', 'stdErr', 'numDataPoints'])
+  #   for player in significant:
+  #     try:
+  #       writer.writerow([player] + players[player])
+  #     except:
+  #       pass
+
+
 
   # with open(sys.argv[1], 'rb') as f:
   #   (name, trainBeginFG, trainEndFG) = calcTrainingSets(f)
 
-  # slope, intercept, rValue, pValue, stdErr = stats.linregress(trainBeginFG, trainEndFG)
-
-  # print name
-  # print pValue
   
 
 if __name__ == '__main__':

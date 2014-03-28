@@ -1,0 +1,590 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-16,1.08333333333,Minnesota Timberwolves,Boston Celtics,1,4-1,-4,free throw,True,15,True,False
+2014-11-16,1.08333333333,Minnesota Timberwolves,Boston Celtics,1,4-1,-4,free throw,True,15,False,False
+2014-11-16,10.15,Minnesota Timberwolves,Boston Celtics,1,20-27,5,layup,True,0,True,False
+2014-11-16,21.0,Minnesota Timberwolves,Boston Celtics,2,42-50,6,two point jumper,True,21,False,False
+2014-11-16,21.4833333333,Minnesota Timberwolves,Boston Celtics,2,42-50,6,two point shot,True,1,False,False
+2014-11-16,24.8666666667,Minnesota Timberwolves,Boston Celtics,3,50-55,2,three point jumper,True,26,False,False
+2014-12-16,1.55,Minnesota Timberwolves,Boston Celtics,1,2-6,-6,two point jumper,False,19,True,True
+2014-12-16,2.51666666667,Minnesota Timberwolves,Boston Celtics,1,2-8,-8,two point jumper,False,15,False,True
+2014-12-16,2.76666666667,Minnesota Timberwolves,Boston Celtics,1,2-8,-8,two point jumper,False,16,False,True
+2014-12-16,3.93333333333,Minnesota Timberwolves,Boston Celtics,1,4-10,-8,layup,False,0,False,True
+2014-12-16,5.13333333333,Minnesota Timberwolves,Boston Celtics,1,6-13,-9,two point shot,False,1,False,True
+2014-12-16,5.35,Minnesota Timberwolves,Boston Celtics,1,6-13,-8,free throw,False,15,False,True
+2014-12-16,5.35,Minnesota Timberwolves,Boston Celtics,1,7-13,-7,free throw,False,15,True,True
+2014-12-16,9.85,Minnesota Timberwolves,Boston Celtics,1,17-20,-5,two point jumper,False,22,False,True
+2014-12-16,26.9666666667,Minnesota Timberwolves,Boston Celtics,3,57-53,2,two point shot,False,1,False,True
+2014-12-16,29.1333333333,Minnesota Timberwolves,Boston Celtics,3,59-56,0,three point jumper,False,25,False,True
+2014-12-16,30.6,Minnesota Timberwolves,Boston Celtics,3,62-59,1,two point shot,False,1,False,True
+2014-12-16,33.7333333333,Minnesota Timberwolves,Boston Celtics,3,63-70,-9,unknown,False,4,False,True
+2014-12-16,47.9666666667,Minnesota Timberwolves,Boston Celtics,4,97-100,-6,three point jumper,False,25,True,True
+2014-12-16,48.0,Minnesota Timberwolves,Boston Celtics,4,97-101,-7,three point jumper,False,55,False,True
+2014-11-22,15.0833333333,Minnesota Timberwolves,Brooklyn Nets,2,18-36,16,two point jumper,True,21,False,False
+2014-11-22,17.1666666667,Minnesota Timberwolves,Brooklyn Nets,2,20-40,18,two point jumper,True,20,True,False
+2014-11-22,22.5833333333,Minnesota Timberwolves,Brooklyn Nets,2,35-54,16,three point jumper,True,25,True,False
+2014-11-22,25.5666666667,Minnesota Timberwolves,Brooklyn Nets,3,41-59,15,three point jumper,True,23,False,False
+2014-11-22,26.1166666667,Minnesota Timberwolves,Brooklyn Nets,3,41-59,16,two point jumper,True,19,False,False
+2014-11-22,29.45,Minnesota Timberwolves,Brooklyn Nets,3,43-73,27,three point jumper,True,25,True,False
+2014-11-22,29.85,Minnesota Timberwolves,Brooklyn Nets,3,43-75,30,layup,True,0,True,False
+2014-11-22,34.75,Minnesota Timberwolves,Brooklyn Nets,3,54-89,34,free throw,True,15,True,False
+2014-11-22,34.75,Minnesota Timberwolves,Brooklyn Nets,3,54-90,35,free throw,True,15,True,False
+2014-11-22,35.55,Minnesota Timberwolves,Brooklyn Nets,3,58-90,30,layup,True,0,False,False
+2014-11-03,4.75,Minnesota Timberwolves,New York Knicks,1,8-11,-5,two point jumper,False,12,False,True
+2014-11-03,5.35,Minnesota Timberwolves,New York Knicks,1,12-11,-1,layup,False,0,True,True
+2014-11-03,5.85,Minnesota Timberwolves,New York Knicks,1,12-11,-2,three point jumper,False,26,False,True
+2014-11-03,22.5,Minnesota Timberwolves,New York Knicks,2,60-41,17,layup,False,0,True,True
+2014-11-03,30.7,Minnesota Timberwolves,New York Knicks,3,78-61,15,two point shot,False,18,True,True
+2014-11-03,32.05,Minnesota Timberwolves,New York Knicks,3,81-65,15,free throw,False,15,True,True
+2014-11-03,32.05,Minnesota Timberwolves,New York Knicks,3,82-65,16,free throw,False,15,True,True
+2014-11-03,33.05,Minnesota Timberwolves,New York Knicks,3,82-69,10,three point jumper,False,24,False,True
+2014-11-03,38.2666666667,Minnesota Timberwolves,New York Knicks,4,95-81,12,two point shot,False,4,False,True
+2014-11-03,39.1333333333,Minnesota Timberwolves,New York Knicks,4,95-84,8,three point jumper,False,25,False,True
+2014-11-03,40.2833333333,Minnesota Timberwolves,New York Knicks,4,95-86,7,unknown,False,6,False,True
+2014-11-03,42.3833333333,Minnesota Timberwolves,New York Knicks,4,100-95,3,layup,False,0,False,True
+2014-11-03,44.15,Minnesota Timberwolves,New York Knicks,4,104-98,4,two point jumper,False,21,False,True
+2014-12-11,1.15,Minnesota Timberwolves,Philadelphia 76ers,1,4-2,-4,two point jumper,True,20,False,False
+2014-12-11,3.96666666667,Minnesota Timberwolves,Philadelphia 76ers,1,10-6,-6,two point jumper,True,20,True,False
+2014-12-11,3.96666666667,Minnesota Timberwolves,Philadelphia 76ers,1,10-7,-4,free throw,True,15,True,False
+2014-12-11,7.45,Minnesota Timberwolves,Philadelphia 76ers,1,19-17,-5,three point jumper,True,25,True,False
+2014-12-11,8.71666666667,Minnesota Timberwolves,Philadelphia 76ers,1,23-19,-6,two point jumper,True,23,True,False
+2014-12-11,8.96666666667,Minnesota Timberwolves,Philadelphia 76ers,1,23-20,-4,free throw,True,15,True,False
+2014-12-11,8.96666666667,Minnesota Timberwolves,Philadelphia 76ers,1,23-20,-4,free throw,True,15,False,False
+2014-12-11,19.35,Minnesota Timberwolves,Philadelphia 76ers,2,49-35,-15,free throw,True,15,True,False
+2014-12-11,19.35,Minnesota Timberwolves,Philadelphia 76ers,2,49-36,-14,free throw,True,15,True,False
+2014-12-11,19.35,Minnesota Timberwolves,Philadelphia 76ers,2,49-37,-13,free throw,True,15,True,False
+2014-12-11,21.5,Minnesota Timberwolves,Philadelphia 76ers,2,56-39,-19,layup,True,0,True,False
+2014-12-11,28.2,Minnesota Timberwolves,Philadelphia 76ers,3,66-61,-6,free throw,True,15,True,False
+2014-12-11,28.2,Minnesota Timberwolves,Philadelphia 76ers,3,66-62,-5,free throw,True,15,True,False
+2014-12-11,34.2333333333,Minnesota Timberwolves,Philadelphia 76ers,3,78-78,-3,three point jumper,True,25,True,False
+2014-12-11,46.3833333333,Minnesota Timberwolves,Philadelphia 76ers,4,93-99,4,two point jumper,True,20,False,False
+2014-12-11,46.75,Minnesota Timberwolves,Philadelphia 76ers,4,95-99,2,layup,True,0,False,False
+2014-12-11,47.6666666667,Minnesota Timberwolves,Philadelphia 76ers,4,97-104,5,two point jumper,True,11,False,False
+2014-12-11,47.75,Minnesota Timberwolves,Philadelphia 76ers,4,99-105,5,free throw,True,15,True,False
+2014-12-11,47.75,Minnesota Timberwolves,Philadelphia 76ers,4,99-106,6,free throw,True,15,True,False
+2014-01-06,1.8,Minnesota Timberwolves,Philadelphia 76ers,1,5-5,-2,two point jumper,False,4,False,False
+2014-01-06,3.7,Minnesota Timberwolves,Philadelphia 76ers,1,13-12,-1,two point shot,False,12,True,False
+2014-01-06,6.03333333333,Minnesota Timberwolves,Philadelphia 76ers,1,21-17,2,layup,False,0,True,False
+2014-01-06,8.71666666667,Minnesota Timberwolves,Philadelphia 76ers,1,25-26,-3,two point jumper,False,6,False,False
+2014-01-06,25.0166666667,Minnesota Timberwolves,Philadelphia 76ers,3,72-54,16,layup,False,0,False,False
+2014-01-06,27.5166666667,Minnesota Timberwolves,Philadelphia 76ers,3,82-60,20,two point jumper,False,4,False,False
+2014-01-06,29.3833333333,Minnesota Timberwolves,Philadelphia 76ers,3,87-63,22,two point jumper,False,14,False,False
+2014-01-17,0.866666666667,Minnesota Timberwolves,Toronto Raptors,1,0-2,-4,two point shot,False,1,False,False
+2014-01-17,7.91666666667,Minnesota Timberwolves,Toronto Raptors,1,9-13,-5,free throw,False,15,True,False
+2014-01-17,7.91666666667,Minnesota Timberwolves,Toronto Raptors,1,10-13,-4,free throw,False,15,True,False
+2014-01-17,9.75,Minnesota Timberwolves,Toronto Raptors,1,12-17,-7,two point jumper,False,21,False,False
+2014-01-17,21.3166666667,Minnesota Timberwolves,Toronto Raptors,2,35-44,-11,layup,False,0,True,False
+2014-01-17,26.6166666667,Minnesota Timberwolves,Toronto Raptors,3,45-49,-6,layup,False,0,True,False
+2014-01-17,30.5666666667,Minnesota Timberwolves,Toronto Raptors,3,51-54,-5,two point jumper,False,20,False,False
+2014-01-17,32.35,Minnesota Timberwolves,Toronto Raptors,3,53-62,-12,three point jumper,False,24,False,False
+2014-11-06,2.3,Minnesota Timberwolves,Golden State Warriors,1,6-6,-2,two point jumper,True,22,False,True
+2014-11-06,3.9,Minnesota Timberwolves,Golden State Warriors,1,8-10,0,layup,True,0,True,True
+2014-11-06,3.9,Minnesota Timberwolves,Golden State Warriors,1,8-11,2,free throw,True,15,True,True
+2014-11-06,5.28333333333,Minnesota Timberwolves,Golden State Warriors,1,8-16,6,two point jumper,True,18,False,True
+2014-11-06,6.2,Minnesota Timberwolves,Golden State Warriors,1,12-18,4,two point shot,True,1,False,True
+2014-11-06,23.15,Minnesota Timberwolves,Golden State Warriors,2,49-45,-6,two point jumper,True,22,False,True
+2014-11-06,28.6333333333,Minnesota Timberwolves,Golden State Warriors,3,63-54,-12,three point jumper,True,26,False,True
+2014-11-06,41.8166666667,Minnesota Timberwolves,Golden State Warriors,4,96-81,-16,free throw,True,15,False,True
+2014-11-06,41.8166666667,Minnesota Timberwolves,Golden State Warriors,4,96-81,-16,free throw,True,15,False,True
+2014-11-06,42.35,Minnesota Timberwolves,Golden State Warriors,4,99-82,-18,free throw,True,15,True,True
+2014-11-06,42.35,Minnesota Timberwolves,Golden State Warriors,4,99-83,-17,free throw,True,15,True,True
+2014-11-06,42.8166666667,Minnesota Timberwolves,Golden State Warriors,4,99-85,-16,two point shot,True,11,True,True
+2014-11-06,45.05,Minnesota Timberwolves,Golden State Warriors,4,104-90,-16,layup,True,0,False,True
+2014-01-24,5.81666666667,Minnesota Timberwolves,Golden State Warriors,1,23-15,6,two point jumper,False,4,True,True
+2014-01-24,22.2166666667,Minnesota Timberwolves,Golden State Warriors,2,59-59,-3,three point jumper,False,30,False,True
+2014-01-24,24.9,Minnesota Timberwolves,Golden State Warriors,3,67-65,0,layup,False,0,True,True
+2014-01-24,28.0333333333,Minnesota Timberwolves,Golden State Warriors,3,78-71,5,two point jumper,False,1,True,True
+2014-01-24,34.3,Minnesota Timberwolves,Golden State Warriors,3,91-90,-1,two point jumper,False,22,False,True
+2014-01-24,46.1,Minnesota Timberwolves,Golden State Warriors,4,118-113,3,two point shot,False,6,True,True
+2014-01-24,46.5166666667,Minnesota Timberwolves,Golden State Warriors,4,119-115,3,free throw,False,15,True,True
+2014-01-24,46.5166666667,Minnesota Timberwolves,Golden State Warriors,4,119-115,3,free throw,False,15,False,True
+2014-11-11,4.81666666667,Minnesota Timberwolves,Los Angeles Clippers,1,9-8,-1,layup,False,0,False,False
+2014-11-11,9.85,Minnesota Timberwolves,Los Angeles Clippers,1,26-19,5,layup,False,0,True,False
+2014-11-11,10.8,Minnesota Timberwolves,Los Angeles Clippers,1,26-21,3,two point jumper,False,19,False,False
+2014-11-11,28.5666666667,Minnesota Timberwolves,Los Angeles Clippers,3,63-67,-6,two point jumper,False,11,False,False
+2014-11-11,32.5166666667,Minnesota Timberwolves,Los Angeles Clippers,3,76-74,-1,three point jumper,False,27,True,False
+2014-11-11,41.35,Minnesota Timberwolves,Los Angeles Clippers,4,87-93,-8,two point jumper,False,17,False,False
+2014-11-20,8.76666666667,Minnesota Timberwolves,Los Angeles Clippers,1,19-17,-5,three point jumper,True,26,True,True
+2014-11-20,10.8833333333,Minnesota Timberwolves,Los Angeles Clippers,1,24-24,-2,two point shot,True,1,True,True
+2014-11-20,26.1166666667,Minnesota Timberwolves,Los Angeles Clippers,3,50-52,0,two point shot,True,8,False,True
+2014-11-20,28.0666666667,Minnesota Timberwolves,Los Angeles Clippers,3,55-55,-2,two point shot,True,11,False,True
+2014-11-20,31.2833333333,Minnesota Timberwolves,Los Angeles Clippers,3,61-59,-4,layup,True,0,False,True
+2014-11-20,34.0833333333,Minnesota Timberwolves,Los Angeles Clippers,3,69-61,-10,two point jumper,True,20,False,True
+2014-11-20,41.5666666667,Minnesota Timberwolves,Los Angeles Clippers,4,81-74,-9,two point shot,True,26,False,True
+2014-12-22,9.11666666667,Minnesota Timberwolves,Los Angeles Clippers,1,20-20,-2,two point jumper,False,21,False,False
+2014-12-22,24.75,Minnesota Timberwolves,Los Angeles Clippers,3,54-58,-6,two point jumper,False,21,False,False
+2014-12-22,33.7166666667,Minnesota Timberwolves,Los Angeles Clippers,3,72-75,-6,three point jumper,False,26,False,False
+2014-12-22,42.7833333333,Minnesota Timberwolves,Los Angeles Clippers,4,101-96,3,two point jumper,False,17,False,False
+2014-11-10,3.56666666667,Minnesota Timberwolves,Los Angeles Lakers,1,9-8,-1,layup,False,0,True,False
+2014-11-10,11.2333333333,Minnesota Timberwolves,Los Angeles Lakers,1,47-19,25,three point jumper,False,25,True,False
+2014-11-10,19.5666666667,Minnesota Timberwolves,Los Angeles Lakers,2,55-40,13,layup,False,0,False,False
+2014-11-10,20.9166666667,Minnesota Timberwolves,Los Angeles Lakers,2,61-41,18,two point jumper,False,16,True,False
+2014-11-10,23.1833333333,Minnesota Timberwolves,Los Angeles Lakers,2,67-43,22,two point jumper,False,17,False,False
+2014-11-10,28.0333333333,Minnesota Timberwolves,Los Angeles Lakers,3,78-50,26,two point shot,False,3,True,False
+2014-11-10,32.1,Minnesota Timberwolves,Los Angeles Lakers,3,84-62,20,two point jumper,False,18,False,False
+2014-11-10,37.45,Minnesota Timberwolves,Los Angeles Lakers,4,95-78,14,three point jumper,False,25,True,False
+2014-12-20,18.9166666667,Minnesota Timberwolves,Los Angeles Lakers,2,38-44,-8,layup,False,0,False,True
+2014-12-20,19.5666666667,Minnesota Timberwolves,Los Angeles Lakers,2,42-46,-6,layup,False,0,True,True
+2014-12-20,20.1166666667,Minnesota Timberwolves,Los Angeles Lakers,2,42-46,-6,two point jumper,False,18,False,True
+2014-12-20,29.7833333333,Minnesota Timberwolves,Los Angeles Lakers,3,64-69,-7,two point shot,False,1,False,True
+2014-12-20,30.2333333333,Minnesota Timberwolves,Los Angeles Lakers,3,66-71,-7,layup,False,0,True,True
+2014-12-20,32.4833333333,Minnesota Timberwolves,Los Angeles Lakers,3,72-73,-3,two point shot,False,19,True,True
+2014-12-20,42.5333333333,Minnesota Timberwolves,Los Angeles Lakers,4,85-90,-7,two point shot,False,1,False,True
+2014-12-20,45.7833333333,Minnesota Timberwolves,Los Angeles Lakers,4,91-97,-9,three point jumper,False,23,False,True
+2014-02-04,6.66666666667,Minnesota Timberwolves,Los Angeles Lakers,1,18-19,-1,two point jumper,True,19,False,False
+2014-02-04,21.1833333333,Minnesota Timberwolves,Los Angeles Lakers,2,44-60,14,two point jumper,True,22,False,False
+2014-02-04,47.2,Minnesota Timberwolves,Los Angeles Lakers,4,97-107,8,layup,True,0,True,False
+2014-02-04,47.5166666667,Minnesota Timberwolves,Los Angeles Lakers,4,99-108,8,free throw,True,15,True,False
+2014-02-04,47.5166666667,Minnesota Timberwolves,Los Angeles Lakers,4,99-109,9,free throw,True,15,True,False
+2014-01-08,1.75,Minnesota Timberwolves,Phoenix Suns,1,0-6,4,layup,True,0,True,False
+2014-01-08,3.81666666667,Minnesota Timberwolves,Phoenix Suns,1,4-11,5,layup,True,0,False,False
+2014-01-08,6.03333333333,Minnesota Timberwolves,Phoenix Suns,1,10-13,1,layup,True,0,False,False
+2014-01-08,25.3833333333,Minnesota Timberwolves,Phoenix Suns,3,55-49,-8,layup,True,0,False,False
+2014-01-08,26.5,Minnesota Timberwolves,Phoenix Suns,3,55-51,-6,layup,True,0,True,False
+2014-01-08,34.3666666667,Minnesota Timberwolves,Phoenix Suns,3,69-72,1,two point jumper,True,20,False,False
+2014-01-08,35.9333333333,Minnesota Timberwolves,Phoenix Suns,3,72-76,3,free throw,True,15,True,False
+2014-01-08,35.9333333333,Minnesota Timberwolves,Phoenix Suns,3,72-77,4,free throw,True,15,True,False
+2014-01-08,44.7166666667,Minnesota Timberwolves,Phoenix Suns,4,94-100,5,free throw,True,15,True,False
+2014-01-08,44.7166666667,Minnesota Timberwolves,Phoenix Suns,4,94-100,5,free throw,True,15,False,False
+2014-02-25,1.46666666667,Minnesota Timberwolves,Phoenix Suns,1,6-4,0,layup,False,0,True,True
+2014-02-25,22.6,Minnesota Timberwolves,Phoenix Suns,2,51-55,-6,two point jumper,False,15,False,True
+2014-02-25,24.0,Minnesota Timberwolves,Phoenix Suns,2,55-57,-5,three point jumper,False,25,False,True
+2014-02-25,30.6333333333,Minnesota Timberwolves,Phoenix Suns,3,68-70,-4,two point jumper,False,5,True,True
+2014-02-25,30.6333333333,Minnesota Timberwolves,Phoenix Suns,3,69-70,-2,free throw,False,15,True,True
+2014-02-25,31.7833333333,Minnesota Timberwolves,Phoenix Suns,3,69-74,-7,layup,False,0,False,True
+2014-02-25,46.9833333333,Minnesota Timberwolves,Phoenix Suns,4,104-97,5,two point shot,False,1,True,True
+2014-01-15,0.316666666667,Minnesota Timberwolves,Sacramento Kings,1,0-0,-2,layup,True,0,False,False
+2014-01-15,2.06666666667,Minnesota Timberwolves,Sacramento Kings,1,5-6,-2,three point jumper,True,23,True,False
+2014-01-15,2.51666666667,Minnesota Timberwolves,Sacramento Kings,1,7-8,-1,layup,True,0,True,False
+2014-01-15,20.55,Minnesota Timberwolves,Sacramento Kings,2,45-43,-5,three point jumper,True,24,False,False
+2014-01-15,28.6,Minnesota Timberwolves,Sacramento Kings,3,64-57,-9,two point jumper,True,16,False,False
+2014-03-01,0.516666666667,Minnesota Timberwolves,Sacramento Kings,1,2-0,0,layup,False,0,True,False
+2014-03-01,22.1666666667,Minnesota Timberwolves,Sacramento Kings,2,50-49,-1,layup,False,0,False,False
+2014-03-01,24.1833333333,Minnesota Timberwolves,Sacramento Kings,3,54-56,-3,free throw,False,15,True,False
+2014-03-01,24.1833333333,Minnesota Timberwolves,Sacramento Kings,3,54-56,-3,free throw,False,15,False,False
+2014-03-01,29.6666666667,Minnesota Timberwolves,Sacramento Kings,3,69-62,4,three point jumper,False,23,False,False
+2014-03-01,35.6333333333,Minnesota Timberwolves,Sacramento Kings,3,83-70,12,free throw,False,15,True,False
+2014-03-01,35.6333333333,Minnesota Timberwolves,Sacramento Kings,3,84-70,13,free throw,False,15,True,False
+2014-03-01,47.1166666667,Minnesota Timberwolves,Sacramento Kings,4,102-95,4,three point jumper,False,25,True,False
+2014-01-27,9.6,Minnesota Timberwolves,Chicago Bulls,1,19-13,4,two point jumper,False,22,False,True
+2014-01-27,12.0,Minnesota Timberwolves,Chicago Bulls,1,23-20,1,layup,False,0,False,True
+2014-01-27,22.8833333333,Minnesota Timberwolves,Chicago Bulls,2,51-45,4,layup,False,0,False,True
+2014-01-27,23.7333333333,Minnesota Timberwolves,Chicago Bulls,2,53-46,6,free throw,False,15,False,True
+2014-01-27,23.7333333333,Minnesota Timberwolves,Chicago Bulls,2,54-46,7,free throw,False,15,True,True
+2014-01-27,24.65,Minnesota Timberwolves,Chicago Bulls,3,56-46,8,two point shot,False,1,True,True
+2014-01-27,25.9,Minnesota Timberwolves,Chicago Bulls,3,58-48,8,layup,False,0,True,True
+2014-01-27,27.2666666667,Minnesota Timberwolves,Chicago Bulls,3,62-53,7,layup,False,0,True,True
+2014-01-27,29.6,Minnesota Timberwolves,Chicago Bulls,3,64-57,4,three point jumper,False,23,False,True
+2014-01-27,47.9333333333,Minnesota Timberwolves,Chicago Bulls,4,94-86,7,free throw,False,15,True,True
+2014-01-27,47.9333333333,Minnesota Timberwolves,Chicago Bulls,4,95-86,8,free throw,False,15,True,True
+2014-11-04,1.88333333333,Minnesota Timberwolves,Cleveland Cavaliers,1,2-2,-3,three point jumper,False,26,False,False
+2014-11-04,3.0,Minnesota Timberwolves,Cleveland Cavaliers,1,6-6,-1,free throw,False,15,True,False
+2014-11-04,3.0,Minnesota Timberwolves,Cleveland Cavaliers,1,7-6,0,free throw,False,15,True,False
+2014-11-04,6.81666666667,Minnesota Timberwolves,Cleveland Cavaliers,1,17-19,-5,three point jumper,False,25,False,False
+2014-11-04,22.75,Minnesota Timberwolves,Cleveland Cavaliers,2,36-55,-21,two point jumper,False,19,False,False
+2014-11-04,23.7666666667,Minnesota Timberwolves,Cleveland Cavaliers,2,37-55,-19,free throw,False,15,True,False
+2014-11-04,23.7666666667,Minnesota Timberwolves,Cleveland Cavaliers,2,38-55,-18,free throw,False,15,True,False
+2014-11-04,24.9,Minnesota Timberwolves,Cleveland Cavaliers,3,38-55,-19,two point jumper,False,22,False,False
+2014-11-04,25.7666666667,Minnesota Timberwolves,Cleveland Cavaliers,3,38-57,-22,three point jumper,False,26,False,False
+2014-11-04,28.3833333333,Minnesota Timberwolves,Cleveland Cavaliers,3,45-65,-22,two point jumper,False,16,False,False
+2014-11-13,3.46666666667,Minnesota Timberwolves,Cleveland Cavaliers,1,5-11,4,two point shot,True,1,True,False
+2014-11-13,6.23333333333,Minnesota Timberwolves,Cleveland Cavaliers,1,11-17,5,free throw,True,15,True,False
+2014-11-13,6.23333333333,Minnesota Timberwolves,Cleveland Cavaliers,1,11-18,6,free throw,True,15,True,False
+2014-11-13,10.6666666667,Minnesota Timberwolves,Cleveland Cavaliers,1,20-34,12,two point shot,True,9,True,False
+2014-11-13,10.6666666667,Minnesota Timberwolves,Cleveland Cavaliers,1,20-35,14,free throw,True,15,True,False
+2014-11-13,11.3,Minnesota Timberwolves,Cleveland Cavaliers,1,22-38,13,three point jumper,True,24,True,False
+2014-11-13,17.5333333333,Minnesota Timberwolves,Cleveland Cavaliers,2,31-57,24,layup,True,0,True,False
+2014-11-13,19.0333333333,Minnesota Timberwolves,Cleveland Cavaliers,2,35-59,22,layup,True,0,False,False
+2014-11-13,25.05,Minnesota Timberwolves,Cleveland Cavaliers,3,50-71,20,free throw,True,15,True,False
+2014-11-13,25.05,Minnesota Timberwolves,Cleveland Cavaliers,3,50-72,21,free throw,True,15,True,False
+2014-11-13,27.2,Minnesota Timberwolves,Cleveland Cavaliers,3,54-78,22,two point jumper,True,17,False,False
+2014-11-13,35.3,Minnesota Timberwolves,Cleveland Cavaliers,3,72-108,34,layup,True,0,True,False
+2014-12-10,2.33333333333,Minnesota Timberwolves,Detroit Pistons,1,7-2,3,two point shot,False,1,True,False
+2014-12-10,6.91666666667,Minnesota Timberwolves,Detroit Pistons,1,22-19,1,two point jumper,False,21,True,False
+2014-12-10,10.35,Minnesota Timberwolves,Detroit Pistons,1,31-28,1,two point jumper,False,20,False,False
+2014-12-10,20.0166666667,Minnesota Timberwolves,Detroit Pistons,2,52-47,2,three point jumper,False,26,False,False
+2014-12-10,24.3666666667,Minnesota Timberwolves,Detroit Pistons,3,67-51,13,three point jumper,False,25,True,False
+2014-12-10,30.3833333333,Minnesota Timberwolves,Detroit Pistons,3,79-63,15,free throw,False,15,True,False
+2014-12-10,30.3833333333,Minnesota Timberwolves,Detroit Pistons,3,80-63,16,free throw,False,15,True,False
+2014-12-10,31.1,Minnesota Timberwolves,Detroit Pistons,3,81-65,15,free throw,False,15,True,False
+2014-12-10,31.1,Minnesota Timberwolves,Detroit Pistons,3,82-65,16,free throw,False,15,True,False
+2014-12-10,31.5333333333,Minnesota Timberwolves,Detroit Pistons,3,84-68,14,two point jumper,False,21,True,False
+2014-12-10,33.5333333333,Minnesota Timberwolves,Detroit Pistons,3,84-72,10,layup,False,0,False,False
+2014-12-10,35.35,Minnesota Timberwolves,Detroit Pistons,3,94-75,17,layup,False,0,True,False
+2014-11-25,19.35,Minnesota Timberwolves,Indiana Pacers,2,33-38,-7,two point jumper,False,20,False,False
+2014-11-25,20.6833333333,Minnesota Timberwolves,Indiana Pacers,2,35-40,-6,free throw,False,15,False,False
+2014-11-25,20.6833333333,Minnesota Timberwolves,Indiana Pacers,2,36-40,-5,free throw,False,15,True,False
+2014-11-25,21.9333333333,Minnesota Timberwolves,Indiana Pacers,2,39-42,-5,two point shot,False,19,True,False
+2014-11-25,22.5833333333,Minnesota Timberwolves,Indiana Pacers,2,39-44,-7,two point jumper,False,11,False,False
+2014-11-25,26.8,Minnesota Timberwolves,Indiana Pacers,3,48-52,-7,three point jumper,False,24,False,False
+2014-11-25,38.4333333333,Minnesota Timberwolves,Indiana Pacers,4,68-77,-12,three point jumper,False,26,False,False
+2014-11-25,41.0,Minnesota Timberwolves,Indiana Pacers,4,70-82,-14,two point jumper,False,16,False,False
+2014-11-25,43.7333333333,Minnesota Timberwolves,Indiana Pacers,4,77-92,-17,two point shot,False,1,True,False
+2014-11-25,46.1,Minnesota Timberwolves,Indiana Pacers,4,82-98,-18,two point shot,False,22,True,False
+2014-02-19,2.71666666667,Minnesota Timberwolves,Indiana Pacers,1,5-6,-1,layup,True,0,False,False
+2014-02-19,4.85,Minnesota Timberwolves,Indiana Pacers,1,7-15,6,two point shot,True,15,True,False
+2014-02-19,5.31666666667,Minnesota Timberwolves,Indiana Pacers,1,7-15,6,two point jumper,True,9,False,False
+2014-02-19,7.91666666667,Minnesota Timberwolves,Indiana Pacers,1,10-21,9,two point jumper,True,21,False,False
+2014-02-19,8.6,Minnesota Timberwolves,Indiana Pacers,1,12-25,11,layup,True,0,True,False
+2014-02-19,9.08333333333,Minnesota Timberwolves,Indiana Pacers,1,14-25,9,layup,True,0,False,False
+2014-02-19,25.1333333333,Minnesota Timberwolves,Indiana Pacers,3,41-55,12,two point jumper,True,17,False,False
+2014-02-19,27.5666666667,Minnesota Timberwolves,Indiana Pacers,3,47-64,15,layup,True,0,False,False
+2014-02-19,32.5166666667,Minnesota Timberwolves,Indiana Pacers,3,60-73,12,free throw,True,15,True,False
+2014-02-19,32.5166666667,Minnesota Timberwolves,Indiana Pacers,3,60-73,12,free throw,True,15,False,False
+2014-02-19,44.6,Minnesota Timberwolves,Indiana Pacers,4,84-99,14,free throw,True,15,False,False
+2014-02-19,44.6,Minnesota Timberwolves,Indiana Pacers,4,84-99,14,free throw,True,15,False,False
+2014-02-19,45.0166666667,Minnesota Timberwolves,Indiana Pacers,4,86-99,11,layup,True,0,False,False
+2014-02-19,46.8833333333,Minnesota Timberwolves,Indiana Pacers,4,89-101,10,two point jumper,True,15,False,False
+2014-02-19,47.1833333333,Minnesota Timberwolves,Indiana Pacers,4,89-101,11,free throw,True,15,False,False
+2014-02-19,47.1833333333,Minnesota Timberwolves,Indiana Pacers,4,89-102,12,free throw,True,15,True,False
+2014-12-28,7.35,Minnesota Timberwolves,Milwaukee Bucks,1,19-19,-2,two point jumper,False,17,False,False
+2014-12-28,21.2,Minnesota Timberwolves,Milwaukee Bucks,2,59-50,7,two point jumper,False,4,False,False
+2014-12-28,25.95,Minnesota Timberwolves,Milwaukee Bucks,3,70-55,13,two point jumper,False,15,False,False
+2014-12-28,28.0333333333,Minnesota Timberwolves,Milwaukee Bucks,3,77-55,19,three point jumper,False,27,False,False
+2014-12-28,29.3833333333,Minnesota Timberwolves,Milwaukee Bucks,3,82-60,20,two point shot,False,1,True,False
+2014-12-28,45.3333333333,Minnesota Timberwolves,Milwaukee Bucks,4,108-93,14,free throw,False,15,True,False
+2014-12-28,45.3333333333,Minnesota Timberwolves,Milwaukee Bucks,4,109-93,15,free throw,False,15,True,False
+2014-11-08,2.56666666667,Minnesota Timberwolves,Dallas Mavericks,1,4-8,2,two point jumper,True,21,False,True
+2014-11-08,5.85,Minnesota Timberwolves,Dallas Mavericks,1,9-18,7,layup,True,0,True,True
+2014-11-08,23.85,Minnesota Timberwolves,Dallas Mavericks,2,56-53,-5,layup,True,0,False,True
+2014-11-08,28.9833333333,Minnesota Timberwolves,Dallas Mavericks,3,62-68,4,layup,True,0,True,True
+2014-11-08,44.2333333333,Minnesota Timberwolves,Dallas Mavericks,4,100-105,3,two point jumper,True,16,False,True
+2014-11-08,47.5833333333,Minnesota Timberwolves,Dallas Mavericks,4,102-113,10,free throw,True,15,True,True
+2014-11-08,47.5833333333,Minnesota Timberwolves,Dallas Mavericks,4,102-114,11,free throw,True,15,True,True
+2014-11-30,1.95,Minnesota Timberwolves,Dallas Mavericks,1,2-5,-6,three point jumper,False,24,False,True
+2014-11-30,4.0,Minnesota Timberwolves,Dallas Mavericks,1,8-9,-3,two point jumper,False,20,False,True
+2014-11-30,5.41666666667,Minnesota Timberwolves,Dallas Mavericks,1,14-11,2,free throw,False,15,True,True
+2014-11-30,5.41666666667,Minnesota Timberwolves,Dallas Mavericks,1,15-11,3,free throw,False,15,True,True
+2014-11-30,6.25,Minnesota Timberwolves,Dallas Mavericks,1,15-13,-1,three point jumper,False,24,False,True
+2014-11-30,20.7333333333,Minnesota Timberwolves,Dallas Mavericks,2,48-39,7,two point shot,False,20,True,True
+2014-11-30,21.4666666667,Minnesota Timberwolves,Dallas Mavericks,2,48-41,5,layup,False,0,False,True
+2014-11-30,23.9333333333,Minnesota Timberwolves,Dallas Mavericks,2,54-45,7,two point shot,False,1,False,True
+2014-11-30,26.2,Minnesota Timberwolves,Dallas Mavericks,3,56-53,0,three point jumper,False,26,False,True
+2014-11-30,26.9,Minnesota Timberwolves,Dallas Mavericks,3,58-55,1,two point shot,False,10,True,True
+2014-11-30,26.9,Minnesota Timberwolves,Dallas Mavericks,3,59-55,3,free throw,False,15,True,True
+2014-11-30,31.0,Minnesota Timberwolves,Dallas Mavericks,3,69-68,-2,three point jumper,False,23,True,True
+2014-11-30,43.4166666667,Minnesota Timberwolves,Dallas Mavericks,4,98-92,4,two point shot,False,1,True,True
+2014-11-30,45.35,Minnesota Timberwolves,Dallas Mavericks,4,103-94,6,three point jumper,False,23,False,True
+2014-12-30,21.65,Minnesota Timberwolves,Dallas Mavericks,2,51-39,-14,two point jumper,True,18,False,True
+2014-12-30,23.7166666667,Minnesota Timberwolves,Dallas Mavericks,2,60-42,-19,free throw,True,15,True,True
+2014-12-30,23.7166666667,Minnesota Timberwolves,Dallas Mavericks,2,60-43,-18,free throw,True,15,True,True
+2014-12-30,27.2,Minnesota Timberwolves,Dallas Mavericks,3,66-49,-19,layup,True,0,True,True
+2014-12-30,31.6666666667,Minnesota Timberwolves,Dallas Mavericks,3,74-66,-11,three point jumper,True,23,False,True
+2014-11-23,1.13333333333,Minnesota Timberwolves,Houston Rockets,1,0-3,-5,layup,False,0,False,False
+2014-11-23,10.1666666667,Minnesota Timberwolves,Houston Rockets,1,16-20,-6,two point jumper,False,18,False,False
+2014-11-23,19.8166666667,Minnesota Timberwolves,Houston Rockets,2,31-41,-13,three point jumper,False,25,True,False
+2014-11-23,30.9166666667,Minnesota Timberwolves,Houston Rockets,3,60-70,-12,two point jumper,False,22,True,False
+2014-11-23,33.85,Minnesota Timberwolves,Houston Rockets,3,67-75,-10,layup,False,0,True,False
+2014-11-23,34.8833333333,Minnesota Timberwolves,Houston Rockets,3,67-77,-12,two point jumper,False,21,False,False
+2014-11-23,44.6,Minnesota Timberwolves,Houston Rockets,4,91-108,-19,two point jumper,False,14,False,False
+2014-02-10,0.466666666667,Minnesota Timberwolves,Houston Rockets,1,0-0,-2,two point jumper,True,16,False,True
+2014-02-10,1.0,Minnesota Timberwolves,Houston Rockets,1,2-3,-2,three point jumper,True,24,True,True
+2014-02-10,4.6,Minnesota Timberwolves,Houston Rockets,1,13-10,-6,three point jumper,True,26,False,True
+2014-02-10,5.78333333333,Minnesota Timberwolves,Houston Rockets,1,19-14,-7,two point jumper,True,22,False,True
+2014-02-10,21.4,Minnesota Timberwolves,Houston Rockets,2,56-50,-9,three point jumper,True,25,False,True
+2014-02-10,22.0,Minnesota Timberwolves,Houston Rockets,2,59-52,-9,layup,True,0,True,True
+2014-02-10,23.2166666667,Minnesota Timberwolves,Houston Rockets,2,62-55,-8,free throw,True,15,True,True
+2014-02-10,23.2166666667,Minnesota Timberwolves,Houston Rockets,2,62-56,-7,free throw,True,15,True,True
+2014-02-10,26.0666666667,Minnesota Timberwolves,Houston Rockets,3,69-64,-8,three point jumper,True,25,False,True
+2014-02-10,26.7,Minnesota Timberwolves,Houston Rockets,3,71-64,-9,layup,True,0,False,True
+2014-02-10,29.2,Minnesota Timberwolves,Houston Rockets,3,79-64,-17,two point jumper,True,17,False,True
+2014-02-10,44.4833333333,Minnesota Timberwolves,Houston Rockets,4,98-83,-17,layup,True,0,False,True
+2014-12-15,4.45,Minnesota Timberwolves,Memphis Grizzlies,1,9-6,1,two point jumper,False,20,False,False
+2014-12-15,6.13333333333,Minnesota Timberwolves,Memphis Grizzlies,1,17-8,6,three point jumper,False,24,True,False
+2014-12-15,6.73333333333,Minnesota Timberwolves,Memphis Grizzlies,1,18-10,7,free throw,False,15,True,False
+2014-12-15,6.73333333333,Minnesota Timberwolves,Memphis Grizzlies,1,19-10,8,free throw,False,15,True,False
+2014-12-15,8.5,Minnesota Timberwolves,Memphis Grizzlies,1,21-12,6,three point jumper,False,25,False,False
+2014-12-15,22.05,Minnesota Timberwolves,Memphis Grizzlies,2,54-40,12,two point jumper,False,21,False,False
+2014-12-15,24.2666666667,Minnesota Timberwolves,Memphis Grizzlies,3,56-46,8,two point jumper,False,21,False,False
+2014-12-15,26.1333333333,Minnesota Timberwolves,Memphis Grizzlies,3,57-51,5,free throw,False,15,True,False
+2014-12-15,26.1333333333,Minnesota Timberwolves,Memphis Grizzlies,3,57-51,5,free throw,False,15,False,False
+2014-12-15,29.1333333333,Minnesota Timberwolves,Memphis Grizzlies,3,64-56,6,layup,False,0,True,False
+2014-12-15,29.1333333333,Minnesota Timberwolves,Memphis Grizzlies,3,65-56,8,free throw,False,15,True,False
+2014-12-15,32.2,Minnesota Timberwolves,Memphis Grizzlies,3,67-64,1,two point jumper,False,22,False,False
+2014-12-15,33.8666666667,Minnesota Timberwolves,Memphis Grizzlies,3,73-66,4,three point jumper,False,25,True,False
+2014-01-31,0.566666666667,Minnesota Timberwolves,Memphis Grizzlies,1,2-1,-2,free throw,True,15,True,False
+2014-01-31,0.566666666667,Minnesota Timberwolves,Memphis Grizzlies,1,2-2,-1,free throw,True,15,True,False
+2014-01-31,2.05,Minnesota Timberwolves,Memphis Grizzlies,1,6-4,-4,two point shot,True,14,False,False
+2014-01-31,3.68333333333,Minnesota Timberwolves,Memphis Grizzlies,1,11-8,-5,layup,True,0,True,False
+2014-01-31,19.9833333333,Minnesota Timberwolves,Memphis Grizzlies,2,44-35,-11,layup,True,0,True,False
+2014-01-31,23.9833333333,Minnesota Timberwolves,Memphis Grizzlies,2,50-37,-15,layup,True,0,False,False
+2014-01-31,33.3166666667,Minnesota Timberwolves,Memphis Grizzlies,3,63-55,-11,three point jumper,True,25,False,False
+2014-01-01,2.88333333333,Minnesota Timberwolves,New Orleans Pelicans,1,2-8,4,layup,True,0,True,True
+2014-01-01,3.21666666667,Minnesota Timberwolves,New Orleans Pelicans,1,4-10,4,layup,True,0,True,True
+2014-01-01,5.63333333333,Minnesota Timberwolves,New Orleans Pelicans,1,13-12,-3,two point jumper,True,19,False,True
+2014-01-01,8.75,Minnesota Timberwolves,New Orleans Pelicans,1,21-20,-2,free throw,True,15,True,True
+2014-01-01,8.75,Minnesota Timberwolves,New Orleans Pelicans,1,21-21,-1,free throw,True,15,True,True
+2014-01-01,19.3166666667,Minnesota Timberwolves,New Orleans Pelicans,2,39-43,2,layup,True,0,False,True
+2014-01-01,21.7,Minnesota Timberwolves,New Orleans Pelicans,2,43-52,8,free throw,True,15,False,True
+2014-01-01,21.7,Minnesota Timberwolves,New Orleans Pelicans,2,43-53,9,free throw,True,15,True,True
+2014-01-01,23.3666666667,Minnesota Timberwolves,New Orleans Pelicans,2,47-61,11,three point jumper,True,25,True,True
+2014-01-01,25.5166666667,Minnesota Timberwolves,New Orleans Pelicans,3,51-64,12,free throw,True,15,True,True
+2014-01-01,25.5166666667,Minnesota Timberwolves,New Orleans Pelicans,3,51-65,13,free throw,True,15,True,True
+2014-01-01,29.5333333333,Minnesota Timberwolves,New Orleans Pelicans,3,53-80,25,layup,True,0,True,True
+2014-01-29,1.76666666667,Minnesota Timberwolves,New Orleans Pelicans,1,0-4,2,layup,True,0,True,True
+2014-01-29,7.13333333333,Minnesota Timberwolves,New Orleans Pelicans,1,7-10,1,layup,True,0,False,True
+2014-01-29,9.36666666667,Minnesota Timberwolves,New Orleans Pelicans,1,9-16,4,three point jumper,True,23,False,True
+2014-01-29,43.2833333333,Minnesota Timberwolves,New Orleans Pelicans,4,71-82,10,free throw,True,15,True,True
+2014-01-29,45.5666666667,Minnesota Timberwolves,New Orleans Pelicans,4,73-83,9,free throw,True,15,True,True
+2014-01-29,45.5666666667,Minnesota Timberwolves,New Orleans Pelicans,4,73-84,10,free throw,True,15,True,True
+2014-02-07,7.63333333333,Minnesota Timberwolves,New Orleans Pelicans,1,14-17,-5,two point jumper,False,18,True,False
+2014-02-07,21.85,Minnesota Timberwolves,New Orleans Pelicans,2,44-35,7,two point jumper,False,20,False,False
+2014-02-07,24.3,Minnesota Timberwolves,New Orleans Pelicans,3,47-42,3,two point jumper,False,3,False,False
+2014-02-07,25.9,Minnesota Timberwolves,New Orleans Pelicans,3,50-44,4,two point jumper,False,18,False,False
+2014-02-07,32.45,Minnesota Timberwolves,New Orleans Pelicans,3,61-57,2,two point jumper,False,22,False,False
+2014-02-07,34.9333333333,Minnesota Timberwolves,New Orleans Pelicans,3,68-59,8,free throw,False,15,True,False
+2014-02-07,34.9333333333,Minnesota Timberwolves,New Orleans Pelicans,3,69-59,9,free throw,False,15,True,False
+2014-02-07,45.7,Minnesota Timberwolves,New Orleans Pelicans,4,85-89,-7,three point jumper,False,25,True,False
+2014-02-07,46.35,Minnesota Timberwolves,New Orleans Pelicans,4,86-92,-7,free throw,False,15,True,False
+2014-02-07,46.35,Minnesota Timberwolves,New Orleans Pelicans,4,87-92,-6,free throw,False,15,True,False
+2014-02-07,46.6666666667,Minnesota Timberwolves,New Orleans Pelicans,4,89-94,-7,layup,False,0,True,False
+2014-02-07,47.8333333333,Minnesota Timberwolves,New Orleans Pelicans,4,91-98,-10,three point jumper,False,26,False,False
+2014-12-13,7.25,Minnesota Timberwolves,San Antonio Spurs,1,18-14,2,two point jumper,False,20,False,False
+2014-12-13,9.55,Minnesota Timberwolves,San Antonio Spurs,1,22-21,-1,two point jumper,False,16,True,False
+2014-12-13,10.0,Minnesota Timberwolves,San Antonio Spurs,1,24-23,-1,two point jumper,False,19,True,False
+2014-12-13,10.6166666667,Minnesota Timberwolves,San Antonio Spurs,1,26-23,1,two point jumper,False,20,True,False
+2014-12-13,21.8,Minnesota Timberwolves,San Antonio Spurs,2,47-51,-6,two point jumper,False,21,False,False
+2014-12-13,25.6833333333,Minnesota Timberwolves,San Antonio Spurs,3,56-64,-11,three point jumper,False,25,False,False
+2014-12-13,27.7,Minnesota Timberwolves,San Antonio Spurs,3,66-64,0,two point jumper,False,19,True,False
+2014-12-13,30.1,Minnesota Timberwolves,San Antonio Spurs,3,74-73,-1,layup,False,0,False,False
+2014-12-13,34.1,Minnesota Timberwolves,San Antonio Spurs,3,85-77,7,free throw,False,15,True,False
+2014-12-13,34.1,Minnesota Timberwolves,San Antonio Spurs,3,86-77,8,free throw,False,15,True,False
+2014-12-13,35.85,Minnesota Timberwolves,San Antonio Spurs,3,89-80,8,free throw,False,15,True,False
+2014-12-13,35.85,Minnesota Timberwolves,San Antonio Spurs,3,89-80,8,free throw,False,15,False,False
+2014-12-13,43.6,Minnesota Timberwolves,San Antonio Spurs,4,104-104,-2,two point jumper,False,18,True,False
+2014-12-13,44.3,Minnesota Timberwolves,San Antonio Spurs,4,104-104,-2,layup,False,0,False,False
+2014-12-13,45.25,Minnesota Timberwolves,San Antonio Spurs,4,107-107,-1,free throw,False,15,True,False
+2014-12-13,45.25,Minnesota Timberwolves,San Antonio Spurs,4,108-107,0,free throw,False,15,True,False
+2014-12-13,46.8833333333,Minnesota Timberwolves,San Antonio Spurs,4,108-113,-8,three point jumper,False,25,False,False
+2014-12-13,47.5833333333,Minnesota Timberwolves,San Antonio Spurs,4,110-115,-7,two point jumper,False,21,False,False
+2014-01-12,5.16666666667,Minnesota Timberwolves,San Antonio Spurs,1,9-8,-2,three point jumper,False,25,True,True
+2014-01-12,18.7,Minnesota Timberwolves,San Antonio Spurs,2,35-34,-1,layup,False,0,True,True
+2014-01-12,23.5666666667,Minnesota Timberwolves,San Antonio Spurs,2,47-52,-7,layup,False,0,False,True
+2014-01-12,25.65,Minnesota Timberwolves,San Antonio Spurs,3,51-54,-5,two point jumper,False,18,False,True
+2014-01-12,32.35,Minnesota Timberwolves,San Antonio Spurs,3,68-71,-5,two point shot,False,1,True,True
+2014-01-12,34.2166666667,Minnesota Timberwolves,San Antonio Spurs,3,68-77,-12,three point jumper,False,23,False,True
+2014-02-01,2.95,Minnesota Timberwolves,Atlanta Hawks,1,3-8,-8,three point jumper,False,22,False,False
+2014-02-01,3.81666666667,Minnesota Timberwolves,Atlanta Hawks,1,3-8,-7,two point jumper,False,20,False,False
+2014-02-01,6.88333333333,Minnesota Timberwolves,Atlanta Hawks,1,11-18,-9,layup,False,0,True,False
+2014-02-01,24.2166666667,Minnesota Timberwolves,Atlanta Hawks,3,55-48,6,free throw,False,15,False,False
+2014-02-01,24.2166666667,Minnesota Timberwolves,Atlanta Hawks,3,56-48,7,free throw,False,15,True,False
+2014-02-01,44.8,Minnesota Timberwolves,Atlanta Hawks,4,101-107,-7,free throw,False,15,True,False
+2014-02-01,44.8,Minnesota Timberwolves,Atlanta Hawks,4,102-107,-6,free throw,False,15,True,False
+2014-01-10,1.18333333333,Minnesota Timberwolves,Charlotte Bobcats,1,2-5,0,three point jumper,True,23,True,False
+2014-01-10,5.38333333333,Minnesota Timberwolves,Charlotte Bobcats,1,12-17,3,two point shot,True,19,True,False
+2014-01-10,6.41666666667,Minnesota Timberwolves,Charlotte Bobcats,1,17-19,0,layup,True,0,False,False
+2014-01-10,7.91666666667,Minnesota Timberwolves,Charlotte Bobcats,1,22-21,-3,two point jumper,True,17,False,False
+2014-01-10,20.9666666667,Minnesota Timberwolves,Charlotte Bobcats,2,36-58,19,three point jumper,True,24,True,False
+2014-01-10,21.9666666667,Minnesota Timberwolves,Charlotte Bobcats,2,40-60,18,layup,True,0,False,False
+2014-01-10,29.6333333333,Minnesota Timberwolves,Charlotte Bobcats,3,54-81,25,layup,True,0,False,False
+2014-01-10,34.4166666667,Minnesota Timberwolves,Charlotte Bobcats,3,65-91,24,two point jumper,True,12,False,False
+2014-01-10,35.8833333333,Minnesota Timberwolves,Charlotte Bobcats,3,70-95,22,three point jumper,True,25,False,False
+2014-01-10,36.0,Minnesota Timberwolves,Charlotte Bobcats,3,70-95,23,two point jumper,True,15,False,False
+2014-12-07,14.9,Minnesota Timberwolves,Miami Heat,2,33-27,-8,layup,True,0,False,True
+2014-12-07,16.2,Minnesota Timberwolves,Miami Heat,2,35-30,-6,free throw,True,15,True,True
+2014-12-07,16.2,Minnesota Timberwolves,Miami Heat,2,35-30,-6,free throw,True,15,False,True
+2014-12-07,16.4166666667,Minnesota Timberwolves,Miami Heat,2,35-30,-7,two point jumper,True,18,False,True
+2014-12-07,24.0,Minnesota Timberwolves,Miami Heat,2,55-42,-16,three point jumper,True,23,False,True
+2014-12-07,27.95,Minnesota Timberwolves,Miami Heat,3,59-54,-7,layup,True,0,False,True
+2014-10-30,4.31666666667,Minnesota Timberwolves,Orlando Magic,1,6-10,2,layup,True,0,True,True
+2014-10-30,5.56666666667,Minnesota Timberwolves,Orlando Magic,1,10-13,1,two point jumper,True,18,False,True
+2014-10-30,6.06666666667,Minnesota Timberwolves,Orlando Magic,1,10-15,3,two point shot,True,17,True,True
+2014-10-30,17.5333333333,Minnesota Timberwolves,Orlando Magic,2,36-50,12,layup,True,0,True,True
+2014-10-30,18.5,Minnesota Timberwolves,Orlando Magic,2,36-50,12,layup,True,0,False,True
+2014-10-30,20.8333333333,Minnesota Timberwolves,Orlando Magic,2,45-55,7,three point jumper,True,26,False,True
+2014-10-30,31.5666666667,Minnesota Timberwolves,Orlando Magic,3,71-75,1,three point jumper,True,23,True,True
+2014-10-30,31.9166666667,Minnesota Timberwolves,Orlando Magic,3,71-77,4,layup,True,0,True,True
+2014-10-30,40.7833333333,Minnesota Timberwolves,Orlando Magic,4,86-91,3,two point shot,True,15,False,True
+2014-10-30,45.7833333333,Minnesota Timberwolves,Orlando Magic,4,99-98,-3,two point jumper,True,19,False,True
+2014-10-30,47.75,Minnesota Timberwolves,Orlando Magic,4,101-100,-3,two point jumper,True,19,False,True
+2014-10-30,48.3833333333,Minnesota Timberwolves,Orlando Magic,5,103-103,-2,two point jumper,True,14,False,True
+2014-10-30,51.3833333333,Minnesota Timberwolves,Orlando Magic,5,107-113,3,three point jumper,True,25,False,True
+2014-10-30,52.5166666667,Minnesota Timberwolves,Orlando Magic,5,111-116,4,free throw,True,15,True,True
+2014-10-30,52.5166666667,Minnesota Timberwolves,Orlando Magic,5,111-117,5,free throw,True,15,True,True
+2014-11-19,1.51666666667,Minnesota Timberwolves,Washington Wizards,1,2-4,-4,two point jumper,False,22,False,False
+2014-11-19,3.46666666667,Minnesota Timberwolves,Washington Wizards,1,8-10,-4,two point shot,False,13,True,False
+2014-11-19,4.1,Minnesota Timberwolves,Washington Wizards,1,11-12,-4,three point jumper,False,27,True,False
+2014-11-19,28.6333333333,Minnesota Timberwolves,Washington Wizards,3,66-59,5,two point jumper,False,19,False,False
+2014-11-19,29.75,Minnesota Timberwolves,Washington Wizards,3,69-64,4,free throw,False,15,True,False
+2014-11-19,29.75,Minnesota Timberwolves,Washington Wizards,3,70-64,5,free throw,False,15,True,False
+2014-11-19,33.3333333333,Minnesota Timberwolves,Washington Wizards,3,76-75,-1,two point shot,False,18,True,False
+2014-11-19,35.7833333333,Minnesota Timberwolves,Washington Wizards,3,78-79,-2,free throw,False,15,False,False
+2014-11-19,35.7833333333,Minnesota Timberwolves,Washington Wizards,3,79-79,-1,free throw,False,15,True,False
+2014-12-27,6.41666666667,Minnesota Timberwolves,Washington Wizards,1,15-13,-4,two point jumper,True,17,False,False
+2014-12-27,8.68333333333,Minnesota Timberwolves,Washington Wizards,1,17-16,-3,layup,True,0,False,False
+2014-12-27,9.41666666667,Minnesota Timberwolves,Washington Wizards,1,19-19,-1,free throw,True,15,True,False
+2014-12-27,9.41666666667,Minnesota Timberwolves,Washington Wizards,1,19-20,0,free throw,True,15,True,False
+2014-12-27,21.4333333333,Minnesota Timberwolves,Washington Wizards,2,38-49,10,free throw,True,15,True,False
+2014-12-27,21.4333333333,Minnesota Timberwolves,Washington Wizards,2,38-50,11,free throw,True,15,True,False
+2014-12-27,23.3666666667,Minnesota Timberwolves,Washington Wizards,2,45-59,12,two point shot,True,1,True,False
+2014-12-27,25.0166666667,Minnesota Timberwolves,Washington Wizards,3,49-61,11,free throw,True,15,False,False
+2014-12-27,25.0166666667,Minnesota Timberwolves,Washington Wizards,3,49-62,12,free throw,True,15,True,False
+2014-12-27,30.6333333333,Minnesota Timberwolves,Washington Wizards,3,60-78,16,layup,True,0,True,False
+2014-12-27,35.2166666667,Minnesota Timberwolves,Washington Wizards,3,70-86,14,layup,True,0,False,False
+2014-12-27,35.2833333333,Minnesota Timberwolves,Washington Wizards,3,70-87,16,free throw,True,15,True,False
+2014-12-27,35.2833333333,Minnesota Timberwolves,Washington Wizards,3,70-88,17,free throw,True,15,True,False
+2014-11-15,4.13333333333,Minnesota Timberwolves,Denver Nuggets,1,10-10,-2,layup,False,0,False,False
+2014-11-15,8.28333333333,Minnesota Timberwolves,Denver Nuggets,1,17-25,-10,layup,False,0,False,False
+2014-11-15,9.65,Minnesota Timberwolves,Denver Nuggets,1,21-26,-7,two point jumper,False,19,False,False
+2014-11-27,4.16666666667,Minnesota Timberwolves,Denver Nuggets,1,12-8,-6,layup,True,0,True,False
+2014-11-27,5.1,Minnesota Timberwolves,Denver Nuggets,1,14-12,-4,layup,True,0,True,False
+2014-11-27,8.08333333333,Minnesota Timberwolves,Denver Nuggets,1,18-19,-1,layup,True,0,False,False
+2014-11-27,9.75,Minnesota Timberwolves,Denver Nuggets,1,22-23,-1,layup,True,0,False,False
+2014-11-27,12.0,Minnesota Timberwolves,Denver Nuggets,1,28-27,-4,three point jumper,True,25,False,False
+2014-11-27,24.3166666667,Minnesota Timberwolves,Denver Nuggets,3,64-57,-9,layup,True,0,True,False
+2014-11-27,25.3,Minnesota Timberwolves,Denver Nuggets,3,68-59,-11,two point shot,True,21,True,False
+2014-11-27,27.75,Minnesota Timberwolves,Denver Nuggets,3,72-68,-6,two point jumper,True,21,True,False
+2014-11-27,29.2,Minnesota Timberwolves,Denver Nuggets,3,74-69,-6,free throw,True,15,True,False
+2014-11-27,29.2,Minnesota Timberwolves,Denver Nuggets,3,74-70,-5,free throw,True,15,True,False
+2014-11-27,29.8166666667,Minnesota Timberwolves,Denver Nuggets,3,76-72,-6,two point jumper,True,16,True,False
+2014-11-27,30.75,Minnesota Timberwolves,Denver Nuggets,3,79-72,-9,two point jumper,True,22,False,False
+2014-11-27,35.95,Minnesota Timberwolves,Denver Nuggets,3,90-81,-10,free throw,True,15,True,False
+2014-11-27,35.95,Minnesota Timberwolves,Denver Nuggets,3,90-81,-10,free throw,True,15,False,False
+2014-11-27,37.55,Minnesota Timberwolves,Denver Nuggets,4,92-85,-9,two point jumper,True,20,False,False
+2014-11-27,41.3833333333,Minnesota Timberwolves,Denver Nuggets,4,101-91,-11,free throw,True,15,True,False
+2014-11-27,41.3833333333,Minnesota Timberwolves,Denver Nuggets,4,101-92,-10,free throw,True,15,True,False
+2014-02-12,1.56666666667,Minnesota Timberwolves,Denver Nuggets,1,0-5,3,two point shot,True,1,True,False
+2014-02-12,2.15,Minnesota Timberwolves,Denver Nuggets,1,0-7,5,two point jumper,True,20,True,False
+2014-02-12,4.6,Minnesota Timberwolves,Denver Nuggets,1,3-19,14,two point shot,True,19,True,False
+2014-02-12,7.73333333333,Minnesota Timberwolves,Denver Nuggets,1,12-26,12,layup,True,0,True,False
+2014-02-12,22.2833333333,Minnesota Timberwolves,Denver Nuggets,2,35-58,21,layup,True,0,False,False
+2014-02-12,32.0666666667,Minnesota Timberwolves,Denver Nuggets,3,58-77,18,free throw,True,15,True,False
+2014-02-12,32.0666666667,Minnesota Timberwolves,Denver Nuggets,3,58-78,19,free throw,True,15,True,False
+2014-02-12,33.2833333333,Minnesota Timberwolves,Denver Nuggets,3,60-79,18,free throw,True,15,False,False
+2014-02-12,33.2833333333,Minnesota Timberwolves,Denver Nuggets,3,60-80,19,free throw,True,15,True,False
+2014-11-01,3.5,Minnesota Timberwolves,Oklahoma City Thunder,1,4-7,1,two point jumper,True,18,False,False
+2014-11-01,5.56666666667,Minnesota Timberwolves,Oklahoma City Thunder,1,8-14,5,free throw,True,15,True,False
+2014-11-01,5.56666666667,Minnesota Timberwolves,Oklahoma City Thunder,1,8-15,6,free throw,True,15,True,False
+2014-11-01,10.7833333333,Minnesota Timberwolves,Oklahoma City Thunder,1,16-30,13,free throw,True,15,True,False
+2014-11-01,10.7833333333,Minnesota Timberwolves,Oklahoma City Thunder,1,16-31,14,free throw,True,15,True,False
+2014-11-01,20.95,Minnesota Timberwolves,Oklahoma City Thunder,2,31-49,15,three point jumper,True,25,False,False
+2014-11-01,21.2166666667,Minnesota Timberwolves,Oklahoma City Thunder,2,31-49,16,layup,True,0,False,False
+2014-11-01,25.5833333333,Minnesota Timberwolves,Oklahoma City Thunder,3,43-63,17,three point jumper,True,26,True,False
+2014-11-01,29.4166666667,Minnesota Timberwolves,Oklahoma City Thunder,3,47-67,18,layup,True,0,True,False
+2014-11-01,30.95,Minnesota Timberwolves,Oklahoma City Thunder,3,49-73,22,layup,True,0,True,False
+2014-11-01,32.1166666667,Minnesota Timberwolves,Oklahoma City Thunder,3,51-73,20,two point jumper,True,17,False,False
+2014-11-01,35.9833333333,Minnesota Timberwolves,Oklahoma City Thunder,3,60-88,25,three point jumper,True,25,True,False
+2014-12-01,18.45,Minnesota Timberwolves,Oklahoma City Thunder,2,49-40,6,three point jumper,False,25,False,False
+2014-12-01,21.1,Minnesota Timberwolves,Oklahoma City Thunder,2,53-46,5,two point shot,False,13,True,False
+2014-12-01,24.9,Minnesota Timberwolves,Oklahoma City Thunder,3,60-57,1,two point shot,False,23,True,False
+2014-12-01,32.3666666667,Minnesota Timberwolves,Oklahoma City Thunder,3,75-70,3,two point shot,False,1,True,False
+2014-12-01,44.5,Minnesota Timberwolves,Oklahoma City Thunder,4,92-103,-13,two point shot,False,17,True,False
+2014-12-18,6.95,Minnesota Timberwolves,Portland Trail Blazers,1,16-20,2,two point shot,True,1,True,True
+2014-12-18,7.73333333333,Minnesota Timberwolves,Portland Trail Blazers,1,18-22,2,two point shot,True,1,True,True
+2014-12-18,9.48333333333,Minnesota Timberwolves,Portland Trail Blazers,1,20-26,4,two point jumper,True,13,False,True
+2014-12-18,11.95,Minnesota Timberwolves,Portland Trail Blazers,1,22-31,7,layup,True,0,False,True
+2014-12-18,12.3,Minnesota Timberwolves,Portland Trail Blazers,2,22-31,7,two point jumper,True,18,False,True
+2014-12-18,27.1333333333,Minnesota Timberwolves,Portland Trail Blazers,3,51-72,19,two point jumper,True,15,False,True
+2014-12-18,40.85,Minnesota Timberwolves,Portland Trail Blazers,4,90-107,15,layup,True,0,False,True
+2014-12-18,41.8833333333,Minnesota Timberwolves,Portland Trail Blazers,4,93-109,13,three point jumper,True,28,False,True
+2014-12-18,44.9,Minnesota Timberwolves,Portland Trail Blazers,4,99-113,12,two point jumper,True,21,False,True
+2014-12-18,45.7166666667,Minnesota Timberwolves,Portland Trail Blazers,4,101-113,10,two point jumper,True,15,False,True
+2014-12-18,46.2166666667,Minnesota Timberwolves,Portland Trail Blazers,4,104-113,8,free throw,True,15,False,True
+2014-12-18,46.2166666667,Minnesota Timberwolves,Portland Trail Blazers,4,104-114,9,free throw,True,15,True,True
+2014-12-18,47.25,Minnesota Timberwolves,Portland Trail Blazers,4,109-115,5,free throw,True,15,True,True
+2014-12-18,47.25,Minnesota Timberwolves,Portland Trail Blazers,4,109-116,6,free throw,True,15,True,True
+2014-12-18,47.3166666667,Minnesota Timberwolves,Portland Trail Blazers,4,109-117,7,free throw,True,15,True,True
+2014-12-18,47.3166666667,Minnesota Timberwolves,Portland Trail Blazers,4,109-118,8,free throw,True,15,True,True
+2014-01-04,1.7,Minnesota Timberwolves,Oklahoma City Thunder,1,2-4,0,two point shot,True,1,True,False
+2014-01-04,2.2,Minnesota Timberwolves,Oklahoma City Thunder,1,4-4,-2,two point jumper,True,19,False,False
+2014-01-04,2.88333333333,Minnesota Timberwolves,Oklahoma City Thunder,1,4-6,0,two point jumper,True,6,False,False
+2014-01-04,3.2,Minnesota Timberwolves,Oklahoma City Thunder,1,4-8,2,layup,True,0,True,False
+2014-01-04,3.7,Minnesota Timberwolves,Oklahoma City Thunder,1,6-10,2,layup,True,0,True,False
+2014-01-04,5.35,Minnesota Timberwolves,Oklahoma City Thunder,1,8-10,-1,three point jumper,True,25,False,False
+2014-01-04,19.6,Minnesota Timberwolves,Oklahoma City Thunder,2,41-42,0,free throw,True,15,True,False
+2014-01-04,19.6,Minnesota Timberwolves,Oklahoma City Thunder,2,41-43,1,free throw,True,15,True,False
+2014-01-04,19.8833333333,Minnesota Timberwolves,Oklahoma City Thunder,2,43-43,-2,layup,True,0,False,False
+2014-01-04,21.8166666667,Minnesota Timberwolves,Oklahoma City Thunder,2,47-50,1,layup,True,0,False,False
+2014-01-04,23.4,Minnesota Timberwolves,Oklahoma City Thunder,2,49-54,4,free throw,True,15,True,False
+2014-01-04,23.4,Minnesota Timberwolves,Oklahoma City Thunder,2,49-55,5,free throw,True,15,True,False
+2014-01-04,27.2666666667,Minnesota Timberwolves,Oklahoma City Thunder,3,54-63,7,layup,True,0,True,False
+2014-01-04,30.6666666667,Minnesota Timberwolves,Oklahoma City Thunder,3,64-69,4,free throw,True,15,False,False
+2014-01-04,30.6666666667,Minnesota Timberwolves,Oklahoma City Thunder,3,64-70,5,free throw,True,15,True,False
+2014-01-04,44.4,Minnesota Timberwolves,Oklahoma City Thunder,4,103-105,0,two point jumper,True,19,False,False
+2014-01-04,44.9,Minnesota Timberwolves,Oklahoma City Thunder,4,103-105,0,two point jumper,True,10,False,False
+2014-01-04,46.4,Minnesota Timberwolves,Oklahoma City Thunder,4,107-107,-2,two point shot,True,14,False,False
+2014-01-18,2.7,Minnesota Timberwolves,Utah Jazz,1,7-6,-3,layup,True,0,False,True
+2014-01-18,7.81666666667,Minnesota Timberwolves,Utah Jazz,1,12-18,4,layup,True,0,False,True
+2014-01-18,19.35,Minnesota Timberwolves,Utah Jazz,2,19-36,14,three point jumper,True,24,True,True
+2014-01-18,22.1166666667,Minnesota Timberwolves,Utah Jazz,2,23-46,22,free throw,True,15,True,True
+2014-01-18,22.1166666667,Minnesota Timberwolves,Utah Jazz,2,23-46,22,free throw,True,15,False,True
+2014-01-18,35.3166666667,Minnesota Timberwolves,Utah Jazz,3,43-79,34,layup,True,0,True,True
+2014-01-21,7.48333333333,Minnesota Timberwolves,Utah Jazz,1,20-8,11,free throw,False,15,True,False
+2014-01-21,7.48333333333,Minnesota Timberwolves,Utah Jazz,1,21-8,12,free throw,False,15,True,False
+2014-01-21,20.0833333333,Minnesota Timberwolves,Utah Jazz,2,46-33,11,layup,False,0,True,False
+2014-01-21,21.0,Minnesota Timberwolves,Utah Jazz,2,48-33,13,layup,False,0,False,False
+2014-01-21,21.8333333333,Minnesota Timberwolves,Utah Jazz,2,52-35,15,layup,False,0,True,False
+2014-01-21,27.9,Minnesota Timberwolves,Utah Jazz,3,61-50,8,three point jumper,False,24,True,False
+2014-01-21,30.8166666667,Minnesota Timberwolves,Utah Jazz,3,68-49,16,three point jumper,False,25,False,False
+2014-01-21,43.5,Minnesota Timberwolves,Utah Jazz,4,99-81,17,free throw,False,15,True,False
+2014-01-21,43.5,Minnesota Timberwolves,Utah Jazz,4,100-81,18,free throw,False,15,True,False
+2014-01-25,5.1,Minnesota Timberwolves,Portland Trail Blazers,1,14-12,0,layup,False,0,True,False
+2014-01-25,8.21666666667,Minnesota Timberwolves,Portland Trail Blazers,1,19-18,0,free throw,False,15,True,False
+2014-01-25,8.21666666667,Minnesota Timberwolves,Portland Trail Blazers,1,20-18,1,free throw,False,15,True,False
+2014-01-25,19.4166666667,Minnesota Timberwolves,Portland Trail Blazers,2,48-53,-7,two point shot,False,1,True,False
+2014-01-25,19.8166666667,Minnesota Timberwolves,Portland Trail Blazers,2,48-53,-7,two point shot,False,1,False,False
+2014-01-25,20.2833333333,Minnesota Timberwolves,Portland Trail Blazers,2,48-53,-8,three point jumper,False,25,False,False
+2014-01-25,26.75,Minnesota Timberwolves,Portland Trail Blazers,3,65-67,-4,layup,False,0,True,False
+2014-01-25,41.8166666667,Minnesota Timberwolves,Portland Trail Blazers,4,88-100,-15,three point jumper,False,24,False,False
+2014-01-25,44.45,Minnesota Timberwolves,Portland Trail Blazers,4,95-107,-14,two point jumper,False,22,True,False
+2014-02-05,1.21666666667,Minnesota Timberwolves,Oklahoma City Thunder,1,2-0,0,layup,False,0,True,True
+2014-02-05,2.81666666667,Minnesota Timberwolves,Oklahoma City Thunder,1,9-4,2,three point jumper,False,24,True,True
+2014-02-05,4.56666666667,Minnesota Timberwolves,Oklahoma City Thunder,1,11-8,0,three point jumper,False,25,False,True
+2014-02-05,4.73333333333,Minnesota Timberwolves,Oklahoma City Thunder,1,13-8,3,layup,False,0,True,True
+2014-02-05,6.78333333333,Minnesota Timberwolves,Oklahoma City Thunder,1,15-13,0,two point jumper,False,19,False,True
+2014-02-05,7.28333333333,Minnesota Timberwolves,Oklahoma City Thunder,1,15-15,-3,three point jumper,False,24,False,True
+2014-02-05,9.03333333333,Minnesota Timberwolves,Oklahoma City Thunder,1,17-22,-7,layup,False,0,True,True
+2014-02-05,10.6666666667,Minnesota Timberwolves,Oklahoma City Thunder,1,21-24,-5,layup,False,0,False,True
+2014-02-05,11.9666666667,Minnesota Timberwolves,Oklahoma City Thunder,1,23-26,-5,layup,False,0,False,True
+2014-02-05,23.3333333333,Minnesota Timberwolves,Oklahoma City Thunder,2,53-51,1,free throw,False,15,True,True
+2014-02-05,23.3333333333,Minnesota Timberwolves,Oklahoma City Thunder,2,54-51,2,free throw,False,15,True,True
+2014-02-05,28.95,Minnesota Timberwolves,Oklahoma City Thunder,3,64-64,-2,two point shot,False,1,True,True
+2014-02-05,30.6333333333,Minnesota Timberwolves,Oklahoma City Thunder,3,68-66,0,two point jumper,False,20,True,True
+2014-02-05,32.4,Minnesota Timberwolves,Oklahoma City Thunder,3,69-72,-4,free throw,False,15,True,True
+2014-02-05,32.4,Minnesota Timberwolves,Oklahoma City Thunder,3,70-72,-3,free throw,False,15,True,True
+2014-02-05,35.2833333333,Minnesota Timberwolves,Oklahoma City Thunder,3,75-77,-3,free throw,False,15,True,True
+2014-02-05,35.2833333333,Minnesota Timberwolves,Oklahoma City Thunder,3,75-77,-3,free throw,False,15,False,True
+2014-02-05,41.7333333333,Minnesota Timberwolves,Oklahoma City Thunder,4,81-93,-13,free throw,False,15,False,True
+2014-02-05,41.7333333333,Minnesota Timberwolves,Oklahoma City Thunder,4,81-93,-13,free throw,False,15,False,True
+2014-02-05,43.35,Minnesota Timberwolves,Oklahoma City Thunder,4,86-93,-8,free throw,False,15,False,True
+2014-02-05,45.55,Minnesota Timberwolves,Oklahoma City Thunder,4,90-97,-8,free throw,False,15,True,True
+2014-02-05,45.55,Minnesota Timberwolves,Oklahoma City Thunder,4,90-97,-8,free throw,False,15,False,True
+2014-02-08,0.5,Minnesota Timberwolves,Portland Trail Blazers,1,2-1,-2,free throw,True,15,True,False
+2014-02-08,0.5,Minnesota Timberwolves,Portland Trail Blazers,1,2-2,-1,free throw,True,15,True,False
+2014-02-08,1.86666666667,Minnesota Timberwolves,Portland Trail Blazers,1,7-4,-5,two point jumper,True,20,True,False
+2014-02-08,5.21666666667,Minnesota Timberwolves,Portland Trail Blazers,1,13-13,-2,two point jumper,True,19,False,False
+2014-02-08,6.75,Minnesota Timberwolves,Portland Trail Blazers,1,16-17,-1,layup,True,0,True,False
+2014-02-08,6.75,Minnesota Timberwolves,Portland Trail Blazers,1,16-18,1,free throw,True,15,True,False
+2014-02-08,8.18333333333,Minnesota Timberwolves,Portland Trail Blazers,1,18-20,0,two point jumper,True,15,True,False
+2014-02-08,8.86666666667,Minnesota Timberwolves,Portland Trail Blazers,1,20-22,0,two point shot,True,18,True,False
+2014-02-08,9.83333333333,Minnesota Timberwolves,Portland Trail Blazers,1,20-23,1,two point jumper,True,18,False,False
+2014-02-08,16.7,Minnesota Timberwolves,Portland Trail Blazers,2,40-31,-12,three point jumper,True,22,False,False
+2014-02-08,19.1333333333,Minnesota Timberwolves,Portland Trail Blazers,2,46-39,-9,layup,True,0,False,False
+2014-02-08,20.7833333333,Minnesota Timberwolves,Portland Trail Blazers,2,49-44,-8,three point jumper,True,25,True,False
+2014-02-08,23.45,Minnesota Timberwolves,Portland Trail Blazers,2,55-52,-5,two point jumper,True,18,False,False
+2014-02-08,25.1333333333,Minnesota Timberwolves,Portland Trail Blazers,3,55-54,-3,layup,True,0,False,False
+2014-02-08,30.0333333333,Minnesota Timberwolves,Portland Trail Blazers,3,66-68,0,two point shot,True,21,True,False
+2014-02-08,30.6,Minnesota Timberwolves,Portland Trail Blazers,3,68-70,0,layup,True,0,True,False
+2014-02-08,30.6,Minnesota Timberwolves,Portland Trail Blazers,3,68-71,2,free throw,True,15,True,False
+2014-02-08,32.2,Minnesota Timberwolves,Portland Trail Blazers,3,72-72,-1,free throw,True,15,True,False
+2014-02-08,32.2,Minnesota Timberwolves,Portland Trail Blazers,3,72-73,0,free throw,True,15,True,False
+2014-02-08,34.1666666667,Minnesota Timberwolves,Portland Trail Blazers,3,75-82,4,three point jumper,True,26,True,False
+2014-02-08,35.55,Minnesota Timberwolves,Portland Trail Blazers,3,81-83,0,two point jumper,True,12,False,False
+2014-02-08,44.2333333333,Minnesota Timberwolves,Portland Trail Blazers,4,101-93,-10,layup,True,0,False,False
+2014-02-08,47.4,Minnesota Timberwolves,Portland Trail Blazers,4,110-104,-7,free throw,True,15,True,False
+2014-02-08,47.4,Minnesota Timberwolves,Portland Trail Blazers,4,110-104,-7,free throw,True,15,False,False
+2014-02-22,1.83333333333,Minnesota Timberwolves,Utah Jazz,1,4-5,-3,layup,False,0,True,True
+2014-02-22,2.4,Minnesota Timberwolves,Utah Jazz,1,6-7,-3,two point shot,False,1,True,True
+2014-02-22,8.31666666667,Minnesota Timberwolves,Utah Jazz,1,18-15,2,free throw,False,15,True,True
+2014-02-22,8.31666666667,Minnesota Timberwolves,Utah Jazz,1,18-15,2,free throw,False,15,False,True
+2014-02-22,20.4833333333,Minnesota Timberwolves,Utah Jazz,2,43-41,0,layup,False,0,True,True
+2014-02-22,20.4833333333,Minnesota Timberwolves,Utah Jazz,2,44-41,2,free throw,False,15,True,True
+2014-02-22,23.4333333333,Minnesota Timberwolves,Utah Jazz,2,55-47,7,free throw,False,15,True,True
+2014-02-22,23.4333333333,Minnesota Timberwolves,Utah Jazz,2,56-47,8,free throw,False,15,True,True
+2014-02-22,28.95,Minnesota Timberwolves,Utah Jazz,3,77-59,16,layup,False,0,True,True
+2014-02-22,43.95,Minnesota Timberwolves,Utah Jazz,4,114-97,14,three point jumper,False,24,True,True
+2014-02-23,4.0,Minnesota Timberwolves,Portland Trail Blazers,1,18-9,7,layup,False,0,True,True
+2014-02-23,6.41666666667,Minnesota Timberwolves,Portland Trail Blazers,1,24-14,8,layup,False,0,True,True
+2014-02-23,6.41666666667,Minnesota Timberwolves,Portland Trail Blazers,1,25-14,10,free throw,False,15,True,True
+2014-02-23,7.38333333333,Minnesota Timberwolves,Portland Trail Blazers,1,25-17,5,three point jumper,False,25,False,True
+2014-02-23,27.8,Minnesota Timberwolves,Portland Trail Blazers,3,65-63,0,layup,False,0,False,True
+2014-02-23,33.1,Minnesota Timberwolves,Portland Trail Blazers,3,80-79,-1,two point jumper,False,22,False,True

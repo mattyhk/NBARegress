@@ -1,0 +1,903 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-15,4.56666666667,Portland Trail Blazers,Boston Celtics,1,10-5,3,two point shot,False,1,True,False
+2014-11-15,5.45,Portland Trail Blazers,Boston Celtics,1,12-7,2,three point jumper,False,25,False,False
+2014-11-15,7.03333333333,Portland Trail Blazers,Boston Celtics,1,17-11,3,three point jumper,False,25,True,False
+2014-11-15,17.35,Portland Trail Blazers,Boston Celtics,2,35-39,-5,free throw,False,15,True,False
+2014-11-15,17.35,Portland Trail Blazers,Boston Celtics,2,36-39,-4,free throw,False,15,True,False
+2014-11-15,18.2833333333,Portland Trail Blazers,Boston Celtics,2,39-41,-3,free throw,False,15,True,False
+2014-11-15,18.2833333333,Portland Trail Blazers,Boston Celtics,2,40-41,-2,free throw,False,15,True,False
+2014-11-15,18.2833333333,Portland Trail Blazers,Boston Celtics,2,41-41,-1,free throw,False,15,True,False
+2014-11-15,22.2666666667,Portland Trail Blazers,Boston Celtics,2,54-48,4,unknown,False,23,True,False
+2014-11-15,23.5,Portland Trail Blazers,Boston Celtics,2,57-51,3,three point jumper,False,27,False,False
+2014-11-15,29.0666666667,Portland Trail Blazers,Boston Celtics,3,70-65,2,three point jumper,False,23,False,False
+2014-01-11,1.68333333333,Portland Trail Blazers,Boston Celtics,1,4-2,-4,two point shot,True,10,False,True
+2014-01-11,3.45,Portland Trail Blazers,Boston Celtics,1,8-4,-7,three point jumper,True,25,False,True
+2014-01-11,5.06666666667,Portland Trail Blazers,Boston Celtics,1,12-8,-6,two point jumper,True,1,False,True
+2014-01-11,6.75,Portland Trail Blazers,Boston Celtics,1,16-15,-3,two point shot,True,7,True,True
+2014-01-11,8.25,Portland Trail Blazers,Boston Celtics,1,22-18,-7,three point jumper,True,24,True,True
+2014-01-11,13.5666666667,Portland Trail Blazers,Boston Celtics,2,35-32,-5,two point jumper,True,23,True,True
+2014-01-11,16.3166666667,Portland Trail Blazers,Boston Celtics,2,41-36,-7,two point jumper,True,1,False,True
+2014-01-11,17.5666666667,Portland Trail Blazers,Boston Celtics,2,45-38,-9,two point jumper,True,7,False,True
+2014-01-11,27.8833333333,Portland Trail Blazers,Boston Celtics,3,68-64,-7,three point jumper,True,24,False,True
+2014-01-11,28.0,Portland Trail Blazers,Boston Celtics,3,68-66,-4,two point jumper,True,21,True,True
+2014-01-11,28.45,Portland Trail Blazers,Boston Celtics,3,68-69,-2,three point jumper,True,24,True,True
+2014-01-11,29.4166666667,Portland Trail Blazers,Boston Celtics,3,68-72,3,free throw,True,15,True,True
+2014-01-11,29.4166666667,Portland Trail Blazers,Boston Celtics,3,68-73,4,free throw,True,15,True,True
+2014-01-11,38.3833333333,Portland Trail Blazers,Boston Celtics,4,89-92,1,two point shot,True,16,False,True
+2014-01-11,44.4833333333,Portland Trail Blazers,Boston Celtics,4,95-107,11,free throw,True,15,True,True
+2014-01-11,44.4833333333,Portland Trail Blazers,Boston Celtics,4,95-108,12,free throw,True,15,True,True
+2014-01-11,47.65,Portland Trail Blazers,Boston Celtics,4,104-111,6,free throw,True,15,True,True
+2014-01-11,47.65,Portland Trail Blazers,Boston Celtics,4,104-112,7,free throw,True,15,True,True
+2014-11-18,2.06666666667,Portland Trail Blazers,Brooklyn Nets,1,5-6,-4,three point jumper,False,25,True,False
+2014-11-18,4.06666666667,Portland Trail Blazers,Brooklyn Nets,1,10-12,-5,three point jumper,False,24,True,False
+2014-11-18,4.63333333333,Portland Trail Blazers,Brooklyn Nets,1,13-14,-4,three point jumper,False,26,True,False
+2014-11-18,5.63333333333,Portland Trail Blazers,Brooklyn Nets,1,16-19,-6,three point jumper,False,25,True,False
+2014-11-18,17.7833333333,Portland Trail Blazers,Brooklyn Nets,2,43-49,-8,two point jumper,False,1,False,False
+2014-11-18,19.7333333333,Portland Trail Blazers,Brooklyn Nets,2,47-49,-5,three point jumper,False,24,True,False
+2014-11-18,30.3166666667,Portland Trail Blazers,Brooklyn Nets,3,64-69,-8,three point jumper,False,23,False,False
+2014-11-18,31.2833333333,Portland Trail Blazers,Brooklyn Nets,3,69-69,-2,layup,False,0,True,False
+2014-11-18,32.3333333333,Portland Trail Blazers,Brooklyn Nets,3,73-69,2,layup,False,0,True,False
+2014-11-18,38.55,Portland Trail Blazers,Brooklyn Nets,4,93-82,9,two point shot,False,18,True,False
+2014-11-18,40.8166666667,Portland Trail Blazers,Brooklyn Nets,4,101-87,12,layup,False,0,True,False
+2014-11-18,44.7166666667,Portland Trail Blazers,Brooklyn Nets,4,103-93,7,three point jumper,False,23,False,False
+2014-11-18,46.8,Portland Trail Blazers,Brooklyn Nets,4,105-94,8,three point jumper,False,33,False,False
+2014-11-18,47.3,Portland Trail Blazers,Brooklyn Nets,4,108-96,11,free throw,False,15,True,False
+2014-11-18,47.3,Portland Trail Blazers,Brooklyn Nets,4,108-96,11,free throw,False,15,False,False
+2014-02-26,2.33333333333,Portland Trail Blazers,Brooklyn Nets,1,2-2,-2,two point shot,True,19,False,False
+2014-02-26,4.5,Portland Trail Blazers,Brooklyn Nets,1,6-11,3,layup,True,0,True,False
+2014-02-26,5.7,Portland Trail Blazers,Brooklyn Nets,1,8-13,3,two point jumper,True,1,False,False
+2014-02-26,13.4,Portland Trail Blazers,Brooklyn Nets,2,20-29,7,layup,True,0,False,False
+2014-02-26,30.35,Portland Trail Blazers,Brooklyn Nets,3,42-69,24,three point jumper,True,23,False,False
+2014-02-26,37.6166666667,Portland Trail Blazers,Brooklyn Nets,4,65-88,21,two point shot,True,4,True,False
+2014-02-26,37.6166666667,Portland Trail Blazers,Brooklyn Nets,4,65-89,23,free throw,True,15,True,False
+2014-02-26,39.1333333333,Portland Trail Blazers,Brooklyn Nets,4,68-96,25,three point jumper,True,25,True,False
+2014-11-25,0.5,Portland Trail Blazers,New York Knicks,1,0-2,0,layup,True,0,True,False
+2014-11-25,2.7,Portland Trail Blazers,New York Knicks,1,6-7,-1,two point jumper,True,4,False,False
+2014-11-25,3.31666666667,Portland Trail Blazers,New York Knicks,1,8-9,-2,three point jumper,True,24,False,False
+2014-11-25,4.5,Portland Trail Blazers,New York Knicks,1,10-12,-1,three point jumper,True,23,False,False
+2014-11-25,6.41666666667,Portland Trail Blazers,New York Knicks,1,12-20,5,three point jumper,True,24,False,False
+2014-11-25,7.03333333333,Portland Trail Blazers,New York Knicks,1,12-22,8,layup,True,0,True,False
+2014-11-25,16.5666666667,Portland Trail Blazers,New York Knicks,2,22-44,19,three point jumper,True,23,True,False
+2014-11-25,16.9833333333,Portland Trail Blazers,New York Knicks,2,22-44,19,three point jumper,True,25,False,False
+2014-11-25,27.3166666667,Portland Trail Blazers,New York Knicks,3,47-61,12,two point jumper,True,20,False,False
+2014-11-25,28.7333333333,Portland Trail Blazers,New York Knicks,3,49-66,16,free throw,True,15,True,False
+2014-11-25,28.7333333333,Portland Trail Blazers,New York Knicks,3,49-67,17,free throw,True,15,True,False
+2014-11-25,34.1666666667,Portland Trail Blazers,New York Knicks,3,63-77,11,three point jumper,True,23,True,False
+2014-11-25,35.2666666667,Portland Trail Blazers,New York Knicks,3,64-79,12,three point jumper,True,24,False,False
+2014-11-25,38.8666666667,Portland Trail Blazers,New York Knicks,4,74-87,10,three point jumper,True,23,True,False
+2014-11-25,41.4166666667,Portland Trail Blazers,New York Knicks,4,76-92,14,two point jumper,True,23,True,False
+2014-11-25,44.75,Portland Trail Blazers,New York Knicks,4,85-96,8,three point jumper,True,24,False,False
+2014-02-05,0.7,Portland Trail Blazers,New York Knicks,1,2-0,0,two point shot,False,17,True,True
+2014-02-05,2.61666666667,Portland Trail Blazers,New York Knicks,1,7-4,2,free throw,False,15,True,True
+2014-02-05,2.61666666667,Portland Trail Blazers,New York Knicks,1,8-4,3,free throw,False,15,True,True
+2014-02-05,4.56666666667,Portland Trail Blazers,New York Knicks,1,10-8,0,two point jumper,False,22,False,True
+2014-02-05,5.41666666667,Portland Trail Blazers,New York Knicks,1,14-8,3,three point jumper,False,24,True,True
+2014-02-05,6.13333333333,Portland Trail Blazers,New York Knicks,1,14-8,3,three point jumper,False,25,False,True
+2014-02-05,6.85,Portland Trail Blazers,New York Knicks,1,16-10,4,two point jumper,False,19,True,True
+2014-02-05,17.5666666667,Portland Trail Blazers,New York Knicks,2,36-37,-3,two point shot,False,1,True,True
+2014-02-05,18.2,Portland Trail Blazers,New York Knicks,2,39-39,-3,three point jumper,False,23,True,True
+2014-02-05,18.6333333333,Portland Trail Blazers,New York Knicks,2,39-39,-3,three point jumper,False,25,False,True
+2014-02-05,23.3333333333,Portland Trail Blazers,New York Knicks,2,45-46,-3,two point jumper,False,13,False,True
+2014-02-05,26.7166666667,Portland Trail Blazers,New York Knicks,3,51-49,-1,three point jumper,False,24,False,True
+2014-02-05,31.35,Portland Trail Blazers,New York Knicks,3,63-59,1,three point jumper,False,24,True,True
+2014-02-05,40.1333333333,Portland Trail Blazers,New York Knicks,4,77-76,-1,two point jumper,False,14,False,True
+2014-02-05,41.9166666667,Portland Trail Blazers,New York Knicks,4,80-76,2,layup,False,0,False,True
+2014-02-05,43.0666666667,Portland Trail Blazers,New York Knicks,4,82-76,5,free throw,False,15,False,True
+2014-02-05,43.0666666667,Portland Trail Blazers,New York Knicks,4,83-76,6,free throw,False,15,True,True
+2014-02-05,45.1166666667,Portland Trail Blazers,New York Knicks,4,86-81,3,layup,False,0,False,True
+2014-12-14,2.18333333333,Portland Trail Blazers,Philadelphia 76ers,1,4-7,-6,three point jumper,False,27,False,True
+2014-12-14,4.31666666667,Portland Trail Blazers,Philadelphia 76ers,1,12-12,-3,three point jumper,False,26,True,True
+2014-12-14,7.95,Portland Trail Blazers,Philadelphia 76ers,1,22-19,0,three point jumper,False,27,False,True
+2014-12-14,9.33333333333,Portland Trail Blazers,Philadelphia 76ers,1,24-27,-5,layup,False,0,False,True
+2014-12-14,9.4,Portland Trail Blazers,Philadelphia 76ers,1,24-27,-5,layup,False,0,False,True
+2014-12-14,18.1666666667,Portland Trail Blazers,Philadelphia 76ers,2,51-48,0,three point jumper,False,26,True,True
+2014-12-14,20.4333333333,Portland Trail Blazers,Philadelphia 76ers,2,57-55,-1,three point jumper,False,23,False,True
+2014-12-14,21.7833333333,Portland Trail Blazers,Philadelphia 76ers,2,61-60,-1,two point shot,False,1,True,True
+2014-12-14,22.9833333333,Portland Trail Blazers,Philadelphia 76ers,2,64-62,-1,three point jumper,False,23,False,True
+2014-12-14,26.3166666667,Portland Trail Blazers,Philadelphia 76ers,3,79-69,7,three point jumper,False,23,True,True
+2014-12-14,27.0666666667,Portland Trail Blazers,Philadelphia 76ers,3,81-69,9,three point jumper,False,27,False,True
+2014-12-14,29.2,Portland Trail Blazers,Philadelphia 76ers,3,90-69,18,three point jumper,False,26,True,True
+2014-12-14,29.5333333333,Portland Trail Blazers,Philadelphia 76ers,3,90-69,18,three point jumper,False,23,False,True
+2014-01-04,2.7,Portland Trail Blazers,Philadelphia 76ers,1,12-2,-13,three point jumper,True,24,False,True
+2014-01-04,7.7,Portland Trail Blazers,Philadelphia 76ers,1,22-9,-15,two point jumper,True,22,False,True
+2014-01-04,18.35,Portland Trail Blazers,Philadelphia 76ers,2,43-36,-9,two point jumper,True,1,True,True
+2014-01-04,21.0666666667,Portland Trail Blazers,Philadelphia 76ers,2,47-47,-2,layup,True,0,True,True
+2014-01-04,24.0,Portland Trail Blazers,Philadelphia 76ers,2,52-50,-5,three point jumper,True,23,False,True
+2014-01-04,25.8166666667,Portland Trail Blazers,Philadelphia 76ers,3,54-54,-3,three point jumper,True,24,False,True
+2014-01-04,26.1166666667,Portland Trail Blazers,Philadelphia 76ers,3,54-56,0,two point shot,True,1,True,True
+2014-01-04,27.45,Portland Trail Blazers,Philadelphia 76ers,3,56-58,0,two point jumper,True,13,False,True
+2014-01-04,39.5166666667,Portland Trail Blazers,Philadelphia 76ers,4,77-83,5,free throw,True,15,True,True
+2014-01-04,39.5166666667,Portland Trail Blazers,Philadelphia 76ers,4,77-84,6,free throw,True,15,True,True
+2014-01-04,40.4166666667,Portland Trail Blazers,Philadelphia 76ers,4,77-84,5,two point jumper,True,21,False,True
+2014-01-04,42.9833333333,Portland Trail Blazers,Philadelphia 76ers,4,86-84,-5,three point jumper,True,23,False,True
+2014-01-04,43.8166666667,Portland Trail Blazers,Philadelphia 76ers,4,90-84,-9,three point jumper,True,23,False,True
+2014-01-04,44.2833333333,Portland Trail Blazers,Philadelphia 76ers,4,90-85,-6,free throw,True,15,True,True
+2014-01-04,44.2833333333,Portland Trail Blazers,Philadelphia 76ers,4,90-86,-5,free throw,True,15,True,True
+2014-01-04,46.5166666667,Portland Trail Blazers,Philadelphia 76ers,4,92-92,-2,two point jumper,True,10,True,True
+2014-01-04,46.5166666667,Portland Trail Blazers,Philadelphia 76ers,4,92-92,-1,free throw,True,15,False,True
+2014-01-04,47.6166666667,Portland Trail Blazers,Philadelphia 76ers,4,96-95,-2,free throw,True,15,True,True
+2014-01-04,47.6166666667,Portland Trail Blazers,Philadelphia 76ers,4,96-95,-2,free throw,True,15,False,True
+2014-11-17,0.8,Portland Trail Blazers,Toronto Raptors,1,2-2,-2,two point shot,False,16,False,True
+2014-11-17,2.95,Portland Trail Blazers,Toronto Raptors,1,10-11,-4,three point jumper,False,25,True,True
+2014-11-17,3.3,Portland Trail Blazers,Toronto Raptors,1,12-11,-1,layup,False,0,True,True
+2014-11-17,5.45,Portland Trail Blazers,Toronto Raptors,1,17-17,-3,three point jumper,False,25,False,True
+2014-11-17,9.4,Portland Trail Blazers,Toronto Raptors,1,25-25,-3,three point jumper,False,25,True,True
+2014-11-17,18.3166666667,Portland Trail Blazers,Toronto Raptors,2,47-39,5,three point jumper,False,23,True,True
+2014-11-17,20.15,Portland Trail Blazers,Toronto Raptors,2,50-45,2,three point jumper,False,23,True,True
+2014-11-17,20.2666666667,Portland Trail Blazers,Toronto Raptors,2,52-45,5,two point jumper,False,20,True,True
+2014-11-17,23.7166666667,Portland Trail Blazers,Toronto Raptors,2,54-54,-2,layup,False,0,False,True
+2014-11-17,26.5666666667,Portland Trail Blazers,Toronto Raptors,3,62-58,2,two point jumper,False,19,False,True
+2014-11-17,49.45,Portland Trail Blazers,Toronto Raptors,5,104-102,-1,three point jumper,False,24,False,True
+2014-11-17,49.5166666667,Portland Trail Blazers,Toronto Raptors,5,104-102,-1,three point jumper,False,23,False,True
+2014-11-17,52.6666666667,Portland Trail Blazers,Toronto Raptors,5,115-110,4,free throw,False,15,False,True
+2014-11-17,52.6666666667,Portland Trail Blazers,Toronto Raptors,5,116-110,5,free throw,False,15,True,True
+2014-02-01,1.46666666667,Portland Trail Blazers,Toronto Raptors,1,0-7,4,three point jumper,True,25,True,True
+2014-02-01,1.95,Portland Trail Blazers,Toronto Raptors,1,0-7,4,three point jumper,True,25,False,True
+2014-02-01,11.3833333333,Portland Trail Blazers,Toronto Raptors,1,17-30,10,three point jumper,True,23,True,True
+2014-02-01,13.1166666667,Portland Trail Blazers,Toronto Raptors,2,19-33,12,layup,True,0,True,True
+2014-02-01,14.7,Portland Trail Blazers,Toronto Raptors,2,22-35,11,two point jumper,True,15,False,True
+2014-02-01,25.45,Portland Trail Blazers,Toronto Raptors,3,44-61,15,two point shot,True,1,True,True
+2014-02-01,30.45,Portland Trail Blazers,Toronto Raptors,3,58-70,10,two point jumper,True,12,False,True
+2014-02-01,31.8166666667,Portland Trail Blazers,Toronto Raptors,3,60-72,11,free throw,True,15,True,True
+2014-02-01,31.8166666667,Portland Trail Blazers,Toronto Raptors,3,60-73,12,free throw,True,15,True,True
+2014-02-01,32.75,Portland Trail Blazers,Toronto Raptors,3,63-73,7,three point jumper,True,23,False,True
+2014-02-01,36.2166666667,Portland Trail Blazers,Toronto Raptors,4,74-86,9,three point jumper,True,23,True,True
+2014-02-01,38.6333333333,Portland Trail Blazers,Toronto Raptors,4,77-93,13,three point jumper,True,23,True,True
+2014-02-01,40.3166666667,Portland Trail Blazers,Toronto Raptors,4,82-98,13,three point jumper,True,24,True,True
+2014-11-23,0.5,Portland Trail Blazers,Golden State Warriors,1,2-0,0,layup,False,0,True,True
+2014-11-23,2.86666666667,Portland Trail Blazers,Golden State Warriors,1,9-9,-3,three point jumper,False,26,True,True
+2014-11-23,3.45,Portland Trail Blazers,Golden State Warriors,1,12-12,-3,three point jumper,False,24,True,True
+2014-11-23,3.83333333333,Portland Trail Blazers,Golden State Warriors,1,15-12,0,three point jumper,False,24,True,True
+2014-11-23,5.45,Portland Trail Blazers,Golden State Warriors,1,18-12,5,free throw,False,15,True,True
+2014-11-23,5.45,Portland Trail Blazers,Golden State Warriors,1,19-12,6,free throw,False,15,True,True
+2014-11-23,6.16666666667,Portland Trail Blazers,Golden State Warriors,1,19-12,6,free throw,False,15,False,True
+2014-11-23,6.16666666667,Portland Trail Blazers,Golden State Warriors,1,19-12,6,free throw,False,15,False,True
+2014-11-23,11.9666666667,Portland Trail Blazers,Golden State Warriors,1,23-24,-3,two point shot,False,26,False,True
+2014-11-23,25.2666666667,Portland Trail Blazers,Golden State Warriors,3,53-58,-7,two point shot,False,1,True,True
+2014-11-23,30.8833333333,Portland Trail Blazers,Golden State Warriors,3,66-76,-13,unknown,False,26,True,True
+2014-11-23,31.85,Portland Trail Blazers,Golden State Warriors,3,69-77,-11,three point jumper,False,24,True,True
+2014-11-23,32.3,Portland Trail Blazers,Golden State Warriors,3,71-79,-10,two point shot,False,18,True,True
+2014-01-26,1.46666666667,Portland Trail Blazers,Golden State Warriors,1,4-2,0,two point shot,False,9,True,True
+2014-01-26,6.5,Portland Trail Blazers,Golden State Warriors,1,10-14,-6,two point shot,False,13,True,True
+2014-01-26,14.8,Portland Trail Blazers,Golden State Warriors,2,27-31,-6,two point jumper,False,17,False,True
+2014-01-26,15.25,Portland Trail Blazers,Golden State Warriors,2,28-31,-4,free throw,False,15,True,True
+2014-01-26,15.25,Portland Trail Blazers,Golden State Warriors,2,29-31,-3,free throw,False,15,True,True
+2014-01-26,15.25,Portland Trail Blazers,Golden State Warriors,2,30-31,-2,free throw,False,15,True,True
+2014-01-26,16.1666666667,Portland Trail Blazers,Golden State Warriors,2,35-33,0,layup,False,0,True,True
+2014-01-26,16.6666666667,Portland Trail Blazers,Golden State Warriors,2,35-33,-1,three point jumper,False,25,False,True
+2014-01-26,23.45,Portland Trail Blazers,Golden State Warriors,2,53-49,1,three point jumper,False,23,False,True
+2014-01-26,24.1833333333,Portland Trail Blazers,Golden State Warriors,3,56-54,1,free throw,False,15,True,True
+2014-01-26,24.1833333333,Portland Trail Blazers,Golden State Warriors,3,57-54,2,free throw,False,15,True,True
+2014-01-26,27.7166666667,Portland Trail Blazers,Golden State Warriors,3,59-62,-6,three point jumper,False,27,False,True
+2014-01-26,34.8666666667,Portland Trail Blazers,Golden State Warriors,3,66-74,-10,two point jumper,False,18,False,True
+2014-01-26,35.4666666667,Portland Trail Blazers,Golden State Warriors,3,67-76,-10,free throw,False,15,True,True
+2014-01-26,35.4666666667,Portland Trail Blazers,Golden State Warriors,3,67-76,-10,free throw,False,15,False,True
+2014-01-26,38.4666666667,Portland Trail Blazers,Golden State Warriors,4,67-83,-18,two point jumper,False,5,False,True
+2014-01-26,41.95,Portland Trail Blazers,Golden State Warriors,4,75-91,-19,three point jumper,False,25,True,True
+2014-01-26,42.4166666667,Portland Trail Blazers,Golden State Warriors,4,75-91,-18,layup,False,0,False,True
+2014-01-26,43.5333333333,Portland Trail Blazers,Golden State Warriors,4,80-93,-16,three point jumper,False,26,True,True
+2014-01-26,44.4166666667,Portland Trail Blazers,Golden State Warriors,4,82-94,-13,free throw,False,15,False,True
+2014-01-26,44.4166666667,Portland Trail Blazers,Golden State Warriors,4,83-94,-12,free throw,False,15,True,True
+2014-01-26,45.0666666667,Portland Trail Blazers,Golden State Warriors,4,84-94,-11,free throw,False,15,True,True
+2014-01-26,45.0666666667,Portland Trail Blazers,Golden State Warriors,4,85-94,-10,free throw,False,15,True,True
+2014-01-26,45.4666666667,Portland Trail Blazers,Golden State Warriors,4,85-94,-12,three point jumper,False,26,False,True
+2014-12-26,1.5,Portland Trail Blazers,Los Angeles Clippers,1,4-2,-4,two point shot,True,21,True,True
+2014-12-26,2.08333333333,Portland Trail Blazers,Los Angeles Clippers,1,4-2,-5,three point jumper,True,25,False,True
+2014-12-26,5.25,Portland Trail Blazers,Los Angeles Clippers,1,8-7,-4,three point jumper,True,23,True,True
+2014-12-26,8.75,Portland Trail Blazers,Los Angeles Clippers,1,10-13,1,unknown,True,10,False,True
+2014-12-26,9.21666666667,Portland Trail Blazers,Los Angeles Clippers,1,10-16,3,three point jumper,True,24,True,True
+2014-12-26,20.7833333333,Portland Trail Blazers,Los Angeles Clippers,2,35-45,7,three point jumper,True,25,True,True
+2014-12-26,23.6833333333,Portland Trail Blazers,Los Angeles Clippers,2,43-47,1,three point jumper,True,27,False,True
+2014-12-26,25.95,Portland Trail Blazers,Los Angeles Clippers,3,51-59,5,three point jumper,True,25,True,True
+2014-12-26,28.2,Portland Trail Blazers,Los Angeles Clippers,3,57-61,1,three point jumper,True,25,False,True
+2014-12-26,30.1333333333,Portland Trail Blazers,Los Angeles Clippers,3,61-66,2,three point jumper,True,24,False,True
+2014-12-26,42.4166666667,Portland Trail Blazers,Los Angeles Clippers,4,88-91,0,three point jumper,True,23,False,True
+2014-12-26,46.2666666667,Portland Trail Blazers,Los Angeles Clippers,4,95-95,-1,free throw,True,15,False,True
+2014-12-26,46.2666666667,Portland Trail Blazers,Los Angeles Clippers,4,95-96,0,free throw,True,15,True,True
+2014-12-26,50.9666666667,Portland Trail Blazers,Los Angeles Clippers,5,107-106,-4,three point jumper,True,24,False,True
+2014-12-26,51.9166666667,Portland Trail Blazers,Los Angeles Clippers,5,107-107,-1,free throw,True,15,True,True
+2014-12-26,51.9166666667,Portland Trail Blazers,Los Angeles Clippers,5,107-108,0,free throw,True,15,True,True
+2014-12-26,52.8,Portland Trail Blazers,Los Angeles Clippers,5,112-115,2,free throw,True,15,True,True
+2014-12-26,52.8,Portland Trail Blazers,Los Angeles Clippers,5,112-116,3,free throw,True,15,True,True
+2014-02-12,1.21666666667,Portland Trail Blazers,Los Angeles Clippers,1,3-2,-2,unknown,False,25,True,False
+2014-02-12,3.68333333333,Portland Trail Blazers,Los Angeles Clippers,1,9-8,-2,three point jumper,False,25,False,False
+2014-02-12,5.85,Portland Trail Blazers,Los Angeles Clippers,1,16-12,1,three point jumper,False,24,True,False
+2014-02-12,6.23333333333,Portland Trail Blazers,Los Angeles Clippers,1,16-12,2,layup,False,0,False,False
+2014-02-12,11.5,Portland Trail Blazers,Los Angeles Clippers,1,30-29,-2,three point jumper,False,23,False,False
+2014-02-12,19.8166666667,Portland Trail Blazers,Los Angeles Clippers,2,50-49,-2,three point jumper,False,23,False,False
+2014-02-12,23.7833333333,Portland Trail Blazers,Los Angeles Clippers,2,61-59,0,two point jumper,False,4,False,False
+2014-02-12,25.1166666667,Portland Trail Blazers,Los Angeles Clippers,3,63-63,-2,two point shot,False,5,True,False
+2014-02-12,27.55,Portland Trail Blazers,Los Angeles Clippers,3,70-67,0,three point jumper,False,27,True,False
+2014-02-12,28.1666666667,Portland Trail Blazers,Los Angeles Clippers,3,70-69,-2,three point jumper,False,26,False,False
+2014-02-12,30.25,Portland Trail Blazers,Los Angeles Clippers,3,77-78,-3,dunk,False,0,True,False
+2014-02-12,31.4166666667,Portland Trail Blazers,Los Angeles Clippers,3,79-80,-4,three point jumper,False,27,False,False
+2014-02-12,41.0666666667,Portland Trail Blazers,Los Angeles Clippers,4,103-104,-3,two point jumper,False,1,False,False
+2014-02-12,41.2,Portland Trail Blazers,Los Angeles Clippers,4,103-104,-2,free throw,False,15,False,False
+2014-02-12,41.2,Portland Trail Blazers,Los Angeles Clippers,4,104-104,-1,free throw,False,15,True,False
+2014-02-12,41.2,Portland Trail Blazers,Los Angeles Clippers,4,105-104,0,free throw,False,15,True,False
+2014-02-12,41.95,Portland Trail Blazers,Los Angeles Clippers,4,105-106,-2,free throw,False,15,False,False
+2014-02-12,41.95,Portland Trail Blazers,Los Angeles Clippers,4,105-106,-2,free throw,False,15,False,False
+2014-02-12,45.8166666667,Portland Trail Blazers,Los Angeles Clippers,4,115-118,-5,two point jumper,False,19,False,False
+2014-02-12,45.95,Portland Trail Blazers,Los Angeles Clippers,4,115-118,-5,two point jumper,False,12,False,False
+2014-02-12,47.8666666667,Portland Trail Blazers,Los Angeles Clippers,4,117-122,-8,three point jumper,False,26,False,False
+2014-12-01,6.35,Portland Trail Blazers,Los Angeles Lakers,1,19-4,12,three point jumper,False,26,False,True
+2014-12-01,16.5666666667,Portland Trail Blazers,Los Angeles Lakers,2,38-35,0,three point jumper,False,25,False,True
+2014-12-01,22.3333333333,Portland Trail Blazers,Los Angeles Lakers,2,49-48,0,free throw,False,15,True,True
+2014-12-01,22.3333333333,Portland Trail Blazers,Los Angeles Lakers,2,49-48,0,free throw,False,15,False,True
+2014-12-01,22.8833333333,Portland Trail Blazers,Los Angeles Lakers,2,50-48,1,free throw,False,15,True,True
+2014-12-01,22.8833333333,Portland Trail Blazers,Los Angeles Lakers,2,51-48,2,free throw,False,15,True,True
+2014-12-01,26.6833333333,Portland Trail Blazers,Los Angeles Lakers,3,62-56,3,three point jumper,False,26,True,True
+2014-12-01,29.35,Portland Trail Blazers,Los Angeles Lakers,3,69-62,5,two point jumper,False,5,True,True
+2014-12-01,29.35,Portland Trail Blazers,Los Angeles Lakers,3,70-62,7,free throw,False,15,True,True
+2014-12-01,29.7833333333,Portland Trail Blazers,Los Angeles Lakers,3,73-62,8,three point jumper,False,27,True,True
+2014-12-01,37.3666666667,Portland Trail Blazers,Los Angeles Lakers,4,94-74,18,two point jumper,False,13,False,True
+2014-12-01,46.2833333333,Portland Trail Blazers,Los Angeles Lakers,4,105-100,4,free throw,False,15,True,True
+2014-12-01,46.2833333333,Portland Trail Blazers,Los Angeles Lakers,4,106-100,5,free throw,False,15,True,True
+2014-12-01,46.6666666667,Portland Trail Blazers,Los Angeles Lakers,4,109-102,4,three point jumper,False,24,True,True
+2014-10-30,3.33333333333,Portland Trail Blazers,Phoenix Suns,1,9-8,-2,three point jumper,False,24,True,True
+2014-10-30,4.16666666667,Portland Trail Blazers,Phoenix Suns,1,9-10,-4,three point jumper,False,25,False,True
+2014-10-30,16.1666666667,Portland Trail Blazers,Phoenix Suns,2,25-36,-13,two point shot,False,14,True,True
+2014-10-30,17.2833333333,Portland Trail Blazers,Phoenix Suns,2,27-38,-13,two point shot,False,8,False,True
+2014-10-30,22.05,Portland Trail Blazers,Phoenix Suns,2,37-46,-12,three point jumper,False,25,False,True
+2014-10-30,28.1,Portland Trail Blazers,Phoenix Suns,3,51-60,-11,two point jumper,False,5,False,True
+2014-10-30,40.7,Portland Trail Blazers,Phoenix Suns,4,83-91,-10,two point jumper,False,11,True,True
+2014-10-30,42.7333333333,Portland Trail Blazers,Phoenix Suns,4,86-94,-9,free throw,False,15,True,True
+2014-10-30,42.7333333333,Portland Trail Blazers,Phoenix Suns,4,87-94,-8,free throw,False,15,True,True
+2014-10-30,46.75,Portland Trail Blazers,Phoenix Suns,4,91-102,-14,three point jumper,False,26,False,True
+2014-11-13,1.86666666667,Portland Trail Blazers,Phoenix Suns,1,2-4,0,two point jumper,True,1,False,True
+2014-11-13,8.98333333333,Portland Trail Blazers,Phoenix Suns,1,15-19,2,two point jumper,True,1,True,True
+2014-11-13,9.46666666667,Portland Trail Blazers,Phoenix Suns,1,17-20,2,free throw,True,15,True,True
+2014-11-13,9.46666666667,Portland Trail Blazers,Phoenix Suns,1,17-20,2,free throw,True,15,False,True
+2014-11-13,10.3833333333,Portland Trail Blazers,Phoenix Suns,1,17-22,3,layup,True,0,True,True
+2014-11-13,26.3,Portland Trail Blazers,Phoenix Suns,3,45-43,-4,two point jumper,True,13,False,True
+2014-11-13,28.9166666667,Portland Trail Blazers,Phoenix Suns,3,51-51,-3,three point jumper,True,23,False,True
+2014-11-13,29.85,Portland Trail Blazers,Phoenix Suns,3,53-51,-5,three point jumper,True,24,False,True
+2014-11-13,39.5666666667,Portland Trail Blazers,Phoenix Suns,4,77-69,-10,two point shot,True,19,False,True
+2014-11-13,40.4833333333,Portland Trail Blazers,Phoenix Suns,4,77-74,-6,three point jumper,True,24,True,True
+2014-11-13,45.95,Portland Trail Blazers,Phoenix Suns,4,87-86,-4,unknown,True,24,True,True
+2014-11-27,5.2,Portland Trail Blazers,Phoenix Suns,1,13-6,4,three point jumper,False,25,True,False
+2014-11-27,20.5666666667,Portland Trail Blazers,Phoenix Suns,2,52-50,0,two point shot,False,1,False,False
+2014-11-27,21.8166666667,Portland Trail Blazers,Phoenix Suns,2,54-55,-4,unknown,False,25,False,False
+2014-11-27,23.25,Portland Trail Blazers,Phoenix Suns,2,56-58,-4,layup,False,0,True,False
+2014-11-27,26.2,Portland Trail Blazers,Phoenix Suns,3,58-67,-12,three point jumper,False,25,False,False
+2014-11-27,28.5333333333,Portland Trail Blazers,Phoenix Suns,3,61-71,-13,three point jumper,False,23,True,False
+2014-11-08,0.95,Portland Trail Blazers,Sacramento Kings,1,2-4,0,two point jumper,True,11,True,False
+2014-11-08,2.95,Portland Trail Blazers,Sacramento Kings,1,5-8,1,two point jumper,True,19,False,False
+2014-11-08,19.5,Portland Trail Blazers,Sacramento Kings,2,38-44,3,three point jumper,True,25,False,False
+2014-11-08,20.5333333333,Portland Trail Blazers,Sacramento Kings,2,38-47,6,three point jumper,True,23,True,False
+2014-11-08,21.4166666667,Portland Trail Blazers,Sacramento Kings,2,40-49,7,two point jumper,True,16,True,False
+2014-11-08,21.9833333333,Portland Trail Blazers,Sacramento Kings,2,42-52,7,three point jumper,True,23,True,False
+2014-11-08,22.5166666667,Portland Trail Blazers,Sacramento Kings,2,45-52,5,two point jumper,True,15,False,False
+2014-11-08,23.3,Portland Trail Blazers,Sacramento Kings,2,49-54,3,layup,True,0,True,False
+2014-11-08,26.8166666667,Portland Trail Blazers,Sacramento Kings,3,55-58,1,two point shot,True,1,True,False
+2014-11-08,29.6,Portland Trail Blazers,Sacramento Kings,3,55-66,9,two point jumper,True,14,True,False
+2014-11-08,31.0666666667,Portland Trail Blazers,Sacramento Kings,3,58-69,10,free throw,True,15,True,False
+2014-11-08,31.0666666667,Portland Trail Blazers,Sacramento Kings,3,58-70,11,free throw,True,15,True,False
+2014-11-08,32.75,Portland Trail Blazers,Sacramento Kings,3,58-72,12,two point shot,True,13,False,False
+2014-11-09,17.6,Portland Trail Blazers,Sacramento Kings,2,35-30,3,two point shot,False,7,True,True
+2014-11-09,20.5833333333,Portland Trail Blazers,Sacramento Kings,2,41-32,6,three point jumper,False,24,False,True
+2014-11-09,27.1166666667,Portland Trail Blazers,Sacramento Kings,3,49-40,6,three point jumper,False,23,True,True
+2014-11-09,29.85,Portland Trail Blazers,Sacramento Kings,3,53-44,8,free throw,False,15,True,True
+2014-11-09,29.85,Portland Trail Blazers,Sacramento Kings,3,54-44,9,free throw,False,15,True,True
+2014-11-09,31.2,Portland Trail Blazers,Sacramento Kings,3,59-48,8,three point jumper,False,23,True,True
+2014-11-09,31.8166666667,Portland Trail Blazers,Sacramento Kings,3,61-48,11,two point shot,False,9,True,True
+2014-11-09,33.2166666667,Portland Trail Blazers,Sacramento Kings,3,65-50,13,two point shot,False,1,True,True
+2014-11-09,36.95,Portland Trail Blazers,Sacramento Kings,4,71-57,12,two point jumper,False,1,False,True
+2014-11-09,38.3833333333,Portland Trail Blazers,Sacramento Kings,4,77-57,18,layup,False,0,True,True
+2014-11-09,38.8,Portland Trail Blazers,Sacramento Kings,4,80-58,19,three point jumper,False,24,True,True
+2014-11-09,44.5333333333,Portland Trail Blazers,Sacramento Kings,4,87-78,6,three point jumper,False,25,False,True
+2014-11-09,46.9333333333,Portland Trail Blazers,Sacramento Kings,4,94-83,9,two point shot,False,16,True,True
+2014-01-07,1.63333333333,Portland Trail Blazers,Sacramento Kings,1,4-3,-1,two point shot,False,10,True,False
+2014-01-07,17.5333333333,Portland Trail Blazers,Sacramento Kings,2,46-40,3,three point jumper,False,23,False,False
+2014-01-07,19.0333333333,Portland Trail Blazers,Sacramento Kings,2,49-42,4,three point jumper,False,25,False,False
+2014-01-07,22.05,Portland Trail Blazers,Sacramento Kings,2,54-53,-1,two point jumper,False,16,False,False
+2014-01-07,24.0,Portland Trail Blazers,Sacramento Kings,2,59-55,3,free throw,False,15,True,False
+2014-01-07,24.0,Portland Trail Blazers,Sacramento Kings,2,60-55,4,free throw,False,15,True,False
+2014-01-07,27.0166666667,Portland Trail Blazers,Sacramento Kings,3,60-61,-3,two point jumper,False,9,False,False
+2014-01-07,36.7166666667,Portland Trail Blazers,Sacramento Kings,4,75-82,-9,two point shot,False,8,True,False
+2014-01-07,37.5,Portland Trail Blazers,Sacramento Kings,4,78-88,-13,three point jumper,False,25,True,False
+2014-01-07,41.9166666667,Portland Trail Blazers,Sacramento Kings,4,91-107,-19,three point jumper,False,24,False,False
+2014-01-07,43.1666666667,Portland Trail Blazers,Sacramento Kings,4,96-109,-16,three point jumper,False,25,False,False
+2014-01-07,43.2833333333,Portland Trail Blazers,Sacramento Kings,4,98-109,-14,three point jumper,False,24,False,False
+2014-01-07,44.2833333333,Portland Trail Blazers,Sacramento Kings,4,99-111,-14,two point jumper,False,1,False,False
+2014-01-07,47.5,Portland Trail Blazers,Sacramento Kings,4,110-118,-11,three point jumper,False,25,False,False
+2014-11-22,2.88333333333,Portland Trail Blazers,Chicago Bulls,1,6-6,-3,three point jumper,True,25,True,True
+2014-11-22,3.3,Portland Trail Blazers,Chicago Bulls,1,8-8,-2,two point shot,True,1,True,True
+2014-11-22,6.98333333333,Portland Trail Blazers,Chicago Bulls,1,22-13,-12,three point jumper,True,25,True,True
+2014-11-22,7.35,Portland Trail Blazers,Chicago Bulls,1,22-15,-9,layup,True,0,True,True
+2014-11-22,9.33333333333,Portland Trail Blazers,Chicago Bulls,1,26-17,-12,three point jumper,True,25,False,True
+2014-11-22,14.5666666667,Portland Trail Blazers,Chicago Bulls,2,39-24,-18,three point jumper,True,25,False,True
+2014-11-22,17.9833333333,Portland Trail Blazers,Chicago Bulls,2,48-27,-24,three point jumper,True,27,False,True
+2014-11-22,20.75,Portland Trail Blazers,Chicago Bulls,2,51-34,-20,three point jumper,True,23,True,True
+2014-11-22,23.9666666667,Portland Trail Blazers,Chicago Bulls,2,59-44,-18,three point jumper,True,23,True,True
+2014-11-22,25.8166666667,Portland Trail Blazers,Chicago Bulls,3,64-52,-14,two point shot,True,21,True,True
+2014-11-22,28.7,Portland Trail Blazers,Chicago Bulls,3,66-57,-12,three point jumper,True,23,False,True
+2014-11-22,29.85,Portland Trail Blazers,Chicago Bulls,3,66-62,-6,layup,True,0,True,True
+2014-11-22,32.2166666667,Portland Trail Blazers,Chicago Bulls,3,68-68,-2,layup,True,0,True,True
+2014-11-22,32.6,Portland Trail Blazers,Chicago Bulls,3,68-68,-2,two point jumper,True,22,False,True
+2014-11-22,34.2166666667,Portland Trail Blazers,Chicago Bulls,3,71-76,3,two point shot,True,16,True,True
+2014-11-22,35.4666666667,Portland Trail Blazers,Chicago Bulls,3,71-76,3,two point jumper,True,22,False,True
+2014-11-22,35.9833333333,Portland Trail Blazers,Chicago Bulls,3,71-78,5,layup,True,0,True,True
+2014-11-22,46.3833333333,Portland Trail Blazers,Chicago Bulls,4,95-96,-1,two point jumper,True,20,True,True
+2014-12-17,2.56666666667,Portland Trail Blazers,Cleveland Cavaliers,1,5-7,-5,three point jumper,False,25,False,True
+2014-12-17,17.9833333333,Portland Trail Blazers,Cleveland Cavaliers,2,47-46,-2,three point jumper,False,25,True,True
+2014-12-17,18.3833333333,Portland Trail Blazers,Cleveland Cavaliers,2,47-48,-3,two point shot,False,1,False,True
+2014-12-17,23.5,Portland Trail Blazers,Cleveland Cavaliers,2,55-58,-5,two point shot,False,10,True,True
+2014-12-17,24.6833333333,Portland Trail Blazers,Cleveland Cavaliers,3,56-61,-6,free throw,False,15,True,True
+2014-12-17,24.6833333333,Portland Trail Blazers,Cleveland Cavaliers,3,57-61,-5,free throw,False,15,True,True
+2014-12-17,28.7,Portland Trail Blazers,Cleveland Cavaliers,3,72-71,-1,two point jumper,False,1,True,True
+2014-12-17,30.6333333333,Portland Trail Blazers,Cleveland Cavaliers,3,78-73,3,two point jumper,False,1,True,True
+2014-12-17,32.6166666667,Portland Trail Blazers,Cleveland Cavaliers,3,81-78,0,three point jumper,False,25,False,True
+2014-12-17,32.65,Portland Trail Blazers,Cleveland Cavaliers,3,82-78,3,free throw,False,15,True,True
+2014-12-17,32.65,Portland Trail Blazers,Cleveland Cavaliers,3,83-78,4,free throw,False,15,True,True
+2014-12-17,43.1666666667,Portland Trail Blazers,Cleveland Cavaliers,4,107-101,3,three point jumper,False,25,True,True
+2014-12-17,45.1666666667,Portland Trail Blazers,Cleveland Cavaliers,4,112-104,5,three point jumper,False,24,True,True
+2014-12-17,47.3166666667,Portland Trail Blazers,Cleveland Cavaliers,4,116-111,2,three point jumper,False,23,False,True
+2014-01-15,1.13333333333,Portland Trail Blazers,Cleveland Cavaliers,1,0-0,-3,three point jumper,True,23,False,False
+2014-01-15,1.96666666667,Portland Trail Blazers,Cleveland Cavaliers,1,2-2,-2,two point shot,True,1,True,False
+2014-01-15,5.85,Portland Trail Blazers,Cleveland Cavaliers,1,12-15,1,two point jumper,True,20,False,False
+2014-01-15,14.1333333333,Portland Trail Blazers,Cleveland Cavaliers,2,30-30,-3,three point jumper,True,25,False,False
+2014-01-15,15.3833333333,Portland Trail Blazers,Cleveland Cavaliers,2,36-30,-9,three point jumper,True,24,False,False
+2014-01-15,16.2833333333,Portland Trail Blazers,Cleveland Cavaliers,2,38-30,-10,two point jumper,True,1,False,False
+2014-01-15,17.85,Portland Trail Blazers,Cleveland Cavaliers,2,38-36,-5,three point jumper,True,24,True,False
+2014-01-15,18.45,Portland Trail Blazers,Cleveland Cavaliers,2,38-36,-5,three point jumper,True,23,False,False
+2014-01-15,25.8666666667,Portland Trail Blazers,Cleveland Cavaliers,3,54-57,2,free throw,True,15,True,False
+2014-01-15,25.8666666667,Portland Trail Blazers,Cleveland Cavaliers,3,54-58,3,free throw,True,15,True,False
+2014-01-15,28.3166666667,Portland Trail Blazers,Cleveland Cavaliers,3,63-63,-3,three point jumper,True,25,True,False
+2014-01-15,40.4166666667,Portland Trail Blazers,Cleveland Cavaliers,4,84-88,2,layup,True,0,True,False
+2014-01-15,47.0333333333,Portland Trail Blazers,Cleveland Cavaliers,4,96-105,6,three point jumper,True,25,True,False
+2014-11-11,1.18333333333,Portland Trail Blazers,Detroit Pistons,1,0-3,0,three point jumper,True,25,True,True
+2014-11-11,3.7,Portland Trail Blazers,Detroit Pistons,1,5-11,3,three point jumper,True,23,False,True
+2014-11-11,42.1,Portland Trail Blazers,Detroit Pistons,4,90-100,7,three point jumper,True,23,False,True
+2014-12-15,3.0,Portland Trail Blazers,Detroit Pistons,1,8-6,0,two point jumper,False,15,True,True
+2014-12-15,7.23333333333,Portland Trail Blazers,Detroit Pistons,1,14-16,-4,layup,False,0,True,True
+2014-12-15,8.16666666667,Portland Trail Blazers,Detroit Pistons,1,18-18,-2,two point shot,False,6,True,True
+2014-12-15,18.75,Portland Trail Blazers,Detroit Pistons,2,38-42,-7,three point jumper,False,26,True,True
+2014-12-15,19.6666666667,Portland Trail Blazers,Detroit Pistons,2,38-44,-9,three point jumper,False,25,False,True
+2014-12-15,26.5,Portland Trail Blazers,Detroit Pistons,3,54-57,-5,two point shot,False,1,False,True
+2014-12-15,27.8333333333,Portland Trail Blazers,Detroit Pistons,3,58-61,-4,free throw,False,15,True,True
+2014-12-15,27.8333333333,Portland Trail Blazers,Detroit Pistons,3,58-61,-4,free throw,False,15,False,True
+2014-12-15,29.5666666667,Portland Trail Blazers,Detroit Pistons,3,62-66,-7,three point jumper,False,25,False,True
+2014-12-15,30.8833333333,Portland Trail Blazers,Detroit Pistons,3,66-72,-8,two point shot,False,18,True,True
+2014-12-15,37.15,Portland Trail Blazers,Detroit Pistons,4,73-86,-16,three point jumper,False,24,False,True
+2014-12-15,39.5,Portland Trail Blazers,Detroit Pistons,4,79-90,-13,layup,False,0,False,True
+2014-12-15,40.4166666667,Portland Trail Blazers,Detroit Pistons,4,81-90,-12,three point jumper,False,27,False,True
+2014-12-15,42.45,Portland Trail Blazers,Detroit Pistons,4,86-90,-6,two point jumper,False,11,False,True
+2014-12-15,47.5,Portland Trail Blazers,Detroit Pistons,4,98-99,-2,free throw,False,15,True,True
+2014-12-15,47.5,Portland Trail Blazers,Detroit Pistons,4,99-99,-1,free throw,False,15,True,True
+2014-12-02,1.4,Portland Trail Blazers,Indiana Pacers,1,2-0,-4,hook shot,True,5,False,True
+2014-12-02,7.2,Portland Trail Blazers,Indiana Pacers,1,11-11,-2,two point shot,True,1,True,True
+2014-12-02,23.5333333333,Portland Trail Blazers,Indiana Pacers,2,46-45,-3,layup,True,0,True,True
+2014-12-02,25.0,Portland Trail Blazers,Indiana Pacers,3,50-45,-7,two point jumper,True,20,False,True
+2014-12-02,25.5833333333,Portland Trail Blazers,Indiana Pacers,3,50-47,-5,layup,True,0,True,True
+2014-12-02,28.3166666667,Portland Trail Blazers,Indiana Pacers,3,56-51,-7,layup,True,0,True,True
+2014-12-02,28.3166666667,Portland Trail Blazers,Indiana Pacers,3,56-52,-5,free throw,True,15,True,True
+2014-12-02,29.5333333333,Portland Trail Blazers,Indiana Pacers,3,61-55,-7,free throw,True,15,True,True
+2014-12-02,29.5333333333,Portland Trail Blazers,Indiana Pacers,3,61-56,-6,free throw,True,15,True,True
+2014-12-02,32.2166666667,Portland Trail Blazers,Indiana Pacers,3,68-61,-8,free throw,True,15,True,True
+2014-12-02,32.2166666667,Portland Trail Blazers,Indiana Pacers,3,68-61,-8,free throw,True,15,False,True
+2014-12-02,32.75,Portland Trail Blazers,Indiana Pacers,3,68-61,-9,layup,True,0,False,True
+2014-12-02,41.3833333333,Portland Trail Blazers,Indiana Pacers,4,78-86,5,three point jumper,True,24,True,True
+2014-12-02,42.8833333333,Portland Trail Blazers,Indiana Pacers,4,80-86,4,layup,True,0,False,True
+2014-12-02,44.0166666667,Portland Trail Blazers,Indiana Pacers,4,85-90,2,three point jumper,True,25,False,True
+2014-02-07,1.71666666667,Portland Trail Blazers,Indiana Pacers,1,4-0,2,two point shot,False,13,False,False
+2014-02-07,4.5,Portland Trail Blazers,Indiana Pacers,1,8-4,1,three point jumper,False,25,False,False
+2014-02-07,15.4333333333,Portland Trail Blazers,Indiana Pacers,2,30-24,3,three point jumper,False,25,False,False
+2014-02-07,15.7,Portland Trail Blazers,Indiana Pacers,2,30-24,3,three point jumper,False,25,False,False
+2014-02-07,23.4833333333,Portland Trail Blazers,Indiana Pacers,2,48-43,2,three point jumper,False,27,False,False
+2014-02-07,26.2,Portland Trail Blazers,Indiana Pacers,3,53-51,0,layup,False,0,True,False
+2014-02-07,26.5666666667,Portland Trail Blazers,Indiana Pacers,3,55-51,2,two point shot,False,11,True,False
+2014-02-07,27.1166666667,Portland Trail Blazers,Indiana Pacers,3,55-53,0,two point shot,False,16,False,False
+2014-02-07,27.7166666667,Portland Trail Blazers,Indiana Pacers,3,57-53,2,two point shot,False,1,True,False
+2014-02-07,29.6666666667,Portland Trail Blazers,Indiana Pacers,3,61-60,-1,layup,False,0,False,False
+2014-02-07,30.35,Portland Trail Blazers,Indiana Pacers,3,61-60,-1,two point jumper,False,4,False,False
+2014-02-07,40.0333333333,Portland Trail Blazers,Indiana Pacers,4,82-77,3,layup,False,0,False,False
+2014-02-07,40.2833333333,Portland Trail Blazers,Indiana Pacers,4,85-77,5,three point jumper,False,23,True,False
+2014-02-07,44.95,Portland Trail Blazers,Indiana Pacers,4,94-93,-1,two point shot,False,24,True,False
+2014-02-07,45.75,Portland Trail Blazers,Indiana Pacers,4,95-95,-1,free throw,False,15,True,False
+2014-02-07,45.75,Portland Trail Blazers,Indiana Pacers,4,96-95,0,free throw,False,15,True,False
+2014-02-07,45.75,Portland Trail Blazers,Indiana Pacers,4,97-95,1,free throw,False,15,True,False
+2014-02-07,46.3333333333,Portland Trail Blazers,Indiana Pacers,4,99-97,0,two point jumper,False,13,True,False
+2014-02-07,46.8666666667,Portland Trail Blazers,Indiana Pacers,4,101-100,-1,two point shot,False,17,True,False
+2014-02-07,47.2,Portland Trail Blazers,Indiana Pacers,4,101-100,-2,three point jumper,False,25,False,False
+2014-02-07,49.6666666667,Portland Trail Blazers,Indiana Pacers,5,105-107,-4,two point jumper,False,14,False,False
+2014-02-07,51.55,Portland Trail Blazers,Indiana Pacers,5,107-111,-6,two point shot,False,22,False,False
+2014-02-07,52.75,Portland Trail Blazers,Indiana Pacers,5,110-115,-8,unknown,False,24,False,False
+2014-11-20,1.36666666667,Portland Trail Blazers,Milwaukee Bucks,1,5-0,2,three point jumper,False,26,True,True
+2014-11-20,2.06666666667,Portland Trail Blazers,Milwaukee Bucks,1,8-2,3,three point jumper,False,23,True,True
+2014-11-20,5.45,Portland Trail Blazers,Milwaukee Bucks,1,12-11,-1,two point jumper,False,16,False,True
+2014-11-20,6.56666666667,Portland Trail Blazers,Milwaukee Bucks,1,14-15,-4,three point jumper,False,25,False,True
+2014-11-20,7.45,Portland Trail Blazers,Milwaukee Bucks,1,16-17,-3,layup,False,0,True,True
+2014-11-20,9.21666666667,Portland Trail Blazers,Milwaukee Bucks,1,21-19,-1,three point jumper,False,24,True,True
+2014-11-20,9.58333333333,Portland Trail Blazers,Milwaukee Bucks,1,23-19,2,two point shot,False,12,True,True
+2014-11-20,10.3,Portland Trail Blazers,Milwaukee Bucks,1,23-20,0,three point jumper,False,25,False,True
+2014-11-20,10.3666666667,Portland Trail Blazers,Milwaukee Bucks,1,23-20,0,three point jumper,False,25,False,True
+2014-11-20,22.4833333333,Portland Trail Blazers,Milwaukee Bucks,2,49-46,1,two point jumper,False,1,True,True
+2014-11-20,25.5,Portland Trail Blazers,Milwaukee Bucks,3,57-51,4,two point jumper,False,7,False,True
+2014-11-20,29.0666666667,Portland Trail Blazers,Milwaukee Bucks,3,61-55,3,three point jumper,False,25,False,True
+2014-11-20,31.1666666667,Portland Trail Blazers,Milwaukee Bucks,3,63-57,4,two point jumper,False,20,False,True
+2014-11-20,42.9166666667,Portland Trail Blazers,Milwaukee Bucks,4,84-75,6,three point jumper,False,23,False,True
+2014-11-20,43.5333333333,Portland Trail Blazers,Milwaukee Bucks,4,84-75,6,three point jumper,False,23,False,True
+2014-12-07,2.38333333333,Portland Trail Blazers,Dallas Mavericks,1,4-4,-2,layup,True,0,True,False
+2014-12-07,4.91666666667,Portland Trail Blazers,Dallas Mavericks,1,15-10,-8,three point jumper,True,24,False,False
+2014-12-07,19.3166666667,Portland Trail Blazers,Dallas Mavericks,2,45-44,-4,three point jumper,True,23,False,False
+2014-12-07,22.2333333333,Portland Trail Blazers,Dallas Mavericks,2,49-49,-2,two point jumper,True,19,False,False
+2014-12-07,30.1333333333,Portland Trail Blazers,Dallas Mavericks,3,71-66,-7,two point shot,True,1,True,False
+2014-12-07,32.2166666667,Portland Trail Blazers,Dallas Mavericks,3,71-71,-3,three point jumper,True,23,False,False
+2014-12-07,40.6,Portland Trail Blazers,Dallas Mavericks,4,89-80,-11,two point jumper,True,8,False,False
+2014-12-07,42.35,Portland Trail Blazers,Dallas Mavericks,4,93-86,-10,three point jumper,True,25,False,False
+2014-12-07,43.1,Portland Trail Blazers,Dallas Mavericks,4,93-88,-7,layup,True,0,False,False
+2014-01-18,1.86666666667,Portland Trail Blazers,Dallas Mavericks,1,2-4,-4,two point shot,False,15,False,True
+2014-01-18,13.6333333333,Portland Trail Blazers,Dallas Mavericks,2,39-26,10,three point jumper,False,24,False,True
+2014-01-18,14.7,Portland Trail Blazers,Dallas Mavericks,2,42-28,11,three point jumper,False,24,False,True
+2014-01-18,16.2833333333,Portland Trail Blazers,Dallas Mavericks,2,50-33,15,two point shot,False,1,True,True
+2014-01-18,23.2,Portland Trail Blazers,Dallas Mavericks,2,67-48,18,free throw,False,15,True,True
+2014-01-18,23.2,Portland Trail Blazers,Dallas Mavericks,2,68-48,19,free throw,False,15,True,True
+2014-01-18,24.8833333333,Portland Trail Blazers,Dallas Mavericks,3,71-52,16,three point jumper,False,25,False,True
+2014-01-18,25.8833333333,Portland Trail Blazers,Dallas Mavericks,3,76-54,19,three point jumper,False,23,True,True
+2014-01-18,26.8,Portland Trail Blazers,Dallas Mavericks,3,76-56,17,three point jumper,False,26,False,True
+2014-01-18,27.3833333333,Portland Trail Blazers,Dallas Mavericks,3,81-58,20,three point jumper,False,25,True,True
+2014-01-18,32.1833333333,Portland Trail Blazers,Dallas Mavericks,3,96-64,29,three point jumper,False,24,False,True
+2014-11-05,0.683333333333,Portland Trail Blazers,Houston Rockets,1,0-3,0,three point jumper,True,25,True,False
+2014-11-05,4.41666666667,Portland Trail Blazers,Houston Rockets,1,8-14,4,two point shot,True,1,True,False
+2014-11-05,5.21666666667,Portland Trail Blazers,Houston Rockets,1,10-14,1,three point jumper,True,24,False,False
+2014-11-05,7.06666666667,Portland Trail Blazers,Houston Rockets,1,13-19,3,three point jumper,True,25,False,False
+2014-11-05,17.8833333333,Portland Trail Blazers,Houston Rockets,2,43-36,-10,three point jumper,True,24,False,False
+2014-11-05,18.7833333333,Portland Trail Blazers,Houston Rockets,2,45-40,-7,two point jumper,True,20,True,False
+2014-11-05,20.15,Portland Trail Blazers,Houston Rockets,2,45-45,-3,three point jumper,True,25,True,False
+2014-11-05,21.3,Portland Trail Blazers,Houston Rockets,2,48-47,-3,two point shot,True,16,True,False
+2014-11-05,24.3333333333,Portland Trail Blazers,Houston Rockets,3,55-50,-6,free throw,True,15,False,False
+2014-11-05,24.3333333333,Portland Trail Blazers,Houston Rockets,3,55-50,-6,free throw,True,15,False,False
+2014-11-05,27.8333333333,Portland Trail Blazers,Houston Rockets,3,62-50,-15,three point jumper,True,24,False,False
+2014-11-05,37.8166666667,Portland Trail Blazers,Houston Rockets,4,88-77,-12,free throw,True,15,False,False
+2014-11-05,37.8166666667,Portland Trail Blazers,Houston Rockets,4,88-78,-11,free throw,True,15,True,False
+2014-11-05,37.8166666667,Portland Trail Blazers,Houston Rockets,4,88-79,-10,free throw,True,15,True,False
+2014-11-05,38.1333333333,Portland Trail Blazers,Houston Rockets,4,91-80,-12,free throw,True,15,True,False
+2014-11-05,38.1333333333,Portland Trail Blazers,Houston Rockets,4,91-81,-11,free throw,True,15,True,False
+2014-11-05,39.25,Portland Trail Blazers,Houston Rockets,4,93-86,-10,three point jumper,True,24,True,False
+2014-11-05,43.95,Portland Trail Blazers,Houston Rockets,4,105-94,-14,three point jumper,True,25,False,False
+2014-12-12,3.18333333333,Portland Trail Blazers,Houston Rockets,1,4-6,0,layup,True,0,True,True
+2014-12-12,3.63333333333,Portland Trail Blazers,Houston Rockets,1,4-6,-1,three point jumper,True,23,False,True
+2014-12-12,4.63333333333,Portland Trail Blazers,Houston Rockets,1,6-9,0,three point jumper,True,24,False,True
+2014-12-12,5.85,Portland Trail Blazers,Houston Rockets,1,7-9,0,two point shot,True,8,False,True
+2014-12-12,6.25,Portland Trail Blazers,Houston Rockets,1,9-11,0,two point jumper,True,15,True,True
+2014-12-12,8.15,Portland Trail Blazers,Houston Rockets,1,13-14,0,free throw,True,15,True,True
+2014-12-12,8.15,Portland Trail Blazers,Houston Rockets,1,13-15,1,free throw,True,15,True,True
+2014-12-12,8.66666666667,Portland Trail Blazers,Houston Rockets,1,13-15,-1,three point jumper,True,25,False,True
+2014-12-12,23.9833333333,Portland Trail Blazers,Houston Rockets,2,44-43,-3,two point jumper,True,21,False,True
+2014-12-12,26.25,Portland Trail Blazers,Houston Rockets,3,47-49,-1,three point jumper,True,23,False,True
+2014-12-12,26.5666666667,Portland Trail Blazers,Houston Rockets,3,47-54,4,three point jumper,True,23,True,True
+2014-12-12,28.8833333333,Portland Trail Blazers,Houston Rockets,3,54-59,3,dunk,True,0,False,True
+2014-12-12,29.3833333333,Portland Trail Blazers,Houston Rockets,3,55-62,4,three point jumper,True,23,True,True
+2014-12-12,29.95,Portland Trail Blazers,Houston Rockets,3,57-62,2,three point jumper,True,25,False,True
+2014-12-12,32.05,Portland Trail Blazers,Houston Rockets,3,60-67,6,free throw,True,15,False,True
+2014-12-12,32.05,Portland Trail Blazers,Houston Rockets,3,60-68,7,free throw,True,15,True,True
+2014-12-12,43.1,Portland Trail Blazers,Houston Rockets,4,92-97,2,three point jumper,True,25,False,True
+2014-12-12,44.1166666667,Portland Trail Blazers,Houston Rockets,4,95-99,2,two point shot,True,1,True,True
+2014-12-12,45.9333333333,Portland Trail Blazers,Houston Rockets,4,96-107,9,layup,True,0,True,True
+2014-12-12,45.9333333333,Portland Trail Blazers,Houston Rockets,4,96-108,11,free throw,True,15,True,True
+2014-12-12,46.3833333333,Portland Trail Blazers,Houston Rockets,4,98-108,8,two point jumper,True,22,False,True
+2014-01-20,1.95,Portland Trail Blazers,Houston Rockets,1,5-9,-6,two point shot,False,1,True,False
+2014-01-20,4.53333333333,Portland Trail Blazers,Houston Rockets,1,9-21,-15,three point jumper,False,24,False,False
+2014-01-20,4.98333333333,Portland Trail Blazers,Houston Rockets,1,9-23,-17,three point jumper,False,25,False,False
+2014-01-20,13.25,Portland Trail Blazers,Houston Rockets,2,30-37,-10,three point jumper,False,23,False,False
+2014-01-20,16.9166666667,Portland Trail Blazers,Houston Rockets,2,38-53,-17,layup,False,0,True,False
+2014-01-20,17.85,Portland Trail Blazers,Houston Rockets,2,41-53,-15,unknown,False,25,True,False
+2014-01-20,23.5333333333,Portland Trail Blazers,Houston Rockets,2,56-71,-17,two point shot,False,1,True,False
+2014-01-20,23.9833333333,Portland Trail Blazers,Houston Rockets,2,56-71,-18,three point jumper,False,25,False,False
+2014-01-20,26.1333333333,Portland Trail Blazers,Houston Rockets,3,61-79,-21,three point jumper,False,25,False,False
+2014-01-20,26.6333333333,Portland Trail Blazers,Houston Rockets,3,65-79,-16,dunk,False,0,True,False
+2014-01-20,30.9166666667,Portland Trail Blazers,Houston Rockets,3,80-86,-9,three point jumper,False,28,True,False
+2014-01-20,31.35,Portland Trail Blazers,Houston Rockets,3,80-88,-11,three point jumper,False,23,False,False
+2014-01-20,37.4666666667,Portland Trail Blazers,Houston Rockets,4,91-110,-21,unknown,False,9,False,False
+2014-01-20,41.45,Portland Trail Blazers,Houston Rockets,4,102-113,-13,layup,False,0,True,False
+2014-01-20,41.8166666667,Portland Trail Blazers,Houston Rockets,4,104-115,-13,layup,False,0,True,False
+2014-01-20,44.2,Portland Trail Blazers,Houston Rockets,4,106-122,-19,three point jumper,False,23,False,False
+2014-01-28,13.8333333333,Portland Trail Blazers,Memphis Grizzlies,2,36-25,-14,three point jumper,True,25,False,False
+2014-01-28,14.25,Portland Trail Blazers,Memphis Grizzlies,2,38-26,-13,free throw,True,15,True,False
+2014-01-28,14.25,Portland Trail Blazers,Memphis Grizzlies,2,38-27,-12,free throw,True,15,True,False
+2014-01-28,16.95,Portland Trail Blazers,Memphis Grizzlies,2,45-31,-17,three point jumper,True,26,False,False
+2014-01-28,19.5333333333,Portland Trail Blazers,Memphis Grizzlies,2,52-37,-17,layup,True,0,False,False
+2014-01-28,23.1166666667,Portland Trail Blazers,Memphis Grizzlies,2,57-45,-14,two point jumper,True,6,False,False
+2014-01-28,24.25,Portland Trail Blazers,Memphis Grizzlies,3,61-46,-17,layup,True,0,False,False
+2014-01-28,33.8666666667,Portland Trail Blazers,Memphis Grizzlies,3,77-56,-24,three point jumper,True,25,False,False
+2014-01-28,40.5,Portland Trail Blazers,Memphis Grizzlies,4,86-68,-21,three point jumper,True,25,True,False
+2014-01-28,43.1333333333,Portland Trail Blazers,Memphis Grizzlies,4,94-75,-22,three point jumper,True,25,False,False
+2014-01-28,43.7,Portland Trail Blazers,Memphis Grizzlies,4,94-78,-19,three point jumper,True,23,True,False
+2014-12-21,1.68333333333,Portland Trail Blazers,New Orleans Pelicans,1,5-5,-3,three point jumper,True,26,True,True
+2014-12-21,7.45,Portland Trail Blazers,New Orleans Pelicans,1,20-11,-12,three point jumper,True,25,False,True
+2014-12-21,7.75,Portland Trail Blazers,New Orleans Pelicans,1,20-13,-9,layup,True,0,True,True
+2014-12-21,17.6333333333,Portland Trail Blazers,New Orleans Pelicans,2,39-35,-5,free throw,True,15,True,True
+2014-12-21,17.6333333333,Portland Trail Blazers,New Orleans Pelicans,2,39-36,-4,free throw,True,15,True,True
+2014-12-21,18.7833333333,Portland Trail Blazers,New Orleans Pelicans,2,44-36,-10,layup,True,0,False,True
+2014-12-21,18.8166666667,Portland Trail Blazers,New Orleans Pelicans,2,44-36,-10,tip shot,True,0,False,True
+2014-12-21,20.2,Portland Trail Blazers,New Orleans Pelicans,2,49-36,-16,three point jumper,True,23,False,True
+2014-12-21,21.1166666667,Portland Trail Blazers,New Orleans Pelicans,2,49-38,-13,two point jumper,True,20,False,True
+2014-12-21,24.75,Portland Trail Blazers,New Orleans Pelicans,3,53-56,1,two point jumper,True,1,True,True
+2014-12-21,26.1833333333,Portland Trail Blazers,New Orleans Pelicans,3,55-60,3,two point shot,True,14,True,True
+2014-12-21,27.0666666667,Portland Trail Blazers,New Orleans Pelicans,3,57-62,3,two point jumper,True,20,False,True
+2014-12-21,31.0666666667,Portland Trail Blazers,New Orleans Pelicans,3,64-73,7,two point jumper,True,1,True,True
+2014-12-21,39.1833333333,Portland Trail Blazers,New Orleans Pelicans,4,86-96,7,three point jumper,True,24,True,True
+2014-12-21,41.3833333333,Portland Trail Blazers,New Orleans Pelicans,4,91-99,5,three point jumper,True,24,False,True
+2014-12-21,41.9166666667,Portland Trail Blazers,New Orleans Pelicans,4,93-99,4,two point jumper,True,1,False,True
+2014-12-21,46.1,Portland Trail Blazers,New Orleans Pelicans,4,105-103,-5,three point jumper,True,23,False,True
+2014-12-21,47.3,Portland Trail Blazers,New Orleans Pelicans,4,105-108,1,layup,True,0,True,True
+2014-12-30,4.5,Portland Trail Blazers,New Orleans Pelicans,1,8-7,-1,two point shot,False,16,True,False
+2014-12-30,5.63333333333,Portland Trail Blazers,New Orleans Pelicans,1,11-9,-1,three point jumper,False,25,True,False
+2014-12-30,6.2,Portland Trail Blazers,New Orleans Pelicans,1,11-11,-3,three point jumper,False,24,False,False
+2014-12-30,10.2666666667,Portland Trail Blazers,New Orleans Pelicans,1,15-23,-10,layup,False,0,False,False
+2014-12-30,18.3166666667,Portland Trail Blazers,New Orleans Pelicans,2,35-46,-14,three point jumper,False,24,False,False
+2014-12-30,20.9166666667,Portland Trail Blazers,New Orleans Pelicans,2,40-50,-13,three point jumper,False,23,False,False
+2014-12-30,21.3666666667,Portland Trail Blazers,New Orleans Pelicans,2,44-50,-8,layup,False,0,True,False
+2014-12-30,27.6333333333,Portland Trail Blazers,New Orleans Pelicans,3,56-64,-9,free throw,False,15,True,False
+2014-12-30,27.6333333333,Portland Trail Blazers,New Orleans Pelicans,3,56-64,-9,free throw,False,15,False,False
+2014-12-30,30.5666666667,Portland Trail Blazers,New Orleans Pelicans,3,69-70,-4,three point jumper,False,23,True,False
+2014-12-30,32.8333333333,Portland Trail Blazers,New Orleans Pelicans,3,69-78,-10,free throw,False,15,True,False
+2014-12-30,32.8333333333,Portland Trail Blazers,New Orleans Pelicans,3,70-78,-9,free throw,False,15,True,False
+2014-12-30,37.3166666667,Portland Trail Blazers,New Orleans Pelicans,4,85-89,-6,unknown,False,22,True,False
+2014-12-30,38.1333333333,Portland Trail Blazers,New Orleans Pelicans,4,87-89,-4,two point jumper,False,4,True,False
+2014-12-30,39.8333333333,Portland Trail Blazers,New Orleans Pelicans,4,89-92,-6,three point jumper,False,25,False,False
+2014-11-02,1.38333333333,Portland Trail Blazers,San Antonio Spurs,1,2-4,0,two point shot,True,1,True,True
+2014-11-02,4.2,Portland Trail Blazers,San Antonio Spurs,1,6-8,0,two point shot,True,1,False,True
+2014-11-02,10.9166666667,Portland Trail Blazers,San Antonio Spurs,1,15-21,5,free throw,True,15,True,True
+2014-11-02,10.9166666667,Portland Trail Blazers,San Antonio Spurs,1,15-21,5,free throw,True,15,False,True
+2014-11-02,12.2666666667,Portland Trail Blazers,San Antonio Spurs,2,19-21,-1,three point jumper,True,24,False,True
+2014-11-02,27.5666666667,Portland Trail Blazers,San Antonio Spurs,3,47-58,9,two point jumper,True,20,True,True
+2014-11-02,29.35,Portland Trail Blazers,San Antonio Spurs,3,52-65,10,three point jumper,True,23,True,True
+2014-11-02,30.1,Portland Trail Blazers,San Antonio Spurs,3,54-65,8,three point jumper,True,25,False,True
+2014-11-02,34.65,Portland Trail Blazers,San Antonio Spurs,3,69-77,6,two point shot,True,5,True,True
+2014-11-02,37.0166666667,Portland Trail Blazers,San Antonio Spurs,4,74-85,8,three point jumper,True,25,True,True
+2014-11-02,37.5666666667,Portland Trail Blazers,San Antonio Spurs,4,76-88,9,three point jumper,True,24,True,True
+2014-11-02,41.6,Portland Trail Blazers,San Antonio Spurs,4,87-96,7,layup,True,0,True,True
+2014-11-02,42.7,Portland Trail Blazers,San Antonio Spurs,4,89-98,6,three point jumper,True,23,False,True
+2014-11-02,47.65,Portland Trail Blazers,San Antonio Spurs,4,102-108,4,dunk,True,0,True,True
+2014-01-17,3.5,Portland Trail Blazers,San Antonio Spurs,1,6-10,-6,two point jumper,False,16,False,True
+2014-01-17,3.51666666667,Portland Trail Blazers,San Antonio Spurs,1,6-10,-6,tip shot,False,0,False,True
+2014-01-17,6.06666666667,Portland Trail Blazers,San Antonio Spurs,1,13-14,-4,three point jumper,False,24,True,True
+2014-01-17,15.7,Portland Trail Blazers,San Antonio Spurs,2,34-32,-1,three point jumper,False,25,True,True
+2014-01-17,21.45,Portland Trail Blazers,San Antonio Spurs,2,48-43,3,two point shot,False,4,True,True
+2014-01-17,24.9333333333,Portland Trail Blazers,San Antonio Spurs,3,57-51,3,three point jumper,False,24,True,True
+2014-01-17,28.7,Portland Trail Blazers,San Antonio Spurs,3,65-55,8,layup,False,0,True,True
+2014-01-17,30.45,Portland Trail Blazers,San Antonio Spurs,3,69-60,6,three point jumper,False,26,False,True
+2014-01-17,35.0166666667,Portland Trail Blazers,San Antonio Spurs,3,77-73,2,two point jumper,False,19,True,True
+2014-01-17,44.2333333333,Portland Trail Blazers,San Antonio Spurs,4,95-91,1,three point jumper,False,23,True,True
+2014-01-17,45.35,Portland Trail Blazers,San Antonio Spurs,4,100-93,4,three point jumper,False,26,True,True
+2014-01-17,46.6,Portland Trail Blazers,San Antonio Spurs,4,105-96,6,three point jumper,False,25,True,True
+2014-02-19,2.2,Portland Trail Blazers,San Antonio Spurs,1,2-1,-3,two point jumper,True,13,False,False
+2014-02-19,6.66666666667,Portland Trail Blazers,San Antonio Spurs,1,11-15,2,layup,True,0,True,False
+2014-02-19,7.06666666667,Portland Trail Blazers,San Antonio Spurs,1,11-15,3,free throw,True,15,False,False
+2014-02-19,7.06666666667,Portland Trail Blazers,San Antonio Spurs,1,11-16,4,free throw,True,15,True,False
+2014-02-19,10.25,Portland Trail Blazers,San Antonio Spurs,1,16-19,1,two point jumper,True,20,False,False
+2014-02-19,12.5666666667,Portland Trail Blazers,San Antonio Spurs,2,20-24,2,two point shot,True,9,False,False
+2014-02-19,13.6333333333,Portland Trail Blazers,San Antonio Spurs,2,20-27,5,layup,True,0,True,False
+2014-02-19,13.6333333333,Portland Trail Blazers,San Antonio Spurs,2,20-28,7,free throw,True,15,True,False
+2014-02-19,15.5,Portland Trail Blazers,San Antonio Spurs,2,28-33,2,three point jumper,True,25,True,False
+2014-02-19,25.3333333333,Portland Trail Blazers,San Antonio Spurs,3,56-54,-5,three point jumper,True,25,False,False
+2014-02-19,25.95,Portland Trail Blazers,San Antonio Spurs,3,59-56,-5,layup,True,0,False,False
+2014-02-19,30.0333333333,Portland Trail Blazers,San Antonio Spurs,3,69-60,-10,free throw,True,15,False,False
+2014-02-19,30.0333333333,Portland Trail Blazers,San Antonio Spurs,3,69-61,-9,free throw,True,15,True,False
+2014-02-19,30.8833333333,Portland Trail Blazers,San Antonio Spurs,3,69-66,-5,layup,True,0,True,False
+2014-02-19,32.9166666667,Portland Trail Blazers,San Antonio Spurs,3,75-73,-5,three point jumper,True,25,True,False
+2014-02-19,38.55,Portland Trail Blazers,San Antonio Spurs,4,87-81,-8,layup,True,0,False,False
+2014-02-19,39.75,Portland Trail Blazers,San Antonio Spurs,4,89-82,-8,free throw,True,15,True,False
+2014-02-19,39.75,Portland Trail Blazers,San Antonio Spurs,4,89-82,-8,free throw,True,15,False,False
+2014-02-19,40.75,Portland Trail Blazers,San Antonio Spurs,4,92-82,-12,two point jumper,True,17,False,False
+2014-02-19,42.1333333333,Portland Trail Blazers,San Antonio Spurs,4,94-84,-13,three point jumper,True,24,False,False
+2014-02-19,46.15,Portland Trail Blazers,San Antonio Spurs,4,101-101,-2,dunk,True,0,True,False
+2014-02-19,47.9166666667,Portland Trail Blazers,San Antonio Spurs,4,109-104,-7,two point jumper,True,22,False,False
+2014-01-02,1.71666666667,Portland Trail Blazers,Charlotte Bobcats,1,4-5,-2,three point jumper,True,26,True,True
+2014-01-02,3.88333333333,Portland Trail Blazers,Charlotte Bobcats,1,9-14,2,three point jumper,True,23,True,True
+2014-01-02,8.21666666667,Portland Trail Blazers,Charlotte Bobcats,1,13-28,13,two point jumper,True,8,False,True
+2014-01-02,8.85,Portland Trail Blazers,Charlotte Bobcats,1,13-29,15,free throw,True,15,True,True
+2014-01-02,8.85,Portland Trail Blazers,Charlotte Bobcats,1,13-30,16,free throw,True,15,True,True
+2014-01-02,20.7833333333,Portland Trail Blazers,Charlotte Bobcats,2,37-64,24,three point jumper,True,25,True,True
+2014-01-02,22.1666666667,Portland Trail Blazers,Charlotte Bobcats,2,43-64,20,free throw,True,15,False,True
+2014-01-02,22.1666666667,Portland Trail Blazers,Charlotte Bobcats,2,43-65,21,free throw,True,15,True,True
+2014-01-02,22.1666666667,Portland Trail Blazers,Charlotte Bobcats,2,43-66,22,free throw,True,15,True,True
+2014-01-02,22.6333333333,Portland Trail Blazers,Charlotte Bobcats,2,43-68,23,two point shot,True,11,True,True
+2014-01-02,23.55,Portland Trail Blazers,Charlotte Bobcats,2,47-70,21,two point shot,True,1,True,True
+2014-01-02,24.0,Portland Trail Blazers,Charlotte Bobcats,2,49-70,18,three point jumper,True,25,False,True
+2014-01-02,27.55,Portland Trail Blazers,Charlotte Bobcats,3,58-82,21,three point jumper,True,26,True,True
+2014-01-02,30.2833333333,Portland Trail Blazers,Charlotte Bobcats,3,64-84,18,two point jumper,True,21,False,True
+2014-01-02,32.6,Portland Trail Blazers,Charlotte Bobcats,3,72-92,17,three point jumper,True,28,True,True
+2014-01-02,34.8833333333,Portland Trail Blazers,Charlotte Bobcats,3,75-98,21,two point shot,True,1,True,True
+2014-12-28,6.13333333333,Portland Trail Blazers,Miami Heat,1,19-17,-5,three point jumper,True,25,True,False
+2014-12-28,7.98333333333,Portland Trail Blazers,Miami Heat,1,24-22,-4,unknown,True,23,True,False
+2014-12-28,8.96666666667,Portland Trail Blazers,Miami Heat,1,27-24,-5,layup,True,0,False,False
+2014-12-28,16.75,Portland Trail Blazers,Miami Heat,2,36-45,6,three point jumper,True,25,False,False
+2014-12-28,17.6666666667,Portland Trail Blazers,Miami Heat,2,38-47,7,two point jumper,True,23,True,False
+2014-12-28,19.2833333333,Portland Trail Blazers,Miami Heat,2,42-50,5,three point jumper,True,23,True,False
+2014-12-28,20.8,Portland Trail Blazers,Miami Heat,2,45-50,2,three point jumper,True,25,False,False
+2014-12-28,21.5,Portland Trail Blazers,Miami Heat,2,48-53,2,three point jumper,True,23,True,False
+2014-12-28,22.05,Portland Trail Blazers,Miami Heat,2,50-55,3,layup,True,0,True,False
+2014-12-28,22.7166666667,Portland Trail Blazers,Miami Heat,2,52-57,3,two point shot,True,8,True,False
+2014-12-28,23.2333333333,Portland Trail Blazers,Miami Heat,2,54-57,0,three point jumper,True,25,False,False
+2014-12-28,31.6333333333,Portland Trail Blazers,Miami Heat,3,75-76,-2,three point jumper,True,23,True,False
+2014-12-28,43.5333333333,Portland Trail Blazers,Miami Heat,4,93-96,1,layup,True,0,True,False
+2014-01-08,2.13333333333,Portland Trail Blazers,Orlando Magic,1,5-9,1,three point jumper,True,25,False,False
+2014-01-08,4.31666666667,Portland Trail Blazers,Orlando Magic,1,7-13,3,three point jumper,True,25,True,False
+2014-01-08,5.28333333333,Portland Trail Blazers,Orlando Magic,1,9-15,3,three point jumper,True,24,False,False
+2014-01-08,18.3166666667,Portland Trail Blazers,Orlando Magic,2,40-34,-9,three point jumper,True,24,False,False
+2014-01-08,23.15,Portland Trail Blazers,Orlando Magic,2,51-45,-8,two point shot,True,1,False,False
+2014-01-08,28.0,Portland Trail Blazers,Orlando Magic,3,61-53,-11,three point jumper,True,23,False,False
+2014-01-08,31.25,Portland Trail Blazers,Orlando Magic,3,64-56,-9,free throw,True,15,True,False
+2014-01-08,31.25,Portland Trail Blazers,Orlando Magic,3,64-57,-8,free throw,True,15,True,False
+2014-01-08,31.8833333333,Portland Trail Blazers,Orlando Magic,3,66-59,-9,two point jumper,True,7,True,False
+2014-01-08,36.3,Portland Trail Blazers,Orlando Magic,4,75-74,-4,three point jumper,True,25,True,False
+2014-01-08,37.25,Portland Trail Blazers,Orlando Magic,4,75-76,-1,two point shot,True,1,True,False
+2014-01-08,38.1166666667,Portland Trail Blazers,Orlando Magic,4,75-78,0,three point jumper,True,25,False,False
+2014-01-08,38.6166666667,Portland Trail Blazers,Orlando Magic,4,76-78,0,two point jumper,True,8,False,False
+2014-01-08,38.65,Portland Trail Blazers,Orlando Magic,4,76-78,0,layup,True,0,False,False
+2014-01-08,38.6833333333,Portland Trail Blazers,Orlando Magic,4,76-80,2,two point shot,True,1,True,False
+2014-01-08,39.2,Portland Trail Blazers,Orlando Magic,4,76-80,1,three point jumper,True,24,False,False
+2014-01-08,45.7833333333,Portland Trail Blazers,Orlando Magic,4,89-104,12,three point jumper,True,25,True,False
+2014-01-08,46.3666666667,Portland Trail Blazers,Orlando Magic,4,91-106,13,two point shot,True,8,False,False
+2014-02-03,4.16666666667,Portland Trail Blazers,Washington Wizards,1,9-7,-1,three point jumper,False,23,False,True
+2014-02-03,13.0666666667,Portland Trail Blazers,Washington Wizards,2,32-34,-5,three point jumper,False,25,True,True
+2014-02-03,15.2166666667,Portland Trail Blazers,Washington Wizards,2,34-37,-5,two point shot,False,12,True,True
+2014-02-03,15.8833333333,Portland Trail Blazers,Washington Wizards,2,36-39,-5,two point shot,False,17,True,True
+2014-02-03,17.7333333333,Portland Trail Blazers,Washington Wizards,2,40-43,-5,layup,False,0,True,True
+2014-02-03,24.1833333333,Portland Trail Blazers,Washington Wizards,3,55-56,-4,three point jumper,False,26,False,True
+2014-02-03,27.9,Portland Trail Blazers,Washington Wizards,3,61-64,-5,two point jumper,False,4,False,True
+2014-02-03,29.5333333333,Portland Trail Blazers,Washington Wizards,3,63-70,-10,three point jumper,False,25,False,True
+2014-02-03,47.1833333333,Portland Trail Blazers,Washington Wizards,4,90-98,-11,three point jumper,False,23,False,True
+2014-02-03,47.3,Portland Trail Blazers,Washington Wizards,4,90-98,-11,three point jumper,False,24,False,True
+2014-11-01,19.6666666667,Portland Trail Blazers,Denver Nuggets,2,49-38,9,two point jumper,False,15,False,False
+2014-11-01,20.75,Portland Trail Blazers,Denver Nuggets,2,56-41,13,two point jumper,False,19,True,False
+2014-11-01,21.5666666667,Portland Trail Blazers,Denver Nuggets,2,58-43,13,layup,False,0,True,False
+2014-11-01,24.7666666667,Portland Trail Blazers,Denver Nuggets,3,66-50,14,layup,False,0,False,False
+2014-11-01,26.5833333333,Portland Trail Blazers,Denver Nuggets,3,69-55,11,three point jumper,False,25,True,False
+2014-11-01,27.3333333333,Portland Trail Blazers,Denver Nuggets,3,72-57,12,three point jumper,False,25,True,False
+2014-11-01,27.95,Portland Trail Blazers,Denver Nuggets,3,74-57,15,two point shot,False,6,True,False
+2014-11-01,27.95,Portland Trail Blazers,Denver Nuggets,3,75-57,17,free throw,False,15,True,False
+2014-11-01,28.3166666667,Portland Trail Blazers,Denver Nuggets,3,78-57,18,three point jumper,False,23,True,False
+2014-11-01,30.0,Portland Trail Blazers,Denver Nuggets,3,81-61,18,two point jumper,False,20,False,False
+2014-11-01,31.1,Portland Trail Blazers,Denver Nuggets,3,86-63,22,free throw,False,15,True,False
+2014-11-01,31.1,Portland Trail Blazers,Denver Nuggets,3,87-63,23,free throw,False,15,True,False
+2014-11-01,31.95,Portland Trail Blazers,Denver Nuggets,3,87-63,22,two point shot,False,8,False,False
+2014-11-01,38.3833333333,Portland Trail Blazers,Denver Nuggets,4,95-77,16,two point shot,False,1,False,False
+2014-11-01,42.3833333333,Portland Trail Blazers,Denver Nuggets,4,101-90,9,layup,False,0,False,False
+2014-11-01,43.8166666667,Portland Trail Blazers,Denver Nuggets,4,105-94,8,three point jumper,False,25,True,False
+2014-01-23,0.766666666667,Portland Trail Blazers,Denver Nuggets,1,0-3,0,three point jumper,True,23,True,True
+2014-01-23,3.01666666667,Portland Trail Blazers,Denver Nuggets,1,6-8,0,two point jumper,True,12,False,True
+2014-01-23,3.96666666667,Portland Trail Blazers,Denver Nuggets,1,8-13,2,three point jumper,True,23,True,True
+2014-01-23,7.0,Portland Trail Blazers,Denver Nuggets,1,14-19,3,layup,True,0,True,True
+2014-01-23,12.9666666667,Portland Trail Blazers,Denver Nuggets,2,30-30,-3,three point jumper,True,23,False,True
+2014-01-23,15.25,Portland Trail Blazers,Denver Nuggets,2,34-31,-6,three point jumper,True,25,False,True
+2014-01-23,16.0666666667,Portland Trail Blazers,Denver Nuggets,2,37-35,-4,two point jumper,True,1,True,True
+2014-01-23,16.75,Portland Trail Blazers,Denver Nuggets,2,40-36,-5,free throw,True,15,True,True
+2014-01-23,16.75,Portland Trail Blazers,Denver Nuggets,2,40-37,-4,free throw,True,15,True,True
+2014-01-23,20.7666666667,Portland Trail Blazers,Denver Nuggets,2,51-45,-8,layup,True,0,True,True
+2014-01-23,20.7666666667,Portland Trail Blazers,Denver Nuggets,2,51-46,-6,free throw,True,15,True,True
+2014-01-23,24.0,Portland Trail Blazers,Denver Nuggets,2,67-59,-9,free throw,True,15,True,True
+2014-01-23,24.0,Portland Trail Blazers,Denver Nuggets,2,67-59,-9,free throw,True,15,True,True
+2014-01-23,24.0,Portland Trail Blazers,Denver Nuggets,2,67-59,-9,free throw,True,15,True,True
+2014-01-23,28.6666666667,Portland Trail Blazers,Denver Nuggets,3,80-70,-13,three point jumper,True,24,False,True
+2014-01-23,30.0333333333,Portland Trail Blazers,Denver Nuggets,3,83-72,-13,two point shot,True,1,True,True
+2014-01-23,37.0166666667,Portland Trail Blazers,Denver Nuggets,4,91-90,-3,two point shot,True,12,True,True
+2014-01-23,37.8333333333,Portland Trail Blazers,Denver Nuggets,4,91-92,-1,two point jumper,True,15,True,True
+2014-01-23,42.0666666667,Portland Trail Blazers,Denver Nuggets,4,97-97,-2,two point shot,True,8,False,True
+2014-01-23,47.2833333333,Portland Trail Blazers,Denver Nuggets,4,105-104,-4,three point jumper,True,23,False,True
+2014-02-25,0.316666666667,Portland Trail Blazers,Denver Nuggets,1,3-0,0,three point jumper,False,23,True,False
+2014-02-25,1.0,Portland Trail Blazers,Denver Nuggets,1,3-3,-2,two point jumper,False,9,False,False
+2014-02-25,4.66666666667,Portland Trail Blazers,Denver Nuggets,1,13-11,-1,three point jumper,False,26,False,False
+2014-02-25,5.1,Portland Trail Blazers,Denver Nuggets,1,15-11,2,dunk,False,0,True,False
+2014-02-25,16.0666666667,Portland Trail Blazers,Denver Nuggets,2,34-27,4,three point jumper,False,26,False,False
+2014-02-25,19.7833333333,Portland Trail Blazers,Denver Nuggets,2,45-36,6,three point jumper,False,23,False,False
+2014-02-25,22.4166666667,Portland Trail Blazers,Denver Nuggets,2,48-45,2,free throw,False,15,True,False
+2014-02-25,22.4166666667,Portland Trail Blazers,Denver Nuggets,2,49-45,3,free throw,False,15,True,False
+2014-02-25,22.9166666667,Portland Trail Blazers,Denver Nuggets,2,49-45,1,three point jumper,False,26,False,False
+2014-02-25,27.0833333333,Portland Trail Blazers,Denver Nuggets,3,60-47,11,two point jumper,False,11,False,False
+2014-02-25,34.2166666667,Portland Trail Blazers,Denver Nuggets,3,80-65,12,unknown,False,24,False,False
+2014-02-25,35.8,Portland Trail Blazers,Denver Nuggets,3,82-69,10,three point jumper,False,24,False,False
+2014-02-25,43.1,Portland Trail Blazers,Denver Nuggets,4,86-80,4,layup,False,0,False,False
+2014-02-25,44.35,Portland Trail Blazers,Denver Nuggets,4,89-84,4,free throw,False,15,True,False
+2014-02-25,44.35,Portland Trail Blazers,Denver Nuggets,4,90-84,5,free throw,False,15,True,False
+2014-02-25,44.9333333333,Portland Trail Blazers,Denver Nuggets,4,90-86,2,two point jumper,False,20,False,False
+2014-02-25,45.65,Portland Trail Blazers,Denver Nuggets,4,93-88,4,free throw,False,15,True,False
+2014-02-25,45.65,Portland Trail Blazers,Denver Nuggets,4,94-88,5,free throw,False,15,True,False
+2014-03-01,3.51666666667,Portland Trail Blazers,Denver Nuggets,1,7-8,-1,two point shot,True,21,True,False
+2014-03-01,16.6333333333,Portland Trail Blazers,Denver Nuggets,2,34-40,5,free throw,True,15,True,False
+2014-03-01,16.6333333333,Portland Trail Blazers,Denver Nuggets,2,34-41,6,free throw,True,15,True,False
+2014-03-01,17.25,Portland Trail Blazers,Denver Nuggets,2,36-43,5,two point shot,True,1,True,False
+2014-03-01,20.3333333333,Portland Trail Blazers,Denver Nuggets,2,38-48,8,two point shot,True,6,False,False
+2014-03-01,22.2333333333,Portland Trail Blazers,Denver Nuggets,2,42-52,8,two point jumper,True,22,False,False
+2014-03-01,24.55,Portland Trail Blazers,Denver Nuggets,3,48-56,5,three point jumper,True,25,False,False
+2014-03-01,27.8833333333,Portland Trail Blazers,Denver Nuggets,3,53-60,4,three point jumper,True,23,False,False
+2014-03-01,39.6833333333,Portland Trail Blazers,Denver Nuggets,4,82-88,3,three point jumper,True,25,False,False
+2014-03-01,41.95,Portland Trail Blazers,Denver Nuggets,4,82-93,9,layup,True,0,True,False
+2014-12-18,3.58333333333,Portland Trail Blazers,Minnesota Timberwolves,1,9-8,-2,three point jumper,False,25,True,False
+2014-12-18,7.28333333333,Portland Trail Blazers,Minnesota Timberwolves,1,16-20,-7,three point jumper,False,24,False,False
+2014-12-18,7.45,Portland Trail Blazers,Minnesota Timberwolves,1,18-20,-4,layup,False,0,True,False
+2014-12-18,16.5666666667,Portland Trail Blazers,Minnesota Timberwolves,2,28-54,-29,unknown,False,24,False,False
+2014-12-18,16.9166666667,Portland Trail Blazers,Minnesota Timberwolves,2,29-56,-28,free throw,False,15,True,False
+2014-12-18,16.9166666667,Portland Trail Blazers,Minnesota Timberwolves,2,30-56,-27,free throw,False,15,True,False
+2014-12-18,21.6,Portland Trail Blazers,Minnesota Timberwolves,2,35-62,-29,two point jumper,False,15,False,False
+2014-12-18,23.2666666667,Portland Trail Blazers,Minnesota Timberwolves,2,40-67,-28,free throw,False,15,True,False
+2014-12-18,23.2666666667,Portland Trail Blazers,Minnesota Timberwolves,2,41-67,-27,free throw,False,15,True,False
+2014-12-18,24.25,Portland Trail Blazers,Minnesota Timberwolves,3,43-69,-29,three point jumper,False,23,False,False
+2014-12-18,27.2,Portland Trail Blazers,Minnesota Timberwolves,3,53-72,-21,layup,False,0,True,False
+2014-12-18,31.9833333333,Portland Trail Blazers,Minnesota Timberwolves,3,68-80,-14,two point jumper,False,20,False,False
+2014-12-18,39.5666666667,Portland Trail Blazers,Minnesota Timberwolves,4,87-105,-21,three point jumper,False,25,False,False
+2014-12-18,39.6333333333,Portland Trail Blazers,Minnesota Timberwolves,4,90-105,-18,three point jumper,False,24,True,False
+2014-12-18,45.0333333333,Portland Trail Blazers,Minnesota Timberwolves,4,99-113,-17,three point jumper,False,23,False,False
+2014-12-18,45.2333333333,Portland Trail Blazers,Minnesota Timberwolves,4,100-113,-14,free throw,False,15,True,False
+2014-12-18,45.2333333333,Portland Trail Blazers,Minnesota Timberwolves,4,101-113,-13,free throw,False,15,True,False
+2014-12-18,46.3833333333,Portland Trail Blazers,Minnesota Timberwolves,4,104-114,-13,three point jumper,False,25,False,False
+2014-12-18,47.4666666667,Portland Trail Blazers,Minnesota Timberwolves,4,109-118,-12,three point jumper,False,25,False,False
+2014-01-25,2.65,Portland Trail Blazers,Minnesota Timberwolves,1,7-5,-3,free throw,True,15,False,True
+2014-01-25,2.65,Portland Trail Blazers,Minnesota Timberwolves,1,7-6,-2,free throw,True,15,True,True
+2014-01-25,5.45,Portland Trail Blazers,Minnesota Timberwolves,1,14-12,-5,three point jumper,True,24,False,True
+2014-01-25,6.23333333333,Portland Trail Blazers,Minnesota Timberwolves,1,14-14,-3,three point jumper,True,23,False,True
+2014-01-25,13.5666666667,Portland Trail Blazers,Minnesota Timberwolves,2,31-34,1,dunk,True,0,True,True
+2014-01-25,14.0,Portland Trail Blazers,Minnesota Timberwolves,2,31-34,0,three point jumper,True,24,False,True
+2014-01-25,16.1666666667,Portland Trail Blazers,Minnesota Timberwolves,2,35-45,8,two point jumper,True,18,True,True
+2014-01-25,18.1666666667,Portland Trail Blazers,Minnesota Timberwolves,2,42-50,7,free throw,True,15,False,True
+2014-01-25,18.1666666667,Portland Trail Blazers,Minnesota Timberwolves,2,42-51,8,free throw,True,15,True,True
+2014-01-25,19.2166666667,Portland Trail Blazers,Minnesota Timberwolves,2,46-52,5,free throw,True,15,True,True
+2014-01-25,19.2166666667,Portland Trail Blazers,Minnesota Timberwolves,2,46-53,6,free throw,True,15,True,True
+2014-01-25,20.85,Portland Trail Blazers,Minnesota Timberwolves,2,50-55,3,two point shot,True,6,True,True
+2014-01-25,20.85,Portland Trail Blazers,Minnesota Timberwolves,2,50-56,5,free throw,True,15,True,True
+2014-01-25,29.8833333333,Portland Trail Blazers,Minnesota Timberwolves,3,73-75,0,layup,True,0,True,True
+2014-01-25,30.4166666667,Portland Trail Blazers,Minnesota Timberwolves,3,73-78,2,three point jumper,True,24,True,True
+2014-01-25,31.2333333333,Portland Trail Blazers,Minnesota Timberwolves,3,76-78,-1,three point jumper,True,25,False,True
+2014-01-25,38.5,Portland Trail Blazers,Minnesota Timberwolves,4,84-91,5,layup,True,0,True,True
+2014-01-25,38.5,Portland Trail Blazers,Minnesota Timberwolves,4,84-91,6,free throw,True,15,False,True
+2014-02-08,0.7,Portland Trail Blazers,Minnesota Timberwolves,1,5-2,0,three point jumper,False,24,True,True
+2014-02-08,1.63333333333,Portland Trail Blazers,Minnesota Timberwolves,1,7-2,3,two point shot,False,9,True,True
+2014-02-08,2.86666666667,Portland Trail Blazers,Minnesota Timberwolves,1,7-4,0,three point jumper,False,25,False,True
+2014-02-08,6.06666666667,Portland Trail Blazers,Minnesota Timberwolves,1,13-13,-1,free throw,False,15,False,True
+2014-02-08,6.06666666667,Portland Trail Blazers,Minnesota Timberwolves,1,14-13,0,free throw,False,15,True,True
+2014-02-08,6.56666666667,Portland Trail Blazers,Minnesota Timberwolves,1,16-15,-1,two point jumper,False,20,True,True
+2014-02-08,16.5333333333,Portland Trail Blazers,Minnesota Timberwolves,2,40-31,7,two point jumper,False,21,False,True
+2014-02-08,28.1666666667,Portland Trail Blazers,Minnesota Timberwolves,3,61-62,-3,two point shot,False,8,False,True
+2014-02-08,37.5666666667,Portland Trail Blazers,Minnesota Timberwolves,4,83-85,-4,two point jumper,False,22,False,True
+2014-02-08,37.65,Portland Trail Blazers,Minnesota Timberwolves,4,84-85,-2,free throw,False,15,True,True
+2014-02-08,37.65,Portland Trail Blazers,Minnesota Timberwolves,4,85-85,-1,free throw,False,15,True,True
+2014-02-08,40.3833333333,Portland Trail Blazers,Minnesota Timberwolves,4,92-87,2,three point jumper,False,23,True,True
+2014-02-08,42.75,Portland Trail Blazers,Minnesota Timberwolves,4,98-88,8,layup,False,0,False,True
+2014-02-08,45.0,Portland Trail Blazers,Minnesota Timberwolves,4,104-96,5,three point jumper,False,25,True,True
+2014-02-08,45.45,Portland Trail Blazers,Minnesota Timberwolves,4,105-96,8,free throw,False,15,True,True
+2014-02-08,45.45,Portland Trail Blazers,Minnesota Timberwolves,4,106-96,9,free throw,False,15,True,True
+2014-02-08,47.75,Portland Trail Blazers,Minnesota Timberwolves,4,116-108,6,layup,False,0,True,True
+2014-02-08,47.75,Portland Trail Blazers,Minnesota Timberwolves,4,117-108,8,free throw,False,15,True,True
+2014-02-23,3.83333333333,Portland Trail Blazers,Minnesota Timberwolves,1,16-9,-9,two point jumper,True,6,False,False
+2014-02-23,16.2,Portland Trail Blazers,Minnesota Timberwolves,2,46-30,-18,two point jumper,True,7,False,False
+2014-02-23,17.6666666667,Portland Trail Blazers,Minnesota Timberwolves,2,48-34,-16,layup,True,0,True,False
+2014-02-23,18.9833333333,Portland Trail Blazers,Minnesota Timberwolves,2,52-37,-18,three point jumper,True,24,True,False
+2014-02-23,19.95,Portland Trail Blazers,Minnesota Timberwolves,2,54-39,-18,three point jumper,True,25,False,False
+2014-02-23,21.0,Portland Trail Blazers,Minnesota Timberwolves,2,58-43,-16,free throw,True,15,True,False
+2014-02-23,21.0,Portland Trail Blazers,Minnesota Timberwolves,2,58-44,-15,free throw,True,15,True,False
+2014-02-23,21.3,Portland Trail Blazers,Minnesota Timberwolves,2,58-44,-17,three point jumper,True,23,False,False
+2014-02-23,25.2666666667,Portland Trail Blazers,Minnesota Timberwolves,3,63-54,-11,two point jumper,True,8,False,False
+2014-02-23,25.8166666667,Portland Trail Blazers,Minnesota Timberwolves,3,63-59,-7,three point jumper,True,25,True,False
+2014-02-23,28.1333333333,Portland Trail Blazers,Minnesota Timberwolves,3,67-63,-6,layup,True,0,False,False
+2014-02-23,41.1333333333,Portland Trail Blazers,Minnesota Timberwolves,4,86-98,9,three point jumper,True,23,True,False
+2014-02-23,43.1,Portland Trail Blazers,Minnesota Timberwolves,4,90-100,8,two point shot,True,1,False,False
+2014-02-23,43.3166666667,Portland Trail Blazers,Minnesota Timberwolves,4,90-101,10,free throw,True,15,True,False
+2014-02-23,43.3166666667,Portland Trail Blazers,Minnesota Timberwolves,4,90-102,11,free throw,True,15,True,False
+2014-02-23,45.4833333333,Portland Trail Blazers,Minnesota Timberwolves,4,92-107,14,free throw,True,15,True,False
+2014-02-23,45.4833333333,Portland Trail Blazers,Minnesota Timberwolves,4,92-108,15,free throw,True,15,True,False
+2014-02-23,46.1,Portland Trail Blazers,Minnesota Timberwolves,4,95-108,11,two point jumper,True,15,False,False
+2014-02-23,46.5333333333,Portland Trail Blazers,Minnesota Timberwolves,4,97-108,8,three point jumper,True,25,False,False
+2014-12-04,4.0,Portland Trail Blazers,Oklahoma City Thunder,1,8-6,-5,three point jumper,True,23,False,True
+2014-12-04,6.75,Portland Trail Blazers,Oklahoma City Thunder,1,14-14,-2,layup,True,0,False,True
+2014-12-04,6.88333333333,Portland Trail Blazers,Oklahoma City Thunder,1,14-14,-3,three point jumper,True,23,False,True
+2014-12-04,7.5,Portland Trail Blazers,Oklahoma City Thunder,1,14-17,0,three point jumper,True,25,True,True
+2014-12-04,20.95,Portland Trail Blazers,Oklahoma City Thunder,2,47-45,-4,two point shot,True,1,True,True
+2014-12-04,24.25,Portland Trail Blazers,Oklahoma City Thunder,3,59-48,-13,hook shot,True,3,False,True
+2014-12-04,26.2,Portland Trail Blazers,Oklahoma City Thunder,3,61-54,-9,two point shot,True,13,True,True
+2014-12-04,29.5333333333,Portland Trail Blazers,Oklahoma City Thunder,3,67-64,-5,layup,True,0,False,True
+2014-12-04,29.9166666667,Portland Trail Blazers,Oklahoma City Thunder,3,67-66,-3,two point shot,True,1,True,True
+2014-12-04,32.1666666667,Portland Trail Blazers,Oklahoma City Thunder,3,69-72,1,layup,True,0,False,True
+2014-12-04,41.4166666667,Portland Trail Blazers,Oklahoma City Thunder,4,89-92,2,free throw,True,15,True,True
+2014-12-04,41.4166666667,Portland Trail Blazers,Oklahoma City Thunder,4,89-93,3,free throw,True,15,True,True
+2014-12-04,43.2166666667,Portland Trail Blazers,Oklahoma City Thunder,4,96-96,-1,free throw,True,15,True,True
+2014-12-04,43.2166666667,Portland Trail Blazers,Oklahoma City Thunder,4,96-97,0,free throw,True,15,True,True
+2014-12-04,47.1166666667,Portland Trail Blazers,Oklahoma City Thunder,4,104-105,-2,three point jumper,True,23,False,True
+2014-12-31,4.06666666667,Portland Trail Blazers,Oklahoma City Thunder,1,12-11,-1,two point shot,False,13,True,True
+2014-12-31,4.63333333333,Portland Trail Blazers,Oklahoma City Thunder,1,12-13,-3,two point jumper,False,14,False,True
+2014-12-31,10.3333333333,Portland Trail Blazers,Oklahoma City Thunder,1,24-24,-2,two point shot,False,1,True,True
+2014-12-31,11.9833333333,Portland Trail Blazers,Oklahoma City Thunder,1,24-30,-9,three point jumper,False,23,False,True
+2014-12-31,17.2,Portland Trail Blazers,Oklahoma City Thunder,2,31-36,-8,three point jumper,False,24,True,True
+2014-12-31,17.95,Portland Trail Blazers,Oklahoma City Thunder,2,34-38,-7,three point jumper,False,24,True,True
+2014-12-31,18.9833333333,Portland Trail Blazers,Oklahoma City Thunder,2,36-42,-9,three point jumper,False,24,False,True
+2014-12-31,20.0833333333,Portland Trail Blazers,Oklahoma City Thunder,2,36-44,-11,three point jumper,False,24,False,True
+2014-12-31,21.4,Portland Trail Blazers,Oklahoma City Thunder,2,36-48,-14,two point shot,False,11,False,True
+2014-12-31,22.8833333333,Portland Trail Blazers,Oklahoma City Thunder,2,37-52,-16,free throw,False,15,True,True
+2014-12-31,22.8833333333,Portland Trail Blazers,Oklahoma City Thunder,2,38-52,-15,free throw,False,15,True,True
+2014-12-31,24.0,Portland Trail Blazers,Oklahoma City Thunder,2,42-54,-14,two point shot,False,24,False,True
+2014-12-31,28.2166666667,Portland Trail Blazers,Oklahoma City Thunder,3,51-60,-12,three point jumper,False,23,False,True
+2014-12-31,32.25,Portland Trail Blazers,Oklahoma City Thunder,3,61-70,-12,three point jumper,False,23,False,True
+2014-12-31,37.8,Portland Trail Blazers,Oklahoma City Thunder,4,73-82,-11,two point jumper,False,15,False,True
+2014-12-31,45.7833333333,Portland Trail Blazers,Oklahoma City Thunder,4,92-89,1,layup,False,0,True,True
+2014-12-31,47.55,Portland Trail Blazers,Oklahoma City Thunder,4,94-91,0,three point jumper,False,24,False,True
+2014-12-31,47.85,Portland Trail Blazers,Oklahoma City Thunder,4,95-93,1,free throw,False,15,True,True
+2014-12-31,47.85,Portland Trail Blazers,Oklahoma City Thunder,4,96-93,2,free throw,False,15,True,True
+2014-01-21,2.58333333333,Portland Trail Blazers,Oklahoma City Thunder,1,7-0,4,three point jumper,False,23,True,True
+2014-01-21,12.8833333333,Portland Trail Blazers,Oklahoma City Thunder,2,32-21,8,three point jumper,False,25,True,True
+2014-01-21,15.3833333333,Portland Trail Blazers,Oklahoma City Thunder,2,36-25,9,two point shot,False,8,True,True
+2014-01-21,16.2833333333,Portland Trail Blazers,Oklahoma City Thunder,2,36-27,6,unknown,False,25,False,True
+2014-01-21,18.2,Portland Trail Blazers,Oklahoma City Thunder,2,41-34,4,three point jumper,False,24,True,True
+2014-01-21,25.45,Portland Trail Blazers,Oklahoma City Thunder,3,54-53,-2,three point jumper,False,25,False,True
+2014-01-21,26.8833333333,Portland Trail Blazers,Oklahoma City Thunder,3,59-57,-1,three point jumper,False,24,True,True
+2014-01-21,28.6,Portland Trail Blazers,Oklahoma City Thunder,3,61-59,0,two point jumper,False,22,False,True
+2014-01-21,30.5666666667,Portland Trail Blazers,Oklahoma City Thunder,3,67-62,2,three point jumper,False,25,False,True
+2014-01-21,31.2333333333,Portland Trail Blazers,Oklahoma City Thunder,3,69-64,3,dunk,False,0,True,True
+2014-01-21,36.0,Portland Trail Blazers,Oklahoma City Thunder,3,75-77,-5,three point jumper,False,52,False,True
+2014-01-21,37.0166666667,Portland Trail Blazers,Oklahoma City Thunder,4,79-80,-2,free throw,False,15,True,True
+2014-01-21,37.0166666667,Portland Trail Blazers,Oklahoma City Thunder,4,80-80,-1,free throw,False,15,True,True
+2014-01-21,37.45,Portland Trail Blazers,Oklahoma City Thunder,4,81-80,0,free throw,False,15,True,True
+2014-01-21,37.45,Portland Trail Blazers,Oklahoma City Thunder,4,81-80,0,free throw,False,15,False,True
+2014-01-21,39.25,Portland Trail Blazers,Oklahoma City Thunder,4,85-84,-1,two point jumper,False,21,True,True
+2014-01-21,39.6333333333,Portland Trail Blazers,Oklahoma City Thunder,4,85-84,-1,layup,False,0,False,True
+2014-02-11,1.0,Portland Trail Blazers,Oklahoma City Thunder,1,0-2,0,two point shot,True,19,True,False
+2014-02-11,4.98333333333,Portland Trail Blazers,Oklahoma City Thunder,1,6-10,1,three point jumper,True,23,False,False
+2014-02-11,5.13333333333,Portland Trail Blazers,Oklahoma City Thunder,1,6-10,2,two point shot,True,13,False,False
+2014-02-11,6.38333333333,Portland Trail Blazers,Oklahoma City Thunder,1,6-16,8,layup,True,0,False,False
+2014-02-11,12.7,Portland Trail Blazers,Oklahoma City Thunder,2,21-27,4,layup,True,0,True,False
+2014-02-11,12.7,Portland Trail Blazers,Oklahoma City Thunder,2,21-28,6,free throw,True,15,True,False
+2014-02-11,24.5,Portland Trail Blazers,Oklahoma City Thunder,3,45-55,8,two point jumper,True,19,False,False
+2014-02-11,25.7166666667,Portland Trail Blazers,Oklahoma City Thunder,3,49-56,6,free throw,True,15,True,False
+2014-02-11,25.7166666667,Portland Trail Blazers,Oklahoma City Thunder,3,49-57,7,free throw,True,15,True,False
+2014-02-11,27.3333333333,Portland Trail Blazers,Oklahoma City Thunder,3,55-61,3,three point jumper,True,25,False,False
+2014-02-11,28.6666666667,Portland Trail Blazers,Oklahoma City Thunder,3,57-64,6,free throw,True,15,True,False
+2014-02-11,28.6666666667,Portland Trail Blazers,Oklahoma City Thunder,3,57-65,7,free throw,True,15,True,False
+2014-02-11,28.6666666667,Portland Trail Blazers,Oklahoma City Thunder,3,57-66,8,free throw,True,15,True,False
+2014-02-11,38.2,Portland Trail Blazers,Oklahoma City Thunder,4,80-84,1,three point jumper,True,25,False,False
+2014-02-11,39.9666666667,Portland Trail Blazers,Oklahoma City Thunder,4,80-84,1,three point jumper,True,23,False,False
+2014-02-11,45.5666666667,Portland Trail Blazers,Oklahoma City Thunder,4,91-93,1,free throw,True,15,True,False
+2014-02-11,45.5666666667,Portland Trail Blazers,Oklahoma City Thunder,4,91-93,1,free throw,True,15,False,False
+2014-02-11,46.1,Portland Trail Blazers,Oklahoma City Thunder,4,93-95,0,two point shot,True,9,False,False
+2014-12-06,5.23333333333,Portland Trail Blazers,Utah Jazz,1,10-20,7,three point jumper,True,23,True,False
+2014-12-06,7.38333333333,Portland Trail Blazers,Utah Jazz,1,14-26,10,two point shot,True,1,True,False
+2014-12-06,7.38333333333,Portland Trail Blazers,Utah Jazz,1,14-26,11,free throw,True,15,False,False
+2014-12-06,7.91666666667,Portland Trail Blazers,Utah Jazz,1,14-26,10,two point jumper,True,10,False,False
+2014-12-06,15.7666666667,Portland Trail Blazers,Utah Jazz,2,33-48,12,three point jumper,True,23,False,False
+2014-12-06,21.7833333333,Portland Trail Blazers,Utah Jazz,2,52-62,9,free throw,True,15,True,False
+2014-12-06,21.7833333333,Portland Trail Blazers,Utah Jazz,2,52-63,10,free throw,True,15,True,False
+2014-12-06,23.6666666667,Portland Trail Blazers,Utah Jazz,2,56-67,8,three point jumper,True,25,True,False
+2014-12-06,24.6166666667,Portland Trail Blazers,Utah Jazz,3,56-72,13,three point jumper,True,24,True,False
+2014-12-06,27.6333333333,Portland Trail Blazers,Utah Jazz,3,57-77,18,two point shot,True,25,False,False
+2014-12-06,28.7833333333,Portland Trail Blazers,Utah Jazz,3,57-83,24,two point jumper,True,1,True,False
+2014-12-06,31.8833333333,Portland Trail Blazers,Utah Jazz,3,61-95,32,layup,True,0,True,False
+2014-12-06,32.45,Portland Trail Blazers,Utah Jazz,3,63-96,32,free throw,True,15,True,False
+2014-12-06,32.45,Portland Trail Blazers,Utah Jazz,3,63-97,33,free throw,True,15,True,False
+2014-12-06,32.9666666667,Portland Trail Blazers,Utah Jazz,3,63-99,34,two point shot,True,7,True,False
+2014-12-06,34.2166666667,Portland Trail Blazers,Utah Jazz,3,65-102,34,three point jumper,True,25,True,False
+2014-12-09,2.93333333333,Portland Trail Blazers,Utah Jazz,1,4-7,-5,two point jumper,False,18,False,False
+2014-12-09,7.53333333333,Portland Trail Blazers,Utah Jazz,1,15-13,0,two point jumper,False,18,True,False
+2014-12-09,19.7333333333,Portland Trail Blazers,Utah Jazz,2,38-35,1,layup,False,0,True,False
+2014-12-09,19.7333333333,Portland Trail Blazers,Utah Jazz,2,38-35,2,free throw,False,15,False,False
+2014-12-09,20.8666666667,Portland Trail Blazers,Utah Jazz,2,40-39,-2,three point jumper,False,24,False,False
+2014-12-09,20.9666666667,Portland Trail Blazers,Utah Jazz,2,42-39,1,layup,False,0,True,False
+2014-12-09,20.9666666667,Portland Trail Blazers,Utah Jazz,2,43-39,3,free throw,False,15,True,False
+2014-12-09,23.4333333333,Portland Trail Blazers,Utah Jazz,2,49-43,3,three point jumper,False,25,False,False
+2014-12-09,25.45,Portland Trail Blazers,Utah Jazz,3,57-47,8,two point jumper,False,23,True,False
+2014-12-09,27.5166666667,Portland Trail Blazers,Utah Jazz,3,64-51,10,three point jumper,False,23,True,False
+2014-12-09,31.25,Portland Trail Blazers,Utah Jazz,3,70-57,11,two point shot,False,20,True,False
+2014-12-09,32.7166666667,Portland Trail Blazers,Utah Jazz,3,72-59,11,two point shot,False,1,False,False
+2014-12-09,44.9,Portland Trail Blazers,Utah Jazz,4,94-86,7,free throw,False,15,True,False
+2014-12-09,44.9,Portland Trail Blazers,Utah Jazz,4,95-86,8,free throw,False,15,True,False
+2014-12-09,46.5,Portland Trail Blazers,Utah Jazz,4,97-90,4,three point jumper,False,24,False,False
+2014-02-21,2.95,Portland Trail Blazers,Utah Jazz,1,4-4,-2,two point jumper,True,14,False,False
+2014-02-21,4.53333333333,Portland Trail Blazers,Utah Jazz,1,6-6,-2,two point jumper,True,1,False,False
+2014-02-21,5.85,Portland Trail Blazers,Utah Jazz,1,6-10,2,two point jumper,True,8,True,False
+2014-02-21,6.95,Portland Trail Blazers,Utah Jazz,1,6-12,4,two point jumper,True,7,False,False
+2014-02-21,9.83333333333,Portland Trail Blazers,Utah Jazz,1,14-14,-2,layup,True,0,True,False
+2014-02-21,21.3,Portland Trail Blazers,Utah Jazz,2,33-37,2,two point shot,True,18,True,False
+2014-02-21,23.1666666667,Portland Trail Blazers,Utah Jazz,2,37-41,2,two point jumper,True,8,True,False
+2014-02-21,24.8,Portland Trail Blazers,Utah Jazz,3,42-45,0,three point jumper,True,25,False,False
+2014-02-21,26.4333333333,Portland Trail Blazers,Utah Jazz,3,46-47,-1,layup,True,0,True,False
+2014-02-21,27.2666666667,Portland Trail Blazers,Utah Jazz,3,46-47,-2,three point jumper,True,25,False,False
+2014-02-21,29.6333333333,Portland Trail Blazers,Utah Jazz,3,50-53,0,three point jumper,True,25,True,False
+2014-02-21,30.5333333333,Portland Trail Blazers,Utah Jazz,3,54-54,-1,free throw,True,15,True,False
+2014-02-21,30.5333333333,Portland Trail Blazers,Utah Jazz,3,54-55,0,free throw,True,15,True,False
+2014-02-21,31.6666666667,Portland Trail Blazers,Utah Jazz,3,59-57,-4,layup,True,0,True,False
+2014-02-21,32.4,Portland Trail Blazers,Utah Jazz,3,62-57,-7,two point jumper,True,21,False,False
+2014-02-21,42.6333333333,Portland Trail Blazers,Utah Jazz,4,77-82,3,layup,True,0,True,False
+2014-02-21,42.6333333333,Portland Trail Blazers,Utah Jazz,4,77-83,5,free throw,True,15,True,False
+2014-02-21,45.2666666667,Portland Trail Blazers,Utah Jazz,4,87-91,3,free throw,True,15,True,False
+2014-02-21,45.2666666667,Portland Trail Blazers,Utah Jazz,4,87-92,4,free throw,True,15,True,False
+2014-02-21,46.3666666667,Portland Trail Blazers,Utah Jazz,4,89-94,3,two point jumper,True,18,False,False
+2014-02-21,47.7666666667,Portland Trail Blazers,Utah Jazz,4,93-100,5,layup,True,0,True,False

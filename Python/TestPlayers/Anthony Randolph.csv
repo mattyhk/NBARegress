@@ -1,0 +1,182 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-01-07,45.8666666667,Denver Nuggets,Boston Celtics,4,92-124,30,two point jumper,True,19,True,False
+2014-12-03,42.9833333333,Denver Nuggets,Brooklyn Nets,4,107-81,24,dunk,False,0,True,False
+2014-12-03,45.75,Denver Nuggets,Brooklyn Nets,4,111-83,26,two point shot,False,20,True,False
+2014-12-03,47.1833333333,Denver Nuggets,Brooklyn Nets,4,111-85,24,two point jumper,False,19,False,False
+2014-02-27,12.8166666667,Denver Nuggets,Brooklyn Nets,2,31-8,-26,three point jumper,True,25,False,True
+2014-02-27,13.3666666667,Denver Nuggets,Brooklyn Nets,2,31-8,-25,layup,True,0,False,True
+2014-02-27,29.5333333333,Denver Nuggets,Brooklyn Nets,3,72-44,-30,dunk,True,0,True,True
+2014-02-27,29.75,Denver Nuggets,Brooklyn Nets,3,72-44,-30,two point jumper,True,21,False,True
+2014-02-27,31.9166666667,Denver Nuggets,Brooklyn Nets,3,79-44,-38,three point jumper,True,26,False,True
+2014-02-27,34.0833333333,Denver Nuggets,Brooklyn Nets,3,82-47,-37,layup,True,0,False,True
+2014-02-27,38.45,Denver Nuggets,Brooklyn Nets,4,95-58,-40,three point jumper,True,25,False,True
+2014-02-27,38.7666666667,Denver Nuggets,Brooklyn Nets,4,95-58,-39,layup,True,0,False,True
+2014-02-27,39.8333333333,Denver Nuggets,Brooklyn Nets,4,97-64,-35,two point shot,True,4,True,True
+2014-02-27,41.45,Denver Nuggets,Brooklyn Nets,4,101-71,-33,three point jumper,True,23,True,True
+2014-02-27,41.45,Denver Nuggets,Brooklyn Nets,4,101-71,-31,free throw,True,15,False,True
+2014-02-27,43.9833333333,Denver Nuggets,Brooklyn Nets,4,104-80,-25,free throw,True,15,True,True
+2014-02-27,43.9833333333,Denver Nuggets,Brooklyn Nets,4,104-80,-25,free throw,True,15,False,True
+2014-02-27,47.1833333333,Denver Nuggets,Brooklyn Nets,4,112-87,-28,three point jumper,True,26,False,True
+2014-02-07,42.9166666667,Denver Nuggets,New York Knicks,4,83-104,-23,layup,False,0,True,True
+2014-02-07,42.9166666667,Denver Nuggets,New York Knicks,4,83-104,-22,free throw,False,15,False,True
+2014-02-07,47.55,Denver Nuggets,New York Knicks,4,88-117,-31,two point jumper,False,19,False,True
+2014-12-07,21.8333333333,Denver Nuggets,Philadelphia 76ers,2,44-51,-9,layup,False,0,True,False
+2014-12-07,30.3833333333,Denver Nuggets,Philadelphia 76ers,3,62-65,-5,two point jumper,False,9,False,False
+2014-12-07,31.9833333333,Denver Nuggets,Philadelphia 76ers,3,65-69,-5,free throw,False,15,True,False
+2014-12-07,31.9833333333,Denver Nuggets,Philadelphia 76ers,3,66-69,-4,free throw,False,15,True,False
+2014-12-07,32.2166666667,Denver Nuggets,Philadelphia 76ers,3,67-69,-3,free throw,False,15,True,False
+2014-12-07,32.2166666667,Denver Nuggets,Philadelphia 76ers,3,68-69,-2,free throw,False,15,True,False
+2014-12-07,33.45,Denver Nuggets,Philadelphia 76ers,3,70-69,-1,two point jumper,False,1,False,False
+2014-12-07,35.1833333333,Denver Nuggets,Philadelphia 76ers,3,75-73,1,free throw,False,15,True,False
+2014-12-07,35.1833333333,Denver Nuggets,Philadelphia 76ers,3,75-73,1,free throw,False,15,False,False
+2014-12-07,35.7166666667,Denver Nuggets,Philadelphia 76ers,3,75-75,-2,two point jumper,False,8,False,False
+2014-01-01,32.1833333333,Denver Nuggets,Philadelphia 76ers,3,84-72,-14,layup,True,0,False,False
+2014-01-01,33.75,Denver Nuggets,Philadelphia 76ers,3,86-78,-9,free throw,True,15,False,False
+2014-01-01,33.75,Denver Nuggets,Philadelphia 76ers,3,86-79,-8,free throw,True,15,True,False
+2014-01-01,36.8833333333,Denver Nuggets,Philadelphia 76ers,4,97-82,-16,free throw,True,15,True,False
+2014-01-01,36.8833333333,Denver Nuggets,Philadelphia 76ers,4,97-83,-15,free throw,True,15,True,False
+2014-01-31,38.5666666667,Denver Nuggets,Toronto Raptors,4,92-72,-22,two point jumper,True,17,False,True
+2014-12-23,10.9333333333,Denver Nuggets,Golden State Warriors,1,30-20,-12,tip shot,True,0,False,False
+2014-12-23,11.6,Denver Nuggets,Golden State Warriors,1,30-22,-10,layup,True,0,False,False
+2014-12-23,15.1333333333,Denver Nuggets,Golden State Warriors,2,37-28,-11,two point jumper,True,20,True,False
+2014-12-23,34.2666666667,Denver Nuggets,Golden State Warriors,3,62-64,0,two point jumper,True,22,True,False
+2014-12-23,35.1666666667,Denver Nuggets,Golden State Warriors,3,64-64,-2,two point jumper,True,1,False,False
+2014-12-23,37.3666666667,Denver Nuggets,Golden State Warriors,4,66-69,0,three point jumper,True,23,False,False
+2014-12-21,13.0666666667,Denver Nuggets,Los Angeles Clippers,2,20-28,-9,free throw,False,15,True,True
+2014-12-21,13.0666666667,Denver Nuggets,Los Angeles Clippers,2,21-28,-8,free throw,False,15,True,True
+2014-12-21,14.05,Denver Nuggets,Los Angeles Clippers,2,21-30,-11,two point jumper,False,1,False,True
+2014-12-21,16.35,Denver Nuggets,Los Angeles Clippers,2,23-33,-12,layup,False,0,True,True
+2014-12-21,18.1,Denver Nuggets,Los Angeles Clippers,2,25-36,-13,tip shot,False,0,False,True
+2014-12-21,37.0666666667,Denver Nuggets,Los Angeles Clippers,4,63-82,-20,free throw,False,15,True,True
+2014-12-21,37.0666666667,Denver Nuggets,Los Angeles Clippers,4,64-82,-19,free throw,False,15,True,True
+2014-01-05,45.8666666667,Denver Nuggets,Los Angeles Lakers,4,129-106,21,two point jumper,False,20,True,True
+2014-01-05,46.75,Denver Nuggets,Los Angeles Lakers,4,133-110,21,two point shot,False,19,True,True
+2014-11-08,8.3,Denver Nuggets,Phoenix Suns,1,17-24,-9,two point shot,False,5,True,False
+2014-11-08,10.5,Denver Nuggets,Phoenix Suns,1,23-27,-5,free throw,False,15,True,False
+2014-11-08,10.5,Denver Nuggets,Phoenix Suns,1,24-27,-4,free throw,False,15,True,False
+2014-11-08,12.75,Denver Nuggets,Phoenix Suns,2,33-35,-4,layup,False,0,True,False
+2014-11-08,12.75,Denver Nuggets,Phoenix Suns,2,34-35,-2,free throw,False,15,True,False
+2014-11-08,31.85,Denver Nuggets,Phoenix Suns,3,75-72,2,free throw,False,15,True,False
+2014-11-08,31.85,Denver Nuggets,Phoenix Suns,3,76-72,3,free throw,False,15,True,False
+2014-11-08,33.7,Denver Nuggets,Phoenix Suns,3,84-74,8,two point jumper,False,18,True,False
+2014-11-08,35.4333333333,Denver Nuggets,Phoenix Suns,3,87-79,6,two point jumper,False,16,False,False
+2014-11-08,36.0,Denver Nuggets,Phoenix Suns,3,87-84,0,three point jumper,False,57,False,False
+2014-11-08,38.9,Denver Nuggets,Phoenix Suns,4,89-89,-3,three point jumper,False,24,False,False
+2014-11-08,45.5833333333,Denver Nuggets,Phoenix Suns,4,98-105,-10,three point jumper,False,23,True,False
+2014-11-08,46.6166666667,Denver Nuggets,Phoenix Suns,4,101-107,-8,two point jumper,False,19,False,False
+2014-12-20,10.0833333333,Denver Nuggets,Phoenix Suns,1,15-24,7,layup,True,0,True,True
+2014-12-20,15.0166666667,Denver Nuggets,Phoenix Suns,2,24-36,11,free throw,True,15,False,True
+2014-12-20,15.0166666667,Denver Nuggets,Phoenix Suns,2,24-37,12,free throw,True,15,True,True
+2014-12-20,17.85,Denver Nuggets,Phoenix Suns,2,27-45,16,two point jumper,True,18,False,True
+2014-12-20,36.9333333333,Denver Nuggets,Phoenix Suns,4,75-82,5,two point jumper,True,21,False,True
+2014-12-20,37.4333333333,Denver Nuggets,Phoenix Suns,4,75-83,7,free throw,True,15,True,True
+2014-12-20,37.4333333333,Denver Nuggets,Phoenix Suns,4,75-84,8,free throw,True,15,True,True
+2014-01-19,15.3833333333,Denver Nuggets,Phoenix Suns,2,36-42,-8,two point jumper,False,14,True,False
+2014-01-19,17.0333333333,Denver Nuggets,Phoenix Suns,2,39-46,-8,free throw,False,15,True,False
+2014-01-19,17.0333333333,Denver Nuggets,Phoenix Suns,2,40-46,-7,free throw,False,15,True,False
+2014-01-19,19.6333333333,Denver Nuggets,Phoenix Suns,2,44-54,-12,two point jumper,False,5,False,False
+2014-01-19,20.95,Denver Nuggets,Phoenix Suns,2,49-56,-8,free throw,False,15,True,False
+2014-01-19,20.95,Denver Nuggets,Phoenix Suns,2,50-56,-7,free throw,False,15,True,False
+2014-01-19,21.4666666667,Denver Nuggets,Phoenix Suns,2,50-58,-11,three point jumper,False,25,False,False
+2014-01-19,22.35,Denver Nuggets,Phoenix Suns,2,53-58,-8,three point jumper,False,26,True,False
+2014-01-19,36.8833333333,Denver Nuggets,Phoenix Suns,4,81-87,-9,three point jumper,False,25,False,False
+2014-01-19,37.4,Denver Nuggets,Phoenix Suns,4,83-89,-8,two point jumper,False,7,True,False
+2014-01-19,41.45,Denver Nuggets,Phoenix Suns,4,90-101,-13,two point jumper,False,1,True,False
+2014-01-19,42.5,Denver Nuggets,Phoenix Suns,4,93-103,-13,three point jumper,False,23,True,False
+2014-01-19,43.2,Denver Nuggets,Phoenix Suns,4,93-105,-13,free throw,False,15,False,False
+2014-01-19,43.2,Denver Nuggets,Phoenix Suns,4,94-105,-12,free throw,False,15,True,False
+2014-01-19,44.95,Denver Nuggets,Phoenix Suns,4,96-107,-13,layup,False,0,True,False
+2014-02-18,8.36666666667,Denver Nuggets,Phoenix Suns,1,25-16,-11,layup,True,0,False,False
+2014-02-18,8.5,Denver Nuggets,Phoenix Suns,1,25-18,-9,two point shot,True,1,True,False
+2014-02-18,13.3833333333,Denver Nuggets,Phoenix Suns,2,33-27,-8,two point jumper,True,22,True,False
+2014-02-18,14.8166666667,Denver Nuggets,Phoenix Suns,2,33-32,-4,three point jumper,True,26,False,False
+2014-02-18,18.1,Denver Nuggets,Phoenix Suns,2,41-36,-8,three point jumper,True,25,False,False
+2014-02-18,20.0333333333,Denver Nuggets,Phoenix Suns,2,46-43,-5,layup,True,0,False,False
+2014-02-18,39.8166666667,Denver Nuggets,Phoenix Suns,4,78-85,4,three point jumper,True,26,False,False
+2014-10-30,5.45,Denver Nuggets,Sacramento Kings,1,9-14,-7,two point jumper,False,14,True,False
+2014-10-30,29.2833333333,Denver Nuggets,Sacramento Kings,3,56-55,-2,three point jumper,False,23,False,False
+2014-02-23,35.3666666667,Denver Nuggets,Sacramento Kings,3,83-64,-22,three point jumper,True,25,False,True
+2014-02-21,21.1,Denver Nuggets,Chicago Bulls,2,35-57,-25,three point jumper,False,25,False,True
+2014-02-21,29.9833333333,Denver Nuggets,Chicago Bulls,3,63-78,-16,free throw,False,15,False,True
+2014-02-21,29.9833333333,Denver Nuggets,Chicago Bulls,3,64-78,-15,free throw,False,15,True,True
+2014-02-21,32.5666666667,Denver Nuggets,Chicago Bulls,3,64-84,-22,layup,False,0,False,True
+2014-02-21,32.9333333333,Denver Nuggets,Chicago Bulls,3,64-86,-23,free throw,False,15,False,True
+2014-02-21,32.9333333333,Denver Nuggets,Chicago Bulls,3,65-86,-22,free throw,False,15,True,True
+2014-02-08,31.3166666667,Denver Nuggets,Detroit Pistons,3,73-85,-15,three point jumper,False,28,False,False
+2014-02-08,33.3333333333,Denver Nuggets,Detroit Pistons,3,77-93,-19,three point jumper,False,24,False,False
+2014-02-08,36.3333333333,Denver Nuggets,Detroit Pistons,4,86-97,-13,two point jumper,False,4,False,False
+2014-02-08,37.3833333333,Denver Nuggets,Detroit Pistons,4,89-101,-15,three point jumper,False,27,True,False
+2014-02-08,39.4666666667,Denver Nuggets,Detroit Pistons,4,97-106,-12,three point jumper,False,27,True,False
+2014-02-10,12.8666666667,Denver Nuggets,Indiana Pacers,2,20-33,-15,layup,False,0,False,True
+2014-02-10,38.8666666667,Denver Nuggets,Indiana Pacers,4,60-90,-32,two point jumper,False,10,False,True
+2014-02-10,43.2166666667,Denver Nuggets,Indiana Pacers,4,70-102,-35,three point jumper,False,27,False,True
+2014-02-10,44.0833333333,Denver Nuggets,Indiana Pacers,4,70-104,-35,free throw,False,15,False,True
+2014-02-10,44.0833333333,Denver Nuggets,Indiana Pacers,4,71-104,-34,free throw,False,15,True,True
+2014-02-10,45.3,Denver Nuggets,Indiana Pacers,4,73-109,-39,three point jumper,False,23,False,True
+2014-02-10,46.2333333333,Denver Nuggets,Indiana Pacers,4,78-111,-36,three point jumper,False,27,True,True
+2014-02-10,48.0,Denver Nuggets,Indiana Pacers,4,80-119,-42,three point jumper,False,23,False,True
+2014-02-05,36.2,Denver Nuggets,Milwaukee Bucks,4,72-85,12,free throw,True,15,True,True
+2014-02-05,36.2,Denver Nuggets,Milwaukee Bucks,4,72-85,12,free throw,True,15,False,True
+2014-02-05,38.3333333333,Denver Nuggets,Milwaukee Bucks,4,76-91,14,free throw,True,15,True,True
+2014-02-05,38.3333333333,Denver Nuggets,Milwaukee Bucks,4,76-92,15,free throw,True,15,True,True
+2014-02-05,39.0,Denver Nuggets,Milwaukee Bucks,4,76-92,14,layup,True,0,False,True
+2014-02-20,4.13333333333,Denver Nuggets,Milwaukee Bucks,1,9-5,2,layup,False,0,False,False
+2014-02-20,5.2,Denver Nuggets,Milwaukee Bucks,1,14-7,4,three point jumper,False,23,True,False
+2014-02-20,8.18333333333,Denver Nuggets,Milwaukee Bucks,1,22-13,6,three point jumper,False,24,False,False
+2014-02-20,8.31666666667,Denver Nuggets,Milwaukee Bucks,1,22-13,8,free throw,False,15,False,False
+2014-02-20,8.31666666667,Denver Nuggets,Milwaukee Bucks,1,22-13,8,free throw,False,15,False,False
+2014-02-20,17.85,Denver Nuggets,Milwaukee Bucks,2,43-33,9,free throw,False,15,True,False
+2014-02-20,17.85,Denver Nuggets,Milwaukee Bucks,2,43-33,9,free throw,False,15,False,False
+2014-02-20,19.1666666667,Denver Nuggets,Milwaukee Bucks,2,45-33,9,three point jumper,False,23,False,False
+2014-02-20,25.95,Denver Nuggets,Milwaukee Bucks,3,52-48,2,two point jumper,False,19,False,False
+2014-02-20,27.6333333333,Denver Nuggets,Milwaukee Bucks,3,56-50,4,layup,False,0,True,False
+2014-02-20,30.3166666667,Denver Nuggets,Milwaukee Bucks,3,62-56,3,three point jumper,False,25,False,False
+2014-02-20,30.4166666667,Denver Nuggets,Milwaukee Bucks,3,64-56,6,layup,False,0,True,False
+2014-02-20,38.7,Denver Nuggets,Milwaukee Bucks,4,78-73,3,two point jumper,False,1,False,False
+2014-11-25,22.2166666667,Denver Nuggets,Dallas Mavericks,2,52-45,4,three point jumper,False,23,False,False
+2014-12-28,12.8833333333,Denver Nuggets,Memphis Grizzlies,2,33-30,2,free throw,False,15,True,True
+2014-12-28,12.8833333333,Denver Nuggets,Memphis Grizzlies,2,34-30,3,free throw,False,15,True,True
+2014-12-28,16.85,Denver Nuggets,Memphis Grizzlies,2,38-41,-5,two point jumper,False,1,False,True
+2014-12-28,45.6833333333,Denver Nuggets,Memphis Grizzlies,4,94-117,-25,two point jumper,False,20,False,True
+2014-12-27,9.28333333333,Denver Nuggets,New Orleans Pelicans,1,22-25,-5,dunk,False,0,True,True
+2014-12-27,11.55,Denver Nuggets,New Orleans Pelicans,1,25-30,-7,two point jumper,False,19,False,True
+2014-12-27,15.0666666667,Denver Nuggets,New Orleans Pelicans,2,26-36,-12,two point shot,False,6,False,True
+2014-12-27,22.05,Denver Nuggets,New Orleans Pelicans,2,39-54,-17,two point jumper,False,9,False,True
+2014-12-27,36.3333333333,Denver Nuggets,New Orleans Pelicans,4,68-81,-15,layup,False,0,True,True
+2014-12-27,37.45,Denver Nuggets,New Orleans Pelicans,4,70-81,-13,two point jumper,False,20,False,True
+2014-12-27,38.55,Denver Nuggets,New Orleans Pelicans,4,72-86,-16,two point jumper,False,1,True,True
+2014-12-27,39.1333333333,Denver Nuggets,New Orleans Pelicans,4,73-88,-16,free throw,False,15,True,True
+2014-12-27,39.1333333333,Denver Nuggets,New Orleans Pelicans,4,74-88,-15,free throw,False,15,True,True
+2014-12-09,31.0333333333,Denver Nuggets,Washington Wizards,3,46-58,-15,three point jumper,False,24,False,True
+2014-11-01,1.0,Denver Nuggets,Portland Trail Blazers,1,0-2,0,two point shot,True,1,True,True
+2014-11-01,2.5,Denver Nuggets,Portland Trail Blazers,1,2-4,0,two point jumper,True,17,False,True
+2014-11-01,6.31666666667,Denver Nuggets,Portland Trail Blazers,1,12-13,-1,two point jumper,True,17,False,True
+2014-11-01,7.41666666667,Denver Nuggets,Portland Trail Blazers,1,14-16,1,free throw,True,15,True,True
+2014-11-01,7.41666666667,Denver Nuggets,Portland Trail Blazers,1,14-16,1,free throw,True,15,False,True
+2014-11-01,19.2333333333,Denver Nuggets,Portland Trail Blazers,2,49-38,-13,two point shot,True,1,True,True
+2014-11-01,21.7,Denver Nuggets,Portland Trail Blazers,2,58-43,-17,two point jumper,True,6,False,True
+2014-11-01,47.75,Denver Nuggets,Portland Trail Blazers,4,113-98,-17,two point jumper,True,21,False,True
+2014-11-11,10.0833333333,Denver Nuggets,Utah Jazz,1,16-26,-12,two point jumper,False,18,False,False
+2014-11-11,13.1333333333,Denver Nuggets,Utah Jazz,2,20-29,-12,three point jumper,False,25,False,False
+2014-11-11,16.35,Denver Nuggets,Utah Jazz,2,27-31,-7,three point jumper,False,23,True,False
+2014-11-11,31.7,Denver Nuggets,Utah Jazz,3,63-59,2,two point shot,False,1,True,False
+2014-11-11,33.2333333333,Denver Nuggets,Utah Jazz,3,67-61,5,free throw,False,15,False,False
+2014-11-11,33.2333333333,Denver Nuggets,Utah Jazz,3,68-61,6,free throw,False,15,True,False
+2014-01-09,47.05,Denver Nuggets,Oklahoma City Thunder,4,85-99,12,two point jumper,True,22,False,False
+2014-01-23,5.31666666667,Denver Nuggets,Portland Trail Blazers,1,14-13,-1,two point jumper,False,21,True,False
+2014-01-23,6.03333333333,Denver Nuggets,Portland Trail Blazers,1,14-15,-4,three point jumper,False,25,False,False
+2014-01-23,9.46666666667,Denver Nuggets,Portland Trail Blazers,1,21-23,-4,layup,False,0,True,False
+2014-01-23,11.1833333333,Denver Nuggets,Portland Trail Blazers,1,28-27,-2,three point jumper,False,23,True,False
+2014-01-23,11.9833333333,Denver Nuggets,Portland Trail Blazers,1,29-27,1,free throw,False,15,True,False
+2014-01-23,11.9833333333,Denver Nuggets,Portland Trail Blazers,1,30-27,2,free throw,False,15,True,False
+2014-01-23,22.4833333333,Denver Nuggets,Portland Trail Blazers,2,57-50,4,three point jumper,False,25,True,False
+2014-02-12,33.55,Denver Nuggets,Minnesota Timberwolves,3,62-80,-20,layup,False,0,True,True
+2014-02-12,34.1,Denver Nuggets,Minnesota Timberwolves,3,62-83,-24,three point jumper,False,25,False,True
+2014-02-12,38.4,Denver Nuggets,Minnesota Timberwolves,4,64-98,-36,two point jumper,False,21,False,True
+2014-02-12,41.7833333333,Denver Nuggets,Minnesota Timberwolves,4,73-106,-35,two point jumper,False,6,True,True
+2014-02-12,41.7833333333,Denver Nuggets,Minnesota Timberwolves,4,74-106,-33,free throw,False,15,True,True
+2014-02-12,41.95,Denver Nuggets,Minnesota Timberwolves,4,76-106,-32,layup,False,0,True,True
+2014-02-12,41.95,Denver Nuggets,Minnesota Timberwolves,4,76-106,-31,free throw,False,15,False,True
+2014-02-12,43.1,Denver Nuggets,Minnesota Timberwolves,4,76-110,-37,three point jumper,False,23,False,True
+2014-02-12,46.6666666667,Denver Nuggets,Minnesota Timberwolves,4,85-116,-33,two point jumper,False,22,False,True
+2014-02-12,46.9666666667,Denver Nuggets,Minnesota Timberwolves,4,87-116,-31,layup,False,0,True,True

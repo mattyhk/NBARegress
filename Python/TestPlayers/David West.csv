@@ -1,0 +1,804 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-22,1.06666666667,Indiana Pacers,Boston Celtics,1,0-2,-4,two point shot,False,13,False,True
+2014-11-22,1.95,Indiana Pacers,Boston Celtics,1,4-4,-2,two point shot,False,9,True,True
+2014-11-22,5.88333333333,Indiana Pacers,Boston Celtics,1,10-13,-4,free throw,False,15,True,True
+2014-11-22,5.88333333333,Indiana Pacers,Boston Celtics,1,11-13,-3,free throw,False,15,True,True
+2014-11-22,6.48333333333,Indiana Pacers,Boston Celtics,1,11-13,-4,two point shot,False,11,False,True
+2014-11-22,21.6,Indiana Pacers,Boston Celtics,2,38-44,-7,free throw,False,15,False,True
+2014-11-22,21.6,Indiana Pacers,Boston Celtics,2,39-44,-6,free throw,False,15,True,True
+2014-11-22,25.0,Indiana Pacers,Boston Celtics,3,42-50,-10,two point jumper,False,14,False,True
+2014-11-22,25.9333333333,Indiana Pacers,Boston Celtics,3,45-50,-7,two point jumper,False,4,False,True
+2014-11-22,26.5166666667,Indiana Pacers,Boston Celtics,3,47-50,-5,two point shot,False,1,True,True
+2014-11-22,28.0333333333,Indiana Pacers,Boston Celtics,3,49-52,-5,two point jumper,False,1,False,True
+2014-11-22,28.2,Indiana Pacers,Boston Celtics,3,51-52,-3,two point shot,False,1,True,True
+2014-11-22,28.7333333333,Indiana Pacers,Boston Celtics,3,53-54,-3,two point shot,False,10,True,True
+2014-11-22,29.8166666667,Indiana Pacers,Boston Celtics,3,53-54,-3,hook shot,False,11,False,True
+2014-11-22,31.1666666667,Indiana Pacers,Boston Celtics,3,55-56,-3,two point jumper,False,15,False,True
+2014-11-22,34.6166666667,Indiana Pacers,Boston Celtics,3,64-56,6,layup,False,0,True,True
+2014-11-22,35.7333333333,Indiana Pacers,Boston Celtics,3,67-58,7,two point jumper,False,17,True,True
+2014-11-22,41.75,Indiana Pacers,Boston Celtics,4,79-66,11,two point shot,False,1,True,True
+2014-12-22,1.38333333333,Indiana Pacers,Boston Celtics,1,0-6,4,layup,True,0,True,False
+2014-12-22,2.68333333333,Indiana Pacers,Boston Celtics,1,4-8,2,two point jumper,True,1,True,False
+2014-12-22,6.85,Indiana Pacers,Boston Celtics,1,10-10,-2,two point jumper,True,20,False,False
+2014-12-22,22.7833333333,Indiana Pacers,Boston Celtics,2,32-49,15,two point jumper,True,20,False,False
+2014-12-22,24.8166666667,Indiana Pacers,Boston Celtics,3,37-56,17,layup,True,0,True,False
+2014-12-22,32.1,Indiana Pacers,Boston Celtics,3,47-72,24,free throw,True,15,True,False
+2014-12-22,32.1,Indiana Pacers,Boston Celtics,3,47-73,25,free throw,True,15,True,False
+2014-03-01,1.81666666667,Indiana Pacers,Boston Celtics,1,3-5,-3,free throw,False,15,True,False
+2014-03-01,1.81666666667,Indiana Pacers,Boston Celtics,1,4-5,-2,free throw,False,15,True,False
+2014-03-01,3.56666666667,Indiana Pacers,Boston Celtics,1,8-11,-5,two point jumper,False,11,False,False
+2014-03-01,5.56666666667,Indiana Pacers,Boston Celtics,1,12-13,-3,two point jumper,False,18,True,False
+2014-03-01,10.5166666667,Indiana Pacers,Boston Celtics,1,25-22,1,two point jumper,False,1,False,False
+2014-03-01,25.95,Indiana Pacers,Boston Celtics,3,59-50,7,two point jumper,False,20,True,False
+2014-03-01,27.45,Indiana Pacers,Boston Celtics,3,59-53,4,two point jumper,False,1,False,False
+2014-03-01,32.05,Indiana Pacers,Boston Celtics,3,69-67,1,free throw,False,15,True,False
+2014-03-01,32.05,Indiana Pacers,Boston Celtics,3,70-67,2,free throw,False,15,True,False
+2014-03-01,34.1166666667,Indiana Pacers,Boston Celtics,3,74-72,0,hook shot,False,6,False,False
+2014-03-01,35.7166666667,Indiana Pacers,Boston Celtics,3,76-76,-2,two point jumper,False,17,True,False
+2014-03-01,41.75,Indiana Pacers,Boston Celtics,4,88-88,-2,two point jumper,False,1,False,False
+2014-03-01,42.8833333333,Indiana Pacers,Boston Celtics,4,90-90,-2,two point jumper,False,19,True,False
+2014-11-09,3.81666666667,Indiana Pacers,Brooklyn Nets,1,12-5,4,three point jumper,False,25,True,True
+2014-11-09,4.53333333333,Indiana Pacers,Brooklyn Nets,1,12-8,2,two point shot,False,4,False,True
+2014-11-09,16.75,Indiana Pacers,Brooklyn Nets,2,29-32,-5,layup,False,0,False,True
+2014-11-09,19.8166666667,Indiana Pacers,Brooklyn Nets,2,35-36,-3,layup,False,0,True,True
+2014-11-09,20.4,Indiana Pacers,Brooklyn Nets,2,37-38,-3,two point jumper,False,19,True,True
+2014-11-09,20.9833333333,Indiana Pacers,Brooklyn Nets,2,39-38,-1,two point shot,False,10,True,True
+2014-11-09,21.4666666667,Indiana Pacers,Brooklyn Nets,2,39-38,-1,two point jumper,False,19,False,True
+2014-11-09,24.2166666667,Indiana Pacers,Brooklyn Nets,3,46-46,-2,two point jumper,False,17,True,True
+2014-11-09,26.3666666667,Indiana Pacers,Brooklyn Nets,3,53-49,2,two point jumper,False,20,True,True
+2014-11-09,28.1666666667,Indiana Pacers,Brooklyn Nets,3,57-51,4,two point jumper,False,19,False,True
+2014-11-09,28.35,Indiana Pacers,Brooklyn Nets,3,59-51,6,two point jumper,False,1,True,True
+2014-11-09,28.95,Indiana Pacers,Brooklyn Nets,3,60-51,8,free throw,False,15,True,True
+2014-11-09,28.95,Indiana Pacers,Brooklyn Nets,3,60-51,8,free throw,False,15,False,True
+2014-11-09,30.1333333333,Indiana Pacers,Brooklyn Nets,3,60-53,5,two point jumper,False,21,False,True
+2014-11-09,33.7833333333,Indiana Pacers,Brooklyn Nets,3,66-61,3,two point jumper,False,8,False,True
+2014-11-09,35.3166666667,Indiana Pacers,Brooklyn Nets,3,70-63,5,two point shot,False,10,False,True
+2014-11-09,44.25,Indiana Pacers,Brooklyn Nets,4,90-85,3,layup,False,0,False,True
+2014-11-09,47.85,Indiana Pacers,Brooklyn Nets,4,95-91,3,free throw,False,15,True,True
+2014-11-09,47.85,Indiana Pacers,Brooklyn Nets,4,96-91,4,free throw,False,15,True,True
+2014-12-23,1.31666666667,Indiana Pacers,Brooklyn Nets,1,2-4,-4,two point jumper,False,18,True,False
+2014-12-23,2.33333333333,Indiana Pacers,Brooklyn Nets,1,4-8,-6,two point jumper,False,17,True,False
+2014-12-23,4.13333333333,Indiana Pacers,Brooklyn Nets,1,6-10,-6,two point shot,False,9,False,False
+2014-12-23,19.45,Indiana Pacers,Brooklyn Nets,2,35-30,3,two point shot,False,13,True,False
+2014-12-23,20.2166666667,Indiana Pacers,Brooklyn Nets,2,37-32,3,two point jumper,False,21,True,False
+2014-12-23,25.3333333333,Indiana Pacers,Brooklyn Nets,3,48-39,8,free throw,False,15,False,False
+2014-12-23,25.3333333333,Indiana Pacers,Brooklyn Nets,3,49-39,9,free throw,False,15,True,False
+2014-12-23,26.45,Indiana Pacers,Brooklyn Nets,3,51-43,6,layup,False,0,False,False
+2014-12-23,30.9166666667,Indiana Pacers,Brooklyn Nets,3,64-47,15,two point shot,False,5,True,False
+2014-12-23,35.0,Indiana Pacers,Brooklyn Nets,3,75-53,20,two point jumper,False,16,True,False
+2014-12-28,1.05,Indiana Pacers,Brooklyn Nets,1,0-4,2,layup,True,0,True,False
+2014-12-28,1.93333333333,Indiana Pacers,Brooklyn Nets,1,2-4,0,unknown,True,6,False,False
+2014-12-28,4.95,Indiana Pacers,Brooklyn Nets,1,8-12,2,two point jumper,True,1,True,False
+2014-12-28,6.6,Indiana Pacers,Brooklyn Nets,1,8-14,4,two point shot,True,1,False,False
+2014-12-28,7.75,Indiana Pacers,Brooklyn Nets,1,11-18,5,two point jumper,True,16,True,False
+2014-12-28,18.5333333333,Indiana Pacers,Brooklyn Nets,2,45-41,-6,two point jumper,True,11,False,False
+2014-12-28,20.05,Indiana Pacers,Brooklyn Nets,2,47-46,-3,two point jumper,True,5,False,False
+2014-12-28,20.6166666667,Indiana Pacers,Brooklyn Nets,2,47-46,-3,two point jumper,True,1,False,False
+2014-12-28,27.4666666667,Indiana Pacers,Brooklyn Nets,3,61-69,6,layup,True,0,True,False
+2014-12-28,29.0333333333,Indiana Pacers,Brooklyn Nets,3,63-74,9,two point jumper,True,19,False,False
+2014-12-28,30.5666666667,Indiana Pacers,Brooklyn Nets,3,68-76,6,two point jumper,True,6,False,False
+2014-12-28,33.7,Indiana Pacers,Brooklyn Nets,3,72-83,9,two point shot,True,1,True,False
+2014-12-28,44.4833333333,Indiana Pacers,Brooklyn Nets,4,88-101,11,unknown,True,13,False,False
+2014-02-01,0.316666666667,Indiana Pacers,Brooklyn Nets,1,0-0,-2,two point jumper,True,5,False,True
+2014-02-01,3.55,Indiana Pacers,Brooklyn Nets,1,9-4,-7,two point shot,True,1,True,True
+2014-02-01,4.31666666667,Indiana Pacers,Brooklyn Nets,1,11-6,-7,layup,True,0,True,True
+2014-02-01,20.0833333333,Indiana Pacers,Brooklyn Nets,2,37-38,-1,two point shot,True,5,True,True
+2014-02-01,21.5166666667,Indiana Pacers,Brooklyn Nets,2,38-41,2,free throw,True,15,True,True
+2014-02-01,21.5166666667,Indiana Pacers,Brooklyn Nets,2,38-42,3,free throw,True,15,True,True
+2014-02-01,27.6166666667,Indiana Pacers,Brooklyn Nets,3,47-58,9,two point shot,True,12,True,True
+2014-02-01,45.85,Indiana Pacers,Brooklyn Nets,4,86-90,3,free throw,True,15,True,True
+2014-02-01,45.85,Indiana Pacers,Brooklyn Nets,4,86-91,4,free throw,True,15,True,True
+2014-02-01,47.05,Indiana Pacers,Brooklyn Nets,4,88-93,3,two point shot,True,8,True,True
+2014-02-01,47.8833333333,Indiana Pacers,Brooklyn Nets,4,93-95,1,free throw,True,15,True,True
+2014-02-01,47.8833333333,Indiana Pacers,Brooklyn Nets,4,93-96,2,free throw,True,15,True,True
+2014-02-01,47.9333333333,Indiana Pacers,Brooklyn Nets,4,93-96,2,free throw,True,15,False,True
+2014-02-01,47.9333333333,Indiana Pacers,Brooklyn Nets,4,93-97,3,free throw,True,15,True,True
+2014-11-20,1.11666666667,Indiana Pacers,New York Knicks,1,0-2,-4,two point shot,False,15,False,False
+2014-11-20,2.18333333333,Indiana Pacers,New York Knicks,1,0-6,-8,two point jumper,False,6,False,False
+2014-11-20,2.8,Indiana Pacers,New York Knicks,1,0-6,-8,two point jumper,False,6,False,False
+2014-11-20,20.5,Indiana Pacers,New York Knicks,2,27-31,-6,two point jumper,False,19,True,False
+2014-11-20,21.0666666667,Indiana Pacers,New York Knicks,2,29-33,-6,layup,False,0,True,False
+2014-11-20,22.2166666667,Indiana Pacers,New York Knicks,2,29-37,-10,layup,False,0,False,False
+2014-11-20,23.2166666667,Indiana Pacers,New York Knicks,2,35-37,-4,layup,False,0,True,False
+2014-11-20,26.2166666667,Indiana Pacers,New York Knicks,3,41-47,-8,two point jumper,False,5,False,False
+2014-11-20,28.8833333333,Indiana Pacers,New York Knicks,3,47-47,-1,free throw,False,15,False,False
+2014-11-20,28.8833333333,Indiana Pacers,New York Knicks,3,48-47,0,free throw,False,15,True,False
+2014-11-20,30.95,Indiana Pacers,New York Knicks,3,48-50,-4,hook shot,False,1,False,False
+2014-11-20,31.85,Indiana Pacers,New York Knicks,3,49-52,-5,layup,False,0,False,False
+2014-11-20,31.85,Indiana Pacers,New York Knicks,3,51-52,-3,two point shot,False,1,True,False
+2014-11-20,33.7833333333,Indiana Pacers,New York Knicks,3,54-60,-7,free throw,False,15,False,False
+2014-11-20,33.7833333333,Indiana Pacers,New York Knicks,3,55-60,-6,free throw,False,15,True,False
+2014-11-20,35.9333333333,Indiana Pacers,New York Knicks,3,58-62,-7,three point jumper,False,24,False,False
+2014-11-20,43.6666666667,Indiana Pacers,New York Knicks,4,79-78,-1,two point jumper,False,19,False,False
+2014-01-16,1.05,Indiana Pacers,New York Knicks,1,4-0,-6,two point jumper,True,7,False,False
+2014-01-16,4.06666666667,Indiana Pacers,New York Knicks,1,12-8,-6,two point jumper,True,1,False,False
+2014-01-16,8.1,Indiana Pacers,New York Knicks,1,20-15,-7,layup,True,0,True,False
+2014-01-16,17.95,Indiana Pacers,New York Knicks,2,37-45,6,two point shot,True,9,True,False
+2014-01-16,23.9833333333,Indiana Pacers,New York Knicks,2,48-63,13,two point shot,True,1,True,False
+2014-01-16,27.2,Indiana Pacers,New York Knicks,3,54-72,16,two point jumper,True,18,True,False
+2014-01-16,31.3166666667,Indiana Pacers,New York Knicks,3,59-83,22,two point jumper,True,20,True,False
+2014-01-16,31.95,Indiana Pacers,New York Knicks,3,61-85,22,two point jumper,True,18,True,False
+2014-01-16,32.6,Indiana Pacers,New York Knicks,3,61-85,22,two point jumper,True,1,False,False
+2014-01-16,33.1833333333,Indiana Pacers,New York Knicks,3,63-85,20,two point jumper,True,12,False,False
+2014-11-23,0.966666666667,Indiana Pacers,Philadelphia 76ers,1,3-2,-3,two point jumper,True,1,True,False
+2014-11-23,4.66666666667,Indiana Pacers,Philadelphia 76ers,1,10-12,0,two point shot,True,1,True,False
+2014-11-23,5.45,Indiana Pacers,Philadelphia 76ers,1,13-12,-3,two point jumper,True,1,False,False
+2014-11-23,7.16666666667,Indiana Pacers,Philadelphia 76ers,1,16-15,-3,two point jumper,True,5,False,False
+2014-11-23,20.6,Indiana Pacers,Philadelphia 76ers,2,46-43,-5,two point jumper,True,16,False,False
+2014-11-23,22.9166666667,Indiana Pacers,Philadelphia 76ers,2,52-54,0,two point jumper,True,20,True,False
+2014-11-23,25.0,Indiana Pacers,Philadelphia 76ers,3,52-60,6,two point jumper,True,19,True,False
+2014-11-23,26.05,Indiana Pacers,Philadelphia 76ers,3,52-60,6,two point jumper,True,11,False,False
+2014-11-23,29.7333333333,Indiana Pacers,Philadelphia 76ers,3,58-63,4,free throw,True,15,True,False
+2014-11-23,29.7333333333,Indiana Pacers,Philadelphia 76ers,3,58-64,5,free throw,True,15,True,False
+2014-11-23,34.35,Indiana Pacers,Philadelphia 76ers,3,64-75,9,two point jumper,True,20,True,False
+2014-11-23,44.8,Indiana Pacers,Philadelphia 76ers,4,88-98,8,layup,True,0,True,False
+2014-11-23,44.8,Indiana Pacers,Philadelphia 76ers,4,88-98,9,free throw,True,15,True,False
+2014-11-23,45.9166666667,Indiana Pacers,Philadelphia 76ers,4,94-99,4,free throw,True,15,True,False
+2014-11-23,45.9166666667,Indiana Pacers,Philadelphia 76ers,4,94-100,5,free throw,True,15,True,False
+2014-11-23,46.9166666667,Indiana Pacers,Philadelphia 76ers,4,96-102,4,two point jumper,True,17,False,False
+2014-11-08,2.01666666667,Indiana Pacers,Toronto Raptors,1,5-7,0,two point jumper,True,19,True,True
+2014-11-08,4.6,Indiana Pacers,Toronto Raptors,1,11-11,-2,two point jumper,True,15,True,True
+2014-11-08,5.95,Indiana Pacers,Toronto Raptors,1,11-13,0,two point shot,True,8,True,True
+2014-11-08,7.41666666667,Indiana Pacers,Toronto Raptors,1,16-15,-2,free throw,True,15,False,True
+2014-11-08,7.41666666667,Indiana Pacers,Toronto Raptors,1,16-16,-1,free throw,True,15,True,True
+2014-11-08,17.95,Indiana Pacers,Toronto Raptors,2,38-37,-3,two point jumper,True,8,False,True
+2014-11-08,29.7333333333,Indiana Pacers,Toronto Raptors,3,52-58,4,two point jumper,True,8,False,True
+2014-11-08,30.2166666667,Indiana Pacers,Toronto Raptors,3,52-62,8,layup,True,0,True,True
+2014-11-08,34.6333333333,Indiana Pacers,Toronto Raptors,3,59-69,8,hook shot,True,9,False,True
+2014-01-01,1.51666666667,Indiana Pacers,Toronto Raptors,1,6-0,4,two point shot,False,2,True,False
+2014-01-01,4.48333333333,Indiana Pacers,Toronto Raptors,1,9-9,-1,free throw,False,15,True,False
+2014-01-01,4.48333333333,Indiana Pacers,Toronto Raptors,1,10-9,0,free throw,False,15,True,False
+2014-01-01,21.75,Indiana Pacers,Toronto Raptors,2,38-36,-1,three point jumper,False,24,False,False
+2014-01-01,23.5333333333,Indiana Pacers,Toronto Raptors,2,42-40,0,two point jumper,False,19,False,False
+2014-01-01,27.45,Indiana Pacers,Toronto Raptors,3,54-46,6,layup,False,0,True,False
+2014-01-01,33.9,Indiana Pacers,Toronto Raptors,3,63-61,0,two point jumper,False,1,False,False
+2014-01-01,41.0333333333,Indiana Pacers,Toronto Raptors,4,74-74,-2,two point shot,False,3,True,False
+2014-01-01,42.9166666667,Indiana Pacers,Toronto Raptors,4,74-80,-7,free throw,False,15,False,False
+2014-01-01,42.9166666667,Indiana Pacers,Toronto Raptors,4,75-80,-6,free throw,False,15,True,False
+2014-01-07,2.58333333333,Indiana Pacers,Toronto Raptors,1,5-0,-7,two point jumper,True,1,False,True
+2014-01-07,3.2,Indiana Pacers,Toronto Raptors,1,7-2,-7,layup,True,0,True,True
+2014-01-07,24.2,Indiana Pacers,Toronto Raptors,3,36-46,8,two point shot,True,16,True,True
+2014-01-07,29.3166666667,Indiana Pacers,Toronto Raptors,3,43-58,13,two point jumper,True,17,False,True
+2014-01-07,30.8166666667,Indiana Pacers,Toronto Raptors,3,47-60,11,two point jumper,True,6,False,True
+2014-01-07,35.15,Indiana Pacers,Toronto Raptors,3,54-69,13,two point jumper,True,13,False,True
+2014-01-20,2.46666666667,Indiana Pacers,Golden State Warriors,1,10-8,0,two point shot,False,1,True,False
+2014-01-20,3.36666666667,Indiana Pacers,Golden State Warriors,1,12-12,-2,two point shot,False,1,True,False
+2014-01-20,3.36666666667,Indiana Pacers,Golden State Warriors,1,13-12,0,free throw,False,15,True,False
+2014-01-20,5.63333333333,Indiana Pacers,Golden State Warriors,1,21-15,4,two point shot,False,1,True,False
+2014-01-20,18.1333333333,Indiana Pacers,Golden State Warriors,2,45-29,14,two point jumper,False,1,False,False
+2014-01-20,18.3166666667,Indiana Pacers,Golden State Warriors,2,45-29,14,two point jumper,False,1,False,False
+2014-01-20,20.9833333333,Indiana Pacers,Golden State Warriors,2,49-36,11,two point shot,False,10,True,False
+2014-01-20,23.35,Indiana Pacers,Golden State Warriors,2,53-40,11,two point jumper,False,1,False,False
+2014-01-20,26.3166666667,Indiana Pacers,Golden State Warriors,3,60-44,14,two point jumper,False,7,False,False
+2014-01-20,26.75,Indiana Pacers,Golden State Warriors,3,60-47,11,two point shot,False,1,False,False
+2014-01-20,28.7333333333,Indiana Pacers,Golden State Warriors,3,66-54,10,two point jumper,False,16,False,False
+2014-01-20,29.5,Indiana Pacers,Golden State Warriors,3,68-54,12,two point shot,False,9,True,False
+2014-01-20,31.5666666667,Indiana Pacers,Golden State Warriors,3,70-60,8,two point shot,False,16,True,False
+2014-01-20,33.0,Indiana Pacers,Golden State Warriors,3,71-62,8,free throw,False,15,True,False
+2014-01-20,33.0,Indiana Pacers,Golden State Warriors,3,71-62,8,free throw,False,15,False,False
+2014-01-20,34.05,Indiana Pacers,Golden State Warriors,3,73-64,7,two point shot,False,8,False,False
+2014-01-20,34.5333333333,Indiana Pacers,Golden State Warriors,3,73-66,5,two point jumper,False,5,False,False
+2014-01-20,45.6833333333,Indiana Pacers,Golden State Warriors,4,94-87,5,two point jumper,False,20,False,False
+2014-01-20,46.8,Indiana Pacers,Golden State Warriors,4,98-92,5,free throw,False,15,True,False
+2014-01-20,46.8,Indiana Pacers,Golden State Warriors,4,98-92,5,free throw,False,15,False,False
+2014-01-20,47.9,Indiana Pacers,Golden State Warriors,4,101-94,6,free throw,False,15,True,False
+2014-01-20,47.9,Indiana Pacers,Golden State Warriors,4,102-94,7,free throw,False,15,True,False
+2014-12-01,1.01666666667,Indiana Pacers,Los Angeles Clippers,1,2-0,0,tip shot,False,0,False,True
+2014-12-01,1.06666666667,Indiana Pacers,Los Angeles Clippers,1,2-0,0,layup,False,0,False,True
+2014-12-01,3.36666666667,Indiana Pacers,Los Angeles Clippers,1,8-4,2,two point shot,False,11,True,True
+2014-12-01,4.06666666667,Indiana Pacers,Los Angeles Clippers,1,8-4,2,two point jumper,False,19,False,True
+2014-12-01,9.16666666667,Indiana Pacers,Los Angeles Clippers,1,22-13,7,two point shot,False,9,True,True
+2014-12-01,9.7,Indiana Pacers,Los Angeles Clippers,1,24-13,9,two point jumper,False,18,True,True
+2014-12-01,10.2166666667,Indiana Pacers,Los Angeles Clippers,1,24-15,7,two point jumper,False,8,False,True
+2014-12-01,23.1666666667,Indiana Pacers,Los Angeles Clippers,2,48-45,1,layup,False,0,True,True
+2014-12-01,23.9833333333,Indiana Pacers,Los Angeles Clippers,2,53-47,4,two point jumper,False,8,True,True
+2014-12-01,24.5166666667,Indiana Pacers,Los Angeles Clippers,3,55-47,6,two point shot,False,4,True,True
+2014-12-01,25.55,Indiana Pacers,Los Angeles Clippers,3,57-50,5,two point jumper,False,4,True,True
+2014-12-01,27.5,Indiana Pacers,Los Angeles Clippers,3,59-53,4,layup,False,0,False,True
+2014-12-01,29.1,Indiana Pacers,Los Angeles Clippers,3,65-58,5,two point shot,False,3,True,True
+2014-12-01,30.7,Indiana Pacers,Los Angeles Clippers,3,72-60,10,two point shot,False,18,True,True
+2014-12-01,31.2,Indiana Pacers,Los Angeles Clippers,3,73-60,12,free throw,False,15,True,True
+2014-12-01,31.2,Indiana Pacers,Los Angeles Clippers,3,74-60,13,free throw,False,15,True,True
+2014-12-01,33.7,Indiana Pacers,Los Angeles Clippers,3,76-65,9,two point shot,False,18,False,True
+2014-12-01,34.35,Indiana Pacers,Los Angeles Clippers,3,78-68,8,two point shot,False,16,True,True
+2014-12-01,35.6666666667,Indiana Pacers,Los Angeles Clippers,3,84-74,8,two point shot,False,3,True,True
+2014-12-01,44.3666666667,Indiana Pacers,Los Angeles Clippers,4,97-96,-1,two point shot,False,20,False,True
+2014-12-01,46.1166666667,Indiana Pacers,Los Angeles Clippers,4,100-98,0,two point jumper,False,17,False,True
+2014-12-01,46.7166666667,Indiana Pacers,Los Angeles Clippers,4,100-98,0,two point shot,False,17,False,True
+2014-01-18,1.56666666667,Indiana Pacers,Los Angeles Clippers,1,4-2,-4,two point jumper,True,9,True,False
+2014-01-18,20.65,Indiana Pacers,Los Angeles Clippers,2,32-48,14,two point jumper,True,17,False,False
+2014-01-18,22.0166666667,Indiana Pacers,Los Angeles Clippers,2,36-52,14,layup,True,0,True,False
+2014-01-28,1.01666666667,Indiana Pacers,Los Angeles Lakers,1,2-0,0,two point shot,False,5,True,False
+2014-01-28,1.01666666667,Indiana Pacers,Los Angeles Lakers,1,3-0,2,free throw,False,15,True,False
+2014-01-28,1.4,Indiana Pacers,Los Angeles Lakers,1,5-2,1,layup,False,0,True,False
+2014-01-28,3.13333333333,Indiana Pacers,Los Angeles Lakers,1,7-6,-1,two point jumper,False,17,False,False
+2014-01-28,4.85,Indiana Pacers,Los Angeles Lakers,1,9-8,-1,two point shot,False,8,True,False
+2014-01-28,8.9,Indiana Pacers,Los Angeles Lakers,1,17-15,0,two point shot,False,12,False,False
+2014-01-28,22.1833333333,Indiana Pacers,Los Angeles Lakers,2,44-43,-1,two point shot,False,10,True,False
+2014-01-28,27.0166666667,Indiana Pacers,Los Angeles Lakers,3,57-51,4,two point shot,False,14,True,False
+2014-01-28,28.6666666667,Indiana Pacers,Los Angeles Lakers,3,59-53,4,two point shot,False,17,False,False
+2014-01-28,32.0,Indiana Pacers,Los Angeles Lakers,3,68-62,4,hook shot,False,6,False,False
+2014-01-28,33.7166666667,Indiana Pacers,Los Angeles Lakers,3,74-67,5,two point shot,False,5,True,False
+2014-01-28,34.4833333333,Indiana Pacers,Los Angeles Lakers,3,74-69,3,two point jumper,False,19,False,False
+2014-01-28,35.0333333333,Indiana Pacers,Los Angeles Lakers,3,76-69,5,two point shot,False,11,True,False
+2014-01-28,45.2666666667,Indiana Pacers,Los Angeles Lakers,4,98-88,8,two point jumper,False,19,False,False
+2014-01-28,45.4833333333,Indiana Pacers,Los Angeles Lakers,4,99-88,10,free throw,False,15,True,False
+2014-01-28,45.4833333333,Indiana Pacers,Los Angeles Lakers,4,100-88,11,free throw,False,15,True,False
+2014-01-28,46.6,Indiana Pacers,Los Angeles Lakers,4,102-88,12,two point jumper,False,23,True,False
+2014-02-25,2.26666666667,Indiana Pacers,Los Angeles Lakers,1,4-4,-2,layup,True,0,True,False
+2014-02-25,3.71666666667,Indiana Pacers,Los Angeles Lakers,1,4-7,2,free throw,True,15,False,False
+2014-02-25,3.71666666667,Indiana Pacers,Los Angeles Lakers,1,4-8,3,free throw,True,15,True,False
+2014-02-25,7.98333333333,Indiana Pacers,Los Angeles Lakers,1,10-22,10,two point jumper,True,1,True,False
+2014-02-25,10.8333333333,Indiana Pacers,Los Angeles Lakers,1,19-28,7,two point jumper,True,1,True,False
+2014-02-25,11.4666666667,Indiana Pacers,Los Angeles Lakers,1,23-28,3,two point jumper,True,21,False,False
+2014-02-25,21.2333333333,Indiana Pacers,Los Angeles Lakers,2,46-50,3,free throw,True,15,True,False
+2014-02-25,21.2333333333,Indiana Pacers,Los Angeles Lakers,2,46-51,4,free throw,True,15,True,False
+2014-02-25,22.8333333333,Indiana Pacers,Los Angeles Lakers,2,52-55,1,two point jumper,True,11,False,False
+2014-02-25,26.4333333333,Indiana Pacers,Los Angeles Lakers,3,58-61,1,two point shot,True,1,True,False
+2014-02-25,28.3833333333,Indiana Pacers,Los Angeles Lakers,3,59-66,5,layup,True,0,False,False
+2014-02-25,33.2666666667,Indiana Pacers,Los Angeles Lakers,3,68-80,10,two point jumper,True,1,False,False
+2014-02-25,36.0,Indiana Pacers,Los Angeles Lakers,3,70-91,19,two point jumper,True,1,False,False
+2014-01-22,0.816666666667,Indiana Pacers,Phoenix Suns,1,2-3,-3,two point jumper,False,1,True,False
+2014-01-22,1.63333333333,Indiana Pacers,Phoenix Suns,1,4-7,-5,two point jumper,False,1,True,False
+2014-01-22,2.2,Indiana Pacers,Phoenix Suns,1,6-9,-5,two point jumper,False,18,True,False
+2014-01-22,3.08333333333,Indiana Pacers,Phoenix Suns,1,8-12,-6,two point shot,False,13,False,False
+2014-01-22,5.16666666667,Indiana Pacers,Phoenix Suns,1,17-15,0,two point jumper,False,1,True,False
+2014-01-22,5.7,Indiana Pacers,Phoenix Suns,1,17-17,-2,two point jumper,False,1,False,False
+2014-01-22,19.2833333333,Indiana Pacers,Phoenix Suns,2,39-50,-13,two point jumper,False,6,False,False
+2014-01-22,20.2666666667,Indiana Pacers,Phoenix Suns,2,40-52,-13,free throw,False,15,True,False
+2014-01-22,20.2666666667,Indiana Pacers,Phoenix Suns,2,40-52,-13,free throw,False,15,False,False
+2014-01-22,21.35,Indiana Pacers,Phoenix Suns,2,40-52,-14,two point jumper,False,9,False,False
+2014-01-22,25.15,Indiana Pacers,Phoenix Suns,3,49-64,-17,two point jumper,False,18,False,False
+2014-01-22,27.5,Indiana Pacers,Phoenix Suns,3,53-72,-21,two point jumper,False,23,True,False
+2014-01-22,29.1,Indiana Pacers,Phoenix Suns,3,57-79,-24,two point shot,False,1,True,False
+2014-01-22,29.1,Indiana Pacers,Phoenix Suns,3,57-79,-23,free throw,False,15,False,False
+2014-01-30,0.7,Indiana Pacers,Phoenix Suns,1,0-2,0,layup,True,0,True,True
+2014-01-30,17.2333333333,Indiana Pacers,Phoenix Suns,2,47-32,-17,two point jumper,True,1,True,True
+2014-01-30,17.7,Indiana Pacers,Phoenix Suns,2,47-32,-17,two point jumper,True,7,False,True
+2014-01-30,18.8833333333,Indiana Pacers,Phoenix Suns,2,51-34,-19,two point jumper,True,16,True,True
+2014-01-30,19.1333333333,Indiana Pacers,Phoenix Suns,2,51-36,-17,dunk,True,0,True,True
+2014-01-30,19.6,Indiana Pacers,Phoenix Suns,2,53-38,-17,layup,True,0,True,True
+2014-01-30,20.0833333333,Indiana Pacers,Phoenix Suns,2,55-38,-19,two point jumper,True,16,False,True
+2014-01-30,23.0,Indiana Pacers,Phoenix Suns,2,64-47,-19,layup,True,0,True,True
+2014-01-30,25.5,Indiana Pacers,Phoenix Suns,3,68-51,-19,layup,True,0,True,True
+2014-01-30,28.4166666667,Indiana Pacers,Phoenix Suns,3,71-58,-15,two point jumper,True,1,False,True
+2014-01-30,29.45,Indiana Pacers,Phoenix Suns,3,71-61,-12,two point jumper,True,18,False,True
+2014-01-30,30.2,Indiana Pacers,Phoenix Suns,3,73-63,-12,two point jumper,True,17,False,True
+2014-01-30,34.65,Indiana Pacers,Phoenix Suns,3,77-73,-5,free throw,True,15,True,True
+2014-01-30,34.65,Indiana Pacers,Phoenix Suns,3,77-74,-4,free throw,True,15,True,True
+2014-01-30,35.3833333333,Indiana Pacers,Phoenix Suns,3,77-74,-6,three point jumper,True,26,False,True
+2014-01-30,41.7833333333,Indiana Pacers,Phoenix Suns,4,90-86,-6,two point jumper,True,10,True,True
+2014-01-30,42.2833333333,Indiana Pacers,Phoenix Suns,4,90-86,-6,two point jumper,True,17,False,True
+2014-01-30,44.7666666667,Indiana Pacers,Phoenix Suns,4,95-92,-5,two point jumper,True,20,False,True
+2014-01-30,47.4666666667,Indiana Pacers,Phoenix Suns,4,102-94,-10,two point jumper,True,19,False,True
+2014-01-14,3.56666666667,Indiana Pacers,Sacramento Kings,1,2-11,7,layup,True,0,True,False
+2014-01-14,4.45,Indiana Pacers,Sacramento Kings,1,4-11,5,two point jumper,True,7,False,False
+2014-01-14,6.78333333333,Indiana Pacers,Sacramento Kings,1,10-13,1,two point jumper,True,16,True,False
+2014-01-14,18.35,Indiana Pacers,Sacramento Kings,2,36-43,5,two point jumper,True,11,True,False
+2014-01-14,23.9833333333,Indiana Pacers,Sacramento Kings,2,45-59,12,layup,True,0,True,False
+2014-01-14,25.65,Indiana Pacers,Sacramento Kings,3,45-61,14,two point jumper,True,19,False,False
+2014-01-14,28.5333333333,Indiana Pacers,Sacramento Kings,3,52-65,11,two point jumper,True,19,True,False
+2014-01-14,30.1333333333,Indiana Pacers,Sacramento Kings,3,56-67,9,two point jumper,True,20,False,False
+2014-01-14,30.6,Indiana Pacers,Sacramento Kings,3,58-67,7,two point jumper,True,18,False,False
+2014-01-14,32.5,Indiana Pacers,Sacramento Kings,3,61-73,11,free throw,True,15,True,False
+2014-01-14,32.5,Indiana Pacers,Sacramento Kings,3,61-74,12,free throw,True,15,True,False
+2014-01-14,34.75,Indiana Pacers,Sacramento Kings,3,71-81,8,two point shot,True,1,True,False
+2014-01-14,35.2666666667,Indiana Pacers,Sacramento Kings,3,71-83,10,layup,True,0,True,False
+2014-01-24,1.93333333333,Indiana Pacers,Sacramento Kings,1,6-5,-1,two point shot,False,6,True,True
+2014-01-24,14.0,Indiana Pacers,Sacramento Kings,2,30-43,-15,two point shot,False,8,True,True
+2014-01-24,15.2166666667,Indiana Pacers,Sacramento Kings,2,30-44,-16,two point jumper,False,18,False,True
+2014-01-24,16.75,Indiana Pacers,Sacramento Kings,2,34-49,-17,two point jumper,False,20,True,True
+2014-01-24,17.3166666667,Indiana Pacers,Sacramento Kings,2,34-49,-16,free throw,False,15,False,True
+2014-01-24,17.3166666667,Indiana Pacers,Sacramento Kings,2,34-49,-16,free throw,False,15,False,True
+2014-01-24,19.2833333333,Indiana Pacers,Sacramento Kings,2,38-54,-18,two point jumper,False,7,False,True
+2014-01-24,22.6166666667,Indiana Pacers,Sacramento Kings,2,46-58,-14,two point shot,False,6,True,True
+2014-01-24,24.25,Indiana Pacers,Sacramento Kings,3,52-61,-11,two point jumper,False,18,True,True
+2014-01-24,31.35,Indiana Pacers,Sacramento Kings,3,73-78,-6,free throw,False,15,True,True
+2014-01-24,31.35,Indiana Pacers,Sacramento Kings,3,73-78,-6,free throw,False,15,False,True
+2014-01-24,33.4833333333,Indiana Pacers,Sacramento Kings,3,78-82,-5,free throw,False,15,True,True
+2014-01-24,33.4833333333,Indiana Pacers,Sacramento Kings,3,79-82,-4,free throw,False,15,True,True
+2014-01-24,43.35,Indiana Pacers,Sacramento Kings,4,91-95,-6,two point shot,False,7,True,True
+2014-01-24,44.4333333333,Indiana Pacers,Sacramento Kings,4,93-95,-4,two point shot,False,1,True,True
+2014-01-24,45.3666666667,Indiana Pacers,Sacramento Kings,4,97-95,0,two point shot,False,13,True,True
+2014-01-24,46.7166666667,Indiana Pacers,Sacramento Kings,4,97-100,-5,two point jumper,False,18,False,True
+2014-01-24,49.05,Indiana Pacers,Sacramento Kings,5,108-106,-1,three point jumper,False,26,True,True
+2014-01-24,49.7,Indiana Pacers,Sacramento Kings,5,108-106,0,two point jumper,False,9,False,True
+2014-01-24,52.6166666667,Indiana Pacers,Sacramento Kings,5,114-111,1,two point jumper,False,20,False,True
+2014-11-06,2.4,Indiana Pacers,Chicago Bulls,1,4-2,-4,two point jumper,True,19,False,True
+2014-11-06,5.41666666667,Indiana Pacers,Chicago Bulls,1,9-8,-3,two point shot,True,7,True,True
+2014-11-06,6.28333333333,Indiana Pacers,Chicago Bulls,1,9-8,-3,two point jumper,True,17,False,True
+2014-11-06,7.6,Indiana Pacers,Chicago Bulls,1,11-14,1,two point shot,True,6,True,True
+2014-11-06,19.35,Indiana Pacers,Chicago Bulls,2,33-31,-4,layup,True,0,False,True
+2014-11-06,19.8166666667,Indiana Pacers,Chicago Bulls,2,34-31,-5,two point jumper,True,11,False,True
+2014-11-06,22.4333333333,Indiana Pacers,Chicago Bulls,2,40-35,-7,two point jumper,True,19,False,True
+2014-11-06,23.2666666667,Indiana Pacers,Chicago Bulls,2,42-35,-9,two point jumper,True,1,False,True
+2014-11-06,23.2833333333,Indiana Pacers,Chicago Bulls,2,42-37,-7,layup,True,0,True,True
+2014-11-06,24.75,Indiana Pacers,Chicago Bulls,3,43-39,-6,two point jumper,True,16,True,True
+2014-11-06,25.3333333333,Indiana Pacers,Chicago Bulls,3,43-39,-6,two point jumper,True,17,False,True
+2014-11-06,29.8833333333,Indiana Pacers,Chicago Bulls,3,51-51,-2,two point shot,True,13,True,True
+2014-11-06,30.3166666667,Indiana Pacers,Chicago Bulls,3,51-53,0,layup,True,0,True,True
+2014-11-06,32.3666666667,Indiana Pacers,Chicago Bulls,3,53-58,3,two point jumper,True,17,True,True
+2014-11-06,45.2166666667,Indiana Pacers,Chicago Bulls,4,78-88,8,two point jumper,True,20,True,True
+2014-11-06,46.9166666667,Indiana Pacers,Chicago Bulls,4,78-95,16,free throw,True,15,True,True
+2014-11-06,46.9166666667,Indiana Pacers,Chicago Bulls,4,78-95,16,free throw,True,15,False,True
+2014-11-16,2.0,Indiana Pacers,Chicago Bulls,1,2-1,-1,two point jumper,False,18,False,True
+2014-11-16,4.73333333333,Indiana Pacers,Chicago Bulls,1,7-15,-10,two point jumper,False,21,True,True
+2014-11-16,5.28333333333,Indiana Pacers,Chicago Bulls,1,7-17,-12,layup,False,0,False,True
+2014-11-16,5.31666666667,Indiana Pacers,Chicago Bulls,1,9-17,-10,two point shot,False,2,True,True
+2014-11-16,7.21666666667,Indiana Pacers,Chicago Bulls,1,13-17,-6,two point jumper,False,1,True,True
+2014-11-16,7.21666666667,Indiana Pacers,Chicago Bulls,1,14-17,-4,free throw,False,15,True,True
+2014-11-16,8.21666666667,Indiana Pacers,Chicago Bulls,1,14-19,-7,two point jumper,False,6,False,True
+2014-11-16,17.1666666667,Indiana Pacers,Chicago Bulls,2,24-40,-18,two point jumper,False,21,False,True
+2014-11-16,17.3833333333,Indiana Pacers,Chicago Bulls,2,24-40,-18,layup,False,0,False,True
+2014-11-16,17.9833333333,Indiana Pacers,Chicago Bulls,2,26-42,-18,two point jumper,False,23,True,True
+2014-11-16,18.7,Indiana Pacers,Chicago Bulls,2,26-44,-20,two point jumper,False,21,False,True
+2014-11-16,19.0666666667,Indiana Pacers,Chicago Bulls,2,26-44,-20,layup,False,0,False,True
+2014-11-16,23.2333333333,Indiana Pacers,Chicago Bulls,2,35-57,-24,two point jumper,False,18,True,True
+2014-11-16,24.95,Indiana Pacers,Chicago Bulls,3,35-61,-28,two point jumper,False,13,False,True
+2014-11-16,30.5666666667,Indiana Pacers,Chicago Bulls,3,46-73,-29,two point jumper,False,17,False,True
+2014-11-16,31.5333333333,Indiana Pacers,Chicago Bulls,3,46-76,-32,two point jumper,False,20,False,True
+2014-11-16,33.4166666667,Indiana Pacers,Chicago Bulls,3,54-82,-30,two point jumper,False,16,True,True
+2014-11-02,2.56666666667,Indiana Pacers,Cleveland Cavaliers,1,2-4,0,two point jumper,True,1,False,True
+2014-11-02,21.4833333333,Indiana Pacers,Cleveland Cavaliers,2,34-40,4,layup,True,0,True,True
+2014-11-02,26.0,Indiana Pacers,Cleveland Cavaliers,3,39-48,7,two point jumper,True,7,False,True
+2014-11-02,27.6333333333,Indiana Pacers,Cleveland Cavaliers,3,43-48,3,two point jumper,True,9,False,True
+2014-11-02,40.8166666667,Indiana Pacers,Cleveland Cavaliers,4,61-79,16,two point jumper,True,7,False,True
+2014-11-02,41.7833333333,Indiana Pacers,Cleveland Cavaliers,4,63-81,16,two point jumper,True,18,True,True
+2014-11-02,43.2,Indiana Pacers,Cleveland Cavaliers,4,65-82,15,two point jumper,True,17,False,True
+2014-12-31,4.41666666667,Indiana Pacers,Cleveland Cavaliers,1,9-6,-5,two point jumper,True,17,False,True
+2014-12-31,5.45,Indiana Pacers,Cleveland Cavaliers,1,13-6,-9,two point jumper,True,15,False,True
+2014-12-31,24.3333333333,Indiana Pacers,Cleveland Cavaliers,3,44-43,-3,layup,True,0,True,True
+2014-12-31,28.3166666667,Indiana Pacers,Cleveland Cavaliers,3,51-51,-2,two point jumper,True,7,False,True
+2014-12-31,28.8166666667,Indiana Pacers,Cleveland Cavaliers,3,53-53,-2,layup,True,0,True,True
+2014-12-31,29.2,Indiana Pacers,Cleveland Cavaliers,3,53-55,0,dunk,True,0,True,True
+2014-12-31,30.7833333333,Indiana Pacers,Cleveland Cavaliers,3,55-55,-2,two point jumper,True,1,False,True
+2014-12-31,32.2166666667,Indiana Pacers,Cleveland Cavaliers,3,59-60,-1,two point jumper,True,16,True,True
+2014-12-31,33.2333333333,Indiana Pacers,Cleveland Cavaliers,3,63-60,-5,layup,True,0,False,True
+2014-12-31,35.3833333333,Indiana Pacers,Cleveland Cavaliers,3,66-63,-5,two point jumper,True,1,False,True
+2014-01-05,1.65,Indiana Pacers,Cleveland Cavaliers,1,2-3,-3,two point shot,False,11,False,True
+2014-01-05,4.1,Indiana Pacers,Cleveland Cavaliers,1,4-6,-4,two point jumper,False,19,False,True
+2014-01-05,5.5,Indiana Pacers,Cleveland Cavaliers,1,9-8,-1,two point jumper,False,17,True,True
+2014-01-05,6.53333333333,Indiana Pacers,Cleveland Cavaliers,1,14-10,2,two point jumper,False,17,True,True
+2014-01-05,8.15,Indiana Pacers,Cleveland Cavaliers,1,14-10,2,two point jumper,False,14,False,True
+2014-01-05,20.4833333333,Indiana Pacers,Cleveland Cavaliers,2,38-33,4,free throw,False,15,True,True
+2014-01-05,20.4833333333,Indiana Pacers,Cleveland Cavaliers,2,39-33,5,free throw,False,15,True,True
+2014-01-05,24.9333333333,Indiana Pacers,Cleveland Cavaliers,3,44-35,7,two point jumper,False,17,False,True
+2014-01-05,26.4333333333,Indiana Pacers,Cleveland Cavaliers,3,45-39,4,layup,False,0,False,True
+2014-01-05,32.5333333333,Indiana Pacers,Cleveland Cavaliers,3,60-53,5,two point shot,False,8,False,True
+2014-01-05,33.95,Indiana Pacers,Cleveland Cavaliers,3,60-58,0,two point jumper,False,1,False,True
+2014-01-05,35.65,Indiana Pacers,Cleveland Cavaliers,3,67-58,7,two point jumper,False,1,True,True
+2014-01-05,43.1333333333,Indiana Pacers,Cleveland Cavaliers,4,75-67,6,two point jumper,False,6,False,True
+2014-01-05,45.2666666667,Indiana Pacers,Cleveland Cavaliers,4,77-74,1,two point shot,False,8,True,True
+2014-01-05,47.9166666667,Indiana Pacers,Cleveland Cavaliers,4,81-78,2,free throw,False,15,False,True
+2014-01-05,47.9166666667,Indiana Pacers,Cleveland Cavaliers,4,82-78,3,free throw,False,15,True,True
+2014-11-05,1.31666666667,Indiana Pacers,Detroit Pistons,1,4-0,2,two point jumper,False,19,True,True
+2014-11-05,2.88333333333,Indiana Pacers,Detroit Pistons,1,4-4,-2,two point shot,False,19,False,True
+2014-11-05,4.66666666667,Indiana Pacers,Detroit Pistons,1,6-8,-4,two point jumper,False,18,False,True
+2014-11-05,24.2166666667,Indiana Pacers,Detroit Pistons,3,40-41,-3,two point jumper,False,19,True,True
+2014-11-05,28.3166666667,Indiana Pacers,Detroit Pistons,3,52-46,5,free throw,False,15,True,True
+2014-11-05,28.3166666667,Indiana Pacers,Detroit Pistons,3,53-46,6,free throw,False,15,True,True
+2014-11-05,30.6,Indiana Pacers,Detroit Pistons,3,55-48,5,two point jumper,False,1,False,True
+2014-11-05,34.0,Indiana Pacers,Detroit Pistons,3,68-58,8,layup,False,0,True,True
+2014-11-05,44.9333333333,Indiana Pacers,Detroit Pistons,4,96-80,14,two point jumper,False,9,True,True
+2014-11-05,47.7333333333,Indiana Pacers,Detroit Pistons,4,98-91,5,layup,False,0,True,True
+2014-12-16,2.5,Indiana Pacers,Detroit Pistons,1,6-3,-4,free throw,True,15,True,True
+2014-12-16,2.5,Indiana Pacers,Detroit Pistons,1,6-3,-4,free throw,True,15,False,True
+2014-12-16,3.31666666667,Indiana Pacers,Detroit Pistons,1,8-5,-5,two point jumper,True,4,True,True
+2014-12-16,4.73333333333,Indiana Pacers,Detroit Pistons,1,10-9,-3,two point shot,True,8,True,True
+2014-12-16,5.38333333333,Indiana Pacers,Detroit Pistons,1,13-9,-6,layup,True,0,False,True
+2014-12-16,6.98333333333,Indiana Pacers,Detroit Pistons,1,15-11,-6,two point jumper,True,6,False,True
+2014-12-16,19.5666666667,Indiana Pacers,Detroit Pistons,2,44-43,-2,free throw,True,15,False,True
+2014-12-16,19.5666666667,Indiana Pacers,Detroit Pistons,2,44-44,-1,free throw,True,15,True,True
+2014-12-16,25.6166666667,Indiana Pacers,Detroit Pistons,3,60-53,-9,two point jumper,True,18,True,True
+2014-12-16,26.1833333333,Indiana Pacers,Detroit Pistons,3,62-55,-9,two point jumper,True,1,True,True
+2014-12-16,30.3166666667,Indiana Pacers,Detroit Pistons,3,70-61,-11,two point jumper,True,19,False,True
+2014-12-16,31.0666666667,Indiana Pacers,Detroit Pistons,3,72-63,-11,layup,True,0,True,True
+2014-12-16,34.2666666667,Indiana Pacers,Detroit Pistons,3,76-69,-9,two point jumper,True,6,False,True
+2014-12-16,34.6166666667,Indiana Pacers,Detroit Pistons,3,77-71,-8,two point jumper,True,7,True,True
+2014-12-16,45.9166666667,Indiana Pacers,Detroit Pistons,4,96-89,-9,two point jumper,True,1,False,True
+2014-10-29,0.366666666667,Indiana Pacers,Orlando Magic,1,0-0,-2,two point jumper,True,6,False,True
+2014-10-29,4.53333333333,Indiana Pacers,Orlando Magic,1,2-12,8,two point jumper,True,8,False,True
+2014-10-29,17.35,Indiana Pacers,Orlando Magic,2,33-34,-1,two point jumper,True,20,True,True
+2014-10-29,21.25,Indiana Pacers,Orlando Magic,2,40-36,-6,two point jumper,True,20,False,True
+2014-10-29,21.9,Indiana Pacers,Orlando Magic,2,40-38,-4,layup,True,0,True,True
+2014-10-29,28.0666666667,Indiana Pacers,Orlando Magic,3,49-49,-1,free throw,True,15,True,True
+2014-10-29,28.0666666667,Indiana Pacers,Orlando Magic,3,49-50,0,free throw,True,15,True,True
+2014-10-29,30.8833333333,Indiana Pacers,Orlando Magic,3,54-57,1,two point shot,True,7,True,True
+2014-10-29,34.0166666667,Indiana Pacers,Orlando Magic,3,62-64,1,free throw,True,15,True,True
+2014-10-29,34.0166666667,Indiana Pacers,Orlando Magic,3,62-65,2,free throw,True,15,True,True
+2014-10-29,35.9,Indiana Pacers,Orlando Magic,3,64-66,1,free throw,True,15,True,True
+2014-10-29,44.1166666667,Indiana Pacers,Orlando Magic,4,77-94,15,two point jumper,True,1,True,True
+2014-10-29,45.8166666667,Indiana Pacers,Orlando Magic,4,82-94,10,two point jumper,True,15,False,True
+2014-10-30,4.16666666667,Indiana Pacers,New Orleans Pelicans,1,5-6,-3,two point shot,False,5,True,True
+2014-10-30,5.85,Indiana Pacers,New Orleans Pelicans,1,7-10,-5,two point shot,False,1,True,True
+2014-10-30,7.48333333333,Indiana Pacers,New Orleans Pelicans,1,9-16,-9,layup,False,0,True,True
+2014-10-30,8.25,Indiana Pacers,New Orleans Pelicans,1,9-16,-9,two point jumper,False,14,False,True
+2014-10-30,21.1666666667,Indiana Pacers,New Orleans Pelicans,2,29-41,-13,free throw,False,15,True,True
+2014-10-30,21.1666666667,Indiana Pacers,New Orleans Pelicans,2,30-41,-12,free throw,False,15,True,True
+2014-10-30,28.7333333333,Indiana Pacers,New Orleans Pelicans,3,46-52,-8,two point jumper,False,9,False,True
+2014-10-30,30.5333333333,Indiana Pacers,New Orleans Pelicans,3,48-58,-12,two point jumper,False,16,False,True
+2014-10-30,34.5166666667,Indiana Pacers,New Orleans Pelicans,3,58-64,-8,two point jumper,False,15,False,True
+2014-10-30,46.9,Indiana Pacers,New Orleans Pelicans,4,85-85,-1,free throw,False,15,True,True
+2014-10-30,46.9,Indiana Pacers,New Orleans Pelicans,4,86-85,0,free throw,False,15,True,True
+2014-10-30,47.7166666667,Indiana Pacers,New Orleans Pelicans,4,90-87,2,free throw,False,15,True,True
+2014-10-30,47.7166666667,Indiana Pacers,New Orleans Pelicans,4,91-87,3,free throw,False,15,True,True
+2014-11-11,0.866666666667,Indiana Pacers,Memphis Grizzlies,1,0-2,0,two point jumper,True,18,True,True
+2014-11-11,3.2,Indiana Pacers,Memphis Grizzlies,1,4-7,1,two point jumper,True,10,False,True
+2014-11-11,19.25,Indiana Pacers,Memphis Grizzlies,2,28-40,10,two point jumper,True,1,True,True
+2014-11-11,21.4333333333,Indiana Pacers,Memphis Grizzlies,2,34-42,6,two point jumper,True,19,True,True
+2014-11-11,22.15,Indiana Pacers,Memphis Grizzlies,2,36-44,6,two point jumper,True,6,True,True
+2014-11-11,31.1333333333,Indiana Pacers,Memphis Grizzlies,3,48-63,13,two point jumper,True,20,True,True
+2014-11-11,35.4666666667,Indiana Pacers,Memphis Grizzlies,3,52-70,16,two point jumper,True,8,False,True
+2014-11-15,2.3,Indiana Pacers,Milwaukee Bucks,1,0-4,2,two point jumper,True,16,True,False
+2014-11-15,6.85,Indiana Pacers,Milwaukee Bucks,1,12-14,1,free throw,True,15,True,False
+2014-11-15,6.85,Indiana Pacers,Milwaukee Bucks,1,12-15,2,free throw,True,15,True,False
+2014-11-15,19.5666666667,Indiana Pacers,Milwaukee Bucks,2,32-41,7,two point shot,True,5,True,False
+2014-11-15,25.2666666667,Indiana Pacers,Milwaukee Bucks,3,41-52,9,two point jumper,True,12,False,False
+2014-11-15,26.25,Indiana Pacers,Milwaukee Bucks,3,46-52,5,free throw,True,15,False,False
+2014-11-15,26.25,Indiana Pacers,Milwaukee Bucks,3,46-53,6,free throw,True,15,True,False
+2014-11-25,3.08333333333,Indiana Pacers,Minnesota Timberwolves,1,7-9,0,two point jumper,True,20,True,True
+2014-11-25,6.31666666667,Indiana Pacers,Minnesota Timberwolves,1,10-20,8,two point shot,True,1,False,True
+2014-11-25,6.56666666667,Indiana Pacers,Minnesota Timberwolves,1,10-20,8,two point jumper,True,17,False,True
+2014-11-25,22.35,Indiana Pacers,Minnesota Timberwolves,2,39-44,3,layup,True,0,True,True
+2014-11-25,22.9833333333,Indiana Pacers,Minnesota Timberwolves,2,41-46,3,two point shot,True,12,True,True
+2014-11-25,23.3666666667,Indiana Pacers,Minnesota Timberwolves,2,44-48,2,layup,True,0,True,True
+2014-11-25,26.0166666667,Indiana Pacers,Minnesota Timberwolves,3,48-50,0,two point jumper,True,1,False,True
+2014-11-25,31.8166666667,Indiana Pacers,Minnesota Timberwolves,3,61-62,0,free throw,True,15,True,True
+2014-11-25,31.8166666667,Indiana Pacers,Minnesota Timberwolves,3,61-62,0,free throw,True,15,False,True
+2014-11-25,33.9833333333,Indiana Pacers,Minnesota Timberwolves,3,66-71,3,layup,True,0,True,True
+2014-11-25,34.5,Indiana Pacers,Minnesota Timberwolves,3,66-71,3,two point jumper,True,18,False,True
+2014-11-25,35.1,Indiana Pacers,Minnesota Timberwolves,3,66-73,5,two point jumper,True,6,True,True
+2014-11-25,35.6333333333,Indiana Pacers,Minnesota Timberwolves,3,68-73,3,unknown,True,13,False,True
+2014-11-25,46.4166666667,Indiana Pacers,Minnesota Timberwolves,4,82-98,13,three point jumper,True,23,False,True
+2014-11-27,0.383333333333,Indiana Pacers,Charlotte Bobcats,1,2-0,0,two point jumper,False,18,True,True
+2014-11-27,1.06666666667,Indiana Pacers,Charlotte Bobcats,1,2-0,0,two point jumper,False,20,False,True
+2014-11-27,6.16666666667,Indiana Pacers,Charlotte Bobcats,1,6-4,1,free throw,False,15,False,True
+2014-11-27,6.16666666667,Indiana Pacers,Charlotte Bobcats,1,7-4,2,free throw,False,15,True,True
+2014-11-27,7.1,Indiana Pacers,Charlotte Bobcats,1,7-7,-2,two point jumper,False,11,False,True
+2014-11-27,21.2,Indiana Pacers,Charlotte Bobcats,2,39-30,8,free throw,False,15,False,True
+2014-11-27,21.2,Indiana Pacers,Charlotte Bobcats,2,40-30,9,free throw,False,15,True,True
+2014-11-27,21.7,Indiana Pacers,Charlotte Bobcats,2,40-32,6,two point jumper,False,3,False,True
+2014-11-27,21.75,Indiana Pacers,Charlotte Bobcats,2,40-32,6,hook shot,False,1,False,True
+2014-11-27,26.2,Indiana Pacers,Charlotte Bobcats,3,44-40,3,free throw,False,15,True,True
+2014-11-27,26.2,Indiana Pacers,Charlotte Bobcats,3,44-40,3,free throw,False,15,False,True
+2014-11-27,26.8166666667,Indiana Pacers,Charlotte Bobcats,3,45-40,4,free throw,False,15,True,True
+2014-11-27,26.8166666667,Indiana Pacers,Charlotte Bobcats,3,46-40,5,free throw,False,15,True,True
+2014-11-27,27.25,Indiana Pacers,Charlotte Bobcats,3,49-40,7,layup,False,0,True,True
+2014-11-27,29.1,Indiana Pacers,Charlotte Bobcats,3,51-42,7,two point jumper,False,17,True,True
+2014-11-27,33.2166666667,Indiana Pacers,Charlotte Bobcats,3,59-46,11,two point jumper,False,7,False,True
+2014-11-27,33.8,Indiana Pacers,Charlotte Bobcats,3,59-46,11,layup,False,0,False,True
+2014-11-29,1.63333333333,Indiana Pacers,Washington Wizards,1,5-4,-3,two point jumper,True,1,True,True
+2014-11-29,19.6333333333,Indiana Pacers,Washington Wizards,2,34-38,2,two point jumper,True,17,False,True
+2014-11-29,20.6833333333,Indiana Pacers,Washington Wizards,2,36-41,3,two point jumper,True,17,False,True
+2014-11-29,21.9666666667,Indiana Pacers,Washington Wizards,2,36-43,5,two point jumper,True,5,True,True
+2014-11-29,23.55,Indiana Pacers,Washington Wizards,2,36-43,5,two point shot,True,14,False,True
+2014-11-29,24.7,Indiana Pacers,Washington Wizards,3,36-43,5,two point shot,True,11,False,True
+2014-11-29,33.5333333333,Indiana Pacers,Washington Wizards,3,51-65,12,two point shot,True,17,True,True
+2014-11-29,34.15,Indiana Pacers,Washington Wizards,3,51-65,12,two point jumper,True,1,False,True
+2014-11-29,34.4666666667,Indiana Pacers,Washington Wizards,3,51-67,14,two point jumper,True,1,True,True
+2014-12-02,1.96666666667,Indiana Pacers,Portland Trail Blazers,1,2-2,-2,hook shot,False,7,False,False
+2014-12-02,8.21666666667,Indiana Pacers,Portland Trail Blazers,1,16-11,3,two point jumper,False,20,True,False
+2014-12-02,20.0,Indiana Pacers,Portland Trail Blazers,2,37-32,3,two point jumper,False,20,False,False
+2014-12-02,20.4833333333,Indiana Pacers,Portland Trail Blazers,2,39-34,3,two point jumper,False,1,True,False
+2014-12-02,20.9666666667,Indiana Pacers,Portland Trail Blazers,2,39-36,1,two point jumper,False,1,False,False
+2014-12-02,21.4666666667,Indiana Pacers,Portland Trail Blazers,2,41-36,3,layup,False,0,True,False
+2014-12-02,22.55,Indiana Pacers,Portland Trail Blazers,2,43-38,3,two point jumper,False,19,True,False
+2014-12-02,24.2,Indiana Pacers,Portland Trail Blazers,3,48-45,1,two point jumper,False,18,True,False
+2014-12-02,27.6833333333,Indiana Pacers,Portland Trail Blazers,3,54-47,5,two point jumper,False,21,False,False
+2014-12-02,28.2833333333,Indiana Pacers,Portland Trail Blazers,3,56-49,5,two point shot,False,4,True,False
+2014-12-02,31.45,Indiana Pacers,Portland Trail Blazers,3,66-60,4,two point jumper,False,18,False,False
+2014-12-02,35.05,Indiana Pacers,Portland Trail Blazers,3,70-67,1,two point jumper,False,1,False,False
+2014-12-02,47.5166666667,Indiana Pacers,Portland Trail Blazers,4,96-101,-7,two point jumper,False,17,False,False
+2014-12-02,48.0,Indiana Pacers,Portland Trail Blazers,4,102-106,-7,three point jumper,False,23,False,False
+2014-12-04,2.38333333333,Indiana Pacers,Utah Jazz,1,2-5,-5,two point jumper,False,19,False,True
+2014-12-04,6.98333333333,Indiana Pacers,Utah Jazz,1,9-15,-8,two point jumper,False,10,False,True
+2014-12-04,18.5666666667,Indiana Pacers,Utah Jazz,2,31-37,-8,two point jumper,False,19,False,True
+2014-12-04,18.9833333333,Indiana Pacers,Utah Jazz,2,31-40,-11,two point shot,False,1,False,True
+2014-12-04,21.45,Indiana Pacers,Utah Jazz,2,37-46,-11,two point jumper,False,8,False,True
+2014-12-04,21.8,Indiana Pacers,Utah Jazz,2,39-46,-9,layup,False,0,True,True
+2014-12-04,24.3166666667,Indiana Pacers,Utah Jazz,3,47-48,-3,two point jumper,False,10,False,True
+2014-12-04,28.8166666667,Indiana Pacers,Utah Jazz,3,57-54,1,two point jumper,False,19,True,True
+2014-12-04,33.4,Indiana Pacers,Utah Jazz,3,66-63,1,two point jumper,False,11,True,True
+2014-12-04,34.0833333333,Indiana Pacers,Utah Jazz,3,68-63,3,two point jumper,False,20,True,True
+2014-12-04,34.5833333333,Indiana Pacers,Utah Jazz,3,68-63,3,two point jumper,False,14,False,True
+2014-12-04,35.1,Indiana Pacers,Utah Jazz,3,68-65,1,two point jumper,False,16,False,True
+2014-12-04,43.5333333333,Indiana Pacers,Utah Jazz,4,84-76,6,two point jumper,False,14,False,True
+2014-12-04,44.35,Indiana Pacers,Utah Jazz,4,88-76,10,two point jumper,False,20,True,True
+2014-12-07,1.11666666667,Indiana Pacers,San Antonio Spurs,1,2-2,-2,two point jumper,False,19,True,True
+2014-12-07,4.03333333333,Indiana Pacers,San Antonio Spurs,1,6-6,-2,two point jumper,False,15,False,True
+2014-12-07,5.35,Indiana Pacers,San Antonio Spurs,1,10-13,-5,two point jumper,False,19,True,True
+2014-12-07,16.7333333333,Indiana Pacers,San Antonio Spurs,2,25-35,-11,free throw,False,15,True,True
+2014-12-07,16.7333333333,Indiana Pacers,San Antonio Spurs,2,26-35,-10,free throw,False,15,True,True
+2014-12-07,17.6666666667,Indiana Pacers,San Antonio Spurs,2,28-37,-11,layup,False,0,True,True
+2014-12-07,19.9833333333,Indiana Pacers,San Antonio Spurs,2,34-37,-5,two point jumper,False,17,True,True
+2014-12-07,24.25,Indiana Pacers,San Antonio Spurs,3,54-48,4,two point jumper,False,12,True,True
+2014-12-07,24.25,Indiana Pacers,San Antonio Spurs,3,54-48,5,free throw,False,15,False,True
+2014-12-07,27.25,Indiana Pacers,San Antonio Spurs,3,66-52,12,two point jumper,False,18,True,True
+2014-12-07,28.0333333333,Indiana Pacers,San Antonio Spurs,3,68-52,14,dunk,False,0,True,True
+2014-12-07,28.7333333333,Indiana Pacers,San Antonio Spurs,3,68-54,12,two point jumper,False,1,False,True
+2014-12-07,29.8166666667,Indiana Pacers,San Antonio Spurs,3,68-54,12,two point jumper,False,15,False,True
+2014-12-07,37.9,Indiana Pacers,San Antonio Spurs,4,91-70,19,two point shot,False,16,True,True
+2014-12-07,41.5666666667,Indiana Pacers,San Antonio Spurs,4,101-78,21,two point jumper,False,14,True,True
+2014-12-08,1.51666666667,Indiana Pacers,Oklahoma City Thunder,1,2-2,-2,two point shot,False,6,True,True
+2014-12-08,17.8833333333,Indiana Pacers,Oklahoma City Thunder,2,28-43,-17,two point shot,False,7,True,True
+2014-12-08,17.8833333333,Indiana Pacers,Oklahoma City Thunder,2,29-43,-15,free throw,False,15,True,True
+2014-12-08,20.4833333333,Indiana Pacers,Oklahoma City Thunder,2,33-48,-17,two point jumper,False,1,False,True
+2014-12-08,21.85,Indiana Pacers,Oklahoma City Thunder,2,33-50,-19,layup,False,0,False,True
+2014-12-08,25.4333333333,Indiana Pacers,Oklahoma City Thunder,3,41-60,-21,two point jumper,False,1,True,True
+2014-12-08,26.1166666667,Indiana Pacers,Oklahoma City Thunder,3,41-62,-23,two point jumper,False,1,False,True
+2014-12-08,26.8833333333,Indiana Pacers,Oklahoma City Thunder,3,43-62,-21,two point shot,False,1,True,True
+2014-12-08,28.6666666667,Indiana Pacers,Oklahoma City Thunder,3,50-66,-18,two point shot,False,1,True,True
+2014-12-08,31.1333333333,Indiana Pacers,Oklahoma City Thunder,3,55-70,-17,two point shot,False,1,False,True
+2014-12-08,31.7333333333,Indiana Pacers,Oklahoma City Thunder,3,55-73,-20,two point jumper,False,20,False,True
+2014-12-10,2.5,Indiana Pacers,Miami Heat,1,7-5,-4,two point shot,True,1,True,True
+2014-12-10,15.8166666667,Indiana Pacers,Miami Heat,2,36-27,-10,free throw,True,15,True,True
+2014-12-10,15.8166666667,Indiana Pacers,Miami Heat,2,36-27,-10,free throw,True,15,False,True
+2014-12-10,17.0666666667,Indiana Pacers,Miami Heat,2,36-29,-9,two point shot,True,1,True,True
+2014-12-10,22.1,Indiana Pacers,Miami Heat,2,44-32,-13,free throw,True,15,True,True
+2014-12-10,22.1,Indiana Pacers,Miami Heat,2,44-33,-12,free throw,True,15,True,True
+2014-12-10,22.9,Indiana Pacers,Miami Heat,2,44-34,-11,free throw,True,15,True,True
+2014-12-10,22.9,Indiana Pacers,Miami Heat,2,44-35,-10,free throw,True,15,True,True
+2014-12-10,23.45,Indiana Pacers,Miami Heat,2,46-37,-11,two point shot,True,10,True,True
+2014-12-10,26.9333333333,Indiana Pacers,Miami Heat,3,53-49,-6,two point jumper,True,20,True,True
+2014-12-10,33.25,Indiana Pacers,Miami Heat,3,59-62,1,two point jumper,True,21,False,True
+2014-12-10,44.9333333333,Indiana Pacers,Miami Heat,4,77-86,7,layup,True,0,True,True
+2014-12-10,47.3666666667,Indiana Pacers,Miami Heat,4,81-88,5,two point jumper,True,1,True,True
+2014-12-13,4.38333333333,Indiana Pacers,Charlotte Bobcats,1,4-11,5,two point jumper,True,3,False,True
+2014-12-13,4.38333333333,Indiana Pacers,Charlotte Bobcats,1,4-12,7,free throw,True,15,True,True
+2014-12-13,4.38333333333,Indiana Pacers,Charlotte Bobcats,1,4-13,8,free throw,True,15,True,True
+2014-12-13,7.73333333333,Indiana Pacers,Charlotte Bobcats,1,13-19,4,two point shot,True,7,False,True
+2014-12-13,22.3833333333,Indiana Pacers,Charlotte Bobcats,2,49-52,1,two point shot,True,4,True,True
+2014-12-13,24.0,Indiana Pacers,Charlotte Bobcats,2,55-56,-2,three point jumper,True,23,False,True
+2014-12-13,26.3833333333,Indiana Pacers,Charlotte Bobcats,3,63-61,-4,two point jumper,True,1,True,True
+2014-12-13,27.95,Indiana Pacers,Charlotte Bobcats,3,69-63,-8,two point jumper,True,11,False,True
+2014-12-13,31.2166666667,Indiana Pacers,Charlotte Bobcats,3,70-72,0,two point jumper,True,7,True,True
+2014-12-13,33.2,Indiana Pacers,Charlotte Bobcats,3,72-76,2,two point shot,True,5,True,True
+2014-12-13,35.2833333333,Indiana Pacers,Charlotte Bobcats,3,74-79,3,two point jumper,True,20,False,True
+2014-12-13,44.2333333333,Indiana Pacers,Charlotte Bobcats,4,90-93,2,free throw,True,15,True,True
+2014-12-13,44.2333333333,Indiana Pacers,Charlotte Bobcats,4,90-94,3,free throw,True,15,True,True
+2014-12-13,45.0166666667,Indiana Pacers,Charlotte Bobcats,4,92-96,2,two point jumper,True,10,True,True
+2014-12-18,1.15,Indiana Pacers,Miami Heat,1,1-2,-2,free throw,False,15,True,False
+2014-12-18,1.15,Indiana Pacers,Miami Heat,1,2-2,-1,free throw,False,15,True,False
+2014-12-18,2.25,Indiana Pacers,Miami Heat,1,2-4,-4,two point jumper,False,20,False,False
+2014-12-18,4.03333333333,Indiana Pacers,Miami Heat,1,6-6,-2,two point shot,False,15,False,False
+2014-12-18,7.31666666667,Indiana Pacers,Miami Heat,1,15-14,-1,layup,False,0,True,False
+2014-12-18,11.4166666667,Indiana Pacers,Miami Heat,1,24-20,2,two point shot,False,13,True,False
+2014-12-18,19.0,Indiana Pacers,Miami Heat,2,40-35,3,two point jumper,False,17,False,False
+2014-12-18,20.0166666667,Indiana Pacers,Miami Heat,2,41-35,5,free throw,False,15,True,False
+2014-12-18,20.0166666667,Indiana Pacers,Miami Heat,2,42-35,6,free throw,False,15,True,False
+2014-12-18,24.7666666667,Indiana Pacers,Miami Heat,3,52-41,10,free throw,False,15,False,False
+2014-12-18,24.7666666667,Indiana Pacers,Miami Heat,3,53-41,11,free throw,False,15,True,False
+2014-12-18,25.8666666667,Indiana Pacers,Miami Heat,3,53-45,6,two point jumper,False,16,False,False
+2014-12-18,27.8166666667,Indiana Pacers,Miami Heat,3,60-49,9,two point jumper,False,12,True,False
+2014-12-18,30.2,Indiana Pacers,Miami Heat,3,68-53,13,two point shot,False,4,True,False
+2014-12-18,30.9833333333,Indiana Pacers,Miami Heat,3,70-56,12,two point jumper,False,16,True,False
+2014-12-18,31.7333333333,Indiana Pacers,Miami Heat,3,72-58,12,layup,False,0,True,False
+2014-12-18,32.4166666667,Indiana Pacers,Miami Heat,3,72-61,9,two point jumper,False,16,False,False
+2014-12-18,35.55,Indiana Pacers,Miami Heat,3,76-69,5,two point shot,False,17,True,False
+2014-12-18,42.0666666667,Indiana Pacers,Miami Heat,4,84-78,4,two point shot,False,9,False,False
+2014-12-18,44.6666666667,Indiana Pacers,Miami Heat,4,92-85,5,two point shot,False,12,True,False
+2014-12-18,46.3333333333,Indiana Pacers,Miami Heat,4,92-89,1,two point jumper,False,13,False,False
+2014-12-18,47.2666666667,Indiana Pacers,Miami Heat,4,93-95,-3,free throw,False,15,True,False
+2014-12-18,47.2666666667,Indiana Pacers,Miami Heat,4,94-95,-2,free throw,False,15,True,False
+2014-12-20,1.75,Indiana Pacers,Houston Rockets,1,7-4,-5,two point shot,True,1,True,False
+2014-12-20,2.5,Indiana Pacers,Houston Rockets,1,7-4,-5,two point jumper,True,10,False,False
+2014-12-20,4.63333333333,Indiana Pacers,Houston Rockets,1,11-10,-3,layup,True,0,True,False
+2014-12-20,5.85,Indiana Pacers,Houston Rockets,1,11-14,1,two point jumper,True,1,True,False
+2014-12-20,17.9166666667,Indiana Pacers,Houston Rockets,2,34-41,5,two point jumper,True,7,False,False
+2014-12-20,23.1666666667,Indiana Pacers,Houston Rockets,2,41-53,10,layup,True,0,True,False
+2014-12-20,24.2166666667,Indiana Pacers,Houston Rockets,3,45-58,11,two point jumper,True,18,True,False
+2014-12-20,30.2833333333,Indiana Pacers,Houston Rockets,3,53-76,21,layup,True,0,True,False
+2014-01-04,1.06666666667,Indiana Pacers,New Orleans Pelicans,1,2-2,-2,two point jumper,True,17,True,True
+2014-01-04,2.46666666667,Indiana Pacers,New Orleans Pelicans,1,4-6,0,two point jumper,True,1,False,True
+2014-01-04,4.2,Indiana Pacers,New Orleans Pelicans,1,8-6,-4,two point jumper,True,5,False,True
+2014-01-04,18.8166666667,Indiana Pacers,New Orleans Pelicans,2,40-33,-9,two point jumper,True,21,True,True
+2014-01-04,19.4166666667,Indiana Pacers,New Orleans Pelicans,2,42-33,-11,two point jumper,True,17,False,True
+2014-01-04,24.6166666667,Indiana Pacers,New Orleans Pelicans,3,51-46,-7,two point jumper,True,21,True,True
+2014-01-04,32.7,Indiana Pacers,New Orleans Pelicans,3,57-65,6,layup,True,0,True,True
+2014-01-08,3.0,Indiana Pacers,Atlanta Hawks,1,0-4,-6,two point jumper,False,20,False,False
+2014-01-08,5.21666666667,Indiana Pacers,Atlanta Hawks,1,3-14,-13,two point jumper,False,20,False,False
+2014-01-08,7.78333333333,Indiana Pacers,Atlanta Hawks,1,3-14,-13,two point jumper,False,17,False,False
+2014-01-08,19.9166666667,Indiana Pacers,Atlanta Hawks,2,27-42,-17,layup,False,0,False,False
+2014-01-08,20.3333333333,Indiana Pacers,Atlanta Hawks,2,29-44,-17,two point jumper,False,16,True,False
+2014-01-08,24.25,Indiana Pacers,Atlanta Hawks,3,32-49,-19,two point shot,False,15,False,False
+2014-01-08,27.15,Indiana Pacers,Atlanta Hawks,3,38-59,-23,two point jumper,False,4,False,False
+2014-01-08,33.0,Indiana Pacers,Atlanta Hawks,3,57-71,-16,two point jumper,False,18,True,False
+2014-01-08,34.7666666667,Indiana Pacers,Atlanta Hawks,3,62-75,-15,two point shot,False,5,True,False
+2014-01-08,46.9,Indiana Pacers,Atlanta Hawks,4,85-95,-12,two point shot,False,1,True,False
+2014-01-10,2.46666666667,Indiana Pacers,Washington Wizards,1,3-2,-3,layup,True,0,True,True
+2014-01-10,3.7,Indiana Pacers,Washington Wizards,1,6-4,-4,two point jumper,True,18,True,True
+2014-01-10,5.66666666667,Indiana Pacers,Washington Wizards,1,6-10,2,two point shot,True,1,True,True
+2014-01-10,7.41666666667,Indiana Pacers,Washington Wizards,1,8-14,4,two point jumper,True,16,True,True
+2014-01-10,22.2666666667,Indiana Pacers,Washington Wizards,2,34-39,4,free throw,True,15,False,True
+2014-01-10,22.2666666667,Indiana Pacers,Washington Wizards,2,34-39,4,free throw,True,15,False,True
+2014-01-10,23.1166666667,Indiana Pacers,Washington Wizards,2,36-43,5,two point jumper,True,5,True,True
+2014-01-10,24.8833333333,Indiana Pacers,Washington Wizards,3,37-45,6,layup,True,0,False,True
+2014-01-10,24.8833333333,Indiana Pacers,Washington Wizards,3,37-45,6,tip shot,True,0,False,True
+2014-01-10,24.9666666667,Indiana Pacers,Washington Wizards,3,37-47,8,two point shot,True,2,True,True
+2014-01-10,27.4,Indiana Pacers,Washington Wizards,3,40-50,8,two point jumper,True,17,True,True
+2014-01-10,28.5,Indiana Pacers,Washington Wizards,3,40-54,12,layup,True,0,True,True
+2014-01-10,28.8833333333,Indiana Pacers,Washington Wizards,3,40-56,14,dunk,True,0,True,True
+2014-01-10,33.75,Indiana Pacers,Washington Wizards,3,47-64,16,free throw,True,15,True,True
+2014-01-10,33.75,Indiana Pacers,Washington Wizards,3,47-65,17,free throw,True,15,True,True
+2014-01-10,34.8833333333,Indiana Pacers,Washington Wizards,3,49-65,14,unknown,True,12,False,True
+2014-01-10,35.7333333333,Indiana Pacers,Washington Wizards,3,51-65,12,two point jumper,True,12,False,True
+2014-01-25,1.06666666667,Indiana Pacers,Denver Nuggets,1,0-5,-7,unknown,False,9,False,True
+2014-01-25,3.95,Indiana Pacers,Denver Nuggets,1,2-7,-7,two point jumper,False,7,False,True
+2014-01-25,4.6,Indiana Pacers,Denver Nuggets,1,4-10,-8,two point shot,False,13,True,True
+2014-01-25,4.98333333333,Indiana Pacers,Denver Nuggets,1,4-12,-10,two point shot,False,1,False,True
+2014-01-25,7.28333333333,Indiana Pacers,Denver Nuggets,1,10-14,-6,two point jumper,False,12,False,True
+2014-01-25,18.7333333333,Indiana Pacers,Denver Nuggets,2,26-40,-16,two point jumper,False,1,False,True
+2014-01-25,20.9833333333,Indiana Pacers,Denver Nuggets,2,32-46,-16,two point jumper,False,16,False,True
+2014-01-25,24.7,Indiana Pacers,Denver Nuggets,3,40-55,-17,two point jumper,False,16,True,True
+2014-01-25,26.7666666667,Indiana Pacers,Denver Nuggets,3,51-58,-8,free throw,False,15,True,True
+2014-01-25,26.7666666667,Indiana Pacers,Denver Nuggets,3,52-58,-7,free throw,False,15,True,True
+2014-01-25,27.3,Indiana Pacers,Denver Nuggets,3,54-59,-7,two point jumper,False,17,True,True
+2014-01-25,28.0,Indiana Pacers,Denver Nuggets,3,55-62,-8,free throw,False,15,True,True
+2014-01-25,28.0,Indiana Pacers,Denver Nuggets,3,56-62,-7,free throw,False,15,True,True
+2014-01-25,28.4833333333,Indiana Pacers,Denver Nuggets,3,58-65,-9,two point shot,False,8,True,True
+2014-01-25,30.9833333333,Indiana Pacers,Denver Nuggets,3,64-74,-12,two point shot,False,8,True,True
+2014-01-25,33.7333333333,Indiana Pacers,Denver Nuggets,3,69-81,-14,two point shot,False,1,False,True
+2014-01-25,35.15,Indiana Pacers,Denver Nuggets,3,74-86,-14,two point jumper,False,1,True,True
+2014-01-25,41.2,Indiana Pacers,Denver Nuggets,4,86-97,-13,two point jumper,False,17,False,True
+2014-01-25,43.45,Indiana Pacers,Denver Nuggets,4,91-97,-8,two point shot,False,1,False,True
+2014-01-25,43.75,Indiana Pacers,Denver Nuggets,4,91-97,-8,layup,False,0,False,True
+2014-01-25,46.0,Indiana Pacers,Denver Nuggets,4,94-104,-12,tip shot,False,0,False,True
+2014-01-25,46.05,Indiana Pacers,Denver Nuggets,4,94-106,-14,tip shot,False,0,False,True
+2014-02-03,2.7,Indiana Pacers,Orlando Magic,1,5-7,0,two point jumper,True,15,False,True
+2014-02-03,3.61666666667,Indiana Pacers,Orlando Magic,1,5-12,5,two point shot,True,3,True,True
+2014-02-03,6.85,Indiana Pacers,Orlando Magic,1,13-18,3,two point jumper,True,17,True,True
+2014-02-03,19.7333333333,Indiana Pacers,Orlando Magic,2,39-55,14,two point jumper,True,19,True,True
+2014-02-03,22.1,Indiana Pacers,Orlando Magic,2,45-57,10,two point jumper,True,1,False,True
+2014-02-03,23.3333333333,Indiana Pacers,Orlando Magic,2,47-59,10,two point jumper,True,13,True,True
+2014-02-03,25.2,Indiana Pacers,Orlando Magic,3,52-59,5,two point jumper,True,1,False,True
+2014-02-03,30.95,Indiana Pacers,Orlando Magic,3,58-63,3,two point jumper,True,3,False,True
+2014-02-03,31.6,Indiana Pacers,Orlando Magic,3,60-66,4,two point jumper,True,19,False,True
+2014-02-04,3.18333333333,Indiana Pacers,Atlanta Hawks,1,5-7,-4,two point jumper,False,1,False,True
+2014-02-04,3.7,Indiana Pacers,Atlanta Hawks,1,7-7,-2,two point jumper,False,18,True,True
+2014-02-04,5.73333333333,Indiana Pacers,Atlanta Hawks,1,9-11,-4,two point jumper,False,10,False,True
+2014-02-04,6.7,Indiana Pacers,Atlanta Hawks,1,11-11,-2,two point shot,False,1,False,True
+2014-02-04,8.7,Indiana Pacers,Atlanta Hawks,1,15-15,-2,two point jumper,False,19,True,True
+2014-02-04,20.2333333333,Indiana Pacers,Atlanta Hawks,2,31-30,-1,two point shot,False,11,False,True
+2014-02-04,22.0,Indiana Pacers,Atlanta Hawks,2,33-36,-5,two point shot,False,11,True,True
+2014-02-04,24.0,Indiana Pacers,Atlanta Hawks,2,42-43,-4,three point jumper,False,25,True,True
+2014-02-04,24.2,Indiana Pacers,Atlanta Hawks,3,42-43,-3,two point shot,False,1,False,True
+2014-02-04,26.5666666667,Indiana Pacers,Atlanta Hawks,3,49-47,0,two point jumper,False,18,True,True
+2014-02-04,27.8,Indiana Pacers,Atlanta Hawks,3,51-47,2,two point shot,False,10,True,True
+2014-02-04,27.8,Indiana Pacers,Atlanta Hawks,3,52-47,4,free throw,False,15,True,True
+2014-02-04,28.5666666667,Indiana Pacers,Atlanta Hawks,3,55-47,6,two point jumper,False,16,False,True
+2014-02-04,32.4,Indiana Pacers,Atlanta Hawks,3,59-51,6,two point shot,False,6,True,True
+2014-02-04,32.7833333333,Indiana Pacers,Atlanta Hawks,3,61-53,6,two point jumper,False,18,True,True
+2014-02-04,34.3333333333,Indiana Pacers,Atlanta Hawks,3,64-53,9,two point shot,False,17,False,True
+2014-02-04,45.9333333333,Indiana Pacers,Atlanta Hawks,4,80-74,4,two point shot,False,11,True,True
+2014-02-04,47.1833333333,Indiana Pacers,Atlanta Hawks,4,86-78,6,two point shot,False,1,True,True
+2014-02-04,47.6833333333,Indiana Pacers,Atlanta Hawks,4,86-81,2,three point jumper,False,23,False,True
+2014-02-07,4.7,Indiana Pacers,Portland Trail Blazers,1,8-6,-4,two point jumper,True,20,True,True
+2014-02-07,16.3833333333,Indiana Pacers,Portland Trail Blazers,2,32-29,-5,layup,True,0,True,True
+2014-02-07,16.3833333333,Indiana Pacers,Portland Trail Blazers,2,32-29,-4,free throw,True,15,False,True
+2014-02-07,16.8166666667,Indiana Pacers,Portland Trail Blazers,2,34-29,-6,free throw,True,15,False,True
+2014-02-07,16.8166666667,Indiana Pacers,Portland Trail Blazers,2,34-30,-5,free throw,True,15,True,True
+2014-02-07,17.75,Indiana Pacers,Portland Trail Blazers,2,36-32,-6,two point jumper,True,15,False,True
+2014-02-07,23.8666666667,Indiana Pacers,Portland Trail Blazers,2,48-45,-5,two point jumper,True,1,True,True
+2014-02-07,25.6166666667,Indiana Pacers,Portland Trail Blazers,3,50-49,-3,two point jumper,True,18,True,True
+2014-02-07,28.5,Indiana Pacers,Portland Trail Blazers,3,57-57,-2,two point shot,True,5,True,True
+2014-02-07,29.0666666667,Indiana Pacers,Portland Trail Blazers,3,59-59,-2,two point shot,True,5,True,True
+2014-02-07,29.0666666667,Indiana Pacers,Portland Trail Blazers,3,59-60,0,free throw,True,15,True,True
+2014-02-07,31.6,Indiana Pacers,Portland Trail Blazers,3,63-62,-3,two point jumper,True,18,True,True
+2014-02-07,40.5,Indiana Pacers,Portland Trail Blazers,4,85-77,-10,two point jumper,True,20,False,True
+2014-02-07,41.8833333333,Indiana Pacers,Portland Trail Blazers,4,89-82,-8,free throw,True,15,True,True
+2014-02-07,41.8833333333,Indiana Pacers,Portland Trail Blazers,4,89-83,-7,free throw,True,15,True,True
+2014-02-07,42.2833333333,Indiana Pacers,Portland Trail Blazers,4,89-85,-6,two point jumper,True,17,True,True
+2014-02-07,44.1,Indiana Pacers,Portland Trail Blazers,4,91-91,-2,two point jumper,True,19,True,True
+2014-02-07,45.45,Indiana Pacers,Portland Trail Blazers,4,94-95,-1,two point shot,True,1,True,True
+2014-02-07,45.95,Indiana Pacers,Portland Trail Blazers,4,97-97,-2,two point jumper,True,18,True,True
+2014-02-07,48.4166666667,Indiana Pacers,Portland Trail Blazers,5,105-105,-2,two point jumper,True,19,True,True
+2014-02-07,50.0166666667,Indiana Pacers,Portland Trail Blazers,5,105-107,0,two point jumper,True,11,False,True
+2014-02-07,51.3833333333,Indiana Pacers,Portland Trail Blazers,5,107-111,2,dunk,True,0,True,True
+2014-02-09,5.1,Indiana Pacers,Orlando Magic,1,15-10,3,two point jumper,False,20,True,False
+2014-02-09,7.13333333333,Indiana Pacers,Orlando Magic,1,15-19,-6,two point jumper,False,11,False,False
+2014-02-09,8.26666666667,Indiana Pacers,Orlando Magic,1,19-23,-6,two point jumper,False,18,True,False
+2014-02-09,8.76666666667,Indiana Pacers,Orlando Magic,1,19-23,-6,two point jumper,False,16,False,False
+2014-02-09,20.8333333333,Indiana Pacers,Orlando Magic,2,48-43,4,free throw,False,15,False,False
+2014-02-09,20.8333333333,Indiana Pacers,Orlando Magic,2,49-43,5,free throw,False,15,True,False
+2014-02-09,22.1166666667,Indiana Pacers,Orlando Magic,2,49-43,4,two point jumper,False,19,False,False
+2014-02-09,25.0,Indiana Pacers,Orlando Magic,3,54-43,9,two point jumper,False,13,True,False
+2014-02-09,29.1333333333,Indiana Pacers,Orlando Magic,3,65-52,11,two point shot,False,10,False,False
+2014-02-09,30.45,Indiana Pacers,Orlando Magic,3,66-54,10,two point jumper,False,18,False,False
+2014-02-09,32.25,Indiana Pacers,Orlando Magic,3,71-54,15,layup,False,0,True,False
+2014-02-09,41.9833333333,Indiana Pacers,Orlando Magic,4,80-86,-7,free throw,False,15,True,False
+2014-02-09,41.9833333333,Indiana Pacers,Orlando Magic,4,81-86,-6,free throw,False,15,True,False
+2014-02-09,43.7333333333,Indiana Pacers,Orlando Magic,4,83-88,-7,two point jumper,False,9,True,False
+2014-02-09,45.5166666667,Indiana Pacers,Orlando Magic,4,83-88,-7,two point shot,False,6,False,False
+2014-02-09,45.75,Indiana Pacers,Orlando Magic,4,83-88,-7,two point jumper,False,18,False,False
+2014-02-09,46.9333333333,Indiana Pacers,Orlando Magic,4,86-92,-7,free throw,False,15,False,False
+2014-02-09,46.9333333333,Indiana Pacers,Orlando Magic,4,87-92,-6,free throw,False,15,True,False
+2014-02-10,1.55,Indiana Pacers,Denver Nuggets,1,0-2,0,two point shot,True,8,True,False
+2014-02-10,3.65,Indiana Pacers,Denver Nuggets,1,5-10,3,two point jumper,True,21,True,False
+2014-02-10,4.48333333333,Indiana Pacers,Denver Nuggets,1,7-10,1,two point jumper,True,6,False,False
+2014-02-10,5.73333333333,Indiana Pacers,Denver Nuggets,1,9-10,-1,two point jumper,True,13,False,False
+2014-02-10,6.25,Indiana Pacers,Denver Nuggets,1,11-12,-1,two point jumper,True,1,True,False
+2014-02-10,6.73333333333,Indiana Pacers,Denver Nuggets,1,11-14,1,two point shot,True,8,True,False
+2014-02-10,8.03333333333,Indiana Pacers,Denver Nuggets,1,15-18,1,two point shot,True,1,True,False
+2014-02-10,9.48333333333,Indiana Pacers,Denver Nuggets,1,17-24,5,layup,True,0,True,False
+2014-02-10,9.48333333333,Indiana Pacers,Denver Nuggets,1,17-25,7,free throw,True,15,True,False
+2014-02-10,10.3,Indiana Pacers,Denver Nuggets,1,18-27,7,two point jumper,True,19,True,False
+2014-02-10,10.8333333333,Indiana Pacers,Denver Nuggets,1,18-29,9,two point jumper,True,1,True,False
+2014-02-10,20.2833333333,Indiana Pacers,Denver Nuggets,2,34-47,11,layup,True,0,True,False
+2014-02-10,21.4666666667,Indiana Pacers,Denver Nuggets,2,36-51,13,two point jumper,True,1,True,False
+2014-02-10,25.3333333333,Indiana Pacers,Denver Nuggets,3,43-64,20,free throw,True,15,True,False
+2014-02-10,25.3333333333,Indiana Pacers,Denver Nuggets,3,43-65,21,free throw,True,15,True,False
+2014-02-10,28.0,Indiana Pacers,Denver Nuggets,3,48-71,21,two point shot,True,8,True,False
+2014-02-12,2.95,Indiana Pacers,Dallas Mavericks,1,2-1,-2,free throw,True,15,True,False
+2014-02-12,2.95,Indiana Pacers,Dallas Mavericks,1,2-2,-1,free throw,True,15,True,False
+2014-02-12,7.56666666667,Indiana Pacers,Dallas Mavericks,1,9-12,1,two point jumper,True,1,False,False
+2014-02-12,18.2333333333,Indiana Pacers,Dallas Mavericks,2,31-27,-6,two point jumper,True,11,False,False
+2014-02-12,18.5666666667,Indiana Pacers,Dallas Mavericks,2,31-29,-4,two point jumper,True,9,True,False
+2014-02-12,20.15,Indiana Pacers,Dallas Mavericks,2,37-36,-3,two point jumper,True,1,True,False
+2014-02-12,20.85,Indiana Pacers,Dallas Mavericks,2,37-36,-3,two point jumper,True,6,False,False
+2014-02-12,25.4666666667,Indiana Pacers,Dallas Mavericks,3,46-44,-4,two point jumper,True,15,True,False
+2014-02-12,28.6666666667,Indiana Pacers,Dallas Mavericks,3,50-49,-3,two point jumper,True,20,True,False
+2014-02-12,29.3166666667,Indiana Pacers,Dallas Mavericks,3,52-51,-3,two point jumper,True,16,True,False
+2014-02-12,30.9833333333,Indiana Pacers,Dallas Mavericks,3,53-53,-2,two point jumper,True,19,False,False
+2014-02-12,33.4,Indiana Pacers,Dallas Mavericks,3,57-60,1,two point jumper,True,21,False,False
+2014-02-12,44.45,Indiana Pacers,Dallas Mavericks,4,74-66,-10,layup,True,0,False,False
+2014-02-18,1.33333333333,Indiana Pacers,Atlanta Hawks,1,2-2,-2,two point jumper,True,1,True,False
+2014-02-18,3.65,Indiana Pacers,Atlanta Hawks,1,5-13,6,two point jumper,True,1,True,False
+2014-02-18,5.53333333333,Indiana Pacers,Atlanta Hawks,1,5-22,15,two point jumper,True,1,True,False
+2014-02-18,9.95,Indiana Pacers,Atlanta Hawks,1,17-32,14,free throw,True,15,True,False
+2014-02-18,9.95,Indiana Pacers,Atlanta Hawks,1,17-33,15,free throw,True,15,True,False
+2014-02-18,11.0,Indiana Pacers,Atlanta Hawks,1,21-33,10,two point jumper,True,10,False,False
+2014-02-18,11.5166666667,Indiana Pacers,Atlanta Hawks,1,21-35,12,two point jumper,True,9,True,False
+2014-02-18,24.1333333333,Indiana Pacers,Atlanta Hawks,3,49-59,8,two point jumper,True,12,True,False
+2014-02-18,25.15,Indiana Pacers,Atlanta Hawks,3,52-63,9,two point jumper,True,1,True,False
+2014-02-18,25.15,Indiana Pacers,Atlanta Hawks,3,52-63,10,free throw,True,15,False,False
+2014-02-18,30.0333333333,Indiana Pacers,Atlanta Hawks,3,63-76,12,free throw,True,15,True,False
+2014-02-18,30.0333333333,Indiana Pacers,Atlanta Hawks,3,63-76,12,free throw,True,15,False,False
+2014-02-18,30.8166666667,Indiana Pacers,Atlanta Hawks,3,67-79,11,free throw,True,15,True,False
+2014-02-18,30.8166666667,Indiana Pacers,Atlanta Hawks,3,67-80,12,free throw,True,15,True,False
+2014-02-18,32.3166666667,Indiana Pacers,Atlanta Hawks,3,69-80,9,two point jumper,True,18,False,False
+2014-02-18,34.35,Indiana Pacers,Atlanta Hawks,3,73-80,5,two point jumper,True,10,False,False
+2014-02-19,2.25,Indiana Pacers,Minnesota Timberwolves,1,3-6,-5,two point jumper,False,8,False,True
+2014-02-19,15.5,Indiana Pacers,Minnesota Timberwolves,2,20-36,-18,two point jumper,False,10,False,True
+2014-02-19,17.1,Indiana Pacers,Minnesota Timberwolves,2,20-38,-20,layup,False,0,False,True
+2014-02-19,19.1333333333,Indiana Pacers,Minnesota Timberwolves,2,28-44,-18,two point shot,False,1,True,True
+2014-02-19,20.2,Indiana Pacers,Minnesota Timberwolves,2,32-44,-14,two point jumper,False,1,True,True
+2014-02-19,21.95,Indiana Pacers,Minnesota Timberwolves,2,37-46,-11,two point jumper,False,1,False,True
+2014-02-19,23.05,Indiana Pacers,Minnesota Timberwolves,2,39-50,-13,two point jumper,False,6,False,True
+2014-02-19,30.5333333333,Indiana Pacers,Minnesota Timberwolves,3,51-68,-19,two point jumper,False,19,False,True
+2014-02-19,41.9166666667,Indiana Pacers,Minnesota Timberwolves,4,79-94,-17,two point jumper,False,6,False,True
+2014-02-22,0.716666666667,Indiana Pacers,Milwaukee Bucks,1,4-2,0,layup,False,0,True,True
+2014-02-22,0.716666666667,Indiana Pacers,Milwaukee Bucks,1,5-2,2,free throw,False,15,True,True
+2014-02-22,2.83333333333,Indiana Pacers,Milwaukee Bucks,1,8-4,2,two point jumper,False,1,False,True
+2014-02-22,4.41666666667,Indiana Pacers,Milwaukee Bucks,1,10-7,1,layup,False,0,True,True
+2014-02-22,6.78333333333,Indiana Pacers,Milwaukee Bucks,1,16-11,3,two point jumper,False,15,True,True
+2014-02-22,10.9,Indiana Pacers,Milwaukee Bucks,1,24-15,7,two point jumper,False,1,True,True
+2014-02-22,11.25,Indiana Pacers,Milwaukee Bucks,1,25-17,7,free throw,False,15,True,True
+2014-02-22,11.25,Indiana Pacers,Milwaukee Bucks,1,26-17,8,free throw,False,15,True,True
+2014-02-22,22.4333333333,Indiana Pacers,Milwaukee Bucks,2,48-35,12,free throw,False,15,True,True
+2014-02-22,22.4333333333,Indiana Pacers,Milwaukee Bucks,2,49-35,13,free throw,False,15,True,True
+2014-02-22,23.05,Indiana Pacers,Milwaukee Bucks,2,49-36,11,two point jumper,False,18,False,True
+2014-02-22,28.2,Indiana Pacers,Milwaukee Bucks,3,57-50,5,two point shot,False,3,True,True
+2014-02-22,28.8166666667,Indiana Pacers,Milwaukee Bucks,3,59-52,5,layup,False,0,True,True
+2014-02-22,28.8166666667,Indiana Pacers,Milwaukee Bucks,3,60-52,7,free throw,False,15,True,True
+2014-02-22,30.5666666667,Indiana Pacers,Milwaukee Bucks,3,63-58,3,hook shot,False,4,False,True
+2014-02-22,32.3666666667,Indiana Pacers,Milwaukee Bucks,3,68-62,4,two point jumper,False,10,False,True
+2014-02-22,34.4833333333,Indiana Pacers,Milwaukee Bucks,3,75-64,9,two point shot,False,1,True,True
+2014-02-22,35.0333333333,Indiana Pacers,Milwaukee Bucks,3,75-64,9,two point jumper,False,19,False,True
+2014-02-22,41.6,Indiana Pacers,Milwaukee Bucks,4,90-82,7,free throw,False,15,True,True
+2014-02-22,41.6,Indiana Pacers,Milwaukee Bucks,4,91-82,8,free throw,False,15,True,True
+2014-02-22,42.2333333333,Indiana Pacers,Milwaukee Bucks,4,93-84,7,layup,False,0,True,True
+2014-02-22,42.6666666667,Indiana Pacers,Milwaukee Bucks,4,95-86,7,layup,False,0,True,True
+2014-02-22,45.15,Indiana Pacers,Milwaukee Bucks,4,101-91,8,two point jumper,False,6,True,True
+2014-02-22,47.2,Indiana Pacers,Milwaukee Bucks,4,107-98,7,two point jumper,False,18,True,True
+2014-02-22,47.3333333333,Indiana Pacers,Milwaukee Bucks,4,107-98,8,free throw,False,15,False,True
+2014-02-22,47.3333333333,Indiana Pacers,Milwaukee Bucks,4,107-98,8,free throw,False,15,False,True
+2014-02-27,2.9,Indiana Pacers,Milwaukee Bucks,1,5-9,2,two point jumper,True,17,True,False
+2014-02-27,8.35,Indiana Pacers,Milwaukee Bucks,1,13-20,5,two point jumper,True,1,False,False
+2014-02-27,9.65,Indiana Pacers,Milwaukee Bucks,1,13-24,9,layup,True,0,True,False
+2014-02-27,10.2166666667,Indiana Pacers,Milwaukee Bucks,1,15-26,9,layup,True,0,True,False
+2014-02-27,21.2833333333,Indiana Pacers,Milwaukee Bucks,2,38-48,8,two point jumper,True,1,True,False
+2014-02-27,25.8833333333,Indiana Pacers,Milwaukee Bucks,3,55-52,-5,layup,True,0,False,False
+2014-02-27,30.1666666667,Indiana Pacers,Milwaukee Bucks,3,64-60,-6,two point jumper,True,17,False,False
+2014-02-27,31.7333333333,Indiana Pacers,Milwaukee Bucks,3,66-64,-4,two point jumper,True,6,False,False
+2014-02-27,43.95,Indiana Pacers,Milwaukee Bucks,4,81-84,2,free throw,True,15,True,False
+2014-02-27,43.95,Indiana Pacers,Milwaukee Bucks,4,81-84,2,free throw,True,15,False,False

@@ -1,0 +1,720 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-01-02,3.63333333333,Chicago Bulls,Boston Celtics,1,4-8,2,unknown,True,8,False,True
+2014-01-02,4.95,Chicago Bulls,Boston Celtics,1,6-10,2,two point jumper,True,13,False,True
+2014-01-02,5.45,Chicago Bulls,Boston Celtics,1,6-12,4,layup,True,0,True,True
+2014-01-02,20.4833333333,Chicago Bulls,Boston Celtics,2,38-40,1,free throw,True,15,True,True
+2014-01-02,20.4833333333,Chicago Bulls,Boston Celtics,2,38-41,2,free throw,True,15,True,True
+2014-01-02,24.0,Chicago Bulls,Boston Celtics,2,45-48,0,three point jumper,True,58,False,True
+2014-01-02,24.7166666667,Chicago Bulls,Boston Celtics,3,47-50,1,layup,True,0,True,True
+2014-01-02,28.1333333333,Chicago Bulls,Boston Celtics,3,51-58,5,two point shot,True,1,True,True
+2014-01-02,28.85,Chicago Bulls,Boston Celtics,3,51-58,6,free throw,True,15,False,True
+2014-01-02,28.85,Chicago Bulls,Boston Celtics,3,51-59,7,free throw,True,15,True,True
+2014-01-02,29.75,Chicago Bulls,Boston Celtics,3,51-61,8,layup,True,0,True,True
+2014-01-02,36.3666666667,Chicago Bulls,Boston Celtics,4,62-72,8,layup,True,0,True,True
+2014-01-02,38.0833333333,Chicago Bulls,Boston Celtics,4,64-79,13,two point shot,True,1,True,True
+2014-01-02,38.7,Chicago Bulls,Boston Celtics,4,64-79,13,two point jumper,True,11,False,True
+2014-01-02,43.6666666667,Chicago Bulls,Boston Celtics,4,70-85,13,two point jumper,True,1,False,True
+2014-01-02,44.0333333333,Chicago Bulls,Boston Celtics,4,70-86,15,free throw,True,15,True,True
+2014-01-02,44.0333333333,Chicago Bulls,Boston Celtics,4,70-87,16,free throw,True,15,True,True
+2014-12-25,3.3,Chicago Bulls,Brooklyn Nets,1,5-5,-1,free throw,False,15,True,True
+2014-12-25,3.3,Chicago Bulls,Brooklyn Nets,1,6-5,0,free throw,False,15,True,True
+2014-12-25,3.93333333333,Chicago Bulls,Brooklyn Nets,1,6-7,-3,unknown,False,7,False,True
+2014-12-25,5.2,Chicago Bulls,Brooklyn Nets,1,8-11,-5,two point jumper,False,17,True,True
+2014-12-25,22.7333333333,Chicago Bulls,Brooklyn Nets,2,39-34,3,two point jumper,False,20,False,True
+2014-12-25,25.8833333333,Chicago Bulls,Brooklyn Nets,3,43-38,3,two point shot,False,6,True,True
+2014-12-25,28.8833333333,Chicago Bulls,Brooklyn Nets,3,49-48,-1,two point shot,False,10,True,True
+2014-12-25,34.2833333333,Chicago Bulls,Brooklyn Nets,3,71-56,14,free throw,False,15,True,True
+2014-12-25,34.2833333333,Chicago Bulls,Brooklyn Nets,3,72-56,15,free throw,False,15,True,True
+2014-12-25,45.7333333333,Chicago Bulls,Brooklyn Nets,4,95-75,18,two point jumper,False,18,False,True
+2014-02-13,5.85,Chicago Bulls,Brooklyn Nets,1,9-11,0,two point shot,True,1,True,True
+2014-02-13,5.85,Chicago Bulls,Brooklyn Nets,1,9-12,2,free throw,True,15,True,True
+2014-02-13,7.81666666667,Chicago Bulls,Brooklyn Nets,1,11-18,5,dunk,True,0,True,True
+2014-02-13,16.3833333333,Chicago Bulls,Brooklyn Nets,2,23-33,8,two point jumper,True,19,False,True
+2014-02-13,18.1,Chicago Bulls,Brooklyn Nets,2,25-36,10,free throw,True,15,True,True
+2014-02-13,18.1,Chicago Bulls,Brooklyn Nets,2,25-36,10,free throw,True,15,False,True
+2014-02-13,18.5,Chicago Bulls,Brooklyn Nets,2,26-36,8,layup,True,0,False,True
+2014-02-13,25.0,Chicago Bulls,Brooklyn Nets,3,44-54,8,two point jumper,True,6,False,True
+2014-02-13,28.5666666667,Chicago Bulls,Brooklyn Nets,3,53-58,3,two point shot,True,3,True,True
+2014-02-13,38.2,Chicago Bulls,Brooklyn Nets,4,65-73,6,two point shot,True,1,True,True
+2014-02-13,43.85,Chicago Bulls,Brooklyn Nets,4,72-82,8,two point shot,True,7,True,True
+2014-02-13,47.3166666667,Chicago Bulls,Brooklyn Nets,4,76-92,14,two point jumper,True,20,True,True
+2014-10-31,6.21666666667,Chicago Bulls,New York Knicks,1,7-14,5,layup,True,0,False,True
+2014-10-31,19.9833333333,Chicago Bulls,New York Knicks,2,27-35,6,two point jumper,True,17,False,True
+2014-10-31,21.2666666667,Chicago Bulls,New York Knicks,2,32-39,5,layup,True,0,True,True
+2014-10-31,28.0666666667,Chicago Bulls,New York Knicks,3,46-53,5,two point shot,True,3,True,True
+2014-10-31,41.4166666667,Chicago Bulls,New York Knicks,4,71-76,3,tip shot,True,0,False,True
+2014-10-31,45.9333333333,Chicago Bulls,New York Knicks,4,78-79,0,free throw,True,15,True,True
+2014-10-31,45.9333333333,Chicago Bulls,New York Knicks,4,78-80,1,free throw,True,15,True,True
+2014-10-31,46.85,Chicago Bulls,New York Knicks,4,80-80,-2,tip shot,True,0,False,True
+2014-12-11,6.91666666667,Chicago Bulls,New York Knicks,1,11-11,-2,two point shot,False,1,True,False
+2014-12-11,19.95,Chicago Bulls,New York Knicks,2,23-35,-13,free throw,False,15,True,False
+2014-12-11,19.95,Chicago Bulls,New York Knicks,2,24-35,-12,free throw,False,15,True,False
+2014-12-11,21.65,Chicago Bulls,New York Knicks,2,26-37,-13,two point shot,False,6,True,False
+2014-12-11,27.5833333333,Chicago Bulls,New York Knicks,3,37-55,-19,free throw,False,15,True,False
+2014-12-11,27.5833333333,Chicago Bulls,New York Knicks,3,38-55,-18,free throw,False,15,True,False
+2014-12-11,29.1666666667,Chicago Bulls,New York Knicks,3,39-59,-21,free throw,False,15,True,False
+2014-12-11,29.1666666667,Chicago Bulls,New York Knicks,3,39-59,-21,free throw,False,15,False,False
+2014-12-11,37.8,Chicago Bulls,New York Knicks,4,55-70,-16,free throw,False,15,True,False
+2014-12-11,37.8,Chicago Bulls,New York Knicks,4,55-70,-16,free throw,False,15,False,False
+2014-12-11,44.3666666667,Chicago Bulls,New York Knicks,4,74-74,-2,two point shot,False,1,True,False
+2014-03-02,2.31666666667,Chicago Bulls,New York Knicks,1,1-10,7,two point jumper,True,21,True,False
+2014-03-02,3.38333333333,Chicago Bulls,New York Knicks,1,1-12,9,hook shot,True,17,False,False
+2014-03-02,3.68333333333,Chicago Bulls,New York Knicks,1,1-14,11,layup,True,0,True,False
+2014-03-02,4.2,Chicago Bulls,New York Knicks,1,1-16,13,two point shot,True,2,True,False
+2014-03-02,13.0,Chicago Bulls,New York Knicks,2,18-40,21,free throw,True,15,True,False
+2014-03-02,13.0,Chicago Bulls,New York Knicks,2,18-41,22,free throw,True,15,True,False
+2014-03-02,15.3,Chicago Bulls,New York Knicks,2,23-44,20,free throw,True,15,False,False
+2014-03-02,15.3,Chicago Bulls,New York Knicks,2,23-45,21,free throw,True,15,True,False
+2014-03-02,17.95,Chicago Bulls,New York Knicks,2,34-49,13,tip shot,True,0,False,False
+2014-03-02,20.1833333333,Chicago Bulls,New York Knicks,2,40-51,9,two point jumper,True,21,False,False
+2014-03-02,20.8,Chicago Bulls,New York Knicks,2,42-53,9,two point jumper,True,23,True,False
+2014-03-02,24.6166666667,Chicago Bulls,New York Knicks,3,48-59,10,free throw,True,15,False,False
+2014-03-02,24.6166666667,Chicago Bulls,New York Knicks,3,48-60,11,free throw,True,15,True,False
+2014-03-02,27.15,Chicago Bulls,New York Knicks,3,50-64,12,two point jumper,True,19,False,False
+2014-03-02,28.45,Chicago Bulls,New York Knicks,3,54-66,10,two point jumper,True,18,False,False
+2014-03-02,38.5666666667,Chicago Bulls,New York Knicks,4,70-88,17,free throw,True,15,False,False
+2014-03-02,38.5666666667,Chicago Bulls,New York Knicks,4,70-89,18,free throw,True,15,True,False
+2014-03-02,41.45,Chicago Bulls,New York Knicks,4,74-91,15,two point jumper,True,16,False,False
+2014-11-02,1.43333333333,Chicago Bulls,Philadelphia 76ers,1,4-3,-1,two point shot,False,1,True,False
+2014-11-02,5.35,Chicago Bulls,Philadelphia 76ers,1,12-11,-1,two point jumper,False,18,True,False
+2014-11-02,20.5166666667,Chicago Bulls,Philadelphia 76ers,2,54-41,11,two point jumper,False,17,True,False
+2014-11-02,23.9833333333,Chicago Bulls,Philadelphia 76ers,2,64-49,13,two point jumper,False,1,False,False
+2014-11-02,25.0166666667,Chicago Bulls,Philadelphia 76ers,3,67-51,15,free throw,False,15,True,False
+2014-11-02,25.0166666667,Chicago Bulls,Philadelphia 76ers,3,68-51,16,free throw,False,15,True,False
+2014-11-02,26.6333333333,Chicago Bulls,Philadelphia 76ers,3,68-54,12,two point jumper,False,17,False,False
+2014-11-02,28.1333333333,Chicago Bulls,Philadelphia 76ers,3,72-57,13,two point jumper,False,18,False,False
+2014-11-02,31.0,Chicago Bulls,Philadelphia 76ers,3,79-72,5,two point jumper,False,12,False,False
+2014-11-02,39.55,Chicago Bulls,Philadelphia 76ers,4,93-84,7,layup,False,0,True,False
+2014-11-02,41.85,Chicago Bulls,Philadelphia 76ers,4,95-90,3,layup,False,0,False,False
+2014-11-02,43.95,Chicago Bulls,Philadelphia 76ers,4,99-96,1,two point shot,False,10,False,False
+2014-01-18,2.63333333333,Chicago Bulls,Philadelphia 76ers,1,4-1,-5,layup,True,0,False,False
+2014-01-18,4.63333333333,Chicago Bulls,Philadelphia 76ers,1,7-4,-5,hook shot,True,9,False,False
+2014-01-18,19.0666666667,Chicago Bulls,Philadelphia 76ers,2,29-38,7,two point jumper,True,18,True,False
+2014-01-18,20.25,Chicago Bulls,Philadelphia 76ers,2,29-43,12,layup,True,0,True,False
+2014-01-18,20.95,Chicago Bulls,Philadelphia 76ers,2,29-45,14,two point shot,True,1,True,False
+2014-01-18,22.15,Chicago Bulls,Philadelphia 76ers,2,29-49,18,two point shot,True,2,True,False
+2014-01-18,25.7,Chicago Bulls,Philadelphia 76ers,3,35-53,16,layup,True,0,False,False
+2014-01-18,25.7666666667,Chicago Bulls,Philadelphia 76ers,3,35-53,16,layup,True,0,False,False
+2014-01-18,27.4666666667,Chicago Bulls,Philadelphia 76ers,3,38-61,21,two point shot,True,1,True,False
+2014-01-18,28.0666666667,Chicago Bulls,Philadelphia 76ers,3,40-63,21,layup,True,0,True,False
+2014-01-18,28.0666666667,Chicago Bulls,Philadelphia 76ers,3,40-64,23,free throw,True,15,True,False
+2014-01-18,28.85,Chicago Bulls,Philadelphia 76ers,3,40-66,24,two point shot,True,1,True,False
+2014-01-18,30.1333333333,Chicago Bulls,Philadelphia 76ers,3,40-72,30,two point jumper,True,16,True,False
+2014-01-18,41.6,Chicago Bulls,Philadelphia 76ers,4,59-93,32,two point shot,True,3,True,False
+2014-01-18,43.4166666667,Chicago Bulls,Philadelphia 76ers,4,63-94,30,free throw,True,15,True,False
+2014-01-18,43.4166666667,Chicago Bulls,Philadelphia 76ers,4,63-95,31,free throw,True,15,True,False
+2014-11-15,1.2,Chicago Bulls,Toronto Raptors,1,4-0,2,two point shot,False,4,True,True
+2014-11-15,3.81666666667,Chicago Bulls,Toronto Raptors,1,9-4,3,two point shot,False,1,True,True
+2014-11-15,6.98333333333,Chicago Bulls,Toronto Raptors,1,15-6,7,two point shot,False,1,True,True
+2014-11-15,22.15,Chicago Bulls,Toronto Raptors,2,42-25,15,two point shot,False,1,True,True
+2014-11-15,23.1833333333,Chicago Bulls,Toronto Raptors,2,43-30,12,free throw,False,15,True,True
+2014-11-15,23.1833333333,Chicago Bulls,Toronto Raptors,2,44-30,13,free throw,False,15,True,True
+2014-11-15,25.3333333333,Chicago Bulls,Toronto Raptors,3,49-31,16,two point shot,False,1,True,True
+2014-11-15,26.5833333333,Chicago Bulls,Toronto Raptors,3,49-31,16,two point jumper,False,15,False,True
+2014-11-15,38.8833333333,Chicago Bulls,Toronto Raptors,4,81-62,18,free throw,False,15,True,True
+2014-11-15,38.8833333333,Chicago Bulls,Toronto Raptors,4,82-62,19,free throw,False,15,True,True
+2014-11-15,39.3833333333,Chicago Bulls,Toronto Raptors,4,84-65,17,two point shot,False,5,True,True
+2014-11-15,41.35,Chicago Bulls,Toronto Raptors,4,84-67,15,layup,False,0,False,True
+2014-11-15,43.6,Chicago Bulls,Toronto Raptors,4,88-72,14,two point shot,False,1,True,True
+2014-12-14,4.35,Chicago Bulls,Toronto Raptors,1,10-4,-8,layup,True,0,False,False
+2014-12-14,4.73333333333,Chicago Bulls,Toronto Raptors,1,10-6,-6,two point shot,True,1,True,False
+2014-12-14,6.91666666667,Chicago Bulls,Toronto Raptors,1,12-10,-4,layup,True,0,False,False
+2014-12-14,21.2166666667,Chicago Bulls,Toronto Raptors,2,43-36,-8,free throw,True,15,True,False
+2014-12-14,21.2166666667,Chicago Bulls,Toronto Raptors,2,43-37,-7,free throw,True,15,True,False
+2014-12-14,27.7,Chicago Bulls,Toronto Raptors,3,57-46,-13,two point shot,True,1,True,False
+2014-12-14,28.2833333333,Chicago Bulls,Toronto Raptors,3,57-48,-11,two point jumper,True,6,True,False
+2014-12-14,28.9166666667,Chicago Bulls,Toronto Raptors,3,59-48,-13,tip shot,True,0,False,False
+2014-12-14,32.6166666667,Chicago Bulls,Toronto Raptors,3,65-55,-12,layup,True,0,True,False
+2014-12-31,0.65,Chicago Bulls,Toronto Raptors,1,2-0,-3,free throw,True,15,False,False
+2014-12-31,0.65,Chicago Bulls,Toronto Raptors,1,2-1,-2,free throw,True,15,True,False
+2014-12-31,3.8,Chicago Bulls,Toronto Raptors,1,5-5,-2,layup,True,0,False,False
+2014-12-31,4.81666666667,Chicago Bulls,Toronto Raptors,1,7-5,-4,tip shot,True,0,False,False
+2014-12-31,17.1666666667,Chicago Bulls,Toronto Raptors,2,23-28,3,two point shot,True,1,True,False
+2014-12-31,28.4166666667,Chicago Bulls,Toronto Raptors,3,43-47,2,two point jumper,True,1,False,False
+2014-12-31,31.1333333333,Chicago Bulls,Toronto Raptors,3,47-56,7,two point shot,True,8,True,False
+2014-12-31,42.1,Chicago Bulls,Toronto Raptors,4,74-66,-10,hook shot,True,9,False,False
+2014-12-31,44.0333333333,Chicago Bulls,Toronto Raptors,4,78-68,-12,tip shot,True,0,False,False
+2014-12-31,44.05,Chicago Bulls,Toronto Raptors,4,78-68,-12,tip shot,True,0,False,False
+2014-12-31,45.5166666667,Chicago Bulls,Toronto Raptors,4,80-70,-12,layup,True,0,False,False
+2014-12-31,45.7333333333,Chicago Bulls,Toronto Raptors,4,80-70,-12,tip shot,True,0,False,False
+2014-12-31,45.7333333333,Chicago Bulls,Toronto Raptors,4,80-71,-10,free throw,True,15,True,False
+2014-12-31,45.7333333333,Chicago Bulls,Toronto Raptors,4,80-72,-9,free throw,True,15,True,False
+2014-02-19,3.58333333333,Chicago Bulls,Toronto Raptors,1,12-6,4,two point shot,False,1,True,True
+2014-02-19,4.85,Chicago Bulls,Toronto Raptors,1,16-8,6,dunk,False,0,True,True
+2014-02-19,7.06666666667,Chicago Bulls,Toronto Raptors,1,20-12,7,free throw,False,15,False,True
+2014-02-19,7.06666666667,Chicago Bulls,Toronto Raptors,1,20-12,7,free throw,False,15,False,True
+2014-02-19,7.56666666667,Chicago Bulls,Toronto Raptors,1,20-14,4,two point jumper,False,20,False,True
+2014-02-19,23.1,Chicago Bulls,Toronto Raptors,2,46-41,3,two point jumper,False,19,False,True
+2014-02-19,30.35,Chicago Bulls,Toronto Raptors,3,62-51,10,free throw,False,15,True,True
+2014-02-19,30.35,Chicago Bulls,Toronto Raptors,3,63-51,11,free throw,False,15,True,True
+2014-02-19,39.3166666667,Chicago Bulls,Toronto Raptors,4,78-69,7,two point shot,False,1,True,True
+2014-02-19,46.35,Chicago Bulls,Toronto Raptors,4,91-86,3,two point jumper,False,16,False,True
+2014-02-06,0.383333333333,Chicago Bulls,Golden State Warriors,1,2-0,1,free throw,False,15,True,True
+2014-02-06,0.383333333333,Chicago Bulls,Golden State Warriors,1,2-0,1,free throw,False,15,False,True
+2014-02-06,2.93333333333,Chicago Bulls,Golden State Warriors,1,9-4,3,two point jumper,False,19,True,True
+2014-02-06,6.53333333333,Chicago Bulls,Golden State Warriors,1,21-8,11,two point jumper,False,1,False,True
+2014-02-06,7.75,Chicago Bulls,Golden State Warriors,1,23-8,13,two point jumper,False,17,False,True
+2014-02-06,21.9166666667,Chicago Bulls,Golden State Warriors,2,42-41,-1,two point jumper,False,8,False,True
+2014-02-06,29.4833333333,Chicago Bulls,Golden State Warriors,3,58-62,-6,two point shot,False,2,True,True
+2014-02-06,31.6,Chicago Bulls,Golden State Warriors,3,62-67,-7,two point shot,False,1,True,True
+2014-02-06,32.4,Chicago Bulls,Golden State Warriors,3,64-70,-8,two point jumper,False,4,False,True
+2014-02-06,32.4333333333,Chicago Bulls,Golden State Warriors,3,64-70,-8,layup,False,0,False,True
+2014-02-06,47.3,Chicago Bulls,Golden State Warriors,4,87-99,-14,two point shot,False,7,False,True
+2014-02-26,2.45,Chicago Bulls,Golden State Warriors,1,5-4,-3,two point jumper,True,16,False,False
+2014-02-26,17.1333333333,Chicago Bulls,Golden State Warriors,2,29-37,6,two point jumper,True,19,True,False
+2014-02-26,18.1,Chicago Bulls,Golden State Warriors,2,32-40,6,two point jumper,True,6,False,False
+2014-02-26,27.0666666667,Chicago Bulls,Golden State Warriors,3,49-58,7,hook shot,True,3,False,False
+2014-02-26,30.1,Chicago Bulls,Golden State Warriors,3,51-64,11,two point jumper,True,17,False,False
+2014-02-26,35.2833333333,Chicago Bulls,Golden State Warriors,3,59-77,17,free throw,True,15,True,False
+2014-02-26,35.2833333333,Chicago Bulls,Golden State Warriors,3,59-78,18,free throw,True,15,True,False
+2014-02-26,35.9166666667,Chicago Bulls,Golden State Warriors,3,59-80,19,layup,True,0,True,False
+2014-02-26,42.8166666667,Chicago Bulls,Golden State Warriors,4,67-95,26,two point jumper,True,12,True,False
+2014-11-24,0.55,Chicago Bulls,Los Angeles Clippers,1,2-0,0,two point jumper,False,4,True,True
+2014-11-24,2.2,Chicago Bulls,Los Angeles Clippers,1,4-7,-5,two point jumper,False,18,True,True
+2014-11-24,17.7,Chicago Bulls,Los Angeles Clippers,2,38-43,-7,two point shot,False,9,True,True
+2014-11-24,17.7,Chicago Bulls,Los Angeles Clippers,2,38-43,-6,free throw,False,15,False,True
+2014-11-24,21.0166666667,Chicago Bulls,Los Angeles Clippers,2,43-53,-12,hook shot,False,5,False,True
+2014-11-24,30.5666666667,Chicago Bulls,Los Angeles Clippers,3,67-85,-20,two point shot,False,5,True,True
+2014-11-24,30.5666666667,Chicago Bulls,Los Angeles Clippers,3,67-85,-19,free throw,False,15,False,True
+2014-01-24,1.21666666667,Chicago Bulls,Los Angeles Clippers,1,3-4,-1,two point shot,True,1,True,True
+2014-01-24,3.3,Chicago Bulls,Los Angeles Clippers,1,8-10,0,layup,True,0,True,True
+2014-01-24,3.86666666667,Chicago Bulls,Los Angeles Clippers,1,10-10,-2,two point jumper,True,17,False,True
+2014-01-24,6.13333333333,Chicago Bulls,Los Angeles Clippers,1,16-16,-2,two point shot,True,1,True,True
+2014-01-24,18.8166666667,Chicago Bulls,Los Angeles Clippers,2,53-39,-16,tip shot,True,0,False,True
+2014-01-24,22.65,Chicago Bulls,Los Angeles Clippers,2,64-48,-18,two point shot,True,1,True,True
+2014-01-24,27.7,Chicago Bulls,Los Angeles Clippers,3,72-59,-15,tip shot,True,0,False,True
+2014-01-24,30.2833333333,Chicago Bulls,Los Angeles Clippers,3,78-67,-13,two point shot,True,1,True,True
+2014-01-24,40.7833333333,Chicago Bulls,Los Angeles Clippers,4,101-88,-15,two point shot,True,1,True,True
+2014-01-20,1.36666666667,Chicago Bulls,Los Angeles Lakers,1,2-0,-4,layup,True,0,False,True
+2014-01-20,2.55,Chicago Bulls,Los Angeles Lakers,1,2-2,-2,two point jumper,True,1,False,True
+2014-01-20,4.03333333333,Chicago Bulls,Los Angeles Lakers,1,9-6,-5,two point shot,True,1,True,True
+2014-01-20,5.78333333333,Chicago Bulls,Los Angeles Lakers,1,11-12,-1,two point shot,True,1,True,True
+2014-01-20,7.23333333333,Chicago Bulls,Los Angeles Lakers,1,15-16,-1,two point shot,True,1,True,True
+2014-01-20,18.35,Chicago Bulls,Los Angeles Lakers,2,41-42,0,free throw,True,15,False,True
+2014-01-20,18.35,Chicago Bulls,Los Angeles Lakers,2,41-43,1,free throw,True,15,True,True
+2014-01-20,20.3666666667,Chicago Bulls,Los Angeles Lakers,2,46-44,-3,free throw,True,15,True,True
+2014-01-20,20.3666666667,Chicago Bulls,Los Angeles Lakers,2,46-45,-2,free throw,True,15,True,True
+2014-01-20,21.8333333333,Chicago Bulls,Los Angeles Lakers,2,48-47,-3,two point jumper,True,1,False,True
+2014-01-20,22.3666666667,Chicago Bulls,Los Angeles Lakers,2,50-49,-3,two point shot,True,1,True,True
+2014-01-20,28.3833333333,Chicago Bulls,Los Angeles Lakers,3,60-57,-5,two point jumper,True,6,True,True
+2014-01-20,31.6,Chicago Bulls,Los Angeles Lakers,3,66-63,-4,free throw,True,15,True,True
+2014-01-20,31.6,Chicago Bulls,Los Angeles Lakers,3,66-63,-4,free throw,True,15,False,True
+2014-01-20,38.65,Chicago Bulls,Los Angeles Lakers,4,72-73,-1,two point jumper,True,5,False,True
+2014-01-20,41.85,Chicago Bulls,Los Angeles Lakers,4,82-80,-4,two point jumper,True,4,False,True
+2014-01-20,42.3833333333,Chicago Bulls,Los Angeles Lakers,4,82-82,-2,layup,True,0,True,True
+2014-01-20,44.2666666667,Chicago Bulls,Los Angeles Lakers,4,84-85,-1,two point jumper,True,18,False,True
+2014-01-20,46.2333333333,Chicago Bulls,Los Angeles Lakers,4,90-87,-5,two point jumper,True,5,False,True
+2014-01-20,47.8833333333,Chicago Bulls,Los Angeles Lakers,4,90-92,1,free throw,True,15,False,True
+2014-01-20,47.8833333333,Chicago Bulls,Los Angeles Lakers,4,90-93,2,free throw,True,15,True,True
+2014-01-20,47.9833333333,Chicago Bulls,Los Angeles Lakers,4,93-93,-2,two point jumper,True,7,False,True
+2014-01-20,49.0833333333,Chicago Bulls,Los Angeles Lakers,5,95-93,-4,two point jumper,True,18,False,True
+2014-02-09,2.68333333333,Chicago Bulls,Los Angeles Lakers,1,4-0,2,two point jumper,False,18,True,True
+2014-02-09,8.3,Chicago Bulls,Los Angeles Lakers,1,25-12,11,layup,False,0,True,True
+2014-02-09,8.76666666667,Chicago Bulls,Los Angeles Lakers,1,26-14,11,free throw,False,15,True,True
+2014-02-09,8.76666666667,Chicago Bulls,Los Angeles Lakers,1,27-14,12,free throw,False,15,True,True
+2014-02-09,11.5333333333,Chicago Bulls,Los Angeles Lakers,1,34-21,11,layup,False,0,False,True
+2014-02-09,17.7333333333,Chicago Bulls,Los Angeles Lakers,2,42-37,3,tip shot,False,0,False,True
+2014-02-09,27.45,Chicago Bulls,Los Angeles Lakers,3,58-48,9,free throw,False,15,True,True
+2014-02-09,27.45,Chicago Bulls,Los Angeles Lakers,3,59-48,10,free throw,False,15,True,True
+2014-02-09,27.95,Chicago Bulls,Los Angeles Lakers,3,60-48,11,free throw,False,15,True,True
+2014-02-09,27.95,Chicago Bulls,Los Angeles Lakers,3,61-48,12,free throw,False,15,True,True
+2014-02-09,30.1,Chicago Bulls,Los Angeles Lakers,3,67-52,13,two point shot,False,2,True,True
+2014-02-09,30.7333333333,Chicago Bulls,Los Angeles Lakers,3,69-52,15,layup,False,0,True,True
+2014-02-09,39.7,Chicago Bulls,Los Angeles Lakers,4,79-69,8,two point jumper,False,13,True,True
+2014-02-09,41.3833333333,Chicago Bulls,Los Angeles Lakers,4,84-71,11,dunk,False,0,True,True
+2014-02-09,44.6666666667,Chicago Bulls,Los Angeles Lakers,4,86-76,8,two point jumper,False,19,False,True
+2014-02-09,46.5333333333,Chicago Bulls,Los Angeles Lakers,4,88-80,7,free throw,False,15,True,True
+2014-02-09,46.5333333333,Chicago Bulls,Los Angeles Lakers,4,88-80,7,free throw,False,15,True,True
+2014-01-07,0.7,Chicago Bulls,Phoenix Suns,1,0-2,0,two point shot,True,1,True,True
+2014-01-07,3.81666666667,Chicago Bulls,Phoenix Suns,1,9-10,-1,two point jumper,True,5,False,True
+2014-01-07,4.23333333333,Chicago Bulls,Phoenix Suns,1,11-10,-3,tip shot,True,0,False,True
+2014-01-07,4.41666666667,Chicago Bulls,Phoenix Suns,1,11-12,-1,layup,True,0,True,True
+2014-01-07,16.85,Chicago Bulls,Phoenix Suns,2,30-37,6,free throw,True,15,True,True
+2014-01-07,16.85,Chicago Bulls,Phoenix Suns,2,30-38,7,free throw,True,15,True,True
+2014-01-07,19.45,Chicago Bulls,Phoenix Suns,2,36-41,3,two point shot,True,5,False,True
+2014-01-07,20.4666666667,Chicago Bulls,Phoenix Suns,2,40-41,-1,tip shot,True,0,False,True
+2014-01-07,21.45,Chicago Bulls,Phoenix Suns,2,44-42,-3,free throw,True,15,True,True
+2014-01-07,21.45,Chicago Bulls,Phoenix Suns,2,44-42,-3,free throw,True,15,False,True
+2014-01-07,22.6666666667,Chicago Bulls,Phoenix Suns,2,46-46,-2,layup,True,0,True,True
+2014-01-07,26.1833333333,Chicago Bulls,Phoenix Suns,3,46-51,3,two point jumper,True,9,False,True
+2014-01-07,30.0666666667,Chicago Bulls,Phoenix Suns,3,52-61,7,layup,True,0,True,True
+2014-01-07,37.8833333333,Chicago Bulls,Phoenix Suns,4,65-78,11,two point shot,True,5,True,True
+2014-01-07,39.3833333333,Chicago Bulls,Phoenix Suns,4,68-78,8,tip shot,True,0,False,True
+2014-01-07,41.9166666667,Chicago Bulls,Phoenix Suns,4,75-84,7,two point shot,True,1,False,True
+2014-01-07,43.3166666667,Chicago Bulls,Phoenix Suns,4,78-84,4,two point jumper,True,7,False,True
+2014-01-07,47.8,Chicago Bulls,Phoenix Suns,4,85-91,5,free throw,True,15,False,True
+2014-01-07,47.8,Chicago Bulls,Phoenix Suns,4,85-92,6,free throw,True,15,True,True
+2014-02-04,1.26666666667,Chicago Bulls,Phoenix Suns,1,2-0,0,two point shot,False,5,True,False
+2014-02-04,3.46666666667,Chicago Bulls,Phoenix Suns,1,8-2,4,dunk,False,0,True,False
+2014-02-04,5.28333333333,Chicago Bulls,Phoenix Suns,1,10-6,2,two point shot,False,7,True,False
+2014-02-04,8.5,Chicago Bulls,Phoenix Suns,1,17-6,9,two point shot,False,1,False,False
+2014-02-04,26.05,Chicago Bulls,Phoenix Suns,3,50-40,8,two point shot,False,1,True,False
+2014-02-04,28.6666666667,Chicago Bulls,Phoenix Suns,3,53-48,3,hook shot,False,5,False,False
+2014-02-04,42.0333333333,Chicago Bulls,Phoenix Suns,4,84-75,7,layup,False,0,True,False
+2014-02-04,42.9166666667,Chicago Bulls,Phoenix Suns,4,86-78,6,two point jumper,False,20,True,False
+2014-02-04,45.0833333333,Chicago Bulls,Phoenix Suns,4,93-85,6,two point shot,False,10,True,False
+2014-02-03,1.3,Chicago Bulls,Sacramento Kings,1,2-2,-2,hook shot,False,8,False,False
+2014-02-03,2.3,Chicago Bulls,Sacramento Kings,1,2-3,-3,two point jumper,False,6,False,False
+2014-02-03,3.88333333333,Chicago Bulls,Sacramento Kings,1,2-5,-5,two point jumper,False,19,False,False
+2014-02-03,3.95,Chicago Bulls,Sacramento Kings,1,4-5,-3,dunk,False,0,True,False
+2014-02-03,18.5,Chicago Bulls,Sacramento Kings,2,29-30,-2,free throw,False,15,True,False
+2014-02-03,18.5,Chicago Bulls,Sacramento Kings,2,30-30,-1,free throw,False,15,True,False
+2014-02-03,19.7333333333,Chicago Bulls,Sacramento Kings,2,30-32,-4,hook shot,False,1,False,False
+2014-02-03,25.95,Chicago Bulls,Sacramento Kings,3,33-48,-17,two point jumper,False,3,False,False
+2014-10-29,21.0,Chicago Bulls,Miami Heat,2,24-45,-22,free throw,False,15,False,True
+2014-10-29,21.0,Chicago Bulls,Miami Heat,2,24-45,-22,free throw,False,15,False,True
+2014-10-29,27.8166666667,Chicago Bulls,Miami Heat,3,39-60,-23,layup,False,0,False,True
+2014-10-29,30.0333333333,Chicago Bulls,Miami Heat,3,43-62,-21,two point shot,False,1,True,True
+2014-11-06,9.8,Chicago Bulls,Indiana Pacers,1,15-19,-6,two point jumper,False,18,False,False
+2014-11-06,22.0833333333,Chicago Bulls,Indiana Pacers,2,39-35,3,free throw,False,15,True,False
+2014-11-06,22.0833333333,Chicago Bulls,Indiana Pacers,2,40-35,4,free throw,False,15,True,False
+2014-11-06,22.7333333333,Chicago Bulls,Indiana Pacers,2,40-35,3,tip shot,False,0,False,False
+2014-11-06,25.6333333333,Chicago Bulls,Indiana Pacers,3,44-39,4,free throw,False,15,True,False
+2014-11-06,25.6333333333,Chicago Bulls,Indiana Pacers,3,45-39,5,free throw,False,15,True,False
+2014-11-08,0.3,Chicago Bulls,Utah Jazz,1,0-2,0,two point shot,True,1,True,True
+2014-11-08,3.45,Chicago Bulls,Utah Jazz,1,7-11,2,layup,True,0,True,True
+2014-11-08,7.53333333333,Chicago Bulls,Utah Jazz,1,13-22,7,two point jumper,True,1,True,True
+2014-11-08,8.3,Chicago Bulls,Utah Jazz,1,16-22,4,hook shot,True,7,False,True
+2014-11-08,19.2833333333,Chicago Bulls,Utah Jazz,2,29-41,10,layup,True,0,False,True
+2014-11-08,19.2833333333,Chicago Bulls,Utah Jazz,2,29-41,10,layup,True,0,True,True
+2014-11-08,22.7833333333,Chicago Bulls,Utah Jazz,2,36-46,9,free throw,True,15,False,True
+2014-11-08,22.7833333333,Chicago Bulls,Utah Jazz,2,36-47,10,free throw,True,15,True,True
+2014-11-08,23.9833333333,Chicago Bulls,Utah Jazz,2,40-51,9,two point shot,True,1,True,True
+2014-11-08,24.5666666667,Chicago Bulls,Utah Jazz,3,40-53,11,layup,True,0,True,True
+2014-11-08,27.25,Chicago Bulls,Utah Jazz,3,44-59,14,free throw,True,15,False,True
+2014-11-08,27.25,Chicago Bulls,Utah Jazz,3,44-60,15,free throw,True,15,True,True
+2014-11-08,28.4833333333,Chicago Bulls,Utah Jazz,3,46-62,14,layup,True,0,False,True
+2014-11-11,5.78333333333,Chicago Bulls,Cleveland Cavaliers,1,10-12,0,dunk,True,0,True,True
+2014-11-11,7.78333333333,Chicago Bulls,Cleveland Cavaliers,1,12-16,2,layup,True,0,True,True
+2014-11-11,22.6333333333,Chicago Bulls,Cleveland Cavaliers,2,31-43,10,layup,True,0,True,True
+2014-11-11,27.1833333333,Chicago Bulls,Cleveland Cavaliers,3,40-51,9,two point shot,True,1,True,True
+2014-11-11,31.7833333333,Chicago Bulls,Cleveland Cavaliers,3,50-56,5,free throw,True,15,True,True
+2014-11-11,31.7833333333,Chicago Bulls,Cleveland Cavaliers,3,50-57,6,free throw,True,15,True,True
+2014-11-16,1.7,Chicago Bulls,Indiana Pacers,1,2-0,-3,free throw,True,15,False,False
+2014-11-16,1.7,Chicago Bulls,Indiana Pacers,1,2-1,-2,free throw,True,15,True,False
+2014-11-16,9.06666666667,Chicago Bulls,Indiana Pacers,1,16-23,5,two point jumper,True,21,False,False
+2014-11-16,12.0,Chicago Bulls,Indiana Pacers,1,20-31,9,two point jumper,True,3,False,False
+2014-11-16,22.9333333333,Chicago Bulls,Indiana Pacers,2,33-57,22,two point jumper,True,19,False,False
+2014-11-16,30.7333333333,Chicago Bulls,Indiana Pacers,3,46-73,26,free throw,True,15,False,False
+2014-11-16,30.7333333333,Chicago Bulls,Indiana Pacers,3,46-74,27,free throw,True,15,True,False
+2014-11-16,39.5,Chicago Bulls,Indiana Pacers,4,71-93,20,two point jumper,True,11,False,False
+2014-11-16,40.6,Chicago Bulls,Indiana Pacers,4,75-98,21,layup,True,0,True,False
+2014-11-18,1.7,Chicago Bulls,Charlotte Bobcats,1,3-2,-3,two point shot,True,6,False,True
+2014-11-18,5.38333333333,Chicago Bulls,Charlotte Bobcats,1,9-13,2,tip shot,True,0,False,True
+2014-11-18,18.9833333333,Chicago Bulls,Charlotte Bobcats,2,36-40,2,layup,True,0,True,True
+2014-11-18,19.6666666667,Chicago Bulls,Charlotte Bobcats,2,36-40,2,two point jumper,True,1,False,True
+2014-11-18,27.1333333333,Chicago Bulls,Charlotte Bobcats,3,46-48,0,two point shot,True,1,True,True
+2014-11-18,30.2833333333,Chicago Bulls,Charlotte Bobcats,3,48-52,3,free throw,True,15,False,True
+2014-11-18,30.2833333333,Chicago Bulls,Charlotte Bobcats,3,48-53,4,free throw,True,15,True,True
+2014-11-18,32.0666666667,Chicago Bulls,Charlotte Bobcats,3,51-56,4,free throw,True,15,True,True
+2014-11-18,32.0666666667,Chicago Bulls,Charlotte Bobcats,3,51-57,5,free throw,True,15,True,True
+2014-11-18,37.7166666667,Chicago Bulls,Charlotte Bobcats,4,61-64,1,two point jumper,True,5,False,True
+2014-11-18,38.8833333333,Chicago Bulls,Charlotte Bobcats,4,61-66,3,two point jumper,True,18,True,True
+2014-11-18,43.6666666667,Chicago Bulls,Charlotte Bobcats,4,69-72,1,layup,True,0,False,True
+2014-11-18,44.7833333333,Chicago Bulls,Charlotte Bobcats,4,71-76,3,layup,True,0,True,True
+2014-11-21,0.833333333333,Chicago Bulls,Denver Nuggets,1,2-0,0,tip shot,False,0,False,False
+2014-11-21,2.5,Chicago Bulls,Denver Nuggets,1,6-4,0,two point shot,False,1,True,False
+2014-11-21,6.06666666667,Chicago Bulls,Denver Nuggets,1,14-16,-4,two point shot,False,1,True,False
+2014-11-21,16.4833333333,Chicago Bulls,Denver Nuggets,2,32-34,-4,hook shot,False,11,False,False
+2014-11-21,20.2833333333,Chicago Bulls,Denver Nuggets,2,40-45,-7,layup,False,0,True,False
+2014-11-21,22.6166666667,Chicago Bulls,Denver Nuggets,2,43-50,-8,free throw,False,15,True,False
+2014-11-21,22.6166666667,Chicago Bulls,Denver Nuggets,2,44-50,-7,free throw,False,15,True,False
+2014-11-21,23.75,Chicago Bulls,Denver Nuggets,2,48-50,-4,two point shot,False,1,True,False
+2014-11-21,25.1333333333,Chicago Bulls,Denver Nuggets,3,50-52,-3,free throw,False,15,False,False
+2014-11-21,25.1333333333,Chicago Bulls,Denver Nuggets,3,51-52,-2,free throw,False,15,True,False
+2014-11-21,26.5,Chicago Bulls,Denver Nuggets,3,51-55,-6,layup,False,0,False,False
+2014-11-21,41.6,Chicago Bulls,Denver Nuggets,4,70-87,-19,two point jumper,False,17,False,False
+2014-11-21,44.4833333333,Chicago Bulls,Denver Nuggets,4,80-94,-16,layup,False,0,False,False
+2014-11-22,3.56666666667,Chicago Bulls,Portland Trail Blazers,1,10-8,0,two point shot,False,5,True,False
+2014-11-22,6.63333333333,Chicago Bulls,Portland Trail Blazers,1,22-10,10,two point shot,False,1,True,False
+2014-11-22,24.5,Chicago Bulls,Portland Trail Blazers,3,59-46,11,layup,False,0,False,False
+2014-11-22,25.0,Chicago Bulls,Portland Trail Blazers,3,61-48,11,layup,False,0,True,False
+2014-11-22,26.1333333333,Chicago Bulls,Portland Trail Blazers,3,64-52,10,layup,False,0,False,False
+2014-11-22,34.0166666667,Chicago Bulls,Portland Trail Blazers,3,70-74,-5,free throw,False,15,False,False
+2014-11-22,34.0166666667,Chicago Bulls,Portland Trail Blazers,3,71-74,-4,free throw,False,15,True,False
+2014-11-22,35.1833333333,Chicago Bulls,Portland Trail Blazers,3,71-76,-7,layup,False,0,False,False
+2014-11-25,0.333333333333,Chicago Bulls,Utah Jazz,1,0-0,-2,tip shot,False,0,False,False
+2014-11-25,6.03333333333,Chicago Bulls,Utah Jazz,1,10-12,-4,tip shot,False,0,False,False
+2014-11-25,6.03333333333,Chicago Bulls,Utah Jazz,1,10-12,-4,two point shot,False,1,True,False
+2014-11-25,7.63333333333,Chicago Bulls,Utah Jazz,1,12-16,-6,layup,False,0,False,False
+2014-11-25,17.7333333333,Chicago Bulls,Utah Jazz,2,24-30,-8,two point jumper,False,1,True,False
+2014-11-25,25.0,Chicago Bulls,Utah Jazz,3,34-43,-11,two point shot,False,3,True,False
+2014-11-25,28.1333333333,Chicago Bulls,Utah Jazz,3,42-45,-5,two point shot,False,1,False,False
+2014-11-25,29.2166666667,Chicago Bulls,Utah Jazz,3,44-50,-8,layup,False,0,True,False
+2014-11-25,44.2666666667,Chicago Bulls,Utah Jazz,4,71-73,-3,free throw,False,15,False,False
+2014-11-25,44.2666666667,Chicago Bulls,Utah Jazz,4,72-73,-2,free throw,False,15,True,False
+2014-11-25,47.4666666667,Chicago Bulls,Utah Jazz,4,77-78,-2,free throw,False,15,False,False
+2014-11-25,47.4666666667,Chicago Bulls,Utah Jazz,4,78-78,-1,free throw,False,15,True,False
+2014-11-27,1.45,Chicago Bulls,Detroit Pistons,1,0-2,-4,two point jumper,False,1,False,True
+2014-11-27,21.2,Chicago Bulls,Detroit Pistons,2,42-45,-5,hook shot,False,5,False,True
+2014-11-27,21.7,Chicago Bulls,Detroit Pistons,2,43-47,-5,free throw,False,15,True,True
+2014-11-27,21.7,Chicago Bulls,Detroit Pistons,2,43-47,-5,free throw,False,15,False,True
+2014-11-27,26.0666666667,Chicago Bulls,Detroit Pistons,3,53-55,-4,tip shot,False,0,False,True
+2014-11-27,26.8833333333,Chicago Bulls,Detroit Pistons,3,55-55,-2,dunk,False,0,True,True
+2014-11-27,28.2,Chicago Bulls,Detroit Pistons,3,59-57,0,layup,False,0,True,True
+2014-11-27,30.9166666667,Chicago Bulls,Detroit Pistons,3,65-57,6,layup,False,0,True,True
+2014-11-27,30.9166666667,Chicago Bulls,Detroit Pistons,3,65-57,7,free throw,False,15,False,True
+2014-11-27,38.9333333333,Chicago Bulls,Detroit Pistons,4,78-73,3,hook shot,False,5,False,True
+2014-11-27,41.8166666667,Chicago Bulls,Detroit Pistons,4,86-75,9,two point shot,False,1,True,True
+2014-11-27,43.5666666667,Chicago Bulls,Detroit Pistons,4,89-75,12,two point jumper,False,7,False,True
+2014-11-27,43.9833333333,Chicago Bulls,Detroit Pistons,4,91-75,14,two point shot,False,1,True,True
+2014-11-27,45.75,Chicago Bulls,Detroit Pistons,4,97-75,20,two point shot,False,9,True,True
+2014-11-30,3.13333333333,Chicago Bulls,Cleveland Cavaliers,1,4-9,-7,layup,False,0,True,False
+2014-11-30,7.06666666667,Chicago Bulls,Cleveland Cavaliers,1,10-17,-9,layup,False,0,True,False
+2014-11-30,8.73333333333,Chicago Bulls,Cleveland Cavaliers,1,15-20,-6,free throw,False,15,False,False
+2014-11-30,8.73333333333,Chicago Bulls,Cleveland Cavaliers,1,15-20,-6,free throw,False,15,False,False
+2014-11-30,17.3166666667,Chicago Bulls,Cleveland Cavaliers,2,37-38,-3,two point shot,False,1,False,False
+2014-11-30,47.8333333333,Chicago Bulls,Cleveland Cavaliers,4,93-95,-4,layup,False,0,False,False
+2014-11-30,47.8333333333,Chicago Bulls,Cleveland Cavaliers,4,93-95,-4,layup,False,0,False,False
+2014-12-02,6.31666666667,Chicago Bulls,New Orleans Pelicans,1,11-10,-3,two point shot,True,3,True,False
+2014-12-02,19.7833333333,Chicago Bulls,New Orleans Pelicans,2,38-43,4,free throw,True,15,False,False
+2014-12-02,19.7833333333,Chicago Bulls,New Orleans Pelicans,2,38-44,5,free throw,True,15,True,False
+2014-12-02,21.5666666667,Chicago Bulls,New Orleans Pelicans,2,42-46,2,layup,True,0,True,False
+2014-12-02,26.9333333333,Chicago Bulls,New Orleans Pelicans,3,58-62,2,two point jumper,True,1,False,False
+2014-12-02,38.25,Chicago Bulls,New Orleans Pelicans,4,81-83,1,free throw,True,15,True,False
+2014-12-02,38.25,Chicago Bulls,New Orleans Pelicans,4,81-84,2,free throw,True,15,True,False
+2014-12-02,40.5,Chicago Bulls,New Orleans Pelicans,4,88-89,-1,two point shot,True,2,True,False
+2014-12-02,43.1333333333,Chicago Bulls,New Orleans Pelicans,4,92-93,-1,layup,True,0,False,False
+2014-12-02,47.45,Chicago Bulls,New Orleans Pelicans,4,101-102,-1,dunk,True,0,True,False
+2014-12-02,50.1833333333,Chicago Bulls,New Orleans Pelicans,5,106-107,-1,layup,True,0,True,False
+2014-12-02,50.1833333333,Chicago Bulls,New Orleans Pelicans,5,106-107,0,free throw,True,15,False,False
+2014-12-02,53.6,Chicago Bulls,New Orleans Pelicans,6,112-111,-3,two point jumper,True,1,True,False
+2014-12-02,59.3,Chicago Bulls,New Orleans Pelicans,7,122-125,1,dunk,True,0,True,False
+2014-12-02,62.35,Chicago Bulls,New Orleans Pelicans,7,127-126,-3,two point jumper,True,3,False,False
+2014-12-02,62.9333333333,Chicago Bulls,New Orleans Pelicans,7,128-128,-2,two point jumper,True,1,True,False
+2014-12-05,3.8,Chicago Bulls,Miami Heat,1,6-10,2,two point shot,True,1,True,False
+2014-12-05,17.2,Chicago Bulls,Miami Heat,2,28-43,13,two point shot,True,1,True,False
+2014-12-05,19.4833333333,Chicago Bulls,Miami Heat,2,30-47,16,free throw,True,15,False,False
+2014-12-05,19.4833333333,Chicago Bulls,Miami Heat,2,30-48,17,free throw,True,15,True,False
+2014-12-05,20.0666666667,Chicago Bulls,Miami Heat,2,32-49,16,free throw,True,15,True,False
+2014-12-05,20.0666666667,Chicago Bulls,Miami Heat,2,32-50,17,free throw,True,15,True,False
+2014-12-05,24.5,Chicago Bulls,Miami Heat,3,45-60,13,two point shot,True,6,True,False
+2014-12-05,32.3166666667,Chicago Bulls,Miami Heat,3,59-78,17,two point shot,True,6,True,False
+2014-12-05,32.9833333333,Chicago Bulls,Miami Heat,3,59-78,17,two point jumper,True,1,False,False
+2014-12-05,37.45,Chicago Bulls,Miami Heat,4,67-89,20,two point jumper,True,13,True,False
+2014-12-05,39.65,Chicago Bulls,Miami Heat,4,71-90,18,free throw,True,15,True,False
+2014-12-05,39.65,Chicago Bulls,Miami Heat,4,71-91,19,free throw,True,15,True,False
+2014-12-05,41.0333333333,Chicago Bulls,Miami Heat,4,74-93,17,two point shot,True,2,True,False
+2014-12-05,43.25,Chicago Bulls,Miami Heat,4,81-95,12,two point jumper,True,1,False,False
+2014-12-07,7.13333333333,Chicago Bulls,Detroit Pistons,1,15-17,0,two point jumper,True,20,False,False
+2014-12-07,24.9,Chicago Bulls,Detroit Pistons,3,49-47,-4,two point jumper,True,3,False,False
+2014-12-07,26.5833333333,Chicago Bulls,Detroit Pistons,3,53-47,-8,two point jumper,True,19,False,False
+2014-12-07,37.8166666667,Chicago Bulls,Detroit Pistons,4,73-62,-13,layup,True,0,True,False
+2014-12-07,40.0,Chicago Bulls,Detroit Pistons,4,75-62,-15,two point jumper,True,18,False,False
+2014-12-07,40.6333333333,Chicago Bulls,Detroit Pistons,4,77-62,-17,tip shot,True,0,False,False
+2014-12-13,0.833333333333,Chicago Bulls,Milwaukee Bucks,1,0-2,-4,two point jumper,False,18,False,True
+2014-12-13,1.36666666667,Chicago Bulls,Milwaukee Bucks,1,2-2,-2,layup,False,0,True,True
+2014-12-13,17.0,Chicago Bulls,Milwaukee Bucks,2,31-29,0,two point shot,False,1,True,True
+2014-12-13,18.4166666667,Chicago Bulls,Milwaukee Bucks,2,32-32,-1,free throw,False,15,True,True
+2014-12-13,18.4166666667,Chicago Bulls,Milwaukee Bucks,2,32-32,-1,free throw,False,15,False,True
+2014-12-13,20.7,Chicago Bulls,Milwaukee Bucks,2,36-36,-2,layup,False,0,True,True
+2014-12-13,21.3,Chicago Bulls,Milwaukee Bucks,2,38-38,-2,two point shot,False,4,True,True
+2014-12-13,26.6333333333,Chicago Bulls,Milwaukee Bucks,3,51-57,-8,two point shot,False,1,True,True
+2014-12-13,31.2333333333,Chicago Bulls,Milwaukee Bucks,3,55-63,-10,two point jumper,False,18,False,True
+2014-12-13,37.1833333333,Chicago Bulls,Milwaukee Bucks,4,66-69,-5,two point shot,False,1,True,True
+2014-12-13,38.3166666667,Chicago Bulls,Milwaukee Bucks,4,68-72,-6,dunk,False,0,True,True
+2014-12-13,41.5,Chicago Bulls,Milwaukee Bucks,4,75-81,-8,layup,False,0,True,True
+2014-12-13,43.8833333333,Chicago Bulls,Milwaukee Bucks,4,79-83,-6,layup,False,0,True,True
+2014-12-13,44.45,Chicago Bulls,Milwaukee Bucks,4,79-84,-7,tip shot,False,0,False,True
+2014-12-13,44.4666666667,Chicago Bulls,Milwaukee Bucks,4,81-84,-5,two point shot,False,1,True,True
+2014-12-16,4.78333333333,Chicago Bulls,Orlando Magic,1,4-6,0,two point jumper,True,16,False,False
+2014-12-16,20.95,Chicago Bulls,Orlando Magic,2,36-29,-9,layup,True,0,True,False
+2014-12-16,23.5166666667,Chicago Bulls,Orlando Magic,2,41-35,-8,tip shot,True,0,False,False
+2014-12-16,26.1833333333,Chicago Bulls,Orlando Magic,3,46-39,-9,two point jumper,True,16,True,False
+2014-12-16,30.3833333333,Chicago Bulls,Orlando Magic,3,61-46,-17,layup,True,0,False,False
+2014-12-16,30.5666666667,Chicago Bulls,Orlando Magic,3,61-46,-17,layup,True,0,False,False
+2014-12-16,39.7166666667,Chicago Bulls,Orlando Magic,4,72-62,-11,free throw,True,15,True,False
+2014-12-16,39.7166666667,Chicago Bulls,Orlando Magic,4,72-63,-10,free throw,True,15,True,False
+2014-12-16,41.9166666667,Chicago Bulls,Orlando Magic,4,76-66,-11,free throw,True,15,True,False
+2014-12-16,41.9166666667,Chicago Bulls,Orlando Magic,4,76-67,-10,free throw,True,15,True,False
+2014-12-16,42.6333333333,Chicago Bulls,Orlando Magic,4,78-67,-13,hook shot,True,6,False,False
+2014-12-16,43.4166666667,Chicago Bulls,Orlando Magic,4,78-69,-10,free throw,True,15,False,False
+2014-12-16,43.4166666667,Chicago Bulls,Orlando Magic,4,78-70,-9,free throw,True,15,True,False
+2014-12-16,43.9833333333,Chicago Bulls,Orlando Magic,4,78-72,-8,layup,True,0,True,False
+2014-12-16,47.6833333333,Chicago Bulls,Orlando Magic,4,80-79,-3,layup,True,0,True,False
+2014-12-18,0.616666666667,Chicago Bulls,Houston Rockets,1,0-0,-2,tip shot,False,0,False,True
+2014-12-18,2.81666666667,Chicago Bulls,Houston Rockets,1,6-4,0,two point shot,False,1,True,True
+2014-12-18,5.38333333333,Chicago Bulls,Houston Rockets,1,10-15,-7,hook shot,False,1,False,True
+2014-12-18,7.1,Chicago Bulls,Houston Rockets,1,14-17,-5,two point shot,False,4,True,True
+2014-12-18,9.08333333333,Chicago Bulls,Houston Rockets,1,14-21,-9,two point jumper,False,18,False,True
+2014-12-18,23.95,Chicago Bulls,Houston Rockets,2,46-54,-9,free throw,False,15,False,True
+2014-12-18,23.95,Chicago Bulls,Houston Rockets,2,46-54,-9,free throw,False,15,False,True
+2014-12-18,37.6166666667,Chicago Bulls,Houston Rockets,4,70-87,-19,two point jumper,False,17,True,True
+2014-12-18,38.7166666667,Chicago Bulls,Houston Rockets,4,70-89,-21,two point jumper,False,5,False,True
+2014-12-18,39.0666666667,Chicago Bulls,Houston Rockets,4,70-89,-21,two point jumper,False,19,False,True
+2014-12-19,2.0,Chicago Bulls,Oklahoma City Thunder,1,3-6,-4,free throw,False,15,True,True
+2014-12-19,2.0,Chicago Bulls,Oklahoma City Thunder,1,4-6,-3,free throw,False,15,True,True
+2014-12-19,3.46666666667,Chicago Bulls,Oklahoma City Thunder,1,8-10,-4,layup,False,0,True,True
+2014-12-19,3.46666666667,Chicago Bulls,Oklahoma City Thunder,1,9-10,-2,free throw,False,15,True,True
+2014-12-19,4.28333333333,Chicago Bulls,Oklahoma City Thunder,1,11-12,-3,layup,False,0,True,True
+2014-12-19,4.98333333333,Chicago Bulls,Oklahoma City Thunder,1,11-14,-5,two point jumper,False,4,False,True
+2014-12-19,5.48333333333,Chicago Bulls,Oklahoma City Thunder,1,13-17,-6,two point jumper,False,21,True,True
+2014-12-19,6.2,Chicago Bulls,Oklahoma City Thunder,1,14-17,-4,free throw,False,15,True,True
+2014-12-19,6.2,Chicago Bulls,Oklahoma City Thunder,1,15-17,-3,free throw,False,15,True,True
+2014-12-19,21.7833333333,Chicago Bulls,Oklahoma City Thunder,2,46-53,-9,layup,False,0,True,True
+2014-12-19,21.7833333333,Chicago Bulls,Oklahoma City Thunder,2,46-53,-8,free throw,False,15,False,True
+2014-12-19,22.7666666667,Chicago Bulls,Oklahoma City Thunder,2,46-55,-11,two point shot,False,4,False,True
+2014-12-19,25.5666666667,Chicago Bulls,Oklahoma City Thunder,3,53-59,-7,free throw,False,15,True,True
+2014-12-19,25.5666666667,Chicago Bulls,Oklahoma City Thunder,3,54-59,-6,free throw,False,15,True,True
+2014-12-19,27.5,Chicago Bulls,Oklahoma City Thunder,3,56-63,-9,two point jumper,False,18,False,True
+2014-12-19,30.5666666667,Chicago Bulls,Oklahoma City Thunder,3,64-75,-13,two point shot,False,2,True,True
+2014-12-19,31.0333333333,Chicago Bulls,Oklahoma City Thunder,3,64-75,-13,two point jumper,False,15,False,True
+2014-12-19,32.35,Chicago Bulls,Oklahoma City Thunder,3,64-77,-15,two point jumper,False,18,False,True
+2014-12-19,38.4666666667,Chicago Bulls,Oklahoma City Thunder,4,79-87,-10,dunk,False,0,True,True
+2014-12-19,39.8166666667,Chicago Bulls,Oklahoma City Thunder,4,82-91,-11,two point jumper,False,5,False,True
+2014-12-19,41.6666666667,Chicago Bulls,Oklahoma City Thunder,4,84-96,-14,two point shot,False,4,True,True
+2014-12-19,42.5333333333,Chicago Bulls,Oklahoma City Thunder,4,86-98,-14,layup,False,0,True,True
+2014-12-21,1.2,Chicago Bulls,Cleveland Cavaliers,1,0-2,0,two point jumper,True,18,False,False
+2014-12-21,1.76666666667,Chicago Bulls,Cleveland Cavaliers,1,0-2,0,tip shot,True,0,False,False
+2014-12-21,4.06666666667,Chicago Bulls,Cleveland Cavaliers,1,4-11,5,two point shot,True,5,True,False
+2014-12-21,4.63333333333,Chicago Bulls,Cleveland Cavaliers,1,6-13,5,layup,True,0,True,False
+2014-12-21,4.63333333333,Chicago Bulls,Cleveland Cavaliers,1,6-14,7,free throw,True,15,True,False
+2014-12-21,19.6333333333,Chicago Bulls,Cleveland Cavaliers,2,41-49,6,layup,True,0,False,False
+2014-12-21,21.0666666667,Chicago Bulls,Cleveland Cavaliers,2,41-56,13,two point shot,True,7,True,False
+2014-12-21,22.7666666667,Chicago Bulls,Cleveland Cavaliers,2,43-58,13,two point jumper,True,6,False,False
+2014-12-21,23.1166666667,Chicago Bulls,Cleveland Cavaliers,2,43-60,15,two point shot,True,1,True,False
+2014-12-21,23.7833333333,Chicago Bulls,Cleveland Cavaliers,2,43-60,15,two point jumper,True,15,False,False
+2014-12-21,25.2166666667,Chicago Bulls,Cleveland Cavaliers,3,45-62,15,two point shot,True,1,False,False
+2014-12-21,30.0666666667,Chicago Bulls,Cleveland Cavaliers,3,55-67,11,free throw,True,15,True,False
+2014-12-21,30.0666666667,Chicago Bulls,Cleveland Cavaliers,3,55-68,12,free throw,True,15,True,False
+2014-12-28,6.48333333333,Chicago Bulls,Dallas Mavericks,1,8-9,-1,layup,True,0,True,True
+2014-12-28,6.95,Chicago Bulls,Dallas Mavericks,1,10-11,-1,layup,True,0,True,True
+2014-12-28,8.08333333333,Chicago Bulls,Dallas Mavericks,1,15-15,-2,two point shot,True,1,True,True
+2014-12-28,15.2,Chicago Bulls,Dallas Mavericks,2,39-23,-18,layup,True,0,True,True
+2014-12-28,19.6,Chicago Bulls,Dallas Mavericks,2,53-29,-25,free throw,True,15,True,True
+2014-12-28,19.6,Chicago Bulls,Dallas Mavericks,2,53-30,-24,free throw,True,15,True,True
+2014-12-28,38.8,Chicago Bulls,Dallas Mavericks,4,86-65,-23,layup,True,0,True,True
+2014-12-28,38.8,Chicago Bulls,Dallas Mavericks,4,86-65,-22,free throw,True,15,False,True
+2014-12-28,41.5,Chicago Bulls,Dallas Mavericks,4,86-71,-17,two point shot,True,1,True,True
+2014-12-28,41.5,Chicago Bulls,Dallas Mavericks,4,86-72,-15,free throw,True,15,True,True
+2014-12-28,43.4166666667,Chicago Bulls,Dallas Mavericks,4,92-76,-18,two point shot,True,1,True,True
+2014-12-28,43.8833333333,Chicago Bulls,Dallas Mavericks,4,95-78,-19,layup,True,0,True,True
+2014-12-28,43.8833333333,Chicago Bulls,Dallas Mavericks,4,95-79,-17,free throw,True,15,True,True
+2014-12-28,45.4833333333,Chicago Bulls,Dallas Mavericks,4,99-81,-20,hook shot,True,1,False,True
+2014-12-30,3.13333333333,Chicago Bulls,Memphis Grizzlies,1,0-4,-6,hook shot,False,4,False,True
+2014-12-30,4.16666666667,Chicago Bulls,Memphis Grizzlies,1,3-7,-6,tip shot,False,0,False,True
+2014-12-30,4.23333333333,Chicago Bulls,Memphis Grizzlies,1,5-7,-4,two point shot,False,1,True,True
+2014-12-30,20.45,Chicago Bulls,Memphis Grizzlies,2,36-33,1,two point shot,False,1,True,True
+2014-12-30,20.45,Chicago Bulls,Memphis Grizzlies,2,37-33,3,free throw,False,15,True,True
+2014-12-30,23.6833333333,Chicago Bulls,Memphis Grizzlies,2,43-42,-1,layup,False,0,False,True
+2014-12-30,27.3666666667,Chicago Bulls,Memphis Grizzlies,3,50-46,2,two point jumper,False,6,False,True
+2014-12-30,43.4166666667,Chicago Bulls,Memphis Grizzlies,4,83-78,4,free throw,False,15,False,True
+2014-12-30,43.4166666667,Chicago Bulls,Memphis Grizzlies,4,84-78,5,free throw,False,15,True,True
+2014-12-30,45.0833333333,Chicago Bulls,Memphis Grizzlies,4,88-80,6,two point jumper,False,1,False,True
+2014-12-30,46.4166666667,Chicago Bulls,Memphis Grizzlies,4,90-82,6,two point jumper,False,21,False,True
+2014-12-30,47.0666666667,Chicago Bulls,Memphis Grizzlies,4,90-84,4,two point shot,False,1,False,True
+2014-12-30,47.2666666667,Chicago Bulls,Memphis Grizzlies,4,91-84,6,free throw,False,15,True,True
+2014-12-30,47.2666666667,Chicago Bulls,Memphis Grizzlies,4,92-84,7,free throw,False,15,True,True
+2014-01-04,2.3,Chicago Bulls,Atlanta Hawks,1,5-5,-1,free throw,True,15,True,True
+2014-01-04,2.3,Chicago Bulls,Atlanta Hawks,1,5-5,-1,free throw,True,15,False,True
+2014-01-04,26.1333333333,Chicago Bulls,Atlanta Hawks,3,47-50,1,tip shot,True,0,False,True
+2014-01-04,27.1166666667,Chicago Bulls,Atlanta Hawks,3,47-52,3,layup,True,0,True,True
+2014-01-04,28.3833333333,Chicago Bulls,Atlanta Hawks,3,49-55,5,free throw,True,15,True,True
+2014-01-04,28.3833333333,Chicago Bulls,Atlanta Hawks,3,49-56,6,free throw,True,15,True,True
+2014-01-04,30.8833333333,Chicago Bulls,Atlanta Hawks,3,54-59,3,layup,True,0,False,True
+2014-01-04,37.5,Chicago Bulls,Atlanta Hawks,4,67-72,3,two point shot,True,1,True,True
+2014-01-04,40.1,Chicago Bulls,Atlanta Hawks,4,71-76,3,two point shot,True,7,True,True
+2014-01-04,44.1,Chicago Bulls,Atlanta Hawks,4,79-84,3,unknown,True,5,False,True
+2014-01-04,45.9666666667,Chicago Bulls,Atlanta Hawks,4,84-88,3,free throw,True,15,False,True
+2014-01-04,45.9666666667,Chicago Bulls,Atlanta Hawks,4,84-89,4,free throw,True,15,True,True
+2014-01-10,4.7,Chicago Bulls,Milwaukee Bucks,1,2-10,-9,free throw,False,15,True,True
+2014-01-10,4.7,Chicago Bulls,Milwaukee Bucks,1,3-10,-8,free throw,False,15,True,True
+2014-01-10,6.98333333333,Chicago Bulls,Milwaukee Bucks,1,5-16,-13,two point jumper,False,18,False,True
+2014-01-10,10.9,Chicago Bulls,Milwaukee Bucks,1,16-23,-9,two point jumper,False,3,False,True
+2014-01-10,11.8,Chicago Bulls,Milwaukee Bucks,1,19-27,-9,free throw,False,15,True,True
+2014-01-10,11.8,Chicago Bulls,Milwaukee Bucks,1,20-27,-8,free throw,False,15,True,True
+2014-01-10,19.9166666667,Chicago Bulls,Milwaukee Bucks,2,36-34,1,free throw,False,15,False,True
+2014-01-10,19.9166666667,Chicago Bulls,Milwaukee Bucks,2,36-34,1,free throw,False,15,False,True
+2014-01-10,28.7333333333,Chicago Bulls,Milwaukee Bucks,3,56-47,7,dunk,False,0,True,True
+2014-01-10,38.8666666667,Chicago Bulls,Milwaukee Bucks,4,71-66,3,two point jumper,False,19,True,True
+2014-01-10,40.2833333333,Chicago Bulls,Milwaukee Bucks,4,71-66,3,hook shot,False,9,False,True
+2014-01-11,0.383333333333,Chicago Bulls,Charlotte Bobcats,1,0-0,-2,hook shot,True,8,False,False
+2014-01-11,18.45,Chicago Bulls,Charlotte Bobcats,2,28-40,10,two point jumper,True,7,True,False
+2014-01-11,19.0,Chicago Bulls,Charlotte Bobcats,2,30-40,8,two point jumper,True,18,False,False
+2014-01-11,22.15,Chicago Bulls,Charlotte Bobcats,2,36-46,8,two point shot,True,1,True,False
+2014-01-11,30.1666666667,Chicago Bulls,Charlotte Bobcats,3,48-63,13,two point shot,True,1,True,False
+2014-01-11,37.2666666667,Chicago Bulls,Charlotte Bobcats,4,73-74,-1,two point shot,True,1,True,False
+2014-01-11,38.6166666667,Chicago Bulls,Charlotte Bobcats,4,73-77,2,layup,True,0,True,False
+2014-01-11,40.35,Chicago Bulls,Charlotte Bobcats,4,73-82,7,layup,True,0,True,False
+2014-01-11,40.35,Chicago Bulls,Charlotte Bobcats,4,73-83,9,free throw,True,15,True,False
+2014-01-11,44.15,Chicago Bulls,Charlotte Bobcats,4,80-88,7,free throw,True,15,True,False
+2014-01-11,44.15,Chicago Bulls,Charlotte Bobcats,4,80-89,8,free throw,True,15,True,False
+2014-01-11,44.6833333333,Chicago Bulls,Charlotte Bobcats,4,80-91,9,two point jumper,True,20,True,False
+2014-01-11,47.0833333333,Chicago Bulls,Charlotte Bobcats,4,88-97,8,free throw,True,15,True,False
+2014-01-11,47.0833333333,Chicago Bulls,Charlotte Bobcats,4,88-98,9,free throw,True,15,True,False
+2014-01-13,15.5,Chicago Bulls,Washington Wizards,2,36-22,-15,free throw,True,15,True,True
+2014-01-13,15.5,Chicago Bulls,Washington Wizards,2,36-23,-14,free throw,True,15,True,True
+2014-01-13,19.3833333333,Chicago Bulls,Washington Wizards,2,41-34,-9,two point jumper,True,9,False,True
+2014-01-13,21.65,Chicago Bulls,Washington Wizards,2,47-40,-9,two point jumper,True,14,True,True
+2014-01-13,23.7833333333,Chicago Bulls,Washington Wizards,2,54-43,-12,free throw,True,15,True,True
+2014-01-13,23.7833333333,Chicago Bulls,Washington Wizards,2,54-43,-12,free throw,True,15,False,True
+2014-01-13,30.4833333333,Chicago Bulls,Washington Wizards,3,63-56,-9,tip shot,True,0,False,True
+2014-01-13,41.3166666667,Chicago Bulls,Washington Wizards,4,87-77,-12,layup,True,0,True,True
+2014-01-13,45.45,Chicago Bulls,Washington Wizards,4,96-82,-16,two point jumper,True,1,False,True
+2014-01-13,45.7833333333,Chicago Bulls,Washington Wizards,4,96-83,-14,free throw,True,15,True,True
+2014-01-13,45.7833333333,Chicago Bulls,Washington Wizards,4,96-83,-14,free throw,True,15,False,True
+2014-01-15,3.5,Chicago Bulls,Orlando Magic,1,8-7,-1,two point shot,False,1,True,True
+2014-01-15,4.95,Chicago Bulls,Orlando Magic,1,12-9,1,layup,False,0,True,True
+2014-01-15,19.0,Chicago Bulls,Orlando Magic,2,35-30,3,two point shot,False,1,True,True
+2014-01-15,20.5666666667,Chicago Bulls,Orlando Magic,2,36-37,-2,free throw,False,15,True,True
+2014-01-15,20.5666666667,Chicago Bulls,Orlando Magic,2,37-37,-1,free throw,False,15,True,True
+2014-01-15,21.7,Chicago Bulls,Orlando Magic,2,41-42,-2,free throw,False,15,True,True
+2014-01-15,21.7,Chicago Bulls,Orlando Magic,2,42-42,-1,free throw,False,15,True,True
+2014-01-15,23.1833333333,Chicago Bulls,Orlando Magic,2,44-47,-5,hook shot,False,5,False,True
+2014-01-15,26.8166666667,Chicago Bulls,Orlando Magic,3,52-57,-7,two point jumper,False,18,True,True
+2014-01-15,37.6333333333,Chicago Bulls,Orlando Magic,4,76-82,-7,free throw,False,15,True,True
+2014-01-15,37.6333333333,Chicago Bulls,Orlando Magic,4,76-82,-7,free throw,False,15,False,True
+2014-01-15,37.8166666667,Chicago Bulls,Orlando Magic,4,76-82,-8,tip shot,False,0,False,True
+2014-01-15,38.1833333333,Chicago Bulls,Orlando Magic,4,78-82,-6,layup,False,0,True,True
+2014-01-15,40.7333333333,Chicago Bulls,Orlando Magic,4,86-86,-2,layup,False,0,True,True
+2014-01-15,40.7333333333,Chicago Bulls,Orlando Magic,4,87-86,0,free throw,False,15,True,True
+2014-01-15,41.2833333333,Chicago Bulls,Orlando Magic,4,89-88,-1,layup,False,0,True,True
+2014-01-15,41.2833333333,Chicago Bulls,Orlando Magic,4,89-88,0,free throw,False,15,False,True
+2014-01-15,47.6166666667,Chicago Bulls,Orlando Magic,4,101-99,0,layup,False,0,False,True
+2014-01-15,49.5833333333,Chicago Bulls,Orlando Magic,5,105-106,-2,free throw,False,15,True,True
+2014-01-15,49.5833333333,Chicago Bulls,Orlando Magic,5,106-106,-1,free throw,False,15,True,True
+2014-01-15,55.8666666667,Chicago Bulls,Orlando Magic,6,117-116,-1,hook shot,False,1,False,True
+2014-01-15,57.1166666667,Chicago Bulls,Orlando Magic,6,119-116,1,two point shot,False,1,True,True
+2014-01-15,57.7666666667,Chicago Bulls,Orlando Magic,6,119-116,1,two point jumper,False,21,False,True
+2014-01-15,60.1,Chicago Bulls,Orlando Magic,7,122-123,-3,hook shot,False,5,False,True
+2014-01-15,60.6666666667,Chicago Bulls,Orlando Magic,7,124-125,-3,layup,False,0,True,True
+2014-01-17,3.25,Chicago Bulls,Washington Wizards,1,4-8,-6,dunk,False,0,True,False
+2014-01-17,22.5166666667,Chicago Bulls,Washington Wizards,2,47-52,-6,free throw,False,15,False,False
+2014-01-17,22.5166666667,Chicago Bulls,Washington Wizards,2,48-52,-5,free throw,False,15,True,False
+2014-01-17,25.0,Chicago Bulls,Washington Wizards,3,51-56,-6,free throw,False,15,True,False
+2014-01-17,25.0,Chicago Bulls,Washington Wizards,3,52-56,-5,free throw,False,15,True,False
+2014-01-17,28.35,Chicago Bulls,Washington Wizards,3,61-60,0,free throw,False,15,True,False
+2014-01-17,28.35,Chicago Bulls,Washington Wizards,3,62-60,1,free throw,False,15,True,False
+2014-01-17,37.7,Chicago Bulls,Washington Wizards,4,81-76,3,layup,False,0,True,False
+2014-01-17,43.2,Chicago Bulls,Washington Wizards,4,91-90,-1,two point jumper,False,9,False,False
+2014-01-22,5.7,Chicago Bulls,Cleveland Cavaliers,1,8-4,2,two point jumper,False,17,False,True
+2014-01-22,16.7833333333,Chicago Bulls,Cleveland Cavaliers,2,32-27,3,two point shot,False,1,False,True
+2014-01-22,21.15,Chicago Bulls,Cleveland Cavaliers,2,35-38,-5,unknown,False,8,False,True
+2014-01-22,23.8166666667,Chicago Bulls,Cleveland Cavaliers,2,43-44,-3,two point shot,False,1,True,True
+2014-01-22,26.5666666667,Chicago Bulls,Cleveland Cavaliers,3,50-44,5,free throw,False,15,True,True
+2014-01-22,26.5666666667,Chicago Bulls,Cleveland Cavaliers,3,51-44,6,free throw,False,15,True,True
+2014-01-22,38.9333333333,Chicago Bulls,Cleveland Cavaliers,4,76-68,6,two point shot,False,1,False,True
+2014-01-22,40.9166666667,Chicago Bulls,Cleveland Cavaliers,4,76-72,3,free throw,False,15,False,True
+2014-01-22,40.9166666667,Chicago Bulls,Cleveland Cavaliers,4,77-72,4,free throw,False,15,True,True
+2014-01-22,42.4833333333,Chicago Bulls,Cleveland Cavaliers,4,81-76,3,dunk,False,0,True,True
+2014-01-22,45.0,Chicago Bulls,Cleveland Cavaliers,4,88-81,5,layup,False,0,True,True
+2014-01-25,3.63333333333,Chicago Bulls,Charlotte Bobcats,1,9-6,1,two point shot,False,1,True,True
+2014-01-25,5.73333333333,Chicago Bulls,Charlotte Bobcats,1,11-12,-3,two point jumper,False,1,True,True
+2014-01-25,21.9333333333,Chicago Bulls,Charlotte Bobcats,2,38-35,2,free throw,False,15,False,True
+2014-01-25,21.9333333333,Chicago Bulls,Charlotte Bobcats,2,38-35,2,free throw,False,15,False,True
+2014-01-25,23.3166666667,Chicago Bulls,Charlotte Bobcats,2,38-37,0,free throw,False,15,False,True
+2014-01-25,23.3166666667,Chicago Bulls,Charlotte Bobcats,2,39-37,1,free throw,False,15,True,True
+2014-01-25,24.65,Chicago Bulls,Charlotte Bobcats,3,39-41,-4,two point jumper,False,1,False,True
+2014-01-25,25.8833333333,Chicago Bulls,Charlotte Bobcats,3,42-41,-1,two point jumper,False,19,False,True
+2014-01-25,29.2833333333,Chicago Bulls,Charlotte Bobcats,3,48-45,1,dunk,False,0,True,True
+2014-01-25,32.0333333333,Chicago Bulls,Charlotte Bobcats,3,55-49,4,two point jumper,False,18,True,True
+2014-01-25,34.1666666667,Chicago Bulls,Charlotte Bobcats,3,55-52,1,two point jumper,False,6,False,True
+2014-01-25,36.9666666667,Chicago Bulls,Charlotte Bobcats,4,60-55,3,two point jumper,False,18,False,True
+2014-01-25,38.3,Chicago Bulls,Charlotte Bobcats,4,62-57,3,two point jumper,False,8,False,True
+2014-01-25,43.8833333333,Chicago Bulls,Charlotte Bobcats,4,75-64,9,two point jumper,False,18,False,True
+2014-01-25,47.4833333333,Chicago Bulls,Charlotte Bobcats,4,81-74,6,free throw,False,15,True,True
+2014-01-25,47.4833333333,Chicago Bulls,Charlotte Bobcats,4,82-74,7,free throw,False,15,True,True
+2014-01-29,0.883333333333,Chicago Bulls,San Antonio Spurs,1,2-2,-2,layup,False,0,False,True
+2014-01-29,2.81666666667,Chicago Bulls,San Antonio Spurs,1,9-6,1,layup,False,0,True,True
+2014-01-29,7.95,Chicago Bulls,San Antonio Spurs,1,15-10,3,layup,False,0,False,True
+2014-01-29,19.1666666667,Chicago Bulls,San Antonio Spurs,2,26-33,-9,two point jumper,False,3,False,True
+2014-01-29,20.4833333333,Chicago Bulls,San Antonio Spurs,2,32-36,-6,two point shot,False,1,True,True
+2014-01-29,23.9666666667,Chicago Bulls,San Antonio Spurs,2,40-36,2,layup,False,0,False,True
+2014-01-29,27.2666666667,Chicago Bulls,San Antonio Spurs,3,44-42,0,two point jumper,False,12,True,True
+2014-01-29,30.9166666667,Chicago Bulls,San Antonio Spurs,3,51-51,-2,layup,False,0,False,True
+2014-01-29,32.7333333333,Chicago Bulls,San Antonio Spurs,3,58-55,1,two point jumper,False,7,True,True
+2014-01-29,37.3166666667,Chicago Bulls,San Antonio Spurs,4,74-63,9,layup,False,0,True,True
+2014-01-29,39.75,Chicago Bulls,San Antonio Spurs,4,78-67,9,two point jumper,False,20,False,True
+2014-01-29,47.7166666667,Chicago Bulls,San Antonio Spurs,4,96-86,8,two point jumper,False,9,False,True
+2014-02-01,2.5,Chicago Bulls,New Orleans Pelicans,1,1-7,-7,free throw,False,15,True,False
+2014-02-01,2.5,Chicago Bulls,New Orleans Pelicans,1,1-7,-7,free throw,False,15,False,False
+2014-02-01,4.16666666667,Chicago Bulls,New Orleans Pelicans,1,3-8,-7,two point shot,False,9,True,False
+2014-02-01,9.5,Chicago Bulls,New Orleans Pelicans,1,19-17,0,layup,False,0,True,False
+2014-02-01,10.5833333333,Chicago Bulls,New Orleans Pelicans,1,21-19,0,two point shot,False,8,True,False
+2014-02-01,22.9166666667,Chicago Bulls,New Orleans Pelicans,2,36-48,-13,free throw,False,15,False,False
+2014-02-01,22.9166666667,Chicago Bulls,New Orleans Pelicans,2,37-48,-12,free throw,False,15,True,False
+2014-02-01,25.0,Chicago Bulls,New Orleans Pelicans,3,43-52,-11,layup,False,0,True,False
+2014-02-01,26.45,Chicago Bulls,New Orleans Pelicans,3,43-56,-15,layup,False,0,False,False
+2014-02-01,26.9,Chicago Bulls,New Orleans Pelicans,3,45-56,-13,layup,False,0,True,False
+2014-02-01,28.9166666667,Chicago Bulls,New Orleans Pelicans,3,45-60,-16,free throw,False,15,False,False
+2014-02-01,28.9166666667,Chicago Bulls,New Orleans Pelicans,3,46-60,-15,free throw,False,15,True,False
+2014-02-01,37.4,Chicago Bulls,New Orleans Pelicans,4,60-73,-14,free throw,False,15,True,False
+2014-02-01,37.4,Chicago Bulls,New Orleans Pelicans,4,60-73,-14,free throw,False,15,False,False
+2014-02-11,2.15,Chicago Bulls,Atlanta Hawks,1,6-5,-3,two point shot,True,1,False,False
+2014-02-11,2.9,Chicago Bulls,Atlanta Hawks,1,6-5,-3,layup,True,0,False,False
+2014-02-11,2.93333333333,Chicago Bulls,Atlanta Hawks,1,6-5,-3,layup,True,0,False,False
+2014-02-11,4.98333333333,Chicago Bulls,Atlanta Hawks,1,9-11,0,two point jumper,True,13,True,False
+2014-02-11,7.16666666667,Chicago Bulls,Atlanta Hawks,1,11-19,6,two point jumper,True,18,True,False
+2014-02-11,7.7,Chicago Bulls,Atlanta Hawks,1,11-19,7,free throw,True,15,False,False
+2014-02-11,7.7,Chicago Bulls,Atlanta Hawks,1,11-19,7,free throw,True,15,False,False
+2014-02-11,10.1,Chicago Bulls,Atlanta Hawks,1,15-26,9,two point shot,True,1,True,False
+2014-02-11,17.9833333333,Chicago Bulls,Atlanta Hawks,2,28-46,16,two point jumper,True,7,False,False
+2014-02-11,21.5833333333,Chicago Bulls,Atlanta Hawks,2,32-56,23,free throw,True,15,True,False
+2014-02-11,21.5833333333,Chicago Bulls,Atlanta Hawks,2,32-56,23,free throw,True,15,False,False
+2014-02-11,22.1666666667,Chicago Bulls,Atlanta Hawks,2,34-56,20,two point jumper,True,18,False,False
+2014-02-11,26.1833333333,Chicago Bulls,Atlanta Hawks,3,44-64,18,two point shot,True,1,True,False
+2014-02-11,27.0,Chicago Bulls,Atlanta Hawks,3,44-66,20,two point jumper,True,15,True,False
+2014-02-11,27.5833333333,Chicago Bulls,Atlanta Hawks,3,47-68,19,two point jumper,True,5,True,False
+2014-02-11,30.4833333333,Chicago Bulls,Atlanta Hawks,3,54-72,16,two point shot,True,1,True,False
+2014-02-11,30.9166666667,Chicago Bulls,Atlanta Hawks,3,54-72,16,tip shot,True,0,False,False
+2014-02-11,36.3666666667,Chicago Bulls,Atlanta Hawks,4,70-82,10,two point jumper,True,6,True,False
+2014-02-11,46.9833333333,Chicago Bulls,Atlanta Hawks,4,85-98,11,two point jumper,True,20,False,False
+2014-02-11,47.3666666667,Chicago Bulls,Atlanta Hawks,4,85-99,13,free throw,True,15,True,False
+2014-02-11,47.3666666667,Chicago Bulls,Atlanta Hawks,4,85-100,14,free throw,True,15,True,False
+2014-02-21,0.683333333333,Chicago Bulls,Denver Nuggets,1,0-1,0,free throw,True,15,True,False
+2014-02-21,0.683333333333,Chicago Bulls,Denver Nuggets,1,0-2,1,free throw,True,15,True,False
+2014-02-21,1.76666666667,Chicago Bulls,Denver Nuggets,1,2-4,0,two point shot,True,1,True,False
+2014-02-21,2.2,Chicago Bulls,Denver Nuggets,1,2-6,2,layup,True,0,True,False
+2014-02-21,3.31666666667,Chicago Bulls,Denver Nuggets,1,4-6,0,layup,True,0,False,False
+2014-02-21,17.0333333333,Chicago Bulls,Denver Nuggets,2,32-45,12,free throw,True,15,True,False
+2014-02-21,17.0333333333,Chicago Bulls,Denver Nuggets,2,32-46,13,free throw,True,15,True,False
+2014-02-21,20.75,Chicago Bulls,Denver Nuggets,2,35-57,20,two point shot,True,1,True,False
+2014-02-21,23.5833333333,Chicago Bulls,Denver Nuggets,2,44-66,21,free throw,True,15,True,False
+2014-02-21,23.5833333333,Chicago Bulls,Denver Nuggets,2,44-67,22,free throw,True,15,True,False
+2014-02-21,27.1833333333,Chicago Bulls,Denver Nuggets,3,53-74,19,layup,True,0,True,False
+2014-02-21,29.8833333333,Chicago Bulls,Denver Nuggets,3,63-78,13,tip shot,True,0,False,False
+2014-02-23,6.66666666667,Chicago Bulls,Miami Heat,1,11-11,-2,two point shot,False,1,True,False
+2014-02-23,8.53333333333,Chicago Bulls,Miami Heat,1,13-16,-5,layup,False,0,False,False
+2014-02-23,9.23333333333,Chicago Bulls,Miami Heat,1,17-16,-1,layup,False,0,True,False
+2014-02-23,9.23333333333,Chicago Bulls,Miami Heat,1,18-16,1,free throw,False,15,True,False
+2014-02-23,21.3333333333,Chicago Bulls,Miami Heat,2,35-33,0,layup,False,0,True,False
+2014-02-23,21.3333333333,Chicago Bulls,Miami Heat,2,36-33,2,free throw,False,15,True,False
+2014-02-23,24.8166666667,Chicago Bulls,Miami Heat,3,40-40,-2,two point jumper,False,3,False,False
+2014-02-23,25.6333333333,Chicago Bulls,Miami Heat,3,42-42,-2,two point jumper,False,19,True,False
+2014-02-23,28.2833333333,Chicago Bulls,Miami Heat,3,46-44,0,hook shot,False,9,False,False
+2014-02-23,29.4166666667,Chicago Bulls,Miami Heat,3,48-46,0,layup,False,0,True,False
+2014-02-23,39.8,Chicago Bulls,Miami Heat,4,58-75,-19,layup,False,0,True,False
+2014-02-23,39.8,Chicago Bulls,Miami Heat,4,59-75,-17,free throw,False,15,True,False
+2014-02-23,41.6666666667,Chicago Bulls,Miami Heat,4,66-77,-13,two point shot,False,7,True,False
+2014-02-23,45.5833333333,Chicago Bulls,Miami Heat,4,68-86,-20,layup,False,0,False,False
+2014-02-23,46.0833333333,Chicago Bulls,Miami Heat,4,72-86,-15,free throw,False,15,False,False
+2014-02-23,46.0833333333,Chicago Bulls,Miami Heat,4,73-86,-14,free throw,False,15,True,False
+2014-02-23,47.1166666667,Chicago Bulls,Miami Heat,4,78-90,-13,free throw,False,15,True,False
+2014-02-23,47.1166666667,Chicago Bulls,Miami Heat,4,79-90,-12,free throw,False,15,True,False
+2014-02-25,3.7,Chicago Bulls,Atlanta Hawks,1,6-11,-7,two point jumper,False,19,False,True
+2014-02-25,4.03333333333,Chicago Bulls,Atlanta Hawks,1,6-11,-7,two point shot,False,9,False,True
+2014-02-25,4.66666666667,Chicago Bulls,Atlanta Hawks,1,6-13,-9,layup,False,0,False,True
+2014-02-25,4.95,Chicago Bulls,Atlanta Hawks,1,8-13,-7,two point shot,False,1,True,True
+2014-02-25,7.31666666667,Chicago Bulls,Atlanta Hawks,1,12-18,-8,two point jumper,False,21,True,True
+2014-02-25,22.4166666667,Chicago Bulls,Atlanta Hawks,2,50-48,0,two point shot,False,1,True,True
+2014-02-25,22.7333333333,Chicago Bulls,Atlanta Hawks,2,52-48,2,layup,False,0,True,True
+2014-02-25,23.8666666667,Chicago Bulls,Atlanta Hawks,2,54-48,5,free throw,False,15,True,True
+2014-02-25,23.8666666667,Chicago Bulls,Atlanta Hawks,2,54-48,5,free throw,False,15,False,True
+2014-02-25,27.5666666667,Chicago Bulls,Atlanta Hawks,3,60-59,-1,two point shot,False,1,True,True
+2014-02-25,29.9833333333,Chicago Bulls,Atlanta Hawks,3,67-63,2,two point shot,False,7,True,True
+2014-02-25,36.95,Chicago Bulls,Atlanta Hawks,4,82-77,3,two point shot,False,7,True,True
+2014-02-25,38.9333333333,Chicago Bulls,Atlanta Hawks,4,84-82,0,two point jumper,False,3,False,True
+2014-02-25,40.0666666667,Chicago Bulls,Atlanta Hawks,4,86-85,-1,two point shot,False,1,True,True
+2014-02-25,41.1666666667,Chicago Bulls,Atlanta Hawks,4,91-88,1,two point jumper,False,21,True,True
+2014-02-25,44.0666666667,Chicago Bulls,Atlanta Hawks,4,96-94,1,free throw,False,15,False,True
+2014-02-25,44.0666666667,Chicago Bulls,Atlanta Hawks,4,97-94,2,free throw,False,15,True,True
+2014-02-28,18.3833333333,Chicago Bulls,Dallas Mavericks,2,36-43,-9,two point jumper,False,8,False,False
+2014-02-28,22.0333333333,Chicago Bulls,Dallas Mavericks,2,45-53,-10,layup,False,0,True,False
+2014-02-28,22.0333333333,Chicago Bulls,Dallas Mavericks,2,45-53,-9,free throw,False,15,False,False
+2014-02-28,24.0,Chicago Bulls,Dallas Mavericks,2,51-54,-5,two point jumper,False,18,False,False
+2014-02-28,28.3833333333,Chicago Bulls,Dallas Mavericks,3,60-65,-7,two point shot,False,1,True,False
+2014-02-28,30.7333333333,Chicago Bulls,Dallas Mavericks,3,66-69,-5,two point shot,False,1,True,False
+2014-02-28,39.6333333333,Chicago Bulls,Dallas Mavericks,4,81-78,1,two point jumper,False,18,False,False
+2014-02-28,47.3,Chicago Bulls,Dallas Mavericks,4,96-87,7,layup,False,0,True,False
+2014-02-28,47.8166666667,Chicago Bulls,Dallas Mavericks,4,99-91,7,free throw,False,15,True,False
+2014-02-28,47.8166666667,Chicago Bulls,Dallas Mavericks,4,100-91,8,free throw,False,15,True,False

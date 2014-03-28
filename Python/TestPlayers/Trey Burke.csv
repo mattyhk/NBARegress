@@ -1,0 +1,637 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-02-24,4.53333333333,Utah Jazz,Boston Celtics,1,5-11,4,layup,True,0,True,False
+2014-02-24,6.21666666667,Utah Jazz,Boston Celtics,1,8-13,3,two point jumper,True,21,False,False
+2014-02-24,8.01666666667,Utah Jazz,Boston Celtics,1,12-15,1,two point jumper,True,17,False,False
+2014-02-24,11.45,Utah Jazz,Boston Celtics,1,18-27,7,two point jumper,True,19,False,False
+2014-02-24,21.3666666667,Utah Jazz,Boston Celtics,2,39-50,9,layup,True,0,True,False
+2014-02-24,21.6666666667,Utah Jazz,Boston Celtics,2,39-50,9,layup,True,0,False,False
+2014-02-24,24.5166666667,Utah Jazz,Boston Celtics,3,48-59,8,three point jumper,True,25,False,False
+2014-02-24,26.5,Utah Jazz,Boston Celtics,3,52-66,11,three point jumper,True,24,True,False
+2014-02-24,30.1666666667,Utah Jazz,Boston Celtics,3,60-74,11,three point jumper,True,25,False,False
+2014-02-24,35.9166666667,Utah Jazz,Boston Celtics,3,68-83,13,two point shot,True,1,False,False
+2014-02-24,35.9333333333,Utah Jazz,Boston Celtics,3,68-83,13,layup,True,0,False,False
+2014-02-24,40.9166666667,Utah Jazz,Boston Celtics,4,83-96,10,three point jumper,True,24,True,False
+2014-02-24,41.5666666667,Utah Jazz,Boston Celtics,4,85-98,11,two point jumper,True,17,True,False
+2014-02-24,42.8833333333,Utah Jazz,Boston Celtics,4,88-100,9,three point jumper,True,24,False,False
+2014-02-24,44.0166666667,Utah Jazz,Boston Celtics,4,90-103,11,two point jumper,True,18,False,False
+2014-02-19,0.7,Utah Jazz,Brooklyn Nets,1,3-3,-3,three point jumper,True,24,True,True
+2014-02-19,1.81666666667,Utah Jazz,Brooklyn Nets,1,3-8,2,three point jumper,True,25,True,True
+2014-02-19,3.46666666667,Utah Jazz,Brooklyn Nets,1,7-10,1,layup,True,0,True,True
+2014-02-19,19.8166666667,Utah Jazz,Brooklyn Nets,2,36-42,3,three point jumper,True,25,False,True
+2014-02-19,21.1166666667,Utah Jazz,Brooklyn Nets,2,40-47,5,two point jumper,True,22,True,True
+2014-02-19,25.25,Utah Jazz,Brooklyn Nets,3,48-58,7,three point jumper,True,25,False,True
+2014-02-19,30.25,Utah Jazz,Brooklyn Nets,3,63-70,5,two point jumper,True,22,True,True
+2014-02-19,32.05,Utah Jazz,Brooklyn Nets,3,69-72,1,two point jumper,True,21,False,True
+2014-02-19,41.1,Utah Jazz,Brooklyn Nets,4,84-84,-2,two point jumper,True,21,True,True
+2014-02-19,45.5333333333,Utah Jazz,Brooklyn Nets,4,96-89,-10,three point jumper,True,25,False,True
+2014-02-19,46.65,Utah Jazz,Brooklyn Nets,4,99-91,-11,three point jumper,True,23,False,True
+2014-02-19,47.9833333333,Utah Jazz,Brooklyn Nets,4,105-99,-9,three point jumper,True,35,False,True
+2014-02-12,3.65,Utah Jazz,Philadelphia 76ers,1,6-6,-2,two point jumper,True,14,False,True
+2014-02-12,19.75,Utah Jazz,Philadelphia 76ers,2,41-45,2,two point jumper,True,17,True,True
+2014-02-12,20.4333333333,Utah Jazz,Philadelphia 76ers,2,43-49,3,three point jumper,True,25,True,True
+2014-02-12,21.5,Utah Jazz,Philadelphia 76ers,2,45-49,1,three point jumper,True,28,False,True
+2014-02-12,26.4,Utah Jazz,Philadelphia 76ers,3,53-60,5,two point jumper,True,20,False,True
+2014-02-12,29.45,Utah Jazz,Philadelphia 76ers,3,58-64,4,two point jumper,True,19,False,True
+2014-02-12,44.4833333333,Utah Jazz,Philadelphia 76ers,4,86-89,0,three point jumper,True,24,False,True
+2014-02-12,45.5,Utah Jazz,Philadelphia 76ers,4,88-91,1,two point jumper,True,18,True,True
+2014-02-12,47.5166666667,Utah Jazz,Philadelphia 76ers,4,91-98,4,three point jumper,True,25,False,True
+2014-02-03,0.633333333333,Utah Jazz,Toronto Raptors,1,2-0,-5,three point jumper,True,24,False,False
+2014-02-03,2.05,Utah Jazz,Toronto Raptors,1,4-2,-4,layup,True,0,True,False
+2014-02-03,9.95,Utah Jazz,Toronto Raptors,1,22-19,-5,two point jumper,True,15,False,False
+2014-02-03,10.0166666667,Utah Jazz,Toronto Raptors,1,22-21,-3,two point shot,True,7,True,False
+2014-02-03,20.7,Utah Jazz,Toronto Raptors,2,45-37,-11,three point jumper,True,26,False,False
+2014-02-03,21.8,Utah Jazz,Toronto Raptors,2,47-40,-10,three point jumper,True,25,False,False
+2014-02-03,22.2833333333,Utah Jazz,Toronto Raptors,2,49-40,-12,three point jumper,True,23,False,False
+2014-02-03,25.9,Utah Jazz,Toronto Raptors,3,57-46,-13,two point jumper,True,16,False,False
+2014-02-03,27.2,Utah Jazz,Toronto Raptors,3,59-50,-11,two point jumper,True,20,True,False
+2014-02-03,28.5666666667,Utah Jazz,Toronto Raptors,3,62-52,-12,two point jumper,True,18,True,False
+2014-02-03,31.35,Utah Jazz,Toronto Raptors,3,64-55,-11,two point jumper,True,1,False,False
+2014-02-03,42.2833333333,Utah Jazz,Toronto Raptors,4,79-72,-9,two point jumper,True,1,False,False
+2014-02-03,44.6833333333,Utah Jazz,Toronto Raptors,4,83-76,-9,two point jumper,True,18,False,False
+2014-02-03,45.8666666667,Utah Jazz,Toronto Raptors,4,88-78,-12,two point shot,True,7,False,False
+2014-01-31,0.5,Utah Jazz,Golden State Warriors,1,0-0,-2,two point jumper,True,18,False,False
+2014-01-31,4.13333333333,Utah Jazz,Golden State Warriors,1,9-7,-4,two point jumper,True,23,True,False
+2014-01-31,5.16666666667,Utah Jazz,Golden State Warriors,1,14-7,-10,three point jumper,True,23,False,False
+2014-01-31,7.53333333333,Utah Jazz,Golden State Warriors,1,17-12,-7,two point jumper,True,19,False,False
+2014-01-31,14.3833333333,Utah Jazz,Golden State Warriors,2,28-26,-4,two point jumper,True,11,False,False
+2014-01-31,24.5666666667,Utah Jazz,Golden State Warriors,3,41-48,5,two point shot,True,5,False,False
+2014-01-31,40.1,Utah Jazz,Golden State Warriors,4,72-77,2,three point jumper,True,25,False,False
+2014-01-31,45.2166666667,Utah Jazz,Golden State Warriors,4,87-86,-3,two point shot,True,10,True,False
+2014-01-31,47.2,Utah Jazz,Golden State Warriors,4,91-88,-5,two point jumper,True,4,False,False
+2014-01-31,47.6833333333,Utah Jazz,Golden State Warriors,4,93-88,-8,three point jumper,True,29,False,False
+2014-12-28,1.0,Utah Jazz,Los Angeles Clippers,1,0-0,-3,three point jumper,False,25,False,False
+2014-12-28,5.91666666667,Utah Jazz,Los Angeles Clippers,1,11-6,2,three point jumper,False,26,False,False
+2014-12-28,18.8166666667,Utah Jazz,Los Angeles Clippers,2,30-27,1,two point jumper,False,22,False,False
+2014-12-28,19.4833333333,Utah Jazz,Los Angeles Clippers,2,32-29,0,three point jumper,False,25,False,False
+2014-12-28,21.8333333333,Utah Jazz,Los Angeles Clippers,2,36-36,-3,three point jumper,False,26,False,False
+2014-12-28,23.7666666667,Utah Jazz,Los Angeles Clippers,2,43-42,-1,two point jumper,False,20,True,False
+2014-12-28,24.8,Utah Jazz,Los Angeles Clippers,3,43-45,-4,two point jumper,False,16,False,False
+2014-12-28,27.2666666667,Utah Jazz,Los Angeles Clippers,3,46-49,-5,two point shot,False,11,False,False
+2014-12-28,28.7333333333,Utah Jazz,Los Angeles Clippers,3,48-51,-5,layup,False,0,False,False
+2014-12-28,30.5333333333,Utah Jazz,Los Angeles Clippers,3,53-56,-5,two point jumper,False,18,True,False
+2014-12-28,38.3833333333,Utah Jazz,Los Angeles Clippers,4,69-74,-7,two point jumper,False,12,False,False
+2014-12-28,39.65,Utah Jazz,Los Angeles Clippers,4,73-78,-7,two point shot,False,16,True,False
+2014-12-28,43.0333333333,Utah Jazz,Los Angeles Clippers,4,83-87,-7,three point jumper,False,23,True,False
+2014-12-28,44.3333333333,Utah Jazz,Los Angeles Clippers,4,86-89,-4,free throw,False,15,True,False
+2014-12-28,45.4666666667,Utah Jazz,Los Angeles Clippers,4,89-90,-2,free throw,False,15,True,False
+2014-12-28,45.4666666667,Utah Jazz,Los Angeles Clippers,4,90-90,-1,free throw,False,15,True,False
+2014-12-28,46.35,Utah Jazz,Los Angeles Clippers,4,90-95,-7,two point shot,False,1,False,False
+2014-02-01,1.0,Utah Jazz,Los Angeles Clippers,1,0-0,-3,three point jumper,False,24,False,True
+2014-02-01,4.56666666667,Utah Jazz,Los Angeles Clippers,1,7-2,2,three point jumper,False,25,False,True
+2014-02-01,6.98333333333,Utah Jazz,Los Angeles Clippers,1,11-6,2,three point jumper,False,26,True,True
+2014-02-01,11.4666666667,Utah Jazz,Los Angeles Clippers,1,21-17,2,two point jumper,False,19,False,True
+2014-02-01,22.6166666667,Utah Jazz,Los Angeles Clippers,2,38-38,-3,three point jumper,False,23,False,True
+2014-02-01,28.85,Utah Jazz,Los Angeles Clippers,3,56-53,0,three point jumper,False,23,True,True
+2014-02-01,30.6,Utah Jazz,Los Angeles Clippers,3,58-58,-2,layup,False,0,False,True
+2014-02-01,36.3,Utah Jazz,Los Angeles Clippers,4,65-76,-14,three point jumper,False,26,False,True
+2014-02-01,38.0,Utah Jazz,Los Angeles Clippers,4,65-80,-17,layup,False,0,False,True
+2014-02-01,42.6,Utah Jazz,Los Angeles Clippers,4,79-90,-13,two point shot,False,23,False,True
+2014-02-01,43.0333333333,Utah Jazz,Los Angeles Clippers,4,79-90,-14,three point jumper,False,25,False,True
+2014-02-01,47.7333333333,Utah Jazz,Los Angeles Clippers,4,84-102,-21,three point jumper,False,25,False,True
+2014-12-27,2.88333333333,Utah Jazz,Los Angeles Lakers,1,8-10,0,two point jumper,True,15,True,True
+2014-12-27,3.88333333333,Utah Jazz,Los Angeles Lakers,1,10-12,0,two point jumper,True,22,True,True
+2014-12-27,5.6,Utah Jazz,Los Angeles Lakers,1,14-14,-3,three point jumper,True,25,False,True
+2014-12-27,21.3166666667,Utah Jazz,Los Angeles Lakers,2,49-46,-5,two point jumper,True,1,False,True
+2014-12-27,22.3833333333,Utah Jazz,Los Angeles Lakers,2,52-51,-4,three point jumper,True,25,True,True
+2014-12-27,22.75,Utah Jazz,Los Angeles Lakers,2,52-53,-1,two point jumper,True,1,True,True
+2014-12-27,23.2833333333,Utah Jazz,Los Angeles Lakers,2,52-55,1,two point jumper,True,21,True,True
+2014-12-27,25.2666666667,Utah Jazz,Los Angeles Lakers,3,55-60,2,three point jumper,True,25,True,True
+2014-12-27,30.8166666667,Utah Jazz,Los Angeles Lakers,3,67-72,3,two point jumper,True,18,False,True
+2014-12-27,46.25,Utah Jazz,Los Angeles Lakers,4,99-102,0,three point jumper,True,25,False,True
+2014-01-03,1.4,Utah Jazz,Los Angeles Lakers,1,0-5,-7,two point jumper,False,19,False,True
+2014-01-03,3.26666666667,Utah Jazz,Los Angeles Lakers,1,2-7,-8,three point jumper,False,26,False,True
+2014-01-03,14.2,Utah Jazz,Los Angeles Lakers,2,17-34,-19,two point jumper,False,22,True,True
+2014-01-03,15.5166666667,Utah Jazz,Los Angeles Lakers,2,19-37,-20,two point shot,False,6,False,True
+2014-01-03,17.1,Utah Jazz,Los Angeles Lakers,2,23-37,-17,three point jumper,False,23,False,True
+2014-01-03,19.2166666667,Utah Jazz,Los Angeles Lakers,2,27-43,-19,three point jumper,False,25,False,True
+2014-01-03,23.6166666667,Utah Jazz,Los Angeles Lakers,2,37-49,-15,three point jumper,False,24,False,True
+2014-01-03,24.9,Utah Jazz,Los Angeles Lakers,3,42-54,-15,three point jumper,False,24,False,True
+2014-01-03,29.1,Utah Jazz,Los Angeles Lakers,3,51-67,-18,two point jumper,False,20,False,True
+2014-01-03,38.7,Utah Jazz,Los Angeles Lakers,4,77-85,-10,two point shot,False,13,True,True
+2014-01-03,40.8833333333,Utah Jazz,Los Angeles Lakers,4,79-88,-12,three point jumper,False,25,False,True
+2014-01-03,44.05,Utah Jazz,Los Angeles Lakers,4,86-92,-8,two point jumper,False,20,False,True
+2014-01-03,45.9,Utah Jazz,Los Angeles Lakers,4,90-94,-6,two point shot,False,15,True,True
+2014-01-03,47.3666666667,Utah Jazz,Los Angeles Lakers,4,94-102,-11,three point jumper,False,25,False,True
+2014-01-03,48.0,Utah Jazz,Los Angeles Lakers,4,99-110,-14,three point jumper,False,42,False,True
+2014-02-11,3.88333333333,Utah Jazz,Los Angeles Lakers,1,11-6,3,two point shot,False,3,True,True
+2014-02-11,5.16666666667,Utah Jazz,Los Angeles Lakers,1,11-9,0,two point shot,False,16,False,True
+2014-02-11,6.1,Utah Jazz,Los Angeles Lakers,1,11-14,-5,two point jumper,False,14,False,True
+2014-02-11,7.5,Utah Jazz,Los Angeles Lakers,1,11-18,-9,two point jumper,False,19,False,True
+2014-02-11,12.0,Utah Jazz,Los Angeles Lakers,1,16-27,-13,two point jumper,False,1,False,True
+2014-02-11,14.5166666667,Utah Jazz,Los Angeles Lakers,2,22-28,-9,three point jumper,False,27,False,True
+2014-02-11,23.8166666667,Utah Jazz,Los Angeles Lakers,2,46-37,7,two point shot,False,19,True,True
+2014-02-11,27.1166666667,Utah Jazz,Los Angeles Lakers,3,50-44,3,three point jumper,False,23,False,True
+2014-02-11,28.6333333333,Utah Jazz,Los Angeles Lakers,3,53-48,4,free throw,False,15,True,True
+2014-02-11,29.7333333333,Utah Jazz,Los Angeles Lakers,3,53-50,1,two point jumper,False,1,False,True
+2014-02-11,45.75,Utah Jazz,Los Angeles Lakers,4,91-76,12,three point jumper,False,23,True,True
+2014-02-11,47.6,Utah Jazz,Los Angeles Lakers,4,96-76,18,two point jumper,False,20,False,True
+2014-11-29,3.63333333333,Utah Jazz,Phoenix Suns,1,6-11,3,two point shot,True,6,True,False
+2014-11-29,23.0,Utah Jazz,Phoenix Suns,2,58-49,-11,two point jumper,True,23,False,False
+2014-11-29,23.4666666667,Utah Jazz,Phoenix Suns,2,60-51,-11,two point shot,True,1,True,False
+2014-11-29,29.3166666667,Utah Jazz,Phoenix Suns,3,76-64,-14,two point jumper,True,1,True,False
+2014-11-29,32.85,Utah Jazz,Phoenix Suns,3,84-69,-18,three point jumper,True,24,False,False
+2014-11-29,33.6166666667,Utah Jazz,Phoenix Suns,3,88-69,-22,three point jumper,True,25,False,False
+2014-11-29,34.1,Utah Jazz,Phoenix Suns,3,88-71,-19,two point jumper,True,1,True,False
+2014-11-29,34.8833333333,Utah Jazz,Phoenix Suns,3,91-73,-20,layup,True,0,True,False
+2014-11-29,35.95,Utah Jazz,Phoenix Suns,3,95-78,-20,three point jumper,True,25,True,False
+2014-11-29,47.2333333333,Utah Jazz,Phoenix Suns,4,112-99,-16,three point jumper,True,24,False,False
+2014-11-30,1.38333333333,Utah Jazz,Phoenix Suns,1,2-0,0,two point jumper,False,21,False,True
+2014-11-30,2.88333333333,Utah Jazz,Phoenix Suns,1,6-2,2,two point shot,False,7,False,True
+2014-11-30,19.0666666667,Utah Jazz,Phoenix Suns,2,40-34,4,layup,False,0,False,True
+2014-11-30,20.1666666667,Utah Jazz,Phoenix Suns,2,45-36,6,three point jumper,False,25,True,True
+2014-11-30,27.5666666667,Utah Jazz,Phoenix Suns,3,57-55,-1,three point jumper,False,26,False,True
+2014-11-30,27.9666666667,Utah Jazz,Phoenix Suns,3,59-55,2,two point shot,False,1,True,True
+2014-11-30,29.7833333333,Utah Jazz,Phoenix Suns,3,63-62,-1,two point shot,False,9,False,True
+2014-11-30,29.9166666667,Utah Jazz,Phoenix Suns,3,66-62,1,three point jumper,False,23,True,True
+2014-11-30,31.5,Utah Jazz,Phoenix Suns,3,68-66,0,two point shot,False,16,False,True
+2014-11-30,31.7833333333,Utah Jazz,Phoenix Suns,3,69-68,0,free throw,False,15,True,True
+2014-11-30,31.7833333333,Utah Jazz,Phoenix Suns,3,70-68,1,free throw,False,15,True,True
+2014-11-30,32.6666666667,Utah Jazz,Phoenix Suns,3,70-70,-2,two point shot,False,7,False,True
+2014-11-30,33.5,Utah Jazz,Phoenix Suns,3,72-70,0,two point jumper,False,7,False,True
+2014-11-30,34.7166666667,Utah Jazz,Phoenix Suns,3,76-73,0,three point jumper,False,25,False,True
+2014-11-30,35.4666666667,Utah Jazz,Phoenix Suns,3,78-75,1,two point shot,False,21,True,True
+2014-11-30,44.1166666667,Utah Jazz,Phoenix Suns,4,101-95,3,three point jumper,False,25,True,True
+2014-11-30,46.7833333333,Utah Jazz,Phoenix Suns,4,105-97,5,three point jumper,False,24,True,True
+2014-11-30,47.7833333333,Utah Jazz,Phoenix Suns,4,109-102,6,free throw,False,15,True,True
+2014-11-30,47.7833333333,Utah Jazz,Phoenix Suns,4,110-102,7,free throw,False,15,True,True
+2014-02-26,1.75,Utah Jazz,Phoenix Suns,1,4-7,1,two point jumper,True,21,True,False
+2014-02-26,4.53333333333,Utah Jazz,Phoenix Suns,1,9-16,4,three point jumper,True,25,True,False
+2014-02-26,12.8166666667,Utah Jazz,Phoenix Suns,2,27-28,-2,three point jumper,True,24,False,False
+2014-02-26,16.95,Utah Jazz,Phoenix Suns,2,31-38,4,three point jumper,True,25,True,False
+2014-02-26,19.3166666667,Utah Jazz,Phoenix Suns,2,38-42,2,two point jumper,True,16,False,False
+2014-02-26,23.4666666667,Utah Jazz,Phoenix Suns,2,44-51,5,two point jumper,True,21,True,False
+2014-12-07,2.5,Utah Jazz,Sacramento Kings,1,2-8,4,layup,True,0,True,False
+2014-12-07,4.78333333333,Utah Jazz,Sacramento Kings,1,10-12,0,two point jumper,True,22,False,False
+2014-12-07,5.91666666667,Utah Jazz,Sacramento Kings,1,10-14,2,layup,True,0,False,False
+2014-12-07,9.28333333333,Utah Jazz,Sacramento Kings,1,18-21,0,three point jumper,True,24,False,False
+2014-12-07,11.9833333333,Utah Jazz,Sacramento Kings,1,23-24,-2,three point jumper,True,23,False,False
+2014-12-07,14.4333333333,Utah Jazz,Sacramento Kings,2,25-30,4,free throw,True,15,True,False
+2014-12-07,14.65,Utah Jazz,Sacramento Kings,2,25-30,3,two point jumper,True,21,False,False
+2014-12-07,21.9166666667,Utah Jazz,Sacramento Kings,2,42-50,6,two point jumper,True,20,False,False
+2014-12-07,23.0833333333,Utah Jazz,Sacramento Kings,2,44-50,3,three point jumper,True,25,False,False
+2014-12-07,26.0666666667,Utah Jazz,Sacramento Kings,3,50-54,2,layup,True,0,True,False
+2014-12-07,30.95,Utah Jazz,Sacramento Kings,3,62-61,-4,three point jumper,True,24,False,False
+2014-12-07,31.95,Utah Jazz,Sacramento Kings,3,64-62,-3,free throw,True,15,True,False
+2014-12-07,31.95,Utah Jazz,Sacramento Kings,3,64-63,-2,free throw,True,15,True,False
+2014-12-07,34.7166666667,Utah Jazz,Sacramento Kings,3,71-70,-3,two point shot,True,12,True,False
+2014-12-07,41.85,Utah Jazz,Sacramento Kings,4,84-80,-5,free throw,True,15,True,False
+2014-12-07,41.85,Utah Jazz,Sacramento Kings,4,84-81,-4,free throw,True,15,True,False
+2014-12-07,42.5333333333,Utah Jazz,Sacramento Kings,4,84-84,-3,three point jumper,True,25,True,False
+2014-12-07,43.0,Utah Jazz,Sacramento Kings,4,84-84,-2,two point jumper,True,16,False,False
+2014-12-07,46.7833333333,Utah Jazz,Sacramento Kings,4,88-93,2,three point jumper,True,25,False,False
+2014-12-07,47.8166666667,Utah Jazz,Sacramento Kings,4,94-96,1,free throw,True,15,True,False
+2014-12-07,47.8166666667,Utah Jazz,Sacramento Kings,4,94-97,2,free throw,True,15,True,False
+2014-12-07,48.0,Utah Jazz,Sacramento Kings,4,97-97,-2,two point jumper,True,13,False,False
+2014-12-07,49.3166666667,Utah Jazz,Sacramento Kings,5,101-102,-2,three point jumper,True,24,True,False
+2014-12-07,51.3,Utah Jazz,Sacramento Kings,5,106-102,-6,two point shot,True,1,False,False
+2014-12-07,52.15,Utah Jazz,Sacramento Kings,5,110-102,-11,three point jumper,True,24,False,False
+2014-12-11,1.56666666667,Utah Jazz,Sacramento Kings,1,0-0,-3,three point jumper,False,25,False,True
+2014-12-11,2.51666666667,Utah Jazz,Sacramento Kings,1,5-2,0,three point jumper,False,25,True,True
+2014-12-11,7.88333333333,Utah Jazz,Sacramento Kings,1,20-11,7,two point shot,False,8,True,True
+2014-12-11,19.75,Utah Jazz,Sacramento Kings,2,45-34,8,three point jumper,False,26,False,True
+2014-12-11,26.5833333333,Utah Jazz,Sacramento Kings,3,67-52,13,two point shot,False,20,True,True
+2014-12-11,27.3166666667,Utah Jazz,Sacramento Kings,3,69-52,14,three point jumper,False,24,False,True
+2014-12-11,39.1333333333,Utah Jazz,Sacramento Kings,4,101-79,20,layup,False,0,True,True
+2014-12-11,39.1333333333,Utah Jazz,Sacramento Kings,4,102-79,22,free throw,False,15,True,True
+2014-12-11,39.1333333333,Utah Jazz,Sacramento Kings,4,103-79,23,free throw,False,15,True,True
+2014-12-11,40.1666666667,Utah Jazz,Sacramento Kings,4,105-82,21,two point jumper,False,20,False,True
+2014-01-27,2.51666666667,Utah Jazz,Sacramento Kings,1,4-2,-4,two point jumper,True,22,True,False
+2014-01-27,3.15,Utah Jazz,Sacramento Kings,1,4-2,-5,three point jumper,True,24,False,False
+2014-01-27,6.91666666667,Utah Jazz,Sacramento Kings,1,12-10,-3,free throw,True,15,True,False
+2014-01-27,19.1666666667,Utah Jazz,Sacramento Kings,2,37-36,-4,three point jumper,True,25,False,False
+2014-01-27,20.4666666667,Utah Jazz,Sacramento Kings,2,43-39,-7,three point jumper,True,25,True,False
+2014-01-27,21.2333333333,Utah Jazz,Sacramento Kings,2,45-43,-4,two point shot,True,9,True,False
+2014-01-27,22.1833333333,Utah Jazz,Sacramento Kings,2,47-45,-4,two point jumper,True,1,False,False
+2014-01-27,25.1166666667,Utah Jazz,Sacramento Kings,3,52-52,-3,three point jumper,True,24,False,False
+2014-01-27,27.05,Utah Jazz,Sacramento Kings,3,53-56,1,two point jumper,True,10,False,False
+2014-01-27,27.95,Utah Jazz,Sacramento Kings,3,53-58,3,unknown,True,3,False,False
+2014-01-27,31.45,Utah Jazz,Sacramento Kings,3,60-69,6,three point jumper,True,25,False,False
+2014-11-25,1.81666666667,Utah Jazz,Chicago Bulls,1,4-3,-3,layup,True,0,True,True
+2014-11-25,4.7,Utah Jazz,Chicago Bulls,1,8-10,-1,three point jumper,True,24,True,True
+2014-11-25,7.16666666667,Utah Jazz,Chicago Bulls,1,12-14,0,two point jumper,True,16,False,True
+2014-11-25,9.36666666667,Utah Jazz,Chicago Bulls,1,14-21,5,two point shot,True,10,False,True
+2014-11-25,18.7,Utah Jazz,Chicago Bulls,2,24-30,4,two point jumper,True,18,False,True
+2014-11-25,20.2333333333,Utah Jazz,Chicago Bulls,2,24-31,5,layup,True,0,False,True
+2014-11-25,23.5,Utah Jazz,Chicago Bulls,2,32-40,5,three point jumper,True,23,False,True
+2014-11-25,23.8666666667,Utah Jazz,Chicago Bulls,2,32-40,6,two point shot,True,6,False,True
+2014-11-25,25.8166666667,Utah Jazz,Chicago Bulls,3,36-43,5,two point jumper,True,1,False,True
+2014-11-25,28.6,Utah Jazz,Chicago Bulls,3,42-50,6,layup,True,0,True,True
+2014-11-25,29.1333333333,Utah Jazz,Chicago Bulls,3,42-50,6,layup,True,0,False,True
+2014-11-25,29.4833333333,Utah Jazz,Chicago Bulls,3,44-51,6,free throw,True,15,True,True
+2014-11-25,29.4833333333,Utah Jazz,Chicago Bulls,3,44-52,7,free throw,True,15,True,True
+2014-11-25,41.4166666667,Utah Jazz,Chicago Bulls,4,66-68,-1,three point jumper,True,25,False,True
+2014-11-25,46.25,Utah Jazz,Chicago Bulls,4,74-75,-1,two point shot,True,10,True,True
+2014-11-25,49.8166666667,Utah Jazz,Chicago Bulls,5,78-83,2,three point jumper,True,25,True,True
+2014-11-25,50.6,Utah Jazz,Chicago Bulls,5,78-83,3,two point jumper,True,11,False,True
+2014-11-25,51.3,Utah Jazz,Chicago Bulls,5,78-83,3,two point jumper,True,3,False,True
+2014-11-25,52.0833333333,Utah Jazz,Chicago Bulls,5,80-85,2,three point jumper,True,26,False,True
+2014-01-10,4.35,Utah Jazz,Cleveland Cavaliers,1,9-10,-1,two point jumper,True,16,False,False
+2014-01-10,8.25,Utah Jazz,Cleveland Cavaliers,1,16-15,-4,three point jumper,True,24,False,False
+2014-01-10,14.6333333333,Utah Jazz,Cleveland Cavaliers,2,31-30,-3,two point jumper,True,21,False,False
+2014-01-10,14.9666666667,Utah Jazz,Cleveland Cavaliers,2,31-32,-1,layup,True,0,True,False
+2014-01-10,16.9833333333,Utah Jazz,Cleveland Cavaliers,2,35-34,-3,two point jumper,True,21,True,False
+2014-01-10,20.7833333333,Utah Jazz,Cleveland Cavaliers,2,41-43,0,two point shot,True,6,False,False
+2014-01-10,21.1166666667,Utah Jazz,Cleveland Cavaliers,2,41-45,2,layup,True,0,True,False
+2014-01-10,21.1166666667,Utah Jazz,Cleveland Cavaliers,2,41-46,4,free throw,True,15,True,False
+2014-01-10,24.9666666667,Utah Jazz,Cleveland Cavaliers,3,48-51,1,two point jumper,True,18,True,False
+2014-01-10,25.55,Utah Jazz,Cleveland Cavaliers,3,50-51,-2,three point jumper,True,24,False,False
+2014-01-10,26.5,Utah Jazz,Cleveland Cavaliers,3,52-51,-4,three point jumper,True,24,False,False
+2014-01-10,27.4,Utah Jazz,Cleveland Cavaliers,3,56-54,-5,three point jumper,True,24,True,False
+2014-01-10,39.5,Utah Jazz,Cleveland Cavaliers,4,94-78,-19,three point jumper,True,24,True,False
+2014-01-10,41.5333333333,Utah Jazz,Cleveland Cavaliers,4,98-80,-20,layup,True,0,True,False
+2014-01-10,44.8,Utah Jazz,Cleveland Cavaliers,4,105-87,-20,two point jumper,True,15,False,False
+2014-02-28,1.63333333333,Utah Jazz,Cleveland Cavaliers,1,0-2,-5,three point jumper,False,23,False,False
+2014-02-28,3.15,Utah Jazz,Cleveland Cavaliers,1,6-2,2,layup,False,0,True,False
+2014-02-28,6.06666666667,Utah Jazz,Cleveland Cavaliers,1,10-6,2,two point jumper,False,12,False,False
+2014-02-28,6.88333333333,Utah Jazz,Cleveland Cavaliers,1,13-6,5,two point jumper,False,12,False,False
+2014-02-28,16.35,Utah Jazz,Cleveland Cavaliers,2,31-31,-3,three point jumper,False,27,False,False
+2014-02-28,18.4833333333,Utah Jazz,Cleveland Cavaliers,2,34-33,-2,three point jumper,False,24,False,False
+2014-02-28,19.7833333333,Utah Jazz,Cleveland Cavaliers,2,34-35,-3,two point shot,False,13,False,False
+2014-02-28,20.4833333333,Utah Jazz,Cleveland Cavaliers,2,36-35,-1,layup,False,0,True,False
+2014-02-28,22.1,Utah Jazz,Cleveland Cavaliers,2,39-37,0,two point jumper,False,18,False,False
+2014-01-17,4.7,Utah Jazz,Detroit Pistons,1,7-10,-6,three point jumper,False,26,False,False
+2014-01-17,5.2,Utah Jazz,Detroit Pistons,1,7-12,-7,two point jumper,False,16,False,False
+2014-01-17,6.38333333333,Utah Jazz,Detroit Pistons,1,10-13,-6,three point jumper,False,26,False,False
+2014-01-17,14.5,Utah Jazz,Detroit Pistons,2,28-29,-4,three point jumper,False,26,False,False
+2014-01-17,19.0333333333,Utah Jazz,Detroit Pistons,2,44-37,4,three point jumper,False,25,True,False
+2014-01-17,19.7,Utah Jazz,Detroit Pistons,2,44-39,3,two point jumper,False,18,False,False
+2014-01-17,20.9666666667,Utah Jazz,Detroit Pistons,2,50-42,6,dunk,False,0,True,False
+2014-01-17,21.6833333333,Utah Jazz,Detroit Pistons,2,50-45,3,two point jumper,False,8,False,False
+2014-01-17,21.9166666667,Utah Jazz,Detroit Pistons,2,50-45,3,layup,False,0,False,False
+2014-01-17,23.7833333333,Utah Jazz,Detroit Pistons,2,58-45,11,two point shot,False,9,True,False
+2014-01-17,27.65,Utah Jazz,Detroit Pistons,3,66-48,15,three point jumper,False,26,False,False
+2014-01-17,28.45,Utah Jazz,Detroit Pistons,3,66-50,14,two point jumper,False,19,False,False
+2014-01-17,29.1,Utah Jazz,Detroit Pistons,3,67-51,15,free throw,False,15,True,False
+2014-01-17,29.1,Utah Jazz,Detroit Pistons,3,67-51,15,free throw,False,15,False,False
+2014-01-17,29.9166666667,Utah Jazz,Detroit Pistons,3,69-52,15,two point shot,False,6,True,False
+2014-01-17,31.9166666667,Utah Jazz,Detroit Pistons,3,76-56,18,two point jumper,False,22,True,False
+2014-01-17,33.2166666667,Utah Jazz,Detroit Pistons,3,81-60,19,two point shot,False,4,True,False
+2014-01-17,36.0,Utah Jazz,Detroit Pistons,3,89-65,22,two point shot,False,9,True,False
+2014-01-17,38.0166666667,Utah Jazz,Detroit Pistons,4,94-67,25,two point jumper,False,21,True,False
+2014-01-17,38.9666666667,Utah Jazz,Detroit Pistons,4,95-67,27,free throw,False,15,True,False
+2014-01-17,38.9666666667,Utah Jazz,Detroit Pistons,4,96-67,28,free throw,False,15,True,False
+2014-12-04,0.216666666667,Utah Jazz,Indiana Pacers,1,0-0,-2,two point jumper,True,18,False,False
+2014-12-04,2.05,Utah Jazz,Indiana Pacers,1,2-5,0,three point jumper,True,24,True,False
+2014-12-04,2.88333333333,Utah Jazz,Indiana Pacers,1,2-8,3,three point jumper,True,24,True,False
+2014-12-04,9.16666666667,Utah Jazz,Indiana Pacers,1,11-19,6,layup,True,0,True,False
+2014-12-04,11.5,Utah Jazz,Indiana Pacers,1,15-23,6,layup,True,0,False,False
+2014-12-04,11.95,Utah Jazz,Indiana Pacers,1,17-23,4,two point jumper,True,13,False,False
+2014-12-04,23.3666666667,Utah Jazz,Indiana Pacers,2,45-48,1,two point jumper,True,18,False,False
+2014-12-04,26.5,Utah Jazz,Indiana Pacers,3,51-50,-3,layup,True,0,True,False
+2014-12-04,27.25,Utah Jazz,Indiana Pacers,3,53-52,-3,two point shot,True,1,True,False
+2014-12-04,33.7,Utah Jazz,Indiana Pacers,3,66-63,-5,two point jumper,True,18,False,False
+2014-12-04,35.9833333333,Utah Jazz,Indiana Pacers,3,68-67,-3,two point jumper,True,19,False,False
+2014-12-04,43.95,Utah Jazz,Indiana Pacers,4,86-76,-12,two point jumper,True,21,False,False
+2014-12-04,47.3166666667,Utah Jazz,Indiana Pacers,4,93-83,-11,free throw,True,15,False,False
+2014-12-04,47.3166666667,Utah Jazz,Indiana Pacers,4,93-84,-10,free throw,True,15,True,False
+2014-01-02,1.93333333333,Utah Jazz,Milwaukee Bucks,1,4-3,-4,unknown,True,24,True,True
+2014-01-02,2.65,Utah Jazz,Milwaukee Bucks,1,4-3,-4,three point jumper,True,25,False,True
+2014-01-02,5.6,Utah Jazz,Milwaukee Bucks,1,10-8,-4,layup,True,0,False,True
+2014-01-02,6.75,Utah Jazz,Milwaukee Bucks,1,12-10,-5,three point jumper,True,25,False,True
+2014-01-02,22.1,Utah Jazz,Milwaukee Bucks,2,36-46,8,two point jumper,True,17,False,True
+2014-01-02,25.9333333333,Utah Jazz,Milwaukee Bucks,3,48-55,5,two point jumper,True,18,True,True
+2014-01-02,26.25,Utah Jazz,Milwaukee Bucks,3,48-56,7,free throw,True,15,True,True
+2014-01-02,26.25,Utah Jazz,Milwaukee Bucks,3,48-57,8,free throw,True,15,True,True
+2014-01-02,30.3166666667,Utah Jazz,Milwaukee Bucks,3,52-63,9,two point jumper,True,5,False,True
+2014-01-02,39.8,Utah Jazz,Milwaukee Bucks,4,71-76,2,three point jumper,True,25,False,True
+2014-01-02,45.4,Utah Jazz,Milwaukee Bucks,4,80-87,5,two point jumper,True,22,True,True
+2014-01-02,47.4333333333,Utah Jazz,Milwaukee Bucks,4,84-93,8,free throw,True,15,True,True
+2014-01-02,47.4333333333,Utah Jazz,Milwaukee Bucks,4,84-94,9,free throw,True,15,True,True
+2014-11-22,8.21666666667,Utah Jazz,Dallas Mavericks,1,8-20,-15,three point jumper,False,27,False,True
+2014-11-22,11.2666666667,Utah Jazz,Dallas Mavericks,1,18-31,-15,layup,False,0,True,True
+2014-11-22,18.45,Utah Jazz,Dallas Mavericks,2,24-46,-24,two point jumper,False,19,False,True
+2014-11-22,20.95,Utah Jazz,Dallas Mavericks,2,26-50,-26,two point jumper,False,20,False,True
+2014-11-22,23.9333333333,Utah Jazz,Dallas Mavericks,2,33-58,-27,layup,False,0,True,True
+2014-11-22,23.9333333333,Utah Jazz,Dallas Mavericks,2,34-58,-25,free throw,False,15,True,True
+2014-11-22,24.8833333333,Utah Jazz,Dallas Mavericks,3,34-58,-27,three point jumper,False,25,False,True
+2014-11-22,45.2333333333,Utah Jazz,Dallas Mavericks,4,87-98,-14,three point jumper,False,24,False,True
+2014-11-22,47.65,Utah Jazz,Dallas Mavericks,4,93-103,-13,three point jumper,False,24,False,True
+2014-02-07,3.31666666667,Utah Jazz,Dallas Mavericks,1,10-7,1,two point jumper,False,19,False,True
+2014-02-07,5.63333333333,Utah Jazz,Dallas Mavericks,1,18-14,1,three point jumper,False,23,True,True
+2014-02-07,7.16666666667,Utah Jazz,Dallas Mavericks,1,21-17,1,three point jumper,False,25,False,True
+2014-02-07,9.36666666667,Utah Jazz,Dallas Mavericks,1,21-23,-4,two point jumper,False,13,False,True
+2014-02-07,21.8,Utah Jazz,Dallas Mavericks,2,37-50,-15,two point jumper,False,20,False,True
+2014-02-07,23.4666666667,Utah Jazz,Dallas Mavericks,2,43-52,-11,two point shot,False,19,True,True
+2014-02-07,25.9666666667,Utah Jazz,Dallas Mavericks,3,49-56,-10,three point jumper,False,24,True,True
+2014-02-07,29.5666666667,Utah Jazz,Dallas Mavericks,3,57-65,-11,three point jumper,False,25,True,True
+2014-02-07,33.35,Utah Jazz,Dallas Mavericks,3,64-72,-11,three point jumper,False,23,False,True
+2014-02-07,33.9333333333,Utah Jazz,Dallas Mavericks,3,64-74,-13,three point jumper,False,25,False,True
+2014-02-07,41.4166666667,Utah Jazz,Dallas Mavericks,4,69-88,-22,three point jumper,False,23,False,True
+2014-02-07,43.1,Utah Jazz,Dallas Mavericks,4,77-95,-20,two point shot,False,17,True,True
+2014-02-07,43.6666666667,Utah Jazz,Dallas Mavericks,4,77-95,-21,three point jumper,False,23,False,True
+2014-02-07,45.5666666667,Utah Jazz,Dallas Mavericks,4,77-100,-25,two point jumper,False,22,False,True
+2014-02-07,46.8333333333,Utah Jazz,Dallas Mavericks,4,77-100,-26,three point jumper,False,25,False,True
+2014-12-02,0.8,Utah Jazz,Houston Rockets,1,0-0,-2,two point jumper,True,19,False,True
+2014-12-02,5.41666666667,Utah Jazz,Houston Rockets,1,10-16,3,three point jumper,True,25,True,True
+2014-12-02,7.2,Utah Jazz,Houston Rockets,1,12-20,6,layup,True,0,True,True
+2014-12-02,10.4833333333,Utah Jazz,Houston Rockets,1,21-28,5,two point shot,True,1,True,True
+2014-12-02,11.6333333333,Utah Jazz,Houston Rockets,1,23-36,10,three point jumper,True,24,True,True
+2014-12-02,20.6166666667,Utah Jazz,Houston Rockets,2,45-44,-4,three point jumper,True,25,False,True
+2014-12-02,21.15,Utah Jazz,Houston Rockets,2,45-44,-3,two point shot,True,9,False,True
+2014-12-02,24.0,Utah Jazz,Houston Rockets,2,50-53,0,three point jumper,True,23,False,True
+2014-12-02,24.5,Utah Jazz,Houston Rockets,3,50-56,4,layup,True,0,True,True
+2014-12-02,27.3333333333,Utah Jazz,Houston Rockets,3,55-59,2,two point jumper,True,20,False,True
+2014-12-02,32.8166666667,Utah Jazz,Houston Rockets,3,70-78,6,two point jumper,True,22,True,True
+2014-12-02,38.95,Utah Jazz,Houston Rockets,4,82-86,2,two point jumper,True,19,True,True
+2014-12-02,41.4833333333,Utah Jazz,Houston Rockets,4,89-93,1,three point jumper,True,24,True,True
+2014-12-02,42.3166666667,Utah Jazz,Houston Rockets,4,91-93,-1,three point jumper,True,24,False,True
+2014-12-02,44.05,Utah Jazz,Houston Rockets,4,93-95,0,two point jumper,True,21,False,True
+2014-12-02,45.3,Utah Jazz,Houston Rockets,4,96-99,1,layup,True,0,True,True
+2014-12-02,47.5333333333,Utah Jazz,Houston Rockets,4,103-108,3,two point jumper,True,6,False,True
+2014-12-23,1.61666666667,Utah Jazz,Memphis Grizzlies,1,3-4,-3,layup,False,0,False,True
+2014-12-23,5.73333333333,Utah Jazz,Memphis Grizzlies,1,10-10,-2,two point jumper,False,17,False,True
+2014-12-23,14.45,Utah Jazz,Memphis Grizzlies,2,23-29,-9,three point jumper,False,24,False,True
+2014-12-23,14.95,Utah Jazz,Memphis Grizzlies,2,25-32,-9,layup,False,0,True,True
+2014-12-23,17.7,Utah Jazz,Memphis Grizzlies,2,30-41,-12,free throw,False,15,True,True
+2014-12-23,17.7,Utah Jazz,Memphis Grizzlies,2,31-41,-11,free throw,False,15,True,True
+2014-12-23,18.25,Utah Jazz,Memphis Grizzlies,2,32-41,-10,free throw,False,15,True,True
+2014-12-23,18.25,Utah Jazz,Memphis Grizzlies,2,33-41,-9,free throw,False,15,True,True
+2014-12-23,18.9166666667,Utah Jazz,Memphis Grizzlies,2,36-41,-8,three point jumper,False,24,True,True
+2014-12-23,20.4833333333,Utah Jazz,Memphis Grizzlies,2,42-44,-3,free throw,False,15,True,True
+2014-12-23,20.4833333333,Utah Jazz,Memphis Grizzlies,2,43-44,-2,free throw,False,15,True,True
+2014-12-23,26.1833333333,Utah Jazz,Memphis Grizzlies,3,48-57,-12,three point jumper,False,24,False,True
+2014-12-23,29.1333333333,Utah Jazz,Memphis Grizzlies,3,55-63,-11,three point jumper,False,25,False,True
+2014-12-23,30.85,Utah Jazz,Memphis Grizzlies,3,60-67,-9,two point jumper,False,22,False,True
+2014-12-23,38.9,Utah Jazz,Memphis Grizzlies,4,75-86,-13,two point jumper,False,21,True,True
+2014-12-23,41.0333333333,Utah Jazz,Memphis Grizzlies,4,80-91,-13,layup,False,0,True,True
+2014-12-23,43.2166666667,Utah Jazz,Memphis Grizzlies,4,83-96,-16,three point jumper,False,25,True,True
+2014-12-23,46.3666666667,Utah Jazz,Memphis Grizzlies,4,88-100,-15,three point jumper,False,24,False,True
+2014-11-20,8.28333333333,Utah Jazz,New Orleans Pelicans,1,11-11,-2,layup,False,0,True,True
+2014-11-20,11.0,Utah Jazz,New Orleans Pelicans,1,15-18,-5,two point jumper,False,16,False,True
+2014-11-20,11.25,Utah Jazz,New Orleans Pelicans,1,17-18,-3,layup,False,0,True,True
+2014-11-20,36.3166666667,Utah Jazz,New Orleans Pelicans,4,69-73,-7,three point jumper,False,25,False,True
+2014-11-20,36.6333333333,Utah Jazz,New Orleans Pelicans,4,71-73,-4,layup,False,0,True,True
+2014-11-20,40.6333333333,Utah Jazz,New Orleans Pelicans,4,77-87,-12,two point jumper,False,21,True,True
+2014-11-20,42.1666666667,Utah Jazz,New Orleans Pelicans,4,82-90,-11,three point jumper,False,25,True,True
+2014-12-14,1.95,Utah Jazz,San Antonio Spurs,1,0-3,1,two point jumper,True,22,True,True
+2014-12-14,2.4,Utah Jazz,San Antonio Spurs,1,0-3,1,two point jumper,True,22,False,True
+2014-12-14,7.21666666667,Utah Jazz,San Antonio Spurs,1,10-8,-5,three point jumper,True,25,False,True
+2014-12-14,8.43333333333,Utah Jazz,San Antonio Spurs,1,12-13,-2,three point jumper,True,25,True,True
+2014-12-14,16.6,Utah Jazz,San Antonio Spurs,2,35-24,-13,two point jumper,True,1,True,True
+2014-12-14,17.3833333333,Utah Jazz,San Antonio Spurs,2,36-26,-12,two point shot,True,1,True,True
+2014-12-14,18.7,Utah Jazz,San Antonio Spurs,2,42-28,-16,two point jumper,True,17,True,True
+2014-12-14,21.7833333333,Utah Jazz,San Antonio Spurs,2,51-34,-19,layup,True,0,True,True
+2014-12-14,24.75,Utah Jazz,San Antonio Spurs,3,55-43,-14,layup,True,0,False,True
+2014-12-14,25.1833333333,Utah Jazz,San Antonio Spurs,3,55-45,-12,two point shot,True,9,True,True
+2014-12-14,25.5666666667,Utah Jazz,San Antonio Spurs,3,55-45,-12,two point jumper,True,1,False,True
+2014-12-14,30.1,Utah Jazz,San Antonio Spurs,3,66-52,-16,two point jumper,True,19,False,True
+2014-12-14,30.6666666667,Utah Jazz,San Antonio Spurs,3,68-52,-19,three point jumper,True,25,False,True
+2014-12-14,41.9166666667,Utah Jazz,San Antonio Spurs,4,86-72,-17,three point jumper,True,27,False,True
+2014-12-14,42.1666666667,Utah Jazz,San Antonio Spurs,4,86-72,-16,two point shot,True,14,False,True
+2014-12-14,42.4166666667,Utah Jazz,San Antonio Spurs,4,86-72,-15,free throw,True,15,False,True
+2014-12-14,42.4166666667,Utah Jazz,San Antonio Spurs,4,86-73,-14,free throw,True,15,True,True
+2014-12-14,43.95,Utah Jazz,San Antonio Spurs,4,91-77,-16,two point jumper,True,17,True,True
+2014-12-14,44.55,Utah Jazz,San Antonio Spurs,4,93-77,-18,two point shot,True,9,False,True
+2014-12-14,44.85,Utah Jazz,San Antonio Spurs,4,93-79,-16,layup,True,0,True,True
+2014-01-15,1.88333333333,Utah Jazz,San Antonio Spurs,1,5-4,-1,layup,False,0,False,False
+2014-01-15,3.11666666667,Utah Jazz,San Antonio Spurs,1,5-8,-5,two point shot,False,17,False,False
+2014-01-15,13.3333333333,Utah Jazz,San Antonio Spurs,2,27-28,-3,two point shot,False,10,False,False
+2014-01-15,14.3333333333,Utah Jazz,San Antonio Spurs,2,31-32,-3,two point shot,False,10,True,False
+2014-01-15,25.25,Utah Jazz,San Antonio Spurs,3,47-52,-8,three point jumper,False,24,False,False
+2014-01-15,26.5833333333,Utah Jazz,San Antonio Spurs,3,49-56,-9,two point shot,False,1,False,False
+2014-01-15,32.2833333333,Utah Jazz,San Antonio Spurs,3,56-72,-18,two point jumper,False,9,True,False
+2014-01-15,33.3,Utah Jazz,San Antonio Spurs,3,58-74,-18,unknown,False,7,False,False
+2014-01-15,33.9833333333,Utah Jazz,San Antonio Spurs,3,60-74,-16,two point jumper,False,1,False,False
+2014-01-15,35.4166666667,Utah Jazz,San Antonio Spurs,3,64-79,-17,two point jumper,False,6,False,False
+2014-01-15,35.85,Utah Jazz,San Antonio Spurs,3,69-81,-14,two point jumper,False,1,True,False
+2014-01-15,38.1333333333,Utah Jazz,San Antonio Spurs,4,73-86,-15,two point jumper,False,22,False,False
+2014-01-15,40.9166666667,Utah Jazz,San Antonio Spurs,4,79-93,-16,two point jumper,False,18,False,False
+2014-01-15,44.15,Utah Jazz,San Antonio Spurs,4,86-100,-16,layup,False,0,False,False
+2014-01-15,46.9166666667,Utah Jazz,San Antonio Spurs,4,96-102,-8,layup,False,0,True,False
+2014-01-15,46.9166666667,Utah Jazz,San Antonio Spurs,4,97-102,-6,free throw,False,15,True,False
+2014-01-15,47.55,Utah Jazz,San Antonio Spurs,4,99-103,-6,two point jumper,False,20,True,False
+2014-01-15,47.65,Utah Jazz,San Antonio Spurs,4,102-105,-6,three point jumper,False,25,True,False
+2014-01-15,47.85,Utah Jazz,San Antonio Spurs,4,102-107,-7,layup,False,0,False,False
+2014-01-15,47.9333333333,Utah Jazz,San Antonio Spurs,4,105-107,-5,three point jumper,False,28,True,False
+2014-12-20,0.333333333333,Utah Jazz,Atlanta Hawks,1,0-0,-2,two point jumper,False,1,False,True
+2014-12-20,6.13333333333,Utah Jazz,Atlanta Hawks,1,8-14,-9,three point jumper,False,25,False,True
+2014-12-20,16.3833333333,Utah Jazz,Atlanta Hawks,2,22-37,-18,three point jumper,False,26,False,True
+2014-12-20,21.0166666667,Utah Jazz,Atlanta Hawks,2,30-48,-20,two point jumper,False,15,False,True
+2014-12-20,27.9666666667,Utah Jazz,Atlanta Hawks,3,40-65,-27,two point jumper,False,21,True,True
+2014-12-20,28.5,Utah Jazz,Atlanta Hawks,3,40-67,-30,three point jumper,False,26,False,True
+2014-12-20,30.7333333333,Utah Jazz,Atlanta Hawks,3,44-69,-27,unknown,False,11,False,True
+2014-12-21,0.866666666667,Utah Jazz,Charlotte Bobcats,1,0-0,-3,three point jumper,False,25,False,True
+2014-12-21,1.9,Utah Jazz,Charlotte Bobcats,1,0-0,-2,two point jumper,False,9,False,True
+2014-12-21,2.25,Utah Jazz,Charlotte Bobcats,1,2-0,0,layup,False,0,True,True
+2014-12-21,3.06666666667,Utah Jazz,Charlotte Bobcats,1,2-0,0,layup,False,0,False,True
+2014-12-21,6.13333333333,Utah Jazz,Charlotte Bobcats,1,11-6,2,three point jumper,False,26,False,True
+2014-12-21,23.1333333333,Utah Jazz,Charlotte Bobcats,2,40-44,-7,three point jumper,False,28,True,True
+2014-12-21,26.65,Utah Jazz,Charlotte Bobcats,3,51-49,0,two point jumper,False,16,True,True
+2014-12-21,28.45,Utah Jazz,Charlotte Bobcats,3,52-51,-2,three point jumper,False,26,False,True
+2014-12-21,29.2833333333,Utah Jazz,Charlotte Bobcats,3,54-51,0,three point jumper,False,25,False,True
+2014-12-21,31.3833333333,Utah Jazz,Charlotte Bobcats,3,61-55,3,three point jumper,False,25,True,True
+2014-12-21,32.0,Utah Jazz,Charlotte Bobcats,3,61-57,2,layup,False,0,False,True
+2014-12-21,39.7,Utah Jazz,Charlotte Bobcats,4,79-72,4,three point jumper,False,27,True,True
+2014-12-21,40.7833333333,Utah Jazz,Charlotte Bobcats,4,79-72,5,two point jumper,False,21,False,True
+2014-12-21,43.45,Utah Jazz,Charlotte Bobcats,4,83-79,2,two point shot,False,12,True,True
+2014-12-21,45.3666666667,Utah Jazz,Charlotte Bobcats,4,86-83,0,three point jumper,False,24,True,True
+2014-12-21,47.5166666667,Utah Jazz,Charlotte Bobcats,4,86-85,-1,two point shot,False,1,False,True
+2014-12-21,47.8333333333,Utah Jazz,Charlotte Bobcats,4,87-85,1,free throw,False,15,True,True
+2014-12-21,47.8333333333,Utah Jazz,Charlotte Bobcats,4,88-85,2,free throw,False,15,True,True
+2014-12-30,1.88333333333,Utah Jazz,Charlotte Bobcats,1,4-2,-5,three point jumper,True,24,False,True
+2014-12-30,6.45,Utah Jazz,Charlotte Bobcats,1,13-11,-4,two point jumper,True,4,False,True
+2014-12-30,6.78333333333,Utah Jazz,Charlotte Bobcats,1,13-11,-4,two point jumper,True,20,False,True
+2014-12-30,19.5333333333,Utah Jazz,Charlotte Bobcats,2,29-36,5,two point shot,True,19,True,True
+2014-12-30,20.1666666667,Utah Jazz,Charlotte Bobcats,2,29-38,7,two point shot,True,16,True,True
+2014-12-30,21.0166666667,Utah Jazz,Charlotte Bobcats,2,29-38,7,two point jumper,True,20,False,True
+2014-12-30,21.5333333333,Utah Jazz,Charlotte Bobcats,2,30-38,6,unknown,True,11,False,True
+2014-12-30,23.3,Utah Jazz,Charlotte Bobcats,2,32-41,8,free throw,True,15,True,True
+2014-12-30,23.3,Utah Jazz,Charlotte Bobcats,2,32-42,9,free throw,True,15,True,True
+2014-12-30,25.0,Utah Jazz,Charlotte Bobcats,3,35-45,7,three point jumper,True,24,True,True
+2014-12-30,26.65,Utah Jazz,Charlotte Bobcats,3,38-48,7,three point jumper,True,25,False,True
+2014-12-30,29.35,Utah Jazz,Charlotte Bobcats,3,43-55,9,three point jumper,True,24,True,True
+2014-12-30,30.0333333333,Utah Jazz,Charlotte Bobcats,3,43-57,12,two point shot,True,1,True,True
+2014-12-30,38.55,Utah Jazz,Charlotte Bobcats,4,60-63,0,three point jumper,True,25,False,True
+2014-12-30,40.4833333333,Utah Jazz,Charlotte Bobcats,4,60-65,3,two point jumper,True,21,True,True
+2014-12-30,43.0,Utah Jazz,Charlotte Bobcats,4,67-70,0,three point jumper,True,25,True,True
+2014-12-30,45.4833333333,Utah Jazz,Charlotte Bobcats,4,73-74,-1,two point shot,True,1,False,True
+2014-12-30,47.6833333333,Utah Jazz,Charlotte Bobcats,4,77-80,1,layup,True,0,True,True
+2014-12-16,0.95,Utah Jazz,Miami Heat,1,3-2,-2,three point jumper,False,24,True,True
+2014-12-16,4.48333333333,Utah Jazz,Miami Heat,1,6-12,-8,two point jumper,False,19,False,True
+2014-12-16,11.0,Utah Jazz,Miami Heat,1,18-26,-10,two point jumper,False,21,False,True
+2014-12-16,20.9666666667,Utah Jazz,Miami Heat,2,44-38,4,two point jumper,False,9,False,True
+2014-12-16,23.9833333333,Utah Jazz,Miami Heat,2,48-47,-2,three point jumper,False,28,False,True
+2014-12-16,24.2666666667,Utah Jazz,Miami Heat,3,50-47,0,three point jumper,False,25,False,True
+2014-12-16,27.0,Utah Jazz,Miami Heat,3,53-57,-7,three point jumper,False,24,False,True
+2014-12-16,45.0666666667,Utah Jazz,Miami Heat,4,90-109,-21,two point jumper,False,19,False,True
+2014-02-08,0.8,Utah Jazz,Miami Heat,1,2-0,-5,three point jumper,True,25,False,True
+2014-02-08,3.21666666667,Utah Jazz,Miami Heat,1,9-10,-1,two point jumper,True,22,True,True
+2014-02-08,4.31666666667,Utah Jazz,Miami Heat,1,12-12,-2,two point jumper,True,21,False,True
+2014-02-08,6.1,Utah Jazz,Miami Heat,1,14-19,2,three point jumper,True,25,True,True
+2014-02-08,22.5833333333,Utah Jazz,Miami Heat,2,45-47,-1,three point jumper,True,24,False,True
+2014-02-08,26.0833333333,Utah Jazz,Miami Heat,3,54-54,-3,three point jumper,True,24,False,True
+2014-02-08,26.9333333333,Utah Jazz,Miami Heat,3,54-57,0,three point jumper,True,25,True,True
+2014-02-08,30.8833333333,Utah Jazz,Miami Heat,3,58-64,3,three point jumper,True,24,True,True
+2014-02-08,31.85,Utah Jazz,Miami Heat,3,58-64,3,three point jumper,True,24,False,True
+2014-02-08,45.4,Utah Jazz,Miami Heat,4,81-87,3,three point jumper,True,24,False,True
+2014-02-08,47.6,Utah Jazz,Miami Heat,4,89-93,2,two point jumper,True,19,True,True
+2014-12-18,0.7,Utah Jazz,Orlando Magic,1,2-0,-1,three point jumper,False,26,False,True
+2014-12-18,4.88333333333,Utah Jazz,Orlando Magic,1,10-12,-4,two point jumper,False,21,False,True
+2014-12-18,5.23333333333,Utah Jazz,Orlando Magic,1,13-12,-2,three point jumper,False,25,True,True
+2014-12-18,6.85,Utah Jazz,Orlando Magic,1,17-14,1,two point shot,False,18,True,True
+2014-12-18,6.85,Utah Jazz,Orlando Magic,1,18-14,3,free throw,False,15,True,True
+2014-12-18,9.45,Utah Jazz,Orlando Magic,1,20-18,-1,three point jumper,False,26,False,True
+2014-12-18,10.0,Utah Jazz,Orlando Magic,1,21-18,1,two point shot,False,1,False,True
+2014-12-18,11.95,Utah Jazz,Orlando Magic,1,27-20,5,two point shot,False,1,True,True
+2014-12-18,20.0333333333,Utah Jazz,Orlando Magic,2,42-37,2,three point jumper,False,25,True,True
+2014-12-18,20.5166666667,Utah Jazz,Orlando Magic,2,44-37,5,two point shot,False,1,True,True
+2014-12-18,21.75,Utah Jazz,Orlando Magic,2,49-37,9,three point jumper,False,26,True,True
+2014-12-18,23.2833333333,Utah Jazz,Orlando Magic,2,49-37,10,two point jumper,False,16,False,True
+2014-12-18,25.9,Utah Jazz,Orlando Magic,3,52-42,7,three point jumper,False,26,True,True
+2014-12-18,27.75,Utah Jazz,Orlando Magic,3,54-49,3,two point shot,False,22,True,True
+2014-12-18,28.3166666667,Utah Jazz,Orlando Magic,3,55-52,2,free throw,False,15,True,True
+2014-12-18,34.15,Utah Jazz,Orlando Magic,3,64-60,2,two point shot,False,14,True,True
+2014-12-18,35.55,Utah Jazz,Orlando Magic,3,66-62,1,three point jumper,False,24,False,True
+2014-12-18,35.9833333333,Utah Jazz,Orlando Magic,3,68-62,4,layup,False,0,True,True
+2014-12-18,41.45,Utah Jazz,Orlando Magic,4,75-76,-3,two point shot,False,14,True,True
+2014-12-18,44.25,Utah Jazz,Orlando Magic,4,80-78,0,two point shot,False,19,True,True
+2014-12-18,44.75,Utah Jazz,Orlando Magic,4,80-78,-1,three point jumper,False,24,False,True
+2014-01-25,6.48333333333,Utah Jazz,Washington Wizards,1,13-9,-6,two point jumper,True,18,False,True
+2014-01-25,8.05,Utah Jazz,Washington Wizards,1,17-14,-5,layup,True,0,False,True
+2014-01-25,9.18333333333,Utah Jazz,Washington Wizards,1,19-16,-6,three point jumper,True,25,False,True
+2014-01-25,10.5833333333,Utah Jazz,Washington Wizards,1,27-18,-11,two point jumper,True,1,False,True
+2014-01-25,18.2166666667,Utah Jazz,Washington Wizards,2,45-37,-11,three point jumper,True,25,True,True
+2014-01-25,22.9166666667,Utah Jazz,Washington Wizards,2,49-49,-2,two point jumper,True,22,False,True
+2014-01-25,28.7333333333,Utah Jazz,Washington Wizards,3,66-62,-7,three point jumper,True,25,True,True
+2014-01-25,34.1,Utah Jazz,Washington Wizards,3,71-70,-4,three point jumper,True,25,True,True
+2014-01-25,42.2333333333,Utah Jazz,Washington Wizards,4,81-89,6,unknown,True,10,False,True
+2014-01-25,45.0,Utah Jazz,Washington Wizards,4,90-92,0,two point jumper,True,18,False,True
+2014-01-25,46.6166666667,Utah Jazz,Washington Wizards,4,93-99,3,three point jumper,True,25,True,True
+2014-01-25,47.4333333333,Utah Jazz,Washington Wizards,4,98-101,1,unknown,True,5,False,True
+2014-12-13,7.1,Utah Jazz,Denver Nuggets,1,23-16,4,three point jumper,False,25,True,False
+2014-12-13,8.06666666667,Utah Jazz,Denver Nuggets,1,26-16,8,two point jumper,False,11,False,False
+2014-12-13,8.75,Utah Jazz,Denver Nuggets,1,26-17,7,two point jumper,False,21,False,False
+2014-12-13,12.0,Utah Jazz,Denver Nuggets,1,33-28,3,two point jumper,False,1,False,False
+2014-12-13,19.6666666667,Utah Jazz,Denver Nuggets,2,42-39,1,layup,False,0,False,False
+2014-12-13,20.2166666667,Utah Jazz,Denver Nuggets,2,42-39,0,three point jumper,False,25,False,False
+2014-12-13,22.9333333333,Utah Jazz,Denver Nuggets,2,51-44,4,three point jumper,False,23,False,False
+2014-12-13,24.7666666667,Utah Jazz,Denver Nuggets,3,56-46,9,free throw,False,15,True,False
+2014-12-13,30.2833333333,Utah Jazz,Denver Nuggets,3,67-57,7,three point jumper,False,25,False,False
+2014-12-13,37.8,Utah Jazz,Denver Nuggets,4,75-77,-4,two point jumper,False,14,False,False
+2014-12-13,39.1333333333,Utah Jazz,Denver Nuggets,4,77-79,-4,two point jumper,False,14,True,False
+2014-12-13,40.0666666667,Utah Jazz,Denver Nuggets,4,79-81,-4,layup,False,0,True,False
+2014-12-13,46.3833333333,Utah Jazz,Denver Nuggets,4,99-93,3,three point jumper,False,27,False,False
+2014-12-13,47.9333333333,Utah Jazz,Denver Nuggets,4,102-93,8,free throw,False,15,True,False
+2014-12-13,47.9333333333,Utah Jazz,Denver Nuggets,4,103-93,9,free throw,False,15,True,False
+2014-01-13,0.183333333333,Utah Jazz,Denver Nuggets,1,0-2,0,layup,True,0,True,True
+2014-01-13,0.883333333333,Utah Jazz,Denver Nuggets,1,0-5,2,three point jumper,True,23,True,True
+2014-01-13,3.63333333333,Utah Jazz,Denver Nuggets,1,7-12,4,free throw,True,15,True,True
+2014-01-13,3.63333333333,Utah Jazz,Denver Nuggets,1,7-13,5,free throw,True,15,True,True
+2014-01-13,6.1,Utah Jazz,Denver Nuggets,1,14-18,2,two point jumper,True,1,False,True
+2014-01-13,18.4833333333,Utah Jazz,Denver Nuggets,2,39-49,7,three point jumper,True,25,True,True
+2014-01-13,19.7833333333,Utah Jazz,Denver Nuggets,2,41-55,11,three point jumper,True,24,True,True
+2014-01-13,23.5666666667,Utah Jazz,Denver Nuggets,2,53-67,12,two point jumper,True,1,False,True
+2014-01-13,28.5666666667,Utah Jazz,Denver Nuggets,3,60-79,17,two point shot,True,3,True,True
+2014-01-13,30.45,Utah Jazz,Denver Nuggets,3,65-86,19,two point shot,True,18,True,True
+2014-01-13,31.6666666667,Utah Jazz,Denver Nuggets,3,67-89,20,layup,True,0,False,True
+2014-01-13,38.2166666667,Utah Jazz,Denver Nuggets,4,82-95,11,two point jumper,True,19,False,True
+2014-01-13,39.2666666667,Utah Jazz,Denver Nuggets,4,83-98,13,two point shot,True,8,False,True
+2014-01-13,41.7333333333,Utah Jazz,Denver Nuggets,4,90-105,12,three point jumper,True,24,False,True
+2014-01-13,47.6333333333,Utah Jazz,Denver Nuggets,4,103-118,14,free throw,True,15,True,True
+2014-01-13,47.6333333333,Utah Jazz,Denver Nuggets,4,103-118,14,free throw,True,15,False,True
+2014-01-18,1.96666666667,Utah Jazz,Minnesota Timberwolves,1,4-4,-2,two point shot,False,1,False,False
+2014-01-18,4.7,Utah Jazz,Minnesota Timberwolves,1,9-13,-6,two point shot,False,15,False,False
+2014-01-18,7.6,Utah Jazz,Minnesota Timberwolves,1,12-18,-9,three point jumper,False,25,True,False
+2014-01-18,7.91666666667,Utah Jazz,Minnesota Timberwolves,1,12-18,-8,two point jumper,False,6,False,False
+2014-01-18,14.2,Utah Jazz,Minnesota Timberwolves,2,14-25,-14,three point jumper,False,26,False,False
+2014-01-18,16.8166666667,Utah Jazz,Minnesota Timberwolves,2,17-28,-14,three point jumper,False,25,False,False
+2014-01-18,17.5666666667,Utah Jazz,Minnesota Timberwolves,2,17-29,-14,two point jumper,False,22,False,False
+2014-01-18,24.0,Utah Jazz,Minnesota Timberwolves,2,23-51,-31,three point jumper,False,42,False,False
+2014-01-18,26.0833333333,Utah Jazz,Minnesota Timberwolves,3,28-60,-35,three point jumper,False,25,True,False
+2014-01-18,27.8833333333,Utah Jazz,Minnesota Timberwolves,3,34-60,-27,free throw,False,15,True,False
+2014-01-18,27.8833333333,Utah Jazz,Minnesota Timberwolves,3,35-60,-26,free throw,False,15,True,False
+2014-01-18,27.8833333333,Utah Jazz,Minnesota Timberwolves,3,36-60,-25,free throw,False,15,True,False
+2014-01-18,28.85,Utah Jazz,Minnesota Timberwolves,3,36-60,-27,three point jumper,False,25,False,False
+2014-01-21,6.5,Utah Jazz,Minnesota Timberwolves,1,17-6,-13,two point jumper,True,8,False,True
+2014-01-21,9.65,Utah Jazz,Minnesota Timberwolves,1,30-14,-18,two point shot,True,11,True,True
+2014-01-21,18.5666666667,Utah Jazz,Minnesota Timberwolves,2,42-29,-15,two point shot,True,1,True,True
+2014-01-21,19.85,Utah Jazz,Minnesota Timberwolves,2,44-31,-16,three point jumper,True,25,False,True
+2014-01-21,20.3333333333,Utah Jazz,Minnesota Timberwolves,2,46-33,-15,two point shot,True,16,False,True
+2014-01-21,24.5833333333,Utah Jazz,Minnesota Timberwolves,3,54-39,-18,three point jumper,True,25,False,True
+2014-01-21,26.7,Utah Jazz,Minnesota Timberwolves,3,56-44,-14,two point shot,True,13,True,True
+2014-01-21,28.1,Utah Jazz,Minnesota Timberwolves,3,61-50,-13,two point jumper,True,16,False,True
+2014-01-21,45.6666666667,Utah Jazz,Minnesota Timberwolves,4,106-85,-23,layup,True,0,False,True
+2014-01-21,47.5166666667,Utah Jazz,Minnesota Timberwolves,4,110-95,-18,three point jumper,True,25,True,True
+2014-02-22,2.08333333333,Utah Jazz,Minnesota Timberwolves,1,4-5,-1,two point jumper,True,21,False,False
+2014-02-22,4.6,Utah Jazz,Minnesota Timberwolves,1,10-9,-3,two point jumper,True,20,True,False
+2014-02-22,6.28333333333,Utah Jazz,Minnesota Timberwolves,1,14-9,-8,three point jumper,True,24,False,False
+2014-02-22,20.8166666667,Utah Jazz,Minnesota Timberwolves,2,44-41,-6,three point jumper,True,25,False,False
+2014-02-22,23.4333333333,Utah Jazz,Minnesota Timberwolves,2,54-47,-9,two point jumper,True,19,True,False
+2014-02-22,24.3166666667,Utah Jazz,Minnesota Timberwolves,3,59-49,-13,three point jumper,True,25,False,False
+2014-02-22,26.3166666667,Utah Jazz,Minnesota Timberwolves,3,67-52,-18,three point jumper,True,25,False,False
+2014-02-22,30.8166666667,Utah Jazz,Minnesota Timberwolves,3,79-62,-19,two point jumper,True,1,False,False
+2014-02-22,31.8166666667,Utah Jazz,Minnesota Timberwolves,3,85-66,-21,two point jumper,True,19,True,False
+2014-02-22,34.3666666667,Utah Jazz,Minnesota Timberwolves,3,89-75,-16,two point jumper,True,20,False,False
+2014-02-22,41.4166666667,Utah Jazz,Minnesota Timberwolves,4,109-90,-22,three point jumper,True,26,True,False
+2014-02-22,42.1,Utah Jazz,Minnesota Timberwolves,4,109-92,-19,layup,True,0,True,False
+2014-02-22,43.1333333333,Utah Jazz,Minnesota Timberwolves,4,111-94,-19,two point jumper,True,21,True,False
+2014-02-22,43.6,Utah Jazz,Minnesota Timberwolves,4,111-97,-17,three point jumper,True,26,True,False
+2014-02-22,44.2166666667,Utah Jazz,Minnesota Timberwolves,4,114-97,-19,two point jumper,True,6,False,False
+2014-02-22,46.2666666667,Utah Jazz,Minnesota Timberwolves,4,119-100,-22,three point jumper,True,25,False,False
+2014-02-22,46.6333333333,Utah Jazz,Minnesota Timberwolves,4,119-100,-22,three point jumper,True,25,False,False
+2014-02-22,47.9166666667,Utah Jazz,Minnesota Timberwolves,4,121-104,-20,three point jumper,True,25,False,False
+2014-11-24,1.61666666667,Utah Jazz,Oklahoma City Thunder,1,3-0,1,two point jumper,False,1,False,False
+2014-11-24,3.21666666667,Utah Jazz,Oklahoma City Thunder,1,3-5,-4,two point jumper,False,19,False,False
+2014-11-24,5.73333333333,Utah Jazz,Oklahoma City Thunder,1,5-7,-5,three point jumper,False,24,False,False
+2014-11-24,15.45,Utah Jazz,Oklahoma City Thunder,2,17-28,-13,two point shot,False,17,True,False
+2014-11-24,17.85,Utah Jazz,Oklahoma City Thunder,2,21-33,-15,three point jumper,False,23,False,False
+2014-11-24,18.1,Utah Jazz,Oklahoma City Thunder,2,21-33,-14,two point jumper,False,1,False,False
+2014-11-24,20.6166666667,Utah Jazz,Oklahoma City Thunder,2,27-39,-14,two point shot,False,17,True,False
+2014-11-24,26.0833333333,Utah Jazz,Oklahoma City Thunder,3,31-53,-24,two point jumper,False,1,False,False
+2014-01-07,4.2,Utah Jazz,Oklahoma City Thunder,1,8-11,1,two point shot,True,12,True,True
+2014-01-07,8.58333333333,Utah Jazz,Oklahoma City Thunder,1,19-24,2,three point jumper,True,25,True,True
+2014-01-07,10.3,Utah Jazz,Oklahoma City Thunder,1,25-24,-3,two point jumper,True,13,False,True
+2014-01-07,21.0333333333,Utah Jazz,Oklahoma City Thunder,2,41-52,9,two point jumper,True,22,True,True
+2014-01-07,25.8166666667,Utah Jazz,Oklahoma City Thunder,3,51-63,10,two point jumper,True,21,False,True
+2014-01-07,29.7333333333,Utah Jazz,Oklahoma City Thunder,3,60-80,19,free throw,True,15,True,True
+2014-01-07,31.1,Utah Jazz,Oklahoma City Thunder,3,62-84,19,three point jumper,True,30,False,True
+2014-01-07,31.7,Utah Jazz,Oklahoma City Thunder,3,65-84,16,three point jumper,True,24,False,True
+2014-01-07,37.6333333333,Utah Jazz,Oklahoma City Thunder,4,76-92,14,two point shot,True,8,True,True
+2014-01-07,37.75,Utah Jazz,Oklahoma City Thunder,4,76-92,15,free throw,True,15,False,True
+2014-01-07,38.15,Utah Jazz,Oklahoma City Thunder,4,77-92,13,two point jumper,True,22,False,True
+2014-01-07,38.55,Utah Jazz,Oklahoma City Thunder,4,79-92,11,two point jumper,True,22,False,True
+2014-01-07,41.8166666667,Utah Jazz,Oklahoma City Thunder,4,87-97,8,two point jumper,True,20,False,True
+2014-01-07,43.1666666667,Utah Jazz,Oklahoma City Thunder,4,92-99,4,three point jumper,True,26,False,True
+2014-12-06,1.71666666667,Utah Jazz,Portland Trail Blazers,1,5-6,-3,two point shot,False,1,True,True
+2014-12-06,2.13333333333,Utah Jazz,Portland Trail Blazers,1,5-6,-2,free throw,False,15,False,True
+2014-12-06,2.13333333333,Utah Jazz,Portland Trail Blazers,1,6-6,-1,free throw,False,15,True,True
+2014-12-06,2.81666666667,Utah Jazz,Portland Trail Blazers,1,8-8,-2,two point shot,False,17,True,True
+2014-12-06,4.1,Utah Jazz,Portland Trail Blazers,1,10-12,-4,two point jumper,False,21,False,True
+2014-12-06,4.6,Utah Jazz,Portland Trail Blazers,1,10-14,-6,two point jumper,False,19,False,True
+2014-12-06,7.2,Utah Jazz,Portland Trail Blazers,1,12-24,-14,layup,False,0,False,True
+2014-12-06,7.7,Utah Jazz,Portland Trail Blazers,1,14-26,-14,two point jumper,False,12,False,True
+2014-12-06,23.4666666667,Utah Jazz,Portland Trail Blazers,2,56-64,-10,two point jumper,False,16,True,True
+2014-12-06,24.0,Utah Jazz,Portland Trail Blazers,2,56-67,-13,layup,False,0,False,True
+2014-12-06,25.9333333333,Utah Jazz,Portland Trail Blazers,3,56-75,-22,three point jumper,False,26,False,True
+2014-12-09,2.08333333333,Utah Jazz,Portland Trail Blazers,1,2-5,0,three point jumper,True,24,True,True
+2014-12-09,2.7,Utah Jazz,Portland Trail Blazers,1,4-7,1,two point shot,True,10,True,True
+2014-12-09,4.13333333333,Utah Jazz,Portland Trail Blazers,1,6-9,1,layup,True,0,False,True
+2014-12-09,7.28333333333,Utah Jazz,Portland Trail Blazers,1,13-13,-2,two point shot,True,19,True,True
+2014-12-09,8.56666666667,Utah Jazz,Portland Trail Blazers,1,15-15,-2,two point jumper,True,1,False,True
+2014-12-09,18.7,Utah Jazz,Portland Trail Blazers,2,34-33,-3,two point shot,True,19,False,True
+2014-12-09,23.8,Utah Jazz,Portland Trail Blazers,2,49-45,-6,two point jumper,True,17,True,True
+2014-12-09,30.45,Utah Jazz,Portland Trail Blazers,3,66-57,-11,two point shot,True,22,False,True
+2014-12-09,42.25,Utah Jazz,Portland Trail Blazers,4,89-81,-9,free throw,True,15,True,True
+2014-12-09,42.25,Utah Jazz,Portland Trail Blazers,4,89-82,-8,free throw,True,15,True,True
+2014-12-09,43.2166666667,Utah Jazz,Portland Trail Blazers,4,91-82,-12,three point jumper,True,25,False,True
+2014-12-09,44.2,Utah Jazz,Portland Trail Blazers,4,93-84,-11,two point shot,True,18,True,True
+2014-12-09,46.1,Utah Jazz,Portland Trail Blazers,4,97-88,-11,layup,True,0,False,True
+2014-12-09,47.55,Utah Jazz,Portland Trail Blazers,4,103-93,-11,free throw,True,15,True,True
+2014-12-09,47.55,Utah Jazz,Portland Trail Blazers,4,103-94,-10,free throw,True,15,True,True
+2014-02-21,1.7,Utah Jazz,Portland Trail Blazers,1,2-2,-2,two point jumper,False,15,False,True
+2014-02-21,4.1,Utah Jazz,Portland Trail Blazers,1,4-6,-4,two point jumper,False,8,False,True
+2014-02-21,7.85,Utah Jazz,Portland Trail Blazers,1,10-12,-4,two point jumper,False,20,True,True
+2014-02-21,8.96666666667,Utah Jazz,Portland Trail Blazers,1,12-12,-2,two point jumper,False,9,False,True
+2014-02-21,9.0,Utah Jazz,Portland Trail Blazers,1,14-12,0,layup,False,0,True,True
+2014-02-21,10.1333333333,Utah Jazz,Portland Trail Blazers,1,14-14,-2,two point jumper,False,22,False,True
+2014-02-21,23.3,Utah Jazz,Portland Trail Blazers,2,37-41,-7,three point jumper,False,26,False,True
+2014-02-21,23.8166666667,Utah Jazz,Portland Trail Blazers,2,37-43,-8,two point jumper,False,7,False,True
+2014-02-21,23.9833333333,Utah Jazz,Portland Trail Blazers,2,38-43,-6,free throw,False,15,True,True
+2014-02-21,23.9833333333,Utah Jazz,Portland Trail Blazers,2,39-43,-5,free throw,False,15,True,True
+2014-02-21,24.5166666667,Utah Jazz,Portland Trail Blazers,3,42-45,-6,three point jumper,False,27,True,True
+2014-02-21,25.8833333333,Utah Jazz,Portland Trail Blazers,3,46-45,-1,two point jumper,False,1,True,True
+2014-02-21,31.3166666667,Utah Jazz,Portland Trail Blazers,3,59-55,2,layup,False,0,True,True
+2014-02-21,32.1,Utah Jazz,Portland Trail Blazers,3,62-57,2,unknown,False,26,True,True
+2014-02-21,35.3333333333,Utah Jazz,Portland Trail Blazers,3,72-64,6,two point jumper,False,20,True,True
+2014-02-21,43.0,Utah Jazz,Portland Trail Blazers,4,80-83,-6,three point jumper,False,27,True,True
+2014-02-21,47.2166666667,Utah Jazz,Portland Trail Blazers,4,91-96,-8,three point jumper,False,23,False,True

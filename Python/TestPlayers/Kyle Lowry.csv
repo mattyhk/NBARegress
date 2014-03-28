@@ -1,0 +1,983 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-10-30,4.63333333333,Toronto Raptors,Boston Celtics,1,9-6,-5,layup,True,0,True,True
+2014-10-30,8.96666666667,Toronto Raptors,Boston Celtics,1,16-14,-4,layup,True,0,False,True
+2014-10-30,11.5166666667,Toronto Raptors,Boston Celtics,1,24-20,-7,three point jumper,True,27,False,True
+2014-10-30,11.9833333333,Toronto Raptors,Boston Celtics,1,26-21,-6,free throw,True,15,True,True
+2014-10-30,11.9833333333,Toronto Raptors,Boston Celtics,1,26-21,-6,free throw,True,15,False,True
+2014-10-30,18.7333333333,Toronto Raptors,Boston Celtics,2,31-34,0,three point jumper,True,26,False,True
+2014-10-30,20.7,Toronto Raptors,Boston Celtics,2,36-38,1,free throw,True,15,False,True
+2014-10-30,20.7,Toronto Raptors,Boston Celtics,2,36-39,2,free throw,True,15,True,True
+2014-10-30,21.1,Toronto Raptors,Boston Celtics,2,36-40,3,free throw,True,15,True,True
+2014-10-30,21.1,Toronto Raptors,Boston Celtics,2,36-41,4,free throw,True,15,True,True
+2014-10-30,24.4,Toronto Raptors,Boston Celtics,3,37-49,9,three point jumper,True,26,False,True
+2014-10-30,31.25,Toronto Raptors,Boston Celtics,3,53-65,10,two point shot,True,18,True,True
+2014-10-30,47.4833333333,Toronto Raptors,Boston Celtics,4,85-90,4,free throw,True,15,False,True
+2014-10-30,47.4833333333,Toronto Raptors,Boston Celtics,4,85-90,4,free throw,True,15,False,True
+2014-10-30,47.5166666667,Toronto Raptors,Boston Celtics,4,85-91,5,free throw,True,15,True,True
+2014-10-30,47.5166666667,Toronto Raptors,Boston Celtics,4,85-92,6,free throw,True,15,True,True
+2014-10-30,47.6666666667,Toronto Raptors,Boston Celtics,4,85-92,6,free throw,True,15,False,True
+2014-10-30,47.6666666667,Toronto Raptors,Boston Celtics,4,85-93,7,free throw,True,15,True,True
+2014-01-15,4.95,Toronto Raptors,Boston Celtics,1,10-7,0,three point jumper,False,24,True,False
+2014-01-15,8.41666666667,Toronto Raptors,Boston Celtics,1,16-15,-1,layup,False,0,True,False
+2014-01-15,11.3,Toronto Raptors,Boston Celtics,1,22-23,-4,three point jumper,False,27,False,False
+2014-01-15,19.35,Toronto Raptors,Boston Celtics,2,34-34,-1,free throw,False,15,True,False
+2014-01-15,19.35,Toronto Raptors,Boston Celtics,2,35-34,0,free throw,False,15,True,False
+2014-01-15,20.35,Toronto Raptors,Boston Celtics,2,37-36,-1,two point shot,False,21,True,False
+2014-01-15,21.2666666667,Toronto Raptors,Boston Celtics,2,37-38,-3,two point jumper,False,22,False,False
+2014-01-15,21.3666666667,Toronto Raptors,Boston Celtics,2,37-38,-3,layup,False,0,False,False
+2014-01-15,23.5666666667,Toronto Raptors,Boston Celtics,2,41-43,-4,two point shot,False,16,False,False
+2014-01-15,24.3333333333,Toronto Raptors,Boston Celtics,3,41-45,-7,three point jumper,False,25,False,False
+2014-01-15,32.6,Toronto Raptors,Boston Celtics,3,50-59,-11,two point shot,False,8,False,False
+2014-01-15,32.7666666667,Toronto Raptors,Boston Celtics,3,50-59,-12,three point jumper,False,24,False,False
+2014-01-15,33.6166666667,Toronto Raptors,Boston Celtics,3,53-63,-13,three point jumper,False,27,True,False
+2014-01-15,34.65,Toronto Raptors,Boston Celtics,3,53-65,-14,layup,False,0,False,False
+2014-01-15,44.4833333333,Toronto Raptors,Boston Celtics,4,74-79,-8,three point jumper,False,23,False,False
+2014-01-15,47.25,Toronto Raptors,Boston Celtics,4,78-81,-4,free throw,False,15,True,False
+2014-01-15,47.25,Toronto Raptors,Boston Celtics,4,78-81,-4,free throw,False,15,False,False
+2014-01-15,47.65,Toronto Raptors,Boston Celtics,4,78-83,-8,three point jumper,False,24,False,False
+2014-01-15,47.7666666667,Toronto Raptors,Boston Celtics,4,81-84,-6,three point jumper,False,25,True,False
+2014-01-15,47.8833333333,Toronto Raptors,Boston Celtics,4,83-86,-5,layup,False,0,True,False
+2014-11-26,1.08333333333,Toronto Raptors,Brooklyn Nets,1,2-3,-2,three point jumper,True,26,True,False
+2014-11-26,2.21666666667,Toronto Raptors,Brooklyn Nets,1,6-6,-3,three point jumper,True,26,True,False
+2014-11-26,5.35,Toronto Raptors,Brooklyn Nets,1,12-6,-8,two point jumper,True,17,False,False
+2014-11-26,11.5333333333,Toronto Raptors,Brooklyn Nets,1,26-26,-1,free throw,True,15,True,False
+2014-11-26,11.5333333333,Toronto Raptors,Brooklyn Nets,1,26-27,0,free throw,True,15,True,False
+2014-11-26,11.5333333333,Toronto Raptors,Brooklyn Nets,1,26-28,1,free throw,True,15,True,False
+2014-11-26,20.5,Toronto Raptors,Brooklyn Nets,2,46-44,-5,three point jumper,True,26,False,False
+2014-11-26,20.9833333333,Toronto Raptors,Brooklyn Nets,2,46-46,-2,two point shot,True,1,True,False
+2014-11-26,29.3833333333,Toronto Raptors,Brooklyn Nets,3,67-62,-8,three point jumper,True,26,False,False
+2014-11-26,31.5666666667,Toronto Raptors,Brooklyn Nets,3,72-66,-8,two point shot,True,8,True,False
+2014-11-26,32.7833333333,Toronto Raptors,Brooklyn Nets,3,75-68,-9,unknown,True,6,False,False
+2014-11-26,33.1166666667,Toronto Raptors,Brooklyn Nets,3,75-70,-7,layup,True,0,True,False
+2014-11-26,33.1166666667,Toronto Raptors,Brooklyn Nets,3,75-71,-5,free throw,True,15,True,False
+2014-11-26,40.6333333333,Toronto Raptors,Brooklyn Nets,4,94-86,-10,layup,True,0,True,False
+2014-11-26,43.4833333333,Toronto Raptors,Brooklyn Nets,4,101-86,-17,two point shot,True,26,False,False
+2014-11-26,45.2,Toronto Raptors,Brooklyn Nets,4,101-91,-12,layup,True,0,True,False
+2014-11-26,45.75,Toronto Raptors,Brooklyn Nets,4,101-93,-10,two point shot,True,1,True,False
+2014-11-26,47.0,Toronto Raptors,Brooklyn Nets,4,101-96,-6,free throw,True,15,True,False
+2014-11-26,47.0,Toronto Raptors,Brooklyn Nets,4,101-97,-5,free throw,True,15,True,False
+2014-01-11,5.95,Toronto Raptors,Brooklyn Nets,1,10-11,-2,three point jumper,True,24,True,True
+2014-01-11,10.8666666667,Toronto Raptors,Brooklyn Nets,1,16-19,1,layup,True,0,False,True
+2014-01-11,11.9833333333,Toronto Raptors,Brooklyn Nets,1,18-24,3,three point jumper,True,25,True,True
+2014-01-11,22.7166666667,Toronto Raptors,Brooklyn Nets,2,37-44,4,three point jumper,True,26,False,True
+2014-01-11,26.3666666667,Toronto Raptors,Brooklyn Nets,3,50-47,-5,two point shot,True,18,False,True
+2014-01-11,27.0666666667,Toronto Raptors,Brooklyn Nets,3,53-48,-7,unknown,True,12,False,True
+2014-01-11,30.35,Toronto Raptors,Brooklyn Nets,3,60-50,-13,three point jumper,True,25,False,True
+2014-01-11,31.1,Toronto Raptors,Brooklyn Nets,3,60-52,-10,two point shot,True,1,True,True
+2014-01-11,32.5,Toronto Raptors,Brooklyn Nets,3,62-55,-8,free throw,True,15,False,True
+2014-01-11,32.5,Toronto Raptors,Brooklyn Nets,3,62-56,-7,free throw,True,15,True,True
+2014-01-11,34.6833333333,Toronto Raptors,Brooklyn Nets,3,64-61,-6,three point jumper,True,23,False,True
+2014-01-11,43.1333333333,Toronto Raptors,Brooklyn Nets,4,71-81,7,three point jumper,True,24,True,True
+2014-01-27,1.13333333333,Toronto Raptors,Brooklyn Nets,1,6-0,3,three point jumper,False,25,True,True
+2014-01-27,2.95,Toronto Raptors,Brooklyn Nets,1,8-3,3,layup,False,0,True,True
+2014-01-27,4.38333333333,Toronto Raptors,Brooklyn Nets,1,10-7,1,layup,False,0,True,True
+2014-01-27,5.66666666667,Toronto Raptors,Brooklyn Nets,1,16-11,3,layup,False,0,True,True
+2014-01-27,6.85,Toronto Raptors,Brooklyn Nets,1,21-13,5,three point jumper,False,24,True,True
+2014-01-27,9.0,Toronto Raptors,Brooklyn Nets,1,25-20,3,layup,False,0,False,True
+2014-01-27,10.7833333333,Toronto Raptors,Brooklyn Nets,1,25-24,-2,three point jumper,False,24,False,True
+2014-01-27,22.6333333333,Toronto Raptors,Brooklyn Nets,2,49-48,-1,two point jumper,False,18,False,True
+2014-01-27,22.75,Toronto Raptors,Brooklyn Nets,2,52-48,1,three point jumper,False,23,True,True
+2014-01-27,23.2666666667,Toronto Raptors,Brooklyn Nets,2,53-51,1,free throw,False,15,True,True
+2014-01-27,23.2666666667,Toronto Raptors,Brooklyn Nets,2,54-51,2,free throw,False,15,True,True
+2014-01-27,24.0,Toronto Raptors,Brooklyn Nets,2,57-56,-2,three point jumper,False,48,True,True
+2014-01-27,25.2666666667,Toronto Raptors,Brooklyn Nets,3,57-59,-5,three point jumper,False,25,False,True
+2014-01-27,26.0,Toronto Raptors,Brooklyn Nets,3,61-59,0,layup,False,0,True,True
+2014-01-27,26.0,Toronto Raptors,Brooklyn Nets,3,62-59,2,free throw,False,15,True,True
+2014-01-27,26.0,Toronto Raptors,Brooklyn Nets,3,63-59,3,free throw,False,15,True,True
+2014-01-27,27.3,Toronto Raptors,Brooklyn Nets,3,67-62,4,free throw,False,15,True,True
+2014-01-27,27.8666666667,Toronto Raptors,Brooklyn Nets,3,69-62,5,unknown,False,11,False,True
+2014-01-27,38.5,Toronto Raptors,Brooklyn Nets,4,88-85,1,two point shot,False,1,True,True
+2014-01-27,39.1333333333,Toronto Raptors,Brooklyn Nets,4,90-85,3,two point shot,False,5,True,True
+2014-01-27,39.1333333333,Toronto Raptors,Brooklyn Nets,4,91-85,5,free throw,False,15,True,True
+2014-01-27,39.5166666667,Toronto Raptors,Brooklyn Nets,4,91-85,5,free throw,False,15,False,True
+2014-01-27,39.5166666667,Toronto Raptors,Brooklyn Nets,4,92-85,6,free throw,False,15,True,True
+2014-01-27,41.6666666667,Toronto Raptors,Brooklyn Nets,4,94-87,5,two point jumper,False,16,False,True
+2014-01-27,43.2166666667,Toronto Raptors,Brooklyn Nets,4,94-89,2,three point jumper,False,25,False,True
+2014-01-27,46.2833333333,Toronto Raptors,Brooklyn Nets,4,98-101,-5,layup,False,0,False,True
+2014-12-27,3.15,Toronto Raptors,New York Knicks,1,4-2,0,layup,False,0,True,True
+2014-12-27,9.75,Toronto Raptors,New York Knicks,1,15-20,-8,three point jumper,False,25,True,True
+2014-12-27,10.2166666667,Toronto Raptors,New York Knicks,1,15-20,-6,free throw,False,15,False,True
+2014-12-27,10.2166666667,Toronto Raptors,New York Knicks,1,16-20,-5,free throw,False,15,True,True
+2014-12-27,19.7833333333,Toronto Raptors,New York Knicks,2,34-34,-2,two point jumper,False,23,True,True
+2014-12-27,22.9,Toronto Raptors,New York Knicks,2,39-46,-10,three point jumper,False,25,False,True
+2014-12-27,23.55,Toronto Raptors,New York Knicks,2,40-46,-7,free throw,False,15,True,True
+2014-12-27,23.55,Toronto Raptors,New York Knicks,2,39-47,-9,free throw,False,15,False,True
+2014-12-27,23.9833333333,Toronto Raptors,New York Knicks,2,40-49,-11,two point jumper,False,1,False,True
+2014-12-27,31.7,Toronto Raptors,New York Knicks,3,57-64,-10,three point jumper,False,26,False,True
+2014-12-27,34.6666666667,Toronto Raptors,New York Knicks,3,66-69,-6,three point jumper,False,26,True,True
+2014-12-27,35.9666666667,Toronto Raptors,New York Knicks,3,66-71,-8,three point jumper,False,25,False,True
+2014-12-27,45.3,Toronto Raptors,New York Knicks,4,85-79,4,two point jumper,False,21,False,True
+2014-12-27,46.75,Toronto Raptors,New York Knicks,4,92-83,8,free throw,False,15,True,True
+2014-12-27,46.75,Toronto Raptors,New York Knicks,4,92-83,8,free throw,False,15,False,True
+2014-12-27,47.0666666667,Toronto Raptors,New York Knicks,4,93-83,9,free throw,False,15,True,True
+2014-12-27,47.0666666667,Toronto Raptors,New York Knicks,4,94-83,10,free throw,False,15,True,True
+2014-12-28,1.21666666667,Toronto Raptors,New York Knicks,1,2-2,-2,layup,True,0,True,True
+2014-12-28,6.81666666667,Toronto Raptors,New York Knicks,1,13-16,0,three point jumper,True,24,True,True
+2014-12-28,8.95,Toronto Raptors,New York Knicks,1,16-20,2,layup,True,0,True,True
+2014-12-28,11.0666666667,Toronto Raptors,New York Knicks,1,20-24,1,unknown,True,24,False,True
+2014-12-28,11.3666666667,Toronto Raptors,New York Knicks,1,20-25,4,free throw,True,15,True,True
+2014-12-28,11.3666666667,Toronto Raptors,New York Knicks,1,20-26,5,free throw,True,15,True,True
+2014-12-28,18.5333333333,Toronto Raptors,New York Knicks,2,34-39,3,two point jumper,True,20,True,True
+2014-12-28,21.4,Toronto Raptors,New York Knicks,2,39-47,6,two point jumper,True,20,False,True
+2014-12-28,23.2,Toronto Raptors,New York Knicks,2,42-56,12,layup,True,0,True,True
+2014-12-28,23.7333333333,Toronto Raptors,New York Knicks,2,44-56,11,free throw,True,15,False,True
+2014-12-28,23.7333333333,Toronto Raptors,New York Knicks,2,44-57,12,free throw,True,15,True,True
+2014-12-28,25.05,Toronto Raptors,New York Knicks,3,46-57,8,three point jumper,True,24,False,True
+2014-12-28,26.0,Toronto Raptors,New York Knicks,3,49-59,8,two point jumper,True,21,True,True
+2014-12-28,29.4833333333,Toronto Raptors,New York Knicks,3,57-74,14,three point jumper,True,24,True,True
+2014-12-28,30.1666666667,Toronto Raptors,New York Knicks,3,57-76,17,two point shot,True,1,True,True
+2014-12-28,33.7833333333,Toronto Raptors,New York Knicks,3,64-83,17,two point jumper,True,20,False,True
+2014-12-28,35.2833333333,Toronto Raptors,New York Knicks,3,69-84,14,free throw,True,15,True,True
+2014-12-28,35.2833333333,Toronto Raptors,New York Knicks,3,69-84,14,free throw,True,15,False,True
+2014-12-28,42.2,Toronto Raptors,New York Knicks,4,86-99,12,free throw,True,15,True,True
+2014-12-28,42.2,Toronto Raptors,New York Knicks,4,86-100,13,free throw,True,15,True,True
+2014-12-28,43.7,Toronto Raptors,New York Knicks,4,91-101,8,layup,True,0,False,True
+2014-12-28,44.5833333333,Toronto Raptors,New York Knicks,4,95-102,6,free throw,True,15,True,True
+2014-12-28,44.5833333333,Toronto Raptors,New York Knicks,4,95-103,7,free throw,True,15,True,True
+2014-12-28,44.7666666667,Toronto Raptors,New York Knicks,4,95-106,8,three point jumper,True,25,True,True
+2014-12-28,45.35,Toronto Raptors,New York Knicks,4,95-106,8,three point jumper,True,25,False,True
+2014-12-28,47.9166666667,Toronto Raptors,New York Knicks,4,100-115,12,unknown,True,26,True,True
+2014-11-20,1.88333333333,Toronto Raptors,Philadelphia 76ers,1,2-2,-2,two point jumper,False,18,False,False
+2014-11-20,7.13333333333,Toronto Raptors,Philadelphia 76ers,1,14-13,-2,three point jumper,False,24,True,False
+2014-11-20,11.9833333333,Toronto Raptors,Philadelphia 76ers,1,25-25,-2,two point jumper,False,13,False,False
+2014-11-20,18.0,Toronto Raptors,Philadelphia 76ers,2,42-37,2,three point jumper,False,27,True,False
+2014-11-20,21.6833333333,Toronto Raptors,Philadelphia 76ers,2,52-44,7,free throw,False,15,True,False
+2014-11-20,21.6833333333,Toronto Raptors,Philadelphia 76ers,2,53-44,8,free throw,False,15,True,False
+2014-11-20,25.0166666667,Toronto Raptors,Philadelphia 76ers,3,58-51,4,three point jumper,False,25,False,False
+2014-11-20,33.75,Toronto Raptors,Philadelphia 76ers,3,81-72,6,three point jumper,False,26,True,False
+2014-11-20,34.8833333333,Toronto Raptors,Philadelphia 76ers,3,87-74,11,two point shot,False,4,True,False
+2014-11-20,41.1333333333,Toronto Raptors,Philadelphia 76ers,4,100-88,10,two point jumper,False,20,False,False
+2014-11-20,42.9833333333,Toronto Raptors,Philadelphia 76ers,4,103-92,9,two point jumper,False,1,False,False
+2014-11-20,44.5,Toronto Raptors,Philadelphia 76ers,4,104-92,9,three point jumper,False,24,False,False
+2014-12-13,3.61666666667,Toronto Raptors,Philadelphia 76ers,1,4-13,6,three point jumper,True,26,False,True
+2014-12-13,5.41666666667,Toronto Raptors,Philadelphia 76ers,1,10-15,2,three point jumper,True,26,False,True
+2014-12-13,11.9833333333,Toronto Raptors,Philadelphia 76ers,1,21-36,13,two point shot,True,26,False,True
+2014-12-13,27.1333333333,Toronto Raptors,Philadelphia 76ers,3,50-64,11,three point jumper,True,23,False,True
+2014-12-13,32.1166666667,Toronto Raptors,Philadelphia 76ers,3,65-76,8,three point jumper,True,25,False,True
+2014-12-13,36.0,Toronto Raptors,Philadelphia 76ers,3,76-83,5,two point shot,True,3,True,True
+2014-12-13,43.1,Toronto Raptors,Philadelphia 76ers,4,91-100,7,two point shot,True,6,True,True
+2014-12-13,45.2333333333,Toronto Raptors,Philadelphia 76ers,4,93-100,5,two point jumper,True,20,False,True
+2014-12-13,47.6166666667,Toronto Raptors,Philadelphia 76ers,4,100-107,6,free throw,True,15,True,True
+2014-12-13,47.6166666667,Toronto Raptors,Philadelphia 76ers,4,100-108,7,free throw,True,15,True,True
+2014-01-24,5.56666666667,Toronto Raptors,Philadelphia 76ers,1,17-10,4,three point jumper,False,28,False,False
+2014-01-24,10.05,Toronto Raptors,Philadelphia 76ers,1,23-22,-2,three point jumper,False,25,True,False
+2014-01-24,11.0333333333,Toronto Raptors,Philadelphia 76ers,1,25-26,-3,two point shot,False,1,True,False
+2014-01-24,18.2166666667,Toronto Raptors,Philadelphia 76ers,2,40-38,0,layup,False,0,True,False
+2014-01-24,18.2166666667,Toronto Raptors,Philadelphia 76ers,2,40-38,1,free throw,False,15,False,False
+2014-01-24,22.7666666667,Toronto Raptors,Philadelphia 76ers,2,49-49,-2,two point shot,False,1,False,False
+2014-01-24,25.3333333333,Toronto Raptors,Philadelphia 76ers,3,57-55,-1,three point jumper,False,26,True,False
+2014-01-24,28.8833333333,Toronto Raptors,Philadelphia 76ers,3,66-63,0,three point jumper,False,25,True,False
+2014-01-24,32.2166666667,Toronto Raptors,Philadelphia 76ers,3,72-70,-1,three point jumper,False,27,False,False
+2014-01-24,34.8833333333,Toronto Raptors,Philadelphia 76ers,3,78-77,-1,two point jumper,False,6,True,False
+2014-01-24,36.0,Toronto Raptors,Philadelphia 76ers,3,80-77,1,two point shot,False,18,True,False
+2014-01-24,47.2166666667,Toronto Raptors,Philadelphia 76ers,4,99-91,7,free throw,False,15,True,False
+2014-01-24,47.2166666667,Toronto Raptors,Philadelphia 76ers,4,99-91,7,free throw,False,15,False,False
+2014-11-01,1.26666666667,Toronto Raptors,Atlanta Hawks,1,3-3,-1,free throw,False,15,True,True
+2014-11-01,1.26666666667,Toronto Raptors,Atlanta Hawks,1,4-3,0,free throw,False,15,True,True
+2014-11-01,3.5,Toronto Raptors,Atlanta Hawks,1,9-9,-2,layup,False,0,True,True
+2014-11-01,17.0333333333,Toronto Raptors,Atlanta Hawks,2,33-29,2,two point shot,False,1,True,True
+2014-11-01,23.3666666667,Toronto Raptors,Atlanta Hawks,2,39-44,-8,three point jumper,False,24,False,True
+2014-11-01,24.6166666667,Toronto Raptors,Atlanta Hawks,3,39-49,-13,three point jumper,False,24,False,True
+2014-11-01,25.95,Toronto Raptors,Atlanta Hawks,3,44-51,-10,three point jumper,False,24,True,True
+2014-11-01,28.9833333333,Toronto Raptors,Atlanta Hawks,3,48-59,-12,free throw,False,15,False,True
+2014-11-01,28.9833333333,Toronto Raptors,Atlanta Hawks,3,48-59,-12,free throw,False,15,False,True
+2014-11-01,32.8333333333,Toronto Raptors,Atlanta Hawks,3,59-72,-16,three point jumper,False,25,True,True
+2014-11-01,43.9166666667,Toronto Raptors,Atlanta Hawks,4,83-89,-7,free throw,False,15,False,True
+2014-11-01,43.9166666667,Toronto Raptors,Atlanta Hawks,4,84-89,-6,free throw,False,15,True,True
+2014-11-01,45.1166666667,Toronto Raptors,Atlanta Hawks,4,87-93,-9,three point jumper,False,25,True,True
+2014-11-02,1.63333333333,Toronto Raptors,Milwaukee Bucks,1,4-4,-2,two point jumper,False,13,True,True
+2014-11-02,2.06666666667,Toronto Raptors,Milwaukee Bucks,1,4-6,-4,layup,False,0,False,True
+2014-11-02,5.73333333333,Toronto Raptors,Milwaukee Bucks,1,11-11,-3,three point jumper,False,25,True,True
+2014-11-02,8.96666666667,Toronto Raptors,Milwaukee Bucks,1,19-15,1,three point jumper,False,23,True,True
+2014-11-02,10.8833333333,Toronto Raptors,Milwaukee Bucks,1,22-19,1,two point jumper,False,1,False,True
+2014-11-02,21.0833333333,Toronto Raptors,Milwaukee Bucks,2,41-39,0,layup,False,0,False,True
+2014-11-02,23.4833333333,Toronto Raptors,Milwaukee Bucks,2,49-44,3,two point jumper,False,18,False,True
+2014-11-02,24.0,Toronto Raptors,Milwaukee Bucks,2,51-46,3,two point jumper,False,18,True,True
+2014-11-02,25.05,Toronto Raptors,Milwaukee Bucks,3,51-46,2,three point jumper,False,27,False,True
+2014-11-02,28.1666666667,Toronto Raptors,Milwaukee Bucks,3,57-50,5,layup,False,0,False,True
+2014-11-02,41.95,Toronto Raptors,Milwaukee Bucks,4,84-82,1,free throw,False,15,True,True
+2014-11-02,41.95,Toronto Raptors,Milwaukee Bucks,4,85-82,2,free throw,False,15,True,True
+2014-11-02,42.3166666667,Toronto Raptors,Milwaukee Bucks,4,85-85,-3,three point jumper,False,26,False,True
+2014-11-02,42.95,Toronto Raptors,Milwaukee Bucks,4,87-85,0,layup,False,0,True,True
+2014-11-02,47.65,Toronto Raptors,Milwaukee Bucks,4,97-90,6,free throw,False,15,False,True
+2014-11-02,47.65,Toronto Raptors,Milwaukee Bucks,4,97-90,6,free throw,False,15,False,True
+2014-11-05,1.83333333333,Toronto Raptors,Miami Heat,1,0-3,0,three point jumper,True,24,False,True
+2014-11-05,7.45,Toronto Raptors,Miami Heat,1,12-19,4,three point jumper,True,25,False,True
+2014-11-05,20.65,Toronto Raptors,Miami Heat,2,39-47,6,two point shot,True,1,True,True
+2014-11-05,22.0166666667,Toronto Raptors,Miami Heat,2,44-47,0,three point jumper,True,25,False,True
+2014-11-05,23.0666666667,Toronto Raptors,Miami Heat,2,46-49,0,three point jumper,True,25,False,True
+2014-11-05,25.3166666667,Toronto Raptors,Miami Heat,3,56-53,-6,three point jumper,True,26,True,True
+2014-11-05,35.1833333333,Toronto Raptors,Miami Heat,3,76-74,-5,three point jumper,True,25,True,True
+2014-11-05,41.6,Toronto Raptors,Miami Heat,4,90-78,-15,three point jumper,True,23,False,True
+2014-11-05,44.0333333333,Toronto Raptors,Miami Heat,4,96-84,-14,layup,True,0,True,True
+2014-11-05,44.0333333333,Toronto Raptors,Miami Heat,4,96-85,-12,free throw,True,15,True,True
+2014-11-05,46.4333333333,Toronto Raptors,Miami Heat,4,99-90,-12,three point jumper,True,25,False,True
+2014-11-05,46.9833333333,Toronto Raptors,Miami Heat,4,102-91,-12,free throw,True,15,True,True
+2014-11-05,46.9833333333,Toronto Raptors,Miami Heat,4,102-92,-11,free throw,True,15,True,True
+2014-11-06,4.88333333333,Toronto Raptors,Charlotte Bobcats,1,8-14,-9,three point jumper,False,24,False,False
+2014-11-06,8.81666666667,Toronto Raptors,Charlotte Bobcats,1,14-23,-11,layup,False,0,True,False
+2014-11-06,9.55,Toronto Raptors,Charlotte Bobcats,1,14-25,-13,two point jumper,False,15,False,False
+2014-11-06,11.8333333333,Toronto Raptors,Charlotte Bobcats,1,18-32,-16,two point jumper,False,19,False,False
+2014-11-06,21.7333333333,Toronto Raptors,Charlotte Bobcats,2,45-51,-9,three point jumper,False,25,True,False
+2014-11-06,25.65,Toronto Raptors,Charlotte Bobcats,3,58-57,-2,three point jumper,False,25,True,False
+2014-11-06,43.9166666667,Toronto Raptors,Charlotte Bobcats,4,82-89,-9,two point jumper,False,21,False,False
+2014-11-08,1.76666666667,Toronto Raptors,Indiana Pacers,1,5-5,-3,three point jumper,False,27,True,False
+2014-11-08,2.31666666667,Toronto Raptors,Indiana Pacers,1,5-7,-5,three point jumper,False,25,False,False
+2014-11-08,10.8333333333,Toronto Raptors,Indiana Pacers,1,27-18,7,two point jumper,False,20,False,False
+2014-11-08,11.9666666667,Toronto Raptors,Indiana Pacers,1,32-22,8,two point jumper,False,20,True,False
+2014-11-08,24.7166666667,Toronto Raptors,Indiana Pacers,3,46-46,-3,three point jumper,False,26,False,False
+2014-11-08,31.7,Toronto Raptors,Indiana Pacers,3,54-64,-12,two point shot,False,18,True,False
+2014-11-08,32.3666666667,Toronto Raptors,Indiana Pacers,3,54-64,-12,two point shot,False,15,False,False
+2014-11-08,32.7833333333,Toronto Raptors,Indiana Pacers,3,54-67,-16,three point jumper,False,26,False,False
+2014-11-08,32.9166666667,Toronto Raptors,Indiana Pacers,3,57-67,-13,three point jumper,False,25,True,False
+2014-11-08,43.4833333333,Toronto Raptors,Indiana Pacers,4,71-82,-12,free throw,False,15,True,False
+2014-11-08,43.4833333333,Toronto Raptors,Indiana Pacers,4,72-82,-11,free throw,False,15,True,False
+2014-11-08,45.8166666667,Toronto Raptors,Indiana Pacers,4,76-86,-13,three point jumper,False,25,False,False
+2014-11-09,0.766666666667,Toronto Raptors,Utah Jazz,1,0-5,2,three point jumper,True,25,True,False
+2014-11-09,7.2,Toronto Raptors,Utah Jazz,1,12-17,2,three point jumper,True,25,True,False
+2014-11-09,11.4166666667,Toronto Raptors,Utah Jazz,1,16-30,11,unknown,True,25,True,False
+2014-11-09,12.0,Toronto Raptors,Utah Jazz,1,16-30,12,two point shot,True,31,False,False
+2014-11-11,3.96666666667,Toronto Raptors,Houston Rockets,1,7-6,-2,three point jumper,False,27,False,False
+2014-11-11,10.0333333333,Toronto Raptors,Houston Rockets,1,20-20,-3,three point jumper,False,26,True,False
+2014-11-11,24.0,Toronto Raptors,Houston Rockets,2,20-24,-6,two point shot,False,25,False,False
+2014-11-11,19.1333333333,Toronto Raptors,Houston Rockets,2,32-36,-7,three point jumper,False,29,False,False
+2014-11-11,22.5833333333,Toronto Raptors,Houston Rockets,2,32-43,-14,three point jumper,False,25,False,False
+2014-11-11,25.8666666667,Toronto Raptors,Houston Rockets,3,35-47,-14,two point jumper,False,21,False,False
+2014-11-11,28.6,Toronto Raptors,Houston Rockets,3,39-54,-17,layup,False,0,False,False
+2014-11-11,35.95,Toronto Raptors,Houston Rockets,3,62-71,-11,layup,False,0,True,False
+2014-11-11,39.2166666667,Toronto Raptors,Houston Rockets,4,66-78,-15,three point jumper,False,29,False,False
+2014-11-11,42.85,Toronto Raptors,Houston Rockets,4,78-82,-7,three point jumper,False,26,True,False
+2014-11-11,43.5666666667,Toronto Raptors,Houston Rockets,4,80-82,-4,layup,False,0,True,False
+2014-11-11,44.5666666667,Toronto Raptors,Houston Rockets,4,80-84,-7,three point jumper,False,26,False,False
+2014-11-11,50.5666666667,Toronto Raptors,Houston Rockets,5,88-92,-6,two point jumper,False,4,False,False
+2014-11-11,53.2333333333,Toronto Raptors,Houston Rockets,6,95-95,-2,two point shot,False,12,False,False
+2014-11-11,55.0,Toronto Raptors,Houston Rockets,6,98-100,-5,unknown,False,26,True,False
+2014-11-11,55.4666666667,Toronto Raptors,Houston Rockets,6,101-102,-4,three point jumper,False,25,True,False
+2014-11-13,2.68333333333,Toronto Raptors,Memphis Grizzlies,1,7-4,1,two point jumper,False,13,False,False
+2014-11-13,3.18333333333,Toronto Raptors,Memphis Grizzlies,1,7-4,0,three point jumper,False,26,False,False
+2014-11-13,6.48333333333,Toronto Raptors,Memphis Grizzlies,1,14-12,-1,three point jumper,False,25,True,False
+2014-11-13,12.0,Toronto Raptors,Memphis Grizzlies,1,25-20,4,free throw,False,15,True,False
+2014-11-13,12.0,Toronto Raptors,Memphis Grizzlies,1,25-20,4,free throw,False,15,False,False
+2014-11-13,12.0,Toronto Raptors,Memphis Grizzlies,1,26-20,5,free throw,False,15,True,False
+2014-11-13,18.1333333333,Toronto Raptors,Memphis Grizzlies,2,38-30,5,three point jumper,False,25,True,False
+2014-11-13,22.0,Toronto Raptors,Memphis Grizzlies,2,52-37,12,three point jumper,False,25,True,False
+2014-11-13,27.1333333333,Toronto Raptors,Memphis Grizzlies,3,61-56,3,two point shot,False,1,True,False
+2014-11-13,27.8166666667,Toronto Raptors,Memphis Grizzlies,3,61-58,1,two point jumper,False,20,False,False
+2014-11-13,28.7833333333,Toronto Raptors,Memphis Grizzlies,3,65-58,6,free throw,False,15,True,False
+2014-11-13,28.7833333333,Toronto Raptors,Memphis Grizzlies,3,66-58,7,free throw,False,15,True,False
+2014-11-13,28.7833333333,Toronto Raptors,Memphis Grizzlies,3,66-58,7,free throw,False,15,False,False
+2014-11-13,33.3166666667,Toronto Raptors,Memphis Grizzlies,3,70-70,-3,three point jumper,False,27,False,False
+2014-11-13,33.6833333333,Toronto Raptors,Memphis Grizzlies,3,71-70,0,free throw,False,15,True,False
+2014-11-13,33.6833333333,Toronto Raptors,Memphis Grizzlies,3,72-70,1,free throw,False,15,True,False
+2014-11-13,35.5,Toronto Raptors,Memphis Grizzlies,3,78-71,5,two point jumper,False,1,True,False
+2014-11-13,44.8666666667,Toronto Raptors,Memphis Grizzlies,4,98-84,12,two point jumper,False,1,True,False
+2014-11-15,4.1,Toronto Raptors,Chicago Bulls,1,9-4,-8,three point jumper,True,27,False,False
+2014-11-15,6.73333333333,Toronto Raptors,Chicago Bulls,1,13-6,-9,two point shot,True,27,False,False
+2014-11-15,12.0,Toronto Raptors,Chicago Bulls,1,27-16,-14,unknown,True,27,False,False
+2014-11-15,18.6666666667,Toronto Raptors,Chicago Bulls,2,37-21,-18,layup,True,0,True,False
+2014-11-15,20.8,Toronto Raptors,Chicago Bulls,2,39-22,-19,layup,True,0,False,False
+2014-11-15,23.4666666667,Toronto Raptors,Chicago Bulls,2,44-30,-16,two point shot,True,1,False,False
+2014-11-15,29.4833333333,Toronto Raptors,Chicago Bulls,3,60-35,-27,unknown,True,11,False,False
+2014-11-15,30.5,Toronto Raptors,Chicago Bulls,3,62-37,-27,two point shot,True,5,False,False
+2014-11-15,30.5666666667,Toronto Raptors,Chicago Bulls,3,62-39,-25,two point shot,True,2,True,False
+2014-11-15,32.2333333333,Toronto Raptors,Chicago Bulls,3,66-43,-25,layup,True,0,True,False
+2014-11-15,32.6,Toronto Raptors,Chicago Bulls,3,68-43,-27,two point jumper,True,19,False,False
+2014-11-15,33.2166666667,Toronto Raptors,Chicago Bulls,3,70-43,-30,three point jumper,True,28,False,False
+2014-11-15,41.1,Toronto Raptors,Chicago Bulls,4,84-67,-19,unknown,True,23,False,False
+2014-11-15,41.9833333333,Toronto Raptors,Chicago Bulls,4,86-70,-19,three point jumper,True,27,False,False
+2014-11-17,8.86666666667,Toronto Raptors,Portland Trail Blazers,1,22-23,-2,three point jumper,True,23,False,False
+2014-11-17,18.1333333333,Toronto Raptors,Portland Trail Blazers,2,44-39,-8,three point jumper,True,26,False,False
+2014-11-17,18.6,Toronto Raptors,Portland Trail Blazers,2,47-41,-8,layup,True,0,True,False
+2014-11-17,21.0166666667,Toronto Raptors,Portland Trail Blazers,2,52-48,-5,free throw,True,15,True,False
+2014-11-17,21.0166666667,Toronto Raptors,Portland Trail Blazers,2,52-48,-5,free throw,True,15,False,False
+2014-11-17,32.75,Toronto Raptors,Portland Trail Blazers,3,73-66,-9,two point shot,True,25,False,False
+2014-11-17,35.3,Toronto Raptors,Portland Trail Blazers,3,76-69,-10,three point jumper,True,25,False,False
+2014-11-17,40.0666666667,Toronto Raptors,Portland Trail Blazers,4,91-77,-17,three point jumper,True,24,True,False
+2014-11-17,41.5333333333,Toronto Raptors,Portland Trail Blazers,4,91-81,-12,layup,True,0,True,False
+2014-11-17,42.8833333333,Toronto Raptors,Portland Trail Blazers,4,94-83,-14,three point jumper,True,24,False,False
+2014-11-17,43.6333333333,Toronto Raptors,Portland Trail Blazers,4,96-83,-15,unknown,True,5,False,False
+2014-11-17,47.0166666667,Toronto Raptors,Portland Trail Blazers,4,100-96,-5,free throw,True,15,True,False
+2014-11-17,47.0166666667,Toronto Raptors,Portland Trail Blazers,4,100-97,-4,free throw,True,15,True,False
+2014-11-17,52.0,Toronto Raptors,Portland Trail Blazers,5,115-107,-10,two point shot,True,24,False,False
+2014-11-22,1.31666666667,Toronto Raptors,Washington Wizards,1,2-4,0,two point shot,True,1,True,True
+2014-11-22,2.25,Toronto Raptors,Washington Wizards,1,4-7,0,three point jumper,True,25,True,True
+2014-11-22,6.41666666667,Toronto Raptors,Washington Wizards,1,18-19,-2,three point jumper,True,26,False,True
+2014-11-22,18.9833333333,Toronto Raptors,Washington Wizards,2,31-40,6,three point jumper,True,23,False,True
+2014-11-22,21.6,Toronto Raptors,Washington Wizards,2,33-47,11,three point jumper,True,26,True,True
+2014-11-22,26.6333333333,Toronto Raptors,Washington Wizards,3,42-53,9,layup,True,0,True,True
+2014-11-22,27.1333333333,Toronto Raptors,Washington Wizards,3,44-53,6,three point jumper,True,27,False,True
+2014-11-22,32.0,Toronto Raptors,Washington Wizards,3,60-59,-2,free throw,True,15,True,True
+2014-11-22,32.0,Toronto Raptors,Washington Wizards,3,60-60,-1,free throw,True,15,True,True
+2014-11-22,34.8833333333,Toronto Raptors,Washington Wizards,3,68-64,-6,layup,True,0,False,True
+2014-11-22,47.2,Toronto Raptors,Washington Wizards,4,88-92,2,layup,True,0,False,True
+2014-11-29,5.85,Toronto Raptors,Miami Heat,1,14-8,-9,three point jumper,True,24,False,False
+2014-11-29,11.4833333333,Toronto Raptors,Miami Heat,1,27-20,-10,three point jumper,True,26,False,False
+2014-11-29,11.9166666667,Toronto Raptors,Miami Heat,1,27-21,-7,free throw,True,15,True,False
+2014-11-29,11.9166666667,Toronto Raptors,Miami Heat,1,27-22,-6,free throw,True,15,True,False
+2014-11-29,20.0,Toronto Raptors,Miami Heat,2,46-34,-15,three point jumper,True,25,False,False
+2014-11-29,26.8833333333,Toronto Raptors,Miami Heat,3,63-48,-18,three point jumper,True,24,True,False
+2014-11-29,34.1333333333,Toronto Raptors,Miami Heat,3,77-66,-14,three point jumper,True,25,True,False
+2014-11-29,35.2333333333,Toronto Raptors,Miami Heat,3,78-67,-12,free throw,True,15,True,False
+2014-11-29,35.2333333333,Toronto Raptors,Miami Heat,3,78-68,-11,free throw,True,15,True,False
+2014-11-29,37.3833333333,Toronto Raptors,Miami Heat,4,80-70,-12,two point jumper,True,17,False,False
+2014-11-29,39.95,Toronto Raptors,Miami Heat,4,80-75,-8,three point jumper,True,24,True,False
+2014-11-29,40.9833333333,Toronto Raptors,Miami Heat,4,81-75,-9,three point jumper,True,25,False,False
+2014-11-29,41.9833333333,Toronto Raptors,Miami Heat,4,83-77,-8,layup,True,0,True,False
+2014-11-29,44.8333333333,Toronto Raptors,Miami Heat,4,85-81,-7,three point jumper,True,24,False,False
+2014-12-01,2.11666666667,Toronto Raptors,Denver Nuggets,1,5-7,-1,three point jumper,True,25,True,True
+2014-12-01,4.81666666667,Toronto Raptors,Denver Nuggets,1,8-18,7,three point jumper,True,25,True,True
+2014-12-01,6.53333333333,Toronto Raptors,Denver Nuggets,1,10-20,8,two point shot,True,1,False,True
+2014-12-01,7.66666666667,Toronto Raptors,Denver Nuggets,1,12-24,11,free throw,True,15,True,True
+2014-12-01,7.66666666667,Toronto Raptors,Denver Nuggets,1,12-25,12,free throw,True,15,True,True
+2014-12-01,11.1333333333,Toronto Raptors,Denver Nuggets,1,21-29,5,three point jumper,True,25,False,True
+2014-12-01,20.1833333333,Toronto Raptors,Denver Nuggets,2,39-42,0,three point jumper,True,24,False,True
+2014-12-01,26.25,Toronto Raptors,Denver Nuggets,3,49-51,0,two point jumper,True,17,True,True
+2014-12-01,28.9833333333,Toronto Raptors,Denver Nuggets,3,55-58,0,three point jumper,True,24,True,True
+2014-12-01,33.7666666667,Toronto Raptors,Denver Nuggets,3,66-68,-1,unknown,True,24,False,True
+2014-12-01,34.6833333333,Toronto Raptors,Denver Nuggets,3,71-69,-5,three point jumper,True,25,False,True
+2014-12-01,36.8833333333,Toronto Raptors,Denver Nuggets,4,79-74,-7,two point jumper,True,19,False,True
+2014-12-01,38.05,Toronto Raptors,Denver Nuggets,4,84-77,-8,free throw,True,15,True,True
+2014-12-01,38.05,Toronto Raptors,Denver Nuggets,4,84-78,-7,free throw,True,15,True,True
+2014-12-01,43.9833333333,Toronto Raptors,Denver Nuggets,4,98-92,-9,three point jumper,True,24,False,True
+2014-12-01,45.3666666667,Toronto Raptors,Denver Nuggets,4,101-96,-7,two point shot,True,4,True,True
+2014-12-01,46.0166666667,Toronto Raptors,Denver Nuggets,4,104-96,-10,two point jumper,True,8,False,True
+2014-12-01,47.1333333333,Toronto Raptors,Denver Nuggets,4,110-96,-17,three point jumper,True,24,False,True
+2014-12-03,1.88333333333,Toronto Raptors,Golden State Warriors,1,3-4,-2,free throw,False,15,True,False
+2014-12-03,1.88333333333,Toronto Raptors,Golden State Warriors,1,4-4,-1,free throw,False,15,True,False
+2014-12-03,2.31666666667,Toronto Raptors,Golden State Warriors,1,6-4,0,layup,False,0,True,False
+2014-12-03,10.3666666667,Toronto Raptors,Golden State Warriors,1,29-17,10,two point shot,False,13,True,False
+2014-12-03,11.5166666667,Toronto Raptors,Golden State Warriors,1,33-19,12,layup,False,0,True,False
+2014-12-03,11.9833333333,Toronto Raptors,Golden State Warriors,1,36-19,14,three point jumper,False,26,True,False
+2014-12-03,20.9333333333,Toronto Raptors,Golden State Warriors,2,50-39,8,three point jumper,False,23,False,False
+2014-12-03,23.8166666667,Toronto Raptors,Golden State Warriors,2,65-46,17,layup,False,0,True,False
+2014-12-03,26.6833333333,Toronto Raptors,Golden State Warriors,3,75-48,25,two point shot,False,17,True,False
+2014-12-03,27.3,Toronto Raptors,Golden State Warriors,3,75-50,23,two point shot,False,27,False,False
+2014-12-03,39.9333333333,Toronto Raptors,Golden State Warriors,4,94-84,7,unknown,False,26,False,False
+2014-12-03,42.0333333333,Toronto Raptors,Golden State Warriors,4,97-89,5,three point jumper,False,27,True,False
+2014-12-03,43.5666666667,Toronto Raptors,Golden State Warriors,4,99-95,2,two point shot,False,26,False,False
+2014-12-03,46.4833333333,Toronto Raptors,Golden State Warriors,4,102-106,-5,free throw,False,15,True,False
+2014-12-03,46.4833333333,Toronto Raptors,Golden State Warriors,4,103-106,-4,free throw,False,15,True,False
+2014-12-03,47.0,Toronto Raptors,Golden State Warriors,4,103-106,-5,two point shot,False,26,False,False
+2014-12-06,3.68333333333,Toronto Raptors,Phoenix Suns,1,5-10,-8,three point jumper,False,26,True,True
+2014-12-06,4.78333333333,Toronto Raptors,Phoenix Suns,1,7-12,-8,three point jumper,False,25,False,True
+2014-12-06,5.41666666667,Toronto Raptors,Phoenix Suns,1,11-14,-5,layup,False,0,True,True
+2014-12-06,9.4,Toronto Raptors,Phoenix Suns,1,25-23,-1,three point jumper,False,25,False,True
+2014-12-06,22.35,Toronto Raptors,Phoenix Suns,2,47-48,-4,three point jumper,False,26,False,True
+2014-12-06,28.35,Toronto Raptors,Phoenix Suns,3,57-60,-6,three point jumper,False,25,False,True
+2014-12-06,30.8166666667,Toronto Raptors,Phoenix Suns,3,59-66,-9,layup,False,0,True,True
+2014-12-06,33.8333333333,Toronto Raptors,Phoenix Suns,3,63-75,-14,two point jumper,False,7,False,True
+2014-12-06,34.15,Toronto Raptors,Phoenix Suns,3,64-76,-13,free throw,False,15,True,True
+2014-12-06,34.15,Toronto Raptors,Phoenix Suns,3,65-76,-12,free throw,False,15,True,True
+2014-12-06,35.0,Toronto Raptors,Phoenix Suns,3,69-79,-12,layup,False,0,True,True
+2014-12-06,35.45,Toronto Raptors,Phoenix Suns,3,72-81,-12,three point jumper,False,25,True,True
+2014-12-06,37.8333333333,Toronto Raptors,Phoenix Suns,4,74-86,-14,layup,False,0,False,True
+2014-12-06,43.6,Toronto Raptors,Phoenix Suns,4,85-97,-14,layup,False,0,True,True
+2014-12-06,44.6166666667,Toronto Raptors,Phoenix Suns,4,86-97,-12,free throw,False,15,False,True
+2014-12-06,44.6166666667,Toronto Raptors,Phoenix Suns,4,87-97,-11,free throw,False,15,True,True
+2014-12-06,46.55,Toronto Raptors,Phoenix Suns,4,93-102,-11,layup,False,0,True,True
+2014-12-06,47.45,Toronto Raptors,Phoenix Suns,4,96-104,-9,free throw,False,15,True,True
+2014-12-06,47.45,Toronto Raptors,Phoenix Suns,4,97-104,-8,free throw,False,15,True,True
+2014-12-06,47.65,Toronto Raptors,Phoenix Suns,4,97-105,-10,layup,False,0,False,True
+2014-12-08,2.31666666667,Toronto Raptors,Los Angeles Lakers,1,5-2,2,free throw,False,15,True,False
+2014-12-08,2.31666666667,Toronto Raptors,Los Angeles Lakers,1,6-2,3,free throw,False,15,True,False
+2014-12-08,5.5,Toronto Raptors,Los Angeles Lakers,1,15-4,8,three point jumper,False,27,False,False
+2014-12-08,6.1,Toronto Raptors,Los Angeles Lakers,1,15-6,6,three point jumper,False,25,False,False
+2014-12-08,9.46666666667,Toronto Raptors,Los Angeles Lakers,1,24-12,11,free throw,False,15,True,False
+2014-12-08,9.46666666667,Toronto Raptors,Los Angeles Lakers,1,25-12,12,free throw,False,15,True,False
+2014-12-08,9.98333333333,Toronto Raptors,Los Angeles Lakers,1,27-14,11,two point jumper,False,1,True,False
+2014-12-08,19.9833333333,Toronto Raptors,Los Angeles Lakers,2,46-40,3,three point jumper,False,26,False,False
+2014-12-08,21.1833333333,Toronto Raptors,Los Angeles Lakers,2,51-43,5,three point jumper,False,24,True,False
+2014-12-08,22.35,Toronto Raptors,Los Angeles Lakers,2,51-45,4,two point jumper,False,20,False,False
+2014-12-08,26.6333333333,Toronto Raptors,Los Angeles Lakers,3,57-47,8,layup,False,0,True,False
+2014-12-08,29.2,Toronto Raptors,Los Angeles Lakers,3,61-50,8,three point jumper,False,25,False,False
+2014-12-08,31.35,Toronto Raptors,Los Angeles Lakers,3,65-56,7,two point jumper,False,3,True,False
+2014-12-08,33.05,Toronto Raptors,Los Angeles Lakers,3,72-58,12,layup,False,0,True,False
+2014-12-08,41.1333333333,Toronto Raptors,Los Angeles Lakers,4,88-81,6,free throw,False,15,True,False
+2014-12-08,41.1333333333,Toronto Raptors,Los Angeles Lakers,4,89-81,7,free throw,False,15,True,False
+2014-12-08,44.4333333333,Toronto Raptors,Los Angeles Lakers,4,95-85,8,layup,False,0,True,False
+2014-12-08,46.4666666667,Toronto Raptors,Los Angeles Lakers,4,101-91,8,layup,False,0,True,False
+2014-12-08,47.95,Toronto Raptors,Los Angeles Lakers,4,106-94,10,two point jumper,False,14,True,False
+2014-12-10,8.43333333333,Toronto Raptors,San Antonio Spurs,1,18-27,6,three point jumper,True,26,True,False
+2014-12-10,9.96666666667,Toronto Raptors,San Antonio Spurs,1,18-32,11,three point jumper,True,26,True,False
+2014-12-10,11.5333333333,Toronto Raptors,San Antonio Spurs,1,24-36,10,two point shot,True,25,False,False
+2014-12-10,16.75,Toronto Raptors,San Antonio Spurs,2,41-40,-3,two point jumper,True,1,False,False
+2014-12-10,21.2166666667,Toronto Raptors,San Antonio Spurs,2,46-49,0,three point jumper,True,25,False,False
+2014-12-10,23.1166666667,Toronto Raptors,San Antonio Spurs,2,55-53,-4,two point shot,True,6,True,False
+2014-12-10,25.8333333333,Toronto Raptors,San Antonio Spurs,3,62-53,-12,three point jumper,True,23,False,False
+2014-12-10,29.85,Toronto Raptors,San Antonio Spurs,3,72-62,-13,three point jumper,True,25,False,False
+2014-12-10,32.65,Toronto Raptors,San Antonio Spurs,3,78-71,-10,three point jumper,True,26,True,False
+2014-12-10,35.55,Toronto Raptors,San Antonio Spurs,3,89-74,-17,two point jumper,True,5,False,False
+2014-12-14,3.95,Toronto Raptors,Chicago Bulls,1,10-4,3,three point jumper,False,25,False,True
+2014-12-14,4.03333333333,Toronto Raptors,Chicago Bulls,1,10-4,4,two point jumper,False,12,False,True
+2014-12-14,6.63333333333,Toronto Raptors,Chicago Bulls,1,12-10,0,two point jumper,False,22,True,True
+2014-12-14,10.4666666667,Toronto Raptors,Chicago Bulls,1,21-19,0,two point shot,False,1,True,True
+2014-12-14,18.9166666667,Toronto Raptors,Chicago Bulls,2,38-31,4,three point jumper,False,25,True,True
+2014-12-14,23.45,Toronto Raptors,Chicago Bulls,2,48-41,5,two point jumper,False,20,True,True
+2014-12-14,23.9833333333,Toronto Raptors,Chicago Bulls,2,51-41,7,three point jumper,False,25,True,True
+2014-12-14,25.3333333333,Toronto Raptors,Chicago Bulls,3,51-41,8,two point jumper,False,18,False,True
+2014-12-14,28.4833333333,Toronto Raptors,Chicago Bulls,3,59-48,9,layup,False,0,True,True
+2014-12-14,30.6,Toronto Raptors,Chicago Bulls,3,61-53,5,three point jumper,False,28,False,True
+2014-12-14,35.5166666667,Toronto Raptors,Chicago Bulls,3,73-66,5,two point jumper,False,21,False,True
+2014-12-14,46.3666666667,Toronto Raptors,Chicago Bulls,4,97-76,19,two point shot,False,1,True,True
+2014-12-18,5.31666666667,Toronto Raptors,Charlotte Bobcats,1,7-6,-4,three point jumper,True,26,False,False
+2014-12-18,8.98333333333,Toronto Raptors,Charlotte Bobcats,1,13-11,-5,three point jumper,True,27,False,False
+2014-12-18,10.6166666667,Toronto Raptors,Charlotte Bobcats,1,15-13,-4,two point shot,True,3,True,False
+2014-12-18,11.3333333333,Toronto Raptors,Charlotte Bobcats,1,18-15,-5,two point shot,True,3,False,False
+2014-12-18,11.8166666667,Toronto Raptors,Charlotte Bobcats,1,18-15,-6,three point jumper,True,24,False,False
+2014-12-18,22.75,Toronto Raptors,Charlotte Bobcats,2,35-41,5,free throw,True,15,True,False
+2014-12-18,22.75,Toronto Raptors,Charlotte Bobcats,2,35-42,6,free throw,True,15,True,False
+2014-12-18,23.6333333333,Toronto Raptors,Charlotte Bobcats,2,35-47,10,layup,True,0,True,False
+2014-12-18,27.3833333333,Toronto Raptors,Charlotte Bobcats,3,43-57,12,layup,True,0,True,False
+2014-12-18,38.9666666667,Toronto Raptors,Charlotte Bobcats,4,72-74,0,two point shot,True,16,False,False
+2014-12-18,39.0666666667,Toronto Raptors,Charlotte Bobcats,4,72-77,2,three point jumper,True,27,True,False
+2014-12-18,41.3166666667,Toronto Raptors,Charlotte Bobcats,4,82-81,-3,two point shot,True,7,False,False
+2014-12-18,41.4166666667,Toronto Raptors,Charlotte Bobcats,4,82-84,-1,three point jumper,True,25,True,False
+2014-12-18,45.0666666667,Toronto Raptors,Charlotte Bobcats,4,87-86,-4,three point jumper,True,27,False,False
+2014-12-18,47.8,Toronto Raptors,Charlotte Bobcats,4,95-95,-3,three point jumper,True,27,True,False
+2014-12-18,50.8,Toronto Raptors,Charlotte Bobcats,5,98-95,-5,two point jumper,True,20,False,False
+2014-12-20,0.433333333333,Toronto Raptors,Dallas Mavericks,1,0-0,-2,layup,False,0,False,True
+2014-12-20,0.7,Toronto Raptors,Dallas Mavericks,1,2-0,0,two point shot,False,1,True,True
+2014-12-20,1.21666666667,Toronto Raptors,Dallas Mavericks,1,4-2,0,layup,False,0,True,True
+2014-12-20,7.85,Toronto Raptors,Dallas Mavericks,1,16-24,-10,layup,False,0,True,True
+2014-12-20,7.85,Toronto Raptors,Dallas Mavericks,1,17-24,-8,free throw,False,15,True,True
+2014-12-20,9.43333333333,Toronto Raptors,Dallas Mavericks,1,19-27,-11,three point jumper,False,23,False,True
+2014-12-20,10.3333333333,Toronto Raptors,Dallas Mavericks,1,21-29,-10,two point jumper,False,5,False,True
+2014-12-20,19.9833333333,Toronto Raptors,Dallas Mavericks,2,39-47,-11,three point jumper,False,24,False,True
+2014-12-20,21.0,Toronto Raptors,Dallas Mavericks,2,41-47,-8,layup,False,0,True,True
+2014-12-20,22.55,Toronto Raptors,Dallas Mavericks,2,47-47,-3,three point jumper,False,24,True,True
+2014-12-20,29.5666666667,Toronto Raptors,Dallas Mavericks,3,59-61,-4,two point jumper,False,21,False,True
+2014-12-20,31.9166666667,Toronto Raptors,Dallas Mavericks,3,67-68,-4,three point jumper,False,25,True,True
+2014-12-20,33.05,Toronto Raptors,Dallas Mavericks,3,73-70,0,three point jumper,False,25,True,True
+2014-12-20,34.15,Toronto Raptors,Dallas Mavericks,3,73-74,-3,two point jumper,False,8,False,True
+2014-12-20,35.3166666667,Toronto Raptors,Dallas Mavericks,3,74-77,-4,free throw,False,15,True,True
+2014-12-20,35.3166666667,Toronto Raptors,Dallas Mavericks,3,75-77,-3,free throw,False,15,True,True
+2014-12-20,46.6,Toronto Raptors,Dallas Mavericks,4,98-97,-2,three point jumper,False,26,False,True
+2014-12-20,50.2833333333,Toronto Raptors,Dallas Mavericks,5,105-103,-1,three point jumper,False,25,False,True
+2014-12-20,52.8,Toronto Raptors,Dallas Mavericks,5,109-108,-1,two point jumper,False,9,False,True
+2014-12-22,1.45,Toronto Raptors,Oklahoma City Thunder,1,3-4,-4,three point jumper,False,25,True,False
+2014-12-22,2.9,Toronto Raptors,Oklahoma City Thunder,1,8-4,2,layup,False,0,True,False
+2014-12-22,4.31666666667,Toronto Raptors,Oklahoma City Thunder,1,11-9,0,two point shot,False,24,False,False
+2014-12-22,6.91666666667,Toronto Raptors,Oklahoma City Thunder,1,15-17,-4,two point shot,False,9,False,False
+2014-12-22,11.5166666667,Toronto Raptors,Oklahoma City Thunder,1,23-21,0,layup,False,0,True,False
+2014-12-22,11.9666666667,Toronto Raptors,Oklahoma City Thunder,1,24-21,2,free throw,False,15,True,False
+2014-12-22,11.9666666667,Toronto Raptors,Oklahoma City Thunder,1,25-21,3,free throw,False,15,True,False
+2014-12-22,18.8166666667,Toronto Raptors,Oklahoma City Thunder,2,40-43,-5,two point jumper,False,16,False,False
+2014-12-22,20.75,Toronto Raptors,Oklahoma City Thunder,2,47-47,-3,three point jumper,False,23,True,False
+2014-12-22,23.55,Toronto Raptors,Oklahoma City Thunder,2,57-53,2,two point shot,False,7,False,False
+2014-12-22,23.5833333333,Toronto Raptors,Oklahoma City Thunder,2,59-53,4,layup,False,0,True,False
+2014-12-22,23.9833333333,Toronto Raptors,Oklahoma City Thunder,2,60-56,3,free throw,False,15,True,False
+2014-12-22,23.9833333333,Toronto Raptors,Oklahoma City Thunder,2,61-56,4,free throw,False,15,True,False
+2014-12-22,23.9833333333,Toronto Raptors,Oklahoma City Thunder,2,62-56,5,free throw,False,15,True,False
+2014-12-22,29.2833333333,Toronto Raptors,Oklahoma City Thunder,3,69-68,-1,two point shot,False,1,False,False
+2014-12-22,32.2166666667,Toronto Raptors,Oklahoma City Thunder,3,71-77,-8,two point shot,False,7,False,False
+2014-12-22,33.4666666667,Toronto Raptors,Oklahoma City Thunder,3,73-82,-12,three point jumper,False,25,False,False
+2014-12-22,44.75,Toronto Raptors,Oklahoma City Thunder,4,98-93,2,three point jumper,False,25,True,False
+2014-12-22,47.4,Toronto Raptors,Oklahoma City Thunder,4,100-98,0,tip shot,False,0,False,False
+2014-12-22,47.85,Toronto Raptors,Oklahoma City Thunder,4,103-98,4,free throw,False,15,True,False
+2014-12-22,47.85,Toronto Raptors,Oklahoma City Thunder,4,104-98,5,free throw,False,15,True,False
+2014-12-23,0.183333333333,Toronto Raptors,San Antonio Spurs,1,2-0,1,free throw,False,15,True,True
+2014-12-23,0.183333333333,Toronto Raptors,San Antonio Spurs,1,2-0,1,free throw,False,15,True,True
+2014-12-23,2.56666666667,Toronto Raptors,San Antonio Spurs,1,4-6,-4,two point jumper,False,23,True,True
+2014-12-23,7.78333333333,Toronto Raptors,San Antonio Spurs,1,15-19,-7,three point jumper,False,27,True,True
+2014-12-23,9.73333333333,Toronto Raptors,San Antonio Spurs,1,17-21,-5,free throw,False,15,True,True
+2014-12-23,9.73333333333,Toronto Raptors,San Antonio Spurs,1,18-21,-4,free throw,False,15,True,True
+2014-12-23,11.7166666667,Toronto Raptors,San Antonio Spurs,1,26-25,-2,three point jumper,False,23,True,True
+2014-12-23,21.85,Toronto Raptors,San Antonio Spurs,2,44-52,-9,free throw,False,15,True,True
+2014-12-23,21.85,Toronto Raptors,San Antonio Spurs,2,45-52,-8,free throw,False,15,True,True
+2014-12-23,22.6666666667,Toronto Raptors,San Antonio Spurs,2,47-54,-9,layup,False,0,False,True
+2014-12-23,23.5,Toronto Raptors,San Antonio Spurs,2,49-55,-8,two point shot,False,16,True,True
+2014-12-23,23.9333333333,Toronto Raptors,San Antonio Spurs,2,49-55,-8,layup,False,0,False,True
+2014-12-23,27.05,Toronto Raptors,San Antonio Spurs,3,56-57,-4,three point jumper,False,24,False,True
+2014-12-23,27.75,Toronto Raptors,San Antonio Spurs,3,56-59,-5,layup,False,0,False,True
+2014-12-23,30.2,Toronto Raptors,San Antonio Spurs,3,59-67,-11,three point jumper,False,25,False,True
+2014-12-23,38.4666666667,Toronto Raptors,San Antonio Spurs,4,77-82,-7,layup,False,0,True,True
+2014-12-23,38.9666666667,Toronto Raptors,San Antonio Spurs,4,77-85,-11,three point jumper,False,25,False,True
+2014-12-23,39.5666666667,Toronto Raptors,San Antonio Spurs,4,79-87,-10,two point jumper,False,1,True,True
+2014-12-23,39.5666666667,Toronto Raptors,San Antonio Spurs,4,80-87,-8,free throw,False,15,True,True
+2014-12-23,47.5,Toronto Raptors,San Antonio Spurs,4,97-109,-14,two point jumper,False,14,False,True
+2014-12-23,47.5,Toronto Raptors,San Antonio Spurs,4,98-109,-12,free throw,False,15,True,True
+2014-12-23,47.5,Toronto Raptors,San Antonio Spurs,4,99-109,-11,free throw,False,15,True,True
+2014-12-31,4.35,Toronto Raptors,Chicago Bulls,1,7-5,0,two point jumper,False,20,False,True
+2014-12-31,14.9666666667,Toronto Raptors,Chicago Bulls,2,21-22,-4,three point jumper,False,25,False,True
+2014-12-31,18.4166666667,Toronto Raptors,Chicago Bulls,2,26-32,-9,three point jumper,False,26,True,True
+2014-12-31,19.35,Toronto Raptors,Chicago Bulls,2,31-34,-6,three point jumper,False,27,True,True
+2014-12-31,20.7666666667,Toronto Raptors,Chicago Bulls,2,31-38,-10,three point jumper,False,25,False,True
+2014-12-31,25.5666666667,Toronto Raptors,Chicago Bulls,3,38-45,-9,two point jumper,False,19,True,True
+2014-12-31,26.7,Toronto Raptors,Chicago Bulls,3,40-45,-8,three point jumper,False,25,False,True
+2014-12-31,28.1666666667,Toronto Raptors,Chicago Bulls,3,42-47,-6,free throw,False,15,False,True
+2014-12-31,28.1666666667,Toronto Raptors,Chicago Bulls,3,43-47,-5,free throw,False,15,True,True
+2014-12-31,34.6166666667,Toronto Raptors,Chicago Bulls,3,55-60,-8,three point jumper,False,26,True,True
+2014-12-31,35.9333333333,Toronto Raptors,Chicago Bulls,3,57-62,-8,three point jumper,False,26,False,True
+2014-12-31,46.3666666667,Toronto Raptors,Chicago Bulls,4,80-75,2,three point jumper,False,25,False,True
+2014-12-31,47.8,Toronto Raptors,Chicago Bulls,4,85-79,5,free throw,False,15,True,True
+2014-12-31,47.8,Toronto Raptors,Chicago Bulls,4,85-79,5,free throw,False,15,False,True
+2014-01-01,5.03333333333,Toronto Raptors,Indiana Pacers,1,10-12,-1,three point jumper,True,25,True,True
+2014-01-01,7.91666666667,Toronto Raptors,Indiana Pacers,1,14-19,3,two point jumper,True,8,False,True
+2014-01-01,8.21666666667,Toronto Raptors,Indiana Pacers,1,14-19,2,three point jumper,True,24,False,True
+2014-01-01,8.86666666667,Toronto Raptors,Indiana Pacers,1,16-21,3,two point shot,True,1,True,True
+2014-01-01,21.9166666667,Toronto Raptors,Indiana Pacers,2,38-38,-2,two point shot,True,15,True,True
+2014-01-01,31.9166666667,Toronto Raptors,Indiana Pacers,3,63-57,-8,two point shot,True,26,False,True
+2014-01-01,34.05,Toronto Raptors,Indiana Pacers,3,63-61,-4,two point shot,True,11,False,True
+2014-01-01,34.1833333333,Toronto Raptors,Indiana Pacers,3,63-61,-5,three point jumper,True,26,False,True
+2014-01-01,43.1333333333,Toronto Raptors,Indiana Pacers,4,75-81,5,free throw,True,15,True,True
+2014-01-01,43.1333333333,Toronto Raptors,Indiana Pacers,4,75-82,6,free throw,True,15,True,True
+2014-01-01,45.1,Toronto Raptors,Indiana Pacers,4,77-88,9,layup,True,0,True,True
+2014-01-01,46.75,Toronto Raptors,Indiana Pacers,4,79-92,12,free throw,True,15,True,True
+2014-01-01,46.75,Toronto Raptors,Indiana Pacers,4,79-93,13,free throw,True,15,True,True
+2014-01-03,1.36666666667,Toronto Raptors,Washington Wizards,1,3-0,0,three point jumper,False,24,True,False
+2014-01-03,3.38333333333,Toronto Raptors,Washington Wizards,1,14-5,6,three point jumper,False,26,True,False
+2014-01-03,18.1,Toronto Raptors,Washington Wizards,2,37-28,7,two point jumper,False,10,False,False
+2014-01-03,23.5,Toronto Raptors,Washington Wizards,2,48-45,0,three point jumper,False,26,True,False
+2014-01-03,27.0666666667,Toronto Raptors,Washington Wizards,3,59-49,8,two point jumper,False,10,False,False
+2014-01-03,27.1833333333,Toronto Raptors,Washington Wizards,3,59-49,8,two point jumper,False,6,False,False
+2014-01-03,29.8833333333,Toronto Raptors,Washington Wizards,3,65-53,11,free throw,False,15,False,False
+2014-01-03,29.8833333333,Toronto Raptors,Washington Wizards,3,66-53,12,free throw,False,15,True,False
+2014-01-03,30.6666666667,Toronto Raptors,Washington Wizards,3,73-53,17,three point jumper,False,29,True,False
+2014-01-03,35.1666666667,Toronto Raptors,Washington Wizards,3,82-61,19,two point jumper,False,22,False,False
+2014-01-03,42.6333333333,Toronto Raptors,Washington Wizards,4,94-76,16,two point jumper,False,22,False,False
+2014-01-03,45.05,Toronto Raptors,Washington Wizards,4,97-80,15,layup,False,0,True,False
+2014-01-03,46.3,Toronto Raptors,Washington Wizards,4,99-84,13,layup,False,0,True,False
+2014-01-03,47.4666666667,Toronto Raptors,Washington Wizards,4,101-86,13,two point shot,False,7,True,False
+2014-01-05,3.9,Toronto Raptors,Miami Heat,1,7-12,-8,three point jumper,False,26,False,True
+2014-01-05,4.41666666667,Toronto Raptors,Miami Heat,1,8-12,-5,free throw,False,15,True,True
+2014-01-05,4.41666666667,Toronto Raptors,Miami Heat,1,8-12,-5,free throw,False,15,False,True
+2014-01-05,9.4,Toronto Raptors,Miami Heat,1,21-23,-4,two point shot,False,5,True,True
+2014-01-05,10.0166666667,Toronto Raptors,Miami Heat,1,21-25,-5,free throw,False,15,False,True
+2014-01-05,10.0166666667,Toronto Raptors,Miami Heat,1,22-25,-4,free throw,False,15,True,True
+2014-01-05,19.5,Toronto Raptors,Miami Heat,2,42-44,-5,three point jumper,False,25,False,True
+2014-01-05,22.5,Toronto Raptors,Miami Heat,2,47-48,-4,three point jumper,False,26,False,True
+2014-01-05,23.4,Toronto Raptors,Miami Heat,2,51-50,-1,layup,False,0,True,True
+2014-01-05,23.9833333333,Toronto Raptors,Miami Heat,2,51-52,-3,layup,False,0,False,True
+2014-01-05,27.0666666667,Toronto Raptors,Miami Heat,3,63-56,4,three point jumper,False,27,True,True
+2014-01-05,28.6333333333,Toronto Raptors,Miami Heat,3,69-61,5,three point jumper,False,24,True,True
+2014-01-05,34.15,Toronto Raptors,Miami Heat,3,77-77,-3,three point jumper,False,25,False,True
+2014-01-05,36.0,Toronto Raptors,Miami Heat,3,84-79,3,two point shot,False,19,True,True
+2014-01-05,42.1,Toronto Raptors,Miami Heat,4,86-90,-7,three point jumper,False,24,False,True
+2014-01-05,46.3666666667,Toronto Raptors,Miami Heat,4,91-94,-5,layup,False,0,False,True
+2014-01-05,47.9166666667,Toronto Raptors,Miami Heat,4,97-100,-6,three point jumper,False,26,False,True
+2014-01-07,2.2,Toronto Raptors,Indiana Pacers,1,5-0,2,three point jumper,False,25,True,False
+2014-01-07,2.75,Toronto Raptors,Indiana Pacers,1,7-0,5,two point shot,False,21,True,False
+2014-01-07,7.38333333333,Toronto Raptors,Indiana Pacers,1,13-8,3,two point shot,False,6,True,False
+2014-01-07,11.0,Toronto Raptors,Indiana Pacers,1,15-20,-7,layup,False,0,True,False
+2014-01-07,11.3666666667,Toronto Raptors,Indiana Pacers,1,15-20,-7,two point jumper,False,21,False,False
+2014-01-07,22.05,Toronto Raptors,Indiana Pacers,2,36-39,-6,three point jumper,False,26,True,False
+2014-01-07,23.55,Toronto Raptors,Indiana Pacers,2,36-42,-7,free throw,False,15,False,False
+2014-01-07,23.55,Toronto Raptors,Indiana Pacers,2,36-42,-7,free throw,False,15,False,False
+2014-01-07,23.55,Toronto Raptors,Indiana Pacers,2,36-42,-7,free throw,False,15,False,False
+2014-01-07,24.6333333333,Toronto Raptors,Indiana Pacers,3,36-46,-13,three point jumper,False,25,False,False
+2014-01-07,25.25,Toronto Raptors,Indiana Pacers,3,38-48,-12,two point jumper,False,13,True,False
+2014-01-07,30.95,Toronto Raptors,Indiana Pacers,3,47-60,-16,three point jumper,False,27,False,False
+2014-01-07,33.75,Toronto Raptors,Indiana Pacers,3,52-67,-17,two point jumper,False,17,False,False
+2014-01-07,36.0,Toronto Raptors,Indiana Pacers,3,58-71,-16,three point jumper,False,23,False,False
+2014-01-07,43.7833333333,Toronto Raptors,Indiana Pacers,4,70-77,-9,two point shot,False,4,True,False
+2014-01-07,46.8666666667,Toronto Raptors,Indiana Pacers,4,79-85,-8,two point jumper,False,9,False,False
+2014-01-08,3.8,Toronto Raptors,Detroit Pistons,1,6-7,-2,three point jumper,True,25,True,False
+2014-01-08,8.48333333333,Toronto Raptors,Detroit Pistons,1,19-16,-4,free throw,True,15,True,False
+2014-01-08,8.48333333333,Toronto Raptors,Detroit Pistons,1,19-17,-3,free throw,True,15,True,False
+2014-01-08,11.5,Toronto Raptors,Detroit Pistons,1,25-26,-1,two point shot,True,26,False,False
+2014-01-08,21.4666666667,Toronto Raptors,Detroit Pistons,2,47-44,-4,free throw,True,15,True,False
+2014-01-08,21.4666666667,Toronto Raptors,Detroit Pistons,2,47-45,-3,free throw,True,15,True,False
+2014-01-08,21.4666666667,Toronto Raptors,Detroit Pistons,2,47-46,-2,free throw,True,15,True,False
+2014-01-08,22.3833333333,Toronto Raptors,Detroit Pistons,2,48-47,-2,free throw,True,15,True,False
+2014-01-08,22.3833333333,Toronto Raptors,Detroit Pistons,2,48-48,-1,free throw,True,15,True,False
+2014-01-08,23.65,Toronto Raptors,Detroit Pistons,2,54-50,-6,layup,True,0,False,False
+2014-01-08,28.9833333333,Toronto Raptors,Detroit Pistons,3,58-67,6,three point jumper,True,25,True,False
+2014-01-08,32.2,Toronto Raptors,Detroit Pistons,3,66-77,9,two point shot,True,26,False,False
+2014-01-08,33.3333333333,Toronto Raptors,Detroit Pistons,3,66-79,11,two point shot,True,1,False,False
+2014-01-08,34.5,Toronto Raptors,Detroit Pistons,3,71-82,8,three point jumper,True,26,True,False
+2014-01-08,42.1333333333,Toronto Raptors,Detroit Pistons,4,84-99,14,free throw,True,15,True,False
+2014-01-08,42.1333333333,Toronto Raptors,Detroit Pistons,4,84-100,15,free throw,True,15,True,False
+2014-01-08,43.35,Toronto Raptors,Detroit Pistons,4,87-105,15,three point jumper,True,26,True,False
+2014-01-13,2.56666666667,Toronto Raptors,Milwaukee Bucks,1,5-5,-3,three point jumper,True,25,True,False
+2014-01-13,6.23333333333,Toronto Raptors,Milwaukee Bucks,1,9-15,5,free throw,True,15,True,False
+2014-01-13,6.23333333333,Toronto Raptors,Milwaukee Bucks,1,9-16,6,free throw,True,15,True,False
+2014-01-13,6.23333333333,Toronto Raptors,Milwaukee Bucks,1,9-17,7,free throw,True,15,True,False
+2014-01-13,6.7,Toronto Raptors,Milwaukee Bucks,1,11-17,3,three point jumper,True,27,False,False
+2014-01-13,11.5,Toronto Raptors,Milwaukee Bucks,1,24-35,10,free throw,True,15,True,False
+2014-01-13,11.5,Toronto Raptors,Milwaukee Bucks,1,24-36,11,free throw,True,15,True,False
+2014-01-13,11.8,Toronto Raptors,Milwaukee Bucks,1,24-37,12,free throw,True,15,True,False
+2014-01-13,11.8,Toronto Raptors,Milwaukee Bucks,1,24-38,13,free throw,True,15,True,False
+2014-01-13,21.0666666667,Toronto Raptors,Milwaukee Bucks,2,42-56,12,two point shot,True,20,True,False
+2014-01-13,24.25,Toronto Raptors,Milwaukee Bucks,3,50-61,8,three point jumper,True,26,True,False
+2014-01-13,27.1333333333,Toronto Raptors,Milwaukee Bucks,3,56-68,9,three point jumper,True,27,True,False
+2014-01-13,32.5333333333,Toronto Raptors,Milwaukee Bucks,3,66-80,12,two point shot,True,1,True,False
+2014-01-13,35.1666666667,Toronto Raptors,Milwaukee Bucks,3,72-86,11,three point jumper,True,25,True,False
+2014-01-17,8.83333333333,Toronto Raptors,Minnesota Timberwolves,1,12-15,1,layup,True,0,False,True
+2014-01-17,9.08333333333,Toronto Raptors,Minnesota Timberwolves,1,12-17,3,layup,True,0,True,True
+2014-01-17,9.56666666667,Toronto Raptors,Minnesota Timberwolves,1,12-17,2,three point jumper,True,25,False,True
+2014-01-17,18.6333333333,Toronto Raptors,Minnesota Timberwolves,2,27-34,6,free throw,True,15,False,True
+2014-01-17,18.6333333333,Toronto Raptors,Minnesota Timberwolves,2,27-35,7,free throw,True,15,True,True
+2014-01-17,18.6333333333,Toronto Raptors,Minnesota Timberwolves,2,27-36,8,free throw,True,15,True,True
+2014-01-17,19.6666666667,Toronto Raptors,Minnesota Timberwolves,2,29-41,9,three point jumper,True,24,True,True
+2014-01-17,20.3,Toronto Raptors,Minnesota Timberwolves,2,31-44,10,three point jumper,True,25,True,True
+2014-01-17,23.0,Toronto Raptors,Minnesota Timberwolves,2,37-44,4,three point jumper,True,24,False,True
+2014-01-17,27.65,Toronto Raptors,Minnesota Timberwolves,3,47-52,2,three point jumper,True,24,True,True
+2014-01-17,32.1833333333,Toronto Raptors,Minnesota Timberwolves,3,53-62,6,three point jumper,True,28,True,True
+2014-01-17,32.9166666667,Toronto Raptors,Minnesota Timberwolves,3,53-67,11,three point jumper,True,25,True,True
+2014-01-17,33.25,Toronto Raptors,Minnesota Timberwolves,3,55-67,9,three point jumper,True,25,False,True
+2014-01-17,35.8833333333,Toronto Raptors,Minnesota Timberwolves,3,61-69,6,layup,True,0,False,True
+2014-01-17,47.8833333333,Toronto Raptors,Minnesota Timberwolves,4,85-91,5,free throw,True,15,True,True
+2014-01-17,47.8833333333,Toronto Raptors,Minnesota Timberwolves,4,85-92,6,free throw,True,15,True,True
+2014-01-19,9.95,Toronto Raptors,Los Angeles Lakers,1,24-26,-1,three point jumper,True,25,True,False
+2014-01-19,10.75,Toronto Raptors,Los Angeles Lakers,1,26-30,2,two point shot,True,4,True,False
+2014-01-19,19.2833333333,Toronto Raptors,Los Angeles Lakers,2,38-50,9,three point jumper,True,24,False,False
+2014-01-19,21.6833333333,Toronto Raptors,Los Angeles Lakers,2,48-56,6,two point jumper,True,14,False,False
+2014-01-19,23.95,Toronto Raptors,Los Angeles Lakers,2,52-58,4,two point shot,True,24,False,False
+2014-01-19,25.2666666667,Toronto Raptors,Los Angeles Lakers,3,54-60,4,two point shot,True,3,True,False
+2014-01-19,26.15,Toronto Raptors,Los Angeles Lakers,3,54-63,6,three point jumper,True,23,True,False
+2014-01-19,28.0,Toronto Raptors,Los Angeles Lakers,3,54-68,11,three point jumper,True,24,False,False
+2014-01-19,28.2,Toronto Raptors,Los Angeles Lakers,3,54-69,14,free throw,True,15,True,False
+2014-01-19,28.2,Toronto Raptors,Los Angeles Lakers,3,54-70,15,free throw,True,15,True,False
+2014-01-19,32.7166666667,Toronto Raptors,Los Angeles Lakers,3,76-79,0,three point jumper,True,25,False,False
+2014-01-19,35.4,Toronto Raptors,Los Angeles Lakers,3,79-81,0,two point shot,True,20,True,False
+2014-01-19,45.05,Toronto Raptors,Los Angeles Lakers,4,100-98,-4,layup,True,0,True,False
+2014-01-19,45.7833333333,Toronto Raptors,Los Angeles Lakers,4,102-101,-4,three point jumper,True,25,True,False
+2014-01-19,46.2833333333,Toronto Raptors,Los Angeles Lakers,4,105-103,-4,layup,True,0,True,False
+2014-01-20,5.45,Toronto Raptors,Charlotte Bobcats,1,5-11,-8,two point jumper,False,18,False,True
+2014-01-20,7.81666666667,Toronto Raptors,Charlotte Bobcats,1,9-20,-14,three point jumper,False,26,False,True
+2014-01-20,8.4,Toronto Raptors,Charlotte Bobcats,1,11-20,-11,layup,False,0,True,True
+2014-01-20,9.86666666667,Toronto Raptors,Charlotte Bobcats,1,11-24,-15,layup,False,0,False,True
+2014-01-20,11.0333333333,Toronto Raptors,Charlotte Bobcats,1,11-26,-18,three point jumper,False,25,False,True
+2014-01-20,20.15,Toronto Raptors,Charlotte Bobcats,2,27-45,-20,two point shot,False,9,False,True
+2014-01-20,21.8666666667,Toronto Raptors,Charlotte Bobcats,2,27-47,-22,two point jumper,False,6,False,True
+2014-01-20,22.6,Toronto Raptors,Charlotte Bobcats,2,32-51,-22,three point jumper,False,26,True,True
+2014-01-20,23.5666666667,Toronto Raptors,Charlotte Bobcats,2,36-53,-19,two point shot,False,2,False,True
+2014-01-20,23.9833333333,Toronto Raptors,Charlotte Bobcats,2,36-55,-22,three point jumper,False,28,False,True
+2014-01-20,26.5833333333,Toronto Raptors,Charlotte Bobcats,3,41-59,-20,two point shot,False,7,True,True
+2014-01-20,27.0666666667,Toronto Raptors,Charlotte Bobcats,3,41-59,-21,three point jumper,False,23,False,True
+2014-01-20,28.8166666667,Toronto Raptors,Charlotte Bobcats,3,41-66,-27,two point jumper,False,9,False,True
+2014-01-20,29.85,Toronto Raptors,Charlotte Bobcats,3,41-66,-27,two point shot,False,5,False,True
+2014-01-20,38.1333333333,Toronto Raptors,Charlotte Bobcats,4,66-81,-17,two point jumper,False,1,True,True
+2014-01-20,38.6833333333,Toronto Raptors,Charlotte Bobcats,4,66-81,-18,three point jumper,False,25,False,True
+2014-01-20,39.9,Toronto Raptors,Charlotte Bobcats,4,71-84,-15,layup,False,0,True,True
+2014-01-20,40.35,Toronto Raptors,Charlotte Bobcats,4,74-84,-13,three point jumper,False,26,True,True
+2014-01-20,43.8166666667,Toronto Raptors,Charlotte Bobcats,4,84-89,-7,layup,False,0,True,True
+2014-01-20,47.5833333333,Toronto Raptors,Charlotte Bobcats,4,92-93,-3,two point jumper,False,15,True,True
+2014-01-20,47.5833333333,Toronto Raptors,Charlotte Bobcats,4,92-93,-2,free throw,False,15,False,True
+2014-01-20,47.8166666667,Toronto Raptors,Charlotte Bobcats,4,92-96,-7,three point jumper,False,30,False,True
+2014-01-20,47.9666666667,Toronto Raptors,Charlotte Bobcats,4,95-98,-6,three point jumper,False,30,True,True
+2014-01-22,4.38333333333,Toronto Raptors,Dallas Mavericks,1,11-8,-6,three point jumper,True,25,False,True
+2014-01-22,7.6,Toronto Raptors,Dallas Mavericks,1,18-8,-13,three point jumper,True,26,False,True
+2014-01-22,8.71666666667,Toronto Raptors,Dallas Mavericks,1,24-10,-16,layup,True,0,False,True
+2014-01-22,9.95,Toronto Raptors,Dallas Mavericks,1,30-13,-20,three point jumper,True,26,False,True
+2014-01-22,19.7,Toronto Raptors,Dallas Mavericks,2,42-32,-12,two point jumper,True,3,False,True
+2014-01-22,28.7333333333,Toronto Raptors,Dallas Mavericks,3,58-52,-9,three point jumper,True,25,False,True
+2014-01-22,29.2166666667,Toronto Raptors,Dallas Mavericks,3,58-52,-9,three point jumper,True,25,False,True
+2014-01-22,37.7,Toronto Raptors,Dallas Mavericks,4,76-68,-11,three point jumper,True,25,False,True
+2014-01-22,38.8166666667,Toronto Raptors,Dallas Mavericks,4,76-72,-5,free throw,True,15,True,True
+2014-01-22,38.8166666667,Toronto Raptors,Dallas Mavericks,4,76-73,-4,free throw,True,15,True,True
+2014-01-22,42.7833333333,Toronto Raptors,Dallas Mavericks,4,80-80,-1,free throw,True,15,True,True
+2014-01-22,42.7833333333,Toronto Raptors,Dallas Mavericks,4,80-80,-1,free throw,True,15,False,True
+2014-01-22,43.3833333333,Toronto Raptors,Dallas Mavericks,4,81-80,-3,two point shot,True,1,False,True
+2014-01-25,3.58333333333,Toronto Raptors,Los Angeles Clippers,1,6-11,2,three point jumper,True,25,True,False
+2014-01-25,6.28333333333,Toronto Raptors,Los Angeles Clippers,1,12-21,8,free throw,True,15,True,False
+2014-01-25,6.28333333333,Toronto Raptors,Los Angeles Clippers,1,12-22,9,free throw,True,15,True,False
+2014-01-25,7.13333333333,Toronto Raptors,Los Angeles Clippers,1,14-24,8,two point shot,True,4,True,False
+2014-01-25,8.21666666667,Toronto Raptors,Los Angeles Clippers,1,20-26,3,three point jumper,True,27,False,False
+2014-01-25,21.65,Toronto Raptors,Los Angeles Clippers,2,66-58,-11,three point jumper,True,30,False,False
+2014-01-25,22.4333333333,Toronto Raptors,Los Angeles Clippers,2,68-62,-7,free throw,True,15,True,False
+2014-01-25,22.4333333333,Toronto Raptors,Los Angeles Clippers,2,68-63,-6,free throw,True,15,True,False
+2014-01-25,26.1333333333,Toronto Raptors,Los Angeles Clippers,3,77-66,-12,free throw,True,15,True,False
+2014-01-25,26.1333333333,Toronto Raptors,Los Angeles Clippers,3,77-66,-12,free throw,True,15,False,False
+2014-01-25,26.6166666667,Toronto Raptors,Los Angeles Clippers,3,77-68,-12,three point jumper,True,26,False,False
+2014-01-25,29.7,Toronto Raptors,Los Angeles Clippers,3,77-74,-5,two point jumper,True,5,False,False
+2014-01-25,29.7833333333,Toronto Raptors,Los Angeles Clippers,3,77-74,-6,three point jumper,True,23,False,False
+2014-01-25,32.5333333333,Toronto Raptors,Los Angeles Clippers,3,85-82,-5,two point jumper,True,1,False,False
+2014-01-25,34.2166666667,Toronto Raptors,Los Angeles Clippers,3,87-86,-3,two point jumper,True,9,False,False
+2014-01-25,41.8833333333,Toronto Raptors,Los Angeles Clippers,4,109-107,-5,three point jumper,True,26,False,False
+2014-01-25,46.1666666667,Toronto Raptors,Los Angeles Clippers,4,121-112,-10,free throw,True,15,False,False
+2014-01-25,46.1666666667,Toronto Raptors,Los Angeles Clippers,4,121-113,-9,free throw,True,15,True,False
+2014-01-25,46.1666666667,Toronto Raptors,Los Angeles Clippers,4,121-113,-9,free throw,True,15,False,False
+2014-01-29,0.966666666667,Toronto Raptors,Orlando Magic,1,0-3,0,three point jumper,True,26,True,True
+2014-01-29,3.81666666667,Toronto Raptors,Orlando Magic,1,5-13,5,three point jumper,True,26,True,True
+2014-01-29,6.06666666667,Toronto Raptors,Orlando Magic,1,9-19,7,three point jumper,True,26,True,True
+2014-01-29,6.56666666667,Toronto Raptors,Orlando Magic,1,11-21,8,two point jumper,True,21,True,True
+2014-01-29,7.91666666667,Toronto Raptors,Orlando Magic,1,15-25,8,two point shot,True,1,False,True
+2014-01-29,9.98333333333,Toronto Raptors,Orlando Magic,1,17-30,10,three point jumper,True,23,True,True
+2014-01-29,11.35,Toronto Raptors,Orlando Magic,1,19-33,11,three point jumper,True,25,True,True
+2014-01-29,11.9833333333,Toronto Raptors,Orlando Magic,1,20-33,11,layup,True,0,False,True
+2014-01-29,20.1833333333,Toronto Raptors,Orlando Magic,2,34-46,11,free throw,True,15,False,True
+2014-01-29,20.1833333333,Toronto Raptors,Orlando Magic,2,34-47,12,free throw,True,15,True,True
+2014-01-29,20.6,Toronto Raptors,Orlando Magic,2,34-47,10,three point jumper,True,25,False,True
+2014-01-29,21.25,Toronto Raptors,Orlando Magic,2,36-49,11,two point jumper,True,19,True,True
+2014-01-29,23.4833333333,Toronto Raptors,Orlando Magic,2,38-55,14,three point jumper,True,23,False,True
+2014-01-29,27.1333333333,Toronto Raptors,Orlando Magic,3,47-61,12,two point shot,True,1,True,True
+2014-01-29,29.5333333333,Toronto Raptors,Orlando Magic,3,53-66,10,three point jumper,True,23,True,True
+2014-01-29,30.6333333333,Toronto Raptors,Orlando Magic,3,55-66,8,three point jumper,True,23,False,True
+2014-01-29,32.2333333333,Toronto Raptors,Orlando Magic,3,57-72,13,two point shot,True,14,True,True
+2014-01-29,32.7333333333,Toronto Raptors,Orlando Magic,3,59-73,13,free throw,True,15,True,True
+2014-01-29,32.7333333333,Toronto Raptors,Orlando Magic,3,59-74,14,free throw,True,15,True,True
+2014-01-29,34.1333333333,Toronto Raptors,Orlando Magic,3,59-78,17,two point shot,True,18,True,True
+2014-01-29,34.8333333333,Toronto Raptors,Orlando Magic,3,61-79,17,free throw,True,15,True,True
+2014-01-29,34.8333333333,Toronto Raptors,Orlando Magic,3,61-80,18,free throw,True,15,True,True
+2014-01-29,35.1166666667,Toronto Raptors,Orlando Magic,3,61-80,16,three point jumper,True,25,False,True
+2014-01-29,40.2,Toronto Raptors,Orlando Magic,4,71-85,11,three point jumper,True,26,False,True
+2014-01-29,43.2166666667,Toronto Raptors,Orlando Magic,4,77-92,13,unknown,True,4,False,True
+2014-01-29,44.7333333333,Toronto Raptors,Orlando Magic,4,80-96,15,free throw,True,15,False,True
+2014-01-31,1.88333333333,Toronto Raptors,Denver Nuggets,1,2-0,-1,three point jumper,False,25,False,False
+2014-01-31,12.0,Toronto Raptors,Denver Nuggets,1,29-25,1,three point jumper,False,26,True,False
+2014-01-31,19.3833333333,Toronto Raptors,Denver Nuggets,2,52-44,6,two point shot,False,8,True,False
+2014-01-31,20.3666666667,Toronto Raptors,Denver Nuggets,2,52-46,3,three point jumper,False,36,False,False
+2014-01-31,21.3,Toronto Raptors,Denver Nuggets,2,54-48,3,three point jumper,False,24,False,False
+2014-01-31,25.25,Toronto Raptors,Denver Nuggets,3,60-53,4,three point jumper,False,24,False,False
+2014-01-31,25.5,Toronto Raptors,Denver Nuggets,3,60-53,5,layup,False,0,False,False
+2014-01-31,27.5666666667,Toronto Raptors,Denver Nuggets,3,65-60,2,three point jumper,False,26,True,False
+2014-01-31,29.35,Toronto Raptors,Denver Nuggets,3,71-63,6,layup,False,0,True,False
+2014-01-31,33.2333333333,Toronto Raptors,Denver Nuggets,3,84-68,13,unknown,False,28,True,False
+2014-01-31,34.15,Toronto Raptors,Denver Nuggets,3,84-68,13,three point jumper,False,24,False,False
+2014-01-31,35.5666666667,Toronto Raptors,Denver Nuggets,3,86-70,13,three point jumper,False,29,False,False
+2014-01-31,36.0,Toronto Raptors,Denver Nuggets,3,86-70,13,three point jumper,False,23,False,False
+2014-01-31,45.7,Toronto Raptors,Denver Nuggets,4,99-86,10,three point jumper,False,24,False,False
+2014-02-01,1.75,Toronto Raptors,Portland Trail Blazers,1,0-7,-10,three point jumper,False,25,False,False
+2014-02-01,3.68333333333,Toronto Raptors,Portland Trail Blazers,1,6-11,-7,layup,False,0,True,False
+2014-02-01,8.5,Toronto Raptors,Portland Trail Blazers,1,12-21,-11,layup,False,0,False,False
+2014-02-01,9.75,Toronto Raptors,Portland Trail Blazers,1,16-25,-11,two point shot,False,15,True,False
+2014-02-01,11.45,Toronto Raptors,Portland Trail Blazers,1,18-30,-13,free throw,False,15,True,False
+2014-02-01,11.45,Toronto Raptors,Portland Trail Blazers,1,19-30,-12,free throw,False,15,True,False
+2014-02-01,11.45,Toronto Raptors,Portland Trail Blazers,1,19-30,-12,free throw,False,15,False,False
+2014-02-01,11.9,Toronto Raptors,Portland Trail Blazers,1,19-31,-15,three point jumper,False,26,False,False
+2014-02-01,17.35,Toronto Raptors,Portland Trail Blazers,2,28-41,-15,two point jumper,False,9,True,False
+2014-02-01,17.35,Toronto Raptors,Portland Trail Blazers,2,29-41,-13,free throw,False,15,True,False
+2014-02-01,19.5333333333,Toronto Raptors,Portland Trail Blazers,2,34-43,-10,free throw,False,15,True,False
+2014-02-01,20.7333333333,Toronto Raptors,Portland Trail Blazers,2,36-48,-14,two point shot,False,25,False,False
+2014-02-01,23.4666666667,Toronto Raptors,Portland Trail Blazers,2,38-55,-19,two point jumper,False,11,False,False
+2014-02-01,23.9666666667,Toronto Raptors,Portland Trail Blazers,2,39-57,-19,free throw,False,15,True,False
+2014-02-01,23.9666666667,Toronto Raptors,Portland Trail Blazers,2,40-57,-18,free throw,False,15,True,False
+2014-02-01,28.9166666667,Toronto Raptors,Portland Trail Blazers,3,53-69,-19,three point jumper,False,22,True,False
+2014-02-01,35.6333333333,Toronto Raptors,Portland Trail Blazers,3,74-80,-8,two point jumper,False,20,True,False
+2014-02-01,38.1333333333,Toronto Raptors,Portland Trail Blazers,4,77-90,-15,two point jumper,False,3,False,False
+2014-02-01,38.5,Toronto Raptors,Portland Trail Blazers,4,77-90,-16,three point jumper,False,28,False,False
+2014-02-01,41.45,Toronto Raptors,Portland Trail Blazers,4,87-98,-14,three point jumper,False,27,True,False
+2014-02-01,45.1166666667,Toronto Raptors,Portland Trail Blazers,4,101-102,-4,three point jumper,False,23,True,False
+2014-02-01,46.9333333333,Toronto Raptors,Portland Trail Blazers,4,101-102,-3,two point jumper,False,22,False,False
+2014-02-03,5.66666666667,Toronto Raptors,Utah Jazz,1,12-8,2,two point jumper,False,18,False,True
+2014-02-03,9.58333333333,Toronto Raptors,Utah Jazz,1,22-19,0,three point jumper,False,25,False,True
+2014-02-03,11.9833333333,Toronto Raptors,Utah Jazz,1,24-27,-6,three point jumper,False,25,False,True
+2014-02-03,23.9833333333,Toronto Raptors,Utah Jazz,2,55-44,8,three point jumper,False,41,False,True
+2014-02-03,25.6833333333,Toronto Raptors,Utah Jazz,3,57-46,8,three point jumper,False,24,False,True
+2014-02-03,30.6666666667,Toronto Raptors,Utah Jazz,3,64-52,9,three point jumper,False,24,False,True
+2014-02-03,32.35,Toronto Raptors,Utah Jazz,3,66-55,9,two point shot,False,4,True,True
+2014-02-03,32.95,Toronto Raptors,Utah Jazz,3,66-57,7,two point jumper,False,23,False,True
+2014-02-05,6.16666666667,Toronto Raptors,Sacramento Kings,1,8-15,-9,two point jumper,False,20,True,False
+2014-02-05,8.33333333333,Toronto Raptors,Sacramento Kings,1,13-23,-12,two point jumper,False,21,False,False
+2014-02-05,9.05,Toronto Raptors,Sacramento Kings,1,14-25,-12,free throw,False,15,True,False
+2014-02-05,9.05,Toronto Raptors,Sacramento Kings,1,15-25,-11,free throw,False,15,True,False
+2014-02-05,11.6,Toronto Raptors,Sacramento Kings,1,23-27,-6,layup,False,0,True,False
+2014-02-05,13.55,Toronto Raptors,Sacramento Kings,2,25-34,-12,three point jumper,False,25,False,False
+2014-02-05,20.1166666667,Toronto Raptors,Sacramento Kings,2,39-56,-20,three point jumper,False,25,True,False
+2014-02-05,20.8333333333,Toronto Raptors,Sacramento Kings,2,41-56,-17,layup,False,0,True,False
+2014-02-05,20.8333333333,Toronto Raptors,Sacramento Kings,2,42-56,-15,free throw,False,15,True,False
+2014-02-05,20.8333333333,Toronto Raptors,Sacramento Kings,2,43-56,-14,free throw,False,15,True,False
+2014-02-05,27.15,Toronto Raptors,Sacramento Kings,3,54-75,-23,two point jumper,False,19,False,False
+2014-02-05,29.6666666667,Toronto Raptors,Sacramento Kings,3,63-79,-19,three point jumper,False,23,True,False
+2014-02-05,30.3166666667,Toronto Raptors,Sacramento Kings,3,63-81,-20,two point jumper,False,12,False,False
+2014-02-05,30.8833333333,Toronto Raptors,Sacramento Kings,3,67-83,-18,layup,False,0,True,False
+2014-02-05,31.8166666667,Toronto Raptors,Sacramento Kings,3,67-85,-21,three point jumper,False,23,False,False
+2014-02-05,33.45,Toronto Raptors,Sacramento Kings,3,72-87,-17,layup,False,0,True,False
+2014-02-05,34.8,Toronto Raptors,Sacramento Kings,3,72-87,-17,two point jumper,False,20,False,False
+2014-02-05,35.2333333333,Toronto Raptors,Sacramento Kings,3,72-87,-18,three point jumper,False,24,False,False
+2014-02-05,44.35,Toronto Raptors,Sacramento Kings,4,90-98,-11,three point jumper,False,25,False,False
+2014-02-05,46.55,Toronto Raptors,Sacramento Kings,4,95-102,-8,free throw,False,15,False,False
+2014-02-05,46.55,Toronto Raptors,Sacramento Kings,4,96-102,-7,free throw,False,15,True,False
+2014-02-07,6.1,Toronto Raptors,Los Angeles Clippers,1,10-11,-4,three point jumper,False,28,False,False
+2014-02-07,8.31666666667,Toronto Raptors,Los Angeles Clippers,1,16-19,-5,layup,False,0,True,False
+2014-02-07,11.15,Toronto Raptors,Los Angeles Clippers,1,22-27,-8,three point jumper,False,26,False,False
+2014-02-07,21.2333333333,Toronto Raptors,Los Angeles Clippers,2,47-55,-11,three point jumper,False,25,True,False
+2014-02-07,23.0,Toronto Raptors,Los Angeles Clippers,2,47-62,-17,two point jumper,False,15,False,False
+2014-02-07,25.4333333333,Toronto Raptors,Los Angeles Clippers,3,54-71,-20,three point jumper,False,27,True,False
+2014-02-07,28.1,Toronto Raptors,Los Angeles Clippers,3,60-77,-19,two point jumper,False,5,True,False
+2014-02-07,29.3166666667,Toronto Raptors,Los Angeles Clippers,3,60-82,-25,three point jumper,False,23,False,False
+2014-02-07,31.1666666667,Toronto Raptors,Los Angeles Clippers,3,68-85,-19,layup,False,0,True,False
+2014-02-07,32.9833333333,Toronto Raptors,Los Angeles Clippers,3,74-91,-18,free throw,False,15,True,False
+2014-02-07,32.9833333333,Toronto Raptors,Los Angeles Clippers,3,75-91,-17,free throw,False,15,True,False
+2014-02-07,33.35,Toronto Raptors,Los Angeles Clippers,3,76-91,-16,free throw,False,15,True,False
+2014-02-07,33.35,Toronto Raptors,Los Angeles Clippers,3,77-91,-15,free throw,False,15,True,False
+2014-02-07,33.55,Toronto Raptors,Los Angeles Clippers,3,77-91,-16,two point jumper,False,20,False,False
+2014-02-07,34.2166666667,Toronto Raptors,Los Angeles Clippers,3,79-92,-15,layup,False,0,True,False
+2014-02-07,34.7166666667,Toronto Raptors,Los Angeles Clippers,3,79-92,-15,two point jumper,False,4,False,False
+2014-02-07,38.0166666667,Toronto Raptors,Los Angeles Clippers,4,87-96,-11,tip shot,False,0,False,False
+2014-02-07,39.45,Toronto Raptors,Los Angeles Clippers,4,87-99,-15,three point jumper,False,25,False,False
+2014-02-07,43.7833333333,Toronto Raptors,Los Angeles Clippers,4,99-111,-15,three point jumper,False,27,False,False
+2014-02-07,44.5333333333,Toronto Raptors,Los Angeles Clippers,4,99-113,-16,two point jumper,False,21,False,False
+2014-02-07,45.75,Toronto Raptors,Los Angeles Clippers,4,101-113,-14,layup,False,0,False,False
+2014-02-07,46.4833333333,Toronto Raptors,Los Angeles Clippers,4,102-118,-17,free throw,False,15,True,False
+2014-02-07,46.4833333333,Toronto Raptors,Los Angeles Clippers,4,102-118,-17,free throw,False,15,False,False
+2014-02-10,6.81666666667,Toronto Raptors,New Orleans Pelicans,1,11-20,6,three point jumper,True,26,True,True
+2014-02-10,8.78333333333,Toronto Raptors,New Orleans Pelicans,1,16-25,7,two point shot,True,19,True,True
+2014-02-10,9.75,Toronto Raptors,New Orleans Pelicans,1,18-27,7,two point shot,True,16,True,True
+2014-02-10,21.9666666667,Toronto Raptors,New Orleans Pelicans,2,49-45,-7,three point jumper,True,27,False,True
+2014-02-10,24.8166666667,Toronto Raptors,New Orleans Pelicans,3,51-51,-2,layup,True,0,True,True
+2014-02-10,29.75,Toronto Raptors,New Orleans Pelicans,3,58-68,7,three point jumper,True,26,False,True
+2014-02-10,32.4833333333,Toronto Raptors,New Orleans Pelicans,3,63-77,12,layup,True,0,True,True
+2014-02-10,33.2666666667,Toronto Raptors,New Orleans Pelicans,3,64-82,16,layup,True,0,True,True
+2014-02-10,34.9333333333,Toronto Raptors,New Orleans Pelicans,3,68-82,12,two point shot,True,19,False,True
+2014-02-10,39.5666666667,Toronto Raptors,New Orleans Pelicans,4,80-85,2,three point jumper,True,26,False,True
+2014-02-10,41.4166666667,Toronto Raptors,New Orleans Pelicans,4,86-88,1,free throw,True,15,True,True
+2014-02-10,41.4166666667,Toronto Raptors,New Orleans Pelicans,4,86-89,2,free throw,True,15,True,True
+2014-02-10,42.7,Toronto Raptors,New Orleans Pelicans,4,87-93,4,two point shot,True,4,True,True
+2014-02-10,44.1666666667,Toronto Raptors,New Orleans Pelicans,4,89-98,7,two point jumper,True,1,False,True
+2014-02-10,45.05,Toronto Raptors,New Orleans Pelicans,4,89-102,11,two point shot,True,1,True,True
+2014-02-12,2.88333333333,Toronto Raptors,Atlanta Hawks,1,4-2,-4,two point shot,True,12,False,False
+2014-02-12,4.31666666667,Toronto Raptors,Atlanta Hawks,1,8-2,-9,three point jumper,True,26,False,False
+2014-02-12,7.45,Toronto Raptors,Atlanta Hawks,1,12-7,-6,free throw,True,15,True,False
+2014-02-12,7.45,Toronto Raptors,Atlanta Hawks,1,12-8,-5,free throw,True,15,True,False
+2014-02-12,7.95,Toronto Raptors,Atlanta Hawks,1,12-8,-7,three point jumper,True,26,False,False
+2014-02-12,9.31666666667,Toronto Raptors,Atlanta Hawks,1,18-12,-8,layup,True,0,True,False
+2014-02-12,11.4333333333,Toronto Raptors,Atlanta Hawks,1,22-16,-7,free throw,True,15,True,False
+2014-02-12,11.4333333333,Toronto Raptors,Atlanta Hawks,1,22-17,-6,free throw,True,15,True,False
+2014-02-12,21.4833333333,Toronto Raptors,Atlanta Hawks,2,36-37,-2,three point jumper,True,26,True,False
+2014-02-12,24.0,Toronto Raptors,Atlanta Hawks,2,44-45,-1,two point jumper,True,1,False,False
+2014-02-12,25.5166666667,Toronto Raptors,Atlanta Hawks,3,44-52,6,two point shot,True,4,True,False
+2014-02-12,28.5,Toronto Raptors,Atlanta Hawks,3,51-60,7,layup,True,0,True,False
+2014-02-12,30.0,Toronto Raptors,Atlanta Hawks,3,53-63,8,two point shot,True,1,False,False
+2014-02-12,32.2166666667,Toronto Raptors,Atlanta Hawks,3,61-71,7,three point jumper,True,25,False,False
+2014-02-12,33.2333333333,Toronto Raptors,Atlanta Hawks,3,63-73,8,unknown,True,10,False,False
+2014-02-12,33.9,Toronto Raptors,Atlanta Hawks,3,65-75,8,layup,True,0,True,False
+2014-02-12,35.3,Toronto Raptors,Atlanta Hawks,3,65-77,10,unknown,True,13,False,False
+2014-02-12,35.9833333333,Toronto Raptors,Atlanta Hawks,3,65-77,11,free throw,True,15,False,False
+2014-02-12,35.9833333333,Toronto Raptors,Atlanta Hawks,3,65-78,12,free throw,True,15,True,False
+2014-02-12,44.4833333333,Toronto Raptors,Atlanta Hawks,4,72-97,23,two point jumper,True,23,False,False
+2014-02-18,2.26666666667,Toronto Raptors,Washington Wizards,1,2-2,-2,two point jumper,False,7,False,False
+2014-02-18,2.61666666667,Toronto Raptors,Washington Wizards,1,3-2,0,free throw,False,15,True,False
+2014-02-18,2.61666666667,Toronto Raptors,Washington Wizards,1,4-2,1,free throw,False,15,True,False
+2014-02-18,5.35,Toronto Raptors,Washington Wizards,1,13-10,1,two point jumper,False,18,False,False
+2014-02-18,10.65,Toronto Raptors,Washington Wizards,1,25-25,-2,two point jumper,False,15,True,False
+2014-02-18,11.3333333333,Toronto Raptors,Washington Wizards,1,25-27,-4,layup,False,0,False,False
+2014-02-18,12.0,Toronto Raptors,Washington Wizards,1,27-27,-2,two point jumper,False,6,False,False
+2014-02-18,21.3,Toronto Raptors,Washington Wizards,2,49-43,3,three point jumper,False,26,False,False
+2014-02-18,21.7,Toronto Raptors,Washington Wizards,2,49-43,3,three point jumper,False,22,False,False
+2014-02-18,23.6833333333,Toronto Raptors,Washington Wizards,2,55-49,4,two point shot,False,3,True,False
+2014-02-18,27.2666666667,Toronto Raptors,Washington Wizards,3,62-55,4,three point jumper,False,25,True,False
+2014-02-18,29.8833333333,Toronto Raptors,Washington Wizards,3,67-59,6,two point shot,False,6,True,False
+2014-02-18,31.1666666667,Toronto Raptors,Washington Wizards,3,71-59,10,two point shot,False,7,True,False
+2014-02-18,32.2166666667,Toronto Raptors,Washington Wizards,3,73-61,10,two point shot,False,8,True,False
+2014-02-18,33.3166666667,Toronto Raptors,Washington Wizards,3,78-61,14,three point jumper,False,24,True,False
+2014-02-18,34.2833333333,Toronto Raptors,Washington Wizards,3,80-65,13,two point shot,False,1,True,False
+2014-02-18,35.4166666667,Toronto Raptors,Washington Wizards,3,82-68,11,three point jumper,False,28,False,False
+2014-02-18,36.0,Toronto Raptors,Washington Wizards,3,84-70,12,two point jumper,False,1,False,False
+2014-02-18,43.6,Toronto Raptors,Washington Wizards,4,99-82,15,two point jumper,False,14,False,False
+2014-02-18,44.5666666667,Toronto Raptors,Washington Wizards,4,99-87,10,layup,False,0,False,False
+2014-02-18,46.8833333333,Toronto Raptors,Washington Wizards,4,99-93,4,two point jumper,False,7,False,False
+2014-02-18,46.9,Toronto Raptors,Washington Wizards,4,100-93,6,free throw,False,15,True,False
+2014-02-18,46.9,Toronto Raptors,Washington Wizards,4,101-93,7,free throw,False,15,True,False
+2014-02-18,47.2,Toronto Raptors,Washington Wizards,4,102-93,8,free throw,False,15,True,False
+2014-02-18,47.2,Toronto Raptors,Washington Wizards,4,103-93,9,free throw,False,15,True,False
+2014-02-19,6.81666666667,Toronto Raptors,Chicago Bulls,1,20-12,-11,three point jumper,True,25,False,False
+2014-02-19,9.83333333333,Toronto Raptors,Chicago Bulls,1,24-14,-13,three point jumper,True,23,False,False
+2014-02-19,10.1833333333,Toronto Raptors,Chicago Bulls,1,24-17,-8,free throw,True,15,True,False
+2014-02-19,17.45,Toronto Raptors,Chicago Bulls,2,40-27,-15,two point shot,True,17,True,False
+2014-02-19,18.2,Toronto Raptors,Chicago Bulls,2,40-30,-11,free throw,True,15,True,False
+2014-02-19,18.2,Toronto Raptors,Chicago Bulls,2,40-31,-10,free throw,True,15,True,False
+2014-02-19,19.35,Toronto Raptors,Chicago Bulls,2,40-31,-11,two point jumper,True,1,False,False
+2014-02-19,19.4166666667,Toronto Raptors,Chicago Bulls,2,40-31,-11,tip shot,True,0,False,False
+2014-02-19,27.3333333333,Toronto Raptors,Chicago Bulls,3,54-45,-11,two point jumper,True,6,False,False
+2014-02-19,29.0333333333,Toronto Raptors,Chicago Bulls,3,61-48,-14,free throw,True,15,True,False
+2014-02-19,29.0333333333,Toronto Raptors,Chicago Bulls,3,61-49,-13,free throw,True,15,True,False
+2014-02-19,30.5666666667,Toronto Raptors,Chicago Bulls,3,63-51,-14,two point jumper,True,22,False,False
+2014-02-19,31.2,Toronto Raptors,Chicago Bulls,3,66-51,-18,three point jumper,True,25,False,False
+2014-02-19,31.95,Toronto Raptors,Chicago Bulls,3,66-53,-15,layup,True,0,True,False
+2014-02-19,34.65,Toronto Raptors,Chicago Bulls,3,68-59,-11,two point shot,True,1,True,False
+2014-02-19,46.0166666667,Toronto Raptors,Chicago Bulls,4,91-85,-7,free throw,True,15,True,False
+2014-02-19,46.0166666667,Toronto Raptors,Chicago Bulls,4,91-86,-6,free throw,True,15,True,False
+2014-02-19,46.5,Toronto Raptors,Chicago Bulls,4,91-89,-5,three point jumper,True,24,True,False
+2014-02-21,2.43333333333,Toronto Raptors,Cleveland Cavaliers,1,0-3,0,three point jumper,True,25,False,True
+2014-02-21,4.35,Toronto Raptors,Cleveland Cavaliers,1,2-5,1,tip shot,True,0,False,True
+2014-02-21,6.03333333333,Toronto Raptors,Cleveland Cavaliers,1,7-8,-2,three point jumper,True,25,False,True
+2014-02-21,18.25,Toronto Raptors,Cleveland Cavaliers,2,29-26,-5,two point shot,True,8,True,True
+2014-02-21,22.55,Toronto Raptors,Cleveland Cavaliers,2,40-35,-7,layup,True,0,True,True
+2014-02-21,22.9833333333,Toronto Raptors,Cleveland Cavaliers,2,42-35,-10,three point jumper,True,25,False,True
+2014-02-21,24.0,Toronto Raptors,Cleveland Cavaliers,2,44-39,-7,unknown,True,5,False,True
+2014-02-21,25.6833333333,Toronto Raptors,Cleveland Cavaliers,3,48-44,-5,free throw,True,15,True,True
+2014-02-21,25.6833333333,Toronto Raptors,Cleveland Cavaliers,3,48-45,-4,free throw,True,15,True,True
+2014-02-21,34.8833333333,Toronto Raptors,Cleveland Cavaliers,3,61-74,11,two point shot,True,17,True,True
+2014-02-21,35.5333333333,Toronto Raptors,Cleveland Cavaliers,3,62-76,12,two point jumper,True,24,True,True
+2014-02-21,36.0,Toronto Raptors,Cleveland Cavaliers,3,65-76,9,two point shot,True,24,False,True
+2014-02-21,45.0333333333,Toronto Raptors,Cleveland Cavaliers,4,78-91,10,three point jumper,True,26,True,True
+2014-02-21,47.8333333333,Toronto Raptors,Cleveland Cavaliers,4,89-96,6,free throw,True,15,True,True
+2014-02-21,47.8333333333,Toronto Raptors,Cleveland Cavaliers,4,89-96,6,free throw,True,15,False,True
+2014-02-23,1.21666666667,Toronto Raptors,Orlando Magic,1,0-1,-1,two point jumper,True,21,False,False
+2014-02-23,5.7,Toronto Raptors,Orlando Magic,1,10-8,-4,two point jumper,True,1,False,False
+2014-02-23,8.9,Toronto Raptors,Orlando Magic,1,12-14,0,two point jumper,True,21,False,False
+2014-02-23,11.5333333333,Toronto Raptors,Orlando Magic,1,14-17,1,two point shot,True,16,False,False
+2014-02-23,11.9833333333,Toronto Raptors,Orlando Magic,1,14-19,3,layup,True,0,True,False
+2014-02-23,19.4833333333,Toronto Raptors,Orlando Magic,2,32-34,-1,three point jumper,True,25,False,False
+2014-02-23,20.5333333333,Toronto Raptors,Orlando Magic,2,36-34,-4,two point jumper,True,1,False,False
+2014-02-23,21.0666666667,Toronto Raptors,Orlando Magic,2,36-37,0,free throw,True,15,True,False
+2014-02-23,21.0666666667,Toronto Raptors,Orlando Magic,2,36-37,0,free throw,True,15,False,False
+2014-02-23,21.0666666667,Toronto Raptors,Orlando Magic,2,36-38,1,free throw,True,15,True,False
+2014-02-23,29.45,Toronto Raptors,Orlando Magic,3,51-64,10,three point jumper,True,25,True,False
+2014-02-23,31.5666666667,Toronto Raptors,Orlando Magic,3,58-68,8,two point shot,True,1,True,False
+2014-02-23,32.0333333333,Toronto Raptors,Orlando Magic,3,59-69,9,free throw,True,15,True,False
+2014-02-23,32.0333333333,Toronto Raptors,Orlando Magic,3,59-70,10,free throw,True,15,True,False
+2014-02-23,32.0333333333,Toronto Raptors,Orlando Magic,3,59-71,11,free throw,True,15,True,False
+2014-02-23,33.0833333333,Toronto Raptors,Orlando Magic,3,61-74,10,three point jumper,True,24,True,False
+2014-02-23,34.9166666667,Toronto Raptors,Orlando Magic,3,63-77,11,three point jumper,True,23,True,False
+2014-02-23,36.0,Toronto Raptors,Orlando Magic,3,65-80,12,three point jumper,True,25,True,False
+2014-02-23,36.2166666667,Toronto Raptors,Orlando Magic,4,65-82,15,two point shot,True,7,True,False
+2014-02-23,41.6666666667,Toronto Raptors,Orlando Magic,4,77-92,14,free throw,True,15,True,False
+2014-02-23,41.6666666667,Toronto Raptors,Orlando Magic,4,77-93,15,free throw,True,15,True,False
+2014-02-23,44.05,Toronto Raptors,Orlando Magic,4,82-98,15,free throw,True,15,True,False
+2014-02-23,44.05,Toronto Raptors,Orlando Magic,4,82-99,16,free throw,True,15,True,False
+2014-02-23,44.05,Toronto Raptors,Orlando Magic,4,82-100,17,free throw,True,15,True,False
+2014-02-25,4.73333333333,Toronto Raptors,Cleveland Cavaliers,1,5-10,-8,three point jumper,False,23,False,True
+2014-02-25,5.16666666667,Toronto Raptors,Cleveland Cavaliers,1,7-12,-7,two point jumper,False,1,False,True
+2014-02-25,5.21666666667,Toronto Raptors,Cleveland Cavaliers,1,7-12,-8,three point jumper,False,24,False,True
+2014-02-25,6.56666666667,Toronto Raptors,Cleveland Cavaliers,1,10-14,-7,three point jumper,False,26,False,True
+2014-02-25,11.9333333333,Toronto Raptors,Cleveland Cavaliers,1,23-17,3,three point jumper,False,26,False,True
+2014-02-25,19.75,Toronto Raptors,Cleveland Cavaliers,2,40-31,7,unknown,False,23,False,True
+2014-02-25,20.5333333333,Toronto Raptors,Cleveland Cavaliers,2,45-33,11,free throw,False,15,True,True
+2014-02-25,20.8333333333,Toronto Raptors,Cleveland Cavaliers,2,47-34,11,two point shot,False,5,True,True
+2014-02-25,21.9666666667,Toronto Raptors,Cleveland Cavaliers,2,47-36,9,two point jumper,False,19,False,True
+2014-02-25,24.7166666667,Toronto Raptors,Cleveland Cavaliers,3,47-41,3,three point jumper,False,26,False,True
+2014-02-25,26.45,Toronto Raptors,Cleveland Cavaliers,3,49-48,-1,layup,False,0,True,True
+2014-02-25,30.2333333333,Toronto Raptors,Cleveland Cavaliers,3,56-57,-4,three point jumper,False,27,False,True
+2014-02-25,31.3166666667,Toronto Raptors,Cleveland Cavaliers,3,61-57,3,free throw,False,15,True,True
+2014-02-25,31.3166666667,Toronto Raptors,Cleveland Cavaliers,3,62-57,4,free throw,False,15,True,True
+2014-02-25,32.8666666667,Toronto Raptors,Cleveland Cavaliers,3,64-61,0,three point jumper,False,26,False,True
+2014-02-25,35.45,Toronto Raptors,Cleveland Cavaliers,3,68-67,-1,layup,False,0,True,True
+2014-02-25,35.9833333333,Toronto Raptors,Cleveland Cavaliers,3,68-69,-3,layup,False,0,False,True
+2014-02-25,43.2,Toronto Raptors,Cleveland Cavaliers,4,84-85,-2,free throw,False,15,True,True
+2014-02-25,43.2,Toronto Raptors,Cleveland Cavaliers,4,85-85,-1,free throw,False,15,True,True
+2014-02-25,46.15,Toronto Raptors,Cleveland Cavaliers,4,92-91,-2,three point jumper,False,25,False,True
+2014-02-25,47.6666666667,Toronto Raptors,Cleveland Cavaliers,4,97-91,5,free throw,False,15,True,True
+2014-02-25,47.6666666667,Toronto Raptors,Cleveland Cavaliers,4,98-91,6,free throw,False,15,True,True
+2014-02-27,5.85,Toronto Raptors,Washington Wizards,1,11-10,-2,free throw,True,15,True,False
+2014-02-27,5.85,Toronto Raptors,Washington Wizards,1,11-11,-1,free throw,True,15,True,False
+2014-02-27,7.6,Toronto Raptors,Washington Wizards,1,11-16,3,two point jumper,True,14,False,False
+2014-02-27,10.8,Toronto Raptors,Washington Wizards,1,16-22,3,three point jumper,True,26,False,False
+2014-02-27,19.7333333333,Toronto Raptors,Washington Wizards,2,44-46,0,layup,True,0,True,False
+2014-02-27,19.7333333333,Toronto Raptors,Washington Wizards,2,44-46,1,free throw,True,15,False,False
+2014-02-27,21.5833333333,Toronto Raptors,Washington Wizards,2,48-48,-3,three point jumper,True,25,False,False
+2014-02-27,25.8166666667,Toronto Raptors,Washington Wizards,3,61-56,-8,three point jumper,True,24,False,False
+2014-02-27,27.4,Toronto Raptors,Washington Wizards,3,63-58,-7,two point jumper,True,22,False,False
+2014-02-27,28.9166666667,Toronto Raptors,Washington Wizards,3,67-61,-7,free throw,True,15,True,False
+2014-02-27,28.9166666667,Toronto Raptors,Washington Wizards,3,67-62,-6,free throw,True,15,True,False
+2014-02-27,31.5333333333,Toronto Raptors,Washington Wizards,3,72-65,-10,three point jumper,True,23,True,False
+2014-02-27,33.2,Toronto Raptors,Washington Wizards,3,77-67,-12,layup,True,0,True,False
+2014-02-27,33.9666666667,Toronto Raptors,Washington Wizards,3,77-71,-7,free throw,True,15,True,False
+2014-02-27,33.9666666667,Toronto Raptors,Washington Wizards,3,77-71,-7,free throw,True,15,False,False
+2014-02-27,34.4166666667,Toronto Raptors,Washington Wizards,3,77-73,-6,two point shot,True,11,True,False
+2014-02-27,35.5,Toronto Raptors,Washington Wizards,3,79-78,-3,two point shot,True,1,True,False
+2014-02-27,36.0,Toronto Raptors,Washington Wizards,3,83-78,-7,layup,True,0,False,False
+2014-02-27,38.75,Toronto Raptors,Washington Wizards,4,89-85,-7,three point jumper,True,26,False,False
+2014-02-27,48.0,Toronto Raptors,Washington Wizards,4,106-106,-2,unknown,True,7,False,False
+2014-02-27,48.7333333333,Toronto Raptors,Washington Wizards,5,106-108,0,layup,True,0,True,False
+2014-02-27,49.9333333333,Toronto Raptors,Washington Wizards,5,106-110,2,two point shot,True,17,False,False
+2014-02-27,51.3666666667,Toronto Raptors,Washington Wizards,5,111-112,-1,layup,True,0,False,False
+2014-03-02,0.566666666667,Toronto Raptors,Golden State Warriors,1,2-0,-4,two point jumper,True,17,False,False
+2014-03-02,3.88333333333,Toronto Raptors,Golden State Warriors,1,8-7,-4,three point jumper,True,25,True,False
+2014-03-02,17.95,Toronto Raptors,Golden State Warriors,2,37-39,1,free throw,True,15,True,False
+2014-03-02,17.95,Toronto Raptors,Golden State Warriors,2,37-40,2,free throw,True,15,True,False
+2014-03-02,18.35,Toronto Raptors,Golden State Warriors,2,37-40,1,layup,True,0,False,False
+2014-03-02,18.7,Toronto Raptors,Golden State Warriors,2,37-40,1,two point shot,True,21,False,False
+2014-03-02,19.9833333333,Toronto Raptors,Golden State Warriors,2,44-44,-2,two point shot,True,10,False,False
+2014-03-02,22.4666666667,Toronto Raptors,Golden State Warriors,2,48-53,2,three point jumper,True,25,True,False
+2014-03-02,23.3666666667,Toronto Raptors,Golden State Warriors,2,50-53,1,two point shot,True,19,False,False
+2014-03-02,25.75,Toronto Raptors,Golden State Warriors,3,55-59,2,layup,True,0,False,False
+2014-03-02,26.25,Toronto Raptors,Golden State Warriors,3,57-59,-1,three point jumper,True,27,False,False
+2014-03-02,27.5166666667,Toronto Raptors,Golden State Warriors,3,59-59,-3,three point jumper,True,25,False,False
+2014-03-02,31.7333333333,Toronto Raptors,Golden State Warriors,3,65-68,0,three point jumper,True,25,True,False
+2014-03-02,32.25,Toronto Raptors,Golden State Warriors,3,65-68,0,three point jumper,True,24,False,False
+2014-03-02,33.0833333333,Toronto Raptors,Golden State Warriors,3,69-69,-1,free throw,True,15,True,False
+2014-03-02,33.0833333333,Toronto Raptors,Golden State Warriors,3,69-70,0,free throw,True,15,True,False
+2014-03-02,46.6,Toronto Raptors,Golden State Warriors,4,95-101,4,two point shot,True,16,False,False

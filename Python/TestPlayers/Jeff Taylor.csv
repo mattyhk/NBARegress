@@ -1,0 +1,200 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-13,11.9333333333,Charlotte Bobcats,Boston Celtics,1,27-18,7,dunk,False,0,True,True
+2014-11-13,12.5166666667,Charlotte Bobcats,Boston Celtics,2,28-21,6,free throw,False,15,True,True
+2014-11-13,12.5166666667,Charlotte Bobcats,Boston Celtics,2,29-21,7,free throw,False,15,True,True
+2014-11-13,14.0,Charlotte Bobcats,Boston Celtics,2,29-23,4,layup,False,0,False,True
+2014-11-13,14.45,Charlotte Bobcats,Boston Celtics,2,33-23,8,two point shot,False,1,True,True
+2014-11-13,15.8833333333,Charlotte Bobcats,Boston Celtics,2,38-23,14,free throw,False,15,True,True
+2014-11-13,15.8833333333,Charlotte Bobcats,Boston Celtics,2,39-23,15,free throw,False,15,True,True
+2014-11-13,17.95,Charlotte Bobcats,Boston Celtics,2,43-31,10,layup,False,0,False,True
+2014-11-13,18.1,Charlotte Bobcats,Boston Celtics,2,43-31,9,three point jumper,False,24,False,True
+2014-11-13,19.4833333333,Charlotte Bobcats,Boston Celtics,2,43-35,6,dunk,False,0,False,True
+2014-11-13,35.4166666667,Charlotte Bobcats,Boston Celtics,3,71-64,5,dunk,False,0,True,True
+2014-11-13,37.8333333333,Charlotte Bobcats,Boston Celtics,4,75-66,7,two point jumper,False,19,True,True
+2014-11-25,7.2,Charlotte Bobcats,Boston Celtics,1,5-11,3,three point jumper,True,25,False,False
+2014-11-25,9.03333333333,Charlotte Bobcats,Boston Celtics,1,10-18,6,two point jumper,True,16,True,False
+2014-11-25,33.95,Charlotte Bobcats,Boston Celtics,3,64-62,-5,three point jumper,True,24,True,False
+2014-11-25,34.9333333333,Charlotte Bobcats,Boston Celtics,3,66-66,-2,dunk,True,0,True,False
+2014-11-25,36.6333333333,Charlotte Bobcats,Boston Celtics,4,68-66,-4,two point jumper,True,14,False,False
+2014-11-20,38.6833333333,Charlotte Bobcats,Brooklyn Nets,4,73-87,12,two point shot,True,1,False,True
+2014-11-20,39.95,Charlotte Bobcats,Brooklyn Nets,4,76-87,9,two point jumper,True,11,False,True
+2014-11-08,8.4,Charlotte Bobcats,New York Knicks,1,14-16,0,two point jumper,True,6,False,True
+2014-11-08,10.75,Charlotte Bobcats,New York Knicks,1,21-20,-4,three point jumper,True,25,False,True
+2014-11-08,13.0666666667,Charlotte Bobcats,New York Knicks,2,30-24,-8,layup,True,0,False,True
+2014-11-08,15.45,Charlotte Bobcats,New York Knicks,2,38-28,-13,three point jumper,True,25,False,True
+2014-11-08,31.7333333333,Charlotte Bobcats,New York Knicks,3,72-59,-16,three point jumper,True,24,True,True
+2014-11-08,36.5166666667,Charlotte Bobcats,New York Knicks,4,85-69,-19,three point jumper,True,26,False,True
+2014-11-08,38.5166666667,Charlotte Bobcats,New York Knicks,4,89-75,-16,layup,True,0,True,True
+2014-12-06,1.2,Charlotte Bobcats,Philadelphia 76ers,1,2-4,0,two point jumper,True,16,True,False
+2014-12-06,5.85,Charlotte Bobcats,Philadelphia 76ers,1,19-14,-8,three point jumper,True,25,True,False
+2014-12-06,6.16666666667,Charlotte Bobcats,Philadelphia 76ers,1,19-16,-5,layup,True,0,True,False
+2014-12-06,7.7,Charlotte Bobcats,Philadelphia 76ers,1,23-18,-8,three point jumper,True,23,False,False
+2014-12-06,8.45,Charlotte Bobcats,Philadelphia 76ers,1,25-22,-5,layup,True,0,True,False
+2014-12-06,19.2833333333,Charlotte Bobcats,Philadelphia 76ers,2,42-53,9,layup,True,0,True,False
+2014-12-06,24.8833333333,Charlotte Bobcats,Philadelphia 76ers,3,51-64,11,two point jumper,True,18,False,False
+2014-12-06,25.7,Charlotte Bobcats,Philadelphia 76ers,3,51-66,13,two point shot,True,1,False,False
+2014-12-06,26.6333333333,Charlotte Bobcats,Philadelphia 76ers,3,53-66,10,three point jumper,True,23,False,False
+2014-12-06,27.75,Charlotte Bobcats,Philadelphia 76ers,3,53-67,13,free throw,True,15,True,False
+2014-12-06,27.75,Charlotte Bobcats,Philadelphia 76ers,3,53-68,14,free throw,True,15,True,False
+2014-12-06,29.0666666667,Charlotte Bobcats,Philadelphia 76ers,3,60-70,8,layup,True,0,False,False
+2014-12-06,36.75,Charlotte Bobcats,Philadelphia 76ers,4,74-87,10,three point jumper,True,25,True,False
+2014-12-06,37.4666666667,Charlotte Bobcats,Philadelphia 76ers,4,76-87,8,three point jumper,True,25,False,False
+2014-12-06,39.25,Charlotte Bobcats,Philadelphia 76ers,4,80-93,11,dunk,True,0,True,False
+2014-12-06,43.8833333333,Charlotte Bobcats,Philadelphia 76ers,4,82-98,13,three point jumper,True,25,False,False
+2014-12-06,44.25,Charlotte Bobcats,Philadelphia 76ers,4,84-100,14,dunk,True,0,True,False
+2014-12-06,46.4166666667,Charlotte Bobcats,Philadelphia 76ers,4,88-102,11,three point jumper,True,23,False,False
+2014-11-06,8.25,Charlotte Bobcats,Toronto Raptors,1,12-21,6,three point jumper,True,22,False,True
+2014-11-06,9.16666666667,Charlotte Bobcats,Toronto Raptors,1,14-25,9,dunk,True,0,True,True
+2014-11-06,10.9,Charlotte Bobcats,Toronto Raptors,1,16-30,11,three point jumper,True,23,True,True
+2014-11-06,11.5166666667,Charlotte Bobcats,Toronto Raptors,1,18-32,12,two point shot,True,1,True,True
+2014-11-06,14.75,Charlotte Bobcats,Toronto Raptors,2,28-38,8,two point shot,True,19,False,True
+2014-11-06,15.5,Charlotte Bobcats,Toronto Raptors,2,28-38,7,three point jumper,True,25,False,True
+2014-11-06,19.1,Charlotte Bobcats,Toronto Raptors,2,38-44,5,free throw,True,15,False,True
+2014-11-06,19.1,Charlotte Bobcats,Toronto Raptors,2,38-45,6,free throw,True,15,True,True
+2014-11-06,23.4833333333,Charlotte Bobcats,Toronto Raptors,2,51-53,0,layup,True,0,True,True
+2014-11-06,31.7833333333,Charlotte Bobcats,Toronto Raptors,3,64-70,4,two point jumper,True,20,True,True
+2014-11-06,32.9333333333,Charlotte Bobcats,Toronto Raptors,3,66-72,3,three point jumper,True,26,False,True
+2014-11-06,35.6333333333,Charlotte Bobcats,Toronto Raptors,3,70-76,5,free throw,True,15,True,True
+2014-11-06,35.6333333333,Charlotte Bobcats,Toronto Raptors,3,70-76,5,free throw,True,15,False,True
+2014-11-06,37.8666666667,Charlotte Bobcats,Toronto Raptors,4,73-78,3,two point jumper,True,18,False,True
+2014-12-18,3.08333333333,Charlotte Bobcats,Toronto Raptors,1,4-6,-4,layup,False,0,False,True
+2014-12-18,15.8666666667,Charlotte Bobcats,Toronto Raptors,2,20-26,-8,two point shot,False,5,False,True
+2014-12-18,16.0666666667,Charlotte Bobcats,Toronto Raptors,2,22-26,-6,two point shot,False,1,True,True
+2014-12-18,17.2,Charlotte Bobcats,Toronto Raptors,2,25-28,-6,three point jumper,False,24,True,True
+2014-12-18,25.1333333333,Charlotte Bobcats,Toronto Raptors,3,37-50,-15,two point shot,False,1,False,True
+2014-12-14,2.93333333333,Charlotte Bobcats,Los Angeles Lakers,1,6-6,-3,three point jumper,True,25,False,False
+2014-12-14,3.56666666667,Charlotte Bobcats,Los Angeles Lakers,1,8-10,0,layup,True,0,True,False
+2014-12-14,10.8666666667,Charlotte Bobcats,Los Angeles Lakers,1,22-22,-3,three point jumper,True,23,False,False
+2014-12-14,12.0,Charlotte Bobcats,Los Angeles Lakers,1,22-23,-1,two point jumper,True,1,False,False
+2014-12-14,14.5,Charlotte Bobcats,Los Angeles Lakers,2,23-25,-1,three point jumper,True,26,False,False
+2014-12-14,25.0,Charlotte Bobcats,Los Angeles Lakers,3,44-45,-2,three point jumper,True,24,False,False
+2014-12-14,25.45,Charlotte Bobcats,Los Angeles Lakers,3,44-45,-1,two point jumper,True,21,False,False
+2014-12-14,27.4333333333,Charlotte Bobcats,Los Angeles Lakers,3,46-53,5,dunk,True,0,True,False
+2014-12-14,28.7833333333,Charlotte Bobcats,Los Angeles Lakers,3,50-53,1,layup,True,0,False,False
+2014-12-14,28.8166666667,Charlotte Bobcats,Los Angeles Lakers,3,50-55,3,two point shot,True,1,True,False
+2014-12-14,30.2,Charlotte Bobcats,Los Angeles Lakers,3,50-57,5,two point shot,True,1,False,False
+2014-12-14,40.1666666667,Charlotte Bobcats,Los Angeles Lakers,4,75-75,-1,free throw,True,15,True,False
+2014-12-14,40.1666666667,Charlotte Bobcats,Los Angeles Lakers,4,75-75,-1,free throw,True,15,False,False
+2014-11-22,7.48333333333,Charlotte Bobcats,Phoenix Suns,1,13-19,4,two point jumper,True,18,True,False
+2014-11-22,8.01666666667,Charlotte Bobcats,Phoenix Suns,1,15-19,2,two point jumper,True,17,False,False
+2014-11-22,31.4166666667,Charlotte Bobcats,Phoenix Suns,3,67-53,-16,two point jumper,True,18,False,False
+2014-11-22,33.25,Charlotte Bobcats,Phoenix Suns,3,70-60,-12,layup,True,0,True,False
+2014-12-17,2.58333333333,Charlotte Bobcats,Sacramento Kings,1,2-7,2,three point jumper,True,23,True,True
+2014-12-17,5.06666666667,Charlotte Bobcats,Sacramento Kings,1,9-13,2,layup,True,0,True,True
+2014-12-17,12.8333333333,Charlotte Bobcats,Sacramento Kings,2,22-38,14,two point jumper,True,17,False,True
+2014-12-17,15.1166666667,Charlotte Bobcats,Sacramento Kings,2,24-42,16,two point jumper,True,19,False,True
+2014-12-17,24.9333333333,Charlotte Bobcats,Sacramento Kings,3,45-56,8,three point jumper,True,24,False,True
+2014-12-17,29.6333333333,Charlotte Bobcats,Sacramento Kings,3,60-69,6,three point jumper,True,24,True,True
+2014-12-17,33.2166666667,Charlotte Bobcats,Sacramento Kings,3,68-74,4,layup,True,0,False,True
+2014-12-17,33.65,Charlotte Bobcats,Sacramento Kings,3,68-74,3,three point jumper,True,23,False,True
+2014-12-17,36.5833333333,Charlotte Bobcats,Sacramento Kings,4,72-78,4,two point shot,True,1,False,True
+2014-11-18,9.21666666667,Charlotte Bobcats,Chicago Bulls,1,15-22,-9,two point jumper,False,11,False,False
+2014-11-18,15.5666666667,Charlotte Bobcats,Chicago Bulls,2,27-33,-9,three point jumper,False,25,False,False
+2014-11-18,20.6,Charlotte Bobcats,Chicago Bulls,2,36-40,-6,two point jumper,False,18,False,False
+2014-11-18,20.85,Charlotte Bobcats,Chicago Bulls,2,38-40,-4,layup,False,0,True,False
+2014-11-18,21.4333333333,Charlotte Bobcats,Chicago Bulls,2,40-40,-2,two point jumper,False,1,True,False
+2014-11-18,22.35,Charlotte Bobcats,Chicago Bulls,2,44-40,2,layup,False,0,True,False
+2014-11-18,23.0,Charlotte Bobcats,Chicago Bulls,2,44-40,2,two point jumper,False,22,False,False
+2014-11-18,30.6,Charlotte Bobcats,Chicago Bulls,3,48-53,-7,two point jumper,False,21,False,False
+2014-11-18,31.1333333333,Charlotte Bobcats,Chicago Bulls,3,48-55,-10,three point jumper,False,23,False,False
+2014-11-18,32.3333333333,Charlotte Bobcats,Chicago Bulls,3,53-57,-6,layup,False,0,True,False
+2014-11-18,32.65,Charlotte Bobcats,Chicago Bulls,3,55-57,-4,dunk,False,0,True,False
+2014-11-18,35.5,Charlotte Bobcats,Chicago Bulls,3,59-60,-3,two point shot,False,1,True,False
+2014-11-18,36.8166666667,Charlotte Bobcats,Chicago Bulls,4,61-62,-3,two point shot,False,1,True,False
+2014-11-18,40.45,Charlotte Bobcats,Chicago Bulls,4,66-68,-5,three point jumper,False,23,True,False
+2014-11-18,41.1666666667,Charlotte Bobcats,Chicago Bulls,4,66-68,-4,two point jumper,False,22,False,False
+2014-11-18,45.9333333333,Charlotte Bobcats,Chicago Bulls,4,76-78,-5,three point jumper,False,23,True,False
+2014-11-15,9.0,Charlotte Bobcats,Cleveland Cavaliers,1,8-11,-5,two point jumper,False,21,False,True
+2014-11-15,9.98333333333,Charlotte Bobcats,Cleveland Cavaliers,1,11-13,-5,three point jumper,False,24,True,True
+2014-11-15,11.4166666667,Charlotte Bobcats,Cleveland Cavaliers,1,12-16,-6,tip shot,False,0,False,True
+2014-11-15,14.8666666667,Charlotte Bobcats,Cleveland Cavaliers,2,17-22,-7,two point shot,False,1,True,True
+2014-11-15,23.65,Charlotte Bobcats,Cleveland Cavaliers,2,33-35,-5,three point jumper,False,27,False,True
+2014-11-15,32.2833333333,Charlotte Bobcats,Cleveland Cavaliers,3,48-56,-10,layup,False,0,True,True
+2014-11-15,34.5,Charlotte Bobcats,Cleveland Cavaliers,3,53-56,-5,dunk,False,0,True,True
+2014-11-15,35.5333333333,Charlotte Bobcats,Cleveland Cavaliers,3,55-58,-5,unknown,False,8,False,True
+2014-11-15,35.8333333333,Charlotte Bobcats,Cleveland Cavaliers,3,57-58,-3,dunk,False,0,True,True
+2014-11-27,9.21666666667,Charlotte Bobcats,Indiana Pacers,1,17-9,-11,three point jumper,True,26,False,False
+2014-11-27,11.4166666667,Charlotte Bobcats,Indiana Pacers,1,22-11,-13,two point jumper,True,21,False,False
+2014-11-27,14.6333333333,Charlotte Bobcats,Indiana Pacers,2,25-17,-10,layup,True,0,False,False
+2014-11-27,15.25,Charlotte Bobcats,Indiana Pacers,2,27-19,-10,two point jumper,True,18,True,False
+2014-11-27,43.35,Charlotte Bobcats,Indiana Pacers,4,84-64,-22,two point jumper,True,18,False,False
+2014-11-27,43.7,Charlotte Bobcats,Indiana Pacers,4,84-66,-20,dunk,True,0,True,False
+2014-12-13,3.31666666667,Charlotte Bobcats,Indiana Pacers,1,2-8,-9,three point jumper,False,24,False,False
+2014-12-13,12.8166666667,Charlotte Bobcats,Indiana Pacers,2,27-29,-4,two point shot,False,17,True,False
+2014-12-13,14.5166666667,Charlotte Bobcats,Indiana Pacers,2,32-31,-1,two point jumper,False,14,False,False
+2014-12-13,16.35,Charlotte Bobcats,Indiana Pacers,2,37-33,2,two point jumper,False,20,False,False
+2014-12-13,18.1666666667,Charlotte Bobcats,Indiana Pacers,2,43-39,3,free throw,False,15,True,False
+2014-12-13,18.1666666667,Charlotte Bobcats,Indiana Pacers,2,43-39,3,free throw,False,15,False,False
+2014-12-13,18.85,Charlotte Bobcats,Indiana Pacers,2,43-41,0,two point jumper,False,17,False,False
+2014-12-13,22.7166666667,Charlotte Bobcats,Indiana Pacers,2,51-52,-3,dunk,False,0,True,False
+2014-12-13,28.5,Charlotte Bobcats,Indiana Pacers,3,69-63,4,two point jumper,False,18,False,False
+2014-12-13,35.0,Charlotte Bobcats,Indiana Pacers,3,74-79,-7,dunk,False,0,True,False
+2014-12-13,39.0,Charlotte Bobcats,Indiana Pacers,4,84-84,-2,dunk,False,0,True,False
+2014-11-23,7.53333333333,Charlotte Bobcats,Milwaukee Bucks,1,21-10,10,free throw,False,15,False,True
+2014-11-23,7.53333333333,Charlotte Bobcats,Milwaukee Bucks,1,22-10,11,free throw,False,15,True,True
+2014-11-23,8.08333333333,Charlotte Bobcats,Milwaukee Bucks,1,22-12,7,three point jumper,False,23,False,True
+2014-11-23,13.1833333333,Charlotte Bobcats,Milwaukee Bucks,2,29-21,6,dunk,False,0,True,True
+2014-11-23,15.6333333333,Charlotte Bobcats,Milwaukee Bucks,2,31-30,-1,two point jumper,False,18,False,True
+2014-11-23,17.1,Charlotte Bobcats,Milwaukee Bucks,2,35-32,2,free throw,False,15,False,True
+2014-11-23,17.1,Charlotte Bobcats,Milwaukee Bucks,2,36-32,3,free throw,False,15,True,True
+2014-11-23,22.5166666667,Charlotte Bobcats,Milwaukee Bucks,2,43-35,5,three point jumper,False,23,False,True
+2014-11-23,31.7333333333,Charlotte Bobcats,Milwaukee Bucks,3,64-44,17,three point jumper,False,23,True,True
+2014-11-23,33.9833333333,Charlotte Bobcats,Milwaukee Bucks,3,72-49,20,three point jumper,False,25,False,True
+2014-11-23,34.5166666667,Charlotte Bobcats,Milwaukee Bucks,3,72-51,19,two point jumper,False,19,False,True
+2014-11-23,41.4166666667,Charlotte Bobcats,Milwaukee Bucks,4,87-64,21,layup,False,0,True,True
+2014-11-29,1.55,Charlotte Bobcats,Milwaukee Bucks,1,0-2,-1,three point jumper,True,23,False,True
+2014-11-29,4.35,Charlotte Bobcats,Milwaukee Bucks,1,6-3,-5,two point jumper,True,20,False,True
+2014-11-29,6.1,Charlotte Bobcats,Milwaukee Bucks,1,10-7,-5,two point shot,True,1,True,True
+2014-11-29,6.53333333333,Charlotte Bobcats,Milwaukee Bucks,1,12-9,-5,layup,True,0,True,True
+2014-11-29,14.3833333333,Charlotte Bobcats,Milwaukee Bucks,2,22-29,6,free throw,True,15,False,True
+2014-11-29,14.3833333333,Charlotte Bobcats,Milwaukee Bucks,2,22-29,6,free throw,True,15,False,True
+2014-11-29,15.8166666667,Charlotte Bobcats,Milwaukee Bucks,2,24-32,5,three point jumper,True,27,False,True
+2014-11-29,22.3833333333,Charlotte Bobcats,Milwaukee Bucks,2,36-47,9,two point jumper,True,9,False,True
+2014-11-29,27.7666666667,Charlotte Bobcats,Milwaukee Bucks,3,47-53,4,two point shot,True,1,False,True
+2014-12-03,11.9333333333,Charlotte Bobcats,Dallas Mavericks,1,18-22,-7,three point jumper,False,23,False,False
+2014-12-03,12.0,Charlotte Bobcats,Dallas Mavericks,1,18-22,-7,three point jumper,False,31,False,False
+2014-11-11,9.8,Charlotte Bobcats,Atlanta Hawks,1,21-25,2,layup,True,0,True,True
+2014-11-11,14.0166666667,Charlotte Bobcats,Atlanta Hawks,2,30-31,-2,three point jumper,True,23,False,True
+2014-11-11,14.2166666667,Charlotte Bobcats,Atlanta Hawks,2,30-33,1,two point shot,True,1,True,True
+2014-11-11,16.6666666667,Charlotte Bobcats,Atlanta Hawks,2,34-35,-1,two point jumper,True,20,False,True
+2014-11-11,23.4,Charlotte Bobcats,Atlanta Hawks,2,46-52,4,layup,True,0,True,True
+2014-11-11,30.3166666667,Charlotte Bobcats,Atlanta Hawks,3,64-63,-3,two point jumper,True,21,False,True
+2014-11-11,32.1833333333,Charlotte Bobcats,Atlanta Hawks,3,68-65,-5,layup,True,0,True,True
+2014-11-11,32.1833333333,Charlotte Bobcats,Atlanta Hawks,3,68-66,-3,free throw,True,15,True,True
+2014-11-11,33.25,Charlotte Bobcats,Atlanta Hawks,3,71-66,-7,two point jumper,True,9,False,True
+2014-11-11,37.8333333333,Charlotte Bobcats,Atlanta Hawks,4,83-72,-14,three point jumper,True,25,False,True
+2014-11-11,38.3166666667,Charlotte Bobcats,Atlanta Hawks,4,85-72,-14,free throw,True,15,False,True
+2014-11-11,38.3166666667,Charlotte Bobcats,Atlanta Hawks,4,85-73,-13,free throw,True,15,True,True
+2014-11-11,45.75,Charlotte Bobcats,Atlanta Hawks,4,93-85,-10,layup,True,0,False,True
+2014-11-16,5.23333333333,Charlotte Bobcats,Miami Heat,1,12-9,-5,two point jumper,True,17,False,False
+2014-11-16,5.81666666667,Charlotte Bobcats,Miami Heat,1,12-9,-6,three point jumper,True,25,False,False
+2014-11-16,7.0,Charlotte Bobcats,Miami Heat,1,14-11,-5,layup,True,0,True,False
+2014-11-16,7.0,Charlotte Bobcats,Miami Heat,1,14-12,-3,free throw,True,15,True,False
+2014-11-16,10.1833333333,Charlotte Bobcats,Miami Heat,1,23-16,-9,two point jumper,True,10,False,False
+2014-11-16,12.25,Charlotte Bobcats,Miami Heat,2,26-16,-11,free throw,True,15,False,False
+2014-11-16,12.25,Charlotte Bobcats,Miami Heat,2,26-16,-11,free throw,True,15,False,False
+2014-11-16,16.95,Charlotte Bobcats,Miami Heat,2,34-25,-12,three point jumper,True,23,True,False
+2014-11-16,17.5666666667,Charlotte Bobcats,Miami Heat,2,34-25,-12,three point jumper,True,23,False,False
+2014-11-16,17.6333333333,Charlotte Bobcats,Miami Heat,2,34-27,-9,layup,True,0,True,False
+2014-11-16,19.1333333333,Charlotte Bobcats,Miami Heat,2,37-33,-5,free throw,True,15,True,False
+2014-11-16,19.1333333333,Charlotte Bobcats,Miami Heat,2,37-33,-5,free throw,True,15,False,False
+2014-11-16,19.8833333333,Charlotte Bobcats,Miami Heat,2,39-33,-8,layup,True,0,False,False
+2014-11-16,35.6,Charlotte Bobcats,Miami Heat,3,66-60,-9,three point jumper,True,25,True,False
+2014-11-16,39.7666666667,Charlotte Bobcats,Miami Heat,4,77-68,-11,layup,True,0,False,False
+2014-11-16,39.8,Charlotte Bobcats,Miami Heat,4,77-70,-9,two point shot,True,1,True,False
+2014-11-16,40.4166666667,Charlotte Bobcats,Miami Heat,4,79-70,-11,two point jumper,True,16,False,False
+2014-12-01,10.3666666667,Charlotte Bobcats,Miami Heat,1,15-19,-7,three point jumper,False,23,False,False
+2014-12-01,12.7666666667,Charlotte Bobcats,Miami Heat,2,25-26,-3,two point shot,False,6,True,False
+2014-12-01,18.45,Charlotte Bobcats,Miami Heat,2,34-40,-8,layup,False,0,True,False
+2014-12-01,19.0666666667,Charlotte Bobcats,Miami Heat,2,34-42,-10,two point jumper,False,12,False,False
+2014-12-01,22.7166666667,Charlotte Bobcats,Miami Heat,2,46-47,-4,three point jumper,False,23,True,False
+2014-12-11,2.65,Charlotte Bobcats,Orlando Magic,1,2-2,-2,dunk,True,0,True,False
+2014-12-11,5.1,Charlotte Bobcats,Orlando Magic,1,6-7,-2,three point jumper,True,26,True,False
+2014-12-11,6.85,Charlotte Bobcats,Orlando Magic,1,8-7,-3,two point jumper,True,9,False,False
+2014-12-11,10.35,Charlotte Bobcats,Orlando Magic,1,14-15,0,free throw,True,15,False,False
+2014-12-11,10.35,Charlotte Bobcats,Orlando Magic,1,14-16,1,free throw,True,15,True,False
+2014-12-11,12.8,Charlotte Bobcats,Orlando Magic,2,18-18,-2,two point jumper,True,19,False,False
+2014-12-11,16.1666666667,Charlotte Bobcats,Orlando Magic,2,24-27,1,two point jumper,True,19,False,False
+2014-12-11,20.5333333333,Charlotte Bobcats,Orlando Magic,2,35-38,1,dunk,True,0,True,False
+2014-12-11,28.0666666667,Charlotte Bobcats,Orlando Magic,3,51-46,-7,two point jumper,True,20,False,False
+2014-12-11,37.3833333333,Charlotte Bobcats,Orlando Magic,4,69-64,-8,three point jumper,True,25,False,False

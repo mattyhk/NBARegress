@@ -1,0 +1,326 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-01-17,10.7333333333,Los Angeles Lakers,Boston Celtics,1,23-21,0,two point shot,False,5,True,True
+2014-01-17,15.25,Los Angeles Lakers,Boston Celtics,2,30-33,-5,two point shot,False,5,False,True
+2014-01-17,15.9666666667,Los Angeles Lakers,Boston Celtics,2,32-35,-5,two point jumper,False,15,True,True
+2014-02-21,8.56666666667,Los Angeles Lakers,Boston Celtics,1,24-15,-11,two point jumper,True,7,False,False
+2014-02-21,8.75,Los Angeles Lakers,Boston Celtics,1,24-16,-9,free throw,True,15,True,False
+2014-02-21,8.75,Los Angeles Lakers,Boston Celtics,1,24-17,-8,free throw,True,15,True,False
+2014-02-21,11.1333333333,Los Angeles Lakers,Boston Celtics,1,28-19,-11,layup,True,0,False,False
+2014-02-21,13.55,Los Angeles Lakers,Boston Celtics,2,30-26,-6,two point jumper,True,16,True,False
+2014-02-21,14.2,Los Angeles Lakers,Boston Celtics,2,30-28,-4,layup,True,0,True,False
+2014-02-21,34.1833333333,Los Angeles Lakers,Boston Celtics,3,72-61,-13,two point shot,True,4,True,False
+2014-02-21,41.3833333333,Los Angeles Lakers,Boston Celtics,4,79-82,1,two point shot,True,8,True,False
+2014-02-21,42.1666666667,Los Angeles Lakers,Boston Celtics,4,79-84,3,layup,True,0,True,False
+2014-02-21,44.5333333333,Los Angeles Lakers,Boston Celtics,4,83-92,7,two point jumper,True,1,True,False
+2014-02-21,46.8833333333,Los Angeles Lakers,Boston Celtics,4,89-99,8,two point shot,True,1,True,False
+2014-02-23,9.68333333333,Los Angeles Lakers,Brooklyn Nets,1,31-18,-15,two point shot,True,2,True,False
+2014-02-23,10.7666666667,Los Angeles Lakers,Brooklyn Nets,1,31-18,-15,two point shot,True,1,False,False
+2014-02-23,12.3666666667,Los Angeles Lakers,Brooklyn Nets,2,33-23,-12,two point jumper,True,15,True,False
+2014-02-23,17.3833333333,Los Angeles Lakers,Brooklyn Nets,2,47-32,-17,two point jumper,True,6,False,False
+2014-02-23,33.15,Los Angeles Lakers,Brooklyn Nets,3,78-69,-11,two point jumper,True,16,False,False
+2014-02-23,34.3666666667,Los Angeles Lakers,Brooklyn Nets,3,80-71,-11,two point shot,True,4,True,False
+2014-02-23,37.6833333333,Los Angeles Lakers,Brooklyn Nets,4,89-79,-12,layup,True,0,True,False
+2014-02-23,39.95,Los Angeles Lakers,Brooklyn Nets,4,89-83,-8,two point jumper,True,3,False,False
+2014-02-23,42.5,Los Angeles Lakers,Brooklyn Nets,4,97-86,-12,free throw,True,15,False,False
+2014-02-23,42.5,Los Angeles Lakers,Brooklyn Nets,4,97-86,-12,free throw,True,15,False,False
+2014-12-29,5.88333333333,Los Angeles Lakers,Philadelphia 76ers,1,9-14,3,layup,True,0,True,False
+2014-12-29,6.45,Los Angeles Lakers,Philadelphia 76ers,1,11-15,3,free throw,True,15,True,False
+2014-12-29,6.45,Los Angeles Lakers,Philadelphia 76ers,1,11-16,4,free throw,True,15,True,False
+2014-02-07,7.2,Los Angeles Lakers,Philadelphia 76ers,1,13-19,-8,two point jumper,False,15,True,False
+2014-02-07,8.28333333333,Los Angeles Lakers,Philadelphia 76ers,1,18-21,-5,two point shot,False,4,True,False
+2014-02-07,9.68333333333,Los Angeles Lakers,Philadelphia 76ers,1,20-27,-9,tip shot,False,0,False,False
+2014-02-07,10.5166666667,Los Angeles Lakers,Philadelphia 76ers,1,22-29,-9,layup,False,0,False,False
+2014-02-07,11.2666666667,Los Angeles Lakers,Philadelphia 76ers,1,26-33,-9,layup,False,0,True,False
+2014-02-07,12.3166666667,Los Angeles Lakers,Philadelphia 76ers,2,28-35,-9,two point jumper,False,8,True,False
+2014-02-07,31.1333333333,Los Angeles Lakers,Philadelphia 76ers,3,73-73,-2,two point jumper,False,8,False,False
+2014-02-07,33.75,Los Angeles Lakers,Philadelphia 76ers,3,83-78,4,free throw,False,15,False,False
+2014-02-07,33.75,Los Angeles Lakers,Philadelphia 76ers,3,84-78,5,free throw,False,15,True,False
+2014-02-07,34.3666666667,Los Angeles Lakers,Philadelphia 76ers,3,84-80,2,two point jumper,False,16,False,False
+2014-02-07,34.7833333333,Los Angeles Lakers,Philadelphia 76ers,3,83-82,-1,two point jumper,False,14,False,False
+2014-02-07,38.2,Los Angeles Lakers,Philadelphia 76ers,4,93-90,1,layup,False,0,True,False
+2014-02-07,39.9,Los Angeles Lakers,Philadelphia 76ers,4,96-90,4,two point shot,False,1,True,False
+2014-02-07,41.2833333333,Los Angeles Lakers,Philadelphia 76ers,4,100-90,8,two point jumper,False,19,True,False
+2014-02-07,41.95,Los Angeles Lakers,Philadelphia 76ers,4,100-90,8,two point jumper,False,10,False,False
+2014-02-07,43.5,Los Angeles Lakers,Philadelphia 76ers,4,103-93,9,free throw,False,15,True,False
+2014-02-07,43.5,Los Angeles Lakers,Philadelphia 76ers,4,104-93,10,free throw,False,15,True,False
+2014-02-07,47.5,Los Angeles Lakers,Philadelphia 76ers,4,112-98,12,two point jumper,False,11,False,False
+2014-10-30,8.15,Los Angeles Lakers,Golden State Warriors,1,12-21,-11,two point shot,False,9,True,True
+2014-10-30,8.75,Los Angeles Lakers,Golden State Warriors,1,14-23,-11,layup,False,0,True,True
+2014-10-30,10.1,Los Angeles Lakers,Golden State Warriors,1,14-23,-11,two point jumper,False,1,False,True
+2014-10-30,18.85,Los Angeles Lakers,Golden State Warriors,2,25-44,-20,free throw,False,15,False,True
+2014-10-30,18.85,Los Angeles Lakers,Golden State Warriors,2,26-44,-19,free throw,False,15,True,True
+2014-10-30,19.4166666667,Los Angeles Lakers,Golden State Warriors,2,26-46,-22,two point shot,False,1,False,True
+2014-10-30,23.0333333333,Los Angeles Lakers,Golden State Warriors,2,37-57,-22,two point shot,False,4,True,True
+2014-10-30,31.75,Los Angeles Lakers,Golden State Warriors,3,58-83,-27,layup,False,0,True,True
+2014-10-30,34.0333333333,Los Angeles Lakers,Golden State Warriors,3,62-92,-32,two point shot,False,5,True,True
+2014-10-30,34.9,Los Angeles Lakers,Golden State Warriors,3,62-95,-35,two point jumper,False,21,False,True
+2014-12-21,3.3,Los Angeles Lakers,Golden State Warriors,1,8-4,2,two point shot,False,1,False,True
+2014-12-21,5.1,Los Angeles Lakers,Golden State Warriors,1,14-9,3,two point shot,False,13,True,True
+2014-12-21,5.48333333333,Los Angeles Lakers,Golden State Warriors,1,14-12,0,two point shot,False,9,False,True
+2014-12-21,6.53333333333,Los Angeles Lakers,Golden State Warriors,1,16-15,-1,two point shot,False,1,False,True
+2014-12-21,8.08333333333,Los Angeles Lakers,Golden State Warriors,1,20-17,1,layup,False,0,True,True
+2014-12-21,18.1333333333,Los Angeles Lakers,Golden State Warriors,2,33-37,-6,two point shot,False,10,False,True
+2014-12-21,19.2,Los Angeles Lakers,Golden State Warriors,2,33-37,-6,two point shot,False,14,False,True
+2014-12-21,22.9666666667,Los Angeles Lakers,Golden State Warriors,2,41-44,-5,two point jumper,False,9,False,True
+2014-12-21,23.9666666667,Los Angeles Lakers,Golden State Warriors,2,42-46,-7,three point jumper,False,28,False,True
+2014-12-21,26.75,Los Angeles Lakers,Golden State Warriors,3,44-51,-9,two point shot,False,10,False,True
+2014-12-21,26.8833333333,Los Angeles Lakers,Golden State Warriors,3,46-51,-7,two point shot,False,1,True,True
+2014-12-21,28.3166666667,Los Angeles Lakers,Golden State Warriors,3,46-51,-7,two point shot,False,4,False,True
+2014-12-21,28.4166666667,Los Angeles Lakers,Golden State Warriors,3,46-51,-7,two point jumper,False,1,False,True
+2014-12-21,30.7,Los Angeles Lakers,Golden State Warriors,3,46-60,-16,two point shot,False,1,False,True
+2014-12-21,30.7333333333,Los Angeles Lakers,Golden State Warriors,3,48-60,-14,two point shot,False,1,True,True
+2014-12-21,31.5666666667,Los Angeles Lakers,Golden State Warriors,3,48-62,-16,two point jumper,False,15,False,True
+2014-12-21,44.2166666667,Los Angeles Lakers,Golden State Warriors,4,76-97,-23,two point shot,False,10,True,True
+2014-10-29,7.28333333333,Los Angeles Lakers,Los Angeles Clippers,1,18-13,-7,two point jumper,True,14,False,True
+2014-10-29,10.4833333333,Los Angeles Lakers,Los Angeles Clippers,1,26-24,-4,two point jumper,True,20,True,True
+2014-10-29,11.3,Los Angeles Lakers,Los Angeles Clippers,1,30-26,-6,two point jumper,True,18,True,True
+2014-10-29,11.5833333333,Los Angeles Lakers,Los Angeles Clippers,1,30-28,-4,two point shot,True,4,True,True
+2014-10-29,12.0,Los Angeles Lakers,Los Angeles Clippers,1,30-28,-4,tip shot,True,0,False,True
+2014-10-29,18.85,Los Angeles Lakers,Los Angeles Clippers,2,44-40,-6,tip shot,True,0,False,True
+2014-10-29,21.4833333333,Los Angeles Lakers,Los Angeles Clippers,2,48-50,0,two point shot,True,3,True,True
+2014-10-29,22.8833333333,Los Angeles Lakers,Los Angeles Clippers,2,51-53,0,hook shot,True,4,False,True
+2014-10-29,23.5,Los Angeles Lakers,Los Angeles Clippers,2,55-55,-2,layup,True,0,True,True
+2014-01-10,7.41666666667,Los Angeles Lakers,Los Angeles Clippers,1,19-22,-5,two point shot,False,6,True,True
+2014-01-10,10.1666666667,Los Angeles Lakers,Los Angeles Clippers,1,23-35,-14,hook shot,False,3,False,True
+2014-01-10,22.8,Los Angeles Lakers,Los Angeles Clippers,2,52-69,-19,two point jumper,False,15,False,True
+2014-01-10,37.2,Los Angeles Lakers,Los Angeles Clippers,4,61-101,-41,free throw,False,15,True,True
+2014-01-10,37.2,Los Angeles Lakers,Los Angeles Clippers,4,62-101,-40,free throw,False,15,True,True
+2014-01-10,38.7666666667,Los Angeles Lakers,Los Angeles Clippers,4,68-101,-35,layup,False,0,True,True
+2014-01-10,39.3166666667,Los Angeles Lakers,Los Angeles Clippers,4,68-102,-36,layup,False,0,False,True
+2014-11-01,10.1,Los Angeles Lakers,San Antonio Spurs,1,13-21,6,two point jumper,True,18,True,False
+2014-11-01,11.6166666667,Los Angeles Lakers,San Antonio Spurs,1,16-23,5,layup,True,0,False,False
+2014-11-01,33.2166666667,Los Angeles Lakers,San Antonio Spurs,3,60-57,-5,two point jumper,True,21,True,False
+2014-11-03,8.25,Los Angeles Lakers,Atlanta Hawks,1,14-27,11,two point jumper,True,16,True,True
+2014-11-03,9.75,Los Angeles Lakers,Atlanta Hawks,1,18-27,7,hook shot,True,5,False,True
+2014-11-03,11.9166666667,Los Angeles Lakers,Atlanta Hawks,1,22-33,9,two point jumper,True,18,True,True
+2014-11-03,31.1666666667,Los Angeles Lakers,Atlanta Hawks,3,67-80,11,two point shot,True,5,True,True
+2014-11-03,31.7833333333,Los Angeles Lakers,Atlanta Hawks,3,67-82,13,two point jumper,True,19,True,True
+2014-11-03,32.2333333333,Los Angeles Lakers,Atlanta Hawks,3,67-84,15,two point shot,True,1,True,True
+2014-11-03,33.0,Los Angeles Lakers,Atlanta Hawks,3,69-84,13,two point jumper,True,16,False,True
+2014-11-05,7.98333333333,Los Angeles Lakers,Dallas Mavericks,1,16-22,-8,two point jumper,False,18,True,False
+2014-11-05,9.98333333333,Los Angeles Lakers,Dallas Mavericks,1,20-29,-11,two point jumper,False,16,True,False
+2014-11-05,10.9833333333,Los Angeles Lakers,Dallas Mavericks,1,20-31,-13,two point shot,False,1,False,False
+2014-11-05,20.2166666667,Los Angeles Lakers,Dallas Mavericks,2,37-55,-20,two point jumper,False,17,False,False
+2014-11-05,21.2166666667,Los Angeles Lakers,Dallas Mavericks,2,41-59,-20,two point shot,False,1,True,False
+2014-11-05,22.2166666667,Los Angeles Lakers,Dallas Mavericks,2,46-59,-15,two point shot,False,1,True,False
+2014-11-05,22.8833333333,Los Angeles Lakers,Dallas Mavericks,2,48-61,-15,two point shot,False,1,True,False
+2014-11-07,1.96666666667,Los Angeles Lakers,Houston Rockets,1,5-4,-1,two point shot,False,9,True,True
+2014-11-07,4.98333333333,Los Angeles Lakers,Houston Rockets,1,12-4,6,two point jumper,False,13,True,True
+2014-11-07,19.9166666667,Los Angeles Lakers,Houston Rockets,2,51-39,10,two point jumper,False,14,False,True
+2014-11-07,27.3166666667,Los Angeles Lakers,Houston Rockets,3,69-55,12,two point jumper,False,13,False,True
+2014-11-07,28.3166666667,Los Angeles Lakers,Houston Rockets,3,71-57,12,two point jumper,False,13,True,True
+2014-11-08,1.56666666667,Los Angeles Lakers,New Orleans Pelicans,1,2-5,-5,two point jumper,False,15,True,False
+2014-11-08,2.43333333333,Los Angeles Lakers,New Orleans Pelicans,1,4-7,-5,two point shot,False,3,True,False
+2014-11-08,4.31666666667,Los Angeles Lakers,New Orleans Pelicans,1,10-9,-1,layup,False,0,True,False
+2014-11-08,4.73333333333,Los Angeles Lakers,New Orleans Pelicans,1,11-11,-2,two point jumper,False,18,False,False
+2014-11-08,5.06666666667,Los Angeles Lakers,New Orleans Pelicans,1,13-12,-1,dunk,False,0,True,False
+2014-11-08,6.98333333333,Los Angeles Lakers,New Orleans Pelicans,1,17-18,-3,two point jumper,False,14,False,False
+2014-11-08,17.3166666667,Los Angeles Lakers,New Orleans Pelicans,2,37-38,-2,free throw,False,15,True,False
+2014-11-08,17.3166666667,Los Angeles Lakers,New Orleans Pelicans,2,38-38,-1,free throw,False,15,True,False
+2014-11-08,19.2333333333,Los Angeles Lakers,New Orleans Pelicans,2,39-41,-4,two point jumper,False,18,False,False
+2014-11-08,27.5,Los Angeles Lakers,New Orleans Pelicans,3,59-57,0,two point jumper,False,16,True,False
+2014-11-08,28.45,Los Angeles Lakers,New Orleans Pelicans,3,61-59,0,dunk,False,0,True,False
+2014-11-08,30.5333333333,Los Angeles Lakers,New Orleans Pelicans,3,63-61,0,layup,False,0,True,False
+2014-11-08,31.5666666667,Los Angeles Lakers,New Orleans Pelicans,3,63-63,-2,two point jumper,False,16,False,False
+2014-11-08,32.4166666667,Los Angeles Lakers,New Orleans Pelicans,3,63-65,-4,two point jumper,False,13,False,False
+2014-11-10,0.316666666667,Los Angeles Lakers,Minnesota Timberwolves,1,0-0,-2,two point jumper,True,1,False,True
+2014-11-10,1.8,Los Angeles Lakers,Minnesota Timberwolves,1,2-2,-2,two point jumper,True,16,False,True
+2014-11-10,2.95,Los Angeles Lakers,Minnesota Timberwolves,1,7-6,-3,two point shot,True,9,True,True
+2014-11-10,3.95,Los Angeles Lakers,Minnesota Timberwolves,1,9-8,-3,hook shot,True,6,False,True
+2014-11-10,17.7333333333,Los Angeles Lakers,Minnesota Timberwolves,2,53-32,-23,layup,True,0,False,True
+2014-11-10,20.5833333333,Los Angeles Lakers,Minnesota Timberwolves,2,59-44,-17,two point jumper,True,17,True,True
+2014-11-10,22.2166666667,Los Angeles Lakers,Minnesota Timberwolves,2,63-41,-24,two point jumper,True,13,False,True
+2014-11-10,22.85,Los Angeles Lakers,Minnesota Timberwolves,2,67-43,-26,two point jumper,True,16,True,True
+2014-11-10,25.0,Los Angeles Lakers,Minnesota Timberwolves,3,69-48,-23,hook shot,True,6,False,True
+2014-11-10,27.3166666667,Los Angeles Lakers,Minnesota Timberwolves,3,74-50,-26,two point jumper,True,17,True,True
+2014-11-12,7.56666666667,Los Angeles Lakers,New Orleans Pelicans,1,12-11,-3,two point shot,True,11,False,False
+2014-11-12,9.03333333333,Los Angeles Lakers,New Orleans Pelicans,1,14-15,-1,two point jumper,True,17,False,False
+2014-11-12,10.35,Los Angeles Lakers,New Orleans Pelicans,1,16-18,0,two point jumper,True,18,False,False
+2014-11-12,15.0833333333,Los Angeles Lakers,New Orleans Pelicans,2,21-32,9,two point shot,True,3,True,False
+2014-11-12,30.6333333333,Los Angeles Lakers,New Orleans Pelicans,3,52-74,20,layup,True,0,True,False
+2014-11-12,32.9333333333,Los Angeles Lakers,New Orleans Pelicans,3,56-80,22,two point shot,True,1,True,False
+2014-11-12,33.9333333333,Los Angeles Lakers,New Orleans Pelicans,3,58-82,22,hook shot,True,4,False,False
+2014-11-12,38.7166666667,Los Angeles Lakers,New Orleans Pelicans,4,72-91,17,hook shot,True,5,False,False
+2014-11-12,40.1,Los Angeles Lakers,New Orleans Pelicans,4,79-96,15,two point jumper,True,16,True,False
+2014-11-13,6.88333333333,Los Angeles Lakers,Denver Nuggets,1,16-19,-5,two point jumper,False,16,False,True
+2014-11-13,7.28333333333,Los Angeles Lakers,Denver Nuggets,1,18-21,-5,two point jumper,False,17,True,True
+2014-11-13,8.96666666667,Los Angeles Lakers,Denver Nuggets,1,22-29,-9,two point shot,False,11,True,True
+2014-11-13,10.4333333333,Los Angeles Lakers,Denver Nuggets,1,23-33,-12,two point jumper,False,1,False,True
+2014-11-13,10.9333333333,Los Angeles Lakers,Denver Nuggets,1,25-33,-10,two point jumper,False,14,True,True
+2014-11-13,12.65,Los Angeles Lakers,Denver Nuggets,2,28-33,-7,two point shot,False,3,False,True
+2014-11-13,12.75,Los Angeles Lakers,Denver Nuggets,2,28-33,-7,two point shot,False,9,False,True
+2014-11-13,22.7833333333,Los Angeles Lakers,Denver Nuggets,2,50-55,-7,two point jumper,False,3,False,True
+2014-11-13,22.8,Los Angeles Lakers,Denver Nuggets,2,51-55,-5,free throw,False,15,True,True
+2014-11-13,22.8,Los Angeles Lakers,Denver Nuggets,2,52-55,-4,free throw,False,15,True,True
+2014-11-13,39.8166666667,Los Angeles Lakers,Denver Nuggets,4,81-89,-10,two point jumper,False,14,False,True
+2014-11-15,4.88333333333,Los Angeles Lakers,Memphis Grizzlies,1,14-11,-5,two point jumper,True,10,False,False
+2014-11-15,5.7,Los Angeles Lakers,Memphis Grizzlies,1,16-11,-7,two point jumper,True,13,False,False
+2014-11-15,10.35,Los Angeles Lakers,Memphis Grizzlies,1,22-17,-7,two point jumper,True,20,False,False
+2014-11-15,32.65,Los Angeles Lakers,Memphis Grizzlies,3,57-57,-2,two point shot,True,15,True,False
+2014-11-15,35.15,Los Angeles Lakers,Memphis Grizzlies,3,61-64,1,two point shot,True,6,True,False
+2014-11-15,35.45,Los Angeles Lakers,Memphis Grizzlies,3,61-66,3,two point shot,True,2,True,False
+2014-11-15,36.75,Los Angeles Lakers,Memphis Grizzlies,4,65-66,-1,two point shot,True,10,False,False
+2014-11-15,37.25,Los Angeles Lakers,Memphis Grizzlies,4,65-66,-1,layup,True,0,False,False
+2014-12-13,37.8833333333,Los Angeles Lakers,Oklahoma City Thunder,4,77-101,-26,layup,False,0,True,True
+2014-12-13,37.8833333333,Los Angeles Lakers,Oklahoma City Thunder,4,78-101,-24,free throw,False,15,True,True
+2014-12-13,41.5,Los Angeles Lakers,Oklahoma City Thunder,4,81-109,-30,two point jumper,False,1,True,True
+2014-12-13,44.4,Los Angeles Lakers,Oklahoma City Thunder,4,87-113,-27,free throw,False,15,False,True
+2014-12-13,44.4,Los Angeles Lakers,Oklahoma City Thunder,4,88-113,-26,free throw,False,15,True,True
+2014-12-13,44.8666666667,Los Angeles Lakers,Oklahoma City Thunder,4,90-113,-25,layup,False,0,True,True
+2014-12-13,46.5,Los Angeles Lakers,Oklahoma City Thunder,4,93-118,-27,two point shot,False,13,False,True
+2014-12-13,47.3666666667,Los Angeles Lakers,Oklahoma City Thunder,4,96-120,-25,free throw,False,15,False,True
+2014-12-13,47.3666666667,Los Angeles Lakers,Oklahoma City Thunder,4,97-120,-24,free throw,False,15,True,True
+2014-12-20,7.31666666667,Los Angeles Lakers,Minnesota Timberwolves,1,14-23,7,layup,True,0,True,False
+2014-12-20,10.2333333333,Los Angeles Lakers,Minnesota Timberwolves,1,21-30,7,two point shot,True,1,False,False
+2014-12-20,27.95,Los Angeles Lakers,Minnesota Timberwolves,3,61-62,-1,two point jumper,True,17,True,False
+2014-12-20,32.1666666667,Los Angeles Lakers,Minnesota Timberwolves,3,70-73,1,two point shot,True,10,True,False
+2014-12-20,33.0333333333,Los Angeles Lakers,Minnesota Timberwolves,3,72-73,-1,layup,True,0,False,False
+2014-12-20,34.4833333333,Los Angeles Lakers,Minnesota Timberwolves,3,75-79,2,two point jumper,True,15,False,False
+2014-12-23,8.36666666667,Los Angeles Lakers,Phoenix Suns,1,13-23,-12,two point jumper,False,19,False,True
+2014-12-23,34.0166666667,Los Angeles Lakers,Phoenix Suns,3,64-82,-19,free throw,False,15,True,True
+2014-12-23,34.0166666667,Los Angeles Lakers,Phoenix Suns,3,64-82,-19,free throw,False,15,False,True
+2014-12-23,36.45,Los Angeles Lakers,Phoenix Suns,4,68-90,-24,hook shot,False,3,False,True
+2014-12-27,0.616666666667,Los Angeles Lakers,Utah Jazz,1,2-2,-2,layup,False,0,True,False
+2014-12-27,1.06666666667,Los Angeles Lakers,Utah Jazz,1,2-2,-2,two point jumper,False,14,False,False
+2014-12-27,2.7,Los Angeles Lakers,Utah Jazz,1,8-8,-2,hook shot,False,5,False,False
+2014-12-27,3.13333333333,Los Angeles Lakers,Utah Jazz,1,8-10,-4,hook shot,False,4,False,False
+2014-12-27,3.21666666667,Los Angeles Lakers,Utah Jazz,1,10-10,-2,two point jumper,False,3,True,False
+2014-12-27,4.16666666667,Los Angeles Lakers,Utah Jazz,1,12-12,-2,two point shot,False,12,True,False
+2014-12-27,7.06666666667,Los Angeles Lakers,Utah Jazz,1,18-14,2,two point shot,False,1,True,False
+2014-12-27,17.2,Los Angeles Lakers,Utah Jazz,2,38-34,2,two point shot,False,13,True,False
+2014-12-27,18.1666666667,Los Angeles Lakers,Utah Jazz,2,39-35,3,free throw,False,15,True,False
+2014-12-27,18.1666666667,Los Angeles Lakers,Utah Jazz,2,40-35,4,free throw,False,15,True,False
+2014-12-27,20.55,Los Angeles Lakers,Utah Jazz,2,45-44,-1,layup,False,0,False,False
+2014-12-27,21.0,Los Angeles Lakers,Utah Jazz,2,48-46,1,free throw,False,15,True,False
+2014-12-27,21.0,Los Angeles Lakers,Utah Jazz,2,49-46,2,free throw,False,15,True,False
+2014-12-27,21.3166666667,Los Angeles Lakers,Utah Jazz,2,49-46,2,free throw,False,15,False,False
+2014-12-27,21.3166666667,Los Angeles Lakers,Utah Jazz,2,50-46,3,free throw,False,15,True,False
+2014-12-27,26.8166666667,Los Angeles Lakers,Utah Jazz,3,59-65,-8,two point shot,False,2,True,False
+2014-12-27,29.2333333333,Los Angeles Lakers,Utah Jazz,3,65-69,-6,two point jumper,False,13,True,False
+2014-01-08,37.2,Los Angeles Lakers,Houston Rockets,4,72-87,-16,free throw,False,15,False,True
+2014-01-08,37.2,Los Angeles Lakers,Houston Rockets,4,73-87,-15,free throw,False,15,True,True
+2014-01-08,38.55,Los Angeles Lakers,Houston Rockets,4,75-89,-16,two point shot,False,12,True,True
+2014-01-08,39.2,Los Angeles Lakers,Houston Rockets,4,75-92,-19,two point shot,False,12,False,True
+2014-01-08,44.2166666667,Los Angeles Lakers,Houston Rockets,4,90-102,-14,layup,False,0,True,True
+2014-01-08,47.3666666667,Los Angeles Lakers,Houston Rockets,4,96-113,-19,layup,False,0,False,True
+2014-01-14,9.98333333333,Los Angeles Lakers,Cleveland Cavaliers,1,26-20,-8,two point jumper,True,19,False,False
+2014-01-14,10.1333333333,Los Angeles Lakers,Cleveland Cavaliers,1,26-20,-8,two point jumper,True,15,False,False
+2014-01-14,11.9833333333,Los Angeles Lakers,Cleveland Cavaliers,1,28-23,-8,three point jumper,True,26,False,False
+2014-01-14,35.0,Los Angeles Lakers,Cleveland Cavaliers,3,88-85,-5,layup,True,0,True,False
+2014-01-14,37.2,Los Angeles Lakers,Cleveland Cavaliers,4,92-92,-2,layup,True,0,True,False
+2014-01-14,37.65,Los Angeles Lakers,Cleveland Cavaliers,4,94-94,-2,two point shot,True,14,True,False
+2014-01-15,10.1166666667,Los Angeles Lakers,Phoenix Suns,1,22-26,-6,two point shot,False,8,True,False
+2014-01-15,10.8,Los Angeles Lakers,Phoenix Suns,1,25-26,-3,layup,False,0,True,False
+2014-01-15,11.25,Los Angeles Lakers,Phoenix Suns,1,27-26,-1,two point shot,False,7,True,False
+2014-01-15,12.55,Los Angeles Lakers,Phoenix Suns,2,29-26,1,two point jumper,False,12,True,False
+2014-01-15,14.0666666667,Los Angeles Lakers,Phoenix Suns,2,31-30,-1,hook shot,False,3,False,False
+2014-01-15,16.6666666667,Los Angeles Lakers,Phoenix Suns,2,39-37,1,free throw,False,15,True,False
+2014-01-15,16.6666666667,Los Angeles Lakers,Phoenix Suns,2,40-37,2,free throw,False,15,True,False
+2014-01-15,34.0166666667,Los Angeles Lakers,Phoenix Suns,3,79-84,-7,two point jumper,False,1,True,False
+2014-01-15,36.8666666667,Los Angeles Lakers,Phoenix Suns,4,85-88,-4,free throw,False,15,True,False
+2014-01-15,36.8666666667,Los Angeles Lakers,Phoenix Suns,4,86-88,-3,free throw,False,15,True,False
+2014-01-15,37.5833333333,Los Angeles Lakers,Phoenix Suns,4,88-89,-3,layup,False,0,True,False
+2014-01-15,38.6333333333,Los Angeles Lakers,Phoenix Suns,4,92-93,-2,free throw,False,15,True,False
+2014-01-15,38.6333333333,Los Angeles Lakers,Phoenix Suns,4,93-93,-1,free throw,False,15,True,False
+2014-02-04,9.0,Los Angeles Lakers,Minnesota Timberwolves,1,22-27,-7,two point jumper,False,5,True,True
+2014-02-04,9.75,Los Angeles Lakers,Minnesota Timberwolves,1,22-30,-10,two point shot,False,11,False,True
+2014-02-04,10.15,Los Angeles Lakers,Minnesota Timberwolves,1,23-32,-10,free throw,False,15,True,True
+2014-02-04,10.15,Los Angeles Lakers,Minnesota Timberwolves,1,24-32,-9,free throw,False,15,True,True
+2014-02-04,10.7166666667,Los Angeles Lakers,Minnesota Timberwolves,1,24-34,-12,two point jumper,False,14,False,True
+2014-02-04,13.65,Los Angeles Lakers,Minnesota Timberwolves,2,30-42,-14,two point shot,False,14,False,True
+2014-02-04,14.0666666667,Los Angeles Lakers,Minnesota Timberwolves,2,30-44,-16,two point shot,False,13,False,True
+2014-02-04,15.0666666667,Los Angeles Lakers,Minnesota Timberwolves,2,31-47,-17,free throw,False,15,True,True
+2014-02-04,15.0666666667,Los Angeles Lakers,Minnesota Timberwolves,2,31-47,-17,free throw,False,15,False,True
+2014-02-04,32.8333333333,Los Angeles Lakers,Minnesota Timberwolves,3,71-83,-13,free throw,False,15,True,True
+2014-02-04,32.8333333333,Los Angeles Lakers,Minnesota Timberwolves,3,72-83,-12,free throw,False,15,True,True
+2014-02-04,39.6333333333,Los Angeles Lakers,Minnesota Timberwolves,4,86-95,-11,two point jumper,False,15,True,True
+2014-02-05,9.1,Los Angeles Lakers,Cleveland Cavaliers,1,28-15,11,two point shot,False,8,True,True
+2014-02-05,10.4333333333,Los Angeles Lakers,Cleveland Cavaliers,1,34-15,17,two point shot,False,9,True,True
+2014-02-05,11.9833333333,Los Angeles Lakers,Cleveland Cavaliers,1,36-17,17,two point shot,False,1,True,True
+2014-02-05,15.0,Los Angeles Lakers,Cleveland Cavaliers,2,49-21,26,two point shot,False,1,True,True
+2014-02-05,15.0,Los Angeles Lakers,Cleveland Cavaliers,2,50-21,28,free throw,False,15,True,True
+2014-02-05,31.6,Los Angeles Lakers,Cleveland Cavaliers,3,90-64,24,two point jumper,False,16,True,True
+2014-02-05,38.7,Los Angeles Lakers,Cleveland Cavaliers,4,102-90,10,two point jumper,False,16,True,True
+2014-02-09,7.66666666667,Los Angeles Lakers,Chicago Bulls,1,23-10,-15,two point jumper,True,13,False,False
+2014-02-09,7.85,Los Angeles Lakers,Chicago Bulls,1,23-12,-13,two point shot,True,1,True,False
+2014-02-09,8.48333333333,Los Angeles Lakers,Chicago Bulls,1,25-14,-13,two point jumper,True,15,True,False
+2014-02-09,10.8833333333,Los Angeles Lakers,Chicago Bulls,1,32-21,-13,dunk,True,0,True,False
+2014-02-09,11.65,Los Angeles Lakers,Chicago Bulls,1,34-23,-13,two point jumper,True,4,True,False
+2014-02-09,12.2166666667,Los Angeles Lakers,Chicago Bulls,2,34-25,-11,two point shot,True,2,True,False
+2014-02-09,14.3,Los Angeles Lakers,Chicago Bulls,2,40-27,-15,hook shot,True,4,False,False
+2014-02-09,15.9,Los Angeles Lakers,Chicago Bulls,2,42-32,-12,two point jumper,True,10,False,False
+2014-02-09,16.2333333333,Los Angeles Lakers,Chicago Bulls,2,42-34,-10,two point shot,True,10,True,False
+2014-02-09,18.1,Los Angeles Lakers,Chicago Bulls,2,42-39,-5,two point shot,True,10,True,False
+2014-02-09,29.5333333333,Los Angeles Lakers,Chicago Bulls,3,65-52,-15,two point jumper,True,17,False,False
+2014-02-09,30.3166666667,Los Angeles Lakers,Chicago Bulls,3,67-52,-17,two point jumper,True,13,False,False
+2014-02-09,31.0,Los Angeles Lakers,Chicago Bulls,3,69-53,-17,free throw,True,15,True,False
+2014-02-09,31.0,Los Angeles Lakers,Chicago Bulls,3,69-53,-17,free throw,True,15,False,False
+2014-02-09,32.1833333333,Los Angeles Lakers,Chicago Bulls,3,69-53,-18,two point jumper,True,15,False,False
+2014-02-09,32.7666666667,Los Angeles Lakers,Chicago Bulls,3,72-55,-19,layup,True,0,True,False
+2014-02-09,35.9666666667,Los Angeles Lakers,Chicago Bulls,3,77-62,-16,free throw,True,15,False,False
+2014-02-09,35.9666666667,Los Angeles Lakers,Chicago Bulls,3,77-62,-16,free throw,True,15,False,False
+2014-02-09,39.3833333333,Los Angeles Lakers,Chicago Bulls,4,77-69,-10,two point shot,True,1,True,False
+2014-02-09,40.0333333333,Los Angeles Lakers,Chicago Bulls,4,79-71,-10,two point shot,True,3,True,False
+2014-02-09,40.9833333333,Los Angeles Lakers,Chicago Bulls,4,82-71,-13,two point jumper,True,18,False,False
+2014-02-09,42.85,Los Angeles Lakers,Chicago Bulls,4,84-76,-10,two point shot,True,12,True,False
+2014-02-09,45.4333333333,Los Angeles Lakers,Chicago Bulls,4,86-78,-10,two point jumper,True,1,False,False
+2014-02-09,46.2833333333,Los Angeles Lakers,Chicago Bulls,4,86-80,-8,two point jumper,True,16,True,False
+2014-02-09,46.8833333333,Los Angeles Lakers,Chicago Bulls,4,88-82,-8,layup,True,0,True,False
+2014-02-09,47.95,Los Angeles Lakers,Chicago Bulls,4,92-86,-9,three point jumper,True,27,False,False
+2014-02-11,1.06666666667,Los Angeles Lakers,Utah Jazz,1,2-0,-4,two point jumper,True,18,False,False
+2014-02-11,2.81666666667,Los Angeles Lakers,Utah Jazz,1,7-3,-6,hook shot,True,4,False,False
+2014-02-11,5.81666666667,Los Angeles Lakers,Utah Jazz,1,11-14,1,two point shot,True,1,True,False
+2014-02-11,6.28333333333,Los Angeles Lakers,Utah Jazz,1,11-16,3,two point jumper,True,15,True,False
+2014-02-11,7.03333333333,Los Angeles Lakers,Utah Jazz,1,11-18,5,tip shot,True,0,False,False
+2014-02-11,7.03333333333,Los Angeles Lakers,Utah Jazz,1,11-18,5,layup,True,0,True,False
+2014-02-11,7.38333333333,Los Angeles Lakers,Utah Jazz,1,11-18,5,two point jumper,True,17,False,False
+2014-02-11,8.41666666667,Los Angeles Lakers,Utah Jazz,1,11-22,9,two point shot,True,15,True,False
+2014-02-11,16.4166666667,Los Angeles Lakers,Utah Jazz,2,28-28,-2,two point jumper,True,15,False,False
+2014-02-11,18.9166666667,Los Angeles Lakers,Utah Jazz,2,30-30,-2,two point jumper,True,15,False,False
+2014-02-11,20.0166666667,Los Angeles Lakers,Utah Jazz,2,32-32,-2,layup,True,0,True,False
+2014-02-11,20.9,Los Angeles Lakers,Utah Jazz,2,36-34,-4,two point jumper,True,17,True,False
+2014-02-11,21.5,Los Angeles Lakers,Utah Jazz,2,36-34,-4,two point jumper,True,15,False,False
+2014-02-11,22.0166666667,Los Angeles Lakers,Utah Jazz,2,38-34,-6,hook shot,True,1,False,False
+2014-02-11,24.2,Los Angeles Lakers,Utah Jazz,3,48-39,-11,two point shot,True,4,True,False
+2014-02-11,24.2,Los Angeles Lakers,Utah Jazz,3,48-40,-9,free throw,True,15,True,False
+2014-02-11,27.2666666667,Los Angeles Lakers,Utah Jazz,3,50-44,-8,two point jumper,True,17,False,False
+2014-02-11,28.6333333333,Los Angeles Lakers,Utah Jazz,3,52-48,-6,two point jumper,True,17,True,False
+2014-02-11,33.2166666667,Los Angeles Lakers,Utah Jazz,3,62-60,-4,two point shot,True,11,True,False
+2014-02-11,40.7,Los Angeles Lakers,Utah Jazz,4,79-69,-12,layup,True,0,False,False
+2014-02-11,40.7,Los Angeles Lakers,Utah Jazz,4,79-71,-10,two point shot,True,2,True,False
+2014-02-11,44.4833333333,Los Angeles Lakers,Utah Jazz,4,85-73,-13,free throw,True,15,True,False
+2014-02-11,44.4833333333,Los Angeles Lakers,Utah Jazz,4,85-74,-12,free throw,True,15,True,False
+2014-02-11,44.9666666667,Los Angeles Lakers,Utah Jazz,4,86-76,-12,layup,True,0,True,False
+2014-02-13,3.0,Los Angeles Lakers,Oklahoma City Thunder,1,2-7,3,layup,True,0,True,False
+2014-02-13,5.73333333333,Los Angeles Lakers,Oklahoma City Thunder,1,8-9,-1,two point shot,True,11,False,False
+2014-02-13,6.2,Los Angeles Lakers,Oklahoma City Thunder,1,8-11,1,two point jumper,True,16,True,False
+2014-02-13,8.7,Los Angeles Lakers,Oklahoma City Thunder,1,13-19,4,two point shot,True,13,False,False
+2014-02-13,20.15,Los Angeles Lakers,Oklahoma City Thunder,2,33-41,6,two point shot,True,1,True,False
+2014-02-13,25.5833333333,Los Angeles Lakers,Oklahoma City Thunder,3,47-56,7,two point jumper,True,17,False,False
+2014-02-13,27.0166666667,Los Angeles Lakers,Oklahoma City Thunder,3,49-60,9,two point jumper,True,16,True,False
+2014-02-13,28.45,Los Angeles Lakers,Oklahoma City Thunder,3,51-64,11,two point shot,True,7,True,False
+2014-02-13,29.0666666667,Los Angeles Lakers,Oklahoma City Thunder,3,53-66,11,two point shot,True,1,True,False
+2014-02-13,40.95,Los Angeles Lakers,Oklahoma City Thunder,4,84-86,1,free throw,True,15,True,False
+2014-02-13,40.95,Los Angeles Lakers,Oklahoma City Thunder,4,84-87,2,free throw,True,15,True,False
+2014-02-13,45.0333333333,Los Angeles Lakers,Oklahoma City Thunder,4,96-96,-1,free throw,True,15,True,False
+2014-02-13,45.0333333333,Los Angeles Lakers,Oklahoma City Thunder,4,96-96,-1,free throw,True,15,False,False
+2014-02-13,46.6333333333,Los Angeles Lakers,Oklahoma City Thunder,4,103-99,-5,free throw,True,15,True,False
+2014-02-13,46.6333333333,Los Angeles Lakers,Oklahoma City Thunder,4,103-100,-4,free throw,True,15,True,False
+2014-02-13,47.6333333333,Los Angeles Lakers,Oklahoma City Thunder,4,103-102,-3,two point shot,True,1,True,False
+2014-02-13,47.6333333333,Los Angeles Lakers,Oklahoma City Thunder,4,103-102,-2,free throw,True,15,False,False
+2014-02-19,2.3,Los Angeles Lakers,Houston Rockets,1,8-6,-4,two point jumper,True,14,True,False
+2014-02-19,4.38333333333,Los Angeles Lakers,Houston Rockets,1,11-12,-1,two point jumper,True,16,False,False
+2014-02-19,5.41666666667,Los Angeles Lakers,Houston Rockets,1,13-12,-3,two point shot,True,1,False,False
+2014-02-19,5.85,Los Angeles Lakers,Houston Rockets,1,13-12,-3,two point jumper,True,13,False,False
+2014-02-19,6.73333333333,Los Angeles Lakers,Houston Rockets,1,16-15,-3,two point jumper,True,1,False,False
+2014-02-19,15.5666666667,Los Angeles Lakers,Houston Rockets,2,43-29,-16,two point jumper,True,13,False,False
+2014-02-19,19.6333333333,Los Angeles Lakers,Houston Rockets,2,48-40,-10,layup,True,0,True,False
+2014-02-19,24.25,Los Angeles Lakers,Houston Rockets,3,64-45,-21,dunk,True,0,True,False
+2014-02-19,27.4666666667,Los Angeles Lakers,Houston Rockets,3,71-50,-23,layup,True,0,True,False
+2014-02-19,27.4666666667,Los Angeles Lakers,Houston Rockets,3,71-51,-21,free throw,True,15,True,False
+2014-02-25,12.5833333333,Los Angeles Lakers,Indiana Pacers,2,25-32,-9,layup,False,0,True,True
+2014-02-25,13.6166666667,Los Angeles Lakers,Indiana Pacers,2,27-33,-8,two point jumper,False,14,True,True
+2014-02-25,33.05,Los Angeles Lakers,Indiana Pacers,3,68-80,-14,layup,False,0,True,True
+2014-02-25,35.3333333333,Los Angeles Lakers,Indiana Pacers,3,70-86,-18,two point jumper,False,7,False,True
+2014-02-28,10.6,Los Angeles Lakers,Sacramento Kings,1,26-27,-1,two point jumper,True,15,False,True
+2014-02-28,11.0333333333,Los Angeles Lakers,Sacramento Kings,1,28-27,-3,two point jumper,True,15,False,True

@@ -5,6 +5,7 @@ import math
 from pylab import *
 import distanceTime
 import distancePointdiff
+import distanceSituation
 
 class Shot(object):
   # A shot has serveral fields: distance, time, type, made, point, point differential
@@ -76,7 +77,7 @@ def makeBuckets(xIntervalLength, yIntervalLength, xMax, yMax, xMin = 0, yMin = 0
   xMids = []
   yMids = []
 
-  xRange = int(xMax - xMin)
+  xRange = (xMax - xMin)
   numXIntervals = math.ceil(float(xRange) / xIntervalLength)
 
   yRange = int(yMax - yMin)
@@ -115,6 +116,8 @@ def main():
       else:
         player.addMissedShot(shot)
 
+  distanceSituation.plotDistanceBySituation(player)
+  distancePointdiff.plotDistanceByPointDiff(player)
   distanceTime.plotDistanceByTime(player)
 
 

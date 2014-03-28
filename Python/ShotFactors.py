@@ -17,9 +17,8 @@ def situationFactor(homeScore, awayScore):
   home = float(homeScore)
   away = float(awayScore)
   top = math.fabs(home - away) + 0.5
-  bottom = 0.5 * (home + away)
-
-  return (top / bottom)
+  bottom = 0.5 * (home + away) + 0.1
+  return math.log(bottom / top)
 
 
 # Factors for each shot are:
@@ -114,7 +113,7 @@ def createFactors(gameShots):
 def readPlayerFile(f):
   name = f.name.split('/')
   name = name[-1]
-  name = name.split('.')
+  name = name.split('.csv')
   name = name[0]
 
   player = plotShots.Player(name)
@@ -156,7 +155,7 @@ def readPlayerFile(f):
 def writePlayerFile(player, factors):
   headers = ['date', 'made', 'location', 'situation', 'fgPercentage', 'takenInterval', 'madeInterval', 'numShots', 'numMade', 'distance']
 
-  filename = 'Factors/' + player + ' Factors.csv'
+  filename = 'Factors2/' + player + ' Factors.csv'
   with open(filename, 'wb') as csvfile:
     writer = csv.writer(csvfile, delimiter = ',')
     writer.writerow(headers)

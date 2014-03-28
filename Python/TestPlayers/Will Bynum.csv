@@ -1,0 +1,358 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-03,18.35,Detroit Pistons,Boston Celtics,2,28-35,4,three point jumper,True,26,False,True
+2014-11-03,24.8166666667,Detroit Pistons,Boston Celtics,3,37-48,9,layup,True,0,False,True
+2014-11-03,25.95,Detroit Pistons,Boston Celtics,3,37-52,13,two point shot,True,17,True,True
+2014-11-03,29.4166666667,Detroit Pistons,Boston Celtics,3,48-58,8,two point jumper,True,19,True,True
+2014-11-03,30.2833333333,Detroit Pistons,Boston Celtics,3,48-58,7,three point jumper,True,26,False,True
+2014-12-18,37.0666666667,Detroit Pistons,Boston Celtics,4,82-81,-1,two point shot,False,1,True,True
+2014-01-07,12.5,Detroit Pistons,New York Knicks,2,23-26,-5,two point jumper,False,11,True,False
+2014-01-07,13.0833333333,Detroit Pistons,New York Knicks,2,23-26,-5,two point shot,False,8,False,False
+2014-01-07,16.0333333333,Detroit Pistons,New York Knicks,2,27-29,-4,two point jumper,False,18,False,False
+2014-01-07,16.7833333333,Detroit Pistons,New York Knicks,2,29-31,-4,layup,False,0,True,False
+2014-01-07,19.1,Detroit Pistons,New York Knicks,2,34-33,0,free throw,False,15,True,False
+2014-01-07,19.1,Detroit Pistons,New York Knicks,2,35-33,1,free throw,False,15,True,False
+2014-01-07,23.0,Detroit Pistons,New York Knicks,2,39-39,-2,two point jumper,False,3,False,False
+2014-01-07,33.2833333333,Detroit Pistons,New York Knicks,3,52-69,-19,layup,False,0,False,False
+2014-01-07,36.95,Detroit Pistons,New York Knicks,4,60-73,-15,two point shot,False,18,True,False
+2014-01-07,37.95,Detroit Pistons,New York Knicks,4,63-73,-12,layup,False,0,True,False
+2014-01-07,38.3666666667,Detroit Pistons,New York Knicks,4,63-75,-14,layup,False,0,False,False
+2014-01-07,39.5166666667,Detroit Pistons,New York Knicks,4,65-79,-16,two point jumper,False,4,False,False
+2014-01-10,8.26666666667,Detroit Pistons,Philadelphia 76ers,1,19-33,-15,free throw,False,15,True,True
+2014-01-10,8.26666666667,Detroit Pistons,Philadelphia 76ers,1,19-33,-15,free throw,False,15,True,True
+2014-01-10,9.95,Detroit Pistons,Philadelphia 76ers,1,23-36,-15,two point jumper,False,20,False,True
+2014-01-10,19.4166666667,Detroit Pistons,Philadelphia 76ers,2,44-54,-12,layup,False,0,True,True
+2014-01-10,24.0,Detroit Pistons,Philadelphia 76ers,2,55-63,-11,three point jumper,False,28,False,True
+2014-01-10,29.2,Detroit Pistons,Philadelphia 76ers,3,73-73,-3,three point jumper,False,25,True,True
+2014-01-10,29.85,Detroit Pistons,Philadelphia 76ers,3,73-73,-3,three point jumper,False,25,False,True
+2014-01-10,33.9,Detroit Pistons,Philadelphia 76ers,3,80-78,0,two point jumper,False,1,False,True
+2014-01-10,37.2,Detroit Pistons,Philadelphia 76ers,4,84-82,0,layup,False,0,False,True
+2014-01-10,37.75,Detroit Pistons,Philadelphia 76ers,4,88-82,4,two point jumper,False,17,True,True
+2014-01-10,39.25,Detroit Pistons,Philadelphia 76ers,4,90-86,2,two point shot,False,3,True,True
+2014-01-10,40.0,Detroit Pistons,Philadelphia 76ers,4,92-88,2,two point shot,False,15,True,True
+2014-01-10,42.0333333333,Detroit Pistons,Philadelphia 76ers,4,98-93,3,layup,False,0,True,True
+2014-01-10,46.8833333333,Detroit Pistons,Philadelphia 76ers,4,109-100,8,free throw,False,15,False,True
+2014-01-10,46.8833333333,Detroit Pistons,Philadelphia 76ers,4,110-100,9,free throw,False,15,True,True
+2014-02-01,10.25,Detroit Pistons,Philadelphia 76ers,1,19-30,10,free throw,True,15,True,False
+2014-02-01,10.25,Detroit Pistons,Philadelphia 76ers,1,19-30,10,free throw,True,15,False,False
+2014-02-01,11.2,Detroit Pistons,Philadelphia 76ers,1,22-32,8,two point shot,True,4,True,False
+2014-02-01,18.8166666667,Detroit Pistons,Philadelphia 76ers,2,35-47,10,two point jumper,True,4,False,False
+2014-02-01,40.95,Detroit Pistons,Philadelphia 76ers,4,78-106,27,free throw,True,15,True,False
+2014-02-01,40.95,Detroit Pistons,Philadelphia 76ers,4,78-106,27,free throw,True,15,False,False
+2014-02-01,42.45,Detroit Pistons,Philadelphia 76ers,4,82-107,22,three point jumper,True,26,False,False
+2014-02-01,46.1333333333,Detroit Pistons,Philadelphia 76ers,4,94-111,15,two point jumper,True,14,False,False
+2014-02-01,47.5,Detroit Pistons,Philadelphia 76ers,4,96-113,15,layup,True,0,True,False
+2014-01-08,14.8833333333,Detroit Pistons,Toronto Raptors,2,28-34,-8,two point jumper,False,21,False,True
+2014-01-08,37.8166666667,Detroit Pistons,Toronto Raptors,4,78-90,-14,two point shot,False,21,True,True
+2014-01-08,38.7,Detroit Pistons,Toronto Raptors,4,80-92,-14,two point jumper,False,20,True,True
+2014-01-08,39.2,Detroit Pistons,Toronto Raptors,4,80-93,-15,two point jumper,False,19,False,True
+2014-01-08,40.6333333333,Detroit Pistons,Toronto Raptors,4,82-94,-14,layup,False,0,False,True
+2014-11-12,12.5833333333,Detroit Pistons,Golden State Warriors,2,16-35,-20,free throw,False,15,False,True
+2014-11-12,12.5833333333,Detroit Pistons,Golden State Warriors,2,17-35,-19,free throw,False,15,True,True
+2014-11-12,13.0666666667,Detroit Pistons,Golden State Warriors,2,19-36,-19,layup,False,0,True,True
+2014-11-12,13.55,Detroit Pistons,Golden State Warriors,2,19-36,-19,two point shot,False,6,False,True
+2014-11-12,13.95,Detroit Pistons,Golden State Warriors,2,21-36,-17,two point jumper,False,14,False,True
+2014-11-12,34.4833333333,Detroit Pistons,Golden State Warriors,3,66-90,-26,layup,False,0,True,True
+2014-11-12,34.4833333333,Detroit Pistons,Golden State Warriors,3,67-90,-24,free throw,False,15,True,True
+2014-11-12,39.9,Detroit Pistons,Golden State Warriors,4,78-99,-22,free throw,False,15,False,True
+2014-11-12,39.9,Detroit Pistons,Golden State Warriors,4,78-99,-22,free throw,False,15,False,True
+2014-11-12,41.0,Detroit Pistons,Golden State Warriors,4,81-99,-19,free throw,False,15,True,True
+2014-11-12,41.0,Detroit Pistons,Golden State Warriors,4,81-99,-19,free throw,False,15,False,True
+2014-11-12,41.95,Detroit Pistons,Golden State Warriors,4,83-99,-18,layup,False,0,True,True
+2014-11-12,42.9833333333,Detroit Pistons,Golden State Warriors,4,85-99,-16,layup,False,0,True,True
+2014-11-12,42.9833333333,Detroit Pistons,Golden State Warriors,4,86-99,-14,free throw,False,15,True,True
+2014-11-12,43.35,Detroit Pistons,Golden State Warriors,4,86-101,-17,two point jumper,False,1,False,True
+2014-11-12,46.4833333333,Detroit Pistons,Golden State Warriors,4,90-109,-21,two point jumper,False,19,False,True
+2014-11-12,46.7666666667,Detroit Pistons,Golden State Warriors,4,91-109,-19,free throw,False,15,True,True
+2014-11-12,46.7666666667,Detroit Pistons,Golden State Warriors,4,92-109,-18,free throw,False,15,True,True
+2014-02-24,14.9333333333,Detroit Pistons,Golden State Warriors,2,41-39,-4,two point jumper,True,7,True,True
+2014-02-24,18.2,Detroit Pistons,Golden State Warriors,2,48-46,-4,two point jumper,True,5,True,True
+2014-02-24,18.9833333333,Detroit Pistons,Golden State Warriors,2,49-50,-1,two point jumper,True,1,True,True
+2014-02-24,19.7833333333,Detroit Pistons,Golden State Warriors,2,49-54,3,layup,True,0,True,True
+2014-02-24,20.8666666667,Detroit Pistons,Golden State Warriors,2,53-54,-2,three point jumper,True,26,False,True
+2014-02-24,36.7166666667,Detroit Pistons,Golden State Warriors,4,83-84,-1,layup,True,0,False,True
+2014-02-24,38.7666666667,Detroit Pistons,Golden State Warriors,4,87-88,-1,two point jumper,True,16,False,True
+2014-02-24,39.95,Detroit Pistons,Golden State Warriors,4,89-88,-3,two point jumper,True,20,False,True
+2014-02-24,40.85,Detroit Pistons,Golden State Warriors,4,89-88,-3,tip shot,True,0,False,True
+2014-02-24,41.1,Detroit Pistons,Golden State Warriors,4,89-88,-3,layup,True,0,False,True
+2014-02-24,44.75,Detroit Pistons,Golden State Warriors,4,95-94,-3,two point jumper,True,15,False,True
+2014-01-20,11.0666666667,Detroit Pistons,Los Angeles Clippers,1,22-24,0,two point jumper,True,8,True,False
+2014-01-20,14.45,Detroit Pistons,Los Angeles Clippers,2,34-33,-3,two point shot,True,18,True,False
+2014-01-20,15.8833333333,Detroit Pistons,Los Angeles Clippers,2,40-33,-10,three point jumper,True,27,False,False
+2014-01-20,34.35,Detroit Pistons,Los Angeles Clippers,3,90-75,-17,two point shot,True,1,True,False
+2014-01-20,37.6833333333,Detroit Pistons,Los Angeles Clippers,4,98-80,-20,layup,True,0,True,False
+2014-01-20,38.25,Detroit Pistons,Los Angeles Clippers,4,98-82,-18,layup,True,0,True,False
+2014-01-20,38.25,Detroit Pistons,Los Angeles Clippers,4,98-83,-16,free throw,True,15,True,False
+2014-01-11,14.3833333333,Detroit Pistons,Phoenix Suns,2,25-37,10,two point jumper,True,17,False,True
+2014-01-11,14.5666666667,Detroit Pistons,Phoenix Suns,2,25-37,10,two point jumper,True,19,False,True
+2014-01-11,23.55,Detroit Pistons,Phoenix Suns,2,48-62,12,layup,True,0,True,True
+2014-01-11,33.9166666667,Detroit Pistons,Phoenix Suns,3,75-84,7,layup,True,0,True,True
+2014-01-11,34.9666666667,Detroit Pistons,Phoenix Suns,3,77-86,7,two point shot,True,20,True,True
+2014-01-11,35.2333333333,Detroit Pistons,Phoenix Suns,3,77-86,7,two point jumper,True,18,False,True
+2014-01-11,35.45,Detroit Pistons,Phoenix Suns,3,77-88,9,layup,True,0,True,True
+2014-01-11,39.1166666667,Detroit Pistons,Phoenix Suns,4,86-91,3,two point shot,True,16,True,True
+2014-01-11,41.7,Detroit Pistons,Phoenix Suns,4,92-92,-2,two point jumper,True,19,False,True
+2014-01-11,43.1666666667,Detroit Pistons,Phoenix Suns,4,92-98,5,free throw,True,15,True,True
+2014-01-11,43.1666666667,Detroit Pistons,Phoenix Suns,4,92-99,6,free throw,True,15,True,True
+2014-01-11,44.6,Detroit Pistons,Phoenix Suns,4,95-102,6,free throw,True,15,True,True
+2014-01-11,44.6,Detroit Pistons,Phoenix Suns,4,95-103,7,free throw,True,15,True,True
+2014-01-11,45.2333333333,Detroit Pistons,Phoenix Suns,4,97-105,6,two point shot,True,18,True,True
+2014-11-15,13.9,Detroit Pistons,Sacramento Kings,2,31-28,1,layup,False,0,False,True
+2014-11-15,22.5833333333,Detroit Pistons,Sacramento Kings,2,50-48,0,two point jumper,False,18,False,True
+2014-11-27,11.9833333333,Detroit Pistons,Chicago Bulls,1,25-29,2,layup,True,0,False,False
+2014-11-27,15.4666666667,Detroit Pistons,Chicago Bulls,2,31-31,-2,two point jumper,True,18,False,False
+2014-11-27,34.7833333333,Detroit Pistons,Chicago Bulls,3,71-68,-5,two point jumper,True,12,True,False
+2014-11-27,35.6666666667,Detroit Pistons,Chicago Bulls,3,74-68,-8,two point jumper,True,17,False,False
+2014-11-27,40.7333333333,Detroit Pistons,Chicago Bulls,4,82-75,-9,two point jumper,True,7,False,False
+2014-11-27,46.65,Detroit Pistons,Chicago Bulls,4,99-75,-26,two point jumper,True,5,False,False
+2014-02-12,13.3666666667,Detroit Pistons,Cleveland Cavaliers,2,24-28,1,three point jumper,True,26,False,False
+2014-02-12,14.8166666667,Detroit Pistons,Cleveland Cavaliers,2,25-32,5,two point jumper,True,9,False,False
+2014-02-12,22.1833333333,Detroit Pistons,Cleveland Cavaliers,2,38-47,7,two point shot,True,9,True,False
+2014-02-12,36.8833333333,Detroit Pistons,Cleveland Cavaliers,4,61-66,3,two point jumper,True,19,False,False
+2014-02-12,37.8666666667,Detroit Pistons,Cleveland Cavaliers,4,64-70,3,three point jumper,True,26,False,False
+2014-02-12,38.8166666667,Detroit Pistons,Cleveland Cavaliers,4,66-72,4,layup,True,0,True,False
+2014-02-12,39.15,Detroit Pistons,Cleveland Cavaliers,4,66-74,6,two point shot,True,20,True,False
+2014-02-12,39.6833333333,Detroit Pistons,Cleveland Cavaliers,4,66-75,8,free throw,True,15,True,False
+2014-02-12,39.6833333333,Detroit Pistons,Cleveland Cavaliers,4,66-76,9,free throw,True,15,True,False
+2014-02-12,40.95,Detroit Pistons,Cleveland Cavaliers,4,70-76,4,two point jumper,True,6,False,False
+2014-02-12,47.9166666667,Detroit Pistons,Cleveland Cavaliers,4,91-87,-6,layup,True,0,True,False
+2014-02-12,47.9833333333,Detroit Pistons,Cleveland Cavaliers,4,93-89,-6,layup,True,0,True,False
+2014-10-30,1.65,Detroit Pistons,Washington Wizards,1,5-3,-5,three point jumper,True,25,True,True
+2014-10-30,2.43333333333,Detroit Pistons,Washington Wizards,1,7-3,-6,two point shot,True,17,False,True
+2014-10-30,3.5,Detroit Pistons,Washington Wizards,1,7-6,-4,three point jumper,True,27,False,True
+2014-10-30,3.86666666667,Detroit Pistons,Washington Wizards,1,7-8,-1,layup,True,0,True,True
+2014-10-30,13.0,Detroit Pistons,Washington Wizards,2,22-27,3,layup,True,0,True,True
+2014-10-30,14.8166666667,Detroit Pistons,Washington Wizards,2,25-30,4,free throw,True,15,False,True
+2014-10-30,17.6333333333,Detroit Pistons,Washington Wizards,2,31-41,8,two point jumper,True,18,True,True
+2014-10-30,26.9333333333,Detroit Pistons,Washington Wizards,3,51-61,8,layup,True,0,True,True
+2014-10-30,28.35,Detroit Pistons,Washington Wizards,3,53-63,8,two point jumper,True,18,False,True
+2014-10-30,30.5333333333,Detroit Pistons,Washington Wizards,3,57-65,6,two point jumper,True,21,False,True
+2014-10-30,32.6833333333,Detroit Pistons,Washington Wizards,3,64-74,8,layup,True,0,True,True
+2014-10-30,36.0,Detroit Pistons,Washington Wizards,3,73-81,6,layup,True,0,False,True
+2014-10-30,40.9833333333,Detroit Pistons,Washington Wizards,4,86-94,6,layup,True,0,True,True
+2014-10-30,40.9833333333,Detroit Pistons,Washington Wizards,4,86-94,7,free throw,True,15,False,True
+2014-10-30,44.5166666667,Detroit Pistons,Washington Wizards,4,93-104,10,free throw,True,15,True,True
+2014-10-30,44.5166666667,Detroit Pistons,Washington Wizards,4,93-105,11,free throw,True,15,True,True
+2014-10-30,45.5333333333,Detroit Pistons,Washington Wizards,4,98-105,5,two point jumper,True,17,False,True
+2014-10-30,47.3666666667,Detroit Pistons,Washington Wizards,4,101-108,6,free throw,True,15,True,True
+2014-10-30,47.3666666667,Detroit Pistons,Washington Wizards,4,101-109,7,free throw,True,15,True,True
+2014-11-01,4.38333333333,Detroit Pistons,Memphis Grizzlies,1,6-4,0,two point jumper,False,23,False,False
+2014-11-01,5.41666666667,Detroit Pistons,Memphis Grizzlies,1,8-8,-2,two point shot,False,18,True,False
+2014-11-01,7.03333333333,Detroit Pistons,Memphis Grizzlies,1,8-12,-6,two point shot,False,9,False,False
+2014-11-01,14.3666666667,Detroit Pistons,Memphis Grizzlies,2,23-21,1,free throw,False,15,False,False
+2014-11-01,14.3666666667,Detroit Pistons,Memphis Grizzlies,2,24-21,2,free throw,False,15,True,False
+2014-11-01,16.0333333333,Detroit Pistons,Memphis Grizzlies,2,26-27,-3,two point jumper,False,19,False,False
+2014-11-01,19.6,Detroit Pistons,Memphis Grizzlies,2,32-36,-6,two point shot,False,1,True,False
+2014-11-01,23.5833333333,Detroit Pistons,Memphis Grizzlies,2,41-45,-6,layup,False,0,True,False
+2014-11-01,41.75,Detroit Pistons,Memphis Grizzlies,4,81-77,2,layup,False,0,True,False
+2014-11-01,44.5666666667,Detroit Pistons,Memphis Grizzlies,4,87-82,3,two point jumper,False,18,False,False
+2014-11-01,50.0,Detroit Pistons,Memphis Grizzlies,5,97-99,-4,two point shot,False,1,True,False
+2014-11-01,52.2833333333,Detroit Pistons,Memphis Grizzlies,5,100-106,-7,free throw,False,15,True,False
+2014-11-01,52.2833333333,Detroit Pistons,Memphis Grizzlies,5,100-106,-7,free throw,False,15,False,False
+2014-11-01,52.7666666667,Detroit Pistons,Memphis Grizzlies,5,102-108,-8,layup,False,0,True,False
+2014-11-01,52.7666666667,Detroit Pistons,Memphis Grizzlies,5,103-108,-6,free throw,False,15,True,False
+2014-11-01,53.0,Detroit Pistons,Memphis Grizzlies,5,108-111,-6,three point jumper,False,33,True,False
+2014-11-05,10.9666666667,Detroit Pistons,Indiana Pacers,1,27-14,-15,two point jumper,True,14,False,False
+2014-11-05,12.1333333333,Detroit Pistons,Indiana Pacers,2,29-16,-15,layup,True,0,True,False
+2014-11-05,17.95,Detroit Pistons,Indiana Pacers,2,35-27,-11,three point jumper,True,25,True,False
+2014-11-05,36.2,Detroit Pistons,Indiana Pacers,4,74-63,-13,two point jumper,True,4,False,False
+2014-11-05,37.3,Detroit Pistons,Indiana Pacers,4,74-67,-10,three point jumper,True,27,False,False
+2014-11-05,39.7,Detroit Pistons,Indiana Pacers,4,78-72,-8,two point jumper,True,13,False,False
+2014-11-08,12.8333333333,Detroit Pistons,Oklahoma City Thunder,2,23-22,-3,two point shot,True,6,False,False
+2014-11-08,15.8,Detroit Pistons,Oklahoma City Thunder,2,31-32,-1,layup,True,0,True,False
+2014-11-08,16.3833333333,Detroit Pistons,Oklahoma City Thunder,2,33-32,-3,layup,True,0,False,False
+2014-11-08,35.7333333333,Detroit Pistons,Oklahoma City Thunder,3,81-76,-7,two point jumper,True,6,False,False
+2014-11-08,36.6166666667,Detroit Pistons,Oklahoma City Thunder,4,86-77,-10,free throw,True,15,True,False
+2014-11-08,36.6166666667,Detroit Pistons,Oklahoma City Thunder,4,86-78,-9,free throw,True,15,True,False
+2014-11-08,38.1833333333,Detroit Pistons,Oklahoma City Thunder,4,88-81,-8,free throw,True,15,True,False
+2014-11-08,38.1833333333,Detroit Pistons,Oklahoma City Thunder,4,88-82,-7,free throw,True,15,True,False
+2014-11-08,38.45,Detroit Pistons,Oklahoma City Thunder,4,88-84,-6,two point jumper,True,17,True,False
+2014-11-08,39.0833333333,Detroit Pistons,Oklahoma City Thunder,4,90-84,-8,two point jumper,True,1,False,False
+2014-11-11,13.5,Detroit Pistons,Portland Trail Blazers,2,30-36,-8,two point jumper,False,21,False,False
+2014-11-11,14.2666666667,Detroit Pistons,Portland Trail Blazers,2,31-38,-8,free throw,False,15,True,False
+2014-11-11,14.2666666667,Detroit Pistons,Portland Trail Blazers,2,32-38,-7,free throw,False,15,True,False
+2014-11-11,14.8,Detroit Pistons,Portland Trail Blazers,2,34-38,-6,layup,False,0,True,False
+2014-11-11,16.5333333333,Detroit Pistons,Portland Trail Blazers,2,38-42,-6,two point shot,False,1,False,False
+2014-11-11,33.6833333333,Detroit Pistons,Portland Trail Blazers,3,71-79,-10,two point jumper,False,10,False,False
+2014-11-11,34.35,Detroit Pistons,Portland Trail Blazers,3,75-79,-6,two point shot,False,5,True,False
+2014-11-11,36.75,Detroit Pistons,Portland Trail Blazers,4,80-83,-5,two point jumper,False,17,False,False
+2014-11-11,39.0,Detroit Pistons,Portland Trail Blazers,4,84-91,-9,layup,False,0,True,False
+2014-11-25,17.4166666667,Detroit Pistons,Milwaukee Bucks,2,28-51,21,layup,True,0,False,False
+2014-11-25,28.7833333333,Detroit Pistons,Milwaukee Bucks,3,44-76,31,free throw,True,15,False,False
+2014-11-25,28.7833333333,Detroit Pistons,Milwaukee Bucks,3,44-77,32,free throw,True,15,True,False
+2014-11-25,30.1333333333,Detroit Pistons,Milwaukee Bucks,3,50-81,30,free throw,True,15,True,False
+2014-11-25,30.1333333333,Detroit Pistons,Milwaukee Bucks,3,50-82,31,free throw,True,15,True,False
+2014-11-25,30.7833333333,Detroit Pistons,Milwaukee Bucks,3,52-84,30,two point shot,True,18,True,False
+2014-11-25,31.2,Detroit Pistons,Milwaukee Bucks,3,54-84,27,three point jumper,True,24,False,False
+2014-11-25,31.95,Detroit Pistons,Milwaukee Bucks,3,54-84,27,three point jumper,True,27,False,False
+2014-12-16,12.5166666667,Detroit Pistons,Indiana Pacers,2,33-31,0,two point shot,False,7,True,False
+2014-12-16,15.95,Detroit Pistons,Indiana Pacers,2,42-36,4,layup,False,0,True,False
+2014-12-16,16.45,Detroit Pistons,Indiana Pacers,2,42-36,4,two point jumper,False,19,False,False
+2014-12-16,33.9166666667,Detroit Pistons,Indiana Pacers,3,74-69,3,two point jumper,False,11,False,False
+2014-12-16,34.35,Detroit Pistons,Indiana Pacers,3,76-69,6,free throw,False,15,False,False
+2014-12-16,34.35,Detroit Pistons,Indiana Pacers,3,77-69,7,free throw,False,15,True,False
+2014-12-16,37.6333333333,Detroit Pistons,Indiana Pacers,4,82-73,7,two point shot,False,20,True,False
+2014-12-20,13.8166666667,Detroit Pistons,Charlotte Bobcats,2,24-37,11,two point jumper,True,14,False,False
+2014-12-20,17.6666666667,Detroit Pistons,Charlotte Bobcats,2,30-50,18,two point shot,True,6,True,False
+2014-12-20,34.3833333333,Detroit Pistons,Charlotte Bobcats,3,69-87,15,three point jumper,True,25,True,False
+2014-12-21,11.3666666667,Detroit Pistons,Houston Rockets,1,31-24,-9,two point shot,True,10,True,True
+2014-12-21,12.25,Detroit Pistons,Houston Rockets,2,33-26,-9,two point jumper,True,13,True,True
+2014-12-21,12.8333333333,Detroit Pistons,Houston Rockets,2,35-26,-11,two point jumper,True,1,False,True
+2014-12-21,13.2,Detroit Pistons,Houston Rockets,2,35-27,-10,two point jumper,True,17,False,True
+2014-12-21,17.75,Detroit Pistons,Houston Rockets,2,52-35,-19,two point shot,True,1,False,True
+2014-12-21,19.1,Detroit Pistons,Houston Rockets,2,52-42,-12,layup,True,0,True,True
+2014-12-21,22.35,Detroit Pistons,Houston Rockets,2,59-49,-12,layup,True,0,False,True
+2014-12-21,23.5333333333,Detroit Pistons,Houston Rockets,2,61-52,-11,layup,True,0,True,True
+2014-12-21,23.5333333333,Detroit Pistons,Houston Rockets,2,61-53,-9,free throw,True,15,True,True
+2014-12-21,34.3666666667,Detroit Pistons,Houston Rockets,3,81-69,-14,layup,True,0,True,True
+2014-12-21,38.6333333333,Detroit Pistons,Houston Rockets,4,92-82,-12,layup,True,0,False,True
+2014-12-21,40.7,Detroit Pistons,Houston Rockets,4,97-84,-16,three point jumper,True,24,False,True
+2014-12-21,47.0333333333,Detroit Pistons,Houston Rockets,4,111-95,-18,layup,True,0,False,True
+2014-12-27,11.1166666667,Detroit Pistons,Orlando Magic,1,21-24,-6,three point jumper,False,25,False,True
+2014-12-27,15.1333333333,Detroit Pistons,Orlando Magic,2,29-30,-3,two point jumper,False,19,True,True
+2014-12-27,15.5166666667,Detroit Pistons,Orlando Magic,2,31-32,-3,layup,False,0,True,True
+2014-12-27,19.6666666667,Detroit Pistons,Orlando Magic,2,37-47,-12,two point jumper,False,9,False,True
+2014-12-27,34.25,Detroit Pistons,Orlando Magic,3,62-83,-23,two point shot,False,1,False,True
+2014-12-27,36.55,Detroit Pistons,Orlando Magic,4,69-85,-19,three point jumper,False,25,True,True
+2014-12-27,36.9,Detroit Pistons,Orlando Magic,4,71-87,-18,layup,False,0,True,True
+2014-12-27,37.8833333333,Detroit Pistons,Orlando Magic,4,71-91,-22,layup,False,0,False,True
+2014-12-27,42.7,Detroit Pistons,Orlando Magic,4,80-99,-21,two point jumper,False,19,True,True
+2014-12-27,43.3166666667,Detroit Pistons,Orlando Magic,4,82-99,-19,layup,False,0,True,True
+2014-12-27,43.3166666667,Detroit Pistons,Orlando Magic,4,83-99,-17,free throw,False,15,True,True
+2014-12-27,43.5666666667,Detroit Pistons,Orlando Magic,4,83-99,-19,three point jumper,False,25,False,True
+2014-12-27,45.85,Detroit Pistons,Orlando Magic,4,88-105,-19,two point jumper,False,19,True,True
+2014-12-27,46.5333333333,Detroit Pistons,Orlando Magic,4,90-107,-19,two point jumper,False,9,True,True
+2014-12-28,15.05,Detroit Pistons,Washington Wizards,2,28-38,-12,two point jumper,False,4,False,True
+2014-12-28,15.2,Detroit Pistons,Washington Wizards,2,31-38,-10,three point jumper,False,26,True,True
+2014-12-28,16.1666666667,Detroit Pistons,Washington Wizards,2,33-40,-9,layup,False,0,True,True
+2014-12-28,17.6,Detroit Pistons,Washington Wizards,2,37-42,-7,two point shot,False,8,True,True
+2014-12-28,18.4833333333,Detroit Pistons,Washington Wizards,2,37-46,-11,two point jumper,False,15,False,True
+2014-12-28,31.7,Detroit Pistons,Washington Wizards,3,57-80,-25,two point jumper,False,18,False,True
+2014-12-28,34.1,Detroit Pistons,Washington Wizards,3,57-85,-31,three point jumper,False,26,False,True
+2014-12-28,44.6,Detroit Pistons,Washington Wizards,4,77-102,-26,free throw,False,15,True,True
+2014-12-28,44.6,Detroit Pistons,Washington Wizards,4,78-102,-25,free throw,False,15,True,True
+2014-12-28,44.6,Detroit Pistons,Washington Wizards,4,79-102,-24,free throw,False,15,True,True
+2014-12-28,45.1833333333,Detroit Pistons,Washington Wizards,4,79-102,-25,two point jumper,False,18,False,True
+2014-12-30,33.6166666667,Detroit Pistons,Washington Wizards,3,73-82,8,free throw,True,15,True,True
+2014-12-30,33.6166666667,Detroit Pistons,Washington Wizards,3,73-83,9,free throw,True,15,True,True
+2014-01-05,14.95,Detroit Pistons,Memphis Grizzlies,2,36-32,-7,three point jumper,True,26,True,True
+2014-01-05,17.4166666667,Detroit Pistons,Memphis Grizzlies,2,43-39,-6,layup,True,0,False,True
+2014-01-05,17.45,Detroit Pistons,Memphis Grizzlies,2,43-41,-4,layup,True,0,True,True
+2014-01-05,18.8833333333,Detroit Pistons,Memphis Grizzlies,2,45-42,-5,two point jumper,True,18,False,True
+2014-01-05,21.6833333333,Detroit Pistons,Memphis Grizzlies,2,47-48,-2,three point jumper,True,26,False,True
+2014-01-05,34.7333333333,Detroit Pistons,Memphis Grizzlies,3,75-67,-10,two point jumper,True,6,False,True
+2014-01-05,36.0,Detroit Pistons,Memphis Grizzlies,3,79-67,-15,three point jumper,True,52,False,True
+2014-01-05,36.3,Detroit Pistons,Memphis Grizzlies,4,79-69,-12,two point shot,True,7,True,True
+2014-01-05,40.6333333333,Detroit Pistons,Memphis Grizzlies,4,90-72,-21,three point jumper,True,26,False,True
+2014-01-05,45.35,Detroit Pistons,Memphis Grizzlies,4,101-84,-19,layup,True,0,False,True
+2014-01-05,46.9166666667,Detroit Pistons,Memphis Grizzlies,4,107-84,-25,layup,True,0,False,True
+2014-01-17,14.75,Detroit Pistons,Utah Jazz,2,28-31,1,layup,True,0,True,True
+2014-01-17,15.75,Detroit Pistons,Utah Jazz,2,33-31,-4,two point jumper,True,6,False,True
+2014-01-17,30.6,Detroit Pistons,Utah Jazz,3,71-54,-19,layup,True,0,True,True
+2014-01-17,45.5833333333,Detroit Pistons,Utah Jazz,4,108-83,-27,two point jumper,True,19,False,True
+2014-01-18,11.15,Detroit Pistons,Washington Wizards,1,18-26,-10,two point jumper,False,6,True,False
+2014-01-18,13.8666666667,Detroit Pistons,Washington Wizards,2,25-32,-9,layup,False,0,True,False
+2014-01-18,14.3166666667,Detroit Pistons,Washington Wizards,2,25-32,-9,two point jumper,False,14,False,False
+2014-01-18,21.4,Detroit Pistons,Washington Wizards,2,43-45,-4,two point jumper,False,3,False,False
+2014-01-18,23.9833333333,Detroit Pistons,Washington Wizards,2,44-54,-12,layup,False,0,False,False
+2014-01-18,36.2,Detroit Pistons,Washington Wizards,4,79-76,1,two point jumper,False,6,False,False
+2014-01-18,37.75,Detroit Pistons,Washington Wizards,4,83-78,3,layup,False,0,True,False
+2014-01-18,37.75,Detroit Pistons,Washington Wizards,4,84-78,5,free throw,False,15,True,False
+2014-01-22,39.2166666667,Detroit Pistons,Milwaukee Bucks,4,89-89,-2,two point jumper,False,1,False,False
+2014-01-22,39.7666666667,Detroit Pistons,Milwaukee Bucks,4,91-89,0,layup,False,0,True,False
+2014-01-24,14.8166666667,Detroit Pistons,New Orleans Pelicans,2,31-35,1,three point jumper,True,26,True,False
+2014-01-24,37.45,Detroit Pistons,New Orleans Pelicans,4,73-81,7,free throw,True,15,True,False
+2014-01-24,37.45,Detroit Pistons,New Orleans Pelicans,4,73-82,8,free throw,True,15,True,False
+2014-01-24,38.5,Detroit Pistons,New Orleans Pelicans,4,75-85,8,two point jumper,True,13,False,False
+2014-01-28,10.3666666667,Detroit Pistons,Orlando Magic,1,17-18,-1,layup,True,0,False,False
+2014-01-28,14.25,Detroit Pistons,Orlando Magic,2,24-25,-1,two point jumper,True,17,True,False
+2014-01-28,14.8666666667,Detroit Pistons,Orlando Magic,2,27-28,-2,three point jumper,True,25,True,False
+2014-01-28,16.0333333333,Detroit Pistons,Orlando Magic,2,30-32,0,two point jumper,True,21,True,False
+2014-01-28,16.8166666667,Detroit Pistons,Orlando Magic,2,30-32,-1,three point jumper,True,26,False,False
+2014-01-28,21.4833333333,Detroit Pistons,Orlando Magic,2,38-44,3,three point jumper,True,26,False,False
+2014-01-28,37.1166666667,Detroit Pistons,Orlando Magic,4,63-78,13,layup,True,0,False,False
+2014-02-03,15.05,Detroit Pistons,Miami Heat,2,38-39,-2,free throw,False,15,True,True
+2014-02-03,15.05,Detroit Pistons,Miami Heat,2,39-39,-1,free throw,False,15,True,True
+2014-02-03,19.4166666667,Detroit Pistons,Miami Heat,2,47-47,-3,three point jumper,False,24,True,True
+2014-02-03,22.9,Detroit Pistons,Miami Heat,2,50-59,-12,three point jumper,False,25,False,True
+2014-02-05,12.3833333333,Detroit Pistons,Orlando Magic,2,26-26,-2,two point jumper,False,23,False,True
+2014-02-05,13.8833333333,Detroit Pistons,Orlando Magic,2,28-26,0,two point jumper,False,18,False,True
+2014-02-10,16.3166666667,Detroit Pistons,San Antonio Spurs,2,33-35,0,layup,True,0,True,True
+2014-02-10,17.3166666667,Detroit Pistons,San Antonio Spurs,2,35-37,0,layup,True,0,False,True
+2014-02-10,35.25,Detroit Pistons,San Antonio Spurs,3,67-88,19,two point shot,True,7,True,True
+2014-02-10,35.4666666667,Detroit Pistons,San Antonio Spurs,3,69-90,19,two point shot,True,5,True,True
+2014-02-10,36.6833333333,Detroit Pistons,San Antonio Spurs,4,74-94,18,layup,True,0,True,True
+2014-02-10,38.3833333333,Detroit Pistons,San Antonio Spurs,4,77-96,17,two point jumper,True,7,False,True
+2014-02-10,39.7,Detroit Pistons,San Antonio Spurs,4,81-98,15,two point jumper,True,20,False,True
+2014-02-10,40.45,Detroit Pistons,San Antonio Spurs,4,83-98,13,two point jumper,True,4,False,True
+2014-02-18,12.8833333333,Detroit Pistons,Charlotte Bobcats,2,32-23,-11,two point jumper,True,7,False,True
+2014-02-18,13.1333333333,Detroit Pistons,Charlotte Bobcats,2,32-23,-12,three point jumper,True,24,False,True
+2014-02-18,15.45,Detroit Pistons,Charlotte Bobcats,2,38-27,-13,two point jumper,True,8,True,True
+2014-02-18,34.35,Detroit Pistons,Charlotte Bobcats,3,77-62,-17,two point shot,True,7,True,True
+2014-02-18,37.8333333333,Detroit Pistons,Charlotte Bobcats,4,82-73,-11,two point jumper,True,19,True,True
+2014-02-18,38.3833333333,Detroit Pistons,Charlotte Bobcats,4,84-73,-13,two point jumper,True,1,False,True
+2014-02-18,39.5666666667,Detroit Pistons,Charlotte Bobcats,4,86-75,-13,two point jumper,True,18,False,True
+2014-02-18,40.7,Detroit Pistons,Charlotte Bobcats,4,88-77,-12,free throw,True,15,False,True
+2014-02-18,40.7,Detroit Pistons,Charlotte Bobcats,4,88-78,-11,free throw,True,15,True,True
+2014-02-18,46.9833333333,Detroit Pistons,Charlotte Bobcats,4,104-92,-15,three point jumper,True,27,False,True
+2014-02-18,47.9833333333,Detroit Pistons,Charlotte Bobcats,4,108-96,-14,layup,True,0,True,True
+2014-02-19,16.4833333333,Detroit Pistons,Charlotte Bobcats,2,31-38,-9,two point jumper,False,1,True,True
+2014-02-19,16.4833333333,Detroit Pistons,Charlotte Bobcats,2,31-38,-8,free throw,False,15,False,True
+2014-02-19,17.8833333333,Detroit Pistons,Charlotte Bobcats,2,37-39,-3,free throw,False,15,True,True
+2014-02-19,17.8833333333,Detroit Pistons,Charlotte Bobcats,2,38-39,-2,free throw,False,15,True,True
+2014-02-19,35.8666666667,Detroit Pistons,Charlotte Bobcats,3,72-86,-15,free throw,False,15,True,True
+2014-02-19,35.8666666667,Detroit Pistons,Charlotte Bobcats,3,72-86,-15,free throw,False,15,False,True
+2014-02-19,37.2166666667,Detroit Pistons,Charlotte Bobcats,4,77-86,-12,three point jumper,False,27,True,True
+2014-02-19,41.3166666667,Detroit Pistons,Charlotte Bobcats,4,86-98,-14,layup,False,0,True,True
+2014-02-19,42.75,Detroit Pistons,Charlotte Bobcats,4,88-103,-17,layup,False,0,True,True
+2014-02-19,44.7333333333,Detroit Pistons,Charlotte Bobcats,4,88-107,-21,two point jumper,False,11,False,True
+2014-02-19,46.9666666667,Detroit Pistons,Charlotte Bobcats,4,98-116,-20,layup,False,0,True,True
+2014-02-21,14.8166666667,Detroit Pistons,Atlanta Hawks,2,30-25,-8,three point jumper,True,27,False,True
+2014-02-21,16.45,Detroit Pistons,Atlanta Hawks,2,36-31,-7,layup,True,0,True,True
+2014-02-21,20.2166666667,Detroit Pistons,Atlanta Hawks,2,50-42,-10,layup,True,0,True,True
+2014-02-21,40.1333333333,Detroit Pistons,Atlanta Hawks,4,93-96,1,two point jumper,True,1,False,True
+2014-02-21,43.2166666667,Detroit Pistons,Atlanta Hawks,4,98-102,2,two point shot,True,15,True,True
+2014-02-21,44.5166666667,Detroit Pistons,Atlanta Hawks,4,100-102,0,layup,True,0,False,True
+2014-02-21,46.9,Detroit Pistons,Atlanta Hawks,4,104-109,3,layup,True,0,True,True
+2014-02-21,46.9,Detroit Pistons,Atlanta Hawks,4,104-110,5,free throw,True,15,True,True
+2014-02-22,13.45,Detroit Pistons,Dallas Mavericks,2,36-29,-9,two point shot,True,1,False,False
+2014-02-22,14.3833333333,Detroit Pistons,Dallas Mavericks,2,36-34,-4,layup,True,0,True,False
+2014-02-22,15.8666666667,Detroit Pistons,Dallas Mavericks,2,43-41,-4,layup,True,0,True,False
+2014-02-22,18.8166666667,Detroit Pistons,Dallas Mavericks,2,52-44,-10,two point jumper,True,19,False,False
+2014-02-22,19.25,Detroit Pistons,Dallas Mavericks,2,52-44,-10,two point shot,True,1,False,False
+2014-02-22,23.3833333333,Detroit Pistons,Dallas Mavericks,2,62-54,-10,layup,True,0,True,False
+2014-02-22,31.7333333333,Detroit Pistons,Dallas Mavericks,3,79-72,-8,free throw,True,15,True,False
+2014-02-22,31.7333333333,Detroit Pistons,Dallas Mavericks,3,79-73,-7,free throw,True,15,True,False
+2014-02-22,33.8166666667,Detroit Pistons,Dallas Mavericks,3,83-77,-8,two point jumper,True,18,True,False
+2014-02-22,35.7,Detroit Pistons,Dallas Mavericks,3,86-82,-6,two point shot,True,1,True,False
+2014-02-22,37.0666666667,Detroit Pistons,Dallas Mavericks,4,90-84,-8,two point jumper,True,18,True,False
+2014-02-22,39.7666666667,Detroit Pistons,Dallas Mavericks,4,96-89,-9,two point jumper,True,20,False,False
+2014-02-22,40.2833333333,Detroit Pistons,Dallas Mavericks,4,98-92,-7,free throw,True,15,True,False
+2014-02-22,40.2833333333,Detroit Pistons,Dallas Mavericks,4,98-92,-7,free throw,True,15,False,False
+2014-02-22,41.1666666667,Detroit Pistons,Dallas Mavericks,4,101-92,-11,two point shot,True,1,False,False
+2014-02-22,47.05,Detroit Pistons,Dallas Mavericks,4,111-102,-11,layup,True,0,True,False
+2014-02-26,10.1666666667,Detroit Pistons,San Antonio Spurs,1,20-25,-7,two point jumper,False,20,False,False
+2014-02-26,14.3333333333,Detroit Pistons,San Antonio Spurs,2,36-35,-1,two point jumper,False,1,False,False
+2014-02-26,16.0,Detroit Pistons,San Antonio Spurs,2,43-40,1,two point jumper,False,20,True,False
+2014-02-26,16.5333333333,Detroit Pistons,San Antonio Spurs,2,43-42,-1,two point jumper,False,18,False,False
+2014-02-26,24.3166666667,Detroit Pistons,San Antonio Spurs,3,55-57,-4,two point jumper,False,5,True,False
+2014-02-26,24.7666666667,Detroit Pistons,San Antonio Spurs,3,57-57,-2,two point shot,False,6,True,False
+2014-02-26,25.2,Detroit Pistons,San Antonio Spurs,3,59-57,0,two point shot,False,1,True,False
+2014-02-26,27.1166666667,Detroit Pistons,San Antonio Spurs,3,61-61,-2,two point jumper,False,22,False,False
+2014-02-26,27.8333333333,Detroit Pistons,San Antonio Spurs,3,65-63,0,layup,False,0,True,False
+2014-02-26,31.5333333333,Detroit Pistons,San Antonio Spurs,3,71-75,-6,two point jumper,False,8,False,False
+2014-02-26,36.5833333333,Detroit Pistons,San Antonio Spurs,4,81-90,-11,two point jumper,False,16,False,False
+2014-02-26,37.0666666667,Detroit Pistons,San Antonio Spurs,4,81-92,-13,two point jumper,False,7,False,False
+2014-02-26,40.0,Detroit Pistons,San Antonio Spurs,4,89-98,-11,two point jumper,False,3,True,False
+2014-02-26,40.5,Detroit Pistons,San Antonio Spurs,4,91-98,-9,two point jumper,False,18,True,False
+2014-02-26,41.7333333333,Detroit Pistons,San Antonio Spurs,4,95-102,-9,layup,False,0,True,False
+2014-02-26,42.2333333333,Detroit Pistons,San Antonio Spurs,4,97-104,-9,two point shot,False,17,True,False
+2014-02-26,42.8166666667,Detroit Pistons,San Antonio Spurs,4,97-104,-9,two point jumper,False,7,False,False
+2014-03-01,10.0,Detroit Pistons,Houston Rockets,1,18-36,-20,layup,False,0,False,False
+2014-03-01,10.15,Detroit Pistons,Houston Rockets,1,18-36,-20,two point jumper,False,1,False,False
+2014-03-01,12.25,Detroit Pistons,Houston Rockets,2,22-41,-21,two point jumper,False,10,True,False
+2014-03-01,13.75,Detroit Pistons,Houston Rockets,2,26-46,-22,layup,False,0,True,False
+2014-03-01,14.4333333333,Detroit Pistons,Houston Rockets,2,26-47,-23,two point shot,False,26,False,False
+2014-03-01,36.65,Detroit Pistons,Houston Rockets,4,82-97,-17,layup,False,0,True,False
+2014-03-01,38.3666666667,Detroit Pistons,Houston Rockets,4,89-102,-15,layup,False,0,True,False
+2014-03-01,40.75,Detroit Pistons,Houston Rockets,4,93-105,-14,layup,False,0,True,False
+2014-03-01,45.4833333333,Detroit Pistons,Houston Rockets,4,103-114,-13,layup,False,0,True,False

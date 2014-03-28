@@ -70,8 +70,11 @@ def parseGameRows(rows, homeTeam, awayTeam, gameDate, homeScore, awayScore):
     if len(play) == 2:
       officialPlay = play.contents[1].text
       splitPlay = officialPlay.split()
-      if splitPlay[0] == "End":
-        quarter += 1
+      try:
+        if splitPlay[0] == "End":
+          quarter += 1
+      except:
+        print 'error is ' + str(officialPlay)
 
     # Check if play is an official play for games after 2006-2007
 
@@ -84,7 +87,6 @@ def parseGameRows(rows, homeTeam, awayTeam, gameDate, homeScore, awayScore):
       # Some arbitrary length string - html contains some random characters - non empty
       if len(play.contents[1].text) < 10:
         home = True
-
         parsePlay(play.contents[3].text, home, score, quarter, time, scoreDiff, homeTeam, awayTeam, gameDate, homeWon)
 
       else:
@@ -104,7 +106,6 @@ def parsePlay(play, home, score, quarter, time, scoreDiff, team, opposition, gam
   if match:
     name = match.group(1).rstrip()
     if name not in playerShotDict:
-      # print 'creating new player ' + name
       playerShotDict[name] = []
 
     if match.group(2) == 'made' or match.group(2) == 'makes':
@@ -241,7 +242,7 @@ def adjustTime(time, quarter):
   return timeMinute
 
 def createCsv(player, shots):
-  filename = 'Players/' + player + '.csv'
+  filename = 'TestPlayers/' + player + '.csv'
   with open(filename, 'wb') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     writer.writerow(['date', 'gameTime', 'team', 'opp', 'quarter', 'score', 'scoreDiff', 'shotType', 'home', 'distance', 'made', 'gameWon'])
@@ -260,7 +261,8 @@ def main():
   gameDate = []
   homeScore = []
   awayScore = []
-  with open('games.csv', 'rb') as csvfile:
+  errorIndices = []
+  with open('2014games.csv', 'rb') as csvfile:
     gameReader = csv.DictReader(csvfile, delimiter = ',')
     for row in gameReader:
       gameids.append(row['id'])
@@ -272,17 +274,31 @@ def main():
 
   for i in range(len(gameids)):
     print '>>>>>>>>>>>>>>>>>>>>> newGame ' + 'with id ' + str(gameids[i]) + ' <<<<<<<<<<<<<<<<<<<<<<<<<<<<'
-    getShotsForPage(gameids[i], homeTeam[i], awayTeam[i], gameDate[i], homeScore[i], awayScore[i])
+    try:
+      getShotsForPage(gameids[i], homeTeam[i], awayTeam[i], gameDate[i], homeScore[i], awayScore[i])
+    except urllib2.HTTPError, e:
+      if e.code == 503:
+        errorIndices.append(i)
+      else:
+        raise
 
   print '>>>>>>>>>>>>>>>>>>>>>>>>>>> Finished Getting Games <<<<<<<<<<<<<<<<<<<<<<<<<<<<'
-  
-  for player in playerShotDict:
-    try:
-      createCsv(player, playerShotDict[player])
-    except:
-      print 'Error creating ' + str(player)
-      pass
+  while len(errorIndices) > 0:
+    for index in errorIndices:
+      print '>>>>>>>>>>>>>>>>>>>> Trying again for ' + str(gameids[index]) + ' <<<<<<<<<<<<<<<<<<<<<<<<<<<<<'
+      try:
+        getShotsForPage(gameids[i], homeTeam[i], awayTeam[i], gameDate[i], homeScore[i], awayScore[i])
+        print 'Succesfull'
+        errorIndices.remove(index)
+      except urllib2.HTTPError, e:
+        if e.code == 503:
+          errorIndices.append(i)
+        else:
+          raise
 
+  for player in playerShotDict:  
+    createCsv(player, playerShotDict[player])
+  
 if __name__ == '__main__':
   main()
 

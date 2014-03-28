@@ -1,0 +1,101 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-01-28,13.15,New York Knicks,Boston Celtics,2,18-33,13,two point jumper,True,1,True,False
+2014-01-28,14.2,New York Knicks,Boston Celtics,2,18-35,15,layup,True,0,True,False
+2014-01-28,14.2,New York Knicks,Boston Celtics,2,18-35,16,free throw,True,15,False,False
+2014-01-28,17.0666666667,New York Knicks,Boston Celtics,2,20-42,21,free throw,True,15,True,False
+2014-01-28,17.0666666667,New York Knicks,Boston Celtics,2,20-43,22,free throw,True,15,True,False
+2014-01-28,32.9666666667,New York Knicks,Boston Celtics,3,51-81,28,tip shot,True,0,False,False
+2014-01-28,33.2166666667,New York Knicks,Boston Celtics,3,51-81,28,layup,True,0,False,False
+2014-01-28,33.9166666667,New York Knicks,Boston Celtics,3,53-83,28,two point shot,True,1,True,False
+2014-01-28,34.35,New York Knicks,Boston Celtics,3,54-85,29,two point shot,True,1,True,False
+2014-01-28,35.8666666667,New York Knicks,Boston Celtics,3,59-86,26,free throw,True,15,True,False
+2014-01-28,35.8666666667,New York Knicks,Boston Celtics,3,59-86,26,free throw,True,15,False,False
+2014-01-28,45.65,New York Knicks,Boston Celtics,4,84-108,22,two point jumper,True,15,True,False
+2014-01-28,46.2166666667,New York Knicks,Boston Celtics,4,86-110,22,two point jumper,True,16,True,False
+2014-01-28,47.1666666667,New York Knicks,Boston Celtics,4,88-112,22,two point shot,True,2,True,False
+2014-01-20,45.4833333333,New York Knicks,Brooklyn Nets,4,97-75,-24,hook shot,True,5,False,True
+2014-01-20,45.5333333333,New York Knicks,Brooklyn Nets,4,97-77,-22,two point shot,True,2,True,True
+2014-01-14,46.25,New York Knicks,Charlotte Bobcats,4,91-108,-19,layup,False,0,False,True
+2014-01-14,46.4166666667,New York Knicks,Charlotte Bobcats,4,93-108,-17,layup,False,0,True,True
+2014-01-14,46.7833333333,New York Knicks,Charlotte Bobcats,4,95-108,-15,dunk,False,0,True,True
+2014-01-14,47.7666666667,New York Knicks,Charlotte Bobcats,4,98-108,-12,two point jumper,False,17,True,True
+2014-01-16,42.2833333333,New York Knicks,Indiana Pacers,4,79-104,-27,two point jumper,False,12,False,True
+2014-01-16,46.6666666667,New York Knicks,Indiana Pacers,4,85-113,-30,two point shot,False,1,True,True
+2014-01-16,47.0833333333,New York Knicks,Indiana Pacers,4,87-115,-30,two point jumper,False,6,True,True
+2014-01-17,9.85,New York Knicks,Los Angeles Clippers,1,13-19,4,layup,True,0,True,True
+2014-01-17,10.75,New York Knicks,Los Angeles Clippers,1,16-21,3,two point jumper,True,13,True,True
+2014-01-17,11.5833333333,New York Knicks,Los Angeles Clippers,1,20-25,3,layup,True,0,True,True
+2014-01-24,15.0666666667,New York Knicks,Charlotte Bobcats,2,31-38,5,two point shot,True,2,True,False
+2014-01-24,20.35,New York Knicks,Charlotte Bobcats,2,42-54,10,two point shot,True,2,True,False
+2014-01-24,39.75,New York Knicks,Charlotte Bobcats,4,70-107,35,two point shot,True,5,True,False
+2014-01-24,41.7333333333,New York Knicks,Charlotte Bobcats,4,77-111,32,two point jumper,True,13,True,False
+2014-01-24,42.5666666667,New York Knicks,Charlotte Bobcats,4,77-111,32,two point shot,True,14,False,False
+2014-01-24,44.8166666667,New York Knicks,Charlotte Bobcats,4,82-119,35,two point jumper,True,17,False,False
+2014-01-26,14.2,New York Knicks,Los Angeles Lakers,2,27-25,-4,hook shot,True,3,False,True
+2014-01-26,37.25,New York Knicks,Los Angeles Lakers,4,83-86,1,layup,True,0,False,True
+2014-01-26,39.75,New York Knicks,Los Angeles Lakers,4,91-92,0,free throw,True,15,False,True
+2014-01-26,39.75,New York Knicks,Los Angeles Lakers,4,91-93,1,free throw,True,15,True,True
+2014-01-30,15.4333333333,New York Knicks,Cleveland Cavaliers,2,25-47,20,layup,True,0,True,False
+2014-01-30,17.5,New York Knicks,Cleveland Cavaliers,2,29-54,23,two point jumper,True,13,True,False
+2014-01-30,19.1666666667,New York Knicks,Cleveland Cavaliers,2,29-56,25,hook shot,True,4,False,False
+2014-01-30,33.6,New York Knicks,Cleveland Cavaliers,3,58-77,18,free throw,True,15,False,False
+2014-01-30,36.3666666667,New York Knicks,Cleveland Cavaliers,4,65-83,16,layup,True,0,True,False
+2014-01-30,44.1666666667,New York Knicks,Cleveland Cavaliers,4,80-106,24,two point jumper,True,19,False,False
+2014-01-30,46.8,New York Knicks,Cleveland Cavaliers,4,86-114,26,two point shot,True,1,True,False
+2014-02-01,15.2166666667,New York Knicks,Miami Heat,2,37-27,-11,free throw,True,15,False,True
+2014-02-01,15.2166666667,New York Knicks,Miami Heat,2,37-28,-10,free throw,True,15,True,True
+2014-02-01,36.5666666667,New York Knicks,Miami Heat,4,77-71,-8,two point jumper,True,11,False,True
+2014-02-05,14.0833333333,New York Knicks,Portland Trail Blazers,2,32-27,-7,tip shot,True,0,False,False
+2014-02-05,15.5,New York Knicks,Portland Trail Blazers,2,32-31,-3,two point jumper,True,1,False,False
+2014-02-05,15.7,New York Knicks,Portland Trail Blazers,2,32-33,-1,two point shot,True,2,True,False
+2014-02-05,17.85,New York Knicks,Portland Trail Blazers,2,36-39,1,two point shot,True,1,True,False
+2014-02-05,38.25,New York Knicks,Portland Trail Blazers,4,77-72,-7,two point jumper,True,1,False,False
+2014-02-05,38.7166666667,New York Knicks,Portland Trail Blazers,4,77-73,-5,free throw,True,15,True,False
+2014-02-05,38.7166666667,New York Knicks,Portland Trail Blazers,4,77-73,-5,free throw,True,15,False,False
+2014-02-07,12.95,New York Knicks,Denver Nuggets,2,26-20,-8,hook shot,True,5,False,False
+2014-02-07,16.1,New York Knicks,Denver Nuggets,2,33-26,-9,tip shot,True,0,False,False
+2014-02-07,16.9166666667,New York Knicks,Denver Nuggets,2,33-31,-4,two point shot,True,1,True,False
+2014-02-07,19.4166666667,New York Knicks,Denver Nuggets,2,40-37,-5,two point jumper,True,18,True,False
+2014-02-07,38.5666666667,New York Knicks,Denver Nuggets,4,75-91,14,layup,True,0,True,False
+2014-02-07,38.5666666667,New York Knicks,Denver Nuggets,4,75-92,16,free throw,True,15,True,False
+2014-02-07,39.0666666667,New York Knicks,Denver Nuggets,4,75-94,17,two point shot,True,1,True,False
+2014-02-07,42.4166666667,New York Knicks,Denver Nuggets,4,81-104,21,two point shot,True,3,True,False
+2014-02-07,42.7333333333,New York Knicks,Denver Nuggets,4,81-104,21,two point jumper,True,1,False,False
+2014-02-07,44.4833333333,New York Knicks,Denver Nuggets,4,83-107,23,free throw,True,15,False,False
+2014-02-07,44.4833333333,New York Knicks,Denver Nuggets,4,83-108,24,free throw,True,15,True,False
+2014-02-07,45.9333333333,New York Knicks,Denver Nuggets,4,88-112,22,two point jumper,True,1,False,False
+2014-02-09,12.3833333333,New York Knicks,Oklahoma City Thunder,2,28-29,-3,two point jumper,False,14,False,False
+2014-02-09,14.0,New York Knicks,Oklahoma City Thunder,2,30-34,-6,layup,False,0,False,False
+2014-02-09,14.0166666667,New York Knicks,Oklahoma City Thunder,2,32-34,-4,two point shot,False,1,True,False
+2014-02-09,15.15,New York Knicks,Oklahoma City Thunder,2,35-36,-3,two point jumper,False,12,False,False
+2014-02-09,37.3166666667,New York Knicks,Oklahoma City Thunder,4,80-86,-8,two point shot,False,10,True,False
+2014-02-09,37.95,New York Knicks,Oklahoma City Thunder,4,82-88,-8,dunk,False,0,True,False
+2014-02-09,40.2,New York Knicks,Oklahoma City Thunder,4,86-95,-11,two point jumper,False,18,False,False
+2014-02-09,46.7333333333,New York Knicks,Oklahoma City Thunder,4,95-108,-14,free throw,False,15,True,False
+2014-02-09,46.7333333333,New York Knicks,Oklahoma City Thunder,4,96-108,-13,free throw,False,15,True,False
+2014-02-09,47.75,New York Knicks,Oklahoma City Thunder,4,100-112,-14,two point shot,False,6,True,False
+2014-02-18,10.15,New York Knicks,Memphis Grizzlies,1,14-20,-8,two point shot,False,1,False,False
+2014-02-18,10.7666666667,New York Knicks,Memphis Grizzlies,1,17-20,-5,two point shot,False,10,True,False
+2014-02-18,12.8833333333,New York Knicks,Memphis Grizzlies,2,19-25,-8,two point jumper,False,1,True,False
+2014-02-19,15.2666666667,New York Knicks,New Orleans Pelicans,2,34-32,0,dunk,False,0,True,True
+2014-02-19,16.6666666667,New York Knicks,New Orleans Pelicans,2,34-34,-2,two point jumper,False,1,False,True
+2014-02-19,18.5666666667,New York Knicks,New Orleans Pelicans,2,41-39,0,dunk,False,0,True,True
+2014-02-19,38.3833333333,New York Knicks,New Orleans Pelicans,4,83-74,7,two point jumper,False,17,False,True
+2014-02-21,13.75,New York Knicks,Orlando Magic,2,34-38,-5,free throw,False,15,True,False
+2014-02-21,13.75,New York Knicks,Orlando Magic,2,35-38,-4,free throw,False,15,True,False
+2014-02-21,39.55,New York Knicks,Orlando Magic,4,96-88,6,dunk,False,0,True,False
+2014-02-22,10.0166666667,New York Knicks,Atlanta Hawks,1,16-20,-5,free throw,False,15,False,True
+2014-02-22,10.0166666667,New York Knicks,Atlanta Hawks,1,16-20,-5,free throw,False,15,False,True
+2014-02-22,11.15,New York Knicks,Atlanta Hawks,1,21-23,-4,dunk,False,0,True,True
+2014-02-22,47.7333333333,New York Knicks,Atlanta Hawks,4,97-107,-11,free throw,False,15,False,True
+2014-02-22,47.7333333333,New York Knicks,Atlanta Hawks,4,98-107,-10,free throw,False,15,True,True
+2014-02-27,43.45,New York Knicks,Miami Heat,4,77-101,-26,two point shot,False,1,False,True
+2014-02-27,47.05,New York Knicks,Miami Heat,4,81-106,-26,free throw,False,15,False,True
+2014-02-27,47.05,New York Knicks,Miami Heat,4,82-106,-25,free throw,False,15,True,True
+2014-02-28,18.9166666667,New York Knicks,Golden State Warriors,2,58-46,-14,two point shot,True,1,True,False
+2014-02-28,36.5833333333,New York Knicks,Golden State Warriors,4,101-80,-23,two point jumper,True,15,False,False
+2014-02-28,37.0833333333,New York Knicks,Golden State Warriors,4,103-80,-25,layup,True,0,False,False
+2014-02-28,45.3166666667,New York Knicks,Golden State Warriors,4,121-101,-22,two point shot,True,1,True,False
+2014-02-28,47.3166666667,New York Knicks,Golden State Warriors,4,126-103,-25,two point shot,True,1,True,False
+2014-03-02,44.4,New York Knicks,Chicago Bulls,4,80-100,-22,two point jumper,False,15,True,True
+2014-03-02,47.0,New York Knicks,Chicago Bulls,4,88-107,-21,two point shot,False,1,True,True

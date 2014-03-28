@@ -1,0 +1,587 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-08,0.8,Orlando Magic,Boston Celtics,1,2-2,-2,layup,True,0,True,False
+2014-11-08,1.38333333333,Orlando Magic,Boston Celtics,1,4-2,-4,hook shot,True,1,False,False
+2014-11-08,5.16666666667,Orlando Magic,Boston Celtics,1,10-9,-3,two point shot,True,1,True,False
+2014-11-08,6.13333333333,Orlando Magic,Boston Celtics,1,10-13,1,layup,True,0,True,False
+2014-11-08,7.0,Orlando Magic,Boston Celtics,1,10-17,5,two point jumper,True,15,True,False
+2014-11-08,7.53333333333,Orlando Magic,Boston Celtics,1,10-18,7,free throw,True,15,True,False
+2014-11-08,7.53333333333,Orlando Magic,Boston Celtics,1,10-19,8,free throw,True,15,True,False
+2014-11-08,10.1,Orlando Magic,Boston Celtics,1,14-23,7,layup,True,0,True,False
+2014-11-08,17.45,Orlando Magic,Boston Celtics,2,29-37,6,two point jumper,True,13,False,False
+2014-11-08,20.5333333333,Orlando Magic,Boston Celtics,2,34-43,8,free throw,True,15,False,False
+2014-11-08,20.5333333333,Orlando Magic,Boston Celtics,2,34-43,8,free throw,True,15,False,False
+2014-11-08,24.3833333333,Orlando Magic,Boston Celtics,3,46-49,1,two point jumper,True,1,False,False
+2014-11-08,26.2,Orlando Magic,Boston Celtics,3,48-51,1,layup,True,0,False,False
+2014-11-08,26.75,Orlando Magic,Boston Celtics,3,50-51,-1,hook shot,True,7,False,False
+2014-11-08,31.5,Orlando Magic,Boston Celtics,3,61-56,-7,two point jumper,True,18,False,False
+2014-11-08,40.4833333333,Orlando Magic,Boston Celtics,4,75-75,-2,two point jumper,True,21,True,False
+2014-11-11,3.08333333333,Orlando Magic,Boston Celtics,1,7-6,-1,two point shot,False,1,True,False
+2014-11-11,5.95,Orlando Magic,Boston Celtics,1,14-11,1,two point jumper,False,17,True,False
+2014-11-11,6.38333333333,Orlando Magic,Boston Celtics,1,14-13,-1,two point jumper,False,19,False,False
+2014-11-11,15.65,Orlando Magic,Boston Celtics,2,32-37,-7,layup,False,0,True,False
+2014-11-11,16.6,Orlando Magic,Boston Celtics,2,34-39,-7,two point shot,False,13,True,False
+2014-11-11,24.6833333333,Orlando Magic,Boston Celtics,3,52-59,-9,two point shot,False,4,True,False
+2014-11-11,24.6833333333,Orlando Magic,Boston Celtics,3,53-59,-7,free throw,False,15,True,False
+2014-11-11,26.3833333333,Orlando Magic,Boston Celtics,3,55-63,-10,two point jumper,False,20,False,False
+2014-11-11,27.3333333333,Orlando Magic,Boston Celtics,3,59-65,-7,free throw,False,15,True,False
+2014-11-11,27.3333333333,Orlando Magic,Boston Celtics,3,60-65,-6,free throw,False,15,True,False
+2014-11-11,27.8166666667,Orlando Magic,Boston Celtics,3,60-65,-7,hook shot,False,7,False,False
+2014-11-11,28.1666666667,Orlando Magic,Boston Celtics,3,62-65,-5,two point jumper,False,3,True,False
+2014-02-02,0.633333333333,Orlando Magic,Boston Celtics,1,0-0,-2,two point shot,False,1,False,False
+2014-02-02,3.06666666667,Orlando Magic,Boston Celtics,1,2-6,-6,two point shot,False,1,True,False
+2014-02-02,4.41666666667,Orlando Magic,Boston Celtics,1,7-10,-5,two point jumper,False,20,True,False
+2014-02-02,6.06666666667,Orlando Magic,Boston Celtics,1,12-12,-2,two point shot,False,8,False,False
+2014-02-02,22.1,Orlando Magic,Boston Celtics,2,36-46,-12,layup,False,0,False,False
+2014-02-02,22.1166666667,Orlando Magic,Boston Celtics,2,38-46,-10,two point shot,False,1,True,False
+2014-02-02,22.55,Orlando Magic,Boston Celtics,2,40-48,-10,layup,False,0,True,False
+2014-02-02,26.55,Orlando Magic,Boston Celtics,3,49-58,-11,two point jumper,False,12,False,False
+2014-02-02,27.75,Orlando Magic,Boston Celtics,3,51-59,-10,two point shot,False,9,True,False
+2014-02-02,28.2166666667,Orlando Magic,Boston Celtics,3,53-59,-8,two point jumper,False,3,True,False
+2014-02-02,29.6333333333,Orlando Magic,Boston Celtics,3,55-61,-8,hook shot,False,1,False,False
+2014-02-02,31.4166666667,Orlando Magic,Boston Celtics,3,59-65,-8,two point shot,False,1,True,False
+2014-02-02,42.4833333333,Orlando Magic,Boston Celtics,4,76-79,-5,unknown,False,11,False,False
+2014-02-02,46.0,Orlando Magic,Boston Celtics,4,84-88,-6,two point shot,False,1,False,False
+2014-11-03,5.06666666667,Orlando Magic,Brooklyn Nets,1,9-13,3,free throw,True,15,True,False
+2014-11-03,5.06666666667,Orlando Magic,Brooklyn Nets,1,9-13,3,free throw,True,15,False,False
+2014-11-03,7.48333333333,Orlando Magic,Brooklyn Nets,1,13-13,-2,two point jumper,True,11,False,False
+2014-11-03,8.08333333333,Orlando Magic,Brooklyn Nets,1,15-15,-2,two point shot,True,1,True,False
+2014-11-03,10.5166666667,Orlando Magic,Brooklyn Nets,1,17-19,0,two point jumper,True,20,False,False
+2014-11-03,17.6333333333,Orlando Magic,Brooklyn Nets,2,30-31,-1,two point jumper,True,18,True,False
+2014-11-03,19.1666666667,Orlando Magic,Brooklyn Nets,2,34-31,-5,hook shot,True,8,False,False
+2014-11-03,19.4833333333,Orlando Magic,Brooklyn Nets,2,34-33,-3,two point jumper,True,20,True,False
+2014-11-03,20.45,Orlando Magic,Brooklyn Nets,2,34-35,-1,two point jumper,True,16,True,False
+2014-11-03,21.0,Orlando Magic,Brooklyn Nets,2,34-37,1,two point shot,True,2,True,False
+2014-11-03,21.9166666667,Orlando Magic,Brooklyn Nets,2,36-39,1,dunk,True,0,True,False
+2014-11-03,27.55,Orlando Magic,Brooklyn Nets,3,42-51,7,two point shot,True,15,True,False
+2014-11-03,29.6,Orlando Magic,Brooklyn Nets,3,44-58,12,tip shot,True,0,False,False
+2014-11-03,29.6666666667,Orlando Magic,Brooklyn Nets,3,44-60,14,two point shot,True,2,True,False
+2014-11-03,34.9,Orlando Magic,Brooklyn Nets,3,56-71,13,dunk,True,0,True,False
+2014-12-23,3.25,Orlando Magic,New York Knicks,1,5-9,2,layup,True,0,True,True
+2014-12-23,4.53333333333,Orlando Magic,New York Knicks,1,9-14,3,two point jumper,True,14,True,True
+2014-12-23,5.48333333333,Orlando Magic,New York Knicks,1,11-16,3,tip shot,True,0,False,True
+2014-12-23,12.6333333333,Orlando Magic,New York Knicks,2,29-27,-4,hook shot,True,1,False,True
+2014-12-23,13.0166666667,Orlando Magic,New York Knicks,2,29-28,-2,free throw,True,15,True,True
+2014-12-23,13.0166666667,Orlando Magic,New York Knicks,2,29-29,-1,free throw,True,15,True,True
+2014-12-23,13.4333333333,Orlando Magic,New York Knicks,2,31-29,-4,two point jumper,True,1,False,True
+2014-12-23,14.8166666667,Orlando Magic,New York Knicks,2,35-32,-5,two point shot,True,9,False,True
+2014-12-23,16.9166666667,Orlando Magic,New York Knicks,2,43-34,-11,two point shot,True,1,True,True
+2014-12-23,28.2833333333,Orlando Magic,New York Knicks,3,72-52,-22,two point shot,True,10,True,True
+2014-12-23,31.1666666667,Orlando Magic,New York Knicks,3,74-62,-14,layup,True,0,True,True
+2014-12-23,31.95,Orlando Magic,New York Knicks,3,74-65,-11,tip shot,True,0,False,True
+2014-12-23,45.3,Orlando Magic,New York Knicks,4,93-91,-4,two point shot,True,1,True,True
+2014-02-21,1.81666666667,Orlando Magic,New York Knicks,1,2-5,1,two point shot,True,1,True,True
+2014-02-21,5.38333333333,Orlando Magic,New York Knicks,1,12-14,0,layup,True,0,True,True
+2014-02-21,8.11666666667,Orlando Magic,New York Knicks,1,19-20,-1,tip shot,True,0,False,True
+2014-02-21,10.6333333333,Orlando Magic,New York Knicks,1,26-28,0,two point shot,True,3,True,True
+2014-02-21,24.8166666667,Orlando Magic,New York Knicks,3,60-53,-9,two point jumper,True,19,False,True
+2014-02-21,25.2166666667,Orlando Magic,New York Knicks,3,60-55,-7,two point jumper,True,20,True,True
+2014-02-21,27.1333333333,Orlando Magic,New York Knicks,3,67-61,-8,dunk,True,0,True,True
+2014-02-21,31.9166666667,Orlando Magic,New York Knicks,3,81-70,-13,two point jumper,True,17,False,True
+2014-02-21,46.6166666667,Orlando Magic,New York Knicks,4,106-104,-4,two point shot,True,1,True,True
+2014-02-21,48.0,Orlando Magic,New York Knicks,4,106-106,-2,two point jumper,True,9,False,True
+2014-02-21,48.6333333333,Orlando Magic,New York Knicks,5,108-108,-2,layup,True,0,True,True
+2014-02-21,53.0,Orlando Magic,New York Knicks,5,113-113,-2,layup,True,0,False,True
+2014-02-21,54.3666666667,Orlando Magic,New York Knicks,6,113-115,0,two point jumper,True,1,False,True
+2014-11-27,2.93333333333,Orlando Magic,Philadelphia 76ers,1,7-6,-3,two point jumper,True,19,True,False
+2014-11-27,3.43333333333,Orlando Magic,Philadelphia 76ers,1,7-8,-1,layup,True,0,True,False
+2014-11-27,4.88333333333,Orlando Magic,Philadelphia 76ers,1,11-12,-1,layup,True,0,True,False
+2014-11-27,4.88333333333,Orlando Magic,Philadelphia 76ers,1,11-13,1,free throw,True,15,True,False
+2014-11-27,6.1,Orlando Magic,Philadelphia 76ers,1,13-15,0,two point shot,True,1,True,False
+2014-11-27,6.98333333333,Orlando Magic,Philadelphia 76ers,1,18-17,-3,two point jumper,True,20,True,False
+2014-11-27,14.5666666667,Orlando Magic,Philadelphia 76ers,2,31-39,6,two point shot,True,11,True,False
+2014-11-27,16.45,Orlando Magic,Philadelphia 76ers,2,35-44,7,two point shot,True,1,True,False
+2014-11-27,18.6333333333,Orlando Magic,Philadelphia 76ers,2,37-51,12,two point shot,True,1,True,False
+2014-11-27,25.8666666667,Orlando Magic,Philadelphia 76ers,3,50-57,5,two point jumper,True,19,False,False
+2014-11-27,30.4166666667,Orlando Magic,Philadelphia 76ers,3,60-68,6,two point shot,True,1,True,False
+2014-11-27,33.2,Orlando Magic,Philadelphia 76ers,3,67-72,3,two point jumper,True,19,False,False
+2014-11-27,33.7833333333,Orlando Magic,Philadelphia 76ers,3,69-74,3,two point shot,True,9,True,False
+2014-11-27,45.95,Orlando Magic,Philadelphia 76ers,4,90-100,8,two point jumper,True,17,False,False
+2014-02-26,2.13333333333,Orlando Magic,Philadelphia 76ers,1,4-4,-2,layup,False,0,True,False
+2014-02-26,2.13333333333,Orlando Magic,Philadelphia 76ers,1,5-4,0,free throw,False,15,True,False
+2014-02-26,5.48333333333,Orlando Magic,Philadelphia 76ers,1,7-10,-5,two point jumper,False,22,False,False
+2014-02-26,6.03333333333,Orlando Magic,Philadelphia 76ers,1,9-13,-6,two point shot,False,1,True,False
+2014-02-26,6.6,Orlando Magic,Philadelphia 76ers,1,10-13,-4,free throw,False,15,True,False
+2014-02-26,6.6,Orlando Magic,Philadelphia 76ers,1,11-13,-3,free throw,False,15,True,False
+2014-02-26,7.03333333333,Orlando Magic,Philadelphia 76ers,1,13-13,-2,layup,False,0,True,False
+2014-02-26,11.2666666667,Orlando Magic,Philadelphia 76ers,1,19-17,0,two point jumper,False,9,False,False
+2014-02-26,14.15,Orlando Magic,Philadelphia 76ers,2,23-26,-5,two point jumper,False,18,False,False
+2014-02-26,16.5,Orlando Magic,Philadelphia 76ers,2,31-30,-1,layup,False,0,True,False
+2014-02-26,16.5,Orlando Magic,Philadelphia 76ers,2,31-30,0,free throw,False,15,False,False
+2014-02-26,17.15,Orlando Magic,Philadelphia 76ers,2,31-32,-3,tip shot,False,0,False,False
+2014-02-26,17.1833333333,Orlando Magic,Philadelphia 76ers,2,31-32,-3,layup,False,0,False,False
+2014-02-26,17.2166666667,Orlando Magic,Philadelphia 76ers,2,33-32,-1,two point shot,False,1,True,False
+2014-02-26,18.7,Orlando Magic,Philadelphia 76ers,2,33-36,-5,two point jumper,False,5,False,False
+2014-02-26,24.5666666667,Orlando Magic,Philadelphia 76ers,3,42-47,-7,two point shot,False,1,True,False
+2014-02-26,25.45,Orlando Magic,Philadelphia 76ers,3,42-50,-10,two point jumper,False,21,False,False
+2014-02-26,26.7,Orlando Magic,Philadelphia 76ers,3,46-50,-6,dunk,False,0,True,False
+2014-02-26,29.1,Orlando Magic,Philadelphia 76ers,3,53-50,1,layup,False,0,True,False
+2014-02-26,30.95,Orlando Magic,Philadelphia 76ers,3,61-56,3,two point shot,False,1,True,False
+2014-02-26,34.4833333333,Orlando Magic,Philadelphia 76ers,3,67-60,5,layup,False,0,False,False
+2014-01-29,0.566666666667,Orlando Magic,Toronto Raptors,1,0-0,-2,two point jumper,False,1,False,False
+2014-01-29,4.28333333333,Orlando Magic,Toronto Raptors,1,5-13,-10,two point jumper,False,20,False,False
+2014-01-29,4.7,Orlando Magic,Toronto Raptors,1,7-13,-8,two point shot,False,8,True,False
+2014-01-29,5.28333333333,Orlando Magic,Toronto Raptors,1,9-13,-6,two point shot,False,1,True,False
+2014-01-29,19.7833333333,Orlando Magic,Toronto Raptors,2,34-46,-14,two point jumper,False,17,True,False
+2014-01-29,20.9166666667,Orlando Magic,Toronto Raptors,2,34-47,-15,tip shot,False,0,False,False
+2014-01-29,20.9666666667,Orlando Magic,Toronto Raptors,2,36-47,-13,two point shot,False,1,True,False
+2014-01-29,22.8,Orlando Magic,Toronto Raptors,2,38-53,-17,two point jumper,False,21,True,False
+2014-01-29,23.9,Orlando Magic,Toronto Raptors,2,39-55,-17,free throw,False,15,True,False
+2014-01-29,23.9,Orlando Magic,Toronto Raptors,2,40-55,-16,free throw,False,15,True,False
+2014-01-29,26.8333333333,Orlando Magic,Toronto Raptors,3,47-59,-14,two point jumper,False,12,True,False
+2014-01-29,30.3833333333,Orlando Magic,Toronto Raptors,3,54-66,-13,free throw,False,15,True,False
+2014-01-29,30.3833333333,Orlando Magic,Toronto Raptors,3,55-66,-12,free throw,False,15,True,False
+2014-01-29,31.5,Orlando Magic,Toronto Raptors,3,55-68,-15,tip shot,False,0,False,False
+2014-02-23,3.81666666667,Orlando Magic,Toronto Raptors,1,2-8,-8,two point jumper,False,12,False,True
+2014-02-23,4.78333333333,Orlando Magic,Toronto Raptors,1,8-8,-2,two point shot,False,5,True,True
+2014-02-23,10.25,Orlando Magic,Toronto Raptors,1,14-14,-2,two point shot,False,1,False,True
+2014-02-23,19.8166666667,Orlando Magic,Toronto Raptors,2,34-34,-2,two point shot,False,7,True,True
+2014-02-23,20.3,Orlando Magic,Toronto Raptors,2,36-34,0,two point jumper,False,15,True,True
+2014-02-23,20.8666666667,Orlando Magic,Toronto Raptors,2,36-34,0,two point shot,False,19,False,True
+2014-02-23,24.3,Orlando Magic,Toronto Raptors,3,41-44,-5,two point jumper,False,15,False,True
+2014-02-23,28.1,Orlando Magic,Toronto Raptors,3,50-58,-9,free throw,False,15,True,True
+2014-02-23,28.1,Orlando Magic,Toronto Raptors,3,51-58,-8,free throw,False,15,True,True
+2014-02-23,29.7333333333,Orlando Magic,Toronto Raptors,3,51-64,-15,tip shot,False,0,False,True
+2014-02-23,30.0333333333,Orlando Magic,Toronto Raptors,3,53-66,-15,dunk,False,0,True,True
+2014-02-23,42.3833333333,Orlando Magic,Toronto Raptors,4,79-95,-18,two point shot,False,15,False,True
+2014-02-23,43.35,Orlando Magic,Toronto Raptors,4,80-97,-18,free throw,False,15,True,True
+2014-02-23,43.35,Orlando Magic,Toronto Raptors,4,80-97,-18,free throw,False,15,False,True
+2014-02-23,46.85,Orlando Magic,Toronto Raptors,4,88-103,-17,two point jumper,False,20,False,True
+2014-12-31,2.08333333333,Orlando Magic,Golden State Warriors,1,4-6,0,two point jumper,True,16,True,False
+2014-12-31,3.2,Orlando Magic,Golden State Warriors,1,6-8,0,two point jumper,True,17,True,False
+2014-12-31,4.1,Orlando Magic,Golden State Warriors,1,11-8,-5,two point shot,True,14,False,False
+2014-12-31,4.75,Orlando Magic,Golden State Warriors,1,13-8,-7,two point jumper,True,1,False,False
+2014-11-06,1.95,Orlando Magic,Los Angeles Clippers,1,2-6,2,two point jumper,True,16,False,True
+2014-11-06,2.5,Orlando Magic,Los Angeles Clippers,1,4-8,2,layup,True,0,True,True
+2014-11-06,4.63333333333,Orlando Magic,Los Angeles Clippers,1,8-12,2,two point shot,True,12,True,True
+2014-11-06,5.5,Orlando Magic,Los Angeles Clippers,1,10-16,4,two point jumper,True,17,True,True
+2014-11-06,7.41666666667,Orlando Magic,Los Angeles Clippers,1,14-16,0,two point jumper,True,11,False,True
+2014-11-06,9.9,Orlando Magic,Los Angeles Clippers,1,16-25,7,hook shot,True,5,False,True
+2014-11-06,15.5,Orlando Magic,Los Angeles Clippers,2,24-37,11,layup,True,0,True,True
+2014-11-06,17.2166666667,Orlando Magic,Los Angeles Clippers,2,29-40,9,layup,True,0,True,True
+2014-11-06,20.45,Orlando Magic,Los Angeles Clippers,2,36-46,8,two point jumper,True,19,False,True
+2014-11-06,21.2166666667,Orlando Magic,Los Angeles Clippers,2,38-50,10,two point shot,True,1,True,True
+2014-11-06,21.7,Orlando Magic,Los Angeles Clippers,2,40-50,8,two point jumper,True,13,False,True
+2014-11-06,22.9,Orlando Magic,Los Angeles Clippers,2,42-54,10,layup,True,0,True,True
+2014-11-06,23.3333333333,Orlando Magic,Los Angeles Clippers,2,42-54,10,two point jumper,True,16,False,True
+2014-11-06,24.3666666667,Orlando Magic,Los Angeles Clippers,3,42-59,15,two point shot,True,2,True,True
+2014-11-06,30.3833333333,Orlando Magic,Los Angeles Clippers,3,59-65,4,two point jumper,True,19,False,True
+2014-11-06,33.95,Orlando Magic,Los Angeles Clippers,3,71-67,-5,free throw,True,15,True,True
+2014-11-06,33.95,Orlando Magic,Los Angeles Clippers,3,71-68,-4,free throw,True,15,True,True
+2014-11-06,35.1166666667,Orlando Magic,Los Angeles Clippers,3,74-70,-6,layup,True,0,True,True
+2014-11-06,41.9166666667,Orlando Magic,Los Angeles Clippers,4,80-83,1,layup,True,0,False,True
+2014-11-06,45.3666666667,Orlando Magic,Los Angeles Clippers,4,87-88,-1,layup,True,0,True,True
+2014-11-06,46.9333333333,Orlando Magic,Los Angeles Clippers,4,89-92,1,two point jumper,True,16,True,True
+2014-11-06,47.6166666667,Orlando Magic,Los Angeles Clippers,4,90-93,2,free throw,True,15,True,True
+2014-11-06,47.6166666667,Orlando Magic,Los Angeles Clippers,4,90-94,3,free throw,True,15,True,True
+2014-11-06,47.7166666667,Orlando Magic,Los Angeles Clippers,4,90-95,4,free throw,True,15,True,True
+2014-11-06,47.7166666667,Orlando Magic,Los Angeles Clippers,4,90-96,5,free throw,True,15,True,True
+2014-11-06,47.9,Orlando Magic,Los Angeles Clippers,4,90-97,6,free throw,True,15,True,True
+2014-11-06,47.9,Orlando Magic,Los Angeles Clippers,4,90-98,7,free throw,True,15,True,True
+2014-01-06,3.43333333333,Orlando Magic,Los Angeles Clippers,1,3-12,-11,tip shot,False,0,False,True
+2014-01-06,7.88333333333,Orlando Magic,Los Angeles Clippers,1,9-23,-16,two point jumper,False,20,True,True
+2014-01-06,8.36666666667,Orlando Magic,Los Angeles Clippers,1,9-25,-17,free throw,False,15,False,True
+2014-01-06,8.36666666667,Orlando Magic,Los Angeles Clippers,1,9-25,-17,free throw,False,15,False,True
+2014-01-06,19.4833333333,Orlando Magic,Los Angeles Clippers,2,32-46,-16,two point jumper,False,16,False,True
+2014-01-06,20.2666666667,Orlando Magic,Los Angeles Clippers,2,32-46,-16,tip shot,False,0,False,True
+2014-01-06,26.2166666667,Orlando Magic,Los Angeles Clippers,3,36-64,-30,two point jumper,False,17,False,True
+2014-01-06,27.25,Orlando Magic,Los Angeles Clippers,3,38-68,-32,tip shot,False,0,False,True
+2014-11-24,0.316666666667,Orlando Magic,Phoenix Suns,1,0-2,0,two point shot,True,6,True,True
+2014-11-24,0.95,Orlando Magic,Phoenix Suns,1,2-4,0,two point jumper,True,1,True,True
+2014-11-24,2.25,Orlando Magic,Phoenix Suns,1,7-6,-3,two point jumper,True,1,False,True
+2014-11-24,6.41666666667,Orlando Magic,Phoenix Suns,1,19-15,-6,two point shot,True,8,True,True
+2014-11-24,7.95,Orlando Magic,Phoenix Suns,1,21-15,-8,two point jumper,True,13,False,True
+2014-11-24,17.5666666667,Orlando Magic,Phoenix Suns,2,40-34,-8,hook shot,True,1,False,True
+2014-11-24,19.6666666667,Orlando Magic,Phoenix Suns,2,44-38,-8,two point jumper,True,1,False,True
+2014-11-24,21.5666666667,Orlando Magic,Phoenix Suns,2,50-42,-10,two point shot,True,8,True,True
+2014-11-24,26.5666666667,Orlando Magic,Phoenix Suns,3,55-50,-7,two point shot,True,1,True,True
+2014-11-24,27.9333333333,Orlando Magic,Phoenix Suns,3,57-52,-7,two point shot,True,1,True,True
+2014-11-24,28.5,Orlando Magic,Phoenix Suns,3,60-52,-10,two point jumper,True,15,False,True
+2014-11-24,30.3166666667,Orlando Magic,Phoenix Suns,3,66-58,-10,two point jumper,True,17,True,True
+2014-11-24,30.7833333333,Orlando Magic,Phoenix Suns,3,66-60,-8,two point jumper,True,16,True,True
+2014-11-24,32.4833333333,Orlando Magic,Phoenix Suns,3,69-65,-6,two point shot,True,2,True,True
+2014-11-24,43.8833333333,Orlando Magic,Phoenix Suns,4,93-87,-8,two point shot,True,1,True,True
+2014-11-24,46.3,Orlando Magic,Phoenix Suns,4,99-92,-9,hook shot,True,1,False,True
+2014-12-21,4.13333333333,Orlando Magic,Sacramento Kings,1,8-12,2,two point jumper,True,18,False,False
+2014-12-21,7.98333333333,Orlando Magic,Sacramento Kings,1,19-21,0,two point jumper,True,20,True,False
+2014-12-21,8.68333333333,Orlando Magic,Sacramento Kings,1,19-23,2,hook shot,True,9,False,False
+2014-12-21,27.0,Orlando Magic,Sacramento Kings,3,60-60,-2,two point jumper,True,19,False,False
+2014-12-21,31.1333333333,Orlando Magic,Sacramento Kings,3,68-71,1,layup,True,0,True,False
+2014-12-21,42.85,Orlando Magic,Sacramento Kings,4,94-86,-10,tip shot,True,0,False,False
+2014-12-16,2.96666666667,Orlando Magic,Chicago Bulls,1,0-6,-8,two point jumper,False,21,False,True
+2014-12-16,3.75,Orlando Magic,Chicago Bulls,1,2-6,-6,two point jumper,False,17,True,True
+2014-12-16,7.45,Orlando Magic,Chicago Bulls,1,15-6,7,layup,False,0,True,True
+2014-12-16,11.4,Orlando Magic,Chicago Bulls,1,19-14,3,two point jumper,False,1,False,True
+2014-12-16,19.8166666667,Orlando Magic,Chicago Bulls,2,34-25,7,layup,False,0,True,True
+2014-12-16,30.2,Orlando Magic,Chicago Bulls,3,61-46,13,two point jumper,False,17,True,True
+2014-12-16,31.9166666667,Orlando Magic,Chicago Bulls,3,65-49,14,two point jumper,False,20,True,True
+2014-12-16,33.2666666667,Orlando Magic,Chicago Bulls,3,65-52,11,two point jumper,False,14,False,True
+2014-12-13,0.65,Orlando Magic,Cleveland Cavaliers,1,2-0,-4,two point jumper,True,19,False,False
+2014-12-13,4.98333333333,Orlando Magic,Cleveland Cavaliers,1,8-19,9,two point shot,True,1,True,False
+2014-12-13,6.06666666667,Orlando Magic,Cleveland Cavaliers,1,12-19,5,two point jumper,True,18,False,False
+2014-12-13,17.4833333333,Orlando Magic,Cleveland Cavaliers,2,31-40,7,hook shot,True,3,False,False
+2014-12-13,19.2833333333,Orlando Magic,Cleveland Cavaliers,2,36-40,2,hook shot,True,5,False,False
+2014-12-13,23.5,Orlando Magic,Cleveland Cavaliers,2,47-51,2,two point jumper,True,16,True,False
+2014-12-13,24.7,Orlando Magic,Cleveland Cavaliers,3,50-53,1,two point jumper,True,13,False,False
+2014-12-13,26.8,Orlando Magic,Cleveland Cavaliers,3,55-55,-2,hook shot,True,3,False,False
+2014-12-13,32.9666666667,Orlando Magic,Cleveland Cavaliers,3,69-74,3,two point shot,True,5,True,False
+2014-12-13,41.1666666667,Orlando Magic,Cleveland Cavaliers,4,87-85,-4,two point jumper,True,10,False,False
+2014-02-19,4.41666666667,Orlando Magic,Cleveland Cavaliers,1,2-7,-7,two point shot,False,1,True,True
+2014-02-19,13.8833333333,Orlando Magic,Cleveland Cavaliers,2,15-28,-14,free throw,False,15,True,True
+2014-02-19,13.8833333333,Orlando Magic,Cleveland Cavaliers,2,15-28,-14,free throw,False,15,False,True
+2014-02-19,15.2166666667,Orlando Magic,Cleveland Cavaliers,2,17-33,-18,two point jumper,False,16,False,True
+2014-02-19,17.1333333333,Orlando Magic,Cleveland Cavaliers,2,25-37,-14,layup,False,0,True,True
+2014-02-19,17.6,Orlando Magic,Cleveland Cavaliers,2,25-37,-14,two point jumper,False,4,False,True
+2014-02-19,18.0666666667,Orlando Magic,Cleveland Cavaliers,2,25-39,-16,two point jumper,False,6,False,True
+2014-02-19,19.1,Orlando Magic,Cleveland Cavaliers,2,27-41,-16,two point jumper,False,19,False,True
+2014-02-19,25.8833333333,Orlando Magic,Cleveland Cavaliers,3,39-60,-23,two point jumper,False,8,False,True
+2014-02-19,30.2833333333,Orlando Magic,Cleveland Cavaliers,3,56-66,-12,two point jumper,False,1,True,True
+2014-02-19,32.7166666667,Orlando Magic,Cleveland Cavaliers,3,60-68,-10,layup,False,0,True,True
+2014-02-19,33.75,Orlando Magic,Cleveland Cavaliers,3,62-70,-10,two point jumper,False,20,True,True
+2014-02-19,35.95,Orlando Magic,Cleveland Cavaliers,3,67-72,-6,free throw,False,15,True,True
+2014-02-19,35.95,Orlando Magic,Cleveland Cavaliers,3,68-72,-5,free throw,False,15,True,True
+2014-02-19,41.2833333333,Orlando Magic,Cleveland Cavaliers,4,77-83,-8,two point shot,False,6,True,True
+2014-02-19,42.6666666667,Orlando Magic,Cleveland Cavaliers,4,79-85,-8,two point jumper,False,19,False,True
+2014-02-19,43.6333333333,Orlando Magic,Cleveland Cavaliers,4,81-87,-8,layup,False,0,True,True
+2014-02-19,44.4166666667,Orlando Magic,Cleveland Cavaliers,4,81-89,-9,free throw,False,15,False,True
+2014-02-19,44.4166666667,Orlando Magic,Cleveland Cavaliers,4,82-89,-8,free throw,False,15,True,True
+2014-02-19,44.7666666667,Orlando Magic,Cleveland Cavaliers,4,82-89,-9,tip shot,False,0,False,True
+2014-02-19,45.2166666667,Orlando Magic,Cleveland Cavaliers,4,84-89,-7,two point jumper,False,20,True,True
+2014-12-27,2.86666666667,Orlando Magic,Detroit Pistons,1,4-6,0,two point shot,True,2,True,False
+2014-12-27,4.7,Orlando Magic,Detroit Pistons,1,8-12,2,two point shot,True,2,True,False
+2014-12-27,6.35,Orlando Magic,Detroit Pistons,1,13-12,-3,two point jumper,True,19,False,False
+2014-12-27,11.4666666667,Orlando Magic,Detroit Pistons,1,21-26,3,two point shot,True,6,True,False
+2014-12-27,12.0,Orlando Magic,Detroit Pistons,1,21-26,3,two point jumper,True,12,False,False
+2014-12-27,20.8166666667,Orlando Magic,Detroit Pistons,2,39-49,8,two point jumper,True,16,False,False
+2014-12-27,22.4,Orlando Magic,Detroit Pistons,2,44-53,7,dunk,True,0,True,False
+2014-12-27,37.0666666667,Orlando Magic,Detroit Pistons,4,71-89,16,two point shot,True,15,True,False
+2014-12-27,37.65,Orlando Magic,Detroit Pistons,4,71-89,16,tip shot,True,0,False,False
+2014-12-27,37.7,Orlando Magic,Detroit Pistons,4,71-91,18,layup,True,0,True,False
+2014-12-27,39.1333333333,Orlando Magic,Detroit Pistons,4,71-93,20,two point jumper,True,19,False,False
+2014-12-27,40.4833333333,Orlando Magic,Detroit Pistons,4,75-97,20,layup,True,0,True,False
+2014-12-27,41.1666666667,Orlando Magic,Detroit Pistons,4,78-98,19,free throw,True,15,True,False
+2014-12-27,41.1666666667,Orlando Magic,Detroit Pistons,4,78-99,20,free throw,True,15,True,False
+2014-12-27,43.1333333333,Orlando Magic,Detroit Pistons,4,80-99,17,two point jumper,True,17,False,False
+2014-12-27,44.4666666667,Orlando Magic,Detroit Pistons,4,86-103,15,two point jumper,True,15,True,False
+2014-12-27,45.0,Orlando Magic,Detroit Pistons,4,86-105,17,two point shot,True,2,True,False
+2014-02-05,0.316666666667,Orlando Magic,Detroit Pistons,1,0-0,-2,two point jumper,True,20,False,False
+2014-02-05,2.7,Orlando Magic,Detroit Pistons,1,6-5,-3,two point shot,True,1,False,False
+2014-02-05,3.68333333333,Orlando Magic,Detroit Pistons,1,6-7,-1,two point shot,True,1,False,False
+2014-02-05,5.85,Orlando Magic,Detroit Pistons,1,10-13,1,layup,True,0,True,False
+2014-02-05,7.63333333333,Orlando Magic,Detroit Pistons,1,17-17,-2,two point jumper,True,17,True,False
+2014-02-05,9.45,Orlando Magic,Detroit Pistons,1,19-21,0,two point shot,True,5,True,False
+2014-02-05,18.2833333333,Orlando Magic,Detroit Pistons,2,34-42,6,two point shot,True,8,True,False
+2014-02-05,21.7333333333,Orlando Magic,Detroit Pistons,2,40-51,9,tip shot,True,0,False,False
+2014-02-05,24.0,Orlando Magic,Detroit Pistons,2,43-57,12,two point jumper,True,17,False,False
+2014-02-05,26.4,Orlando Magic,Detroit Pistons,3,46-61,13,two point shot,True,1,True,False
+2014-02-05,27.0,Orlando Magic,Detroit Pistons,3,46-63,15,two point shot,True,1,True,False
+2014-02-05,28.0333333333,Orlando Magic,Detroit Pistons,3,48-65,15,hook shot,True,11,False,False
+2014-02-05,43.9166666667,Orlando Magic,Detroit Pistons,4,88-103,14,free throw,True,15,True,False
+2014-02-05,43.9166666667,Orlando Magic,Detroit Pistons,4,88-104,15,free throw,True,15,True,False
+2014-10-29,3.75,Orlando Magic,Indiana Pacers,1,2-12,-12,two point shot,False,5,True,False
+2014-10-29,8.68333333333,Orlando Magic,Indiana Pacers,1,11-17,-8,two point jumper,False,19,False,False
+2014-10-29,23.5833333333,Orlando Magic,Indiana Pacers,2,44-40,2,layup,False,0,True,False
+2014-10-29,24.2,Orlando Magic,Indiana Pacers,3,44-40,2,two point jumper,False,1,False,False
+2014-10-29,27.3166666667,Orlando Magic,Indiana Pacers,3,46-47,-3,tip shot,False,0,False,False
+2014-10-29,38.4666666667,Orlando Magic,Indiana Pacers,4,65-76,-13,two point jumper,False,7,False,False
+2014-10-29,41.2833333333,Orlando Magic,Indiana Pacers,4,73-89,-18,two point jumper,False,18,True,False
+2014-10-29,42.6333333333,Orlando Magic,Indiana Pacers,4,75-92,-19,layup,False,0,True,False
+2014-02-03,0.566666666667,Orlando Magic,Indiana Pacers,1,0-2,-4,two point jumper,False,19,False,False
+2014-02-03,3.38333333333,Orlando Magic,Indiana Pacers,1,5-10,-7,two point jumper,False,12,False,False
+2014-02-03,5.95,Orlando Magic,Indiana Pacers,1,11-14,-5,two point jumper,False,15,True,False
+2014-02-03,6.5,Orlando Magic,Indiana Pacers,1,13-16,-5,layup,False,0,True,False
+2014-02-03,11.2666666667,Orlando Magic,Indiana Pacers,1,22-26,-6,two point jumper,False,21,False,False
+2014-02-03,11.9333333333,Orlando Magic,Indiana Pacers,1,22-26,-6,tip shot,False,0,False,False
+2014-02-03,18.7833333333,Orlando Magic,Indiana Pacers,2,37-50,-15,two point jumper,False,5,True,False
+2014-02-03,19.4166666667,Orlando Magic,Indiana Pacers,2,39-53,-16,two point jumper,False,19,True,False
+2014-02-03,25.0,Orlando Magic,Indiana Pacers,3,52-59,-9,two point jumper,False,22,False,False
+2014-02-03,25.5,Orlando Magic,Indiana Pacers,3,54-59,-7,two point jumper,False,17,True,False
+2014-02-03,28.9833333333,Orlando Magic,Indiana Pacers,3,58-60,-4,two point shot,False,1,True,False
+2014-02-03,28.9833333333,Orlando Magic,Indiana Pacers,3,58-60,-3,free throw,False,15,False,False
+2014-02-03,31.8833333333,Orlando Magic,Indiana Pacers,3,60-66,-8,tip shot,False,0,False,False
+2014-02-03,32.5333333333,Orlando Magic,Indiana Pacers,3,62-66,-6,two point jumper,False,10,False,False
+2014-02-03,42.0,Orlando Magic,Indiana Pacers,4,68-88,-22,layup,False,0,True,False
+2014-02-03,44.1,Orlando Magic,Indiana Pacers,4,70-92,-24,two point shot,False,7,True,False
+2014-02-09,1.06666666667,Orlando Magic,Indiana Pacers,1,2-2,-2,hook shot,True,7,False,True
+2014-02-09,2.33333333333,Orlando Magic,Indiana Pacers,1,4-3,-2,free throw,True,15,True,True
+2014-02-09,2.33333333333,Orlando Magic,Indiana Pacers,1,4-4,-1,free throw,True,15,True,True
+2014-02-09,6.23333333333,Orlando Magic,Indiana Pacers,1,15-17,0,two point jumper,True,13,True,True
+2014-02-09,6.75,Orlando Magic,Indiana Pacers,1,15-19,2,two point shot,True,3,True,True
+2014-02-09,7.38333333333,Orlando Magic,Indiana Pacers,1,15-21,4,two point jumper,True,17,True,True
+2014-02-09,19.5666666667,Orlando Magic,Indiana Pacers,2,46-43,-5,two point jumper,True,18,True,True
+2014-02-09,21.9333333333,Orlando Magic,Indiana Pacers,2,49-43,-8,layup,True,0,False,True
+2014-02-09,23.5166666667,Orlando Magic,Indiana Pacers,2,49-43,-8,two point shot,True,10,False,True
+2014-02-09,24.25,Orlando Magic,Indiana Pacers,3,52-43,-11,hook shot,True,3,False,True
+2014-02-09,25.3166666667,Orlando Magic,Indiana Pacers,3,54-44,-11,free throw,True,15,True,True
+2014-02-09,25.3166666667,Orlando Magic,Indiana Pacers,3,54-44,-11,free throw,True,15,False,True
+2014-02-09,27.5666666667,Orlando Magic,Indiana Pacers,3,60-46,-16,tip shot,True,0,False,True
+2014-02-09,27.5833333333,Orlando Magic,Indiana Pacers,3,60-48,-14,two point shot,True,1,True,True
+2014-02-09,28.8166666667,Orlando Magic,Indiana Pacers,3,65-50,-17,two point jumper,True,16,False,True
+2014-02-09,30.85,Orlando Magic,Indiana Pacers,3,66-54,-14,tip shot,True,0,False,True
+2014-02-09,30.9166666667,Orlando Magic,Indiana Pacers,3,66-54,-14,tip shot,True,0,False,True
+2014-02-09,32.4833333333,Orlando Magic,Indiana Pacers,3,71-55,-17,free throw,True,15,True,True
+2014-02-09,32.4833333333,Orlando Magic,Indiana Pacers,3,71-56,-16,free throw,True,15,True,True
+2014-02-09,33.1833333333,Orlando Magic,Indiana Pacers,3,71-56,-17,hook shot,True,7,False,True
+2014-02-09,33.4333333333,Orlando Magic,Indiana Pacers,3,71-57,-15,free throw,True,15,True,True
+2014-02-09,33.4333333333,Orlando Magic,Indiana Pacers,3,71-58,-14,free throw,True,15,True,True
+2014-02-09,34.05,Orlando Magic,Indiana Pacers,3,71-60,-13,two point shot,True,1,True,True
+2014-02-09,44.0,Orlando Magic,Indiana Pacers,4,83-88,3,two point jumper,True,19,False,True
+2014-11-13,2.2,Orlando Magic,Milwaukee Bucks,1,6-4,-4,dunk,True,0,True,True
+2014-11-13,5.75,Orlando Magic,Milwaukee Bucks,1,17-10,-8,free throw,True,15,True,True
+2014-11-13,5.75,Orlando Magic,Milwaukee Bucks,1,17-11,-7,free throw,True,15,True,True
+2014-11-13,17.7833333333,Orlando Magic,Milwaukee Bucks,2,47-31,-17,free throw,True,15,True,True
+2014-11-13,17.7833333333,Orlando Magic,Milwaukee Bucks,2,47-32,-16,free throw,True,15,True,True
+2014-11-13,20.45,Orlando Magic,Milwaukee Bucks,2,50-35,-16,free throw,True,15,True,True
+2014-11-13,20.45,Orlando Magic,Milwaukee Bucks,2,50-35,-16,free throw,True,15,False,True
+2014-11-13,22.75,Orlando Magic,Milwaukee Bucks,2,50-37,-15,layup,True,0,False,True
+2014-11-13,22.7666666667,Orlando Magic,Milwaukee Bucks,2,50-39,-13,layup,True,0,True,True
+2014-11-13,25.9333333333,Orlando Magic,Milwaukee Bucks,3,57-48,-11,tip shot,True,0,False,True
+2014-11-13,28.1333333333,Orlando Magic,Milwaukee Bucks,3,61-56,-7,layup,True,0,True,True
+2014-11-13,36.8166666667,Orlando Magic,Milwaukee Bucks,4,74-74,-2,two point shot,True,1,True,True
+2014-11-13,38.8666666667,Orlando Magic,Milwaukee Bucks,4,76-76,-2,two point jumper,True,22,True,True
+2014-11-13,42.95,Orlando Magic,Milwaukee Bucks,4,81-86,3,two point jumper,True,6,False,True
+2014-11-13,47.85,Orlando Magic,Milwaukee Bucks,4,91-94,1,dunk,True,0,True,True
+2014-01-31,3.7,Orlando Magic,Milwaukee Bucks,1,7-9,0,two point jumper,True,17,True,True
+2014-01-31,4.16666666667,Orlando Magic,Milwaukee Bucks,1,7-11,2,two point shot,True,11,True,True
+2014-01-31,4.95,Orlando Magic,Milwaukee Bucks,1,9-14,4,free throw,True,15,True,True
+2014-01-31,4.95,Orlando Magic,Milwaukee Bucks,1,9-15,5,free throw,True,15,True,True
+2014-01-31,6.78333333333,Orlando Magic,Milwaukee Bucks,1,11-21,8,two point jumper,True,19,False,True
+2014-01-31,13.6333333333,Orlando Magic,Milwaukee Bucks,2,23-41,16,two point shot,True,1,True,True
+2014-01-31,20.3666666667,Orlando Magic,Milwaukee Bucks,2,37-56,17,layup,True,0,True,True
+2014-01-31,22.1,Orlando Magic,Milwaukee Bucks,2,43-60,15,dunk,True,0,True,True
+2014-01-31,26.5833333333,Orlando Magic,Milwaukee Bucks,3,48-69,19,two point jumper,True,21,False,True
+2014-01-31,29.0333333333,Orlando Magic,Milwaukee Bucks,3,54-75,19,two point jumper,True,1,False,True
+2014-01-31,38.6166666667,Orlando Magic,Milwaukee Bucks,4,73-91,16,two point jumper,True,19,False,True
+2014-02-18,3.38333333333,Orlando Magic,Milwaukee Bucks,1,8-2,4,two point shot,False,4,True,False
+2014-02-18,5.48333333333,Orlando Magic,Milwaukee Bucks,1,13-9,2,two point jumper,False,1,True,False
+2014-02-18,6.95,Orlando Magic,Milwaukee Bucks,1,17-13,2,layup,False,0,True,False
+2014-02-18,17.2333333333,Orlando Magic,Milwaukee Bucks,2,31-39,-10,layup,False,0,True,False
+2014-02-18,18.6333333333,Orlando Magic,Milwaukee Bucks,2,34-44,-11,free throw,False,15,False,False
+2014-02-18,18.6333333333,Orlando Magic,Milwaukee Bucks,2,35-44,-10,free throw,False,15,True,False
+2014-02-18,23.5833333333,Orlando Magic,Milwaukee Bucks,2,46-50,-5,free throw,False,15,True,False
+2014-02-18,23.5833333333,Orlando Magic,Milwaukee Bucks,2,47-50,-4,free throw,False,15,True,False
+2014-02-18,24.5166666667,Orlando Magic,Milwaukee Bucks,3,48-53,-6,free throw,False,15,True,False
+2014-02-18,24.5166666667,Orlando Magic,Milwaukee Bucks,3,49-53,-5,free throw,False,15,True,False
+2014-02-18,28.0333333333,Orlando Magic,Milwaukee Bucks,3,55-63,-10,layup,False,0,False,False
+2014-02-18,28.0666666667,Orlando Magic,Milwaukee Bucks,3,57-63,-8,two point shot,False,1,True,False
+2014-02-18,28.45,Orlando Magic,Milwaukee Bucks,3,59-63,-6,two point jumper,False,19,True,False
+2014-02-18,44.4333333333,Orlando Magic,Milwaukee Bucks,4,94-96,-4,hook shot,False,2,False,False
+2014-02-18,47.1666666667,Orlando Magic,Milwaukee Bucks,4,97-96,-1,two point jumper,False,1,True,False
+2014-11-16,4.73333333333,Orlando Magic,Dallas Mavericks,1,9-10,-1,two point jumper,True,1,True,False
+2014-11-16,5.41666666667,Orlando Magic,Dallas Mavericks,1,9-14,3,two point jumper,True,16,True,False
+2014-11-16,7.45,Orlando Magic,Dallas Mavericks,1,16-16,-2,two point shot,True,9,True,False
+2014-11-16,20.1166666667,Orlando Magic,Dallas Mavericks,2,46-32,-16,two point jumper,True,21,False,False
+2014-11-16,24.3166666667,Orlando Magic,Dallas Mavericks,3,59-48,-13,two point shot,True,3,True,False
+2014-11-16,25.7,Orlando Magic,Dallas Mavericks,3,61-53,-10,hook shot,True,10,False,False
+2014-11-16,26.7166666667,Orlando Magic,Dallas Mavericks,3,65-55,-12,layup,True,0,True,False
+2014-11-16,28.1333333333,Orlando Magic,Dallas Mavericks,3,70-59,-13,two point shot,True,1,True,False
+2014-11-16,31.8833333333,Orlando Magic,Dallas Mavericks,3,79-72,-9,two point shot,True,6,True,False
+2014-11-16,41.0333333333,Orlando Magic,Dallas Mavericks,4,91-87,-6,two point shot,True,1,True,False
+2014-11-16,41.45,Orlando Magic,Dallas Mavericks,4,91-87,-6,hook shot,True,1,False,False
+2014-02-12,5.45,Orlando Magic,Memphis Grizzlies,1,6-4,-4,layup,True,0,False,False
+2014-02-12,10.4,Orlando Magic,Memphis Grizzlies,1,22-15,-9,two point shot,True,1,True,False
+2014-02-12,22.6166666667,Orlando Magic,Memphis Grizzlies,2,42-32,-12,two point jumper,True,18,False,False
+2014-02-12,23.8833333333,Orlando Magic,Memphis Grizzlies,2,42-34,-10,two point jumper,True,16,False,False
+2014-02-12,27.45,Orlando Magic,Memphis Grizzlies,3,48-40,-10,two point shot,True,6,True,False
+2014-02-12,29.3833333333,Orlando Magic,Memphis Grizzlies,3,50-47,-5,two point shot,True,1,True,False
+2014-02-12,30.1,Orlando Magic,Memphis Grizzlies,3,50-49,-3,layup,True,0,True,False
+2014-02-12,30.1,Orlando Magic,Memphis Grizzlies,3,50-50,-1,free throw,True,15,True,False
+2014-02-12,32.2666666667,Orlando Magic,Memphis Grizzlies,3,56-53,-5,layup,True,0,False,False
+2014-02-12,32.75,Orlando Magic,Memphis Grizzlies,3,57-53,-6,hook shot,True,8,False,False
+2014-02-12,33.3666666667,Orlando Magic,Memphis Grizzlies,3,57-55,-4,two point jumper,True,18,True,False
+2014-02-12,35.3166666667,Orlando Magic,Memphis Grizzlies,3,60-60,-2,two point jumper,True,16,False,False
+2014-02-12,43.6,Orlando Magic,Memphis Grizzlies,4,76-77,-1,two point jumper,True,20,True,False
+2014-11-01,1.0,Orlando Magic,New Orleans Pelicans,1,2-5,1,two point shot,True,5,True,False
+2014-11-01,1.5,Orlando Magic,New Orleans Pelicans,1,4-7,1,two point jumper,True,17,True,False
+2014-11-01,2.95,Orlando Magic,New Orleans Pelicans,1,6-9,1,two point shot,True,1,True,False
+2014-11-01,14.4,Orlando Magic,New Orleans Pelicans,2,24-28,2,hook shot,True,6,False,False
+2014-11-01,18.4166666667,Orlando Magic,New Orleans Pelicans,2,27-36,8,free throw,True,15,False,False
+2014-11-01,18.4166666667,Orlando Magic,New Orleans Pelicans,2,27-36,8,free throw,True,15,False,False
+2014-11-01,26.6333333333,Orlando Magic,New Orleans Pelicans,3,46-60,12,two point jumper,True,18,False,False
+2014-11-01,28.1,Orlando Magic,New Orleans Pelicans,3,48-65,16,free throw,True,15,True,False
+2014-11-01,28.1,Orlando Magic,New Orleans Pelicans,3,48-66,17,free throw,True,15,True,False
+2014-11-01,29.0666666667,Orlando Magic,New Orleans Pelicans,3,49-70,19,two point shot,True,9,True,False
+2014-11-29,0.266666666667,Orlando Magic,San Antonio Spurs,1,0-0,-2,hook shot,True,5,False,True
+2014-11-29,5.31666666667,Orlando Magic,San Antonio Spurs,1,12-13,-1,two point jumper,True,20,False,True
+2014-11-29,8.6,Orlando Magic,San Antonio Spurs,1,19-22,1,two point jumper,True,14,False,True
+2014-11-29,9.68333333333,Orlando Magic,San Antonio Spurs,1,21-22,-1,hook shot,True,4,False,True
+2014-11-29,10.1666666667,Orlando Magic,San Antonio Spurs,1,23-22,-3,two point jumper,True,17,False,True
+2014-11-29,23.4166666667,Orlando Magic,San Antonio Spurs,2,63-45,-20,two point jumper,True,18,True,True
+2014-11-29,25.8166666667,Orlando Magic,San Antonio Spurs,3,67-49,-20,two point jumper,True,21,False,True
+2014-11-29,26.7,Orlando Magic,San Antonio Spurs,3,67-49,-20,two point shot,True,5,False,True
+2014-11-29,28.1666666667,Orlando Magic,San Antonio Spurs,3,68-54,-16,two point shot,True,1,True,True
+2014-11-29,29.5666666667,Orlando Magic,San Antonio Spurs,3,68-56,-14,two point jumper,True,17,True,True
+2014-11-29,30.1666666667,Orlando Magic,San Antonio Spurs,3,68-57,-12,free throw,True,15,True,True
+2014-11-29,30.1666666667,Orlando Magic,San Antonio Spurs,3,68-58,-11,free throw,True,15,True,True
+2014-11-29,32.3166666667,Orlando Magic,San Antonio Spurs,3,75-59,-17,free throw,True,15,True,True
+2014-11-29,32.3166666667,Orlando Magic,San Antonio Spurs,3,75-60,-16,free throw,True,15,True,True
+2014-11-29,35.5,Orlando Magic,San Antonio Spurs,3,81-70,-13,two point jumper,True,18,True,True
+2014-11-09,13.1166666667,Orlando Magic,Atlanta Hawks,2,24-28,-6,two point jumper,False,1,False,True
+2014-11-09,13.25,Orlando Magic,Atlanta Hawks,2,24-28,-6,layup,False,0,False,True
+2014-11-09,13.65,Orlando Magic,Atlanta Hawks,2,26-30,-6,two point shot,False,1,True,True
+2014-11-09,16.9833333333,Orlando Magic,Atlanta Hawks,2,31-32,-2,free throw,False,15,False,True
+2014-11-09,16.9833333333,Orlando Magic,Atlanta Hawks,2,32-32,-1,free throw,False,15,True,True
+2014-11-09,18.1333333333,Orlando Magic,Atlanta Hawks,2,32-35,-5,two point jumper,False,18,False,True
+2014-11-09,25.8,Orlando Magic,Atlanta Hawks,3,47-53,-8,two point jumper,False,19,False,True
+2014-11-09,29.85,Orlando Magic,Atlanta Hawks,3,52-64,-14,two point shot,False,8,True,True
+2014-11-09,38.0833333333,Orlando Magic,Atlanta Hawks,4,71-76,-7,two point jumper,False,19,False,True
+2014-11-09,41.35,Orlando Magic,Atlanta Hawks,4,79-81,-4,two point jumper,False,19,False,True
+2014-11-09,46.9,Orlando Magic,Atlanta Hawks,4,91-99,-10,two point jumper,False,9,True,True
+2014-11-26,5.81666666667,Orlando Magic,Atlanta Hawks,1,11-10,-1,layup,False,0,True,False
+2014-11-26,6.35,Orlando Magic,Atlanta Hawks,1,11-13,-4,two point jumper,False,19,False,False
+2014-11-26,7.53333333333,Orlando Magic,Atlanta Hawks,1,13-15,-4,two point shot,False,1,True,False
+2014-11-26,9.25,Orlando Magic,Atlanta Hawks,1,18-20,-4,two point shot,False,7,True,False
+2014-11-26,9.25,Orlando Magic,Atlanta Hawks,1,19-20,-2,free throw,False,15,True,False
+2014-11-26,17.3166666667,Orlando Magic,Atlanta Hawks,2,31-37,-8,two point jumper,False,18,False,False
+2014-11-26,20.15,Orlando Magic,Atlanta Hawks,2,39-43,-6,two point jumper,False,20,False,False
+2014-11-26,23.8333333333,Orlando Magic,Atlanta Hawks,2,48-53,-6,free throw,False,15,True,False
+2014-11-26,23.8333333333,Orlando Magic,Atlanta Hawks,2,49-53,-5,free throw,False,15,True,False
+2014-11-26,31.7333333333,Orlando Magic,Atlanta Hawks,3,72-67,3,two point jumper,False,1,True,False
+2014-11-26,42.7,Orlando Magic,Atlanta Hawks,4,99-78,20,free throw,False,15,False,False
+2014-11-26,42.7,Orlando Magic,Atlanta Hawks,4,100-78,21,free throw,False,15,True,False
+2014-12-29,4.03333333333,Orlando Magic,Atlanta Hawks,1,5-9,2,two point shot,True,4,True,True
+2014-12-29,5.31666666667,Orlando Magic,Atlanta Hawks,1,9-11,0,two point jumper,True,18,False,True
+2014-12-29,8.56666666667,Orlando Magic,Atlanta Hawks,1,15-19,2,two point jumper,True,18,True,True
+2014-12-29,9.53333333333,Orlando Magic,Atlanta Hawks,1,17-21,2,dunk,True,0,True,True
+2014-12-29,21.95,Orlando Magic,Atlanta Hawks,2,40-52,10,two point shot,True,2,True,True
+2014-12-29,22.65,Orlando Magic,Atlanta Hawks,2,43-54,9,two point jumper,True,18,True,True
+2014-12-29,29.1333333333,Orlando Magic,Atlanta Hawks,3,60-68,6,two point jumper,True,19,True,True
+2014-12-29,31.35,Orlando Magic,Atlanta Hawks,3,63-74,9,two point shot,True,12,True,True
+2014-12-29,40.75,Orlando Magic,Atlanta Hawks,4,83-84,-1,two point jumper,True,20,False,True
+2014-12-29,42.8166666667,Orlando Magic,Atlanta Hawks,4,85-93,6,two point shot,True,1,True,True
+2014-12-11,0.333333333333,Orlando Magic,Charlotte Bobcats,1,0-0,-2,hook shot,False,6,False,True
+2014-12-11,1.45,Orlando Magic,Charlotte Bobcats,1,0-0,-2,tip shot,False,0,False,True
+2014-12-11,1.46666666667,Orlando Magic,Charlotte Bobcats,1,2-0,0,two point shot,False,1,True,True
+2014-12-11,4.38333333333,Orlando Magic,Charlotte Bobcats,1,4-2,0,two point jumper,False,17,True,True
+2014-12-11,16.95,Orlando Magic,Charlotte Bobcats,2,24-30,-8,hook shot,False,9,False,True
+2014-12-11,18.1666666667,Orlando Magic,Charlotte Bobcats,2,30-32,-4,layup,False,0,True,True
+2014-12-11,22.1166666667,Orlando Magic,Charlotte Bobcats,2,36-38,-3,free throw,False,15,True,True
+2014-12-11,22.1166666667,Orlando Magic,Charlotte Bobcats,2,37-38,-2,free throw,False,15,True,True
+2014-12-11,22.4833333333,Orlando Magic,Charlotte Bobcats,2,38-38,-1,free throw,False,15,True,True
+2014-12-11,22.4833333333,Orlando Magic,Charlotte Bobcats,2,39-38,0,free throw,False,15,True,True
+2014-12-11,22.9333333333,Orlando Magic,Charlotte Bobcats,2,41-40,-1,two point jumper,False,18,True,True
+2014-12-11,23.5166666667,Orlando Magic,Charlotte Bobcats,2,41-40,-1,hook shot,False,8,False,True
+2014-12-11,27.3166666667,Orlando Magic,Charlotte Bobcats,3,49-46,1,two point jumper,False,19,False,True
+2014-11-20,0.75,Orlando Magic,Miami Heat,1,2-0,-4,hook shot,True,8,False,True
+2014-11-20,0.75,Orlando Magic,Miami Heat,1,2-0,-4,two point shot,True,3,False,True
+2014-11-20,6.75,Orlando Magic,Miami Heat,1,18-10,-10,tip shot,True,0,False,True
+2014-11-20,6.95,Orlando Magic,Miami Heat,1,18-12,-8,two point shot,True,1,True,True
+2014-11-20,9.66666666667,Orlando Magic,Miami Heat,1,20-17,-5,two point jumper,True,15,True,True
+2014-11-20,18.5333333333,Orlando Magic,Miami Heat,2,37-33,-5,free throw,True,15,True,True
+2014-11-20,18.5333333333,Orlando Magic,Miami Heat,2,37-34,-4,free throw,True,15,True,True
+2014-11-20,27.0666666667,Orlando Magic,Miami Heat,3,65-54,-13,tip shot,True,0,False,True
+2014-11-20,29.1333333333,Orlando Magic,Miami Heat,3,71-57,-16,hook shot,True,9,False,True
+2014-11-23,0.566666666667,Orlando Magic,Miami Heat,1,0-2,-4,two point jumper,False,19,False,True
+2014-11-23,1.55,Orlando Magic,Miami Heat,1,4-4,-1,free throw,False,15,True,True
+2014-11-23,1.55,Orlando Magic,Miami Heat,1,4-4,-1,free throw,False,15,False,True
+2014-11-23,2.95,Orlando Magic,Miami Heat,1,9-6,1,layup,False,0,True,True
+2014-11-23,4.53333333333,Orlando Magic,Miami Heat,1,12-8,2,two point jumper,False,17,False,True
+2014-11-23,17.1666666667,Orlando Magic,Miami Heat,2,34-26,6,two point jumper,False,9,False,True
+2014-11-23,22.4333333333,Orlando Magic,Miami Heat,2,50-37,11,two point jumper,False,20,True,True
+2014-11-23,26.5833333333,Orlando Magic,Miami Heat,3,55-47,6,two point jumper,False,18,False,True
+2014-11-23,29.35,Orlando Magic,Miami Heat,3,62-51,9,two point shot,False,4,True,True
+2014-11-23,30.0333333333,Orlando Magic,Miami Heat,3,64-57,5,two point jumper,False,1,True,True
+2014-11-23,46.8,Orlando Magic,Miami Heat,4,96-98,-4,two point shot,False,1,True,True
+2014-03-01,2.86666666667,Orlando Magic,Miami Heat,1,7-5,0,two point shot,False,1,True,True
+2014-03-01,5.06666666667,Orlando Magic,Miami Heat,1,9-12,-5,two point jumper,False,21,False,True
+2014-03-01,5.73333333333,Orlando Magic,Miami Heat,1,13-12,-1,two point shot,False,1,True,True
+2014-03-01,6.16666666667,Orlando Magic,Miami Heat,1,15-12,1,two point jumper,False,19,True,True
+2014-03-01,15.6166666667,Orlando Magic,Miami Heat,2,37-39,-4,two point shot,False,1,True,True
+2014-03-01,17.4166666667,Orlando Magic,Miami Heat,2,39-43,-6,layup,False,0,False,True
+2014-03-01,17.95,Orlando Magic,Miami Heat,2,39-45,-8,two point jumper,False,9,False,True
+2014-03-01,17.9833333333,Orlando Magic,Miami Heat,2,41-45,-6,layup,False,0,True,True
+2014-03-01,19.8833333333,Orlando Magic,Miami Heat,2,45-52,-9,two point jumper,False,17,True,True
+2014-03-01,25.2166666667,Orlando Magic,Miami Heat,3,56-63,-9,layup,False,0,True,True
+2014-03-01,27.25,Orlando Magic,Miami Heat,3,60-67,-9,dunk,False,0,True,True
+2014-03-01,30.3166666667,Orlando Magic,Miami Heat,3,64-76,-14,layup,False,0,True,True
+2014-03-01,32.7666666667,Orlando Magic,Miami Heat,3,69-84,-17,hook shot,False,8,False,True
+2014-10-30,2.38333333333,Orlando Magic,Minnesota Timberwolves,1,6-4,0,two point jumper,False,16,True,False
+2014-10-30,3.56666666667,Orlando Magic,Minnesota Timberwolves,1,6-8,-4,two point jumper,False,1,False,False
+2014-10-30,15.3333333333,Orlando Magic,Minnesota Timberwolves,2,29-46,-19,tip shot,False,0,False,False
+2014-10-30,15.3666666667,Orlando Magic,Minnesota Timberwolves,2,31-46,-17,two point shot,False,1,True,False
+2014-10-30,16.4166666667,Orlando Magic,Minnesota Timberwolves,2,32-46,-15,free throw,False,15,True,False
+2014-10-30,16.4166666667,Orlando Magic,Minnesota Timberwolves,2,33-46,-14,free throw,False,15,True,False
+2014-10-30,19.2,Orlando Magic,Minnesota Timberwolves,2,40-50,-12,two point jumper,False,21,True,False
+2014-10-30,22.3,Orlando Magic,Minnesota Timberwolves,2,49-55,-8,two point jumper,False,16,False,False
+2014-10-30,30.6,Orlando Magic,Minnesota Timberwolves,3,68-72,-6,two point jumper,False,22,False,False
+2014-10-30,32.3666666667,Orlando Magic,Minnesota Timberwolves,3,73-77,-6,two point shot,False,12,True,False
+2014-10-30,32.8666666667,Orlando Magic,Minnesota Timberwolves,3,75-79,-6,two point jumper,False,1,True,False
+2014-10-30,37.3,Orlando Magic,Minnesota Timberwolves,4,84-89,-7,two point shot,False,1,True,False
+2014-10-30,39.3333333333,Orlando Magic,Minnesota Timberwolves,4,86-91,-6,free throw,False,15,False,False
+2014-10-30,39.3333333333,Orlando Magic,Minnesota Timberwolves,4,86-91,-6,free throw,False,15,False,False
+2014-10-30,44.2333333333,Orlando Magic,Minnesota Timberwolves,4,97-96,-1,dunk,False,0,True,False
+2014-10-30,46.6666666667,Orlando Magic,Minnesota Timberwolves,4,99-100,-3,two point shot,False,1,False,False
+2014-10-30,48.8833333333,Orlando Magic,Minnesota Timberwolves,5,105-105,-2,two point shot,False,1,True,False
+2014-10-30,50.1166666667,Orlando Magic,Minnesota Timberwolves,5,107-108,-3,two point jumper,False,20,False,False
+2014-10-30,52.2666666667,Orlando Magic,Minnesota Timberwolves,5,110-115,-6,free throw,False,15,True,False
+2014-10-30,52.2666666667,Orlando Magic,Minnesota Timberwolves,5,111-115,-5,free throw,False,15,True,False
+2014-10-30,52.7,Orlando Magic,Minnesota Timberwolves,5,115-119,-6,two point shot,False,1,True,False
+2014-12-02,5.31666666667,Orlando Magic,Washington Wizards,1,6-15,-11,two point jumper,False,15,True,False
+2014-12-02,5.85,Orlando Magic,Washington Wizards,1,6-15,-11,two point jumper,False,15,False,False
+2014-12-02,8.3,Orlando Magic,Washington Wizards,1,14-20,-8,layup,False,0,False,False
+2014-12-02,8.66666666667,Orlando Magic,Washington Wizards,1,14-22,-10,two point jumper,False,15,False,False
+2014-12-02,24.6833333333,Orlando Magic,Washington Wizards,3,43-54,-13,two point shot,False,6,True,False
+2014-12-02,25.3333333333,Orlando Magic,Washington Wizards,3,45-56,-13,two point shot,False,8,True,False
+2014-12-02,26.8166666667,Orlando Magic,Washington Wizards,3,45-59,-16,layup,False,0,False,False
+2014-12-02,27.6333333333,Orlando Magic,Washington Wizards,3,47-61,-16,two point shot,False,10,True,False
+2014-12-02,28.45,Orlando Magic,Washington Wizards,3,49-62,-15,two point jumper,False,21,False,False
+2014-12-02,29.3166666667,Orlando Magic,Washington Wizards,3,53-62,-11,two point shot,False,1,True,False
+2014-12-02,30.25,Orlando Magic,Washington Wizards,3,55-62,-9,two point jumper,False,14,False,False
+2014-12-15,5.53333333333,Orlando Magic,Oklahoma City Thunder,1,14-11,1,two point jumper,False,10,True,True
+2014-12-15,7.35,Orlando Magic,Oklahoma City Thunder,1,16-13,1,two point shot,False,1,True,True
+2014-12-15,9.7,Orlando Magic,Oklahoma City Thunder,1,20-19,-1,two point shot,False,4,True,True
+2014-12-15,10.8,Orlando Magic,Oklahoma City Thunder,1,22-23,-3,two point jumper,False,1,True,True
+2014-12-15,11.3166666667,Orlando Magic,Oklahoma City Thunder,1,22-25,-5,two point jumper,False,21,False,True
+2014-12-15,19.7833333333,Orlando Magic,Oklahoma City Thunder,2,43-45,-4,layup,False,0,True,True
+2014-12-15,24.45,Orlando Magic,Oklahoma City Thunder,3,51-56,-7,two point jumper,False,18,True,True
+2014-12-15,27.0666666667,Orlando Magic,Oklahoma City Thunder,3,54-65,-13,two point shot,False,1,False,True
+2014-12-15,31.45,Orlando Magic,Oklahoma City Thunder,3,63-73,-11,free throw,False,15,False,True
+2014-12-15,31.45,Orlando Magic,Oklahoma City Thunder,3,64-73,-10,free throw,False,15,True,True
+2014-12-18,3.43333333333,Orlando Magic,Utah Jazz,1,7-8,-1,two point shot,True,1,True,False
+2014-12-18,4.53333333333,Orlando Magic,Utah Jazz,1,10-10,-2,hook shot,True,7,False,False
+2014-12-18,5.95,Orlando Magic,Utah Jazz,1,15-14,-3,two point shot,True,3,True,False
+2014-12-18,6.6,Orlando Magic,Utah Jazz,1,15-14,-3,two point jumper,True,18,False,False
+2014-12-18,8.06666666667,Orlando Magic,Utah Jazz,1,18-16,-4,two point jumper,True,9,False,False
+2014-12-18,16.2333333333,Orlando Magic,Utah Jazz,2,31-32,-1,two point shot,True,5,True,False
+2014-12-18,17.0666666667,Orlando Magic,Utah Jazz,2,34-32,-4,unknown,True,12,False,False
+2014-12-18,18.0,Orlando Magic,Utah Jazz,2,39-34,-7,two point jumper,True,16,True,False
+2014-12-18,18.7,Orlando Magic,Utah Jazz,2,39-34,-7,hook shot,True,5,False,False
+2014-12-18,19.7333333333,Orlando Magic,Utah Jazz,2,39-37,-4,two point jumper,True,19,False,False
+2014-12-18,22.7166666667,Orlando Magic,Utah Jazz,2,49-37,-14,tip shot,True,0,False,False
+2014-12-18,27.0,Orlando Magic,Utah Jazz,3,52-46,-7,free throw,True,15,True,False
+2014-12-18,27.0,Orlando Magic,Utah Jazz,3,52-47,-6,free throw,True,15,True,False
+2014-12-18,29.5666666667,Orlando Magic,Utah Jazz,3,55-54,-3,two point shot,True,1,True,False
+2014-12-18,31.45,Orlando Magic,Utah Jazz,3,57-58,-1,tip shot,True,0,False,False
+2014-12-18,31.8833333333,Orlando Magic,Utah Jazz,3,59-58,-3,hook shot,True,6,False,False
+2014-12-18,45.0166666667,Orlando Magic,Utah Jazz,4,80-78,-4,two point jumper,True,16,False,False
+2014-12-18,46.4666666667,Orlando Magic,Utah Jazz,4,82-79,-4,free throw,True,15,True,False
+2014-12-18,46.4666666667,Orlando Magic,Utah Jazz,4,82-80,-3,free throw,True,15,True,False
+2014-02-07,0.45,Orlando Magic,Oklahoma City Thunder,1,0-2,0,two point jumper,True,18,True,True
+2014-02-07,1.13333333333,Orlando Magic,Oklahoma City Thunder,1,2-2,-2,two point jumper,True,19,False,True
+2014-02-07,3.13333333333,Orlando Magic,Oklahoma City Thunder,1,6-6,-2,two point shot,True,1,True,True
+2014-02-07,5.28333333333,Orlando Magic,Oklahoma City Thunder,1,12-8,-6,two point jumper,True,16,False,True
+2014-02-07,20.2333333333,Orlando Magic,Oklahoma City Thunder,2,56-42,-16,layup,True,0,False,True
+2014-02-07,21.8333333333,Orlando Magic,Oklahoma City Thunder,2,58-48,-12,layup,True,0,True,True
+2014-02-07,23.6166666667,Orlando Magic,Oklahoma City Thunder,2,63-51,-14,two point jumper,True,19,False,True
+2014-02-07,27.45,Orlando Magic,Oklahoma City Thunder,3,69-58,-13,two point jumper,True,17,True,True
+2014-02-07,29.2833333333,Orlando Magic,Oklahoma City Thunder,3,72-63,-10,free throw,True,15,True,True
+2014-02-07,29.2833333333,Orlando Magic,Oklahoma City Thunder,3,72-64,-9,free throw,True,15,True,True
+2014-02-07,34.0833333333,Orlando Magic,Oklahoma City Thunder,3,84-76,-10,tip shot,True,0,False,True
+2014-02-07,35.9666666667,Orlando Magic,Oklahoma City Thunder,3,88-80,-10,two point jumper,True,19,False,True
+2014-02-07,45.9666666667,Orlando Magic,Oklahoma City Thunder,4,99-99,-2,layup,True,0,False,True
+2014-02-07,47.5333333333,Orlando Magic,Oklahoma City Thunder,4,102-101,-3,tip shot,True,0,False,True
+2014-02-25,0.25,Orlando Magic,Washington Wizards,1,2-0,0,layup,False,0,True,False
+2014-02-25,1.06666666667,Orlando Magic,Washington Wizards,1,2-2,-2,two point jumper,False,21,False,False
+2014-02-25,3.3,Orlando Magic,Washington Wizards,1,7-6,-1,two point shot,False,9,True,False
+2014-02-25,4.85,Orlando Magic,Washington Wizards,1,9-14,-7,layup,False,0,False,False
+2014-02-25,5.41666666667,Orlando Magic,Washington Wizards,1,9-17,-10,layup,False,0,False,False
+2014-02-25,8.05,Orlando Magic,Washington Wizards,1,20-24,-6,two point jumper,False,1,False,False
+2014-02-25,8.48333333333,Orlando Magic,Washington Wizards,1,21-26,-6,free throw,False,15,True,False
+2014-02-25,8.48333333333,Orlando Magic,Washington Wizards,1,21-26,-6,free throw,False,15,False,False
+2014-02-25,9.03333333333,Orlando Magic,Washington Wizards,1,23-28,-7,two point shot,False,5,True,False
+2014-02-25,18.35,Orlando Magic,Washington Wizards,2,41-51,-12,two point shot,False,1,True,False
+2014-02-25,24.75,Orlando Magic,Washington Wizards,3,55-64,-11,two point jumper,False,13,True,False
+2014-02-25,31.5666666667,Orlando Magic,Washington Wizards,3,71-86,-17,two point shot,False,2,True,False
+2014-02-25,33.55,Orlando Magic,Washington Wizards,3,80-86,-8,two point jumper,False,19,True,False
+2014-02-25,41.7,Orlando Magic,Washington Wizards,4,90-100,-12,two point shot,False,8,True,False
+2014-02-25,44.0166666667,Orlando Magic,Washington Wizards,4,95-106,-13,layup,False,0,False,False
+2014-02-25,44.95,Orlando Magic,Washington Wizards,4,97-107,-12,dunk,False,0,True,False

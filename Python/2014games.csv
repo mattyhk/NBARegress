@@ -1,0 +1,883 @@
+id,date,home_team,home_team_score,overtime,visit_team,visit_team_score
+400488879,2014-10-30,Toronto Raptors,93,False,Boston Celtics,87
+400488897,2014-11-01,Boston Celtics,98,False,Milwaukee Bucks,105
+400488914,2014-11-03,Detroit Pistons,87,False,Boston Celtics,77
+400488922,2014-11-04,Memphis Grizzlies,95,False,Boston Celtics,88
+400488937,2014-11-06,Boston Celtics,97,False,Utah Jazz,87
+400488948,2014-11-08,Orlando Magic,89,False,Boston Celtics,91
+400488962,2014-11-09,Miami Heat,110,False,Boston Celtics,111
+400488974,2014-11-11,Boston Celtics,120,False,Orlando Magic,105
+400488986,2014-11-13,Boston Celtics,83,False,Charlotte Bobcats,89
+400489001,2014-11-15,Boston Celtics,96,False,Portland Trail Blazers,109
+400489015,2014-11-16,Minnesota Timberwolves,106,False,Boston Celtics,88
+400489032,2014-11-19,Houston Rockets,109,False,Boston Celtics,85
+400489043,2014-11-20,San Antonio Spurs,104,False,Boston Celtics,93
+400489052,2014-11-22,Boston Celtics,82,False,Indiana Pacers,97
+400489063,2014-11-23,Atlanta Hawks,87,False,Boston Celtics,94
+400489075,2014-11-25,Charlotte Bobcats,86,False,Boston Celtics,96
+400489090,2014-11-27,Boston Celtics,93,False,Memphis Grizzlies,100
+400489105,2014-11-29,Boston Celtics,103,False,Cleveland Cavaliers,86
+400489120,2014-11-30,Milwaukee Bucks,92,False,Boston Celtics,85
+400489135,2014-12-03,Boston Celtics,108,False,Milwaukee Bucks,100
+400489156,2014-12-06,Boston Celtics,106,False,Denver Nuggets,98
+400489172,2014-12-08,New York Knicks,73,False,Boston Celtics,114
+400489187,2014-12-10,Brooklyn Nets,104,False,Boston Celtics,96
+400489192,2014-12-11,Boston Celtics,88,False,Los Angeles Clippers,96
+400489206,2014-12-13,Boston Celtics,90,False,New York Knicks,86
+400489231,2014-12-16,Boston Celtics,101,False,Minnesota Timberwolves,97
+400489246,2014-12-18,Boston Celtics,106,False,Detroit Pistons,107
+400489266,2014-12-21,Boston Celtics,99,False,Washington Wizards,106
+400489277,2014-12-22,Indiana Pacers,106,False,Boston Celtics,79
+400489309,2014-12-28,Boston Celtics,103,False,Cleveland Cavaliers,100
+400489333,2014-12-31,Boston Celtics,91,False,Atlanta Hawks,92
+400489348,2014-01-02,Chicago Bulls,94,False,Boston Celtics,82
+400489357,2014-01-03,Boston Celtics,92,False,New Orleans Pelicans,95
+400489375,2014-01-05,Oklahoma City Thunder,119,False,Boston Celtics,96
+400489390,2014-01-07,Denver Nuggets,129,False,Boston Celtics,98
+400489401,2014-01-08,Los Angeles Clippers,111,False,Boston Celtics,105
+400489414,2014-01-10,Golden State Warriors,99,False,Boston Celtics,97
+400489424,2014-01-11,Portland Trail Blazers,112,False,Boston Celtics,104
+400489429,2014-01-13,Boston Celtics,92,False,Houston Rockets,104
+400489442,2014-01-15,Boston Celtics,88,False,Toronto Raptors,83
+400489459,2014-01-17,Boston Celtics,104,False,Los Angeles Lakers,107
+400489475,2014-01-19,Orlando Magic,93,False,Boston Celtics,91
+400489490,2014-01-21,Miami Heat,93,False,Boston Celtics,86
+400489498,2014-01-22,Washington Wizards,111,True,Boston Celtics,113
+400489509,2014-01-24,Boston Celtics,83,False,Oklahoma City Thunder,101
+400489531,2014-01-26,Boston Celtics,79,False,Brooklyn Nets,85
+400489543,2014-01-28,New York Knicks,114,False,Boston Celtics,88
+400489551,2014-01-29,Boston Celtics,94,False,Philadelphia 76ers,95
+400489582,2014-02-02,Boston Celtics,96,False,Orlando Magic,89
+400489599,2014-02-05,Philadelphia 76ers,108,False,Boston Celtics,114
+400489616,2014-02-07,Boston Celtics,99,False,Sacramento Kings,89
+400489631,2014-02-09,Boston Celtics,91,False,Dallas Mavericks,102
+400489640,2014-02-10,Milwaukee Bucks,86,False,Boston Celtics,102
+400489653,2014-02-12,Boston Celtics,92,False,San Antonio Spurs,104
+400489680,2014-02-19,Phoenix Suns,100,False,Boston Celtics,94
+400489697,2014-02-21,Los Angeles Lakers,101,False,Boston Celtics,92
+400489704,2014-02-22,Sacramento Kings,105,False,Boston Celtics,98
+400489718,2014-02-24,Utah Jazz,110,False,Boston Celtics,98
+400489727,2014-02-26,Boston Celtics,115,False,Atlanta Hawks,104
+400489750,2014-03-01,Boston Celtics,97,False,Indiana Pacers,102
+400488877,2014-10-30,Cleveland Cavaliers,98,False,Brooklyn Nets,94
+400488901,2014-11-01,Brooklyn Nets,101,False,Miami Heat,100
+400488916,2014-11-03,Orlando Magic,107,False,Brooklyn Nets,86
+400488925,2014-11-05,Brooklyn Nets,104,False,Utah Jazz,88
+400488950,2014-11-08,Washington Wizards,112,True,Brooklyn Nets,108
+400488960,2014-11-09,Brooklyn Nets,91,False,Indiana Pacers,96
+400488994,2014-11-13,Sacramento Kings,107,False,Brooklyn Nets,86
+400489005,2014-11-15,Phoenix Suns,98,True,Brooklyn Nets,100
+400489019,2014-11-16,Los Angeles Clippers,110,False,Brooklyn Nets,103
+400489023,2014-11-18,Brooklyn Nets,98,False,Portland Trail Blazers,108
+400489034,2014-11-20,Charlotte Bobcats,95,False,Brooklyn Nets,91
+400489055,2014-11-22,Minnesota Timberwolves,111,False,Brooklyn Nets,81
+400489070,2014-11-24,Brooklyn Nets,97,False,Detroit Pistons,109
+400489084,2014-11-26,Toronto Raptors,100,False,Brooklyn Nets,102
+400489091,2014-11-27,Brooklyn Nets,94,False,Los Angeles Lakers,99
+400489107,2014-11-29,Houston Rockets,114,False,Brooklyn Nets,95
+400489116,2014-11-30,Memphis Grizzlies,88,False,Brooklyn Nets,97
+400489136,2014-12-03,Brooklyn Nets,87,False,Denver Nuggets,111
+400489150,2014-12-05,Brooklyn Nets,83,False,New York Knicks,113
+400489168,2014-12-07,Milwaukee Bucks,82,False,Brooklyn Nets,90
+400489200,2014-12-12,Brooklyn Nets,102,False,Los Angeles Clippers,93
+400489207,2014-12-13,Detroit Pistons,103,False,Brooklyn Nets,99
+400489232,2014-12-16,Brooklyn Nets,130,False,Philadelphia 76ers,94
+400489247,2014-12-18,Brooklyn Nets,107,False,Washington Wizards,113
+400489256,2014-12-20,Philadelphia 76ers,121,True,Brooklyn Nets,120
+400489283,2014-12-23,Brooklyn Nets,86,False,Indiana Pacers,103
+400489291,2014-12-25,Brooklyn Nets,78,False,Chicago Bulls,95
+400489302,2014-12-27,Brooklyn Nets,104,False,Milwaukee Bucks,93
+400489310,2014-12-28,Indiana Pacers,105,False,Brooklyn Nets,91
+400489338,2014-12-31,San Antonio Spurs,113,False,Brooklyn Nets,92
+400489349,2014-01-02,Oklahoma City Thunder,93,False,Brooklyn Nets,95
+400489364,2014-01-04,Brooklyn Nets,89,False,Cleveland Cavaliers,82
+400489379,2014-01-06,Brooklyn Nets,91,False,Atlanta Hawks,86
+400489396,2014-01-08,Brooklyn Nets,102,False,Golden State Warriors,98
+400489410,2014-01-10,Brooklyn Nets,104,True,Miami Heat,95
+400489416,2014-01-11,Toronto Raptors,96,False,Brooklyn Nets,80
+400489452,2014-01-16,Atlanta Hawks,110,False,Brooklyn Nets,127
+400489483,2014-01-20,New York Knicks,80,False,Brooklyn Nets,103
+400489489,2014-01-21,Brooklyn Nets,101,False,Orlando Magic,90
+400489510,2014-01-24,Brooklyn Nets,107,False,Dallas Mavericks,106
+400489536,2014-01-27,Brooklyn Nets,103,False,Toronto Raptors,104
+400489565,2014-01-31,Brooklyn Nets,95,False,Oklahoma City Thunder,120
+400489570,2014-02-01,Indiana Pacers,97,False,Brooklyn Nets,96
+400489585,2014-02-03,Brooklyn Nets,108,False,Philadelphia 76ers,102
+400489610,2014-02-06,Brooklyn Nets,103,False,San Antonio Spurs,89
+400489617,2014-02-07,Detroit Pistons,111,False,Brooklyn Nets,95
+400489632,2014-02-09,Brooklyn Nets,93,False,New Orleans Pelicans,81
+400489654,2014-02-12,Brooklyn Nets,105,False,Charlotte Bobcats,89
+400489663,2014-02-13,Chicago Bulls,92,False,Brooklyn Nets,76
+400489681,2014-02-19,Utah Jazz,99,False,Brooklyn Nets,105
+400489705,2014-02-22,Golden State Warriors,93,False,Brooklyn Nets,86
+400489712,2014-02-23,Los Angeles Lakers,102,False,Brooklyn Nets,108
+400489734,2014-02-26,Portland Trail Blazers,124,False,Brooklyn Nets,80
+400489739,2014-02-27,Denver Nuggets,89,False,Brooklyn Nets,112
+400489751,2014-03-01,Milwaukee Bucks,98,False,Brooklyn Nets,107
+400488881,2014-10-30,New York Knicks,90,False,Milwaukee Bucks,83
+400488891,2014-10-31,Chicago Bulls,82,False,New York Knicks,81
+400488918,2014-11-03,New York Knicks,100,False,Minnesota Timberwolves,109
+400488927,2014-11-05,New York Knicks,97,False,Charlotte Bobcats,102
+400488946,2014-11-08,Charlotte Bobcats,91,False,New York Knicks,101
+400488967,2014-11-10,New York Knicks,89,False,San Antonio Spurs,120
+400488989,2014-11-13,Atlanta Hawks,91,False,New York Knicks,95
+400488996,2014-11-14,New York Knicks,106,False,Houston Rockets,109
+400489012,2014-11-16,New York Knicks,90,False,Atlanta Hawks,110
+400489030,2014-11-19,Detroit Pistons,92,False,New York Knicks,86
+400489036,2014-11-20,New York Knicks,96,True,Indiana Pacers,103
+400489062,2014-11-23,Washington Wizards,98,False,New York Knicks,89
+400489083,2014-11-25,Portland Trail Blazers,102,False,New York Knicks,91
+400489100,2014-11-27,Los Angeles Clippers,93,False,New York Knicks,80
+400489111,2014-11-29,Denver Nuggets,97,False,New York Knicks,95
+400489127,2014-12-01,New York Knicks,99,False,New Orleans Pelicans,103
+400489157,2014-12-06,New York Knicks,121,False,Orlando Magic,83
+400489183,2014-12-10,Cleveland Cavaliers,109,False,New York Knicks,94
+400489197,2014-12-11,New York Knicks,83,False,Chicago Bulls,78
+400489218,2014-12-14,New York Knicks,111,False,Atlanta Hawks,106
+400489234,2014-12-16,New York Knicks,101,False,Washington Wizards,102
+400489248,2014-12-18,Milwaukee Bucks,101,True,New York Knicks,107
+400489265,2014-12-21,New York Knicks,87,False,Memphis Grizzlies,95
+400489282,2014-12-23,Orlando Magic,98,False,New York Knicks,103
+400489292,2014-12-25,New York Knicks,94,False,Oklahoma City Thunder,123
+400489303,2014-12-27,New York Knicks,83,False,Toronto Raptors,95
+400489311,2014-12-28,Toronto Raptors,115,False,New York Knicks,100
+400489350,2014-01-02,San Antonio Spurs,101,False,New York Knicks,105
+400489358,2014-01-03,Houston Rockets,102,False,New York Knicks,100
+400489376,2014-01-05,Dallas Mavericks,80,False,New York Knicks,92
+400489385,2014-01-07,New York Knicks,89,False,Detroit Pistons,85
+400489402,2014-01-09,New York Knicks,102,False,Miami Heat,92
+400489419,2014-01-11,Philadelphia 76ers,92,False,New York Knicks,102
+400489430,2014-01-13,New York Knicks,98,True,Phoenix Suns,96
+400489435,2014-01-14,Charlotte Bobcats,108,False,New York Knicks,98
+400489451,2014-01-16,Indiana Pacers,117,False,New York Knicks,89
+400489454,2014-01-17,New York Knicks,95,False,Los Angeles Clippers,109
+400489499,2014-01-22,New York Knicks,106,False,Philadelphia 76ers,110
+400489513,2014-01-24,New York Knicks,125,False,Charlotte Bobcats,96
+400489528,2014-01-26,New York Knicks,110,False,Los Angeles Lakers,103
+400489560,2014-01-30,New York Knicks,117,False,Cleveland Cavaliers,86
+400489578,2014-02-01,New York Knicks,91,False,Miami Heat,106
+400489587,2014-02-03,Milwaukee Bucks,101,False,New York Knicks,98
+400489601,2014-02-05,New York Knicks,90,False,Portland Trail Blazers,94
+400489618,2014-02-07,New York Knicks,117,False,Denver Nuggets,90
+400489629,2014-02-09,Oklahoma City Thunder,112,False,New York Knicks,100
+400489656,2014-02-12,New York Knicks,101,True,Sacramento Kings,106
+400489669,2014-02-18,Memphis Grizzlies,98,False,New York Knicks,93
+400489679,2014-02-19,New Orleans Pelicans,91,False,New York Knicks,98
+400489689,2014-02-21,Orlando Magic,129,True,New York Knicks,121
+400489700,2014-02-22,Atlanta Hawks,107,False,New York Knicks,98
+400489716,2014-02-24,New York Knicks,108,False,Dallas Mavericks,110
+400489738,2014-02-27,Miami Heat,108,False,New York Knicks,82
+400489742,2014-02-28,New York Knicks,103,False,Golden State Warriors,126
+400489756,2014-03-02,Chicago Bulls,109,False,New York Knicks,90
+400488878,2014-10-30,Philadelphia 76ers,114,False,Miami Heat,110
+400488895,2014-11-01,Washington Wizards,102,False,Philadelphia 76ers,109
+400488907,2014-11-02,Philadelphia 76ers,107,False,Chicago Bulls,104
+400488921,2014-11-04,Philadelphia 76ers,90,False,Golden State Warriors,110
+400488936,2014-11-06,Philadelphia 76ers,102,False,Washington Wizards,116
+400488949,2014-11-08,Philadelphia 76ers,94,False,Cleveland Cavaliers,79
+400488961,2014-11-09,Cleveland Cavaliers,127,True,Philadelphia 76ers,125
+400488973,2014-11-11,Philadelphia 76ers,85,False,San Antonio Spurs,109
+400488985,2014-11-13,Philadelphia 76ers,123,True,Houston Rockets,117
+400489000,2014-11-15,Atlanta Hawks,113,False,Philadelphia 76ers,103
+400489016,2014-11-16,New Orleans Pelicans,135,False,Philadelphia 76ers,98
+400489026,2014-11-18,Dallas Mavericks,97,False,Philadelphia 76ers,94
+400489038,2014-11-20,Philadelphia 76ers,98,False,Toronto Raptors,108
+400489050,2014-11-22,Philadelphia 76ers,115,True,Milwaukee Bucks,107
+400489061,2014-11-23,Indiana Pacers,106,False,Philadelphia 76ers,98
+400489089,2014-11-27,Orlando Magic,105,False,Philadelphia 76ers,94
+400489110,2014-11-29,Philadelphia 76ers,105,False,New Orleans Pelicans,121
+400489123,2014-12-01,Detroit Pistons,115,False,Philadelphia 76ers,100
+400489134,2014-12-03,Philadelphia 76ers,126,True,Orlando Magic,125
+400489153,2014-12-06,Charlotte Bobcats,105,False,Philadelphia 76ers,88
+400489163,2014-12-07,Philadelphia 76ers,92,False,Denver Nuggets,103
+400489178,2014-12-09,Philadelphia 76ers,83,False,Los Angeles Clippers,94
+400489195,2014-12-11,Minnesota Timberwolves,106,False,Philadelphia 76ers,99
+400489204,2014-12-13,Toronto Raptors,108,False,Philadelphia 76ers,100
+400489220,2014-12-14,Philadelphia 76ers,105,False,Portland Trail Blazers,139
+400489271,2014-12-21,Milwaukee Bucks,116,False,Philadelphia 76ers,106
+400489318,2014-12-28,Phoenix Suns,115,False,Philadelphia 76ers,101
+400489325,2014-12-29,Los Angeles Lakers,104,False,Philadelphia 76ers,111
+400489344,2014-01-01,Denver Nuggets,102,False,Philadelphia 76ers,114
+400489354,2014-01-02,Sacramento Kings,104,False,Philadelphia 76ers,113
+400489369,2014-01-04,Portland Trail Blazers,99,False,Philadelphia 76ers,101
+400489378,2014-01-06,Philadelphia 76ers,95,False,Minnesota Timberwolves,126
+400489382,2014-01-07,Cleveland Cavaliers,111,False,Philadelphia 76ers,93
+400489405,2014-01-10,Philadelphia 76ers,104,False,Detroit Pistons,114
+400489440,2014-01-15,Philadelphia 76ers,95,False,Charlotte Bobcats,92
+400489456,2014-01-17,Philadelphia 76ers,86,False,Miami Heat,101
+400489469,2014-01-18,Chicago Bulls,103,False,Philadelphia 76ers,78
+400489482,2014-01-20,Washington Wizards,107,False,Philadelphia 76ers,99
+400489507,2014-01-24,Philadelphia 76ers,95,False,Toronto Raptors,104
+400489521,2014-01-25,Philadelphia 76ers,91,False,Oklahoma City Thunder,103
+400489535,2014-01-27,Philadelphia 76ers,113,False,Phoenix Suns,124
+400489563,2014-01-31,Philadelphia 76ers,99,False,Atlanta Hawks,125
+400489573,2014-02-01,Detroit Pistons,113,False,Philadelphia 76ers,96
+400489614,2014-02-07,Philadelphia 76ers,98,False,Los Angeles Lakers,112
+400489636,2014-02-09,Los Angeles Clippers,123,False,Philadelphia 76ers,78
+400489642,2014-02-10,Golden State Warriors,123,False,Philadelphia 76ers,80
+400489660,2014-02-12,Utah Jazz,105,False,Philadelphia 76ers,100
+400489666,2014-02-18,Philadelphia 76ers,85,False,Cleveland Cavaliers,114
+400489690,2014-02-21,Philadelphia 76ers,112,False,Dallas Mavericks,124
+400489714,2014-02-24,Philadelphia 76ers,110,False,Milwaukee Bucks,130
+400489726,2014-02-26,Philadelphia 76ers,90,False,Orlando Magic,101
+400489748,2014-03-01,Philadelphia 76ers,103,False,Washington Wizards,122
+400488896,2014-11-01,Atlanta Hawks,102,False,Toronto Raptors,95
+400488910,2014-11-02,Milwaukee Bucks,90,False,Toronto Raptors,97
+400488924,2014-11-05,Toronto Raptors,95,False,Miami Heat,104
+400488933,2014-11-06,Charlotte Bobcats,92,False,Toronto Raptors,90
+400488947,2014-11-08,Indiana Pacers,91,False,Toronto Raptors,84
+400488958,2014-11-09,Toronto Raptors,115,False,Utah Jazz,91
+400488976,2014-11-11,Houston Rockets,110,True,Toronto Raptors,104
+400488987,2014-11-13,Memphis Grizzlies,87,False,Toronto Raptors,103
+400488999,2014-11-15,Toronto Raptors,80,False,Chicago Bulls,96
+400489020,2014-11-17,Toronto Raptors,110,True,Portland Trail Blazers,118
+400489051,2014-11-22,Toronto Raptors,96,False,Washington Wizards,88
+400489103,2014-11-29,Toronto Raptors,83,False,Miami Heat,90
+400489121,2014-12-01,Toronto Raptors,98,False,Denver Nuggets,112
+400489141,2014-12-03,Golden State Warriors,112,False,Toronto Raptors,103
+400489160,2014-12-06,Phoenix Suns,106,False,Toronto Raptors,97
+400489176,2014-12-08,Los Angeles Lakers,94,False,Toronto Raptors,106
+400489185,2014-12-10,Toronto Raptors,103,False,San Antonio Spurs,116
+400489219,2014-12-14,Chicago Bulls,77,False,Toronto Raptors,99
+400489244,2014-12-18,Toronto Raptors,102,True,Charlotte Bobcats,104
+400489262,2014-12-20,Dallas Mavericks,108,True,Toronto Raptors,109
+400489278,2014-12-22,Oklahoma City Thunder,98,False,Toronto Raptors,104
+400489287,2014-12-23,San Antonio Spurs,112,False,Toronto Raptors,99
+400489336,2014-12-31,Chicago Bulls,79,False,Toronto Raptors,85
+400489342,2014-01-01,Toronto Raptors,95,False,Indiana Pacers,82
+400489355,2014-01-03,Washington Wizards,88,False,Toronto Raptors,101
+400489373,2014-01-05,Miami Heat,102,False,Toronto Raptors,97
+400489383,2014-01-07,Indiana Pacers,86,False,Toronto Raptors,79
+400489394,2014-01-08,Toronto Raptors,112,False,Detroit Pistons,91
+400489428,2014-01-13,Toronto Raptors,116,False,Milwaukee Bucks,94
+400489457,2014-01-17,Toronto Raptors,94,False,Minnesota Timberwolves,89
+400489474,2014-01-19,Toronto Raptors,106,False,Los Angeles Lakers,112
+400489481,2014-01-20,Charlotte Bobcats,100,False,Toronto Raptors,95
+400489497,2014-01-22,Toronto Raptors,93,False,Dallas Mavericks,85
+400489520,2014-01-25,Toronto Raptors,118,False,Los Angeles Clippers,126
+400489549,2014-01-29,Toronto Raptors,98,False,Orlando Magic,83
+400489567,2014-01-31,Denver Nuggets,90,False,Toronto Raptors,100
+400489580,2014-02-01,Portland Trail Blazers,106,False,Toronto Raptors,103
+400489592,2014-02-03,Utah Jazz,79,False,Toronto Raptors,94
+400489608,2014-02-05,Sacramento Kings,109,False,Toronto Raptors,101
+400489621,2014-02-07,Los Angeles Clippers,118,False,Toronto Raptors,105
+400489638,2014-02-10,Toronto Raptors,108,False,New Orleans Pelicans,101
+400489652,2014-02-12,Toronto Raptors,104,False,Atlanta Hawks,83
+400489667,2014-02-18,Washington Wizards,93,False,Toronto Raptors,103
+400489676,2014-02-19,Toronto Raptors,92,False,Chicago Bulls,94
+400489691,2014-02-21,Toronto Raptors,98,False,Cleveland Cavaliers,91
+400489709,2014-02-23,Toronto Raptors,105,False,Orlando Magic,90
+400489719,2014-02-25,Cleveland Cavaliers,93,False,Toronto Raptors,99
+400489737,2014-02-27,Toronto Raptors,129,True,Washington Wizards,134
+400489757,2014-03-02,Toronto Raptors,104,False,Golden State Warriors,98
+400488890,2014-10-30,Golden State Warriors,125,False,Los Angeles Lakers,94
+400488892,2014-10-31,Los Angeles Clippers,126,False,Golden State Warriors,115
+400488913,2014-11-02,Golden State Warriors,98,False,Sacramento Kings,87
+400488940,2014-11-06,Minnesota Timberwolves,93,False,Golden State Warriors,106
+400488955,2014-11-08,San Antonio Spurs,76,False,Golden State Warriors,74
+400488964,2014-11-09,Memphis Grizzlies,108,False,Golden State Warriors,90
+400488982,2014-11-12,Golden State Warriors,113,False,Detroit Pistons,95
+400488997,2014-11-14,Golden State Warriors,116,False,Oklahoma City Thunder,115
+400489018,2014-11-16,Golden State Warriors,102,False,Utah Jazz,88
+400489027,2014-11-18,Utah Jazz,87,False,Golden State Warriors,98
+400489046,2014-11-20,Golden State Warriors,81,True,Memphis Grizzlies,88
+400489059,2014-11-22,Los Angeles Lakers,102,False,Golden State Warriors,95
+400489069,2014-11-23,Golden State Warriors,101,False,Portland Trail Blazers,113
+400489087,2014-11-26,New Orleans Pelicans,101,False,Golden State Warriors,102
+400489098,2014-11-27,Dallas Mavericks,103,False,Golden State Warriors,99
+400489108,2014-11-29,Oklahoma City Thunder,113,True,Golden State Warriors,112
+400489124,2014-12-01,Sacramento Kings,113,False,Golden State Warriors,115
+400489158,2014-12-06,Houston Rockets,105,False,Golden State Warriors,83
+400489166,2014-12-07,Memphis Grizzlies,82,False,Golden State Warriors,108
+400489177,2014-12-09,Charlotte Bobcats,115,False,Golden State Warriors,111
+400489199,2014-12-11,Golden State Warriors,95,False,Dallas Mavericks,93
+400489214,2014-12-13,Golden State Warriors,112,False,Houston Rockets,116
+400489228,2014-12-15,Phoenix Suns,106,False,Golden State Warriors,102
+400489241,2014-12-17,Golden State Warriors,104,False,New Orleans Pelicans,93
+400489255,2014-12-19,Golden State Warriors,102,False,San Antonio Spurs,104
+400489275,2014-12-21,Golden State Warriors,102,False,Los Angeles Lakers,83
+400489288,2014-12-23,Denver Nuggets,81,False,Golden State Warriors,89
+400489295,2014-12-25,Golden State Warriors,105,False,Los Angeles Clippers,103
+400489308,2014-12-27,Golden State Warriors,115,False,Phoenix Suns,86
+400489321,2014-12-29,Cleveland Cavaliers,104,True,Golden State Warriors,108
+400489335,2014-12-31,Orlando Magic,81,False,Golden State Warriors,94
+400489347,2014-01-02,Miami Heat,114,False,Golden State Warriors,123
+400489356,2014-01-03,Atlanta Hawks,100,False,Golden State Warriors,101
+400489374,2014-01-05,Washington Wizards,96,False,Golden State Warriors,112
+400489388,2014-01-07,Milwaukee Bucks,80,False,Golden State Warriors,101
+400489449,2014-01-15,Golden State Warriors,116,False,Denver Nuggets,123
+400489465,2014-01-17,Oklahoma City Thunder,127,False,Golden State Warriors,121
+400489472,2014-01-18,New Orleans Pelicans,87,False,Golden State Warriors,97
+400489488,2014-01-20,Golden State Warriors,94,False,Indiana Pacers,102
+400489518,2014-01-24,Golden State Warriors,120,False,Minnesota Timberwolves,121
+400489533,2014-01-26,Golden State Warriors,103,False,Portland Trail Blazers,88
+400489546,2014-01-28,Golden State Warriors,85,False,Washington Wizards,88
+400489561,2014-01-30,Golden State Warriors,111,False,Los Angeles Clippers,92
+400489569,2014-01-31,Utah Jazz,90,False,Golden State Warriors,95
+400489597,2014-02-04,Golden State Warriors,75,False,Charlotte Bobcats,91
+400489611,2014-02-06,Golden State Warriors,102,False,Chicago Bulls,87
+400489627,2014-02-08,Phoenix Suns,122,False,Golden State Warriors,109
+400489661,2014-02-12,Golden State Warriors,110,False,Miami Heat,111
+400489683,2014-02-19,Sacramento Kings,92,False,Golden State Warriors,101
+400489687,2014-02-20,Golden State Warriors,102,True,Houston Rockets,99
+400489715,2014-02-24,Detroit Pistons,96,False,Golden State Warriors,104
+400489728,2014-02-26,Chicago Bulls,103,False,Golden State Warriors,83
+400488876,2014-10-29,Los Angeles Lakers,116,False,Los Angeles Clippers,103
+400488904,2014-11-01,Sacramento Kings,101,False,Los Angeles Clippers,110
+400488923,2014-11-04,Los Angeles Clippers,137,False,Houston Rockets,118
+400488935,2014-11-06,Orlando Magic,98,False,Los Angeles Clippers,90
+400488943,2014-11-07,Miami Heat,102,False,Los Angeles Clippers,97
+400488963,2014-11-09,Houston Rockets,94,False,Los Angeles Clippers,107
+400488979,2014-11-11,Los Angeles Clippers,109,False,Minnesota Timberwolves,107
+400488995,2014-11-13,Los Angeles Clippers,111,False,Oklahoma City Thunder,103
+400489028,2014-11-18,Los Angeles Clippers,102,False,Memphis Grizzlies,106
+400489041,2014-11-20,Minnesota Timberwolves,98,False,Los Angeles Clippers,102
+400489047,2014-11-21,Oklahoma City Thunder,105,False,Los Angeles Clippers,91
+400489060,2014-11-23,Los Angeles Clippers,103,False,Sacramento Kings,102
+400489071,2014-11-24,Los Angeles Clippers,121,False,Chicago Bulls,82
+400489113,2014-11-29,Sacramento Kings,98,True,Los Angeles Clippers,104
+400489122,2014-12-01,Los Angeles Clippers,100,False,Indiana Pacers,105
+400489143,2014-12-04,Atlanta Hawks,107,False,Los Angeles Clippers,97
+400489151,2014-12-05,Memphis Grizzlies,81,False,Los Angeles Clippers,101
+400489164,2014-12-07,Cleveland Cavaliers,88,False,Los Angeles Clippers,82
+400489216,2014-12-14,Washington Wizards,97,False,Los Angeles Clippers,113
+400489236,2014-12-16,Los Angeles Clippers,115,False,San Antonio Spurs,92
+400489253,2014-12-18,Los Angeles Clippers,108,False,New Orleans Pelicans,95
+400489276,2014-12-21,Los Angeles Clippers,112,False,Denver Nuggets,91
+400489279,2014-12-22,Los Angeles Clippers,120,True,Minnesota Timberwolves,116
+400489299,2014-12-26,Portland Trail Blazers,116,True,Los Angeles Clippers,112
+400489320,2014-12-28,Los Angeles Clippers,98,False,Utah Jazz,90
+400489332,2014-12-30,Los Angeles Clippers,88,False,Phoenix Suns,107
+400489345,2014-01-01,Los Angeles Clippers,112,False,Charlotte Bobcats,85
+400489359,2014-01-03,Dallas Mavericks,112,False,Los Angeles Clippers,119
+400489367,2014-01-04,San Antonio Spurs,116,False,Los Angeles Clippers,92
+400489380,2014-01-06,Los Angeles Clippers,101,False,Orlando Magic,81
+400489415,2014-01-10,Los Angeles Clippers,123,False,Los Angeles Lakers,87
+400489450,2014-01-15,Los Angeles Clippers,129,False,Dallas Mavericks,127
+400489467,2014-01-18,Indiana Pacers,106,False,Los Angeles Clippers,92
+400489480,2014-01-20,Detroit Pistons,103,False,Los Angeles Clippers,112
+400489494,2014-01-22,Charlotte Bobcats,95,False,Los Angeles Clippers,91
+400489514,2014-01-24,Chicago Bulls,95,False,Los Angeles Clippers,112
+400489538,2014-01-27,Milwaukee Bucks,86,False,Los Angeles Clippers,114
+400489558,2014-01-29,Los Angeles Clippers,110,False,Washington Wizards,103
+400489581,2014-02-01,Los Angeles Clippers,102,False,Utah Jazz,87
+400489591,2014-02-03,Denver Nuggets,116,False,Los Angeles Clippers,115
+400489609,2014-02-05,Los Angeles Clippers,112,False,Miami Heat,116
+400489662,2014-02-12,Los Angeles Clippers,122,False,Portland Trail Blazers,117
+400489673,2014-02-18,Los Angeles Clippers,103,False,San Antonio Spurs,113
+400489694,2014-02-21,Memphis Grizzlies,102,False,Los Angeles Clippers,96
+400489706,2014-02-23,Oklahoma City Thunder,117,False,Los Angeles Clippers,125
+400489717,2014-02-24,New Orleans Pelicans,110,False,Los Angeles Clippers,123
+400489735,2014-02-26,Los Angeles Clippers,101,False,Houston Rockets,93
+400489755,2014-03-01,Los Angeles Clippers,108,False,New Orleans Pelicans,76
+400488905,2014-11-01,Los Angeles Lakers,85,False,San Antonio Spurs,91
+400488919,2014-11-03,Los Angeles Lakers,105,False,Atlanta Hawks,103
+400488929,2014-11-05,Dallas Mavericks,123,False,Los Angeles Lakers,104
+400488945,2014-11-07,Houston Rockets,98,False,Los Angeles Lakers,99
+400488954,2014-11-08,New Orleans Pelicans,96,False,Los Angeles Lakers,85
+400488970,2014-11-10,Los Angeles Lakers,90,False,Minnesota Timberwolves,113
+400488983,2014-11-12,Los Angeles Lakers,116,False,New Orleans Pelicans,95
+400488991,2014-11-13,Denver Nuggets,111,False,Los Angeles Lakers,99
+400489007,2014-11-15,Los Angeles Lakers,86,False,Memphis Grizzlies,89
+400489022,2014-11-17,Los Angeles Lakers,114,False,Detroit Pistons,99
+400489074,2014-11-24,Los Angeles Lakers,100,False,Sacramento Kings,86
+400489085,2014-11-26,Washington Wizards,116,False,Los Angeles Lakers,111
+400489106,2014-11-29,Detroit Pistons,102,False,Los Angeles Lakers,106
+400489128,2014-12-01,Los Angeles Lakers,108,False,Portland Trail Blazers,114
+400489162,2014-12-06,Sacramento Kings,100,False,Los Angeles Lakers,106
+400489190,2014-12-10,Los Angeles Lakers,108,False,Phoenix Suns,114
+400489209,2014-12-13,Oklahoma City Thunder,122,False,Los Angeles Lakers,97
+400489215,2014-12-14,Charlotte Bobcats,85,False,Los Angeles Lakers,88
+400489230,2014-12-16,Atlanta Hawks,114,False,Los Angeles Lakers,100
+400489239,2014-12-17,Memphis Grizzlies,92,False,Los Angeles Lakers,96
+400489264,2014-12-20,Los Angeles Lakers,104,False,Minnesota Timberwolves,91
+400489289,2014-12-23,Phoenix Suns,117,False,Los Angeles Lakers,90
+400489293,2014-12-25,Los Angeles Lakers,95,False,Miami Heat,101
+400489306,2014-12-27,Utah Jazz,105,False,Los Angeles Lakers,103
+400489340,2014-12-31,Los Angeles Lakers,79,False,Milwaukee Bucks,94
+400489361,2014-01-03,Los Angeles Lakers,110,False,Utah Jazz,99
+400489377,2014-01-05,Los Angeles Lakers,115,False,Denver Nuggets,137
+400489389,2014-01-07,Dallas Mavericks,110,False,Los Angeles Lakers,97
+400489399,2014-01-08,Houston Rockets,113,False,Los Angeles Lakers,99
+400489438,2014-01-14,Los Angeles Lakers,118,False,Cleveland Cavaliers,120
+400489447,2014-01-15,Phoenix Suns,121,False,Los Angeles Lakers,114
+400489486,2014-01-20,Chicago Bulls,102,True,Los Angeles Lakers,100
+400489504,2014-01-23,Miami Heat,109,False,Los Angeles Lakers,102
+400489506,2014-01-24,Orlando Magic,114,False,Los Angeles Lakers,105
+400489547,2014-01-28,Los Angeles Lakers,92,False,Indiana Pacers,104
+400489568,2014-01-31,Los Angeles Lakers,100,False,Charlotte Bobcats,110
+400489595,2014-02-04,Minnesota Timberwolves,109,False,Los Angeles Lakers,99
+400489598,2014-02-05,Cleveland Cavaliers,108,False,Los Angeles Lakers,119
+400489630,2014-02-09,Los Angeles Lakers,86,False,Chicago Bulls,92
+400489649,2014-02-11,Los Angeles Lakers,79,False,Utah Jazz,96
+400489664,2014-02-13,Los Angeles Lakers,103,False,Oklahoma City Thunder,107
+400489684,2014-02-19,Los Angeles Lakers,108,False,Houston Rockets,134
+400489720,2014-02-25,Indiana Pacers,118,False,Los Angeles Lakers,98
+400489730,2014-02-26,Memphis Grizzlies,108,False,Los Angeles Lakers,103
+400489745,2014-02-28,Los Angeles Lakers,126,False,Sacramento Kings,122
+400488888,2014-10-30,Phoenix Suns,104,False,Portland Trail Blazers,91
+400488903,2014-11-01,Phoenix Suns,87,False,Utah Jazz,84
+400488917,2014-11-03,Oklahoma City Thunder,103,False,Phoenix Suns,96
+400488928,2014-11-05,New Orleans Pelicans,98,False,Phoenix Suns,104
+400488941,2014-11-06,San Antonio Spurs,99,False,Phoenix Suns,96
+400488956,2014-11-08,Phoenix Suns,114,False,Denver Nuggets,103
+400488969,2014-11-10,Phoenix Suns,101,False,New Orleans Pelicans,94
+400488993,2014-11-13,Portland Trail Blazers,90,False,Phoenix Suns,89
+400489033,2014-11-19,Sacramento Kings,107,False,Phoenix Suns,104
+400489044,2014-11-20,Phoenix Suns,106,False,Sacramento Kings,113
+400489049,2014-11-22,Charlotte Bobcats,91,False,Phoenix Suns,98
+400489072,2014-11-24,Orlando Magic,96,False,Phoenix Suns,104
+400489078,2014-11-25,Miami Heat,107,False,Phoenix Suns,92
+400489099,2014-11-27,Phoenix Suns,120,False,Portland Trail Blazers,106
+400489112,2014-11-29,Utah Jazz,101,False,Phoenix Suns,112
+400489119,2014-11-30,Phoenix Suns,104,False,Utah Jazz,112
+400489138,2014-12-03,Memphis Grizzlies,110,False,Phoenix Suns,91
+400489144,2014-12-04,Houston Rockets,88,False,Phoenix Suns,97
+400489213,2014-12-13,Phoenix Suns,116,False,Sacramento Kings,107
+400489251,2014-12-18,Phoenix Suns,101,False,San Antonio Spurs,108
+400489263,2014-12-20,Denver Nuggets,99,False,Phoenix Suns,103
+400489273,2014-12-21,Phoenix Suns,123,False,Dallas Mavericks,108
+400489351,2014-01-02,Phoenix Suns,91,False,Memphis Grizzlies,99
+400489368,2014-01-04,Phoenix Suns,116,False,Milwaukee Bucks,100
+400489386,2014-01-07,Chicago Bulls,92,False,Phoenix Suns,87
+400489397,2014-01-08,Minnesota Timberwolves,103,False,Phoenix Suns,104
+400489407,2014-01-10,Memphis Grizzlies,104,False,Phoenix Suns,99
+400489418,2014-01-11,Detroit Pistons,110,False,Phoenix Suns,108
+400489464,2014-01-17,Phoenix Suns,107,False,Dallas Mavericks,110
+400489478,2014-01-19,Phoenix Suns,117,False,Denver Nuggets,103
+400489502,2014-01-22,Phoenix Suns,124,False,Indiana Pacers,100
+400489516,2014-01-24,Phoenix Suns,95,False,Washington Wizards,101
+400489530,2014-01-26,Cleveland Cavaliers,90,False,Phoenix Suns,99
+400489552,2014-01-29,Milwaukee Bucks,117,False,Phoenix Suns,126
+400489559,2014-01-30,Indiana Pacers,94,False,Phoenix Suns,102
+400489579,2014-02-01,Phoenix Suns,105,False,Charlotte Bobcats,95
+400489596,2014-02-04,Phoenix Suns,92,False,Chicago Bulls,101
+400489602,2014-02-05,Houston Rockets,122,False,Phoenix Suns,108
+400489647,2014-02-11,Phoenix Suns,97,False,Miami Heat,103
+400489672,2014-02-18,Denver Nuggets,107,True,Phoenix Suns,112
+400489695,2014-02-21,Phoenix Suns,106,False,San Antonio Spurs,85
+400489711,2014-02-23,Phoenix Suns,112,False,Houston Rockets,115
+400489724,2014-02-25,Phoenix Suns,101,False,Minnesota Timberwolves,110
+400489733,2014-02-26,Utah Jazz,109,False,Phoenix Suns,86
+400489746,2014-02-28,Phoenix Suns,116,False,New Orleans Pelicans,104
+400488889,2014-10-30,Sacramento Kings,90,False,Denver Nuggets,88
+400488932,2014-11-05,Sacramento Kings,100,False,Atlanta Hawks,105
+400488957,2014-11-08,Portland Trail Blazers,104,False,Sacramento Kings,91
+400488966,2014-11-09,Sacramento Kings,85,False,Portland Trail Blazers,96
+400489008,2014-11-15,Sacramento Kings,90,False,Detroit Pistons,97
+400489021,2014-11-17,Sacramento Kings,86,False,Memphis Grizzlies,97
+400489140,2014-12-03,Sacramento Kings,95,False,Oklahoma City Thunder,97
+400489170,2014-12-07,Utah Jazz,102,True,Sacramento Kings,112
+400489182,2014-12-09,Sacramento Kings,112,False,Dallas Mavericks,97
+400489198,2014-12-11,Sacramento Kings,101,False,Utah Jazz,122
+400489223,2014-12-15,Sacramento Kings,106,False,Houston Rockets,91
+400489237,2014-12-17,Charlotte Bobcats,95,False,Sacramento Kings,87
+400489245,2014-12-18,Atlanta Hawks,124,False,Sacramento Kings,107
+400489260,2014-12-20,Miami Heat,122,False,Sacramento Kings,103
+400489268,2014-12-21,Orlando Magic,100,False,Sacramento Kings,105
+400489290,2014-12-23,Sacramento Kings,100,False,New Orleans Pelicans,113
+400489307,2014-12-27,Sacramento Kings,108,True,Miami Heat,103
+400489324,2014-12-29,San Antonio Spurs,112,False,Sacramento Kings,104
+400489337,2014-12-31,Houston Rockets,106,False,Sacramento Kings,110
+400489370,2014-01-04,Sacramento Kings,103,False,Charlotte Bobcats,113
+400489392,2014-01-07,Sacramento Kings,123,False,Portland Trail Blazers,119
+400489413,2014-01-10,Sacramento Kings,103,False,Orlando Magic,83
+400489425,2014-01-12,Sacramento Kings,124,False,Cleveland Cavaliers,80
+400489436,2014-01-14,Indiana Pacers,116,False,Sacramento Kings,92
+400489444,2014-01-15,Minnesota Timberwolves,108,False,Sacramento Kings,111
+400489461,2014-01-17,Memphis Grizzlies,91,False,Sacramento Kings,90
+400489476,2014-01-19,Oklahoma City Thunder,108,False,Sacramento Kings,93
+400489491,2014-01-21,New Orleans Pelicans,97,False,Sacramento Kings,114
+400489500,2014-01-22,Houston Rockets,119,False,Sacramento Kings,98
+400489517,2014-01-24,Sacramento Kings,111,True,Indiana Pacers,116
+400489534,2014-01-26,Sacramento Kings,117,False,Denver Nuggets,125
+400489540,2014-01-27,Utah Jazz,106,False,Sacramento Kings,99
+400489557,2014-01-29,Sacramento Kings,89,False,Memphis Grizzlies,99
+400489566,2014-01-31,Dallas Mavericks,107,False,Sacramento Kings,103
+400489577,2014-02-01,San Antonio Spurs,95,False,Sacramento Kings,93
+400489593,2014-02-03,Sacramento Kings,99,False,Chicago Bulls,70
+400489635,2014-02-09,Washington Wizards,93,False,Sacramento Kings,84
+400489644,2014-02-11,Cleveland Cavaliers,109,False,Sacramento Kings,99
+400489710,2014-02-23,Denver Nuggets,95,False,Sacramento Kings,109
+400489725,2014-02-25,Sacramento Kings,103,False,Houston Rockets,129
+400489754,2014-03-01,Sacramento Kings,97,False,Minnesota Timberwolves,108
+400488875,2014-10-29,Miami Heat,107,False,Chicago Bulls,95
+400488934,2014-11-06,Indiana Pacers,97,False,Chicago Bulls,80
+400488952,2014-11-08,Chicago Bulls,97,False,Utah Jazz,73
+400488975,2014-11-11,Chicago Bulls,96,False,Cleveland Cavaliers,81
+400489013,2014-11-16,Chicago Bulls,110,False,Indiana Pacers,94
+400489024,2014-11-18,Chicago Bulls,86,False,Charlotte Bobcats,81
+400489048,2014-11-21,Denver Nuggets,97,False,Chicago Bulls,87
+400489058,2014-11-22,Portland Trail Blazers,98,False,Chicago Bulls,95
+400489082,2014-11-25,Utah Jazz,89,True,Chicago Bulls,83
+400489093,2014-11-27,Detroit Pistons,79,False,Chicago Bulls,99
+400489115,2014-11-30,Cleveland Cavaliers,97,False,Chicago Bulls,93
+400489130,2014-12-02,Chicago Bulls,128,True,New Orleans Pelicans,131
+400489152,2014-12-05,Chicago Bulls,107,False,Miami Heat,87
+400489165,2014-12-07,Chicago Bulls,75,False,Detroit Pistons,92
+400489189,2014-12-10,Chicago Bulls,74,False,Milwaukee Bucks,78
+400489210,2014-12-13,Milwaukee Bucks,90,False,Chicago Bulls,91
+400489235,2014-12-16,Chicago Bulls,82,False,Orlando Magic,83
+400489252,2014-12-18,Houston Rockets,109,False,Chicago Bulls,94
+400489254,2014-12-19,Oklahoma City Thunder,107,False,Chicago Bulls,95
+400489270,2014-12-21,Chicago Bulls,100,False,Cleveland Cavaliers,84
+400489314,2014-12-28,Chicago Bulls,83,False,Dallas Mavericks,105
+400489327,2014-12-30,Memphis Grizzlies,91,False,Chicago Bulls,95
+400489365,2014-01-04,Chicago Bulls,91,False,Atlanta Hawks,84
+400489411,2014-01-10,Milwaukee Bucks,72,False,Chicago Bulls,81
+400489420,2014-01-11,Chicago Bulls,103,False,Charlotte Bobcats,97
+400489431,2014-01-13,Chicago Bulls,88,False,Washington Wizards,102
+400489439,2014-01-15,Orlando Magic,125,True,Chicago Bulls,128
+400489458,2014-01-17,Washington Wizards,96,False,Chicago Bulls,93
+400489495,2014-01-22,Cleveland Cavaliers,87,False,Chicago Bulls,98
+400489519,2014-01-25,Charlotte Bobcats,87,False,Chicago Bulls,89
+400489537,2014-01-27,Chicago Bulls,86,False,Minnesota Timberwolves,95
+400489556,2014-01-29,San Antonio Spurs,86,False,Chicago Bulls,96
+400489576,2014-02-01,New Orleans Pelicans,88,False,Chicago Bulls,79
+400489645,2014-02-11,Chicago Bulls,100,False,Atlanta Hawks,85
+400489693,2014-02-21,Chicago Bulls,117,False,Denver Nuggets,89
+400489707,2014-02-23,Miami Heat,93,False,Chicago Bulls,79
+400489722,2014-02-25,Atlanta Hawks,103,False,Chicago Bulls,107
+400489743,2014-02-28,Dallas Mavericks,91,False,Chicago Bulls,100
+400488893,2014-11-01,Charlotte Bobcats,90,False,Cleveland Cavaliers,84
+400488906,2014-11-02,Indiana Pacers,89,False,Cleveland Cavaliers,74
+400488920,2014-11-04,Cleveland Cavaliers,93,False,Minnesota Timberwolves,92
+400488939,2014-11-06,Milwaukee Bucks,109,False,Cleveland Cavaliers,104
+400488988,2014-11-13,Minnesota Timberwolves,124,False,Cleveland Cavaliers,95
+400489002,2014-11-15,Cleveland Cavaliers,80,False,Charlotte Bobcats,86
+400489011,2014-11-16,Washington Wizards,96,True,Cleveland Cavaliers,103
+400489035,2014-11-20,Cleveland Cavaliers,91,False,Washington Wizards,98
+400489056,2014-11-22,New Orleans Pelicans,104,False,Cleveland Cavaliers,100
+400489067,2014-11-23,San Antonio Spurs,126,False,Cleveland Cavaliers,96
+400489092,2014-11-27,Cleveland Cavaliers,84,False,Miami Heat,95
+400489142,2014-12-04,Cleveland Cavaliers,98,False,Denver Nuggets,88
+400489155,2014-12-06,Atlanta Hawks,108,False,Cleveland Cavaliers,89
+400489203,2014-12-13,Orlando Magic,100,False,Cleveland Cavaliers,109
+400489217,2014-12-14,Miami Heat,114,False,Cleveland Cavaliers,107
+400489238,2014-12-17,Cleveland Cavaliers,116,False,Portland Trail Blazers,119
+400489258,2014-12-20,Cleveland Cavaliers,114,True,Milwaukee Bucks,111
+400489281,2014-12-23,Cleveland Cavaliers,92,False,Detroit Pistons,115
+400489296,2014-12-26,Cleveland Cavaliers,125,True,Atlanta Hawks,127
+400489334,2014-12-31,Indiana Pacers,91,False,Cleveland Cavaliers,76
+400489346,2014-01-02,Cleveland Cavaliers,87,True,Orlando Magic,81
+400489372,2014-01-05,Cleveland Cavaliers,78,False,Indiana Pacers,82
+400489412,2014-01-10,Utah Jazz,102,False,Cleveland Cavaliers,113
+400489448,2014-01-15,Portland Trail Blazers,108,False,Cleveland Cavaliers,96
+400489463,2014-01-17,Denver Nuggets,109,False,Cleveland Cavaliers,117
+400489479,2014-01-20,Cleveland Cavaliers,97,False,Dallas Mavericks,102
+400489511,2014-01-24,Cleveland Cavaliers,93,False,Milwaukee Bucks,78
+400489541,2014-01-28,Cleveland Cavaliers,89,False,New Orleans Pelicans,100
+400489574,2014-02-01,Houston Rockets,106,False,Cleveland Cavaliers,92
+400489590,2014-02-03,Dallas Mavericks,124,False,Cleveland Cavaliers,107
+400489615,2014-02-07,Washington Wizards,113,False,Cleveland Cavaliers,115
+400489633,2014-02-09,Cleveland Cavaliers,91,True,Memphis Grizzlies,83
+400489655,2014-02-12,Detroit Pistons,89,False,Cleveland Cavaliers,93
+400489675,2014-02-19,Cleveland Cavaliers,101,False,Orlando Magic,93
+400489708,2014-02-23,Cleveland Cavaliers,83,False,Washington Wizards,96
+400489731,2014-02-26,Oklahoma City Thunder,104,False,Cleveland Cavaliers,114
+400489740,2014-02-28,Cleveland Cavaliers,99,False,Utah Jazz,79
+400489752,2014-03-01,Memphis Grizzlies,110,False,Cleveland Cavaliers,96
+400488880,2014-10-30,Detroit Pistons,113,False,Washington Wizards,102
+400488899,2014-11-01,Memphis Grizzlies,111,True,Detroit Pistons,108
+400488926,2014-11-05,Detroit Pistons,91,False,Indiana Pacers,99
+400488951,2014-11-08,Detroit Pistons,110,False,Oklahoma City Thunder,119
+400488978,2014-11-11,Portland Trail Blazers,109,False,Detroit Pistons,103
+400489039,2014-11-20,Atlanta Hawks,93,False,Detroit Pistons,85
+400489053,2014-11-22,Detroit Pistons,89,False,Atlanta Hawks,96
+400489077,2014-11-25,Detroit Pistons,113,False,Milwaukee Bucks,94
+400489137,2014-12-03,Miami Heat,97,False,Detroit Pistons,107
+400489145,2014-12-04,Milwaukee Bucks,98,False,Detroit Pistons,105
+400489173,2014-12-08,Detroit Pistons,95,False,Miami Heat,110
+400489188,2014-12-10,Detroit Pistons,94,False,Minnesota Timberwolves,121
+400489196,2014-12-11,New Orleans Pelicans,111,True,Detroit Pistons,106
+400489225,2014-12-15,Detroit Pistons,109,True,Portland Trail Blazers,111
+400489229,2014-12-16,Indiana Pacers,96,False,Detroit Pistons,101
+400489259,2014-12-20,Detroit Pistons,106,False,Charlotte Bobcats,116
+400489269,2014-12-21,Detroit Pistons,97,False,Houston Rockets,114
+400489301,2014-12-27,Orlando Magic,109,False,Detroit Pistons,92
+400489312,2014-12-28,Washington Wizards,106,False,Detroit Pistons,82
+400489326,2014-12-30,Detroit Pistons,99,False,Washington Wizards,106
+400489371,2014-01-05,Detroit Pistons,84,False,Memphis Grizzlies,112
+400489460,2014-01-17,Detroit Pistons,89,False,Utah Jazz,110
+400489468,2014-01-18,Washington Wizards,98,False,Detroit Pistons,104
+400489501,2014-01-22,Milwaukee Bucks,104,False,Detroit Pistons,101
+400489512,2014-01-24,Detroit Pistons,101,False,New Orleans Pelicans,103
+400489532,2014-01-26,Dallas Mavericks,116,False,Detroit Pistons,106
+400489542,2014-01-28,Detroit Pistons,103,False,Orlando Magic,87
+400489586,2014-02-03,Miami Heat,102,False,Detroit Pistons,96
+400489606,2014-02-05,Orlando Magic,112,False,Detroit Pistons,98
+400489624,2014-02-08,Detroit Pistons,126,False,Denver Nuggets,109
+400489639,2014-02-10,Detroit Pistons,109,False,San Antonio Spurs,100
+400489668,2014-02-18,Detroit Pistons,96,False,Charlotte Bobcats,108
+400489674,2014-02-19,Charlotte Bobcats,116,False,Detroit Pistons,98
+400489692,2014-02-21,Detroit Pistons,115,False,Atlanta Hawks,107
+400489701,2014-02-22,Detroit Pistons,102,False,Dallas Mavericks,113
+400489732,2014-02-26,San Antonio Spurs,120,False,Detroit Pistons,110
+400489749,2014-03-01,Houston Rockets,118,False,Detroit Pistons,110
+400488874,2014-10-29,Indiana Pacers,97,False,Orlando Magic,87
+400488884,2014-10-30,New Orleans Pelicans,90,False,Indiana Pacers,95
+400488972,2014-11-11,Indiana Pacers,95,False,Memphis Grizzlies,79
+400488998,2014-11-15,Indiana Pacers,104,False,Milwaukee Bucks,77
+400489076,2014-11-25,Indiana Pacers,98,False,Minnesota Timberwolves,84
+400489088,2014-11-27,Charlotte Bobcats,74,False,Indiana Pacers,99
+400489109,2014-11-29,Indiana Pacers,93,False,Washington Wizards,73
+400489133,2014-12-02,Portland Trail Blazers,106,False,Indiana Pacers,102
+400489147,2014-12-04,Utah Jazz,86,False,Indiana Pacers,95
+400489169,2014-12-07,San Antonio Spurs,100,False,Indiana Pacers,111
+400489175,2014-12-08,Oklahoma City Thunder,118,False,Indiana Pacers,94
+400489184,2014-12-10,Indiana Pacers,90,False,Miami Heat,84
+400489202,2014-12-13,Indiana Pacers,99,False,Charlotte Bobcats,94
+400489242,2014-12-18,Miami Heat,97,False,Indiana Pacers,94
+400489261,2014-12-20,Indiana Pacers,114,False,Houston Rockets,81
+400489362,2014-01-04,Indiana Pacers,99,False,New Orleans Pelicans,82
+400489395,2014-01-08,Atlanta Hawks,97,False,Indiana Pacers,87
+400489404,2014-01-10,Indiana Pacers,93,False,Washington Wizards,66
+400489524,2014-01-25,Denver Nuggets,109,False,Indiana Pacers,96
+400489583,2014-02-03,Indiana Pacers,98,False,Orlando Magic,79
+400489594,2014-02-04,Atlanta Hawks,85,False,Indiana Pacers,89
+400489612,2014-02-07,Indiana Pacers,118,True,Portland Trail Blazers,113
+400489634,2014-02-09,Orlando Magic,93,False,Indiana Pacers,92
+400489637,2014-02-10,Indiana Pacers,119,False,Denver Nuggets,80
+400489650,2014-02-12,Indiana Pacers,73,False,Dallas Mavericks,81
+400489665,2014-02-18,Indiana Pacers,108,False,Atlanta Hawks,98
+400489678,2014-02-19,Minnesota Timberwolves,104,False,Indiana Pacers,91
+400489702,2014-02-22,Milwaukee Bucks,100,False,Indiana Pacers,110
+400489736,2014-02-27,Indiana Pacers,101,False,Milwaukee Bucks,96
+400488965,2014-11-09,Milwaukee Bucks,83,False,Dallas Mavericks,91
+400488980,2014-11-12,Miami Heat,118,False,Milwaukee Bucks,95
+400488984,2014-11-13,Orlando Magic,94,False,Milwaukee Bucks,91
+400489017,2014-11-16,Milwaukee Bucks,79,False,Oklahoma City Thunder,92
+400489040,2014-11-20,Milwaukee Bucks,82,False,Portland Trail Blazers,91
+400489066,2014-11-23,Milwaukee Bucks,72,False,Charlotte Bobcats,96
+400489095,2014-11-27,Milwaukee Bucks,92,True,Washington Wizards,100
+400489101,2014-11-29,Charlotte Bobcats,92,False,Milwaukee Bucks,76
+400489154,2014-12-06,Washington Wizards,105,True,Milwaukee Bucks,109
+400489194,2014-12-11,Milwaukee Bucks,77,False,San Antonio Spurs,109
+400489221,2014-12-14,Dallas Mavericks,106,False,Milwaukee Bucks,93
+400489280,2014-12-23,Charlotte Bobcats,111,True,Milwaukee Bucks,110
+400489317,2014-12-28,Milwaukee Bucks,95,False,Minnesota Timberwolves,117
+400489352,2014-01-02,Utah Jazz,96,False,Milwaukee Bucks,87
+400489421,2014-01-11,Oklahoma City Thunder,101,False,Milwaukee Bucks,85
+400489443,2014-01-15,Milwaukee Bucks,77,False,Memphis Grizzlies,82
+400489470,2014-01-18,Houston Rockets,114,False,Milwaukee Bucks,104
+400489477,2014-01-19,San Antonio Spurs,110,False,Milwaukee Bucks,82
+400489523,2014-01-25,Milwaukee Bucks,87,False,Atlanta Hawks,112
+400489562,2014-01-31,Orlando Magic,113,False,Milwaukee Bucks,102
+400489575,2014-02-01,Memphis Grizzlies,99,False,Milwaukee Bucks,90
+400489607,2014-02-05,Denver Nuggets,110,False,Milwaukee Bucks,100
+400489626,2014-02-08,Milwaukee Bucks,95,False,Houston Rockets,101
+400489658,2014-02-12,Milwaukee Bucks,98,False,New Orleans Pelicans,102
+400489670,2014-02-18,Milwaukee Bucks,104,False,Orlando Magic,100
+400489685,2014-02-20,Milwaukee Bucks,90,False,Denver Nuggets,101
+400488885,2014-10-30,Dallas Mavericks,118,False,Atlanta Hawks,109
+400488898,2014-11-01,Houston Rockets,113,False,Dallas Mavericks,105
+400488909,2014-11-02,Dallas Mavericks,111,False,Memphis Grizzlies,99
+400488942,2014-11-06,Oklahoma City Thunder,107,False,Dallas Mavericks,93
+400488953,2014-11-08,Minnesota Timberwolves,116,False,Dallas Mavericks,108
+400488981,2014-11-12,Dallas Mavericks,105,False,Washington Wizards,95
+400489003,2014-11-15,Miami Heat,110,False,Dallas Mavericks,104
+400489010,2014-11-16,Orlando Magic,100,False,Dallas Mavericks,108
+400489045,2014-11-20,Dallas Mavericks,123,False,Houston Rockets,120
+400489057,2014-11-22,Dallas Mavericks,103,False,Utah Jazz,93
+400489068,2014-11-23,Denver Nuggets,102,False,Dallas Mavericks,100
+400489080,2014-11-25,Dallas Mavericks,96,False,Denver Nuggets,110
+400489104,2014-11-29,Atlanta Hawks,88,False,Dallas Mavericks,87
+400489117,2014-11-30,Dallas Mavericks,106,False,Minnesota Timberwolves,112
+400489139,2014-12-03,Dallas Mavericks,89,False,Charlotte Bobcats,82
+400489146,2014-12-04,New Orleans Pelicans,97,False,Dallas Mavericks,100
+400489171,2014-12-07,Portland Trail Blazers,106,False,Dallas Mavericks,108
+400489250,2014-12-18,Dallas Mavericks,105,False,Memphis Grizzlies,91
+400489285,2014-12-23,Houston Rockets,104,False,Dallas Mavericks,111
+400489298,2014-12-26,Dallas Mavericks,107,False,San Antonio Spurs,116
+400489328,2014-12-30,Minnesota Timberwolves,98,False,Dallas Mavericks,100
+400489341,2014-01-01,Washington Wizards,78,False,Dallas Mavericks,87
+400489393,2014-01-08,San Antonio Spurs,112,False,Dallas Mavericks,90
+400489409,2014-01-10,New Orleans Pelicans,90,False,Dallas Mavericks,107
+400489422,2014-01-11,Dallas Mavericks,110,False,New Orleans Pelicans,107
+400489433,2014-01-13,Dallas Mavericks,107,False,Orlando Magic,88
+400489473,2014-01-18,Dallas Mavericks,111,False,Portland Trail Blazers,127
+400489554,2014-01-29,Dallas Mavericks,115,False,Houston Rockets,117
+400489603,2014-02-05,Memphis Grizzlies,96,False,Dallas Mavericks,110
+400489619,2014-02-07,Dallas Mavericks,103,False,Utah Jazz,81
+400489643,2014-02-11,Charlotte Bobcats,114,False,Dallas Mavericks,89
+400489671,2014-02-18,Dallas Mavericks,106,False,Miami Heat,117
+400489729,2014-02-26,Dallas Mavericks,108,False,New Orleans Pelicans,89
+400488882,2014-10-30,Houston Rockets,96,False,Charlotte Bobcats,83
+400488911,2014-11-02,Utah Jazz,93,False,Houston Rockets,104
+400488931,2014-11-05,Portland Trail Blazers,101,False,Houston Rockets,116
+400489014,2014-11-16,Houston Rockets,122,False,Denver Nuggets,111
+400489065,2014-11-23,Houston Rockets,112,False,Minnesota Timberwolves,101
+400489079,2014-11-25,Memphis Grizzlies,86,False,Houston Rockets,93
+400489094,2014-11-27,Houston Rockets,113,False,Atlanta Hawks,84
+400489118,2014-11-30,San Antonio Spurs,106,False,Houston Rockets,112
+400489132,2014-12-02,Utah Jazz,109,False,Houston Rockets,103
+400489174,2014-12-08,Houston Rockets,98,False,Orlando Magic,88
+400489201,2014-12-12,Portland Trail Blazers,111,False,Houston Rockets,104
+400489294,2014-12-25,San Antonio Spurs,98,False,Houston Rockets,111
+400489297,2014-12-26,Houston Rockets,100,False,Memphis Grizzlies,92
+400489315,2014-12-28,Houston Rockets,107,False,New Orleans Pelicans,98
+400489323,2014-12-29,Oklahoma City Thunder,117,False,Houston Rockets,86
+400489406,2014-01-10,Atlanta Hawks,83,False,Houston Rockets,80
+400489417,2014-01-11,Washington Wizards,107,False,Houston Rockets,114
+400489445,2014-01-15,New Orleans Pelicans,100,False,Houston Rockets,103
+400489453,2014-01-16,Houston Rockets,92,False,Oklahoma City Thunder,104
+400489487,2014-01-20,Houston Rockets,126,False,Portland Trail Blazers,113
+400489515,2014-01-24,Houston Rockets,87,False,Memphis Grizzlies,88
+400489522,2014-01-25,Memphis Grizzlies,99,False,Houston Rockets,81
+400489544,2014-01-28,Houston Rockets,97,False,San Antonio Spurs,90
+400489641,2014-02-10,Minnesota Timberwolves,89,False,Houston Rockets,107
+400489657,2014-02-12,Houston Rockets,113,False,Washington Wizards,112
+400488886,2014-10-30,San Antonio Spurs,101,False,Memphis Grizzlies,94
+400488938,2014-11-06,Memphis Grizzlies,84,False,New Orleans Pelicans,99
+400489054,2014-11-22,Memphis Grizzlies,86,False,San Antonio Spurs,102
+400489180,2014-12-09,Memphis Grizzlies,94,False,Orlando Magic,85
+400489193,2014-12-11,Memphis Grizzlies,100,False,Oklahoma City Thunder,116
+400489208,2014-12-13,New Orleans Pelicans,104,False,Memphis Grizzlies,98
+400489224,2014-12-15,Memphis Grizzlies,93,False,Minnesota Timberwolves,101
+400489286,2014-12-23,Memphis Grizzlies,104,False,Utah Jazz,94
+400489316,2014-12-28,Memphis Grizzlies,120,False,Denver Nuggets,99
+400489360,2014-01-03,Denver Nuggets,111,False,Memphis Grizzlies,108
+400489387,2014-01-07,Memphis Grizzlies,108,True,San Antonio Spurs,110
+400489426,2014-01-12,Memphis Grizzlies,108,False,Atlanta Hawks,101
+400489437,2014-01-14,Memphis Grizzlies,90,False,Oklahoma City Thunder,87
+400489484,2014-01-20,Memphis Grizzlies,92,False,New Orleans Pelicans,95
+400489545,2014-01-28,Portland Trail Blazers,81,False,Memphis Grizzlies,98
+400489564,2014-01-31,Minnesota Timberwolves,90,False,Memphis Grizzlies,94
+400489589,2014-02-03,Oklahoma City Thunder,86,False,Memphis Grizzlies,77
+400489623,2014-02-08,Atlanta Hawks,76,False,Memphis Grizzlies,79
+400489646,2014-02-11,Memphis Grizzlies,92,False,Washington Wizards,89
+400489651,2014-02-12,Orlando Magic,81,False,Memphis Grizzlies,86
+400489698,2014-02-22,Charlotte Bobcats,92,False,Memphis Grizzlies,89
+400489741,2014-02-28,Oklahoma City Thunder,113,False,Memphis Grizzlies,107
+400488894,2014-11-01,Orlando Magic,110,False,New Orleans Pelicans,90
+400488908,2014-11-02,New Orleans Pelicans,105,False,Charlotte Bobcats,84
+400488992,2014-11-13,Utah Jazz,111,False,New Orleans Pelicans,105
+400489042,2014-11-20,New Orleans Pelicans,105,False,Utah Jazz,98
+400489081,2014-11-25,San Antonio Spurs,112,False,New Orleans Pelicans,93
+400489159,2014-12-06,New Orleans Pelicans,95,False,Oklahoma City Thunder,109
+400489227,2014-12-15,Denver Nuggets,102,False,New Orleans Pelicans,93
+400489274,2014-12-21,Portland Trail Blazers,110,False,New Orleans Pelicans,107
+400489305,2014-12-27,New Orleans Pelicans,105,False,Denver Nuggets,89
+400489329,2014-12-30,New Orleans Pelicans,110,False,Portland Trail Blazers,108
+400489343,2014-01-01,Minnesota Timberwolves,124,False,New Orleans Pelicans,112
+400489384,2014-01-07,Miami Heat,107,False,New Orleans Pelicans,88
+400489398,2014-01-08,New Orleans Pelicans,96,False,Washington Wizards,102
+400489432,2014-01-13,New Orleans Pelicans,95,False,San Antonio Spurs,101
+400489529,2014-01-26,New Orleans Pelicans,100,False,Orlando Magic,92
+400489553,2014-01-29,Minnesota Timberwolves,88,False,New Orleans Pelicans,77
+400489588,2014-02-03,New Orleans Pelicans,95,False,San Antonio Spurs,102
+400489604,2014-02-05,New Orleans Pelicans,105,False,Atlanta Hawks,100
+400489620,2014-02-07,New Orleans Pelicans,98,False,Minnesota Timberwolves,91
+400489688,2014-02-21,Charlotte Bobcats,90,False,New Orleans Pelicans,87
+400489699,2014-02-22,Washington Wizards,94,False,New Orleans Pelicans,93
+400488912,2014-11-02,Portland Trail Blazers,115,False,San Antonio Spurs,105
+400488930,2014-11-05,Denver Nuggets,94,False,San Antonio Spurs,102
+400488990,2014-11-13,San Antonio Spurs,92,False,Washington Wizards,79
+400489006,2014-11-15,Utah Jazz,82,False,San Antonio Spurs,91
+400489097,2014-11-27,Oklahoma City Thunder,94,False,San Antonio Spurs,88
+400489102,2014-11-29,Orlando Magic,91,False,San Antonio Spurs,109
+400489131,2014-12-02,San Antonio Spurs,102,False,Atlanta Hawks,100
+400489211,2014-12-13,San Antonio Spurs,117,False,Minnesota Timberwolves,110
+400489222,2014-12-14,Utah Jazz,84,False,San Antonio Spurs,100
+400489272,2014-12-21,San Antonio Spurs,100,False,Oklahoma City Thunder,113
+400489427,2014-01-12,San Antonio Spurs,104,False,Minnesota Timberwolves,86
+400489446,2014-01-15,San Antonio Spurs,109,False,Utah Jazz,105
+400489462,2014-01-17,San Antonio Spurs,100,False,Portland Trail Blazers,109
+400489503,2014-01-22,San Antonio Spurs,105,False,Oklahoma City Thunder,111
+400489508,2014-01-24,Atlanta Hawks,79,False,San Antonio Spurs,105
+400489527,2014-01-26,Miami Heat,113,False,San Antonio Spurs,101
+400489600,2014-02-05,Washington Wizards,118,True,San Antonio Spurs,125
+400489622,2014-02-08,Charlotte Bobcats,100,False,San Antonio Spurs,104
+400489682,2014-02-19,Portland Trail Blazers,109,False,San Antonio Spurs,111
+400489744,2014-02-28,San Antonio Spurs,92,False,Charlotte Bobcats,82
+400488944,2014-11-07,Denver Nuggets,109,False,Atlanta Hawks,107
+400488959,2014-11-09,Atlanta Hawks,104,False,Orlando Magic,94
+400488971,2014-11-11,Charlotte Bobcats,94,False,Atlanta Hawks,103
+400489031,2014-11-19,Miami Heat,104,False,Atlanta Hawks,88
+400489086,2014-11-26,Atlanta Hawks,92,False,Orlando Magic,109
+400489114,2014-11-30,Washington Wizards,108,False,Atlanta Hawks,101
+400489186,2014-12-10,Atlanta Hawks,92,False,Oklahoma City Thunder,101
+400489205,2014-12-13,Atlanta Hawks,101,True,Washington Wizards,99
+400489257,2014-12-20,Atlanta Hawks,118,False,Utah Jazz,85
+400489284,2014-12-23,Miami Heat,121,True,Atlanta Hawks,119
+400489313,2014-12-28,Atlanta Hawks,118,True,Charlotte Bobcats,116
+400489322,2014-12-29,Orlando Magic,109,False,Atlanta Hawks,102
+400489485,2014-01-20,Atlanta Hawks,121,False,Miami Heat,114
+400489496,2014-01-22,Orlando Magic,109,False,Atlanta Hawks,112
+400489539,2014-01-27,Oklahoma City Thunder,111,False,Atlanta Hawks,109
+400489572,2014-02-01,Atlanta Hawks,120,False,Minnesota Timberwolves,113
+400489677,2014-02-19,Atlanta Hawks,97,False,Washington Wizards,114
+400489009,2014-11-16,Charlotte Bobcats,81,False,Miami Heat,97
+400489125,2014-12-01,Miami Heat,99,False,Charlotte Bobcats,98
+400489191,2014-12-11,Charlotte Bobcats,83,False,Orlando Magic,92
+400489267,2014-12-21,Charlotte Bobcats,85,False,Utah Jazz,88
+400489300,2014-12-27,Charlotte Bobcats,85,False,Oklahoma City Thunder,89
+400489331,2014-12-30,Utah Jazz,83,False,Charlotte Bobcats,80
+400489353,2014-01-02,Portland Trail Blazers,134,False,Charlotte Bobcats,104
+400489381,2014-01-07,Charlotte Bobcats,83,False,Washington Wizards,97
+400489408,2014-01-10,Minnesota Timberwolves,119,False,Charlotte Bobcats,92
+400489455,2014-01-17,Orlando Magic,101,False,Charlotte Bobcats,111
+400489466,2014-01-18,Charlotte Bobcats,96,True,Miami Heat,104
+400489555,2014-01-29,Denver Nuggets,98,False,Charlotte Bobcats,101
+400488915,2014-11-03,Miami Heat,103,False,Washington Wizards,93
+400489037,2014-11-20,Orlando Magic,92,False,Miami Heat,120
+400489064,2014-11-23,Miami Heat,101,False,Orlando Magic,99
+400489167,2014-12-07,Minnesota Timberwolves,82,False,Miami Heat,103
+400489233,2014-12-16,Miami Heat,117,False,Utah Jazz,94
+400489319,2014-12-28,Portland Trail Blazers,107,False,Miami Heat,108
+400489330,2014-12-30,Denver Nuggets,94,False,Miami Heat,97
+400489363,2014-01-04,Orlando Magic,94,False,Miami Heat,110
+400489441,2014-01-15,Washington Wizards,114,False,Miami Heat,97
+400489548,2014-01-29,Miami Heat,95,False,Oklahoma City Thunder,112
+400489628,2014-02-08,Utah Jazz,94,False,Miami Heat,89
+400489686,2014-02-20,Oklahoma City Thunder,81,False,Miami Heat,103
+400489747,2014-03-01,Miami Heat,112,False,Orlando Magic,98
+400488883,2014-10-30,Minnesota Timberwolves,120,True,Orlando Magic,115
+400489129,2014-12-02,Washington Wizards,98,False,Orlando Magic,80
+400489226,2014-12-15,Oklahoma City Thunder,101,False,Orlando Magic,98
+400489243,2014-12-18,Orlando Magic,82,False,Utah Jazz,86
+400489400,2014-01-08,Portland Trail Blazers,110,False,Orlando Magic,94
+400489423,2014-01-11,Denver Nuggets,120,False,Orlando Magic,94
+400489613,2014-02-07,Orlando Magic,103,False,Oklahoma City Thunder,102
+400489721,2014-02-25,Washington Wizards,115,False,Orlando Magic,106
+400488968,2014-11-10,Oklahoma City Thunder,106,True,Washington Wizards,105
+400489029,2014-11-19,Washington Wizards,104,False,Minnesota Timberwolves,100
+400489179,2014-12-09,Washington Wizards,74,False,Denver Nuggets,75
+400489304,2014-12-27,Minnesota Timberwolves,120,False,Washington Wizards,98
+400489525,2014-01-25,Utah Jazz,104,False,Washington Wizards,101
+400489571,2014-02-01,Washington Wizards,96,False,Oklahoma City Thunder,81
+400489584,2014-02-03,Washington Wizards,100,False,Portland Trail Blazers,90
+400488902,2014-11-01,Denver Nuggets,98,False,Portland Trail Blazers,113
+400488977,2014-11-11,Utah Jazz,81,False,Denver Nuggets,100
+400489004,2014-11-15,Denver Nuggets,117,False,Minnesota Timberwolves,113
+400489025,2014-11-18,Oklahoma City Thunder,115,False,Denver Nuggets,113
+400489096,2014-11-27,Minnesota Timberwolves,110,False,Denver Nuggets,117
+400489212,2014-12-13,Denver Nuggets,93,False,Utah Jazz,103
+400489240,2014-12-17,Denver Nuggets,93,False,Oklahoma City Thunder,105
+400489403,2014-01-09,Denver Nuggets,101,False,Oklahoma City Thunder,88
+400489434,2014-01-13,Utah Jazz,118,False,Denver Nuggets,103
+400489505,2014-01-23,Portland Trail Blazers,110,False,Denver Nuggets,105
+400489659,2014-02-12,Minnesota Timberwolves,117,False,Denver Nuggets,90
+400489723,2014-02-25,Denver Nuggets,95,False,Portland Trail Blazers,100
+400489753,2014-03-01,Portland Trail Blazers,102,False,Denver Nuggets,96
+400488900,2014-11-01,Minnesota Timberwolves,100,False,Oklahoma City Thunder,81
+400489126,2014-12-01,Oklahoma City Thunder,113,False,Minnesota Timberwolves,103
+400489249,2014-12-18,Minnesota Timberwolves,120,False,Portland Trail Blazers,109
+400489366,2014-01-04,Minnesota Timberwolves,111,False,Oklahoma City Thunder,115
+400489471,2014-01-18,Minnesota Timberwolves,98,False,Utah Jazz,72
+400489493,2014-01-21,Utah Jazz,97,False,Minnesota Timberwolves,112
+400489526,2014-01-25,Portland Trail Blazers,115,False,Minnesota Timberwolves,104
+400489605,2014-02-05,Oklahoma City Thunder,106,False,Minnesota Timberwolves,97
+400489625,2014-02-08,Minnesota Timberwolves,110,False,Portland Trail Blazers,117
+400489703,2014-02-22,Utah Jazz,104,False,Minnesota Timberwolves,121
+400489713,2014-02-23,Portland Trail Blazers,108,False,Minnesota Timberwolves,97
+400488887,2014-10-30,Utah Jazz,98,False,Oklahoma City Thunder,101
+400489073,2014-11-24,Oklahoma City Thunder,95,False,Utah Jazz,73
+400489149,2014-12-04,Portland Trail Blazers,111,False,Oklahoma City Thunder,104
+400489339,2014-12-31,Oklahoma City Thunder,94,False,Portland Trail Blazers,98
+400489391,2014-01-07,Utah Jazz,112,False,Oklahoma City Thunder,101
+400489492,2014-01-21,Oklahoma City Thunder,105,False,Portland Trail Blazers,97
+400489648,2014-02-11,Portland Trail Blazers,95,False,Oklahoma City Thunder,98
+400489161,2014-12-06,Portland Trail Blazers,130,False,Utah Jazz,98
+400489181,2014-12-09,Utah Jazz,94,False,Portland Trail Blazers,105
+400489696,2014-02-21,Portland Trail Blazers,102,False,Utah Jazz,94

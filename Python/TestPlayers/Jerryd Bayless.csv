@@ -1,0 +1,497 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-04,11.0833333333,Memphis Grizzlies,Boston Celtics,1,20-25,3,two point shot,True,1,False,True
+2014-11-04,12.2666666667,Memphis Grizzlies,Boston Celtics,2,24-27,1,layup,True,0,False,True
+2014-11-04,13.95,Memphis Grizzlies,Boston Celtics,2,28-33,3,layup,True,0,False,True
+2014-11-04,21.7,Memphis Grizzlies,Boston Celtics,2,47-42,-8,three point jumper,True,26,False,True
+2014-11-04,36.9333333333,Memphis Grizzlies,Boston Celtics,4,72-70,-4,two point shot,True,18,True,True
+2014-11-04,38.8,Memphis Grizzlies,Boston Celtics,4,77-74,-5,two point shot,True,16,True,True
+2014-11-04,40.95,Memphis Grizzlies,Boston Celtics,4,80-76,-6,two point jumper,True,1,True,True
+2014-11-04,41.9166666667,Memphis Grizzlies,Boston Celtics,4,82-80,-4,two point shot,True,21,True,True
+2014-11-04,42.5,Memphis Grizzlies,Boston Celtics,4,82-82,-2,two point jumper,True,21,True,True
+2014-11-04,43.7,Memphis Grizzlies,Boston Celtics,4,86-87,-2,three point jumper,True,23,True,True
+2014-11-04,45.3666666667,Memphis Grizzlies,Boston Celtics,4,86-89,0,three point jumper,True,25,False,True
+2014-11-04,47.9166666667,Memphis Grizzlies,Boston Celtics,4,88-94,5,free throw,True,15,True,True
+2014-11-04,47.9166666667,Memphis Grizzlies,Boston Celtics,4,88-95,6,free throw,True,15,True,True
+2014-11-27,10.9833333333,Memphis Grizzlies,Boston Celtics,1,21-13,7,free throw,False,15,True,False
+2014-11-27,10.9833333333,Memphis Grizzlies,Boston Celtics,1,22-13,8,free throw,False,15,True,False
+2014-11-27,11.9333333333,Memphis Grizzlies,Boston Celtics,1,27-13,12,two point shot,False,8,True,False
+2014-11-27,12.45,Memphis Grizzlies,Boston Celtics,2,29-13,14,two point jumper,False,20,True,False
+2014-11-27,13.05,Memphis Grizzlies,Boston Celtics,2,29-15,13,free throw,False,15,False,False
+2014-11-27,13.05,Memphis Grizzlies,Boston Celtics,2,30-15,14,free throw,False,15,True,False
+2014-11-27,13.6833333333,Memphis Grizzlies,Boston Celtics,2,32-15,15,two point jumper,False,20,True,False
+2014-11-27,14.4333333333,Memphis Grizzlies,Boston Celtics,2,32-17,12,three point jumper,False,26,False,False
+2014-11-27,15.7,Memphis Grizzlies,Boston Celtics,2,35-19,15,free throw,False,15,True,False
+2014-11-27,15.7,Memphis Grizzlies,Boston Celtics,2,36-19,16,free throw,False,15,True,False
+2014-11-27,17.2833333333,Memphis Grizzlies,Boston Celtics,2,38-21,15,two point jumper,False,20,False,False
+2014-11-27,34.5833333333,Memphis Grizzlies,Boston Celtics,3,69-55,12,two point jumper,False,16,True,False
+2014-11-27,35.95,Memphis Grizzlies,Boston Celtics,3,69-59,8,two point jumper,False,18,False,False
+2014-11-27,36.3833333333,Memphis Grizzlies,Boston Celtics,4,69-59,7,three point jumper,False,23,False,False
+2014-11-27,36.8833333333,Memphis Grizzlies,Boston Celtics,4,71-59,10,layup,False,0,True,False
+2014-11-27,39.95,Memphis Grizzlies,Boston Celtics,4,81-66,12,three point jumper,False,24,True,False
+2014-11-27,41.0666666667,Memphis Grizzlies,Boston Celtics,4,83-68,14,free throw,False,15,False,False
+2014-11-27,47.7833333333,Memphis Grizzlies,Boston Celtics,4,97-93,3,free throw,False,15,True,False
+2014-11-27,47.7833333333,Memphis Grizzlies,Boston Celtics,4,98-93,4,free throw,False,15,True,False
+2014-11-27,47.9666666667,Memphis Grizzlies,Boston Celtics,4,99-93,5,free throw,False,15,True,False
+2014-11-27,47.9666666667,Memphis Grizzlies,Boston Celtics,4,100-93,6,free throw,False,15,True,False
+2014-01-07,12.0,Boston Celtics,Denver Nuggets,1,23-31,-10,two point jumper,False,21,True,True
+2014-01-07,12.5833333333,Boston Celtics,Denver Nuggets,2,23-34,-13,two point jumper,False,11,False,True
+2014-01-07,32.45,Boston Celtics,Denver Nuggets,3,62-94,-34,two point shot,False,1,False,True
+2014-01-07,34.1666666667,Boston Celtics,Denver Nuggets,3,70-95,-27,two point jumper,False,21,True,True
+2014-01-07,37.1333333333,Boston Celtics,Denver Nuggets,4,78-105,-29,two point jumper,False,12,False,True
+2014-01-07,39.5,Boston Celtics,Denver Nuggets,4,81-105,-27,three point jumper,False,25,False,True
+2014-01-07,39.8833333333,Boston Celtics,Denver Nuggets,4,81-105,-27,unknown,False,26,False,True
+2014-01-07,42.9833333333,Boston Celtics,Denver Nuggets,4,87-112,-27,two point shot,False,1,True,True
+2014-01-08,10.8833333333,Boston Celtics,Los Angeles Clippers,1,20-28,-11,three point jumper,False,25,True,False
+2014-01-08,12.4,Boston Celtics,Los Angeles Clippers,2,23-32,-11,two point jumper,False,20,False,False
+2014-01-08,14.45,Boston Celtics,Los Angeles Clippers,2,26-34,-9,free throw,False,15,True,False
+2014-01-08,14.45,Boston Celtics,Los Angeles Clippers,2,27-34,-8,free throw,False,15,True,False
+2014-01-08,14.8666666667,Boston Celtics,Los Angeles Clippers,2,27-34,-10,three point jumper,False,25,False,False
+2014-01-08,16.45,Boston Celtics,Los Angeles Clippers,2,31-37,-8,layup,False,0,True,False
+2014-01-08,18.25,Boston Celtics,Los Angeles Clippers,2,38-45,-10,three point jumper,False,25,True,False
+2014-01-08,34.5333333333,Boston Celtics,Los Angeles Clippers,3,79-83,-6,two point jumper,False,19,False,False
+2014-01-08,35.1,Boston Celtics,Los Angeles Clippers,3,80-85,-8,three point jumper,False,23,False,False
+2014-01-08,35.6166666667,Boston Celtics,Los Angeles Clippers,3,81-88,-8,free throw,False,15,True,False
+2014-01-08,47.8666666667,Boston Celtics,Los Angeles Clippers,4,105-109,-6,layup,False,0,False,False
+2014-01-10,12.2,Boston Celtics,Golden State Warriors,2,23-24,-3,layup,False,0,True,False
+2014-01-10,12.75,Boston Celtics,Golden State Warriors,2,23-26,-6,three point jumper,False,27,False,False
+2014-01-10,16.4166666667,Boston Celtics,Golden State Warriors,2,34-28,3,three point jumper,False,26,False,False
+2014-01-10,16.9833333333,Boston Celtics,Golden State Warriors,2,34-30,1,three point jumper,False,23,False,False
+2014-01-10,34.2833333333,Boston Celtics,Golden State Warriors,3,66-68,-4,two point shot,False,18,False,False
+2014-01-10,37.0166666667,Boston Celtics,Golden State Warriors,4,69-76,-9,two point jumper,False,20,False,False
+2014-01-11,11.75,Boston Celtics,Portland Trail Blazers,1,32-27,3,two point jumper,False,18,False,False
+2014-01-11,12.6333333333,Boston Celtics,Portland Trail Blazers,2,34-30,2,two point shot,False,14,True,False
+2014-01-11,14.3166666667,Boston Celtics,Portland Trail Blazers,2,37-34,1,layup,False,0,True,False
+2014-01-11,16.7333333333,Boston Celtics,Portland Trail Blazers,2,43-38,3,layup,False,0,True,False
+2014-01-11,18.1333333333,Boston Celtics,Portland Trail Blazers,2,47-38,7,two point shot,False,9,True,False
+2014-01-11,19.1333333333,Boston Celtics,Portland Trail Blazers,2,51-41,8,two point shot,False,20,True,False
+2014-01-11,20.1833333333,Boston Celtics,Portland Trail Blazers,2,51-46,3,two point jumper,False,20,False,False
+2014-01-11,35.9833333333,Boston Celtics,Portland Trail Blazers,3,84-90,-9,unknown,False,25,False,False
+2014-01-11,37.2,Boston Celtics,Portland Trail Blazers,4,89-90,-3,two point shot,False,17,True,False
+2014-01-11,37.8166666667,Boston Celtics,Portland Trail Blazers,4,89-92,-5,two point jumper,False,8,False,False
+2014-01-13,11.9666666667,Boston Celtics,Houston Rockets,1,19-27,6,two point shot,True,17,True,True
+2014-01-13,13.3833333333,Boston Celtics,Houston Rockets,2,21-27,4,two point jumper,True,20,False,True
+2014-01-13,36.25,Boston Celtics,Houston Rockets,4,84-65,-21,dunk,True,0,False,True
+2014-01-13,40.0,Boston Celtics,Houston Rockets,4,86-73,-15,two point jumper,True,21,True,True
+2014-01-13,40.45,Boston Celtics,Houston Rockets,4,88-73,-17,two point jumper,True,21,False,True
+2014-01-13,42.0,Boston Celtics,Houston Rockets,4,93-80,-16,three point jumper,True,25,True,True
+2014-01-13,42.3166666667,Boston Celtics,Houston Rockets,4,93-80,-15,two point jumper,True,3,False,True
+2014-01-13,44.1666666667,Boston Celtics,Houston Rockets,4,93-82,-13,layup,True,0,True,True
+2014-01-13,44.1666666667,Boston Celtics,Houston Rockets,4,93-83,-11,free throw,True,15,True,True
+2014-01-13,44.6833333333,Boston Celtics,Houston Rockets,4,95-85,-12,two point jumper,True,22,True,True
+2014-01-13,44.9833333333,Boston Celtics,Houston Rockets,4,96-87,-11,two point shot,True,1,True,True
+2014-01-13,44.9833333333,Boston Celtics,Houston Rockets,4,96-88,-9,free throw,True,15,True,True
+2014-01-13,45.2166666667,Boston Celtics,Houston Rockets,4,97-90,-9,two point shot,True,19,True,True
+2014-01-13,45.9833333333,Boston Celtics,Houston Rockets,4,100-90,-12,two point shot,True,17,False,True
+2014-01-13,47.5,Boston Celtics,Houston Rockets,4,104-92,-14,two point jumper,True,16,False,True
+2014-01-15,11.6833333333,Boston Celtics,Toronto Raptors,1,22-23,-2,three point jumper,True,26,False,True
+2014-01-15,15.75,Boston Celtics,Toronto Raptors,2,29-25,-6,two point jumper,True,8,False,True
+2014-01-15,34.7833333333,Boston Celtics,Toronto Raptors,3,53-65,9,three point jumper,True,23,False,True
+2014-01-15,35.5666666667,Boston Celtics,Toronto Raptors,3,53-69,15,free throw,True,15,True,True
+2014-01-15,35.5666666667,Boston Celtics,Toronto Raptors,3,53-69,15,free throw,True,15,False,True
+2014-01-15,38.0,Boston Celtics,Toronto Raptors,4,64-75,8,three point jumper,True,26,False,True
+2014-01-15,39.8833333333,Boston Celtics,Toronto Raptors,4,64-75,8,three point jumper,True,23,False,True
+2014-01-17,12.65,Boston Celtics,Los Angeles Lakers,2,25-25,-2,two point jumper,True,19,True,False
+2014-01-17,15.8,Boston Celtics,Los Angeles Lakers,2,30-35,3,layup,True,0,True,False
+2014-01-17,16.2333333333,Boston Celtics,Los Angeles Lakers,2,32-35,1,two point jumper,True,14,False,False
+2014-01-17,38.3166666667,Boston Celtics,Los Angeles Lakers,4,82-86,1,three point jumper,True,22,False,False
+2014-01-17,38.45,Boston Celtics,Los Angeles Lakers,4,82-86,2,two point shot,True,5,False,False
+2014-01-19,6.2,Boston Celtics,Orlando Magic,1,16-6,8,two point jumper,False,18,True,False
+2014-01-19,7.35,Boston Celtics,Orlando Magic,1,20-9,9,two point jumper,False,23,True,False
+2014-01-19,11.35,Boston Celtics,Orlando Magic,1,24-16,6,two point jumper,False,1,False,False
+2014-01-28,8.35,Boston Celtics,New York Knicks,1,5-21,-18,two point jumper,False,1,False,True
+2014-01-28,11.55,Boston Celtics,New York Knicks,1,15-30,-18,three point jumper,False,24,False,True
+2014-01-28,31.0,Boston Celtics,New York Knicks,3,43-78,-37,two point jumper,False,1,False,True
+2014-01-28,32.0,Boston Celtics,New York Knicks,3,49-80,-33,layup,False,0,True,True
+2014-01-28,35.05,Boston Celtics,New York Knicks,3,57-85,-30,two point jumper,False,19,True,True
+2014-01-28,38.25,Boston Celtics,New York Knicks,4,64-94,-32,two point jumper,False,18,False,True
+2014-01-28,42.6666666667,Boston Celtics,New York Knicks,4,79-101,-23,free throw,False,15,True,True
+2014-01-28,42.6666666667,Boston Celtics,New York Knicks,4,80-101,-22,free throw,False,15,True,True
+2014-01-28,42.85,Boston Celtics,New York Knicks,4,82-101,-21,layup,False,0,True,True
+2014-01-28,45.3,Boston Celtics,New York Knicks,4,84-106,-24,two point jumper,False,22,True,True
+2014-01-29,7.28333333333,Boston Celtics,Philadelphia 76ers,1,16-14,-4,two point jumper,True,20,False,False
+2014-01-29,7.85,Boston Celtics,Philadelphia 76ers,1,18-14,-7,three point jumper,True,25,False,False
+2014-01-29,7.98333333333,Boston Celtics,Philadelphia 76ers,1,18-14,-7,three point jumper,True,25,False,False
+2014-01-29,12.7,Boston Celtics,Philadelphia 76ers,2,23-26,1,two point jumper,True,19,False,False
+2014-01-29,20.5833333333,Boston Celtics,Philadelphia 76ers,2,48-36,-14,two point jumper,True,19,True,False
+2014-01-29,21.2333333333,Boston Celtics,Philadelphia 76ers,2,48-39,-12,three point jumper,True,25,True,False
+2014-01-29,23.8833333333,Boston Celtics,Philadelphia 76ers,2,53-47,-8,two point jumper,True,23,False,False
+2014-01-29,24.65,Boston Celtics,Philadelphia 76ers,3,55-50,-8,three point jumper,True,25,True,False
+2014-01-29,27.4,Boston Celtics,Philadelphia 76ers,3,61-54,-9,two point jumper,True,18,False,False
+2014-01-29,28.95,Boston Celtics,Philadelphia 76ers,3,63-60,-5,two point shot,True,18,True,False
+2014-01-29,30.45,Boston Celtics,Philadelphia 76ers,3,68-62,-8,two point jumper,True,1,False,False
+2014-01-29,32.9333333333,Boston Celtics,Philadelphia 76ers,3,70-63,-10,three point jumper,True,25,False,False
+2014-01-29,46.1666666667,Boston Celtics,Philadelphia 76ers,4,91-92,-2,three point jumper,True,25,False,False
+2014-01-29,46.35,Boston Celtics,Philadelphia 76ers,4,91-92,0,free throw,True,15,False,False
+2014-01-29,46.35,Boston Celtics,Philadelphia 76ers,4,91-92,0,free throw,True,15,False,False
+2014-02-02,11.3,Boston Celtics,Orlando Magic,1,19-24,3,two point jumper,True,22,True,True
+2014-02-02,13.45,Boston Celtics,Orlando Magic,2,21-27,4,two point shot,True,17,False,True
+2014-02-02,17.1666666667,Boston Celtics,Orlando Magic,2,27-38,9,two point jumper,True,19,True,True
+2014-02-02,33.9,Boston Celtics,Orlando Magic,3,62-71,7,two point jumper,True,1,True,True
+2014-02-02,35.1666666667,Boston Celtics,Orlando Magic,3,62-71,7,two point jumper,True,16,False,True
+2014-02-02,38.5833333333,Boston Celtics,Orlando Magic,4,66-73,5,two point jumper,True,16,False,True
+2014-02-05,10.2666666667,Boston Celtics,Philadelphia 76ers,1,31-23,6,two point shot,False,1,True,True
+2014-02-05,10.75,Boston Celtics,Philadelphia 76ers,1,31-23,6,two point jumper,False,17,False,True
+2014-02-05,11.0,Boston Celtics,Philadelphia 76ers,1,34-23,8,three point jumper,False,23,True,True
+2014-02-05,11.3333333333,Boston Celtics,Philadelphia 76ers,1,34-23,8,three point jumper,False,26,False,True
+2014-02-05,13.0,Boston Celtics,Philadelphia 76ers,2,34-25,7,two point jumper,False,17,False,True
+2014-02-05,23.85,Boston Celtics,Philadelphia 76ers,2,56-47,6,three point jumper,False,24,False,True
+2014-02-05,35.3166666667,Boston Celtics,Philadelphia 76ers,3,85-77,6,two point jumper,False,17,False,True
+2014-02-05,36.3,Boston Celtics,Philadelphia 76ers,4,90-82,6,layup,False,0,True,True
+2014-02-05,37.4,Boston Celtics,Philadelphia 76ers,4,94-86,6,two point shot,False,1,True,True
+2014-02-05,38.6333333333,Boston Celtics,Philadelphia 76ers,4,94-89,3,two point jumper,False,1,False,True
+2014-02-05,40.9166666667,Boston Celtics,Philadelphia 76ers,4,100-95,4,free throw,False,15,True,True
+2014-02-05,40.9166666667,Boston Celtics,Philadelphia 76ers,4,101-95,5,free throw,False,15,True,True
+2014-02-05,41.3833333333,Boston Celtics,Philadelphia 76ers,4,101-95,4,two point jumper,False,17,False,True
+2014-02-05,43.1333333333,Boston Celtics,Philadelphia 76ers,4,103-97,4,two point jumper,False,16,False,True
+2014-02-09,12.75,Boston Celtics,Dallas Mavericks,2,19-17,-3,free throw,True,15,True,True
+2014-02-09,12.75,Boston Celtics,Dallas Mavericks,2,19-18,-2,free throw,True,15,True,True
+2014-02-09,13.25,Boston Celtics,Dallas Mavericks,2,19-18,-3,two point jumper,True,19,False,True
+2014-02-09,33.6833333333,Boston Celtics,Dallas Mavericks,3,68-52,-18,two point jumper,True,19,False,True
+2014-02-09,38.3333333333,Boston Celtics,Dallas Mavericks,4,78-58,-22,two point jumper,True,15,False,True
+2014-02-10,9.48333333333,Boston Celtics,Milwaukee Bucks,1,19-18,-1,two point jumper,False,16,True,False
+2014-02-10,11.2333333333,Boston Celtics,Milwaukee Bucks,1,24-22,-1,three point jumper,False,25,False,False
+2014-02-10,12.8833333333,Boston Celtics,Milwaukee Bucks,2,26-26,-2,two point jumper,False,1,False,False
+2014-02-10,12.95,Boston Celtics,Milwaukee Bucks,2,26-26,-2,tip shot,False,0,False,False
+2014-02-10,13.5,Boston Celtics,Milwaukee Bucks,2,26-29,-5,two point jumper,False,16,False,False
+2014-02-10,32.5,Boston Celtics,Milwaukee Bucks,3,61-63,-5,three point jumper,False,27,False,False
+2014-02-10,37.55,Boston Celtics,Milwaukee Bucks,4,76-69,5,two point jumper,False,17,True,False
+2014-02-10,39.4333333333,Boston Celtics,Milwaukee Bucks,4,79-71,6,two point jumper,False,20,False,False
+2014-02-10,40.7833333333,Boston Celtics,Milwaukee Bucks,4,82-75,4,three point jumper,False,25,False,False
+2014-02-12,9.53333333333,Boston Celtics,San Antonio Spurs,1,20-14,-8,two point jumper,True,18,False,True
+2014-02-12,16.5,Boston Celtics,San Antonio Spurs,2,32-30,-4,two point jumper,True,14,True,True
+2014-02-12,17.5333333333,Boston Celtics,San Antonio Spurs,2,34-34,-2,two point shot,True,15,True,True
+2014-02-12,33.2333333333,Boston Celtics,San Antonio Spurs,3,64-62,-4,two point shot,True,17,True,True
+2014-02-12,35.8333333333,Boston Celtics,San Antonio Spurs,3,71-66,-6,free throw,True,15,True,True
+2014-02-12,35.8333333333,Boston Celtics,San Antonio Spurs,3,71-66,-6,free throw,True,15,False,True
+2014-02-12,45.4833333333,Boston Celtics,San Antonio Spurs,4,98-85,-15,layup,True,0,True,True
+2014-02-12,46.1666666667,Boston Celtics,San Antonio Spurs,4,102-85,-19,layup,True,0,False,True
+2014-02-12,46.75,Boston Celtics,San Antonio Spurs,4,104-89,-17,two point jumper,True,23,True,True
+2014-02-19,12.3833333333,Boston Celtics,Phoenix Suns,2,21-29,-10,two point jumper,False,19,False,True
+2014-02-19,34.6333333333,Boston Celtics,Phoenix Suns,3,71-68,1,two point jumper,False,15,False,True
+2014-02-19,47.2333333333,Boston Celtics,Phoenix Suns,4,91-95,-5,free throw,False,15,True,True
+2014-02-19,47.2333333333,Boston Celtics,Phoenix Suns,4,92-95,-4,free throw,False,15,True,True
+2014-02-21,13.8166666667,Boston Celtics,Los Angeles Lakers,2,30-26,2,two point jumper,False,17,False,True
+2014-02-21,30.45,Boston Celtics,Los Angeles Lakers,3,61-57,1,three point jumper,False,24,False,True
+2014-02-21,33.2166666667,Boston Celtics,Los Angeles Lakers,3,70-59,9,layup,False,0,True,True
+2014-02-21,34.9333333333,Boston Celtics,Los Angeles Lakers,3,74-61,10,three point jumper,False,26,False,True
+2014-02-21,35.5166666667,Boston Celtics,Los Angeles Lakers,3,74-63,9,two point jumper,False,7,False,True
+2014-02-21,37.6333333333,Boston Celtics,Los Angeles Lakers,4,76-69,5,two point shot,False,1,True,True
+2014-02-21,39.0666666667,Boston Celtics,Los Angeles Lakers,4,76-76,-1,free throw,False,15,False,True
+2014-02-21,39.0666666667,Boston Celtics,Los Angeles Lakers,4,77-76,0,free throw,False,15,True,True
+2014-02-22,8.01666666667,Boston Celtics,Sacramento Kings,1,12-17,-7,two point jumper,False,19,True,True
+2014-02-22,8.71666666667,Boston Celtics,Sacramento Kings,1,14-19,-7,two point jumper,False,14,True,True
+2014-02-22,9.8,Boston Celtics,Sacramento Kings,1,16-21,-7,two point jumper,False,19,False,True
+2014-02-22,11.05,Boston Celtics,Sacramento Kings,1,16-23,-9,two point jumper,False,9,False,True
+2014-02-22,12.0,Boston Celtics,Sacramento Kings,1,16-23,-10,three point jumper,False,35,False,True
+2014-02-22,15.8333333333,Boston Celtics,Sacramento Kings,2,27-32,-7,layup,False,0,True,True
+2014-02-22,15.8333333333,Boston Celtics,Sacramento Kings,2,27-32,-6,free throw,False,15,False,True
+2014-02-22,16.9166666667,Boston Celtics,Sacramento Kings,2,27-34,-10,three point jumper,False,23,False,True
+2014-02-22,22.25,Boston Celtics,Sacramento Kings,2,37-49,-14,two point jumper,False,21,True,True
+2014-02-22,23.4333333333,Boston Celtics,Sacramento Kings,2,40-51,-12,free throw,False,15,False,True
+2014-02-22,23.4333333333,Boston Celtics,Sacramento Kings,2,41-51,-11,free throw,False,15,True,True
+2014-02-22,24.3833333333,Boston Celtics,Sacramento Kings,3,43-51,-10,two point jumper,False,3,False,True
+2014-02-22,29.7,Boston Celtics,Sacramento Kings,3,56-62,-9,three point jumper,False,23,False,True
+2014-02-22,31.5666666667,Boston Celtics,Sacramento Kings,3,62-68,-8,layup,False,0,True,True
+2014-02-22,32.7166666667,Boston Celtics,Sacramento Kings,3,64-68,-6,two point jumper,False,1,False,True
+2014-02-22,46.5166666667,Boston Celtics,Sacramento Kings,4,93-99,-8,two point jumper,False,7,False,True
+2014-02-22,47.3333333333,Boston Celtics,Sacramento Kings,4,93-101,-9,free throw,False,15,False,True
+2014-02-22,47.3333333333,Boston Celtics,Sacramento Kings,4,94-101,-8,free throw,False,15,True,True
+2014-02-22,47.4833333333,Boston Celtics,Sacramento Kings,4,95-105,-11,free throw,False,15,True,True
+2014-02-22,47.4833333333,Boston Celtics,Sacramento Kings,4,96-105,-10,free throw,False,15,True,True
+2014-02-22,47.9666666667,Boston Celtics,Sacramento Kings,4,98-105,-9,two point jumper,False,4,True,True
+2014-02-24,6.78333333333,Boston Celtics,Utah Jazz,1,8-15,-10,three point jumper,False,22,False,True
+2014-02-24,10.6333333333,Boston Celtics,Utah Jazz,1,18-25,-9,two point jumper,False,17,True,True
+2014-02-24,11.6166666667,Boston Celtics,Utah Jazz,1,18-27,-11,two point jumper,False,1,False,True
+2014-02-24,33.8666666667,Boston Celtics,Utah Jazz,3,64-81,-19,layup,False,0,False,True
+2014-02-24,36.5833333333,Boston Celtics,Utah Jazz,4,70-85,-17,two point jumper,False,18,True,True
+2014-02-24,37.3166666667,Boston Celtics,Utah Jazz,4,72-85,-15,two point jumper,False,12,True,True
+2014-02-24,40.5666666667,Boston Celtics,Utah Jazz,4,83-93,-13,three point jumper,False,24,True,True
+2014-02-24,43.1,Boston Celtics,Utah Jazz,4,88-100,-14,two point jumper,False,5,False,True
+2014-02-24,43.45,Boston Celtics,Utah Jazz,4,88-103,-17,two point jumper,False,11,False,True
+2014-02-24,44.7,Boston Celtics,Utah Jazz,4,94-103,-11,layup,False,0,True,True
+2014-02-24,47.3166666667,Boston Celtics,Utah Jazz,4,98-110,-14,two point jumper,False,1,True,True
+2014-02-26,12.8,Boston Celtics,Atlanta Hawks,2,29-29,-2,two point shot,True,18,True,True
+2014-02-26,13.3833333333,Boston Celtics,Atlanta Hawks,2,29-31,0,two point jumper,True,18,True,True
+2014-02-26,13.8333333333,Boston Celtics,Atlanta Hawks,2,29-33,2,two point shot,True,11,True,True
+2014-02-26,14.4333333333,Boston Celtics,Atlanta Hawks,2,29-33,1,three point jumper,True,23,False,True
+2014-02-26,15.7166666667,Boston Celtics,Atlanta Hawks,2,36-38,0,two point shot,True,10,True,True
+2014-02-26,18.8833333333,Boston Celtics,Atlanta Hawks,2,46-44,-4,two point jumper,True,21,False,True
+2014-02-26,24.75,Boston Celtics,Atlanta Hawks,3,56-61,3,unknown,True,23,True,True
+2014-02-26,26.25,Boston Celtics,Atlanta Hawks,3,62-61,-3,two point jumper,True,19,False,True
+2014-02-26,28.7,Boston Celtics,Atlanta Hawks,3,64-65,-1,two point jumper,True,14,False,True
+2014-02-26,29.5666666667,Boston Celtics,Atlanta Hawks,3,66-68,-1,three point jumper,True,25,True,True
+2014-02-26,31.2,Boston Celtics,Atlanta Hawks,3,70-73,0,three point jumper,True,24,True,True
+2014-02-26,31.5333333333,Boston Celtics,Atlanta Hawks,3,70-75,2,three point jumper,True,25,True,True
+2014-02-26,31.9833333333,Boston Celtics,Atlanta Hawks,3,72-75,0,three point jumper,True,25,False,True
+2014-02-26,37.3833333333,Boston Celtics,Atlanta Hawks,4,79-86,4,three point jumper,True,24,True,True
+2014-02-26,38.7166666667,Boston Celtics,Atlanta Hawks,4,83-88,3,two point shot,True,15,True,True
+2014-02-26,39.0666666667,Boston Celtics,Atlanta Hawks,4,85-88,1,layup,True,0,False,True
+2014-02-26,40.5666666667,Boston Celtics,Atlanta Hawks,4,87-90,1,layup,True,0,False,True
+2014-02-26,41.95,Boston Celtics,Atlanta Hawks,4,91-94,0,three point jumper,True,25,False,True
+2014-02-26,44.85,Boston Celtics,Atlanta Hawks,4,97-105,6,two point shot,True,19,True,True
+2014-02-26,45.4833333333,Boston Celtics,Atlanta Hawks,4,97-105,6,two point jumper,True,23,False,True
+2014-02-26,47.3166666667,Boston Celtics,Atlanta Hawks,4,102-113,9,two point jumper,True,17,True,True
+2014-03-01,3.33333333333,Boston Celtics,Indiana Pacers,1,8-11,1,two point shot,True,20,True,True
+2014-03-01,12.5166666667,Boston Celtics,Indiana Pacers,2,28-29,-1,two point jumper,True,23,True,True
+2014-03-01,13.5166666667,Boston Celtics,Indiana Pacers,2,30-31,-1,two point shot,True,17,False,True
+2014-03-01,13.7,Boston Celtics,Indiana Pacers,2,32-33,-1,layup,True,0,True,True
+2014-03-01,14.3333333333,Boston Celtics,Indiana Pacers,2,33-33,-3,three point jumper,True,25,False,True
+2014-03-01,24.6333333333,Boston Celtics,Indiana Pacers,3,55-48,-9,two point jumper,True,21,False,True
+2014-03-01,26.3833333333,Boston Celtics,Indiana Pacers,3,59-52,-9,two point shot,True,1,True,True
+2014-03-01,28.7333333333,Boston Celtics,Indiana Pacers,3,63-56,-10,three point jumper,True,25,True,True
+2014-03-01,39.8833333333,Boston Celtics,Indiana Pacers,4,86-86,-3,three point jumper,True,23,False,True
+2014-03-01,45.3333333333,Boston Celtics,Indiana Pacers,4,94-90,-7,three point jumper,True,27,False,True
+2014-03-01,47.4166666667,Boston Celtics,Indiana Pacers,4,101-94,-10,three point jumper,True,25,False,True
+2014-11-30,8.08333333333,Memphis Grizzlies,Brooklyn Nets,1,9-14,2,three point jumper,True,24,False,False
+2014-11-30,9.48333333333,Memphis Grizzlies,Brooklyn Nets,1,10-15,4,free throw,True,15,True,False
+2014-11-30,11.7,Memphis Grizzlies,Brooklyn Nets,1,21-19,-4,two point jumper,True,7,False,False
+2014-11-30,22.8833333333,Memphis Grizzlies,Brooklyn Nets,2,46-32,-17,three point jumper,True,25,False,False
+2014-11-30,39.45,Memphis Grizzlies,Brooklyn Nets,4,77-74,-5,two point jumper,True,1,False,False
+2014-11-30,40.3166666667,Memphis Grizzlies,Brooklyn Nets,4,82-76,-8,two point jumper,True,18,True,False
+2014-11-30,41.1333333333,Memphis Grizzlies,Brooklyn Nets,4,82-76,-9,three point jumper,True,25,False,False
+2014-12-21,15.9333333333,Memphis Grizzlies,New York Knicks,2,26-28,-3,free throw,False,15,True,True
+2014-12-21,15.9333333333,Memphis Grizzlies,New York Knicks,2,27-28,-2,free throw,False,15,True,True
+2014-12-21,16.3833333333,Memphis Grizzlies,New York Knicks,2,27-28,-3,two point jumper,False,18,False,True
+2014-12-21,38.6333333333,Memphis Grizzlies,New York Knicks,4,76-61,13,layup,False,0,True,True
+2014-12-21,38.6333333333,Memphis Grizzlies,New York Knicks,4,77-61,15,free throw,False,15,True,True
+2014-12-21,39.3166666667,Memphis Grizzlies,New York Knicks,4,79-63,14,two point shot,False,19,True,True
+2014-12-21,39.7666666667,Memphis Grizzlies,New York Knicks,4,81-63,16,two point jumper,False,21,True,True
+2014-12-21,40.9166666667,Memphis Grizzlies,New York Knicks,4,81-65,14,two point jumper,False,19,False,True
+2014-12-21,47.6333333333,Memphis Grizzlies,New York Knicks,4,92-87,4,free throw,False,15,True,True
+2014-12-21,47.6333333333,Memphis Grizzlies,New York Knicks,4,93-87,5,free throw,False,15,True,True
+2014-11-13,12.3833333333,Memphis Grizzlies,Toronto Raptors,2,26-20,-9,three point jumper,True,23,False,True
+2014-11-13,15.2166666667,Memphis Grizzlies,Toronto Raptors,2,30-23,-9,two point jumper,True,19,False,True
+2014-11-13,17.95,Memphis Grizzlies,Toronto Raptors,2,35-30,-8,three point jumper,True,26,False,True
+2014-11-20,11.5833333333,Memphis Grizzlies,Golden State Warriors,1,16-26,-12,two point shot,False,3,True,True
+2014-11-20,13.2166666667,Memphis Grizzlies,Golden State Warriors,2,16-26,-13,three point jumper,False,26,False,True
+2014-11-20,13.4666666667,Memphis Grizzlies,Golden State Warriors,2,17-26,-10,free throw,False,15,True,True
+2014-11-20,13.4666666667,Memphis Grizzlies,Golden State Warriors,2,18-26,-9,free throw,False,15,True,True
+2014-11-20,15.95,Memphis Grizzlies,Golden State Warriors,2,20-30,-12,two point shot,False,1,False,True
+2014-11-20,34.0,Memphis Grizzlies,Golden State Warriors,3,54-54,-1,free throw,False,15,True,True
+2014-11-20,34.0,Memphis Grizzlies,Golden State Warriors,3,55-54,0,free throw,False,15,True,True
+2014-11-20,39.4333333333,Memphis Grizzlies,Golden State Warriors,4,66-63,1,two point shot,False,25,False,True
+2014-11-20,40.3833333333,Memphis Grizzlies,Golden State Warriors,4,66-65,-1,two point jumper,False,20,False,True
+2014-12-07,11.5,Memphis Grizzlies,Golden State Warriors,1,26-19,-9,two point jumper,True,18,False,True
+2014-12-07,14.0,Memphis Grizzlies,Golden State Warriors,2,33-19,-16,two point jumper,True,21,False,True
+2014-12-07,16.1,Memphis Grizzlies,Golden State Warriors,2,37-21,-18,two point jumper,True,15,False,True
+2014-12-07,17.0333333333,Memphis Grizzlies,Golden State Warriors,2,37-23,-16,layup,True,0,False,True
+2014-12-07,18.6333333333,Memphis Grizzlies,Golden State Warriors,2,41-29,-15,three point jumper,True,25,False,True
+2014-12-07,19.1,Memphis Grizzlies,Golden State Warriors,2,41-29,-15,three point jumper,True,26,False,True
+2014-12-07,25.0666666667,Memphis Grizzlies,Golden State Warriors,3,52-45,-9,two point jumper,True,19,False,True
+2014-12-07,27.4333333333,Memphis Grizzlies,Golden State Warriors,3,57-47,-12,two point jumper,True,19,False,True
+2014-12-07,30.0,Memphis Grizzlies,Golden State Warriors,3,61-49,-14,layup,True,0,False,True
+2014-12-07,38.3833333333,Memphis Grizzlies,Golden State Warriors,4,84-63,-22,free throw,True,15,True,True
+2014-12-07,38.3833333333,Memphis Grizzlies,Golden State Warriors,4,84-64,-21,free throw,True,15,True,True
+2014-12-07,40.0333333333,Memphis Grizzlies,Golden State Warriors,4,87-67,-22,two point shot,True,1,False,True
+2014-11-18,7.06666666667,Memphis Grizzlies,Los Angeles Clippers,1,17-10,6,free throw,False,15,True,True
+2014-11-18,23.2666666667,Memphis Grizzlies,Los Angeles Clippers,2,49-49,-3,three point jumper,False,25,False,True
+2014-11-18,23.9333333333,Memphis Grizzlies,Los Angeles Clippers,2,52-49,1,layup,False,0,True,True
+2014-11-18,36.3166666667,Memphis Grizzlies,Los Angeles Clippers,4,81-81,-2,two point shot,False,11,False,True
+2014-11-18,40.9166666667,Memphis Grizzlies,Los Angeles Clippers,4,90-83,4,three point jumper,False,24,False,True
+2014-11-18,47.9833333333,Memphis Grizzlies,Los Angeles Clippers,4,105-102,2,free throw,False,15,False,True
+2014-11-18,47.9833333333,Memphis Grizzlies,Los Angeles Clippers,4,106-102,3,free throw,False,15,True,True
+2014-12-05,3.63333333333,Memphis Grizzlies,Los Angeles Clippers,1,4-8,2,two point shot,True,1,True,True
+2014-12-05,21.1666666667,Memphis Grizzlies,Los Angeles Clippers,2,33-36,1,two point jumper,True,14,True,True
+2014-12-05,22.1,Memphis Grizzlies,Los Angeles Clippers,2,36-36,-2,two point jumper,True,21,False,True
+2014-12-05,25.0166666667,Memphis Grizzlies,Los Angeles Clippers,3,40-42,-1,three point jumper,True,23,False,True
+2014-12-05,30.1,Memphis Grizzlies,Los Angeles Clippers,3,52-47,-8,three point jumper,True,24,False,True
+2014-12-05,46.5833333333,Memphis Grizzlies,Los Angeles Clippers,4,98-79,-22,three point jumper,True,26,False,True
+2014-11-15,13.55,Memphis Grizzlies,Los Angeles Lakers,2,26-20,4,two point jumper,False,6,False,True
+2014-11-15,17.6666666667,Memphis Grizzlies,Los Angeles Lakers,2,34-29,3,two point jumper,False,20,False,True
+2014-12-17,2.56666666667,Memphis Grizzlies,Los Angeles Lakers,1,4-4,-2,layup,True,0,False,False
+2014-12-17,2.95,Memphis Grizzlies,Los Angeles Lakers,1,4-4,-3,three point jumper,True,25,False,False
+2014-12-17,3.86666666667,Memphis Grizzlies,Los Angeles Lakers,1,8-6,-4,two point shot,True,9,True,False
+2014-12-17,5.91666666667,Memphis Grizzlies,Los Angeles Lakers,1,14-13,-3,two point shot,True,1,True,False
+2014-12-17,8.75,Memphis Grizzlies,Los Angeles Lakers,1,24-17,-9,two point jumper,True,13,False,False
+2014-12-17,26.55,Memphis Grizzlies,Los Angeles Lakers,3,52-51,-3,two point jumper,True,20,False,False
+2014-12-17,28.4833333333,Memphis Grizzlies,Los Angeles Lakers,3,56-56,-2,two point shot,True,1,True,False
+2014-12-17,28.4833333333,Memphis Grizzlies,Los Angeles Lakers,3,56-57,0,free throw,True,15,True,False
+2014-12-17,41.0666666667,Memphis Grizzlies,Los Angeles Lakers,4,84-75,-11,two point shot,True,4,True,False
+2014-12-17,41.4166666667,Memphis Grizzlies,Los Angeles Lakers,4,84-77,-9,two point shot,True,11,True,False
+2014-12-17,43.0,Memphis Grizzlies,Los Angeles Lakers,4,84-81,-5,two point shot,True,20,True,False
+2014-12-17,44.45,Memphis Grizzlies,Los Angeles Lakers,4,86-83,-5,two point jumper,True,21,False,False
+2014-12-17,47.3166666667,Memphis Grizzlies,Los Angeles Lakers,4,93-87,-8,two point jumper,True,20,False,False
+2014-12-17,47.7166666667,Memphis Grizzlies,Los Angeles Lakers,4,94-87,-9,layup,True,0,False,False
+2014-12-03,10.9666666667,Memphis Grizzlies,Phoenix Suns,1,19-21,0,layup,True,0,False,False
+2014-12-03,12.8833333333,Memphis Grizzlies,Phoenix Suns,2,22-23,-1,two point jumper,True,18,False,False
+2014-12-03,15.75,Memphis Grizzlies,Phoenix Suns,2,29-27,-4,two point shot,True,15,True,False
+2014-12-03,37.6333333333,Memphis Grizzlies,Phoenix Suns,4,77-86,6,three point jumper,True,24,True,False
+2014-12-03,38.6333333333,Memphis Grizzlies,Phoenix Suns,4,77-88,9,two point shot,True,1,True,False
+2014-12-03,40.25,Memphis Grizzlies,Phoenix Suns,4,79-90,8,three point jumper,True,23,False,False
+2014-12-03,41.1333333333,Memphis Grizzlies,Phoenix Suns,4,79-92,11,two point jumper,True,23,False,False
+2014-12-03,41.6,Memphis Grizzlies,Phoenix Suns,4,82-92,9,free throw,True,15,False,False
+2014-12-03,47.65,Memphis Grizzlies,Phoenix Suns,4,89-110,18,three point jumper,True,23,True,False
+2014-01-02,9.7,Memphis Grizzlies,Phoenix Suns,1,18-19,-4,three point jumper,False,24,False,True
+2014-01-02,13.3833333333,Memphis Grizzlies,Phoenix Suns,2,24-26,-3,free throw,False,15,False,True
+2014-01-02,13.3833333333,Memphis Grizzlies,Phoenix Suns,2,25-26,-2,free throw,False,15,True,True
+2014-01-02,13.9666666667,Memphis Grizzlies,Phoenix Suns,2,25-29,-6,two point shot,False,7,False,True
+2014-01-02,14.2666666667,Memphis Grizzlies,Phoenix Suns,2,30-29,-2,three point jumper,False,23,True,True
+2014-01-02,34.2333333333,Memphis Grizzlies,Phoenix Suns,3,69-71,-4,two point shot,False,19,True,True
+2014-01-02,35.9333333333,Memphis Grizzlies,Phoenix Suns,3,69-73,-7,three point jumper,False,26,False,True
+2014-01-02,36.95,Memphis Grizzlies,Phoenix Suns,4,74-75,-4,three point jumper,False,23,True,True
+2014-01-02,38.5,Memphis Grizzlies,Phoenix Suns,4,80-75,3,two point jumper,False,19,True,True
+2014-01-02,39.15,Memphis Grizzlies,Phoenix Suns,4,80-75,3,two point jumper,False,9,False,True
+2014-01-02,41.6666666667,Memphis Grizzlies,Phoenix Suns,4,86-81,3,two point jumper,False,21,True,True
+2014-01-02,42.1333333333,Memphis Grizzlies,Phoenix Suns,4,86-81,2,three point jumper,False,23,False,True
+2014-01-02,43.5,Memphis Grizzlies,Phoenix Suns,4,94-84,7,three point jumper,False,23,True,True
+2014-01-02,47.6666666667,Memphis Grizzlies,Phoenix Suns,4,98-91,6,free throw,False,15,False,True
+2014-01-02,47.6666666667,Memphis Grizzlies,Phoenix Suns,4,99-91,7,free throw,False,15,True,True
+2014-11-17,10.15,Memphis Grizzlies,Sacramento Kings,1,21-16,2,three point jumper,False,23,True,True
+2014-11-17,10.9333333333,Memphis Grizzlies,Sacramento Kings,1,23-16,5,two point jumper,False,19,True,True
+2014-11-17,11.5333333333,Memphis Grizzlies,Sacramento Kings,1,25-18,5,two point shot,False,18,True,True
+2014-11-17,14.1166666667,Memphis Grizzlies,Sacramento Kings,2,27-18,8,free throw,False,15,True,True
+2014-11-17,14.2666666667,Memphis Grizzlies,Sacramento Kings,2,27-18,7,two point jumper,False,19,False,True
+2014-11-17,23.8166666667,Memphis Grizzlies,Sacramento Kings,2,47-32,13,two point jumper,False,19,False,True
+2014-11-17,23.9833333333,Memphis Grizzlies,Sacramento Kings,2,47-34,10,three point jumper,False,39,False,True
+2014-11-17,36.3,Memphis Grizzlies,Sacramento Kings,4,74-65,7,two point jumper,False,22,False,True
+2014-11-17,37.5,Memphis Grizzlies,Sacramento Kings,4,74-69,3,two point shot,False,17,False,True
+2014-11-17,41.1666666667,Memphis Grizzlies,Sacramento Kings,4,82-79,0,three point jumper,False,25,False,True
+2014-12-30,13.1333333333,Memphis Grizzlies,Chicago Bulls,2,18-26,6,two point shot,True,13,True,False
+2014-12-30,14.2166666667,Memphis Grizzlies,Chicago Bulls,2,20-28,6,two point jumper,True,18,True,False
+2014-12-30,16.6,Memphis Grizzlies,Chicago Bulls,2,25-28,1,two point jumper,True,9,False,False
+2014-12-30,29.0,Memphis Grizzlies,Chicago Bulls,3,54-46,-10,two point jumper,True,19,False,False
+2014-11-01,11.2833333333,Memphis Grizzlies,Detroit Pistons,1,19-17,-5,three point jumper,True,25,False,True
+2014-11-01,16.45,Memphis Grizzlies,Detroit Pistons,2,26-29,1,two point shot,True,23,True,True
+2014-11-01,17.6333333333,Memphis Grizzlies,Detroit Pistons,2,28-34,3,three point jumper,True,25,True,True
+2014-11-01,18.6666666667,Memphis Grizzlies,Detroit Pistons,2,28-36,5,three point jumper,True,25,False,True
+2014-11-01,35.5333333333,Memphis Grizzlies,Detroit Pistons,3,67-67,-2,two point shot,True,18,True,True
+2014-11-01,38.3833333333,Memphis Grizzlies,Detroit Pistons,4,75-71,-6,two point jumper,True,16,False,True
+2014-11-01,52.8333333333,Memphis Grizzlies,Detroit Pistons,5,103-109,5,free throw,True,15,True,True
+2014-11-01,52.8333333333,Memphis Grizzlies,Detroit Pistons,5,103-110,6,free throw,True,15,True,True
+2014-01-05,9.33333333333,Memphis Grizzlies,Detroit Pistons,1,19-25,-7,free throw,False,15,True,False
+2014-01-05,9.33333333333,Memphis Grizzlies,Detroit Pistons,1,20-25,-6,free throw,False,15,True,False
+2014-01-05,13.2666666667,Memphis Grizzlies,Detroit Pistons,2,33-27,3,three point jumper,False,25,True,False
+2014-01-05,13.7666666667,Memphis Grizzlies,Detroit Pistons,2,33-27,4,two point jumper,False,21,False,False
+2014-01-05,16.5666666667,Memphis Grizzlies,Detroit Pistons,2,39-37,-1,three point jumper,False,27,False,False
+2014-01-05,32.9,Memphis Grizzlies,Detroit Pistons,3,73-67,4,two point jumper,False,20,False,False
+2014-01-05,40.8166666667,Memphis Grizzlies,Detroit Pistons,4,93-72,18,three point jumper,False,26,True,False
+2014-01-05,41.85,Memphis Grizzlies,Detroit Pistons,4,95-72,21,two point shot,False,6,True,False
+2014-01-05,43.4833333333,Memphis Grizzlies,Detroit Pistons,4,99-76,21,two point jumper,False,20,False,False
+2014-11-02,9.8,Memphis Grizzlies,Dallas Mavericks,1,13-25,-14,two point shot,False,17,False,True
+2014-11-02,10.5333333333,Memphis Grizzlies,Dallas Mavericks,1,16-28,-15,three point jumper,False,22,True,True
+2014-11-02,11.5166666667,Memphis Grizzlies,Dallas Mavericks,1,16-32,-18,two point jumper,False,21,False,True
+2014-11-02,21.2666666667,Memphis Grizzlies,Dallas Mavericks,2,37-48,-14,three point jumper,False,22,True,True
+2014-11-02,23.0,Memphis Grizzlies,Dallas Mavericks,2,43-48,-7,layup,False,0,True,True
+2014-11-02,23.4333333333,Memphis Grizzlies,Dallas Mavericks,2,43-48,-8,three point jumper,False,24,False,True
+2014-11-02,29.6,Memphis Grizzlies,Dallas Mavericks,3,51-58,-9,two point jumper,False,22,True,True
+2014-11-02,30.4833333333,Memphis Grizzlies,Dallas Mavericks,3,52-60,-11,three point jumper,False,23,False,True
+2014-11-02,31.95,Memphis Grizzlies,Dallas Mavericks,3,54-62,-11,three point jumper,False,24,False,True
+2014-11-02,36.0,Memphis Grizzlies,Dallas Mavericks,3,63-73,-12,two point shot,False,18,False,True
+2014-11-02,38.4333333333,Memphis Grizzlies,Dallas Mavericks,4,72-80,-9,free throw,False,15,True,True
+2014-11-02,43.2,Memphis Grizzlies,Dallas Mavericks,4,81-93,-14,two point jumper,False,19,False,True
+2014-12-18,6.63333333333,Memphis Grizzlies,Dallas Mavericks,1,11-16,-7,layup,False,0,True,True
+2014-12-18,6.63333333333,Memphis Grizzlies,Dallas Mavericks,1,12-16,-5,free throw,False,15,True,True
+2014-12-18,7.1,Memphis Grizzlies,Dallas Mavericks,1,12-16,-6,unknown,False,11,False,True
+2014-12-18,20.65,Memphis Grizzlies,Dallas Mavericks,2,33-47,-17,three point jumper,False,24,False,True
+2014-12-18,20.85,Memphis Grizzlies,Dallas Mavericks,2,33-47,-16,two point jumper,False,5,False,True
+2014-12-18,24.3833333333,Memphis Grizzlies,Dallas Mavericks,3,41-52,-13,two point shot,False,1,True,True
+2014-12-18,25.5666666667,Memphis Grizzlies,Dallas Mavericks,3,43-56,-15,unknown,False,7,False,True
+2014-12-18,25.65,Memphis Grizzlies,Dallas Mavericks,3,43-56,-16,three point jumper,False,22,False,True
+2014-12-18,26.2666666667,Memphis Grizzlies,Dallas Mavericks,3,43-58,-18,three point jumper,False,23,False,True
+2014-12-18,29.4833333333,Memphis Grizzlies,Dallas Mavericks,3,51-65,-17,three point jumper,False,25,False,True
+2014-12-18,33.85,Memphis Grizzlies,Dallas Mavericks,3,62-72,-12,unknown,False,8,False,True
+2014-12-18,37.8666666667,Memphis Grizzlies,Dallas Mavericks,4,66-82,-19,three point jumper,False,24,False,True
+2014-12-18,38.9666666667,Memphis Grizzlies,Dallas Mavericks,4,68-82,-16,two point shot,False,3,True,True
+2014-11-25,9.2,Memphis Grizzlies,Houston Rockets,1,15-19,2,two point shot,True,1,True,False
+2014-11-25,11.15,Memphis Grizzlies,Houston Rockets,1,17-21,2,two point jumper,True,21,False,False
+2014-11-25,33.5833333333,Memphis Grizzlies,Houston Rockets,3,50-59,7,two point jumper,True,1,False,False
+2014-11-25,35.2333333333,Memphis Grizzlies,Houston Rockets,3,55-63,5,three point jumper,True,24,False,False
+2014-11-25,35.9833333333,Memphis Grizzlies,Houston Rockets,3,55-63,5,three point jumper,True,26,False,False
+2014-11-25,38.3,Memphis Grizzlies,Houston Rockets,4,60-65,3,two point jumper,True,1,False,False
+2014-12-26,9.71666666667,Memphis Grizzlies,Houston Rockets,1,15-23,-10,two point jumper,False,23,False,True
+2014-12-26,13.7166666667,Memphis Grizzlies,Houston Rockets,2,23-31,-11,three point jumper,False,26,False,True
+2014-12-26,14.1333333333,Memphis Grizzlies,Houston Rockets,2,26-31,-8,three point jumper,False,25,True,True
+2014-12-26,15.8666666667,Memphis Grizzlies,Houston Rockets,2,33-33,-2,two point shot,False,12,True,True
+2014-12-26,17.3166666667,Memphis Grizzlies,Houston Rockets,2,37-35,-1,three point jumper,False,23,False,True
+2014-12-26,38.6166666667,Memphis Grizzlies,Houston Rockets,4,78-73,2,three point jumper,False,23,False,True
+2014-12-26,39.6166666667,Memphis Grizzlies,Houston Rockets,4,80-76,2,layup,False,0,True,True
+2014-10-30,9.0,Memphis Grizzlies,San Antonio Spurs,1,16-13,1,layup,False,0,False,True
+2014-10-30,10.6166666667,Memphis Grizzlies,San Antonio Spurs,1,19-16,1,two point shot,False,1,False,True
+2014-10-30,10.6166666667,Memphis Grizzlies,San Antonio Spurs,1,20-16,3,free throw,False,15,True,True
+2014-10-30,10.6166666667,Memphis Grizzlies,San Antonio Spurs,1,20-16,3,free throw,False,15,False,True
+2014-10-30,11.9166666667,Memphis Grizzlies,San Antonio Spurs,1,20-18,0,two point jumper,False,19,False,True
+2014-10-30,32.8,Memphis Grizzlies,San Antonio Spurs,3,46-64,-20,two point jumper,False,17,False,True
+2014-10-30,35.95,Memphis Grizzlies,San Antonio Spurs,3,58-72,-16,two point jumper,False,16,True,True
+2014-10-30,38.6333333333,Memphis Grizzlies,San Antonio Spurs,4,64-77,-15,two point jumper,False,21,False,True
+2014-10-30,41.4166666667,Memphis Grizzlies,San Antonio Spurs,4,77-83,-8,two point jumper,False,19,True,True
+2014-11-06,11.8833333333,Memphis Grizzlies,New Orleans Pelicans,1,33-18,-17,two point jumper,True,20,False,False
+2014-11-06,13.1833333333,Memphis Grizzlies,New Orleans Pelicans,2,35-21,-17,three point jumper,True,25,True,False
+2014-11-06,16.3833333333,Memphis Grizzlies,New Orleans Pelicans,2,41-25,-18,layup,True,0,False,False
+2014-11-06,16.9833333333,Memphis Grizzlies,New Orleans Pelicans,2,43-25,-20,two point jumper,True,19,False,False
+2014-11-06,31.45,Memphis Grizzlies,New Orleans Pelicans,3,65-48,-20,three point jumper,True,23,False,False
+2014-11-22,9.1,Memphis Grizzlies,San Antonio Spurs,1,19-15,-6,two point jumper,True,12,False,True
+2014-11-22,11.1166666667,Memphis Grizzlies,San Antonio Spurs,1,22-21,-4,three point jumper,True,24,False,True
+2014-11-22,34.35,Memphis Grizzlies,San Antonio Spurs,3,68-65,-5,two point shot,True,6,True,True
+2014-11-22,34.9,Memphis Grizzlies,San Antonio Spurs,3,70-65,-7,two point jumper,True,20,False,True
+2014-12-09,3.93333333333,Memphis Grizzlies,Orlando Magic,1,4-7,0,three point jumper,True,24,True,True
+2014-12-09,4.95,Memphis Grizzlies,Orlando Magic,1,4-7,0,three point jumper,True,25,False,True
+2014-12-09,7.06666666667,Memphis Grizzlies,Orlando Magic,1,6-13,4,three point jumper,True,24,False,True
+2014-12-09,7.7,Memphis Grizzlies,Orlando Magic,1,10-15,3,two point shot,True,1,True,True
+2014-12-09,21.85,Memphis Grizzlies,Orlando Magic,2,26-44,16,unknown,True,5,False,True
+2014-12-09,26.3166666667,Memphis Grizzlies,Orlando Magic,3,34-54,17,three point jumper,True,25,True,True
+2014-12-09,27.4,Memphis Grizzlies,Orlando Magic,3,37-54,15,two point jumper,True,1,False,True
+2014-12-09,28.75,Memphis Grizzlies,Orlando Magic,3,40-57,15,two point jumper,True,19,False,True
+2014-12-09,47.5833333333,Memphis Grizzlies,Orlando Magic,4,85-94,6,three point jumper,True,23,True,True
+2014-12-11,2.81666666667,Memphis Grizzlies,Oklahoma City Thunder,1,3-4,-2,three point jumper,True,25,False,False
+2014-12-11,25.2166666667,Memphis Grizzlies,Oklahoma City Thunder,3,59-46,-15,two point shot,True,9,True,False
+2014-12-11,26.25,Memphis Grizzlies,Oklahoma City Thunder,3,63-50,-15,two point jumper,True,19,True,False
+2014-12-11,26.25,Memphis Grizzlies,Oklahoma City Thunder,3,63-50,-14,free throw,True,15,False,False
+2014-12-11,28.2,Memphis Grizzlies,Oklahoma City Thunder,3,70-52,-20,two point shot,True,1,True,False
+2014-12-11,28.7333333333,Memphis Grizzlies,Oklahoma City Thunder,3,72-54,-20,two point shot,True,1,True,False
+2014-12-11,42.95,Memphis Grizzlies,Oklahoma City Thunder,4,105-84,-23,two point shot,True,1,True,False
+2014-12-11,42.95,Memphis Grizzlies,Oklahoma City Thunder,4,105-85,-21,free throw,True,15,True,False
+2014-12-11,46.85,Memphis Grizzlies,Oklahoma City Thunder,4,116-98,-20,two point jumper,True,17,False,False
+2014-12-11,47.0,Memphis Grizzlies,Oklahoma City Thunder,4,116-98,-21,three point jumper,True,24,False,False
+2014-12-13,14.95,Memphis Grizzlies,New Orleans Pelicans,2,40-30,8,layup,False,0,True,True
+2014-12-13,16.6333333333,Memphis Grizzlies,New Orleans Pelicans,2,40-35,3,two point jumper,False,23,False,True
+2014-12-13,20.2166666667,Memphis Grizzlies,New Orleans Pelicans,2,48-42,4,two point jumper,False,19,False,True
+2014-12-13,41.45,Memphis Grizzlies,New Orleans Pelicans,4,83-93,-13,three point jumper,False,26,True,True
+2014-12-13,42.45,Memphis Grizzlies,New Orleans Pelicans,4,85-94,-12,three point jumper,False,23,False,True
+2014-12-13,46.7333333333,Memphis Grizzlies,New Orleans Pelicans,4,93-100,-9,layup,False,0,True,True
+2014-12-15,13.0666666667,Memphis Grizzlies,Minnesota Timberwolves,2,28-19,-11,layup,True,0,True,True
+2014-12-15,14.7,Memphis Grizzlies,Minnesota Timberwolves,2,37-24,-15,two point shot,True,7,True,True
+2014-12-15,15.6166666667,Memphis Grizzlies,Minnesota Timberwolves,2,40-25,-17,two point jumper,True,22,False,True
+2014-12-15,16.75,Memphis Grizzlies,Minnesota Timberwolves,2,40-29,-13,two point shot,True,6,True,True
+2014-12-15,17.6666666667,Memphis Grizzlies,Minnesota Timberwolves,2,40-29,-13,two point jumper,True,11,False,True
+2014-12-15,18.2833333333,Memphis Grizzlies,Minnesota Timberwolves,2,43-30,-14,free throw,True,15,True,True
+2014-12-15,18.2833333333,Memphis Grizzlies,Minnesota Timberwolves,2,43-31,-13,free throw,True,15,True,True
+2014-12-15,19.35,Memphis Grizzlies,Minnesota Timberwolves,2,48-31,-20,three point jumper,True,23,False,True
+2014-12-15,35.2666666667,Memphis Grizzlies,Minnesota Timberwolves,3,75-69,-9,three point jumper,True,23,False,True
+2014-12-15,37.2666666667,Memphis Grizzlies,Minnesota Timberwolves,4,79-76,-4,free throw,True,15,True,True
+2014-12-15,37.2666666667,Memphis Grizzlies,Minnesota Timberwolves,4,79-77,-3,free throw,True,15,True,True
+2014-12-15,43.45,Memphis Grizzlies,Minnesota Timberwolves,4,92-87,-7,layup,True,0,True,True
+2014-12-15,44.1,Memphis Grizzlies,Minnesota Timberwolves,4,95-87,-9,free throw,True,15,False,True
+2014-12-15,44.1,Memphis Grizzlies,Minnesota Timberwolves,4,95-88,-8,free throw,True,15,True,True
+2014-12-15,46.65,Memphis Grizzlies,Minnesota Timberwolves,4,99-92,-9,layup,True,0,False,True
+2014-12-15,47.0,Memphis Grizzlies,Minnesota Timberwolves,4,99-93,-7,free throw,True,15,True,True
+2014-12-15,47.0,Memphis Grizzlies,Minnesota Timberwolves,4,99-93,-7,free throw,True,15,False,True
+2014-12-23,11.5833333333,Memphis Grizzlies,Utah Jazz,1,21-24,1,two point jumper,True,1,False,False
+2014-12-23,15.5666666667,Memphis Grizzlies,Utah Jazz,2,27-35,6,dunk,True,0,False,False
+2014-12-23,33.4833333333,Memphis Grizzlies,Utah Jazz,3,65-72,4,three point jumper,True,25,True,False
+2014-12-23,34.8333333333,Memphis Grizzlies,Utah Jazz,3,68-72,2,two point jumper,True,1,False,False
+2014-12-23,35.4666666667,Memphis Grizzlies,Utah Jazz,3,71-77,3,three point jumper,True,24,True,False
+2014-12-23,36.3166666667,Memphis Grizzlies,Utah Jazz,4,71-80,6,three point jumper,True,23,True,False
+2014-12-23,37.7666666667,Memphis Grizzlies,Utah Jazz,4,73-84,9,two point shot,True,8,True,False
+2014-12-23,38.55,Memphis Grizzlies,Utah Jazz,4,73-84,9,two point shot,True,10,False,False
+2014-12-23,39.3,Memphis Grizzlies,Utah Jazz,4,75-89,11,three point jumper,True,26,True,False
+2014-12-23,43.5666666667,Memphis Grizzlies,Utah Jazz,4,83-96,10,three point jumper,True,24,False,False
+2014-12-23,44.05,Memphis Grizzlies,Utah Jazz,4,83-98,13,layup,True,0,True,False
+2014-12-23,47.6833333333,Memphis Grizzlies,Utah Jazz,4,92-103,10,free throw,True,15,False,False
+2014-12-23,47.6833333333,Memphis Grizzlies,Utah Jazz,4,92-104,11,free throw,True,15,True,False
+2014-12-28,13.25,Memphis Grizzlies,Denver Nuggets,2,34-30,-7,three point jumper,True,26,False,False
+2014-12-28,15.2,Memphis Grizzlies,Denver Nuggets,2,39-38,-3,two point shot,True,11,True,False
+2014-12-28,17.1,Memphis Grizzlies,Denver Nuggets,2,38-43,3,two point shot,True,14,True,False
+2014-12-28,17.9833333333,Memphis Grizzlies,Denver Nuggets,2,38-43,4,free throw,True,15,False,False
+2014-12-28,17.9833333333,Memphis Grizzlies,Denver Nuggets,2,38-44,5,free throw,True,15,True,False
+2014-12-28,19.8166666667,Memphis Grizzlies,Denver Nuggets,2,46-48,0,two point shot,True,11,False,False
+2014-12-28,35.0833333333,Memphis Grizzlies,Denver Nuggets,3,69-83,11,three point jumper,True,25,True,False
+2014-12-28,36.0,Memphis Grizzlies,Denver Nuggets,3,72-85,11,two point shot,True,14,True,False
+2014-12-28,37.8833333333,Memphis Grizzlies,Denver Nuggets,4,78-85,4,three point jumper,True,25,False,False
+2014-12-28,41.3833333333,Memphis Grizzlies,Denver Nuggets,4,81-100,17,two point jumper,True,19,True,False
+2014-12-28,41.7833333333,Memphis Grizzlies,Denver Nuggets,4,83-100,14,three point jumper,True,25,False,False
+2014-12-28,41.8833333333,Memphis Grizzlies,Denver Nuggets,4,83-103,17,three point jumper,True,23,True,False
+2014-01-03,10.8333333333,Memphis Grizzlies,Denver Nuggets,1,21-26,-8,three point jumper,False,24,False,False
+2014-01-03,14.4,Memphis Grizzlies,Denver Nuggets,2,27-34,-9,two point shot,False,10,False,False
+2014-01-03,21.95,Memphis Grizzlies,Denver Nuggets,2,41-56,-18,three point jumper,False,26,False,False
+2014-01-03,22.9166666667,Memphis Grizzlies,Denver Nuggets,2,45-58,-16,three point jumper,False,26,False,False
+2014-01-03,23.1166666667,Memphis Grizzlies,Denver Nuggets,2,45-58,-15,layup,False,0,False,False

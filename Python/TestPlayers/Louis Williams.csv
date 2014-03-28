@@ -1,0 +1,467 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-23,11.8666666667,Atlanta Hawks,Boston Celtics,1,25-23,-3,free throw,True,15,True,False
+2014-11-23,11.8666666667,Atlanta Hawks,Boston Celtics,1,25-24,-2,free throw,True,15,True,False
+2014-11-23,13.5666666667,Atlanta Hawks,Boston Celtics,2,27-24,-5,two point jumper,True,1,False,False
+2014-11-23,15.1333333333,Atlanta Hawks,Boston Celtics,2,27-32,3,two point shot,True,8,True,False
+2014-11-23,20.4666666667,Atlanta Hawks,Boston Celtics,2,40-44,2,two point shot,True,10,True,False
+2014-11-23,22.35,Atlanta Hawks,Boston Celtics,2,47-49,0,two point jumper,True,18,False,False
+2014-11-23,37.95,Atlanta Hawks,Boston Celtics,4,68-76,6,two point jumper,True,14,False,False
+2014-11-23,39.05,Atlanta Hawks,Boston Celtics,4,73-81,6,two point jumper,True,18,False,False
+2014-12-31,13.3833333333,Atlanta Hawks,Boston Celtics,2,20-30,-12,layup,False,0,False,True
+2014-12-31,13.75,Atlanta Hawks,Boston Celtics,2,20-32,-14,two point jumper,False,1,False,True
+2014-12-31,14.65,Atlanta Hawks,Boston Celtics,2,20-32,-14,two point jumper,False,1,False,True
+2014-12-31,15.8833333333,Atlanta Hawks,Boston Celtics,2,20-36,-19,three point jumper,False,24,False,True
+2014-12-31,17.0,Atlanta Hawks,Boston Celtics,2,22-36,-17,three point jumper,False,26,False,True
+2014-12-31,17.4833333333,Atlanta Hawks,Boston Celtics,2,22-38,-18,layup,False,0,False,True
+2014-12-31,37.5666666667,Atlanta Hawks,Boston Celtics,4,67-72,-8,three point jumper,False,26,False,True
+2014-02-26,6.81666666667,Atlanta Hawks,Boston Celtics,1,23-8,13,two point shot,False,6,True,False
+2014-02-26,12.45,Atlanta Hawks,Boston Celtics,2,29-27,0,two point jumper,False,19,True,False
+2014-02-26,13.1333333333,Atlanta Hawks,Boston Celtics,2,29-29,-2,two point jumper,False,12,False,False
+2014-02-26,15.9,Atlanta Hawks,Boston Celtics,2,36-38,-4,two point shot,False,17,False,False
+2014-02-26,22.8666666667,Atlanta Hawks,Boston Celtics,2,52-56,-6,two point jumper,False,12,False,False
+2014-02-26,34.2166666667,Atlanta Hawks,Boston Celtics,3,76-81,-6,free throw,False,15,False,False
+2014-02-26,34.2166666667,Atlanta Hawks,Boston Celtics,3,77-81,-5,free throw,False,15,True,False
+2014-02-26,34.6166666667,Atlanta Hawks,Boston Celtics,3,77-81,-6,layup,False,0,False,False
+2014-02-26,35.0666666667,Atlanta Hawks,Boston Celtics,3,79-81,-4,two point shot,False,14,True,False
+2014-02-26,36.2,Atlanta Hawks,Boston Celtics,4,79-81,-4,two point jumper,False,4,False,False
+2014-02-26,40.8166666667,Atlanta Hawks,Boston Celtics,4,89-92,-5,two point shot,False,7,True,False
+2014-02-26,40.8166666667,Atlanta Hawks,Boston Celtics,4,90-92,-3,free throw,False,15,True,False
+2014-02-26,44.4833333333,Atlanta Hawks,Boston Celtics,4,97-103,-9,three point jumper,False,25,True,False
+2014-02-26,44.4833333333,Atlanta Hawks,Boston Celtics,4,97-103,-7,free throw,False,15,False,False
+2014-02-26,45.6666666667,Atlanta Hawks,Boston Celtics,4,97-107,-13,three point jumper,False,23,False,False
+2014-02-26,47.4833333333,Atlanta Hawks,Boston Celtics,4,104-115,-14,three point jumper,False,25,False,False
+2014-01-06,10.2833333333,Atlanta Hawks,Brooklyn Nets,1,19-23,-6,two point jumper,False,9,False,False
+2014-01-06,10.9666666667,Atlanta Hawks,Brooklyn Nets,1,19-24,-8,three point jumper,False,26,False,False
+2014-01-06,15.7,Atlanta Hawks,Brooklyn Nets,2,30-35,-8,three point jumper,False,23,True,False
+2014-01-06,22.8,Atlanta Hawks,Brooklyn Nets,2,47-46,-2,three point jumper,False,23,False,False
+2014-01-06,37.5,Atlanta Hawks,Brooklyn Nets,4,69-74,-7,two point jumper,False,22,False,False
+2014-01-06,37.75,Atlanta Hawks,Brooklyn Nets,4,70-74,-5,free throw,False,15,True,False
+2014-01-06,37.75,Atlanta Hawks,Brooklyn Nets,4,71-74,-4,free throw,False,15,True,False
+2014-01-06,38.3833333333,Atlanta Hawks,Brooklyn Nets,4,71-76,-8,three point jumper,False,25,False,False
+2014-01-16,0.7,Atlanta Hawks,Brooklyn Nets,1,2-0,-4,two point jumper,True,19,False,False
+2014-01-16,7.7,Atlanta Hawks,Brooklyn Nets,1,13-14,-2,three point jumper,True,25,True,False
+2014-01-16,8.81666666667,Atlanta Hawks,Brooklyn Nets,1,17-18,-1,layup,True,0,True,False
+2014-01-16,9.16666666667,Atlanta Hawks,Brooklyn Nets,1,19-20,0,free throw,True,15,True,False
+2014-01-16,9.16666666667,Atlanta Hawks,Brooklyn Nets,1,19-20,0,free throw,True,15,True,False
+2014-01-16,10.6166666667,Atlanta Hawks,Brooklyn Nets,1,27-25,-4,two point shot,True,21,False,False
+2014-01-16,20.6166666667,Atlanta Hawks,Brooklyn Nets,2,56-47,-11,two point shot,True,5,True,False
+2014-01-16,23.0333333333,Atlanta Hawks,Brooklyn Nets,2,62-51,-14,three point jumper,True,24,False,False
+2014-01-16,27.8166666667,Atlanta Hawks,Brooklyn Nets,3,74-55,-21,unknown,True,7,False,False
+2014-12-14,9.91666666667,Atlanta Hawks,New York Knicks,1,20-22,-4,two point jumper,False,21,True,False
+2014-12-14,11.35,Atlanta Hawks,New York Knicks,1,21-26,-6,free throw,False,15,True,False
+2014-12-14,11.35,Atlanta Hawks,New York Knicks,1,22-26,-5,free throw,False,15,True,False
+2014-12-14,12.2166666667,Atlanta Hawks,New York Knicks,2,25-26,-4,three point jumper,False,26,True,False
+2014-12-14,12.7166666667,Atlanta Hawks,New York Knicks,2,25-26,-4,three point jumper,False,23,False,False
+2014-12-14,17.0666666667,Atlanta Hawks,New York Knicks,2,36-36,-3,three point jumper,False,25,True,False
+2014-12-14,17.6,Atlanta Hawks,New York Knicks,2,36-38,-5,three point jumper,False,23,False,False
+2014-12-14,22.25,Atlanta Hawks,New York Knicks,2,44-52,-11,three point jumper,False,23,True,False
+2014-12-14,33.45,Atlanta Hawks,New York Knicks,3,69-74,-8,three point jumper,False,24,False,False
+2014-12-14,35.1166666667,Atlanta Hawks,New York Knicks,3,74-77,-5,two point shot,False,2,True,False
+2014-12-14,35.9833333333,Atlanta Hawks,New York Knicks,3,77-81,-7,three point jumper,False,45,False,False
+2014-12-14,37.9666666667,Atlanta Hawks,New York Knicks,4,77-83,-9,three point jumper,False,25,False,False
+2014-12-14,45.2166666667,Atlanta Hawks,New York Knicks,4,91-103,-15,three point jumper,False,25,False,False
+2014-12-14,45.85,Atlanta Hawks,New York Knicks,4,93-106,-15,two point shot,False,5,True,False
+2014-12-14,46.3833333333,Atlanta Hawks,New York Knicks,4,96-108,-15,three point jumper,False,25,True,False
+2014-12-14,47.4666666667,Atlanta Hawks,New York Knicks,4,102-108,-9,three point jumper,False,26,True,False
+2014-12-14,47.8166666667,Atlanta Hawks,New York Knicks,4,105-110,-8,three point jumper,False,27,True,False
+2014-12-14,47.8833333333,Atlanta Hawks,New York Knicks,4,106-111,-6,free throw,False,15,True,False
+2014-12-14,47.95,Atlanta Hawks,New York Knicks,4,106-111,-8,three point jumper,False,26,False,False
+2014-02-22,5.95,Atlanta Hawks,New York Knicks,1,12-10,-5,three point jumper,True,24,False,False
+2014-02-22,7.66666666667,Atlanta Hawks,New York Knicks,1,16-14,-3,free throw,True,15,False,False
+2014-02-22,7.66666666667,Atlanta Hawks,New York Knicks,1,16-15,-2,free throw,True,15,True,False
+2014-02-22,8.16666666667,Atlanta Hawks,New York Knicks,1,16-15,-4,three point jumper,True,23,False,False
+2014-02-22,11.4,Atlanta Hawks,New York Knicks,1,21-23,-1,three point jumper,True,26,False,False
+2014-02-22,14.8666666667,Atlanta Hawks,New York Knicks,2,23-33,8,two point jumper,True,21,False,False
+2014-02-22,15.8666666667,Atlanta Hawks,New York Knicks,2,27-33,4,two point jumper,True,20,False,False
+2014-02-22,23.3333333333,Atlanta Hawks,New York Knicks,2,52-39,-15,unknown,True,3,False,False
+2014-02-22,23.35,Atlanta Hawks,New York Knicks,2,52-39,-15,tip shot,True,0,False,False
+2014-02-22,32.7,Atlanta Hawks,New York Knicks,3,66-56,-11,free throw,True,15,True,False
+2014-02-22,32.7,Atlanta Hawks,New York Knicks,3,66-57,-10,free throw,True,15,True,False
+2014-02-22,35.9166666667,Atlanta Hawks,New York Knicks,3,73-68,-8,three point jumper,True,25,True,False
+2014-02-22,37.0666666667,Atlanta Hawks,New York Knicks,4,73-74,-2,three point jumper,True,25,True,False
+2014-02-22,37.6333333333,Atlanta Hawks,New York Knicks,4,73-77,1,three point jumper,True,25,True,False
+2014-02-22,42.6333333333,Atlanta Hawks,New York Knicks,4,84-90,3,three point jumper,True,25,False,False
+2014-02-22,44.9666666667,Atlanta Hawks,New York Knicks,4,89-97,6,layup,True,0,False,False
+2014-02-22,46.55,Atlanta Hawks,New York Knicks,4,93-102,8,free throw,True,15,True,False
+2014-02-22,46.55,Atlanta Hawks,New York Knicks,4,93-103,9,free throw,True,15,True,False
+2014-11-15,10.7333333333,Atlanta Hawks,Philadelphia 76ers,1,14-21,5,layup,True,0,True,True
+2014-11-15,11.8666666667,Atlanta Hawks,Philadelphia 76ers,1,14-25,8,three point jumper,True,25,True,True
+2014-11-15,12.0,Atlanta Hawks,Philadelphia 76ers,1,17-25,5,three point jumper,True,30,False,True
+2014-11-15,23.1333333333,Atlanta Hawks,Philadelphia 76ers,2,53-51,-4,two point jumper,True,19,False,True
+2014-11-15,32.4666666667,Atlanta Hawks,Philadelphia 76ers,3,69-76,4,three point jumper,True,25,False,True
+2014-11-15,34.1166666667,Atlanta Hawks,Philadelphia 76ers,3,71-80,7,two point shot,True,7,False,True
+2014-11-15,35.4833333333,Atlanta Hawks,Philadelphia 76ers,3,71-82,9,two point shot,True,8,True,True
+2014-11-15,35.9833333333,Atlanta Hawks,Philadelphia 76ers,3,73-82,7,two point jumper,True,14,False,True
+2014-01-31,10.9333333333,Atlanta Hawks,Philadelphia 76ers,1,25-19,3,three point jumper,False,27,False,False
+2014-01-31,13.1833333333,Atlanta Hawks,Philadelphia 76ers,2,29-26,0,three point jumper,False,23,False,False
+2014-01-31,13.8,Atlanta Hawks,Philadelphia 76ers,2,30-28,1,free throw,False,15,True,False
+2014-01-31,13.8,Atlanta Hawks,Philadelphia 76ers,2,31-28,2,free throw,False,15,True,False
+2014-01-31,22.3833333333,Atlanta Hawks,Philadelphia 76ers,2,59-50,7,two point shot,False,1,True,False
+2014-01-31,22.3833333333,Atlanta Hawks,Philadelphia 76ers,2,60-50,9,free throw,False,15,True,False
+2014-01-31,22.8833333333,Atlanta Hawks,Philadelphia 76ers,2,63-50,10,three point jumper,False,26,True,False
+2014-01-31,32.9666666667,Atlanta Hawks,Philadelphia 76ers,3,90-70,18,two point jumper,False,1,False,False
+2014-01-31,35.5,Atlanta Hawks,Philadelphia 76ers,3,102-75,25,two point jumper,False,1,False,False
+2014-01-31,35.9833333333,Atlanta Hawks,Philadelphia 76ers,3,102-75,25,two point jumper,False,22,False,False
+2014-01-31,36.7,Atlanta Hawks,Philadelphia 76ers,4,102-77,23,two point jumper,False,3,False,False
+2014-01-31,39.5666666667,Atlanta Hawks,Philadelphia 76ers,4,107-83,23,free throw,False,15,True,False
+2014-01-31,39.5666666667,Atlanta Hawks,Philadelphia 76ers,4,108-83,24,free throw,False,15,True,False
+2014-01-31,42.5,Atlanta Hawks,Philadelphia 76ers,4,112-90,20,two point shot,False,19,True,False
+2014-02-12,2.63333333333,Atlanta Hawks,Toronto Raptors,1,4-2,-1,three point jumper,False,28,False,True
+2014-02-12,3.55,Atlanta Hawks,Toronto Raptors,1,6-2,2,two point shot,False,1,True,True
+2014-02-12,18.4166666667,Atlanta Hawks,Toronto Raptors,2,28-27,-2,three point jumper,False,23,False,True
+2014-02-12,20.6166666667,Atlanta Hawks,Toronto Raptors,2,34-34,-3,three point jumper,False,23,False,True
+2014-02-12,21.2333333333,Atlanta Hawks,Toronto Raptors,2,36-34,0,layup,False,0,True,True
+2014-02-12,27.5666666667,Atlanta Hawks,Toronto Raptors,3,49-54,-6,free throw,False,15,True,True
+2014-02-12,27.5666666667,Atlanta Hawks,Toronto Raptors,3,49-54,-6,free throw,False,15,False,True
+2014-02-12,29.2,Atlanta Hawks,Toronto Raptors,3,53-62,-11,two point jumper,False,18,False,True
+2014-02-12,42.6,Atlanta Hawks,Toronto Raptors,4,70-92,-25,three point jumper,False,23,False,True
+2014-01-03,9.05,Atlanta Hawks,Golden State Warriors,1,20-15,-7,layup,True,0,False,False
+2014-01-03,11.8333333333,Atlanta Hawks,Golden State Warriors,1,24-21,-6,three point jumper,True,26,True,False
+2014-01-03,17.7833333333,Atlanta Hawks,Golden State Warriors,2,33-33,-2,two point jumper,True,18,False,False
+2014-01-03,18.0666666667,Atlanta Hawks,Golden State Warriors,2,33-33,-3,three point jumper,True,25,False,False
+2014-01-03,23.7333333333,Atlanta Hawks,Golden State Warriors,2,46-46,-3,three point jumper,True,25,False,False
+2014-01-03,23.8166666667,Atlanta Hawks,Golden State Warriors,2,46-46,-3,three point jumper,True,24,False,False
+2014-01-03,32.8166666667,Atlanta Hawks,Golden State Warriors,3,61-68,4,unknown,True,26,True,False
+2014-01-03,36.6166666667,Atlanta Hawks,Golden State Warriors,4,64-74,8,two point jumper,True,20,True,False
+2014-12-04,9.75,Atlanta Hawks,Los Angeles Clippers,1,13-25,10,two point jumper,True,1,False,False
+2014-12-04,11.3333333333,Atlanta Hawks,Los Angeles Clippers,1,17-27,7,three point jumper,True,26,False,False
+2014-12-04,12.0,Atlanta Hawks,Los Angeles Clippers,1,21-29,5,three point jumper,True,50,False,False
+2014-12-04,37.3166666667,Atlanta Hawks,Los Angeles Clippers,4,74-82,5,three point jumper,True,26,True,False
+2014-12-16,12.25,Atlanta Hawks,Los Angeles Lakers,2,28-20,-10,two point jumper,True,20,False,True
+2014-12-16,15.55,Atlanta Hawks,Los Angeles Lakers,2,35-30,-7,unknown,True,10,False,True
+2014-12-16,36.0,Atlanta Hawks,Los Angeles Lakers,3,73-82,6,three point jumper,True,25,False,True
+2014-12-16,36.5833333333,Atlanta Hawks,Los Angeles Lakers,4,73-82,7,two point jumper,True,19,False,True
+2014-12-16,37.65,Atlanta Hawks,Los Angeles Lakers,4,75-87,10,two point jumper,True,19,True,True
+2014-12-16,39.2166666667,Atlanta Hawks,Los Angeles Lakers,4,80-95,12,three point jumper,True,23,True,True
+2014-12-16,42.3833333333,Atlanta Hawks,Los Angeles Lakers,4,90-101,9,two point jumper,True,18,False,True
+2014-12-18,11.7833333333,Atlanta Hawks,Sacramento Kings,1,26-28,-1,three point jumper,True,25,False,True
+2014-12-18,13.6333333333,Atlanta Hawks,Sacramento Kings,2,28-30,-1,three point jumper,True,25,False,True
+2014-12-18,15.2666666667,Atlanta Hawks,Sacramento Kings,2,33-34,-1,two point jumper,True,19,True,True
+2014-12-18,20.1166666667,Atlanta Hawks,Sacramento Kings,2,42-47,3,two point jumper,True,1,False,True
+2014-12-18,35.9666666667,Atlanta Hawks,Sacramento Kings,3,87-85,-4,layup,True,0,False,True
+2014-01-04,12.0,Atlanta Hawks,Chicago Bulls,1,18-26,-10,layup,False,0,True,False
+2014-01-04,15.8166666667,Atlanta Hawks,Chicago Bulls,2,27-34,-9,two point jumper,False,1,False,False
+2014-01-04,17.4166666667,Atlanta Hawks,Chicago Bulls,2,28-37,-10,free throw,False,15,True,False
+2014-01-04,33.0,Atlanta Hawks,Chicago Bulls,3,59-63,-6,two point jumper,False,12,False,False
+2014-01-04,34.6833333333,Atlanta Hawks,Chicago Bulls,3,62-63,-4,three point jumper,False,23,False,False
+2014-01-04,38.1166666667,Atlanta Hawks,Chicago Bulls,4,69-72,-5,layup,False,0,True,False
+2014-02-11,9.45,Atlanta Hawks,Chicago Bulls,1,14-23,-12,three point jumper,False,26,False,True
+2014-02-11,13.3833333333,Atlanta Hawks,Chicago Bulls,2,22-35,-15,layup,False,0,True,True
+2014-02-11,14.95,Atlanta Hawks,Chicago Bulls,2,23-42,-22,three point jumper,False,24,False,True
+2014-02-11,22.6166666667,Atlanta Hawks,Chicago Bulls,2,34-58,-26,two point shot,False,10,False,True
+2014-02-11,23.3333333333,Atlanta Hawks,Chicago Bulls,2,39-58,-21,layup,False,0,True,True
+2014-02-11,31.7833333333,Atlanta Hawks,Chicago Bulls,3,56-74,-20,two point jumper,False,21,True,True
+2014-02-11,34.0166666667,Atlanta Hawks,Chicago Bulls,3,65-76,-13,two point shot,False,1,True,True
+2014-02-11,34.9,Atlanta Hawks,Chicago Bulls,3,67-78,-13,layup,False,0,True,True
+2014-02-11,35.45,Atlanta Hawks,Chicago Bulls,3,70-78,-11,three point jumper,False,26,True,True
+2014-02-11,36.6166666667,Atlanta Hawks,Chicago Bulls,4,70-82,-14,two point shot,False,1,False,True
+2014-02-11,43.8833333333,Atlanta Hawks,Chicago Bulls,4,79-93,-16,two point jumper,False,20,False,True
+2014-02-25,10.2333333333,Atlanta Hawks,Chicago Bulls,1,12-26,12,two point jumper,True,21,False,False
+2014-02-25,11.9333333333,Atlanta Hawks,Chicago Bulls,1,20-29,8,free throw,True,15,True,False
+2014-02-25,11.9333333333,Atlanta Hawks,Chicago Bulls,1,20-30,9,free throw,True,15,True,False
+2014-02-25,18.6666666667,Atlanta Hawks,Chicago Bulls,2,39-39,-2,two point shot,True,11,True,False
+2014-02-25,23.5,Atlanta Hawks,Chicago Bulls,2,53-48,-7,two point jumper,True,17,False,False
+2014-02-25,34.0333333333,Atlanta Hawks,Chicago Bulls,3,75-73,-4,layup,True,0,True,False
+2014-02-25,35.45,Atlanta Hawks,Chicago Bulls,3,77-73,-7,three point jumper,True,26,False,False
+2014-02-25,36.3,Atlanta Hawks,Chicago Bulls,4,80-75,-8,three point jumper,True,23,False,False
+2014-02-25,38.15,Atlanta Hawks,Chicago Bulls,4,84-82,-5,three point jumper,True,25,True,False
+2014-02-25,39.3333333333,Atlanta Hawks,Chicago Bulls,4,84-85,-2,three point jumper,True,25,True,False
+2014-02-25,40.2833333333,Atlanta Hawks,Chicago Bulls,4,86-85,-3,two point jumper,True,19,False,False
+2014-02-25,41.9166666667,Atlanta Hawks,Chicago Bulls,4,91-90,-4,three point jumper,True,25,False,False
+2014-12-06,8.61666666667,Atlanta Hawks,Cleveland Cavaliers,1,11-24,10,three point jumper,True,24,True,False
+2014-12-06,12.1833333333,Atlanta Hawks,Cleveland Cavaliers,2,20-39,17,two point shot,True,3,True,False
+2014-12-06,12.1833333333,Atlanta Hawks,Cleveland Cavaliers,2,20-39,18,free throw,True,15,False,False
+2014-12-06,12.8833333333,Atlanta Hawks,Cleveland Cavaliers,2,20-39,16,three point jumper,True,25,False,False
+2014-12-06,33.2166666667,Atlanta Hawks,Cleveland Cavaliers,3,60-80,17,three point jumper,True,25,True,False
+2014-12-06,34.15,Atlanta Hawks,Cleveland Cavaliers,3,62-80,15,three point jumper,True,24,False,False
+2014-12-06,34.9,Atlanta Hawks,Cleveland Cavaliers,3,62-80,15,three point jumper,True,25,False,False
+2014-12-06,38.0666666667,Atlanta Hawks,Cleveland Cavaliers,4,72-86,12,layup,True,0,True,False
+2014-12-06,39.5,Atlanta Hawks,Cleveland Cavaliers,4,72-88,14,two point jumper,True,12,False,False
+2014-12-06,42.9166666667,Atlanta Hawks,Cleveland Cavaliers,4,78-98,17,three point jumper,True,25,False,False
+2014-12-06,44.15,Atlanta Hawks,Cleveland Cavaliers,4,81-102,19,two point jumper,True,20,True,False
+2014-12-06,45.6833333333,Atlanta Hawks,Cleveland Cavaliers,4,85-103,17,free throw,True,15,True,False
+2014-12-06,45.6833333333,Atlanta Hawks,Cleveland Cavaliers,4,85-103,17,free throw,True,15,False,False
+2014-12-26,9.76666666667,Atlanta Hawks,Cleveland Cavaliers,1,21-19,0,two point shot,False,5,True,True
+2014-12-26,11.9833333333,Atlanta Hawks,Cleveland Cavaliers,1,26-27,-3,two point jumper,False,20,False,True
+2014-12-26,12.8,Atlanta Hawks,Cleveland Cavaliers,2,27-29,-5,three point jumper,False,26,False,True
+2014-12-26,12.8833333333,Atlanta Hawks,Cleveland Cavaliers,2,29-29,-2,layup,False,0,True,True
+2014-12-26,14.8666666667,Atlanta Hawks,Cleveland Cavaliers,2,29-33,-6,two point jumper,False,7,False,True
+2014-12-26,20.2833333333,Atlanta Hawks,Cleveland Cavaliers,2,45-41,2,two point jumper,False,18,True,True
+2014-12-26,22.9,Atlanta Hawks,Cleveland Cavaliers,2,49-45,2,two point shot,False,1,False,True
+2014-12-26,23.1333333333,Atlanta Hawks,Cleveland Cavaliers,2,49-45,3,free throw,False,15,False,True
+2014-12-26,23.1333333333,Atlanta Hawks,Cleveland Cavaliers,2,50-45,4,free throw,False,15,True,True
+2014-12-26,34.9,Atlanta Hawks,Cleveland Cavaliers,3,72-70,-1,three point jumper,False,27,False,True
+2014-12-26,37.95,Atlanta Hawks,Cleveland Cavaliers,4,78-75,0,three point jumper,False,25,False,True
+2014-11-20,10.9666666667,Atlanta Hawks,Detroit Pistons,1,11-14,1,two point shot,True,8,False,True
+2014-11-20,31.2,Atlanta Hawks,Detroit Pistons,3,57-53,-7,three point jumper,True,26,False,True
+2014-11-20,34.1,Atlanta Hawks,Detroit Pistons,3,61-63,-1,three point jumper,True,24,True,True
+2014-11-20,35.4666666667,Atlanta Hawks,Detroit Pistons,3,61-66,3,two point jumper,True,14,False,True
+2014-11-20,36.0,Atlanta Hawks,Detroit Pistons,3,64-66,0,two point shot,True,11,False,True
+2014-11-20,39.6166666667,Atlanta Hawks,Detroit Pistons,4,70-73,1,two point shot,True,16,True,True
+2014-11-20,39.6166666667,Atlanta Hawks,Detroit Pistons,4,70-74,3,free throw,True,15,True,True
+2014-02-21,15.3166666667,Atlanta Hawks,Detroit Pistons,2,33-27,3,three point jumper,False,23,True,False
+2014-02-21,16.2,Atlanta Hawks,Detroit Pistons,2,36-29,5,dunk,False,0,True,False
+2014-02-21,19.8833333333,Atlanta Hawks,Detroit Pistons,2,50-40,7,three point jumper,False,24,True,False
+2014-02-21,30.1333333333,Atlanta Hawks,Detroit Pistons,3,71-68,0,three point jumper,False,27,False,False
+2014-02-21,33.7166666667,Atlanta Hawks,Detroit Pistons,3,79-80,-3,two point jumper,False,4,False,False
+2014-02-21,34.2333333333,Atlanta Hawks,Detroit Pistons,3,80-82,-3,free throw,False,15,True,False
+2014-02-21,34.2333333333,Atlanta Hawks,Detroit Pistons,3,81-82,-2,free throw,False,15,True,False
+2014-02-21,35.9833333333,Atlanta Hawks,Detroit Pistons,3,83-86,-6,three point jumper,False,46,False,False
+2014-02-21,37.25,Atlanta Hawks,Detroit Pistons,4,88-88,-3,three point jumper,False,27,True,False
+2014-02-21,37.75,Atlanta Hawks,Detroit Pistons,4,88-90,-5,three point jumper,False,27,False,False
+2014-02-21,42.0666666667,Atlanta Hawks,Detroit Pistons,4,98-98,-2,layup,False,0,True,False
+2014-02-21,42.8833333333,Atlanta Hawks,Detroit Pistons,4,98-100,-5,three point jumper,False,25,False,False
+2014-02-21,45.75,Atlanta Hawks,Detroit Pistons,4,104-104,-2,two point jumper,False,9,False,False
+2014-01-08,10.2166666667,Atlanta Hawks,Indiana Pacers,1,7-20,11,two point jumper,True,17,False,True
+2014-01-08,11.9333333333,Atlanta Hawks,Indiana Pacers,1,12-25,10,three point jumper,True,23,True,True
+2014-01-08,12.7,Atlanta Hawks,Indiana Pacers,2,12-26,13,free throw,True,15,True,True
+2014-01-08,12.7,Atlanta Hawks,Indiana Pacers,2,12-26,13,free throw,True,15,False,True
+2014-01-08,16.9833333333,Atlanta Hawks,Indiana Pacers,2,25-35,8,two point shot,True,10,False,True
+2014-01-08,33.2833333333,Atlanta Hawks,Indiana Pacers,3,57-71,12,two point jumper,True,17,False,True
+2014-01-08,34.4833333333,Atlanta Hawks,Indiana Pacers,3,60-75,13,layup,True,0,True,True
+2014-01-08,36.3833333333,Atlanta Hawks,Indiana Pacers,4,66-79,11,two point jumper,True,19,False,True
+2014-02-04,10.4833333333,Atlanta Hawks,Indiana Pacers,1,17-15,-4,unknown,True,9,False,False
+2014-02-04,14.4666666667,Atlanta Hawks,Indiana Pacers,2,22-18,-7,three point jumper,True,25,True,False
+2014-02-04,15.6333333333,Atlanta Hawks,Indiana Pacers,2,24-20,-6,two point shot,True,20,False,False
+2014-02-04,33.65,Atlanta Hawks,Indiana Pacers,3,64-53,-14,three point jumper,True,25,False,False
+2014-02-18,5.35,Atlanta Hawks,Indiana Pacers,1,5-20,-18,three point jumper,False,26,False,True
+2014-02-18,6.35,Atlanta Hawks,Indiana Pacers,1,8-24,-17,free throw,False,15,True,True
+2014-02-18,6.35,Atlanta Hawks,Indiana Pacers,1,9-24,-16,free throw,False,15,True,True
+2014-02-18,9.66666666667,Atlanta Hawks,Indiana Pacers,1,17-31,-17,three point jumper,False,26,True,True
+2014-02-18,10.1166666667,Atlanta Hawks,Indiana Pacers,1,18-33,-16,free throw,False,15,True,True
+2014-02-18,10.1166666667,Atlanta Hawks,Indiana Pacers,1,19-33,-15,free throw,False,15,True,True
+2014-02-18,11.8833333333,Atlanta Hawks,Indiana Pacers,1,23-35,-14,two point jumper,False,21,True,True
+2014-02-18,12.5,Atlanta Hawks,Indiana Pacers,2,23-35,-14,two point jumper,False,18,False,True
+2014-02-18,13.1333333333,Atlanta Hawks,Indiana Pacers,2,25-37,-14,two point shot,False,19,True,True
+2014-02-18,20.5333333333,Atlanta Hawks,Indiana Pacers,2,44-50,-9,three point jumper,False,23,True,True
+2014-02-18,21.6,Atlanta Hawks,Indiana Pacers,2,44-50,-8,two point jumper,False,13,False,True
+2014-02-18,29.85,Atlanta Hawks,Indiana Pacers,3,63-75,-14,layup,False,0,True,True
+2014-02-18,32.4833333333,Atlanta Hawks,Indiana Pacers,3,71-80,-11,two point shot,False,1,True,True
+2014-01-25,6.31666666667,Atlanta Hawks,Milwaukee Bucks,1,10-14,-5,free throw,False,15,False,False
+2014-01-25,6.31666666667,Atlanta Hawks,Milwaukee Bucks,1,11-14,-4,free throw,False,15,True,False
+2014-01-25,10.1166666667,Atlanta Hawks,Milwaukee Bucks,1,25-18,4,three point jumper,False,25,True,False
+2014-01-25,11.0833333333,Atlanta Hawks,Milwaukee Bucks,1,28-22,5,free throw,False,15,True,False
+2014-01-25,11.4166666667,Atlanta Hawks,Milwaukee Bucks,1,31-23,5,three point jumper,False,25,True,False
+2014-01-25,13.45,Atlanta Hawks,Milwaukee Bucks,2,36-25,9,layup,False,0,False,False
+2014-01-25,21.4666666667,Atlanta Hawks,Milwaukee Bucks,2,49-40,6,three point jumper,False,25,False,False
+2014-01-25,22.2333333333,Atlanta Hawks,Milwaukee Bucks,2,53-43,8,two point jumper,False,6,True,False
+2014-01-25,30.1666666667,Atlanta Hawks,Milwaukee Bucks,3,82-53,27,layup,False,0,True,False
+2014-01-25,30.1666666667,Atlanta Hawks,Milwaukee Bucks,3,83-53,29,free throw,False,15,True,False
+2014-01-25,32.8333333333,Atlanta Hawks,Milwaukee Bucks,3,90-59,29,two point jumper,False,20,True,False
+2014-01-25,33.45,Atlanta Hawks,Milwaukee Bucks,3,90-60,27,three point jumper,False,26,False,False
+2014-01-25,39.2166666667,Atlanta Hawks,Milwaukee Bucks,4,103-70,30,three point jumper,False,26,True,False
+2014-11-29,0.583333333333,Atlanta Hawks,Dallas Mavericks,1,0-0,-3,three point jumper,True,23,False,True
+2014-11-29,0.633333333333,Atlanta Hawks,Dallas Mavericks,1,0-2,0,layup,True,0,True,True
+2014-11-29,3.63333333333,Atlanta Hawks,Dallas Mavericks,1,8-10,-1,three point jumper,True,23,False,True
+2014-11-29,15.95,Atlanta Hawks,Dallas Mavericks,2,36-27,-11,two point shot,True,1,True,True
+2014-11-29,20.0833333333,Atlanta Hawks,Dallas Mavericks,2,45-30,-16,free throw,True,15,True,True
+2014-11-29,20.0833333333,Atlanta Hawks,Dallas Mavericks,2,45-30,-16,free throw,True,15,False,True
+2014-11-29,21.7333333333,Atlanta Hawks,Dallas Mavericks,2,49-35,-17,three point jumper,True,24,True,True
+2014-11-29,26.3,Atlanta Hawks,Dallas Mavericks,3,53-44,-11,unknown,True,14,False,True
+2014-11-29,37.1333333333,Atlanta Hawks,Dallas Mavericks,4,77-67,-12,two point shot,True,9,True,True
+2014-11-29,38.7,Atlanta Hawks,Dallas Mavericks,4,80-70,-11,free throw,True,15,True,True
+2014-11-29,38.7,Atlanta Hawks,Dallas Mavericks,4,80-71,-10,free throw,True,15,True,True
+2014-01-10,8.21666666667,Atlanta Hawks,Houston Rockets,1,11-6,-7,two point jumper,True,20,True,True
+2014-01-10,10.2666666667,Atlanta Hawks,Houston Rockets,1,17-10,-9,two point jumper,True,9,False,True
+2014-01-10,16.9166666667,Atlanta Hawks,Houston Rockets,2,29-26,-5,two point shot,True,19,True,True
+2014-01-10,20.5333333333,Atlanta Hawks,Houston Rockets,2,39-31,-11,three point jumper,True,25,False,True
+2014-01-10,23.3833333333,Atlanta Hawks,Houston Rockets,2,41-39,-4,layup,True,0,False,True
+2014-01-10,38.05,Atlanta Hawks,Houston Rockets,4,65-69,2,two point shot,True,8,True,True
+2014-01-10,39.0666666667,Atlanta Hawks,Houston Rockets,4,67-71,2,two point jumper,True,16,False,True
+2014-01-12,9.8,Atlanta Hawks,Memphis Grizzlies,1,15-17,-4,two point jumper,False,19,False,False
+2014-01-12,11.5,Atlanta Hawks,Memphis Grizzlies,1,18-21,-6,three point jumper,False,27,False,False
+2014-01-12,13.9666666667,Atlanta Hawks,Memphis Grizzlies,2,20-23,-5,two point shot,False,7,False,False
+2014-01-12,17.85,Atlanta Hawks,Memphis Grizzlies,2,29-34,-6,free throw,False,15,True,False
+2014-01-12,17.85,Atlanta Hawks,Memphis Grizzlies,2,30-34,-5,free throw,False,15,True,False
+2014-01-12,32.9833333333,Atlanta Hawks,Memphis Grizzlies,3,64-70,-8,two point jumper,False,20,False,False
+2014-01-12,35.7833333333,Atlanta Hawks,Memphis Grizzlies,3,69-77,-11,three point jumper,False,25,False,False
+2014-01-12,45.3666666667,Atlanta Hawks,Memphis Grizzlies,4,92-102,-11,free throw,False,15,False,False
+2014-01-12,45.3666666667,Atlanta Hawks,Memphis Grizzlies,4,93-102,-10,free throw,False,15,True,False
+2014-01-12,47.35,Atlanta Hawks,Memphis Grizzlies,4,96-102,-7,free throw,False,15,True,False
+2014-01-12,47.35,Atlanta Hawks,Memphis Grizzlies,4,96-102,-7,free throw,False,15,False,False
+2014-02-08,7.63333333333,Atlanta Hawks,Memphis Grizzlies,1,12-26,12,two point shot,True,6,True,False
+2014-02-08,7.63333333333,Atlanta Hawks,Memphis Grizzlies,1,12-26,13,free throw,True,15,False,False
+2014-02-08,7.7,Atlanta Hawks,Memphis Grizzlies,1,12-26,12,two point jumper,True,15,False,False
+2014-02-08,10.8666666667,Atlanta Hawks,Memphis Grizzlies,1,22-29,4,three point jumper,True,25,True,False
+2014-02-08,12.8,Atlanta Hawks,Memphis Grizzlies,2,29-29,-3,three point jumper,True,24,False,False
+2014-02-08,21.45,Atlanta Hawks,Memphis Grizzlies,2,35-37,0,two point jumper,True,20,False,False
+2014-02-08,37.0833333333,Atlanta Hawks,Memphis Grizzlies,4,63-54,-12,three point jumper,True,24,False,False
+2014-02-08,45.0,Atlanta Hawks,Memphis Grizzlies,4,77-67,-11,free throw,True,15,False,False
+2014-02-08,45.0,Atlanta Hawks,Memphis Grizzlies,4,77-68,-10,free throw,True,15,True,False
+2014-02-08,47.9833333333,Atlanta Hawks,Memphis Grizzlies,4,79-76,-6,three point jumper,True,26,False,False
+2014-02-05,9.06666666667,Atlanta Hawks,New Orleans Pelicans,1,19-21,-3,free throw,False,15,True,False
+2014-02-05,9.06666666667,Atlanta Hawks,New Orleans Pelicans,1,20-21,-2,free throw,False,15,True,False
+2014-02-05,14.3333333333,Atlanta Hawks,New Orleans Pelicans,2,29-28,-2,three point jumper,False,26,False,False
+2014-02-05,15.6333333333,Atlanta Hawks,New Orleans Pelicans,2,30-32,-3,free throw,False,15,True,False
+2014-02-05,15.6333333333,Atlanta Hawks,New Orleans Pelicans,2,31-32,-2,free throw,False,15,True,False
+2014-02-05,18.6,Atlanta Hawks,New Orleans Pelicans,2,35-41,-8,layup,False,0,True,False
+2014-02-05,33.9333333333,Atlanta Hawks,New Orleans Pelicans,3,70-66,1,three point jumper,False,26,False,False
+2014-02-05,34.5333333333,Atlanta Hawks,New Orleans Pelicans,3,72-66,4,two point shot,False,8,True,False
+2014-02-05,36.7166666667,Atlanta Hawks,New Orleans Pelicans,4,75-71,2,two point jumper,False,18,False,False
+2014-02-05,38.15,Atlanta Hawks,New Orleans Pelicans,4,78-76,-1,three point jumper,False,23,True,False
+2014-12-02,4.7,Atlanta Hawks,San Antonio Spurs,1,9-8,-2,three point jumper,False,24,False,False
+2014-12-02,11.9333333333,Atlanta Hawks,San Antonio Spurs,1,23-23,-2,two point jumper,False,18,True,False
+2014-12-02,12.95,Atlanta Hawks,San Antonio Spurs,2,25-27,-4,two point shot,False,12,True,False
+2014-12-02,15.0833333333,Atlanta Hawks,San Antonio Spurs,2,31-31,-3,three point jumper,False,25,False,False
+2014-12-02,16.45,Atlanta Hawks,San Antonio Spurs,2,36-34,0,two point jumper,False,1,True,False
+2014-12-02,17.5333333333,Atlanta Hawks,San Antonio Spurs,2,38-38,-3,three point jumper,False,26,False,False
+2014-12-02,26.6833333333,Atlanta Hawks,San Antonio Spurs,3,56-52,1,three point jumper,False,25,False,False
+2014-12-02,27.4333333333,Atlanta Hawks,San Antonio Spurs,3,56-54,0,layup,False,0,False,False
+2014-12-02,28.7833333333,Atlanta Hawks,San Antonio Spurs,3,58-56,0,two point shot,False,9,True,False
+2014-12-02,40.0,Atlanta Hawks,San Antonio Spurs,4,76-84,-11,three point jumper,False,23,False,False
+2014-12-02,41.1333333333,Atlanta Hawks,San Antonio Spurs,4,83-84,-3,two point jumper,False,15,True,False
+2014-12-02,42.3833333333,Atlanta Hawks,San Antonio Spurs,4,83-85,-4,two point jumper,False,14,False,False
+2014-01-24,2.01666666667,Atlanta Hawks,San Antonio Spurs,1,2-0,-4,two point jumper,True,16,False,True
+2014-01-24,7.0,Atlanta Hawks,San Antonio Spurs,1,10-7,-5,two point jumper,True,18,False,True
+2014-01-24,11.5333333333,Atlanta Hawks,San Antonio Spurs,1,27-14,-15,two point jumper,True,21,False,True
+2014-01-24,20.4,Atlanta Hawks,San Antonio Spurs,2,46-28,-20,two point jumper,True,19,False,True
+2014-01-24,21.5833333333,Atlanta Hawks,San Antonio Spurs,2,48-32,-18,two point jumper,True,1,True,True
+2014-01-24,24.5666666667,Atlanta Hawks,San Antonio Spurs,3,57-34,-25,two point jumper,True,20,False,True
+2014-01-24,27.8833333333,Atlanta Hawks,San Antonio Spurs,3,63-42,-24,three point jumper,True,26,False,True
+2014-01-24,29.4166666667,Atlanta Hawks,San Antonio Spurs,3,65-44,-23,two point shot,True,1,True,True
+2014-01-24,31.45,Atlanta Hawks,San Antonio Spurs,3,69-46,-24,free throw,True,15,True,True
+2014-01-24,31.45,Atlanta Hawks,San Antonio Spurs,3,69-47,-23,free throw,True,15,True,True
+2014-01-24,31.45,Atlanta Hawks,San Antonio Spurs,3,69-48,-22,free throw,True,15,True,True
+2014-01-24,42.6,Atlanta Hawks,San Antonio Spurs,4,99-65,-36,layup,True,0,True,True
+2014-01-24,47.4,Atlanta Hawks,San Antonio Spurs,4,105-79,-29,three point jumper,True,23,True,True
+2014-11-26,9.0,Atlanta Hawks,Orlando Magic,1,16-20,1,three point jumper,True,25,True,True
+2014-11-26,11.45,Atlanta Hawks,Orlando Magic,1,26-25,-3,unknown,True,9,False,True
+2014-11-26,21.5166666667,Atlanta Hawks,Orlando Magic,2,43-48,2,three point jumper,True,24,False,True
+2014-11-26,21.9166666667,Atlanta Hawks,Orlando Magic,2,43-51,5,three point jumper,True,24,True,True
+2014-11-26,22.4833333333,Atlanta Hawks,Orlando Magic,2,43-51,6,unknown,True,9,False,True
+2014-11-26,31.0666666667,Atlanta Hawks,Orlando Magic,3,67-66,-2,free throw,True,15,True,True
+2014-11-26,31.0666666667,Atlanta Hawks,Orlando Magic,3,67-67,-1,free throw,True,15,True,True
+2014-11-26,33.8,Atlanta Hawks,Orlando Magic,3,79-69,-12,two point jumper,True,19,False,True
+2014-11-26,40.9833333333,Atlanta Hawks,Orlando Magic,4,94-76,-21,three point jumper,True,25,True,True
+2014-11-26,42.0333333333,Atlanta Hawks,Orlando Magic,4,97-78,-22,three point jumper,True,25,False,True
+2014-12-10,9.45,Atlanta Hawks,Oklahoma City Thunder,1,17-14,-5,two point jumper,True,19,False,True
+2014-12-10,11.0333333333,Atlanta Hawks,Oklahoma City Thunder,1,19-21,0,layup,True,0,True,True
+2014-12-10,11.95,Atlanta Hawks,Oklahoma City Thunder,1,21-21,-2,two point shot,True,20,False,True
+2014-12-10,15.75,Atlanta Hawks,Oklahoma City Thunder,2,32-29,-6,three point jumper,True,24,False,True
+2014-12-10,21.9,Atlanta Hawks,Oklahoma City Thunder,2,42-39,-6,three point jumper,True,24,True,True
+2014-12-10,37.7,Atlanta Hawks,Oklahoma City Thunder,4,78-75,-6,three point jumper,True,25,True,True
+2014-12-13,6.5,Atlanta Hawks,Washington Wizards,1,10-9,-4,three point jumper,True,25,False,False
+2014-12-13,10.8666666667,Atlanta Hawks,Washington Wizards,1,17-19,0,two point shot,True,5,True,False
+2014-12-13,11.85,Atlanta Hawks,Washington Wizards,1,17-21,2,layup,True,0,False,False
+2014-12-13,14.9,Atlanta Hawks,Washington Wizards,2,28-28,-3,three point jumper,True,26,True,False
+2014-12-13,15.5,Atlanta Hawks,Washington Wizards,2,31-28,-6,three point jumper,True,25,False,False
+2014-12-13,22.6666666667,Atlanta Hawks,Washington Wizards,2,42-45,1,two point shot,True,1,False,False
+2014-12-20,10.9666666667,Atlanta Hawks,Utah Jazz,1,16-28,9,three point jumper,True,24,True,False
+2014-12-20,11.4,Atlanta Hawks,Utah Jazz,1,16-29,12,free throw,True,15,True,False
+2014-12-20,11.4,Atlanta Hawks,Utah Jazz,1,16-30,13,free throw,True,15,True,False
+2014-12-20,12.0,Atlanta Hawks,Utah Jazz,1,16-30,11,three point jumper,True,25,False,False
+2014-12-20,12.3166666667,Atlanta Hawks,Utah Jazz,2,16-30,11,three point jumper,True,24,False,False
+2014-12-20,14.25,Atlanta Hawks,Utah Jazz,2,18-30,10,two point shot,True,1,False,False
+2014-12-20,16.5666666667,Atlanta Hawks,Utah Jazz,2,22-37,12,three point jumper,True,25,False,False
+2014-12-20,17.2833333333,Atlanta Hawks,Utah Jazz,2,24-40,13,three point jumper,True,25,True,False
+2014-12-20,21.3166666667,Atlanta Hawks,Utah Jazz,2,30-51,18,three point jumper,True,24,True,False
+2014-12-20,32.55,Atlanta Hawks,Utah Jazz,3,51-77,23,three point jumper,True,25,True,False
+2014-12-20,33.0,Atlanta Hawks,Utah Jazz,3,51-80,26,three point jumper,True,23,True,False
+2014-12-20,35.1,Atlanta Hawks,Utah Jazz,3,54-85,28,three point jumper,True,25,False,False
+2014-12-20,37.1333333333,Atlanta Hawks,Utah Jazz,4,62-89,25,layup,True,0,True,False
+2014-12-20,37.5666666667,Atlanta Hawks,Utah Jazz,4,64-90,25,free throw,True,15,True,False
+2014-12-20,37.5666666667,Atlanta Hawks,Utah Jazz,4,64-90,25,free throw,True,15,False,False
+2014-12-20,39.3,Atlanta Hawks,Utah Jazz,4,68-95,24,three point jumper,True,24,True,False
+2014-12-20,41.25,Atlanta Hawks,Utah Jazz,4,74-101,25,two point jumper,True,20,True,False
+2014-12-23,11.25,Atlanta Hawks,Miami Heat,1,23-30,-10,three point jumper,False,24,False,False
+2014-12-23,11.6166666667,Atlanta Hawks,Miami Heat,1,23-30,-9,two point jumper,False,20,False,False
+2014-12-23,15.45,Atlanta Hawks,Miami Heat,2,32-39,-9,layup,False,0,True,False
+2014-12-23,35.15,Atlanta Hawks,Miami Heat,3,81-72,6,three point jumper,False,25,False,False
+2014-12-23,36.25,Atlanta Hawks,Miami Heat,4,84-77,5,two point jumper,False,12,False,False
+2014-12-23,37.4666666667,Atlanta Hawks,Miami Heat,4,86-80,4,layup,False,0,True,False
+2014-12-23,45.4833333333,Atlanta Hawks,Miami Heat,4,102-99,0,three point jumper,False,23,True,False
+2014-12-23,47.6333333333,Atlanta Hawks,Miami Heat,4,108-106,1,free throw,False,15,True,False
+2014-12-23,47.6333333333,Atlanta Hawks,Miami Heat,4,109-106,2,free throw,False,15,True,False
+2014-12-23,49.25,Atlanta Hawks,Miami Heat,5,111-111,-3,three point jumper,False,28,False,False
+2014-12-28,6.66666666667,Atlanta Hawks,Charlotte Bobcats,1,12-15,1,two point shot,True,21,True,True
+2014-12-28,9.2,Atlanta Hawks,Charlotte Bobcats,1,17-20,0,three point jumper,True,23,False,True
+2014-12-28,13.4666666667,Atlanta Hawks,Charlotte Bobcats,2,26-27,-1,two point shot,True,12,True,True
+2014-12-28,14.45,Atlanta Hawks,Charlotte Bobcats,2,28-29,-2,three point jumper,True,25,False,True
+2014-12-28,14.55,Atlanta Hawks,Charlotte Bobcats,2,28-32,1,three point jumper,True,23,True,True
+2014-12-28,21.4833333333,Atlanta Hawks,Charlotte Bobcats,2,45-38,-8,free throw,True,15,False,True
+2014-12-28,21.4833333333,Atlanta Hawks,Charlotte Bobcats,2,45-38,-8,free throw,True,15,False,True
+2014-12-28,31.6333333333,Atlanta Hawks,Charlotte Bobcats,3,69-57,-15,three point jumper,True,25,False,True
+2014-12-28,32.4833333333,Atlanta Hawks,Charlotte Bobcats,3,71-60,-14,three point jumper,True,24,True,True
+2014-12-28,33.75,Atlanta Hawks,Charlotte Bobcats,3,73-63,-12,two point shot,True,8,True,True
+2014-12-28,35.95,Atlanta Hawks,Charlotte Bobcats,3,77-71,-9,three point jumper,True,24,True,True
+2014-12-28,38.2,Atlanta Hawks,Charlotte Bobcats,4,81-81,-3,three point jumper,True,25,True,True
+2014-12-28,48.8166666667,Atlanta Hawks,Charlotte Bobcats,5,103-101,-4,two point shot,True,11,False,True
+2014-12-28,52.1166666667,Atlanta Hawks,Charlotte Bobcats,5,108-106,-4,two point jumper,True,20,False,True
+2014-12-28,52.4666666667,Atlanta Hawks,Charlotte Bobcats,5,108-109,0,free throw,True,15,True,True
+2014-12-28,52.4666666667,Atlanta Hawks,Charlotte Bobcats,5,108-110,1,free throw,True,15,True,True
+2014-12-28,52.6166666667,Atlanta Hawks,Charlotte Bobcats,5,108-111,2,free throw,True,15,True,True
+2014-12-28,52.6166666667,Atlanta Hawks,Charlotte Bobcats,5,108-112,3,free throw,True,15,True,True
+2014-12-28,52.7,Atlanta Hawks,Charlotte Bobcats,5,108-113,4,free throw,True,15,True,True
+2014-12-28,52.7,Atlanta Hawks,Charlotte Bobcats,5,108-114,5,free throw,True,15,True,True
+2014-12-28,52.8,Atlanta Hawks,Charlotte Bobcats,5,110-115,4,free throw,True,15,True,True
+2014-12-28,52.8,Atlanta Hawks,Charlotte Bobcats,5,110-116,5,free throw,True,15,True,True
+2014-12-28,52.8666666667,Atlanta Hawks,Charlotte Bobcats,5,113-117,3,free throw,True,15,True,True
+2014-12-28,52.8666666667,Atlanta Hawks,Charlotte Bobcats,5,113-118,4,free throw,True,15,True,True
+2014-12-29,2.0,Atlanta Hawks,Orlando Magic,1,3-3,-3,three point jumper,False,25,False,False
+2014-12-29,3.83333333333,Atlanta Hawks,Orlando Magic,1,5-7,-4,two point shot,False,20,True,False
+2014-12-29,5.48333333333,Atlanta Hawks,Orlando Magic,1,9-11,-5,three point jumper,False,25,False,False
+2014-12-29,7.78333333333,Atlanta Hawks,Orlando Magic,1,12-17,-8,three point jumper,False,23,True,False
+2014-12-29,17.95,Atlanta Hawks,Orlando Magic,2,32-42,-13,three point jumper,False,25,False,False
+2014-12-29,21.7,Atlanta Hawks,Orlando Magic,2,39-50,-12,free throw,False,15,True,False
+2014-12-29,21.7,Atlanta Hawks,Orlando Magic,2,40-50,-11,free throw,False,15,True,False
+2014-12-29,22.3333333333,Atlanta Hawks,Orlando Magic,2,43-52,-12,three point jumper,False,26,True,False
+2014-12-29,23.6,Atlanta Hawks,Orlando Magic,2,49-54,-8,three point jumper,False,27,True,False
+2014-12-29,24.8333333333,Atlanta Hawks,Orlando Magic,3,49-56,-9,two point jumper,False,23,False,False
+2014-12-29,28.35,Atlanta Hawks,Orlando Magic,3,59-63,-6,layup,False,0,True,False
+2014-12-29,31.6333333333,Atlanta Hawks,Orlando Magic,3,66-74,-11,three point jumper,False,26,True,False
+2014-12-29,32.75,Atlanta Hawks,Orlando Magic,3,68-75,-10,three point jumper,False,22,False,False
+2014-12-29,35.1,Atlanta Hawks,Orlando Magic,3,73-77,-6,two point shot,False,8,False,False
+2014-12-29,40.5333333333,Atlanta Hawks,Orlando Magic,4,83-84,-4,three point jumper,False,28,False,False
+2014-12-29,43.8166666667,Atlanta Hawks,Orlando Magic,4,87-95,-10,two point jumper,False,21,False,False
+2014-12-29,46.9666666667,Atlanta Hawks,Orlando Magic,4,95-105,-13,three point jumper,False,23,False,False
+2014-12-29,47.4166666667,Atlanta Hawks,Orlando Magic,4,100-107,-10,three point jumper,False,24,False,False
+2014-01-20,8.91666666667,Atlanta Hawks,Miami Heat,1,24-24,-1,free throw,True,15,True,True
+2014-01-20,8.91666666667,Atlanta Hawks,Miami Heat,1,24-25,0,free throw,True,15,True,True
+2014-01-20,14.0666666667,Atlanta Hawks,Miami Heat,2,36-43,6,free throw,True,15,True,True
+2014-01-20,14.0666666667,Atlanta Hawks,Miami Heat,2,36-44,7,free throw,True,15,True,True
+2014-01-20,16.0,Atlanta Hawks,Miami Heat,2,40-50,7,three point jumper,True,26,False,True
+2014-01-20,23.2166666667,Atlanta Hawks,Miami Heat,2,65-70,4,free throw,True,15,True,True
+2014-01-20,23.2166666667,Atlanta Hawks,Miami Heat,2,65-71,5,free throw,True,15,True,True
+2014-01-20,24.0,Atlanta Hawks,Miami Heat,2,70-71,-1,two point jumper,True,21,False,True
+2014-01-20,33.55,Atlanta Hawks,Miami Heat,3,84-93,6,three point jumper,True,25,True,True
+2014-01-20,37.3,Atlanta Hawks,Miami Heat,4,97-102,2,three point jumper,True,23,True,True
+2014-01-22,11.4333333333,Atlanta Hawks,Orlando Magic,1,29-20,7,two point shot,False,11,True,True
+2014-01-22,13.1333333333,Atlanta Hawks,Orlando Magic,2,31-25,4,two point jumper,False,22,False,True
+2014-01-22,33.7833333333,Atlanta Hawks,Orlando Magic,3,86-71,13,two point jumper,False,18,False,True
+2014-01-22,39.8166666667,Atlanta Hawks,Orlando Magic,4,92-91,-1,two point shot,False,26,False,True
+2014-01-27,8.21666666667,Atlanta Hawks,Oklahoma City Thunder,1,22-14,7,free throw,False,15,True,False
+2014-01-27,8.25,Atlanta Hawks,Oklahoma City Thunder,1,24-14,8,layup,False,0,True,False
+2014-01-27,31.0333333333,Atlanta Hawks,Oklahoma City Thunder,3,75-68,5,two point shot,False,1,False,False
+2014-01-27,32.2166666667,Atlanta Hawks,Oklahoma City Thunder,3,76-70,3,unknown,False,26,False,False
+2014-01-27,33.1833333333,Atlanta Hawks,Oklahoma City Thunder,3,78-70,6,two point jumper,False,21,True,False
+2014-01-27,34.1333333333,Atlanta Hawks,Oklahoma City Thunder,3,83-73,7,three point jumper,False,25,True,False
+2014-01-27,34.75,Atlanta Hawks,Oklahoma City Thunder,3,85-75,8,layup,False,0,False,False
+2014-01-27,35.2833333333,Atlanta Hawks,Oklahoma City Thunder,3,86-75,10,free throw,False,15,True,False
+2014-01-27,35.2833333333,Atlanta Hawks,Oklahoma City Thunder,3,87-75,11,free throw,False,15,True,False
+2014-01-27,37.7,Atlanta Hawks,Oklahoma City Thunder,4,87-83,1,three point jumper,False,24,False,False
+2014-01-27,39.9333333333,Atlanta Hawks,Oklahoma City Thunder,4,96-91,3,two point shot,False,10,False,False
+2014-02-01,8.65,Atlanta Hawks,Minnesota Timberwolves,1,16-20,1,three point jumper,True,25,False,True
+2014-02-01,9.7,Atlanta Hawks,Minnesota Timberwolves,1,18-22,2,unknown,True,8,False,True
+2014-02-01,11.2833333333,Atlanta Hawks,Minnesota Timberwolves,1,24-25,-2,three point jumper,True,23,True,True
+2014-02-01,13.8166666667,Atlanta Hawks,Minnesota Timberwolves,2,26-28,1,free throw,True,15,True,True
+2014-02-01,13.8166666667,Atlanta Hawks,Minnesota Timberwolves,2,26-29,2,free throw,True,15,True,True
+2014-02-01,23.7833333333,Atlanta Hawks,Minnesota Timberwolves,2,54-45,-11,two point shot,True,1,True,True
+2014-02-01,36.6833333333,Atlanta Hawks,Minnesota Timberwolves,4,78-86,6,unknown,True,12,False,True
+2014-02-19,6.45,Atlanta Hawks,Washington Wizards,1,17-12,-7,layup,True,0,True,True
+2014-02-19,10.5166666667,Atlanta Hawks,Washington Wizards,1,29-14,-17,two point jumper,True,10,False,True
+2014-02-19,11.8,Atlanta Hawks,Washington Wizards,1,29-14,-17,two point jumper,True,22,False,True
+2014-02-19,19.6,Atlanta Hawks,Washington Wizards,2,50-31,-22,three point jumper,True,26,False,True
+2014-02-19,23.55,Atlanta Hawks,Washington Wizards,2,58-46,-15,three point jumper,True,25,True,True
+2014-02-19,24.0,Atlanta Hawks,Washington Wizards,2,58-46,-13,free throw,True,15,False,True
+2014-02-19,24.0,Atlanta Hawks,Washington Wizards,2,58-47,-12,free throw,True,15,True,True
+2014-02-19,32.55,Atlanta Hawks,Washington Wizards,3,77-73,-7,three point jumper,True,24,False,True
+2014-02-19,32.7666666667,Atlanta Hawks,Washington Wizards,3,77-75,-4,two point shot,True,1,True,True
+2014-02-19,35.9666666667,Atlanta Hawks,Washington Wizards,3,88-83,-8,three point jumper,True,25,False,True
+2014-02-19,38.5,Atlanta Hawks,Washington Wizards,4,96-87,-10,free throw,True,15,True,True
+2014-02-19,38.5,Atlanta Hawks,Washington Wizards,4,96-88,-9,free throw,True,15,True,True
+2014-02-19,41.6,Atlanta Hawks,Washington Wizards,4,100-92,-9,free throw,True,15,True,True
+2014-02-19,41.6,Atlanta Hawks,Washington Wizards,4,100-92,-9,free throw,True,15,False,True
+2014-02-19,41.6,Atlanta Hawks,Washington Wizards,4,100-93,-8,free throw,True,15,True,True
+2014-02-19,46.1833333333,Atlanta Hawks,Washington Wizards,4,111-95,-19,three point jumper,True,23,False,True
+2014-02-19,47.5,Atlanta Hawks,Washington Wizards,4,114-96,-19,free throw,True,15,True,True
+2014-02-19,47.5,Atlanta Hawks,Washington Wizards,4,114-97,-18,free throw,True,15,True,True

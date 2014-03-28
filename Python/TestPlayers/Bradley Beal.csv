@@ -1,0 +1,870 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-12-21,0.933333333333,Washington Wizards,Boston Celtics,1,0-2,-5,three point jumper,False,23,False,False
+2014-12-21,3.08333333333,Washington Wizards,Boston Celtics,1,4-9,-7,two point jumper,False,19,True,False
+2014-12-21,4.41666666667,Washington Wizards,Boston Celtics,1,4-11,-9,two point jumper,False,1,False,False
+2014-12-21,4.98333333333,Washington Wizards,Boston Celtics,1,4-13,-11,two point jumper,False,15,False,False
+2014-12-21,18.95,Washington Wizards,Boston Celtics,2,28-40,-14,two point jumper,False,23,False,False
+2014-12-21,20.3333333333,Washington Wizards,Boston Celtics,2,35-42,-10,three point jumper,False,26,True,False
+2014-12-21,20.6666666667,Washington Wizards,Boston Celtics,2,37-42,-6,free throw,False,15,True,False
+2014-12-21,20.6666666667,Washington Wizards,Boston Celtics,2,36-42,-7,free throw,False,15,True,False
+2014-12-21,21.2666666667,Washington Wizards,Boston Celtics,2,36-44,-10,two point jumper,False,21,False,False
+2014-12-21,24.0,Washington Wizards,Boston Celtics,2,44-51,-10,three point jumper,False,87,False,False
+2014-12-21,25.75,Washington Wizards,Boston Celtics,3,48-53,-7,two point jumper,False,23,True,False
+2014-12-21,28.1666666667,Washington Wizards,Boston Celtics,3,53-60,-9,two point jumper,False,13,False,False
+2014-12-21,30.3833333333,Washington Wizards,Boston Celtics,3,55-64,-11,two point jumper,False,21,False,False
+2014-12-21,46.7166666667,Washington Wizards,Boston Celtics,4,98-94,1,three point jumper,False,29,False,False
+2014-01-22,0.316666666667,Washington Wizards,Boston Celtics,1,0-0,-2,two point jumper,True,19,False,False
+2014-01-22,2.25,Washington Wizards,Boston Celtics,1,7-4,-5,two point jumper,True,16,True,False
+2014-01-22,3.55,Washington Wizards,Boston Celtics,1,9-6,-5,two point jumper,True,19,True,False
+2014-01-22,8.16666666667,Washington Wizards,Boston Celtics,1,25-13,-15,three point jumper,True,26,False,False
+2014-01-22,14.2666666667,Washington Wizards,Boston Celtics,2,34-28,-9,three point jumper,True,23,False,False
+2014-01-22,25.6333333333,Washington Wizards,Boston Celtics,3,64-47,-19,two point jumper,True,20,False,False
+2014-01-22,27.45,Washington Wizards,Boston Celtics,3,67-55,-14,two point shot,True,2,True,False
+2014-01-22,27.8166666667,Washington Wizards,Boston Celtics,3,67-57,-12,two point jumper,True,22,True,False
+2014-01-22,28.75,Washington Wizards,Boston Celtics,3,67-61,-8,two point shot,True,1,True,False
+2014-01-22,29.2833333333,Washington Wizards,Boston Celtics,3,69-61,-11,three point jumper,True,26,False,False
+2014-01-22,36.2666666667,Washington Wizards,Boston Celtics,4,76-75,-3,two point jumper,True,18,True,False
+2014-01-22,37.0166666667,Washington Wizards,Boston Celtics,4,79-75,-7,three point jumper,True,26,False,False
+2014-01-22,38.3166666667,Washington Wizards,Boston Celtics,4,81-79,-4,two point jumper,True,11,False,False
+2014-01-22,38.9666666667,Washington Wizards,Boston Celtics,4,81-81,-2,two point shot,True,20,True,False
+2014-01-22,40.2333333333,Washington Wizards,Boston Celtics,4,84-81,-5,two point jumper,True,8,False,False
+2014-01-22,45.75,Washington Wizards,Boston Celtics,4,96-94,-4,two point jumper,True,17,False,False
+2014-11-08,3.71666666667,Washington Wizards,Brooklyn Nets,1,5-4,-3,two point shot,True,1,True,True
+2014-11-08,6.73333333333,Washington Wizards,Brooklyn Nets,1,14-6,-10,two point jumper,True,7,False,True
+2014-11-08,9.35,Washington Wizards,Brooklyn Nets,1,23-12,-13,two point shot,True,1,True,True
+2014-11-08,10.4,Washington Wizards,Brooklyn Nets,1,27-18,-12,three point jumper,True,25,True,True
+2014-11-08,11.4833333333,Washington Wizards,Brooklyn Nets,1,31-24,-10,three point jumper,True,25,True,True
+2014-11-08,12.2166666667,Washington Wizards,Brooklyn Nets,2,33-27,-8,two point jumper,True,17,False,True
+2014-11-08,20.2666666667,Washington Wizards,Brooklyn Nets,2,56-47,-11,layup,True,0,True,True
+2014-11-08,20.7166666667,Washington Wizards,Brooklyn Nets,2,56-47,-12,three point jumper,True,24,False,True
+2014-11-08,24.8666666667,Washington Wizards,Brooklyn Nets,3,58-57,-3,two point jumper,True,20,True,True
+2014-11-08,25.4666666667,Washington Wizards,Brooklyn Nets,3,58-57,-3,two point jumper,True,23,False,True
+2014-11-08,25.95,Washington Wizards,Brooklyn Nets,3,58-59,-1,two point jumper,True,20,True,True
+2014-11-08,27.6333333333,Washington Wizards,Brooklyn Nets,3,60-63,1,two point shot,True,21,True,True
+2014-11-08,29.85,Washington Wizards,Brooklyn Nets,3,60-65,2,three point jumper,True,24,False,True
+2014-11-08,33.05,Washington Wizards,Brooklyn Nets,3,64-71,5,two point jumper,True,15,False,True
+2014-11-08,39.5,Washington Wizards,Brooklyn Nets,4,82-76,-8,two point jumper,True,22,False,True
+2014-11-08,40.2166666667,Washington Wizards,Brooklyn Nets,4,84-78,-8,layup,True,0,True,True
+2014-11-08,41.25,Washington Wizards,Brooklyn Nets,4,84-80,-5,free throw,True,15,True,True
+2014-11-08,41.25,Washington Wizards,Brooklyn Nets,4,84-81,-4,free throw,True,15,True,True
+2014-11-08,45.1833333333,Washington Wizards,Brooklyn Nets,4,94-90,-7,three point jumper,True,25,True,True
+2014-11-08,48.7333333333,Washington Wizards,Brooklyn Nets,5,99-103,2,two point shot,True,2,True,True
+2014-11-08,51.1333333333,Washington Wizards,Brooklyn Nets,5,106-105,-4,three point jumper,True,25,False,True
+2014-11-08,52.85,Washington Wizards,Brooklyn Nets,5,108-111,2,free throw,True,15,True,True
+2014-11-08,52.85,Washington Wizards,Brooklyn Nets,5,108-112,3,free throw,True,15,True,True
+2014-12-18,2.71666666667,Washington Wizards,Brooklyn Nets,1,9-8,-1,two point jumper,False,1,True,True
+2014-12-18,4.75,Washington Wizards,Brooklyn Nets,1,15-12,0,three point jumper,False,25,True,True
+2014-12-18,7.98333333333,Washington Wizards,Brooklyn Nets,1,25-14,8,three point jumper,False,23,True,True
+2014-12-18,18.85,Washington Wizards,Brooklyn Nets,2,43-43,-2,two point jumper,False,1,False,True
+2014-12-18,25.8166666667,Washington Wizards,Brooklyn Nets,3,63-55,7,free throw,False,15,True,True
+2014-12-18,25.8166666667,Washington Wizards,Brooklyn Nets,3,64-55,8,free throw,False,15,True,True
+2014-12-18,28.95,Washington Wizards,Brooklyn Nets,3,70-62,6,two point jumper,False,19,False,True
+2014-12-18,42.2,Washington Wizards,Brooklyn Nets,4,96-90,5,free throw,False,15,True,True
+2014-12-18,42.2,Washington Wizards,Brooklyn Nets,4,97-90,6,free throw,False,15,True,True
+2014-12-18,43.25,Washington Wizards,Brooklyn Nets,4,97-93,1,three point jumper,False,25,False,True
+2014-12-18,44.55,Washington Wizards,Brooklyn Nets,4,99-95,2,two point jumper,False,19,False,True
+2014-12-18,46.8833333333,Washington Wizards,Brooklyn Nets,4,106-100,3,three point jumper,False,25,True,True
+2014-11-23,2.43333333333,Washington Wizards,New York Knicks,1,5-4,-4,three point jumper,True,26,False,True
+2014-11-23,6.95,Washington Wizards,New York Knicks,1,15-14,-3,two point jumper,True,18,True,True
+2014-11-23,8.35,Washington Wizards,New York Knicks,1,20-16,-6,two point jumper,True,17,True,True
+2014-11-23,9.56666666667,Washington Wizards,New York Knicks,1,24-17,-8,free throw,True,15,True,True
+2014-11-23,17.1,Washington Wizards,New York Knicks,2,38-37,-3,two point jumper,True,20,False,True
+2014-11-23,17.7,Washington Wizards,New York Knicks,2,40-37,-5,two point jumper,True,18,False,True
+2014-11-23,19.3166666667,Washington Wizards,New York Knicks,2,42-39,-5,two point jumper,True,21,False,True
+2014-11-23,22.0833333333,Washington Wizards,New York Knicks,2,50-44,-9,three point jumper,True,24,False,True
+2014-11-23,24.8833333333,Washington Wizards,New York Knicks,3,54-51,-5,two point jumper,True,22,False,True
+2014-11-23,27.5666666667,Washington Wizards,New York Knicks,3,56-60,1,three point jumper,True,23,False,True
+2014-11-23,27.8333333333,Washington Wizards,New York Knicks,3,56-62,4,two point jumper,True,16,True,True
+2014-11-23,30.2833333333,Washington Wizards,New York Knicks,3,61-65,3,free throw,True,15,True,True
+2014-11-23,30.2833333333,Washington Wizards,New York Knicks,3,61-66,4,free throw,True,15,True,True
+2014-11-23,31.9833333333,Washington Wizards,New York Knicks,3,63-72,7,two point jumper,True,20,True,True
+2014-11-23,33.4333333333,Washington Wizards,New York Knicks,3,63-72,6,three point jumper,True,30,False,True
+2014-11-23,36.6833333333,Washington Wizards,New York Knicks,4,71-78,5,two point shot,True,13,True,True
+2014-11-23,38.3333333333,Washington Wizards,New York Knicks,4,73-81,5,three point jumper,True,26,True,True
+2014-11-23,39.0166666667,Washington Wizards,New York Knicks,4,76-81,3,two point jumper,True,20,False,True
+2014-11-23,43.0333333333,Washington Wizards,New York Knicks,4,81-89,5,three point jumper,True,26,False,True
+2014-11-23,45.0166666667,Washington Wizards,New York Knicks,4,86-95,7,two point jumper,True,23,True,True
+2014-11-23,45.7,Washington Wizards,New York Knicks,4,86-95,6,three point jumper,True,26,False,True
+2014-11-23,45.9833333333,Washington Wizards,New York Knicks,4,86-95,7,two point jumper,True,19,False,True
+2014-12-16,4.35,Washington Wizards,New York Knicks,1,7-7,-2,two point jumper,False,20,False,True
+2014-12-16,5.56666666667,Washington Wizards,New York Knicks,1,9-10,-3,layup,False,0,True,True
+2014-12-16,14.8,Washington Wizards,New York Knicks,2,31-22,6,three point jumper,False,26,True,True
+2014-12-16,16.1333333333,Washington Wizards,New York Knicks,2,33-25,6,two point shot,False,5,True,True
+2014-12-16,16.6333333333,Washington Wizards,New York Knicks,2,33-28,3,two point jumper,False,22,False,True
+2014-12-16,24.8833333333,Washington Wizards,New York Knicks,3,55-42,10,three point jumper,False,23,False,True
+2014-12-16,25.4666666667,Washington Wizards,New York Knicks,3,55-42,11,two point jumper,False,19,False,True
+2014-12-16,29.3166666667,Washington Wizards,New York Knicks,3,59-54,3,two point jumper,False,12,False,True
+2014-12-16,37.3833333333,Washington Wizards,New York Knicks,4,77-78,-3,two point jumper,False,22,False,True
+2014-12-16,39.0666666667,Washington Wizards,New York Knicks,4,81-82,-3,two point jumper,False,21,True,True
+2014-12-16,40.1,Washington Wizards,New York Knicks,4,85-83,0,two point jumper,False,20,True,True
+2014-12-16,42.1333333333,Washington Wizards,New York Knicks,4,92-85,5,two point shot,False,21,True,True
+2014-12-16,45.9833333333,Washington Wizards,New York Knicks,4,97-98,-4,three point jumper,False,25,True,True
+2014-12-16,46.65,Washington Wizards,New York Knicks,4,97-98,-4,three point jumper,False,24,False,True
+2014-12-16,47.25,Washington Wizards,New York Knicks,4,100-100,-3,three point jumper,False,26,True,True
+2014-12-16,47.9,Washington Wizards,New York Knicks,4,102-101,-1,layup,False,0,True,True
+2014-11-01,2.46666666667,Washington Wizards,Philadelphia 76ers,1,2-5,1,two point jumper,True,16,False,False
+2014-11-01,4.0,Washington Wizards,Philadelphia 76ers,1,6-7,-1,two point jumper,True,10,False,False
+2014-11-01,7.91666666667,Washington Wizards,Philadelphia 76ers,1,11-24,10,three point jumper,True,23,True,False
+2014-11-01,9.8,Washington Wizards,Philadelphia 76ers,1,17-26,7,two point jumper,True,17,False,False
+2014-11-01,17.5333333333,Washington Wizards,Philadelphia 76ers,2,28-36,6,two point jumper,True,16,False,False
+2014-11-01,20.2166666667,Washington Wizards,Philadelphia 76ers,2,36-45,6,three point jumper,True,25,True,False
+2014-11-01,21.2833333333,Washington Wizards,Philadelphia 76ers,2,38-45,4,three point jumper,True,26,False,False
+2014-11-01,27.5666666667,Washington Wizards,Philadelphia 76ers,3,50-60,8,layup,True,0,False,False
+2014-11-01,30.2833333333,Washington Wizards,Philadelphia 76ers,3,61-68,5,two point jumper,True,17,False,False
+2014-11-01,32.05,Washington Wizards,Philadelphia 76ers,3,66-72,4,two point jumper,True,17,False,False
+2014-11-01,42.4166666667,Washington Wizards,Philadelphia 76ers,4,92-91,-3,two point shot,True,1,True,False
+2014-11-01,42.9833333333,Washington Wizards,Philadelphia 76ers,4,94-91,-5,two point jumper,True,18,False,False
+2014-11-01,44.5666666667,Washington Wizards,Philadelphia 76ers,4,101-92,-12,three point jumper,True,26,False,False
+2014-11-01,44.7666666667,Washington Wizards,Philadelphia 76ers,4,101-92,-11,two point jumper,True,19,False,False
+2014-11-01,45.6666666667,Washington Wizards,Philadelphia 76ers,4,103-95,-9,free throw,True,15,False,False
+2014-11-01,46.3666666667,Washington Wizards,Philadelphia 76ers,4,105-97,-10,layup,True,0,False,False
+2014-11-01,46.3666666667,Washington Wizards,Philadelphia 76ers,4,105-99,-8,two point shot,True,1,True,False
+2014-11-06,0.266666666667,Washington Wizards,Philadelphia 76ers,1,3-0,0,three point jumper,False,24,True,True
+2014-11-06,4.2,Washington Wizards,Philadelphia 76ers,1,21-10,8,three point jumper,False,27,True,True
+2014-11-06,6.41666666667,Washington Wizards,Philadelphia 76ers,1,27-12,12,three point jumper,False,25,True,True
+2014-11-06,8.81666666667,Washington Wizards,Philadelphia 76ers,1,31-19,10,layup,False,0,False,True
+2014-11-06,9.86666666667,Washington Wizards,Philadelphia 76ers,1,33-21,10,two point jumper,False,20,False,True
+2014-11-06,18.35,Washington Wizards,Philadelphia 76ers,2,43-40,0,three point jumper,False,25,False,True
+2014-11-06,19.2,Washington Wizards,Philadelphia 76ers,2,45-40,3,two point shot,False,16,True,True
+2014-11-06,20.0333333333,Washington Wizards,Philadelphia 76ers,2,52-42,8,two point shot,False,1,True,True
+2014-11-06,21.8166666667,Washington Wizards,Philadelphia 76ers,2,55-46,6,three point jumper,False,25,False,True
+2014-11-06,22.7333333333,Washington Wizards,Philadelphia 76ers,2,57-49,6,layup,False,0,False,True
+2014-11-06,26.5,Washington Wizards,Philadelphia 76ers,3,66-56,7,three point jumper,False,23,False,True
+2014-11-06,27.75,Washington Wizards,Philadelphia 76ers,3,68-60,6,two point jumper,False,17,False,True
+2014-11-06,29.4166666667,Washington Wizards,Philadelphia 76ers,3,71-65,4,two point jumper,False,18,False,True
+2014-11-06,30.35,Washington Wizards,Philadelphia 76ers,3,74-67,4,three point jumper,False,23,False,True
+2014-11-06,30.8833333333,Washington Wizards,Philadelphia 76ers,3,76-67,8,free throw,False,15,False,True
+2014-11-06,30.8833333333,Washington Wizards,Philadelphia 76ers,3,76-67,8,free throw,False,15,False,True
+2014-11-06,36.3,Washington Wizards,Philadelphia 76ers,4,91-76,13,two point jumper,False,5,True,True
+2014-11-06,38.0,Washington Wizards,Philadelphia 76ers,4,91-80,9,two point jumper,False,16,False,True
+2014-11-06,39.2,Washington Wizards,Philadelphia 76ers,4,97-83,12,layup,False,0,True,True
+2014-11-06,41.85,Washington Wizards,Philadelphia 76ers,4,103-91,10,two point jumper,False,1,False,True
+2014-11-06,42.2833333333,Washington Wizards,Philadelphia 76ers,4,103-91,9,three point jumper,False,28,False,True
+2014-11-06,43.1,Washington Wizards,Philadelphia 76ers,4,105-91,11,three point jumper,False,23,False,True
+2014-01-20,2.86666666667,Washington Wizards,Philadelphia 76ers,1,6-7,-1,two point jumper,True,13,False,False
+2014-01-20,12.75,Washington Wizards,Philadelphia 76ers,2,24-31,5,two point jumper,True,13,False,False
+2014-01-20,14.65,Washington Wizards,Philadelphia 76ers,2,32-34,1,free throw,True,15,True,False
+2014-01-20,14.75,Washington Wizards,Philadelphia 76ers,2,32-36,2,two point shot,True,17,True,False
+2014-01-20,15.75,Washington Wizards,Philadelphia 76ers,2,34-40,4,two point shot,True,12,True,False
+2014-01-20,16.95,Washington Wizards,Philadelphia 76ers,2,36-45,7,two point shot,True,15,True,False
+2014-01-20,18.3833333333,Washington Wizards,Philadelphia 76ers,2,36-45,7,two point jumper,True,14,False,False
+2014-01-20,18.6,Washington Wizards,Philadelphia 76ers,2,36-48,9,three point jumper,True,26,True,False
+2014-01-20,18.95,Washington Wizards,Philadelphia 76ers,2,37-48,9,two point jumper,True,13,False,False
+2014-01-20,19.35,Washington Wizards,Philadelphia 76ers,2,39-51,9,three point jumper,True,26,True,False
+2014-01-20,26.5,Washington Wizards,Philadelphia 76ers,3,56-68,10,two point shot,True,1,False,False
+2014-01-20,28.0333333333,Washington Wizards,Philadelphia 76ers,3,60-70,8,two point shot,True,1,True,False
+2014-01-20,29.45,Washington Wizards,Philadelphia 76ers,3,66-73,4,three point jumper,True,25,True,False
+2014-01-20,39.2166666667,Washington Wizards,Philadelphia 76ers,4,75-96,19,two point shot,True,12,True,False
+2014-01-20,45.8,Washington Wizards,Philadelphia 76ers,4,92-100,6,two point jumper,True,20,False,False
+2014-01-20,46.3833333333,Washington Wizards,Philadelphia 76ers,4,92-100,6,two point jumper,True,14,False,False
+2014-01-20,46.7666666667,Washington Wizards,Philadelphia 76ers,4,92-102,9,free throw,True,15,True,False
+2014-01-20,46.7666666667,Washington Wizards,Philadelphia 76ers,4,92-103,10,free throw,True,15,True,False
+2014-03-01,0.25,Washington Wizards,Philadelphia 76ers,1,3-0,0,three point jumper,False,25,True,True
+2014-03-01,0.883333333333,Washington Wizards,Philadelphia 76ers,1,3-2,-1,two point jumper,False,12,False,True
+2014-03-01,2.45,Washington Wizards,Philadelphia 76ers,1,9-4,3,two point jumper,False,21,False,True
+2014-03-01,2.9,Washington Wizards,Philadelphia 76ers,1,9-7,-1,three point jumper,False,26,False,True
+2014-03-01,3.46666666667,Washington Wizards,Philadelphia 76ers,1,14-7,5,layup,False,0,True,True
+2014-03-01,5.2,Washington Wizards,Philadelphia 76ers,1,18-7,9,two point jumper,False,17,True,True
+2014-03-01,12.75,Washington Wizards,Philadelphia 76ers,2,41-28,10,three point jumper,False,26,False,True
+2014-03-01,17.2,Washington Wizards,Philadelphia 76ers,2,51-41,7,three point jumper,False,26,False,True
+2014-03-01,19.1,Washington Wizards,Philadelphia 76ers,2,59-47,10,two point shot,False,1,True,True
+2014-03-01,28.5333333333,Washington Wizards,Philadelphia 76ers,3,81-71,8,two point jumper,False,1,False,True
+2014-03-01,36.8166666667,Washington Wizards,Philadelphia 76ers,4,97-85,10,two point jumper,False,21,False,True
+2014-03-01,39.1333333333,Washington Wizards,Philadelphia 76ers,4,102-88,12,layup,False,0,True,True
+2014-11-22,1.58333333333,Washington Wizards,Toronto Raptors,1,4-4,-2,two point shot,False,1,True,False
+2014-11-22,3.96666666667,Washington Wizards,Toronto Raptors,1,11-11,-3,three point jumper,False,24,True,False
+2014-11-22,6.16666666667,Washington Wizards,Toronto Raptors,1,18-19,-3,layup,False,0,True,False
+2014-11-22,8.55,Washington Wizards,Toronto Raptors,1,24-23,-2,three point jumper,False,26,False,False
+2014-11-22,13.8333333333,Washington Wizards,Toronto Raptors,2,27-38,-13,two point jumper,False,1,False,False
+2014-11-22,13.9666666667,Washington Wizards,Toronto Raptors,2,27-38,-14,three point jumper,False,22,False,False
+2014-11-22,16.5666666667,Washington Wizards,Toronto Raptors,2,27-38,-13,two point jumper,False,16,False,False
+2014-11-22,19.6,Washington Wizards,Toronto Raptors,2,31-40,-12,three point jumper,False,25,False,False
+2014-11-22,23.0666666667,Washington Wizards,Toronto Raptors,2,33-49,-18,layup,False,0,False,False
+2014-11-22,24.6166666667,Washington Wizards,Toronto Raptors,3,40-51,-13,two point jumper,False,20,True,False
+2014-11-22,25.6166666667,Washington Wizards,Toronto Raptors,3,40-51,-13,two point jumper,False,19,False,False
+2014-11-22,26.9333333333,Washington Wizards,Toronto Raptors,3,44-53,-11,two point jumper,False,18,True,False
+2014-11-22,30.75,Washington Wizards,Toronto Raptors,3,55-57,-4,two point jumper,False,22,False,False
+2014-11-22,32.95,Washington Wizards,Toronto Raptors,3,62-62,-2,layup,False,0,False,False
+2014-11-22,37.3166666667,Washington Wizards,Toronto Raptors,4,70-66,2,two point jumper,False,16,False,False
+2014-11-22,39.5166666667,Washington Wizards,Toronto Raptors,4,73-75,-5,three point jumper,False,26,True,False
+2014-11-22,40.5333333333,Washington Wizards,Toronto Raptors,4,73-77,-7,three point jumper,False,27,False,False
+2014-11-22,43.2833333333,Washington Wizards,Toronto Raptors,4,79-85,-9,three point jumper,False,25,False,False
+2014-11-22,44.6166666667,Washington Wizards,Toronto Raptors,4,83-87,-6,layup,False,0,True,False
+2014-11-22,44.6166666667,Washington Wizards,Toronto Raptors,4,84-87,-4,free throw,False,15,True,False
+2014-11-22,45.7666666667,Washington Wizards,Toronto Raptors,4,84-89,-8,three point jumper,False,25,False,False
+2014-11-22,47.55,Washington Wizards,Toronto Raptors,4,88-94,-9,three point jumper,False,26,False,False
+2014-01-03,3.63333333333,Washington Wizards,Toronto Raptors,1,14-5,-11,two point jumper,True,19,False,True
+2014-01-03,5.13333333333,Washington Wizards,Toronto Raptors,1,14-9,-8,three point jumper,True,26,False,True
+2014-01-03,16.3833333333,Washington Wizards,Toronto Raptors,2,31-25,-8,two point jumper,True,21,False,True
+2014-01-03,17.8166666667,Washington Wizards,Toronto Raptors,2,37-28,-12,three point jumper,True,23,False,True
+2014-01-03,18.9833333333,Washington Wizards,Toronto Raptors,2,39-32,-9,two point jumper,True,16,True,True
+2014-01-03,20.2166666667,Washington Wizards,Toronto Raptors,2,39-34,-7,two point jumper,True,1,False,True
+2014-01-03,25.3833333333,Washington Wizards,Toronto Raptors,3,53-49,-6,two point shot,True,15,True,True
+2014-01-03,26.65,Washington Wizards,Toronto Raptors,3,59-49,-12,two point jumper,True,20,False,True
+2014-01-03,28.3166666667,Washington Wizards,Toronto Raptors,3,63-51,-14,two point jumper,True,19,True,True
+2014-01-03,40.1333333333,Washington Wizards,Toronto Raptors,4,92-68,-26,two point jumper,True,4,False,True
+2014-01-03,40.9166666667,Washington Wizards,Toronto Raptors,4,92-72,-22,two point shot,True,1,True,True
+2014-01-03,42.9166666667,Washington Wizards,Toronto Raptors,4,94-78,-18,two point shot,True,8,True,True
+2014-01-03,43.5666666667,Washington Wizards,Toronto Raptors,4,94-78,-19,three point jumper,True,25,False,True
+2014-01-03,44.6666666667,Washington Wizards,Toronto Raptors,4,95-80,-17,layup,True,0,False,True
+2014-01-03,45.9333333333,Washington Wizards,Toronto Raptors,4,97-82,-17,layup,True,0,False,True
+2014-01-03,45.9833333333,Washington Wizards,Toronto Raptors,4,97-84,-15,layup,True,0,True,True
+2014-02-18,1.25,Washington Wizards,Toronto Raptors,1,2-2,-3,three point jumper,True,26,False,True
+2014-02-18,15.1833333333,Washington Wizards,Toronto Raptors,2,34-29,-7,two point jumper,True,1,False,True
+2014-02-18,16.1666666667,Washington Wizards,Toronto Raptors,2,36-31,-7,two point jumper,True,19,False,True
+2014-02-18,21.0333333333,Washington Wizards,Toronto Raptors,2,49-43,-8,two point shot,True,1,True,True
+2014-02-18,22.5166666667,Washington Wizards,Toronto Raptors,2,51-44,-8,free throw,True,15,True,True
+2014-02-18,22.5166666667,Washington Wizards,Toronto Raptors,2,51-45,-7,free throw,True,15,True,True
+2014-02-18,30.7333333333,Washington Wizards,Toronto Raptors,3,69-59,-13,three point jumper,True,26,False,True
+2014-02-18,31.4833333333,Washington Wizards,Toronto Raptors,3,71-59,-14,layup,True,0,False,True
+2014-02-18,38.0,Washington Wizards,Toronto Raptors,4,90-73,-18,free throw,True,15,True,True
+2014-02-18,38.0,Washington Wizards,Toronto Raptors,4,90-74,-17,free throw,True,15,True,True
+2014-02-18,41.7333333333,Washington Wizards,Toronto Raptors,4,98-78,-22,two point jumper,True,20,False,True
+2014-02-18,43.7833333333,Washington Wizards,Toronto Raptors,4,99-85,-17,three point jumper,True,25,True,True
+2014-02-18,44.7333333333,Washington Wizards,Toronto Raptors,4,99-87,-15,three point jumper,True,25,False,True
+2014-02-27,0.65,Washington Wizards,Toronto Raptors,1,0-2,-5,three point jumper,False,26,False,True
+2014-02-27,12.9,Washington Wizards,Toronto Raptors,2,24-29,-7,two point jumper,False,5,False,True
+2014-02-27,14.0666666667,Washington Wizards,Toronto Raptors,2,26-29,-5,two point jumper,False,3,False,True
+2014-02-27,16.2333333333,Washington Wizards,Toronto Raptors,2,32-33,-3,two point jumper,False,1,False,True
+2014-02-27,24.95,Washington Wizards,Toronto Raptors,3,59-54,3,layup,False,0,False,True
+2014-02-27,27.7,Washington Wizards,Toronto Raptors,3,66-58,5,three point jumper,False,24,True,True
+2014-02-27,29.5666666667,Washington Wizards,Toronto Raptors,3,70-62,5,three point jumper,False,23,False,True
+2014-02-27,31.0666666667,Washington Wizards,Toronto Raptors,3,72-62,8,two point shot,False,12,True,True
+2014-02-27,38.8666666667,Washington Wizards,Toronto Raptors,4,91-85,4,layup,False,0,True,True
+2014-02-27,41.85,Washington Wizards,Toronto Raptors,4,95-94,-1,two point jumper,False,19,False,True
+2014-02-27,47.3833333333,Washington Wizards,Toronto Raptors,4,104-104,-3,three point jumper,False,24,False,True
+2014-02-27,47.9,Washington Wizards,Toronto Raptors,4,104-106,-4,two point jumper,False,18,False,True
+2014-02-27,48.95,Washington Wizards,Toronto Raptors,5,106-108,-4,two point jumper,False,16,False,True
+2014-02-27,50.4833333333,Washington Wizards,Toronto Raptors,5,107-110,-4,free throw,False,15,True,True
+2014-02-27,50.4833333333,Washington Wizards,Toronto Raptors,5,108-110,-3,free throw,False,15,True,True
+2014-02-27,53.85,Washington Wizards,Toronto Raptors,6,114-116,-4,two point jumper,False,21,False,True
+2014-02-27,59.85,Washington Wizards,Toronto Raptors,7,122-122,-2,two point jumper,False,21,True,True
+2014-01-05,0.316666666667,Washington Wizards,Golden State Warriors,1,0-2,0,two point jumper,True,18,True,True
+2014-01-05,2.76666666667,Washington Wizards,Golden State Warriors,1,6-2,-6,two point jumper,True,20,False,True
+2014-01-05,3.63333333333,Washington Wizards,Golden State Warriors,1,8-7,-4,three point jumper,True,25,True,True
+2014-01-05,4.7,Washington Wizards,Golden State Warriors,1,11-11,-2,two point jumper,True,15,True,True
+2014-01-05,5.2,Washington Wizards,Golden State Warriors,1,13-11,-4,two point jumper,True,13,False,True
+2014-01-05,5.41666666667,Washington Wizards,Golden State Warriors,1,13-13,-2,two point shot,True,1,True,True
+2014-01-05,17.35,Washington Wizards,Golden State Warriors,2,39-44,3,two point jumper,True,23,False,True
+2014-01-05,21.0333333333,Washington Wizards,Golden State Warriors,2,50-50,-2,two point jumper,True,1,False,True
+2014-01-05,21.8166666667,Washington Wizards,Golden State Warriors,2,50-52,-1,three point jumper,True,26,False,True
+2014-01-05,24.7,Washington Wizards,Golden State Warriors,3,58-58,-2,two point jumper,True,15,False,True
+2014-01-05,26.3833333333,Washington Wizards,Golden State Warriors,3,64-58,-8,two point jumper,True,21,False,True
+2014-01-05,27.4,Washington Wizards,Golden State Warriors,3,66-58,-10,two point jumper,True,16,False,True
+2014-01-05,39.6333333333,Washington Wizards,Golden State Warriors,4,96-81,-17,two point jumper,True,16,False,True
+2014-01-05,41.75,Washington Wizards,Golden State Warriors,4,101-83,-20,two point jumper,True,17,False,True
+2014-01-28,1.2,Washington Wizards,Golden State Warriors,1,2-0,0,two point jumper,False,17,False,True
+2014-01-28,2.0,Washington Wizards,Golden State Warriors,1,2-2,-2,two point jumper,False,4,False,True
+2014-01-28,6.41666666667,Washington Wizards,Golden State Warriors,1,10-7,1,two point shot,False,23,False,True
+2014-01-28,6.98333333333,Washington Wizards,Golden State Warriors,1,10-7,1,two point jumper,False,17,False,True
+2014-01-28,16.0333333333,Washington Wizards,Golden State Warriors,2,33-33,-3,three point jumper,False,24,False,True
+2014-01-28,23.0333333333,Washington Wizards,Golden State Warriors,2,41-49,-10,two point shot,False,17,True,True
+2014-01-28,24.6166666667,Washington Wizards,Golden State Warriors,3,47-49,-4,two point shot,False,21,True,True
+2014-01-28,27.5,Washington Wizards,Golden State Warriors,3,49-51,-4,two point shot,False,15,True,True
+2014-01-28,28.8833333333,Washington Wizards,Golden State Warriors,3,57-51,3,three point jumper,False,26,True,True
+2014-01-28,29.7,Washington Wizards,Golden State Warriors,3,59-51,6,two point shot,False,21,True,True
+2014-01-28,31.2166666667,Washington Wizards,Golden State Warriors,3,59-54,3,two point jumper,False,18,False,True
+2014-01-28,36.5,Washington Wizards,Golden State Warriors,4,69-65,1,three point jumper,False,26,True,True
+2014-01-28,37.25,Washington Wizards,Golden State Warriors,4,72-65,4,three point jumper,False,26,True,True
+2014-01-28,38.0833333333,Washington Wizards,Golden State Warriors,4,75-68,4,three point jumper,False,26,True,True
+2014-01-28,38.8166666667,Washington Wizards,Golden State Warriors,4,75-70,3,two point jumper,False,22,False,True
+2014-01-28,46.4833333333,Washington Wizards,Golden State Warriors,4,85-85,-2,two point shot,False,25,False,True
+2014-01-28,47.15,Washington Wizards,Golden State Warriors,4,88-85,1,two point jumper,False,17,False,True
+2014-01-29,2.08333333333,Washington Wizards,Los Angeles Clippers,1,2-2,-3,three point jumper,False,25,False,False
+2014-01-29,4.53333333333,Washington Wizards,Los Angeles Clippers,1,5-8,-4,free throw,False,15,True,False
+2014-01-29,4.53333333333,Washington Wizards,Los Angeles Clippers,1,6-8,-3,free throw,False,15,True,False
+2014-01-29,5.6,Washington Wizards,Los Angeles Clippers,1,8-10,-4,two point jumper,False,9,True,False
+2014-01-29,13.25,Washington Wizards,Los Angeles Clippers,2,31-36,-8,three point jumper,False,23,False,False
+2014-01-29,13.6333333333,Washington Wizards,Los Angeles Clippers,2,32-36,-5,free throw,False,15,True,False
+2014-01-29,13.6333333333,Washington Wizards,Los Angeles Clippers,2,33-36,-4,free throw,False,15,True,False
+2014-01-29,15.1166666667,Washington Wizards,Los Angeles Clippers,2,35-41,-8,two point shot,False,18,False,False
+2014-01-29,15.7166666667,Washington Wizards,Los Angeles Clippers,2,37-41,-6,layup,False,0,True,False
+2014-01-29,23.6333333333,Washington Wizards,Los Angeles Clippers,2,51-60,-11,two point jumper,False,19,True,False
+2014-01-29,36.3666666667,Washington Wizards,Los Angeles Clippers,4,76-81,-7,two point jumper,False,8,True,False
+2014-01-29,38.0666666667,Washington Wizards,Los Angeles Clippers,4,82-83,-3,two point shot,False,1,True,False
+2014-01-29,39.5666666667,Washington Wizards,Los Angeles Clippers,4,86-90,-6,layup,False,0,True,False
+2014-01-29,40.0666666667,Washington Wizards,Los Angeles Clippers,4,88-92,-6,two point jumper,False,16,True,False
+2014-01-29,40.6333333333,Washington Wizards,Los Angeles Clippers,4,90-95,-7,two point jumper,False,20,True,False
+2014-01-29,41.3833333333,Washington Wizards,Los Angeles Clippers,4,90-95,-8,three point jumper,False,27,False,False
+2014-01-29,45.9,Washington Wizards,Los Angeles Clippers,4,99-104,-6,free throw,False,15,False,False
+2014-01-29,45.9,Washington Wizards,Los Angeles Clippers,4,99-104,-6,free throw,False,15,False,False
+2014-01-29,46.2166666667,Washington Wizards,Los Angeles Clippers,4,99-106,-9,two point jumper,False,18,False,False
+2014-01-29,46.9333333333,Washington Wizards,Los Angeles Clippers,4,101-110,-11,two point jumper,False,15,False,False
+2014-01-24,3.36666666667,Washington Wizards,Phoenix Suns,1,8-5,1,layup,False,0,True,False
+2014-01-24,3.81666666667,Washington Wizards,Phoenix Suns,1,8-8,-2,two point jumper,False,1,False,False
+2014-01-24,6.6,Washington Wizards,Phoenix Suns,1,16-15,-1,two point jumper,False,21,False,False
+2014-01-24,12.8833333333,Washington Wizards,Phoenix Suns,2,32-31,-1,two point jumper,False,17,True,False
+2014-01-24,15.3,Washington Wizards,Phoenix Suns,2,34-36,-4,two point jumper,False,15,False,False
+2014-01-24,16.8166666667,Washington Wizards,Phoenix Suns,2,38-42,-6,two point shot,False,15,True,False
+2014-01-24,17.2166666667,Washington Wizards,Phoenix Suns,2,38-42,-6,two point jumper,False,17,False,False
+2014-01-24,18.3166666667,Washington Wizards,Phoenix Suns,2,40-46,-8,two point jumper,False,21,True,False
+2014-01-24,24.5833333333,Washington Wizards,Phoenix Suns,3,51-57,-9,three point jumper,False,26,False,False
+2014-01-24,27.8833333333,Washington Wizards,Phoenix Suns,3,62-63,-3,two point jumper,False,1,False,False
+2014-01-24,37.0,Washington Wizards,Phoenix Suns,4,82-79,1,two point jumper,False,10,False,False
+2014-01-24,38.3666666667,Washington Wizards,Phoenix Suns,4,86-79,5,two point shot,False,14,True,False
+2014-01-24,45.9666666667,Washington Wizards,Phoenix Suns,4,96-93,0,three point jumper,False,25,True,False
+2014-01-24,47.5666666667,Washington Wizards,Phoenix Suns,4,99-95,2,two point shot,False,1,True,False
+2014-01-24,47.8666666667,Washington Wizards,Phoenix Suns,4,101-95,4,dunk,False,0,True,False
+2014-02-09,2.0,Washington Wizards,Sacramento Kings,1,4-4,-2,two point jumper,True,14,False,True
+2014-02-09,7.7,Washington Wizards,Sacramento Kings,1,18-17,-3,two point shot,True,1,True,True
+2014-02-09,8.16666666667,Washington Wizards,Sacramento Kings,1,18-17,-3,two point jumper,True,15,False,True
+2014-02-09,14.15,Washington Wizards,Sacramento Kings,2,26-33,4,three point jumper,True,26,True,True
+2014-02-09,16.7,Washington Wizards,Sacramento Kings,2,30-39,6,three point jumper,True,26,False,True
+2014-02-09,27.6333333333,Washington Wizards,Sacramento Kings,3,48-65,14,three point jumper,True,25,True,True
+2014-02-09,28.7833333333,Washington Wizards,Sacramento Kings,3,50-67,15,two point shot,True,1,True,True
+2014-02-09,38.5,Washington Wizards,Sacramento Kings,4,70-75,3,two point jumper,True,15,False,True
+2014-02-09,41.9833333333,Washington Wizards,Sacramento Kings,4,75-85,7,three point jumper,True,23,True,True
+2014-02-09,42.45,Washington Wizards,Sacramento Kings,4,77-88,8,three point jumper,True,26,True,True
+2014-01-13,0.65,Washington Wizards,Chicago Bulls,1,2-0,0,layup,False,0,True,False
+2014-01-13,8.18333333333,Washington Wizards,Chicago Bulls,1,21-14,5,layup,False,0,False,False
+2014-01-13,14.0,Washington Wizards,Chicago Bulls,2,34-21,11,two point jumper,False,10,True,False
+2014-01-13,14.75,Washington Wizards,Chicago Bulls,2,36-21,13,two point jumper,False,20,True,False
+2014-01-13,23.2666666667,Washington Wizards,Chicago Bulls,2,51-42,6,three point jumper,False,23,False,False
+2014-01-13,27.0,Washington Wizards,Chicago Bulls,3,56-49,5,two point shot,False,1,False,False
+2014-01-13,29.1666666667,Washington Wizards,Chicago Bulls,3,60-53,5,two point jumper,False,21,True,False
+2014-01-13,41.1,Washington Wizards,Chicago Bulls,4,87-75,9,three point jumper,False,25,False,False
+2014-01-13,42.45,Washington Wizards,Chicago Bulls,4,87-80,5,two point jumper,False,20,False,False
+2014-01-13,42.95,Washington Wizards,Chicago Bulls,4,89-82,5,two point jumper,False,20,True,False
+2014-01-13,44.4,Washington Wizards,Chicago Bulls,4,94-82,9,three point jumper,False,23,True,False
+2014-01-17,1.15,Washington Wizards,Chicago Bulls,1,0-5,2,three point jumper,True,25,True,True
+2014-01-17,2.65,Washington Wizards,Chicago Bulls,1,2-7,3,two point shot,True,1,True,True
+2014-01-17,16.2833333333,Washington Wizards,Chicago Bulls,2,36-37,-1,two point jumper,True,15,False,True
+2014-01-17,36.65,Washington Wizards,Chicago Bulls,4,77-76,-3,two point shot,True,7,True,True
+2014-01-17,40.0666666667,Washington Wizards,Chicago Bulls,4,84-84,-3,three point jumper,True,26,True,True
+2014-01-17,40.95,Washington Wizards,Chicago Bulls,4,87-86,-3,two point shot,True,1,True,True
+2014-01-17,42.3833333333,Washington Wizards,Chicago Bulls,4,89-90,-1,two point jumper,True,19,True,True
+2014-01-17,46.6,Washington Wizards,Chicago Bulls,4,93-96,1,layup,True,0,False,True
+2014-11-16,1.65,Washington Wizards,Cleveland Cavaliers,1,2-2,-2,two point jumper,True,4,True,True
+2014-11-16,3.13333333333,Washington Wizards,Cleveland Cavaliers,1,6-2,-6,two point jumper,True,1,False,True
+2014-11-16,5.21666666667,Washington Wizards,Cleveland Cavaliers,1,10-11,-2,three point jumper,True,23,True,True
+2014-11-16,7.81666666667,Washington Wizards,Cleveland Cavaliers,1,13-19,4,two point shot,True,19,True,True
+2014-11-16,9.08333333333,Washington Wizards,Cleveland Cavaliers,1,15-19,1,three point jumper,True,24,False,True
+2014-11-16,10.1,Washington Wizards,Cleveland Cavaliers,1,18-19,-2,three point jumper,True,23,False,True
+2014-11-16,11.5,Washington Wizards,Cleveland Cavaliers,1,18-22,3,free throw,True,15,True,True
+2014-11-16,11.5,Washington Wizards,Cleveland Cavaliers,1,18-23,4,free throw,True,15,True,True
+2014-11-16,12.3333333333,Washington Wizards,Cleveland Cavaliers,2,18-28,7,three point jumper,True,26,True,True
+2014-11-16,14.7,Washington Wizards,Cleveland Cavaliers,2,23-34,9,two point jumper,True,23,True,True
+2014-11-16,22.75,Washington Wizards,Cleveland Cavaliers,2,38-45,5,two point jumper,True,17,True,True
+2014-11-16,24.3833333333,Washington Wizards,Cleveland Cavaliers,3,44-49,2,three point jumper,True,28,False,True
+2014-11-16,24.6333333333,Washington Wizards,Cleveland Cavaliers,3,44-49,3,layup,True,0,False,True
+2014-11-16,27.7,Washington Wizards,Cleveland Cavaliers,3,52-53,-1,two point jumper,True,18,False,True
+2014-11-16,32.5,Washington Wizards,Cleveland Cavaliers,3,60-65,2,three point jumper,True,25,False,True
+2014-11-16,35.6666666667,Washington Wizards,Cleveland Cavaliers,3,62-69,5,two point jumper,True,18,False,True
+2014-11-16,36.5666666667,Washington Wizards,Cleveland Cavaliers,4,67-69,0,two point jumper,True,16,False,True
+2014-11-16,37.4333333333,Washington Wizards,Cleveland Cavaliers,4,67-73,4,layup,True,0,True,True
+2014-11-16,38.5,Washington Wizards,Cleveland Cavaliers,4,69-75,4,layup,True,0,True,True
+2014-11-16,40.25,Washington Wizards,Cleveland Cavaliers,4,75-75,-2,two point jumper,True,13,False,True
+2014-11-16,40.5,Washington Wizards,Cleveland Cavaliers,4,75-75,-2,two point jumper,True,4,False,True
+2014-11-16,41.7,Washington Wizards,Cleveland Cavaliers,4,78-80,-1,three point jumper,True,24,True,True
+2014-11-16,44.95,Washington Wizards,Cleveland Cavaliers,4,82-87,2,three point jumper,True,23,True,True
+2014-11-16,46.3,Washington Wizards,Cleveland Cavaliers,4,86-87,-1,two point jumper,True,16,False,True
+2014-11-16,49.8166666667,Washington Wizards,Cleveland Cavaliers,5,94-92,-4,two point jumper,True,21,False,True
+2014-11-16,52.65,Washington Wizards,Cleveland Cavaliers,5,101-94,-10,three point jumper,True,25,False,True
+2014-11-16,52.9666666667,Washington Wizards,Cleveland Cavaliers,5,103-96,-9,layup,True,0,True,True
+2014-11-20,1.76666666667,Washington Wizards,Cleveland Cavaliers,1,5-3,-1,three point jumper,False,25,True,True
+2014-11-20,4.03333333333,Washington Wizards,Cleveland Cavaliers,1,10-7,1,two point shot,False,1,False,True
+2014-11-20,5.78333333333,Washington Wizards,Cleveland Cavaliers,1,17-9,5,three point jumper,False,26,True,True
+2014-11-20,8.85,Washington Wizards,Cleveland Cavaliers,1,28-14,11,three point jumper,False,26,True,True
+2014-11-20,11.05,Washington Wizards,Cleveland Cavaliers,1,30-18,10,two point shot,False,21,False,True
+2014-11-20,11.4,Washington Wizards,Cleveland Cavaliers,1,30-19,9,tip shot,False,0,False,True
+2014-11-20,13.3166666667,Washington Wizards,Cleveland Cavaliers,2,30-21,7,two point jumper,False,13,False,True
+2014-11-20,21.4166666667,Washington Wizards,Cleveland Cavaliers,2,50-34,14,two point jumper,False,22,False,True
+2014-11-20,22.2666666667,Washington Wizards,Cleveland Cavaliers,2,52-34,16,two point shot,False,9,False,True
+2014-11-20,22.9,Washington Wizards,Cleveland Cavaliers,2,56-36,18,two point jumper,False,18,True,True
+2014-11-20,26.15,Washington Wizards,Cleveland Cavaliers,3,64-38,23,three point jumper,False,23,True,True
+2014-11-20,27.8333333333,Washington Wizards,Cleveland Cavaliers,3,69-44,22,three point jumper,False,23,True,True
+2014-11-20,28.35,Washington Wizards,Cleveland Cavaliers,3,69-46,21,two point jumper,False,21,False,True
+2014-11-20,34.0333333333,Washington Wizards,Cleveland Cavaliers,3,75-57,16,two point jumper,False,15,False,True
+2014-11-20,34.2166666667,Washington Wizards,Cleveland Cavaliers,3,78-57,18,three point jumper,False,26,True,True
+2014-11-20,35.0,Washington Wizards,Cleveland Cavaliers,3,78-59,17,two point shot,False,18,False,True
+2014-11-20,36.0,Washington Wizards,Cleveland Cavaliers,3,80-59,19,two point shot,False,19,True,True
+2014-11-20,44.0166666667,Washington Wizards,Cleveland Cavaliers,4,86-75,8,three point jumper,False,26,False,True
+2014-11-20,45.9833333333,Washington Wizards,Cleveland Cavaliers,4,90-84,4,two point jumper,False,10,True,True
+2014-11-20,46.7333333333,Washington Wizards,Cleveland Cavaliers,4,90-86,2,two point shot,False,16,False,True
+2014-11-20,47.4666666667,Washington Wizards,Cleveland Cavaliers,4,93-86,6,free throw,False,15,True,True
+2014-11-20,47.4666666667,Washington Wizards,Cleveland Cavaliers,4,94-86,7,free throw,False,15,True,True
+2014-02-07,1.33333333333,Washington Wizards,Cleveland Cavaliers,1,4-2,-4,two point jumper,True,19,False,False
+2014-02-07,2.25,Washington Wizards,Cleveland Cavaliers,1,8-7,-4,three point jumper,True,24,True,False
+2014-02-07,5.88333333333,Washington Wizards,Cleveland Cavaliers,1,19-18,-3,two point jumper,True,19,False,False
+2014-02-07,12.95,Washington Wizards,Cleveland Cavaliers,2,34-38,2,two point jumper,True,21,False,False
+2014-02-07,13.3833333333,Washington Wizards,Cleveland Cavaliers,2,36-40,2,layup,True,0,True,False
+2014-02-07,14.2666666667,Washington Wizards,Cleveland Cavaliers,2,38-40,0,two point jumper,True,13,False,False
+2014-02-07,15.3833333333,Washington Wizards,Cleveland Cavaliers,2,42-43,-1,two point jumper,True,17,False,False
+2014-02-07,16.6333333333,Washington Wizards,Cleveland Cavaliers,2,46-46,-2,two point jumper,True,18,False,False
+2014-02-07,26.3333333333,Washington Wizards,Cleveland Cavaliers,3,71-67,-6,two point jumper,True,14,False,False
+2014-02-07,31.35,Washington Wizards,Cleveland Cavaliers,3,80-76,-6,two point jumper,True,22,True,False
+2014-02-07,32.6833333333,Washington Wizards,Cleveland Cavaliers,3,81-76,-7,two point jumper,True,18,False,False
+2014-02-07,38.6833333333,Washington Wizards,Cleveland Cavaliers,4,99-87,-14,two point jumper,True,16,False,False
+2014-02-07,39.3166666667,Washington Wizards,Cleveland Cavaliers,4,101-89,-14,two point shot,True,16,True,False
+2014-02-07,42.6,Washington Wizards,Cleveland Cavaliers,4,103-91,-14,two point jumper,True,18,False,False
+2014-02-07,44.7333333333,Washington Wizards,Cleveland Cavaliers,4,103-96,-9,layup,True,0,False,False
+2014-02-23,0.266666666667,Washington Wizards,Cleveland Cavaliers,1,0-0,-2,two point shot,False,8,False,True
+2014-02-23,0.316666666667,Washington Wizards,Cleveland Cavaliers,1,2-0,0,two point shot,False,1,True,True
+2014-02-23,2.0,Washington Wizards,Cleveland Cavaliers,1,8-4,2,two point jumper,False,20,False,True
+2014-02-23,3.96666666667,Washington Wizards,Cleveland Cavaliers,1,8-10,-5,three point jumper,False,24,False,True
+2014-02-23,6.23333333333,Washington Wizards,Cleveland Cavaliers,1,15-13,0,two point shot,False,1,True,True
+2014-02-23,14.8,Washington Wizards,Cleveland Cavaliers,2,36-33,1,two point jumper,False,1,True,True
+2014-02-23,15.1166666667,Washington Wizards,Cleveland Cavaliers,2,36-35,-1,two point jumper,False,23,False,True
+2014-02-23,16.85,Washington Wizards,Cleveland Cavaliers,2,40-39,-1,two point jumper,False,19,True,True
+2014-02-23,18.0666666667,Washington Wizards,Cleveland Cavaliers,2,42-41,-1,two point jumper,False,19,False,True
+2014-02-23,20.5,Washington Wizards,Cleveland Cavaliers,2,46-47,-3,two point jumper,False,18,True,True
+2014-02-23,26.2,Washington Wizards,Cleveland Cavaliers,3,62-54,6,two point jumper,False,15,True,True
+2014-02-23,29.6666666667,Washington Wizards,Cleveland Cavaliers,3,66-63,1,two point jumper,False,19,False,True
+2014-02-23,36.3833333333,Washington Wizards,Cleveland Cavaliers,4,78-72,4,two point jumper,False,1,False,True
+2014-02-23,40.3166666667,Washington Wizards,Cleveland Cavaliers,4,85-76,8,free throw,False,15,True,True
+2014-02-23,40.3166666667,Washington Wizards,Cleveland Cavaliers,4,85-76,8,free throw,False,15,False,True
+2014-02-23,41.6,Washington Wizards,Cleveland Cavaliers,4,87-78,7,two point jumper,False,18,True,True
+2014-02-23,42.1,Washington Wizards,Cleveland Cavaliers,4,89-78,9,layup,False,0,True,True
+2014-10-30,3.21666666667,Washington Wizards,Detroit Pistons,1,7-6,-1,two point jumper,False,17,False,False
+2014-10-30,6.63333333333,Washington Wizards,Detroit Pistons,1,12-16,-6,two point jumper,False,17,False,False
+2014-10-30,7.06666666667,Washington Wizards,Detroit Pistons,1,14-16,-4,two point jumper,False,21,True,False
+2014-10-30,7.7,Washington Wizards,Detroit Pistons,1,14-16,-5,three point jumper,False,25,False,False
+2014-10-30,11.2666666667,Washington Wizards,Detroit Pistons,1,22-23,-4,three point jumper,False,27,False,False
+2014-10-30,12.3,Washington Wizards,Detroit Pistons,2,22-25,-5,two point shot,False,18,False,False
+2014-10-30,19.7833333333,Washington Wizards,Detroit Pistons,2,36-45,-12,three point jumper,False,24,True,False
+2014-10-30,22.1,Washington Wizards,Detroit Pistons,2,38-51,-15,two point jumper,False,17,False,False
+2014-10-30,29.2166666667,Washington Wizards,Detroit Pistons,3,55-65,-12,two point jumper,False,18,False,False
+2014-10-30,30.1333333333,Washington Wizards,Detroit Pistons,3,57-65,-10,layup,False,0,True,False
+2014-10-30,31.4166666667,Washington Wizards,Detroit Pistons,3,61-68,-9,two point jumper,False,21,True,False
+2014-10-30,32.45,Washington Wizards,Detroit Pistons,3,63-72,-11,layup,False,0,True,False
+2014-10-30,32.45,Washington Wizards,Detroit Pistons,3,64-72,-9,free throw,False,15,True,False
+2014-10-30,33.0833333333,Washington Wizards,Detroit Pistons,3,64-74,-12,layup,False,0,False,False
+2014-10-30,34.3333333333,Washington Wizards,Detroit Pistons,3,66-79,-16,three point jumper,False,27,False,False
+2014-10-30,35.9166666667,Washington Wizards,Detroit Pistons,3,72-81,-10,free throw,False,15,True,False
+2014-10-30,35.9166666667,Washington Wizards,Detroit Pistons,3,73-81,-9,free throw,False,15,True,False
+2014-10-30,41.6666666667,Washington Wizards,Detroit Pistons,4,87-94,-9,two point jumper,False,22,False,False
+2014-10-30,45.2166666667,Washington Wizards,Detroit Pistons,4,98-105,-10,three point jumper,False,23,True,False
+2014-10-30,46.7833333333,Washington Wizards,Detroit Pistons,4,100-107,-9,two point jumper,False,19,False,False
+2014-10-30,47.4166666667,Washington Wizards,Detroit Pistons,4,101-109,-11,three point jumper,False,27,False,False
+2014-12-28,1.81666666667,Washington Wizards,Detroit Pistons,1,2-4,0,two point jumper,True,22,False,False
+2014-12-28,5.1,Washington Wizards,Detroit Pistons,1,6-13,4,three point jumper,True,24,False,False
+2014-12-28,18.8833333333,Washington Wizards,Detroit Pistons,2,39-46,5,two point jumper,True,17,False,False
+2014-12-28,20.1166666667,Washington Wizards,Detroit Pistons,2,41-50,7,layup,True,0,True,False
+2014-12-28,21.4,Washington Wizards,Detroit Pistons,2,41-54,11,two point shot,True,16,True,False
+2014-12-28,22.0166666667,Washington Wizards,Detroit Pistons,2,41-57,13,three point jumper,True,23,True,False
+2014-12-28,22.6166666667,Washington Wizards,Detroit Pistons,2,41-60,16,three point jumper,True,23,True,False
+2014-12-28,23.4,Washington Wizards,Detroit Pistons,2,41-60,17,two point jumper,True,15,False,False
+2014-12-28,24.5,Washington Wizards,Detroit Pistons,3,43-65,19,three point jumper,True,26,True,False
+2014-12-28,26.3166666667,Washington Wizards,Detroit Pistons,3,47-68,19,two point jumper,True,22,False,False
+2014-12-28,27.7,Washington Wizards,Detroit Pistons,3,52-75,21,two point shot,True,1,True,False
+2014-12-28,29.2,Washington Wizards,Detroit Pistons,3,55-75,18,layup,True,0,False,False
+2014-12-30,2.83333333333,Washington Wizards,Detroit Pistons,1,7-7,-2,two point jumper,False,20,False,False
+2014-12-30,3.7,Washington Wizards,Detroit Pistons,1,7-11,-7,three point jumper,False,24,False,False
+2014-12-30,18.85,Washington Wizards,Detroit Pistons,2,44-49,-8,three point jumper,False,26,False,False
+2014-12-30,22.1333333333,Washington Wizards,Detroit Pistons,2,49-60,-13,two point jumper,False,1,False,False
+2014-12-30,23.3166666667,Washington Wizards,Detroit Pistons,2,51-60,-11,two point jumper,False,20,True,False
+2014-12-30,24.3333333333,Washington Wizards,Detroit Pistons,3,55-63,-10,two point jumper,False,21,True,False
+2014-12-30,25.8833333333,Washington Wizards,Detroit Pistons,3,58-63,-8,three point jumper,False,30,True,False
+2014-12-30,26.8166666667,Washington Wizards,Detroit Pistons,3,58-65,-9,two point jumper,False,1,False,False
+2014-12-30,28.35,Washington Wizards,Detroit Pistons,3,62-67,-7,two point jumper,False,20,True,False
+2014-12-30,28.95,Washington Wizards,Detroit Pistons,3,64-68,-6,two point jumper,False,19,True,False
+2014-12-30,30.9166666667,Washington Wizards,Detroit Pistons,3,66-72,-8,two point jumper,False,16,False,False
+2014-12-30,41.45,Washington Wizards,Detroit Pistons,4,91-89,-1,three point jumper,False,24,False,False
+2014-12-30,45.5833333333,Washington Wizards,Detroit Pistons,4,99-96,1,two point jumper,False,21,True,False
+2014-01-18,1.43333333333,Washington Wizards,Detroit Pistons,1,0-3,0,three point jumper,True,24,True,True
+2014-01-18,2.7,Washington Wizards,Detroit Pistons,1,5-5,-3,three point jumper,True,24,False,True
+2014-01-18,7.63333333333,Washington Wizards,Detroit Pistons,1,11-15,2,layup,True,0,False,True
+2014-01-18,12.3,Washington Wizards,Detroit Pistons,2,22-31,7,two point jumper,True,13,True,True
+2014-01-18,15.05,Washington Wizards,Detroit Pistons,2,27-33,5,free throw,True,15,True,True
+2014-01-18,17.4833333333,Washington Wizards,Detroit Pistons,2,35-34,-3,layup,True,0,False,True
+2014-01-18,18.3833333333,Washington Wizards,Detroit Pistons,2,40-36,-7,three point jumper,True,23,False,True
+2014-01-18,20.7,Washington Wizards,Detroit Pistons,2,43-45,1,free throw,True,15,True,True
+2014-01-18,20.7,Washington Wizards,Detroit Pistons,2,43-45,1,free throw,True,15,False,True
+2014-01-18,21.1166666667,Washington Wizards,Detroit Pistons,2,43-45,-1,three point jumper,True,25,False,True
+2014-01-18,26.8,Washington Wizards,Detroit Pistons,3,52-60,6,two point jumper,True,14,False,True
+2014-01-18,27.7,Washington Wizards,Detroit Pistons,3,52-60,5,three point jumper,True,26,False,True
+2014-01-18,40.9166666667,Washington Wizards,Detroit Pistons,4,88-83,-7,two point jumper,True,8,False,True
+2014-01-18,41.8166666667,Washington Wizards,Detroit Pistons,4,88-86,-5,three point jumper,True,26,False,True
+2014-01-18,44.2166666667,Washington Wizards,Detroit Pistons,4,95-90,-7,layup,True,0,False,True
+2014-01-18,47.8333333333,Washington Wizards,Detroit Pistons,4,104-98,-9,three point jumper,True,26,False,True
+2014-01-10,1.81666666667,Washington Wizards,Indiana Pacers,1,0-0,-2,two point jumper,False,18,False,False
+2014-01-10,2.86666666667,Washington Wizards,Indiana Pacers,1,6-2,1,three point jumper,False,23,True,False
+2014-01-10,3.96666666667,Washington Wizards,Indiana Pacers,1,6-4,0,two point jumper,False,18,False,False
+2014-01-10,6.88333333333,Washington Wizards,Indiana Pacers,1,8-12,-6,two point jumper,False,20,False,False
+2014-01-10,18.2,Washington Wizards,Indiana Pacers,2,26-31,-7,two point jumper,False,18,False,False
+2014-01-10,19.95,Washington Wizards,Indiana Pacers,2,31-34,-6,three point jumper,False,26,True,False
+2014-01-10,21.0666666667,Washington Wizards,Indiana Pacers,2,33-37,-6,two point shot,False,18,True,False
+2014-01-10,21.6833333333,Washington Wizards,Indiana Pacers,2,33-39,-8,two point jumper,False,21,False,False
+2014-01-10,23.2166666667,Washington Wizards,Indiana Pacers,2,37-43,-7,free throw,False,15,True,False
+2014-01-10,23.2166666667,Washington Wizards,Indiana Pacers,2,37-43,-7,free throw,False,15,False,False
+2014-01-10,23.45,Washington Wizards,Indiana Pacers,2,37-43,-8,layup,False,0,False,False
+2014-01-10,24.5666666667,Washington Wizards,Indiana Pacers,3,37-45,-10,two point jumper,False,18,False,False
+2014-01-10,26.45,Washington Wizards,Indiana Pacers,3,39-47,-10,two point jumper,False,16,False,False
+2014-01-10,27.2166666667,Washington Wizards,Indiana Pacers,3,39-48,-10,free throw,False,15,False,False
+2014-01-10,27.2166666667,Washington Wizards,Indiana Pacers,3,40-48,-9,free throw,False,15,True,False
+2014-01-10,35.1833333333,Washington Wizards,Indiana Pacers,3,49-65,-18,two point jumper,False,17,False,False
+2014-01-10,37.0833333333,Washington Wizards,Indiana Pacers,4,53-67,-16,two point jumper,False,21,True,False
+2014-01-10,37.6333333333,Washington Wizards,Indiana Pacers,4,55-67,-14,two point shot,False,15,True,False
+2014-01-10,38.8666666667,Washington Wizards,Indiana Pacers,4,57-69,-14,two point jumper,False,19,False,False
+2014-01-10,41.1333333333,Washington Wizards,Indiana Pacers,4,62-76,-17,three point jumper,False,25,True,False
+2014-01-10,44.0,Washington Wizards,Indiana Pacers,4,64-83,-22,three point jumper,False,26,False,False
+2014-11-12,2.31666666667,Washington Wizards,Dallas Mavericks,1,5-6,-2,free throw,False,15,True,True
+2014-11-12,2.31666666667,Washington Wizards,Dallas Mavericks,1,6-6,-1,free throw,False,15,True,True
+2014-11-12,4.98333333333,Washington Wizards,Dallas Mavericks,1,16-9,6,free throw,False,15,True,True
+2014-11-12,4.98333333333,Washington Wizards,Dallas Mavericks,1,16-9,6,free throw,False,15,False,True
+2014-11-12,8.21666666667,Washington Wizards,Dallas Mavericks,1,26-19,5,two point jumper,False,22,False,True
+2014-11-12,9.55,Washington Wizards,Dallas Mavericks,1,27-23,2,two point jumper,False,14,False,True
+2014-11-12,10.0333333333,Washington Wizards,Dallas Mavericks,1,29-23,4,two point shot,False,5,True,True
+2014-11-12,11.4833333333,Washington Wizards,Dallas Mavericks,1,32-32,-2,two point jumper,False,20,False,True
+2014-11-12,18.35,Washington Wizards,Dallas Mavericks,2,38-49,-14,three point jumper,False,25,False,True
+2014-11-12,19.4166666667,Washington Wizards,Dallas Mavericks,2,41-49,-10,two point shot,False,26,False,True
+2014-11-12,24.3166666667,Washington Wizards,Dallas Mavericks,3,51-61,-12,two point shot,False,18,True,True
+2014-11-12,28.9166666667,Washington Wizards,Dallas Mavericks,3,59-71,-14,two point jumper,False,18,False,True
+2014-11-12,32.15,Washington Wizards,Dallas Mavericks,3,70-78,-9,free throw,False,15,True,True
+2014-11-12,32.15,Washington Wizards,Dallas Mavericks,3,71-78,-8,free throw,False,15,True,True
+2014-11-12,37.95,Washington Wizards,Dallas Mavericks,4,81-88,-9,two point jumper,False,17,False,True
+2014-01-01,1.8,Washington Wizards,Dallas Mavericks,1,0-2,0,two point jumper,True,18,False,False
+2014-01-01,4.21666666667,Washington Wizards,Dallas Mavericks,1,3-11,6,two point shot,True,1,True,False
+2014-01-01,18.7833333333,Washington Wizards,Dallas Mavericks,2,35-32,-6,three point jumper,True,24,True,False
+2014-01-01,19.8833333333,Washington Wizards,Dallas Mavericks,2,35-34,-3,layup,True,0,False,False
+2014-01-01,24.7166666667,Washington Wizards,Dallas Mavericks,3,39-44,2,three point jumper,True,26,False,False
+2014-01-01,28.35,Washington Wizards,Dallas Mavericks,3,43-51,6,two point jumper,True,11,True,False
+2014-01-01,28.95,Washington Wizards,Dallas Mavericks,3,46-51,2,three point jumper,True,24,False,False
+2014-01-01,29.4166666667,Washington Wizards,Dallas Mavericks,3,48-51,1,two point jumper,True,21,False,False
+2014-01-01,30.3166666667,Washington Wizards,Dallas Mavericks,3,48-55,6,free throw,True,15,False,False
+2014-01-01,41.4833333333,Washington Wizards,Dallas Mavericks,4,68-70,-1,three point jumper,True,26,True,False
+2014-01-01,43.5666666667,Washington Wizards,Dallas Mavericks,4,73-74,-1,two point jumper,True,5,False,False
+2014-01-01,47.8166666667,Washington Wizards,Dallas Mavericks,4,83-78,-8,three point jumper,True,26,False,False
+2014-01-11,0.266666666667,Washington Wizards,Houston Rockets,1,0-2,0,two point jumper,True,21,True,False
+2014-01-11,1.05,Washington Wizards,Houston Rockets,1,0-2,0,two point jumper,True,19,False,False
+2014-01-11,6.16666666667,Washington Wizards,Houston Rockets,1,14-15,-1,two point jumper,True,18,True,False
+2014-01-11,15.2,Washington Wizards,Houston Rockets,2,36-33,-5,two point jumper,True,1,True,False
+2014-01-11,16.6333333333,Washington Wizards,Houston Rockets,2,41-35,-8,two point jumper,True,21,False,False
+2014-01-11,17.45,Washington Wizards,Houston Rockets,2,43-35,-10,two point jumper,True,17,False,False
+2014-01-11,18.2833333333,Washington Wizards,Houston Rockets,2,45-38,-10,three point jumper,True,23,False,False
+2014-01-11,19.5666666667,Washington Wizards,Houston Rockets,2,50-40,-12,two point jumper,True,17,False,False
+2014-01-11,20.85,Washington Wizards,Houston Rockets,2,54-42,-14,two point jumper,True,17,True,False
+2014-01-11,22.2666666667,Washington Wizards,Houston Rockets,2,61-42,-22,three point jumper,True,26,False,False
+2014-01-11,25.1833333333,Washington Wizards,Houston Rockets,3,68-48,-22,two point jumper,True,20,False,False
+2014-01-11,28.85,Washington Wizards,Houston Rockets,3,80-58,-23,free throw,True,15,True,False
+2014-01-11,28.85,Washington Wizards,Houston Rockets,3,80-59,-22,free throw,True,15,True,False
+2014-01-11,29.7833333333,Washington Wizards,Houston Rockets,3,82-59,-25,two point jumper,True,19,False,False
+2014-01-11,45.3166666667,Washington Wizards,Houston Rockets,4,100-102,0,two point jumper,True,19,False,False
+2014-01-11,47.5333333333,Washington Wizards,Houston Rockets,4,108-103,-8,three point jumper,True,24,False,False
+2014-01-11,47.6833333333,Washington Wizards,Houston Rockets,4,110-104,-7,free throw,True,15,True,False
+2014-01-11,47.6833333333,Washington Wizards,Houston Rockets,4,110-105,-6,free throw,True,15,True,False
+2014-01-11,47.6833333333,Washington Wizards,Houston Rockets,4,110-106,-5,free throw,True,15,True,False
+2014-01-11,47.9333333333,Washington Wizards,Houston Rockets,4,114-106,-11,three point jumper,True,27,False,False
+2014-02-12,0.633333333333,Washington Wizards,Houston Rockets,1,0-2,-4,two point jumper,False,18,False,False
+2014-02-12,1.51666666667,Washington Wizards,Houston Rockets,1,0-7,-10,three point jumper,False,25,False,False
+2014-02-12,4.1,Washington Wizards,Houston Rockets,1,8-17,-12,three point jumper,False,23,True,False
+2014-02-12,12.4333333333,Washington Wizards,Houston Rockets,2,28-38,-12,layup,False,0,True,False
+2014-02-12,14.75,Washington Wizards,Houston Rockets,2,34-40,-8,two point shot,False,17,False,False
+2014-02-12,15.1333333333,Washington Wizards,Houston Rockets,2,34-40,-8,layup,False,0,False,False
+2014-02-12,16.8833333333,Washington Wizards,Houston Rockets,2,38-42,-6,two point jumper,False,17,False,False
+2014-02-12,18.1666666667,Washington Wizards,Houston Rockets,2,46-45,-2,three point jumper,False,25,True,False
+2014-02-12,20.45,Washington Wizards,Houston Rockets,2,46-49,-6,three point jumper,False,25,False,False
+2014-02-12,21.0,Washington Wizards,Houston Rockets,2,46-49,-6,three point jumper,False,24,False,False
+2014-02-12,24.0,Washington Wizards,Houston Rockets,2,54-63,-12,three point jumper,False,37,False,False
+2014-02-12,24.3666666667,Washington Wizards,Houston Rockets,3,54-63,-11,two point jumper,False,17,False,False
+2014-02-12,25.75,Washington Wizards,Houston Rockets,3,59-67,-10,two point shot,False,1,True,False
+2014-02-12,27.0666666667,Washington Wizards,Houston Rockets,3,65-70,-8,three point jumper,False,25,True,False
+2014-02-12,28.0666666667,Washington Wizards,Houston Rockets,3,65-72,-9,two point jumper,False,17,False,False
+2014-02-12,29.0,Washington Wizards,Houston Rockets,3,65-74,-12,three point jumper,False,23,False,False
+2014-02-12,38.8166666667,Washington Wizards,Houston Rockets,4,92-97,-7,two point shot,False,21,True,False
+2014-02-12,39.3,Washington Wizards,Houston Rockets,4,94-97,-5,two point jumper,False,5,True,False
+2014-02-12,42.5333333333,Washington Wizards,Houston Rockets,4,98-101,-5,unknown,False,12,False,False
+2014-02-12,43.4166666667,Washington Wizards,Houston Rockets,4,98-104,-8,two point jumper,False,5,False,False
+2014-02-12,44.1,Washington Wizards,Houston Rockets,4,103-105,-5,three point jumper,False,25,True,False
+2014-02-12,45.2166666667,Washington Wizards,Houston Rockets,4,105-108,-6,three point jumper,False,26,False,False
+2014-02-11,1.75,Washington Wizards,Memphis Grizzlies,1,2-4,-4,two point jumper,False,20,True,False
+2014-02-11,3.2,Washington Wizards,Memphis Grizzlies,1,6-6,-2,two point jumper,False,14,True,False
+2014-02-11,4.35,Washington Wizards,Memphis Grizzlies,1,11-10,-2,three point jumper,False,24,True,False
+2014-02-11,5.45,Washington Wizards,Memphis Grizzlies,1,13-10,1,two point shot,False,14,True,False
+2014-02-11,12.5,Washington Wizards,Memphis Grizzlies,2,25-24,-1,layup,False,0,True,False
+2014-02-11,14.9666666667,Washington Wizards,Memphis Grizzlies,2,25-28,-5,two point jumper,False,21,False,False
+2014-02-11,16.0666666667,Washington Wizards,Memphis Grizzlies,2,25-28,-5,two point jumper,False,9,False,False
+2014-02-11,16.2833333333,Washington Wizards,Memphis Grizzlies,2,28-28,-3,three point jumper,False,24,True,False
+2014-02-11,20.25,Washington Wizards,Memphis Grizzlies,2,33-40,-10,three point jumper,False,23,True,False
+2014-02-11,22.4333333333,Washington Wizards,Memphis Grizzlies,2,39-48,-11,two point shot,False,21,True,False
+2014-02-11,27.8,Washington Wizards,Memphis Grizzlies,3,48-64,-18,two point jumper,False,23,False,False
+2014-02-11,29.35,Washington Wizards,Memphis Grizzlies,3,54-64,-13,three point jumper,False,29,True,False
+2014-02-11,29.95,Washington Wizards,Memphis Grizzlies,3,56-66,-12,two point shot,False,21,True,False
+2014-02-11,30.7,Washington Wizards,Memphis Grizzlies,3,59-66,-10,three point jumper,False,24,True,False
+2014-02-11,36.25,Washington Wizards,Memphis Grizzlies,4,72-79,-9,two point jumper,False,22,True,False
+2014-02-11,36.7,Washington Wizards,Memphis Grizzlies,4,73-79,-7,free throw,False,15,True,False
+2014-02-11,36.7,Washington Wizards,Memphis Grizzlies,4,74-79,-6,free throw,False,15,True,False
+2014-02-11,37.2166666667,Washington Wizards,Memphis Grizzlies,4,74-79,-7,two point jumper,False,11,False,False
+2014-02-11,39.1166666667,Washington Wizards,Memphis Grizzlies,4,78-80,-4,two point shot,False,19,True,False
+2014-02-11,41.1,Washington Wizards,Memphis Grizzlies,4,80-80,-2,two point jumper,False,1,True,False
+2014-02-11,41.6333333333,Washington Wizards,Memphis Grizzlies,4,80-80,-3,three point jumper,False,24,False,False
+2014-02-11,43.2833333333,Washington Wizards,Memphis Grizzlies,4,82-82,-2,two point shot,False,10,False,False
+2014-02-11,44.3166666667,Washington Wizards,Memphis Grizzlies,4,84-87,-5,two point shot,False,2,True,False
+2014-02-11,45.85,Washington Wizards,Memphis Grizzlies,4,84-87,-5,two point jumper,False,19,False,False
+2014-02-11,46.4833333333,Washington Wizards,Memphis Grizzlies,4,84-89,-8,three point jumper,False,24,False,False
+2014-02-11,47.8,Washington Wizards,Memphis Grizzlies,4,89-91,-4,two point jumper,False,21,False,False
+2014-01-08,1.58333333333,Washington Wizards,New Orleans Pelicans,1,4-0,2,two point jumper,False,22,True,False
+2014-01-08,2.11666666667,Washington Wizards,New Orleans Pelicans,1,6-2,2,two point jumper,False,14,True,False
+2014-01-08,5.21666666667,Washington Wizards,New Orleans Pelicans,1,12-13,-3,two point jumper,False,21,False,False
+2014-01-08,27.3833333333,Washington Wizards,New Orleans Pelicans,3,63-52,9,two point jumper,False,18,True,False
+2014-01-08,27.95,Washington Wizards,New Orleans Pelicans,3,66-52,11,three point jumper,False,23,True,False
+2014-01-08,28.9166666667,Washington Wizards,New Orleans Pelicans,3,69-52,14,three point jumper,False,26,True,False
+2014-01-08,30.0333333333,Washington Wizards,New Orleans Pelicans,3,75-54,18,three point jumper,False,26,True,False
+2014-01-08,40.35,Washington Wizards,New Orleans Pelicans,4,91-72,16,three point jumper,False,26,False,False
+2014-01-08,41.0666666667,Washington Wizards,New Orleans Pelicans,4,91-72,17,two point jumper,False,15,False,False
+2014-01-08,43.8833333333,Washington Wizards,New Orleans Pelicans,4,91-77,11,three point jumper,False,23,False,False
+2014-01-08,44.35,Washington Wizards,New Orleans Pelicans,4,91-80,9,two point jumper,False,14,False,False
+2014-01-08,45.0,Washington Wizards,New Orleans Pelicans,4,93-84,7,two point jumper,False,18,False,False
+2014-01-08,47.4333333333,Washington Wizards,New Orleans Pelicans,4,99-91,7,free throw,False,15,True,False
+2014-01-08,47.4333333333,Washington Wizards,New Orleans Pelicans,4,100-91,8,free throw,False,15,True,False
+2014-01-08,47.9,Washington Wizards,New Orleans Pelicans,4,102-96,5,free throw,False,15,False,False
+2014-01-08,47.9,Washington Wizards,New Orleans Pelicans,4,102-96,5,free throw,False,15,False,False
+2014-02-22,6.28333333333,Washington Wizards,New Orleans Pelicans,1,12-16,1,three point jumper,True,23,False,True
+2014-02-22,13.9666666667,Washington Wizards,New Orleans Pelicans,2,21-28,5,two point shot,True,16,True,True
+2014-02-22,14.5666666667,Washington Wizards,New Orleans Pelicans,2,23-28,3,two point jumper,True,16,False,True
+2014-02-22,15.3333333333,Washington Wizards,New Orleans Pelicans,2,23-28,3,two point jumper,True,14,False,True
+2014-02-22,15.8333333333,Washington Wizards,New Orleans Pelicans,2,25-29,3,free throw,True,15,True,True
+2014-02-22,16.7,Washington Wizards,New Orleans Pelicans,2,27-31,2,two point jumper,True,16,True,True
+2014-02-22,18.2,Washington Wizards,New Orleans Pelicans,2,31-33,0,two point jumper,True,18,False,True
+2014-02-22,18.7333333333,Washington Wizards,New Orleans Pelicans,2,32-33,-2,three point jumper,True,27,False,True
+2014-02-22,26.7166666667,Washington Wizards,New Orleans Pelicans,3,50-45,-8,three point jumper,True,23,False,True
+2014-02-22,29.1333333333,Washington Wizards,New Orleans Pelicans,3,52-49,-6,three point jumper,True,26,False,True
+2014-02-22,36.25,Washington Wizards,New Orleans Pelicans,4,66-66,-2,two point jumper,True,19,False,True
+2014-02-22,36.8833333333,Washington Wizards,New Orleans Pelicans,4,69-67,-3,free throw,True,15,True,True
+2014-02-22,36.8833333333,Washington Wizards,New Orleans Pelicans,4,69-68,-2,free throw,True,15,True,True
+2014-02-22,38.4,Washington Wizards,New Orleans Pelicans,4,74-73,-3,two point shot,True,19,True,True
+2014-02-22,40.6333333333,Washington Wizards,New Orleans Pelicans,4,81-80,-3,two point shot,True,1,True,True
+2014-02-22,44.5666666667,Washington Wizards,New Orleans Pelicans,4,89-85,-7,three point jumper,True,26,False,True
+2014-11-13,2.38333333333,Washington Wizards,San Antonio Spurs,1,3-8,-8,three point jumper,False,25,True,False
+2014-11-13,5.13333333333,Washington Wizards,San Antonio Spurs,1,3-14,-13,two point jumper,False,1,False,False
+2014-11-13,6.78333333333,Washington Wizards,San Antonio Spurs,1,7-16,-11,two point jumper,False,16,True,False
+2014-11-13,7.45,Washington Wizards,San Antonio Spurs,1,8-16,-10,two point jumper,False,18,False,False
+2014-11-13,8.26666666667,Washington Wizards,San Antonio Spurs,1,8-18,-12,two point jumper,False,16,False,False
+2014-11-13,10.6166666667,Washington Wizards,San Antonio Spurs,1,12-20,-11,three point jumper,False,23,False,False
+2014-11-13,11.95,Washington Wizards,San Antonio Spurs,1,17-25,-11,three point jumper,False,25,False,False
+2014-11-13,19.75,Washington Wizards,San Antonio Spurs,2,30-45,-17,layup,False,0,True,False
+2014-11-13,23.8666666667,Washington Wizards,San Antonio Spurs,2,42-52,-12,two point shot,False,18,True,False
+2014-11-13,25.95,Washington Wizards,San Antonio Spurs,3,44-54,-12,two point shot,False,7,True,False
+2014-11-13,27.5,Washington Wizards,San Antonio Spurs,3,48-56,-10,two point shot,False,17,True,False
+2014-11-13,29.1666666667,Washington Wizards,San Antonio Spurs,3,51-58,-9,two point jumper,False,20,False,False
+2014-11-13,31.1,Washington Wizards,San Antonio Spurs,3,55-60,-7,two point shot,False,20,True,False
+2014-11-13,32.2333333333,Washington Wizards,San Antonio Spurs,3,55-60,-7,two point jumper,False,1,False,False
+2014-11-13,35.8166666667,Washington Wizards,San Antonio Spurs,3,57-70,-15,two point jumper,False,1,False,False
+2014-11-13,36.65,Washington Wizards,San Antonio Spurs,4,57-70,-15,two point jumper,False,21,False,False
+2014-11-13,42.7833333333,Washington Wizards,San Antonio Spurs,4,64-89,-27,two point jumper,False,20,False,False
+2014-11-13,43.35,Washington Wizards,San Antonio Spurs,4,66-89,-25,layup,False,0,True,False
+2014-11-13,43.8166666667,Washington Wizards,San Antonio Spurs,4,68-89,-23,two point shot,False,18,True,False
+2014-02-05,3.63333333333,Washington Wizards,San Antonio Spurs,1,8-4,-6,two point jumper,True,1,False,False
+2014-02-05,7.2,Washington Wizards,San Antonio Spurs,1,12-17,3,layup,True,0,True,False
+2014-02-05,12.45,Washington Wizards,San Antonio Spurs,2,25-35,8,two point shot,True,21,True,False
+2014-02-05,14.3833333333,Washington Wizards,San Antonio Spurs,2,27-37,8,two point jumper,True,14,False,False
+2014-02-05,20.0166666667,Washington Wizards,San Antonio Spurs,2,38-55,15,two point shot,True,1,True,False
+2014-02-05,21.0666666667,Washington Wizards,San Antonio Spurs,2,41-55,11,three point jumper,True,24,False,False
+2014-02-05,21.5833333333,Washington Wizards,San Antonio Spurs,2,41-56,14,free throw,True,15,True,False
+2014-02-05,21.5833333333,Washington Wizards,San Antonio Spurs,2,41-57,15,free throw,True,15,True,False
+2014-02-05,22.4333333333,Washington Wizards,San Antonio Spurs,2,43-58,14,free throw,True,15,True,False
+2014-02-05,22.4333333333,Washington Wizards,San Antonio Spurs,2,43-59,15,free throw,True,15,True,False
+2014-02-05,24.95,Washington Wizards,San Antonio Spurs,3,52-62,8,two point jumper,True,17,False,False
+2014-02-05,25.95,Washington Wizards,San Antonio Spurs,3,57-64,5,two point jumper,True,16,True,False
+2014-02-05,26.4666666667,Washington Wizards,San Antonio Spurs,3,57-66,7,two point shot,True,8,True,False
+2014-02-05,27.5,Washington Wizards,San Antonio Spurs,3,57-66,7,layup,True,0,False,False
+2014-02-05,36.2666666667,Washington Wizards,San Antonio Spurs,4,82-85,1,two point shot,True,1,True,False
+2014-02-05,37.1333333333,Washington Wizards,San Antonio Spurs,4,82-87,3,two point shot,True,19,True,False
+2014-02-05,37.8166666667,Washington Wizards,San Antonio Spurs,4,84-87,1,two point jumper,True,5,False,False
+2014-02-05,39.9666666667,Washington Wizards,San Antonio Spurs,4,87-91,3,free throw,True,15,False,False
+2014-02-05,39.9666666667,Washington Wizards,San Antonio Spurs,4,87-92,4,free throw,True,15,True,False
+2014-02-05,47.1,Washington Wizards,San Antonio Spurs,4,99-99,-2,two point jumper,True,13,False,False
+2014-02-19,4.78333333333,Washington Wizards,Atlanta Hawks,1,11-6,2,three point jumper,False,24,False,False
+2014-02-19,5.45,Washington Wizards,Atlanta Hawks,1,15-8,5,two point jumper,False,22,True,False
+2014-02-19,14.45,Washington Wizards,Atlanta Hawks,2,35-19,14,two point jumper,False,17,False,False
+2014-02-19,14.5666666667,Washington Wizards,Atlanta Hawks,2,37-19,16,layup,False,0,True,False
+2014-02-19,14.5666666667,Washington Wizards,Atlanta Hawks,2,38-19,18,free throw,False,15,True,False
+2014-02-19,14.9333333333,Washington Wizards,Atlanta Hawks,2,38-21,15,two point jumper,False,21,False,False
+2014-02-19,15.8833333333,Washington Wizards,Atlanta Hawks,2,39-25,13,free throw,False,15,True,False
+2014-02-19,15.8833333333,Washington Wizards,Atlanta Hawks,2,40-25,14,free throw,False,15,True,False
+2014-02-19,16.6333333333,Washington Wizards,Atlanta Hawks,2,43-28,12,three point jumper,False,25,True,False
+2014-02-19,17.6666666667,Washington Wizards,Atlanta Hawks,2,48-28,17,three point jumper,False,23,True,False
+2014-02-19,18.3166666667,Washington Wizards,Atlanta Hawks,2,50-30,18,two point jumper,False,20,True,False
+2014-02-19,21.9,Washington Wizards,Atlanta Hawks,2,54-37,14,three point jumper,False,24,False,False
+2014-02-19,24.95,Washington Wizards,Atlanta Hawks,3,58-50,6,two point jumper,False,20,False,False
+2014-02-19,25.8833333333,Washington Wizards,Atlanta Hawks,3,62-52,8,two point jumper,False,16,True,False
+2014-02-19,39.4,Washington Wizards,Atlanta Hawks,4,96-91,3,two point jumper,False,10,False,False
+2014-02-19,39.95,Washington Wizards,Atlanta Hawks,4,96-91,3,two point jumper,False,21,False,False
+2014-02-19,40.35,Washington Wizards,Atlanta Hawks,4,98-91,5,two point shot,False,1,True,False
+2014-02-19,45.55,Washington Wizards,Atlanta Hawks,4,109-95,12,two point jumper,False,20,False,False
+2014-01-07,2.13333333333,Washington Wizards,Charlotte Bobcats,1,0-4,-7,three point jumper,False,25,False,True
+2014-01-07,3.25,Washington Wizards,Charlotte Bobcats,1,4-6,-5,three point jumper,False,26,False,True
+2014-01-07,5.03333333333,Washington Wizards,Charlotte Bobcats,1,8-10,-4,two point jumper,False,17,True,True
+2014-01-07,5.6,Washington Wizards,Charlotte Bobcats,1,10-10,-2,layup,False,0,True,True
+2014-01-07,17.5666666667,Washington Wizards,Charlotte Bobcats,2,28-28,-2,two point jumper,False,17,False,True
+2014-01-07,19.2,Washington Wizards,Charlotte Bobcats,2,34-30,2,two point jumper,False,16,True,True
+2014-01-07,20.2666666667,Washington Wizards,Charlotte Bobcats,2,36-32,2,two point jumper,False,19,True,True
+2014-01-07,20.8666666667,Washington Wizards,Charlotte Bobcats,2,36-34,0,two point jumper,False,17,False,True
+2014-01-07,22.3666666667,Washington Wizards,Charlotte Bobcats,2,36-37,-3,two point jumper,False,17,False,True
+2014-01-07,24.7,Washington Wizards,Charlotte Bobcats,3,43-41,0,two point jumper,False,17,False,True
+2014-01-07,25.3166666667,Washington Wizards,Charlotte Bobcats,3,45-41,2,layup,False,0,True,True
+2014-01-07,31.7333333333,Washington Wizards,Charlotte Bobcats,3,64-45,17,two point jumper,False,19,True,True
+2014-01-07,41.95,Washington Wizards,Charlotte Bobcats,4,79-65,12,two point jumper,False,18,True,True
+2014-01-07,42.9166666667,Washington Wizards,Charlotte Bobcats,4,81-67,12,two point jumper,False,1,False,True
+2014-01-07,44.0833333333,Washington Wizards,Charlotte Bobcats,4,85-72,11,two point jumper,False,18,True,True
+2014-01-07,44.65,Washington Wizards,Charlotte Bobcats,4,88-73,12,three point jumper,False,26,True,True
+2014-01-07,45.1666666667,Washington Wizards,Charlotte Bobcats,4,88-75,11,two point jumper,False,17,False,True
+2014-01-07,46.0,Washington Wizards,Charlotte Bobcats,4,90-81,7,two point jumper,False,16,True,True
+2014-11-03,1.31666666667,Washington Wizards,Miami Heat,1,9-2,4,three point jumper,False,24,True,True
+2014-11-03,6.2,Washington Wizards,Miami Heat,1,13-18,-7,two point jumper,False,17,False,True
+2014-11-03,8.03333333333,Washington Wizards,Miami Heat,1,22-24,-5,three point jumper,False,25,True,True
+2014-11-03,14.6333333333,Washington Wizards,Miami Heat,2,32-35,-5,two point shot,False,1,True,True
+2014-11-03,16.8833333333,Washington Wizards,Miami Heat,2,34-41,-10,three point jumper,False,24,False,True
+2014-11-03,21.9833333333,Washington Wizards,Miami Heat,2,42-55,-15,two point jumper,False,20,False,True
+2014-11-03,25.4333333333,Washington Wizards,Miami Heat,3,48-61,-16,three point jumper,False,26,False,True
+2014-11-03,26.5666666667,Washington Wizards,Miami Heat,3,48-64,-17,free throw,False,15,False,True
+2014-11-03,26.5666666667,Washington Wizards,Miami Heat,3,49-64,-16,free throw,False,15,True,True
+2014-11-03,28.5333333333,Washington Wizards,Miami Heat,3,54-66,-15,three point jumper,False,24,True,True
+2014-11-03,28.95,Washington Wizards,Miami Heat,3,54-66,-15,three point jumper,False,26,False,True
+2014-11-03,30.25,Washington Wizards,Miami Heat,3,57-69,-15,three point jumper,False,24,True,True
+2014-11-03,34.35,Washington Wizards,Miami Heat,3,60-82,-23,free throw,False,15,True,True
+2014-11-03,34.35,Washington Wizards,Miami Heat,3,61-82,-22,free throw,False,15,True,True
+2014-11-03,35.6166666667,Washington Wizards,Miami Heat,3,64-84,-23,three point jumper,False,26,False,True
+2014-11-03,36.2,Washington Wizards,Miami Heat,4,64-87,-24,free throw,False,15,False,True
+2014-11-03,36.4666666667,Washington Wizards,Miami Heat,4,64-87,-25,two point jumper,False,22,False,True
+2014-11-03,47.3166666667,Washington Wizards,Miami Heat,4,93-100,-9,layup,False,0,True,True
+2014-11-03,47.3166666667,Washington Wizards,Miami Heat,4,93-100,-8,free throw,False,15,False,True
+2014-01-15,1.51666666667,Washington Wizards,Miami Heat,1,2-7,2,three point jumper,True,26,True,False
+2014-01-15,4.6,Washington Wizards,Miami Heat,1,10-14,1,three point jumper,True,24,True,False
+2014-01-15,6.16666666667,Washington Wizards,Miami Heat,1,12-18,4,layup,True,0,True,False
+2014-01-15,7.56666666667,Washington Wizards,Miami Heat,1,12-22,8,layup,True,0,True,False
+2014-01-15,16.6,Washington Wizards,Miami Heat,2,26-53,24,three point jumper,True,23,False,False
+2014-01-15,17.95,Washington Wizards,Miami Heat,2,26-57,30,free throw,True,15,True,False
+2014-01-15,17.95,Washington Wizards,Miami Heat,2,26-58,31,free throw,True,15,True,False
+2014-01-15,25.3833333333,Washington Wizards,Miami Heat,3,48-73,23,two point shot,True,16,True,False
+2014-01-15,26.4333333333,Washington Wizards,Miami Heat,3,51-73,20,two point jumper,True,13,False,False
+2014-01-15,29.3166666667,Washington Wizards,Miami Heat,3,53-80,24,three point jumper,True,23,False,False
+2014-01-15,29.7833333333,Washington Wizards,Miami Heat,3,56-80,22,two point jumper,True,17,False,False
+2014-01-15,36.3166666667,Washington Wizards,Miami Heat,4,77-88,9,two point shot,True,19,True,False
+2014-01-15,36.3166666667,Washington Wizards,Miami Heat,4,77-89,11,free throw,True,15,True,False
+2014-01-15,37.7666666667,Washington Wizards,Miami Heat,4,81-92,9,two point jumper,True,22,False,False
+2014-01-15,41.6666666667,Washington Wizards,Miami Heat,4,86-97,8,three point jumper,True,26,False,False
+2014-01-15,42.95,Washington Wizards,Miami Heat,4,88-99,9,two point shot,True,1,True,False
+2014-02-25,4.53333333333,Washington Wizards,Orlando Magic,1,9-11,0,layup,True,0,False,True
+2014-02-25,12.95,Washington Wizards,Orlando Magic,2,31-37,4,two point jumper,True,11,False,True
+2014-02-25,15.6833333333,Washington Wizards,Orlando Magic,2,34-47,11,two point shot,True,1,True,True
+2014-02-25,15.6833333333,Washington Wizards,Orlando Magic,2,34-47,12,free throw,True,15,False,True
+2014-02-25,16.6666666667,Washington Wizards,Orlando Magic,2,37-49,10,two point jumper,True,15,True,True
+2014-02-25,17.25,Washington Wizards,Orlando Magic,2,39-49,8,two point jumper,True,14,False,True
+2014-02-25,18.75,Washington Wizards,Orlando Magic,2,41-51,8,two point jumper,True,17,False,True
+2014-02-25,19.6666666667,Washington Wizards,Orlando Magic,2,41-54,12,free throw,True,15,True,True
+2014-02-25,19.6666666667,Washington Wizards,Orlando Magic,2,41-54,12,free throw,True,15,False,True
+2014-02-25,19.6666666667,Washington Wizards,Orlando Magic,2,41-55,13,free throw,True,15,True,True
+2014-02-25,24.2666666667,Washington Wizards,Orlando Magic,3,53-64,9,two point jumper,True,14,True,True
+2014-02-25,26.7166666667,Washington Wizards,Orlando Magic,3,58-69,9,two point jumper,True,17,False,True
+2014-02-25,29.2833333333,Washington Wizards,Orlando Magic,3,66-76,8,two point shot,True,8,True,True
+2014-02-25,30.8166666667,Washington Wizards,Orlando Magic,3,69-84,12,three point jumper,True,23,True,True
+2014-02-25,38.4333333333,Washington Wizards,Orlando Magic,4,84-97,11,two point shot,True,19,True,True
+2014-02-25,42.0666666667,Washington Wizards,Orlando Magic,4,90-100,8,two point jumper,True,16,False,True
+2014-02-25,42.5666666667,Washington Wizards,Orlando Magic,4,92-102,8,two point jumper,True,3,True,True
+2014-02-25,42.5666666667,Washington Wizards,Orlando Magic,4,92-103,10,free throw,True,15,True,True
+2014-02-25,47.2666666667,Washington Wizards,Orlando Magic,4,104-113,8,free throw,True,15,True,True
+2014-02-25,47.2666666667,Washington Wizards,Orlando Magic,4,104-114,9,free throw,True,15,True,True
+2014-02-25,47.4833333333,Washington Wizards,Orlando Magic,4,106-115,8,free throw,True,15,True,True
+2014-02-25,47.4833333333,Washington Wizards,Orlando Magic,4,106-115,8,free throw,True,15,False,True
+2014-11-10,4.35,Washington Wizards,Oklahoma City Thunder,1,10-7,1,two point shot,False,17,True,False
+2014-11-10,6.16666666667,Washington Wizards,Oklahoma City Thunder,1,15-16,-4,three point jumper,False,23,True,False
+2014-11-10,7.48333333333,Washington Wizards,Oklahoma City Thunder,1,19-18,-1,layup,False,0,True,False
+2014-11-10,8.7,Washington Wizards,Oklahoma City Thunder,1,22-20,0,two point shot,False,16,True,False
+2014-11-10,9.9,Washington Wizards,Oklahoma City Thunder,1,23-22,0,free throw,False,15,True,False
+2014-11-10,9.9,Washington Wizards,Oklahoma City Thunder,1,24-22,1,free throw,False,15,True,False
+2014-11-10,11.5666666667,Washington Wizards,Oklahoma City Thunder,1,24-27,-5,two point jumper,False,23,False,False
+2014-11-10,12.0,Washington Wizards,Oklahoma City Thunder,1,24-27,-5,two point jumper,False,23,False,False
+2014-11-10,12.7166666667,Washington Wizards,Oklahoma City Thunder,2,24-27,-6,three point jumper,False,23,False,False
+2014-11-10,23.2,Washington Wizards,Oklahoma City Thunder,2,39-37,0,two point jumper,False,18,False,False
+2014-11-10,25.75,Washington Wizards,Oklahoma City Thunder,3,43-41,0,two point jumper,False,19,False,False
+2014-11-10,27.9333333333,Washington Wizards,Oklahoma City Thunder,3,49-44,2,three point jumper,False,23,True,False
+2014-11-10,28.6666666667,Washington Wizards,Oklahoma City Thunder,3,52-46,3,three point jumper,False,25,True,False
+2014-11-10,32.5833333333,Washington Wizards,Oklahoma City Thunder,3,62-55,4,three point jumper,False,25,True,False
+2014-11-10,34.6,Washington Wizards,Oklahoma City Thunder,3,68-59,7,two point jumper,False,18,True,False
+2014-11-10,37.3166666667,Washington Wizards,Oklahoma City Thunder,4,77-69,6,two point shot,False,16,True,False
+2014-11-10,38.3833333333,Washington Wizards,Oklahoma City Thunder,4,81-71,7,three point jumper,False,24,True,False
+2014-11-10,41.7833333333,Washington Wizards,Oklahoma City Thunder,4,85-76,6,three point jumper,False,25,False,False
+2014-11-10,47.1666666667,Washington Wizards,Oklahoma City Thunder,4,94-91,1,two point jumper,False,23,True,False
+2014-11-10,47.7,Washington Wizards,Oklahoma City Thunder,4,96-93,1,layup,False,0,True,False
+2014-11-10,47.9833333333,Washington Wizards,Oklahoma City Thunder,4,96-96,-2,two point jumper,False,12,False,False
+2014-11-10,49.1666666667,Washington Wizards,Oklahoma City Thunder,5,96-100,-6,two point jumper,False,22,False,False
+2014-11-10,51.1333333333,Washington Wizards,Oklahoma City Thunder,5,103-102,-2,three point jumper,False,23,True,False
+2014-11-19,1.71666666667,Washington Wizards,Minnesota Timberwolves,1,2-4,0,two point jumper,True,16,False,True
+2014-11-19,14.0,Washington Wizards,Minnesota Timberwolves,2,40-31,-11,two point jumper,True,21,False,True
+2014-11-19,15.4666666667,Washington Wizards,Minnesota Timberwolves,2,45-33,-14,two point jumper,True,20,True,True
+2014-11-19,15.9666666667,Washington Wizards,Minnesota Timberwolves,2,47-35,-14,two point jumper,True,18,True,True
+2014-11-19,18.3166666667,Washington Wizards,Minnesota Timberwolves,2,53-39,-16,two point jumper,True,20,True,True
+2014-11-19,21.1166666667,Washington Wizards,Minnesota Timberwolves,2,57-47,-12,two point jumper,True,15,True,True
+2014-11-19,24.25,Washington Wizards,Minnesota Timberwolves,3,63-51,-14,two point jumper,True,13,False,True
+2014-11-19,24.3666666667,Washington Wizards,Minnesota Timberwolves,3,63-51,-15,three point jumper,True,25,False,True
+2014-11-19,26.1833333333,Washington Wizards,Minnesota Timberwolves,3,63-53,-12,two point jumper,True,22,False,True
+2014-11-19,27.6333333333,Washington Wizards,Minnesota Timberwolves,3,66-57,-11,two point jumper,True,16,False,True
+2014-11-19,28.7833333333,Washington Wizards,Minnesota Timberwolves,3,66-62,-7,three point jumper,True,23,True,True
+2014-11-19,30.45,Washington Wizards,Minnesota Timberwolves,3,70-69,-4,three point jumper,True,26,True,True
+2014-11-19,32.9666666667,Washington Wizards,Minnesota Timberwolves,3,74-74,-2,two point shot,True,20,True,True
+2014-11-19,32.9666666667,Washington Wizards,Minnesota Timberwolves,3,74-75,0,free throw,True,15,True,True
+2014-11-19,36.65,Washington Wizards,Minnesota Timberwolves,4,83-81,-4,two point jumper,True,18,False,True
+2014-11-19,37.0833333333,Washington Wizards,Minnesota Timberwolves,4,85-81,-6,two point jumper,True,19,False,True
+2014-11-19,37.6166666667,Washington Wizards,Minnesota Timberwolves,4,85-86,-1,two point shot,True,1,True,True
+2014-11-19,38.2666666667,Washington Wizards,Minnesota Timberwolves,4,85-86,-1,two point jumper,True,19,False,True
+2014-11-19,40.3166666667,Washington Wizards,Minnesota Timberwolves,4,88-90,1,free throw,True,15,True,True
+2014-11-19,40.3166666667,Washington Wizards,Minnesota Timberwolves,4,88-91,2,free throw,True,15,True,True
+2014-11-19,44.4666666667,Washington Wizards,Minnesota Timberwolves,4,92-95,1,two point shot,True,21,True,True
+2014-11-19,45.6,Washington Wizards,Minnesota Timberwolves,4,93-95,0,two point jumper,True,22,False,True
+2014-11-19,47.8,Washington Wizards,Minnesota Timberwolves,4,98-101,2,free throw,True,15,True,True
+2014-11-19,47.8,Washington Wizards,Minnesota Timberwolves,4,98-102,3,free throw,True,15,True,True
+2014-12-27,0.55,Washington Wizards,Minnesota Timberwolves,1,2-0,0,two point jumper,False,18,True,True
+2014-12-27,2.83333333333,Washington Wizards,Minnesota Timberwolves,1,9-2,5,two point jumper,False,21,False,True
+2014-12-27,5.2,Washington Wizards,Minnesota Timberwolves,1,13-8,3,two point shot,False,20,True,True
+2014-12-27,21.7333333333,Washington Wizards,Minnesota Timberwolves,2,41-50,-12,three point jumper,False,25,True,True
+2014-12-27,25.2166666667,Washington Wizards,Minnesota Timberwolves,3,49-62,-15,two point jumper,False,18,False,True
+2014-12-27,25.5666666667,Washington Wizards,Minnesota Timberwolves,3,49-62,-15,two point jumper,False,20,False,True
+2014-12-27,28.9833333333,Washington Wizards,Minnesota Timberwolves,3,56-73,-19,two point jumper,False,15,True,True
+2014-12-27,37.55,Washington Wizards,Minnesota Timberwolves,4,79-92,-16,three point jumper,False,24,True,True
+2014-12-27,38.1166666667,Washington Wizards,Minnesota Timberwolves,4,79-94,-17,two point jumper,False,18,False,True
+2014-12-27,40.35,Washington Wizards,Minnesota Timberwolves,4,82-99,-18,free throw,False,15,True,True
+2014-12-27,40.35,Washington Wizards,Minnesota Timberwolves,4,83-99,-17,free throw,False,15,True,True
+2014-12-27,41.9833333333,Washington Wizards,Minnesota Timberwolves,4,85-104,-21,two point jumper,False,18,False,True
+2014-12-27,42.95,Washington Wizards,Minnesota Timberwolves,4,85-106,-24,three point jumper,False,25,False,True
+2014-01-25,0.883333333333,Washington Wizards,Utah Jazz,1,0-0,-2,two point jumper,False,19,False,False
+2014-01-25,4.41666666667,Washington Wizards,Utah Jazz,1,9-9,-2,two point jumper,False,19,False,False
+2014-01-25,6.63333333333,Washington Wizards,Utah Jazz,1,15-9,4,layup,False,0,True,False
+2014-01-25,12.6166666667,Washington Wizards,Utah Jazz,2,29-23,4,two point jumper,False,20,False,False
+2014-01-25,13.1833333333,Washington Wizards,Utah Jazz,2,30-26,3,free throw,False,15,True,False
+2014-01-25,13.1833333333,Washington Wizards,Utah Jazz,2,31-26,4,free throw,False,15,True,False
+2014-01-25,13.8666666667,Washington Wizards,Utah Jazz,2,32-28,3,free throw,False,15,True,False
+2014-01-25,14.0,Washington Wizards,Utah Jazz,2,32-28,2,two point jumper,False,9,False,False
+2014-01-25,15.4666666667,Washington Wizards,Utah Jazz,2,38-30,6,layup,False,0,True,False
+2014-01-25,15.4666666667,Washington Wizards,Utah Jazz,2,39-30,8,free throw,False,15,True,False
+2014-01-25,17.2833333333,Washington Wizards,Utah Jazz,2,43-32,9,two point jumper,False,21,False,False
+2014-01-25,19.7,Washington Wizards,Utah Jazz,2,45-43,-1,three point jumper,False,23,False,False
+2014-01-25,25.6333333333,Washington Wizards,Utah Jazz,3,58-54,2,two point jumper,False,20,True,False
+2014-01-25,28.1666666667,Washington Wizards,Utah Jazz,3,66-59,5,two point shot,False,1,True,False
+2014-01-25,29.0333333333,Washington Wizards,Utah Jazz,3,66-62,2,two point jumper,False,23,False,False
+2014-01-25,36.2666666667,Washington Wizards,Utah Jazz,4,77-77,-2,two point jumper,False,12,False,False
+2014-01-25,40.5,Washington Wizards,Utah Jazz,4,81-87,-9,three point jumper,False,24,False,False
+2014-01-25,41.9166666667,Washington Wizards,Utah Jazz,4,81-89,-10,layup,False,0,False,False
+2014-01-25,46.7666666667,Washington Wizards,Utah Jazz,4,95-99,-6,layup,False,0,True,False
+2014-01-25,47.5333333333,Washington Wizards,Utah Jazz,4,98-101,-6,three point jumper,False,23,False,False
+2014-02-01,0.65,Washington Wizards,Oklahoma City Thunder,1,0-0,-3,three point jumper,True,24,False,True
+2014-02-01,4.45,Washington Wizards,Oklahoma City Thunder,1,4-12,6,two point jumper,True,19,False,True
+2014-02-01,6.03333333333,Washington Wizards,Oklahoma City Thunder,1,6-12,4,layup,True,0,False,True
+2014-02-01,14.6166666667,Washington Wizards,Oklahoma City Thunder,2,20-33,11,two point shot,True,17,True,True
+2014-02-01,15.6333333333,Washington Wizards,Oklahoma City Thunder,2,20-33,10,three point jumper,True,25,False,True
+2014-02-01,16.9833333333,Washington Wizards,Oklahoma City Thunder,2,20-33,11,two point jumper,True,16,False,True
+2014-02-01,25.3666666667,Washington Wizards,Oklahoma City Thunder,3,40-49,6,three point jumper,True,26,True,True
+2014-02-01,29.7,Washington Wizards,Oklahoma City Thunder,3,51-55,1,three point jumper,True,24,False,True
+2014-02-01,39.5666666667,Washington Wizards,Oklahoma City Thunder,4,70-85,13,two point jumper,True,20,False,True
+2014-02-01,41.1333333333,Washington Wizards,Oklahoma City Thunder,4,72-87,12,three point jumper,True,25,False,True
+2014-02-01,44.3666666667,Washington Wizards,Oklahoma City Thunder,4,76-89,10,three point jumper,True,26,False,True
+2014-02-01,45.2833333333,Washington Wizards,Oklahoma City Thunder,4,78-93,13,two point jumper,True,17,True,True
+2014-02-03,0.866666666667,Washington Wizards,Portland Trail Blazers,1,2-0,-4,two point jumper,True,9,False,False
+2014-02-03,4.45,Washington Wizards,Portland Trail Blazers,1,9-8,-2,free throw,True,15,True,False
+2014-02-03,4.45,Washington Wizards,Portland Trail Blazers,1,9-9,-1,free throw,True,15,True,False
+2014-02-03,6.06666666667,Washington Wizards,Portland Trail Blazers,1,15-11,-6,two point jumper,True,19,False,False
+2014-02-03,7.03333333333,Washington Wizards,Portland Trail Blazers,1,15-14,-4,three point jumper,True,26,True,False
+2014-02-03,7.56666666667,Washington Wizards,Portland Trail Blazers,1,17-14,-6,three point jumper,True,26,False,False
+2014-02-03,15.0,Washington Wizards,Portland Trail Blazers,2,32-37,3,two point jumper,True,16,False,False
+2014-02-03,15.5166666667,Washington Wizards,Portland Trail Blazers,2,34-39,3,two point jumper,True,18,True,False
+2014-02-03,16.8166666667,Washington Wizards,Portland Trail Blazers,2,36-41,3,two point jumper,True,16,False,False
+2014-02-03,20.8,Washington Wizards,Portland Trail Blazers,2,50-47,-5,two point shot,True,17,True,False
+2014-02-03,21.4166666667,Washington Wizards,Portland Trail Blazers,2,53-47,-8,two point jumper,True,10,False,False
+2014-02-03,24.4,Washington Wizards,Portland Trail Blazers,3,55-56,-1,two point jumper,True,17,False,False
+2014-02-03,25.3666666667,Washington Wizards,Portland Trail Blazers,3,57-58,-1,two point jumper,True,7,False,False
+2014-02-03,31.45,Washington Wizards,Portland Trail Blazers,3,67-74,5,two point shot,True,2,True,False
+2014-02-03,31.45,Washington Wizards,Portland Trail Blazers,3,67-74,6,free throw,True,15,False,False
+2014-02-03,38.9666666667,Washington Wizards,Portland Trail Blazers,4,74-87,11,two point jumper,True,20,False,False
+2014-02-03,40.75,Washington Wizards,Portland Trail Blazers,4,77-88,8,three point jumper,True,23,False,False
+2014-02-03,44.3,Washington Wizards,Portland Trail Blazers,4,86-96,8,two point shot,True,17,True,False
+2014-02-03,44.8,Washington Wizards,Portland Trail Blazers,4,88-96,6,two point jumper,True,19,False,False

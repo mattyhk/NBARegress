@@ -1,0 +1,703 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-01-03,9.08333333333,New Orleans Pelicans,Boston Celtics,1,14-13,-1,layup,False,0,True,True
+2014-01-03,11.95,New Orleans Pelicans,Boston Celtics,1,22-17,3,layup,False,0,True,True
+2014-01-03,14.6333333333,New Orleans Pelicans,Boston Celtics,2,26-26,-2,layup,False,0,True,True
+2014-01-03,15.7,New Orleans Pelicans,Boston Celtics,2,28-28,-2,layup,False,0,True,True
+2014-01-03,17.7833333333,New Orleans Pelicans,Boston Celtics,2,34-30,2,two point jumper,False,21,False,True
+2014-01-03,20.7,New Orleans Pelicans,Boston Celtics,2,42-37,3,layup,False,0,True,True
+2014-01-03,39.0,New Orleans Pelicans,Boston Celtics,4,74-75,-3,layup,False,0,False,True
+2014-01-03,41.9166666667,New Orleans Pelicans,Boston Celtics,4,82-81,-1,two point shot,False,3,True,True
+2014-01-03,44.2333333333,New Orleans Pelicans,Boston Celtics,4,85-86,-3,layup,False,0,False,True
+2014-01-03,45.55,New Orleans Pelicans,Boston Celtics,4,89-90,-3,layup,False,0,True,True
+2014-01-03,47.3,New Orleans Pelicans,Boston Celtics,4,93-90,1,layup,False,0,True,True
+2014-12-01,8.91666666667,New Orleans Pelicans,New York Knicks,1,14-13,-1,two point shot,False,21,False,False
+2014-12-01,12.95,New Orleans Pelicans,New York Knicks,2,18-20,-4,layup,False,0,True,False
+2014-12-01,15.0166666667,New Orleans Pelicans,New York Knicks,2,22-21,-1,layup,False,0,True,False
+2014-12-01,15.6166666667,New Orleans Pelicans,New York Knicks,2,24-24,-2,layup,False,0,True,False
+2014-12-01,21.3666666667,New Orleans Pelicans,New York Knicks,2,37-38,-2,free throw,False,15,True,False
+2014-12-01,21.3666666667,New Orleans Pelicans,New York Knicks,2,38-38,-1,free throw,False,15,True,False
+2014-12-01,22.35,New Orleans Pelicans,New York Knicks,2,40-42,-4,layup,False,0,True,False
+2014-12-01,23.9666666667,New Orleans Pelicans,New York Knicks,2,42-49,-9,two point jumper,False,19,False,False
+2014-12-01,33.2,New Orleans Pelicans,New York Knicks,3,68-66,0,layup,False,0,True,False
+2014-12-01,35.1333333333,New Orleans Pelicans,New York Knicks,3,76-69,5,layup,False,0,True,False
+2014-12-01,35.6166666667,New Orleans Pelicans,New York Knicks,3,76-72,3,free throw,False,15,False,False
+2014-12-01,35.6166666667,New Orleans Pelicans,New York Knicks,3,76-72,3,free throw,False,15,False,False
+2014-12-01,38.1833333333,New Orleans Pelicans,New York Knicks,4,79-79,-1,free throw,False,15,True,False
+2014-12-01,38.1833333333,New Orleans Pelicans,New York Knicks,4,80-79,0,free throw,False,15,True,False
+2014-12-01,39.65,New Orleans Pelicans,New York Knicks,4,82-85,-6,three point jumper,False,28,False,False
+2014-12-01,41.1666666667,New Orleans Pelicans,New York Knicks,4,88-90,-4,two point jumper,False,21,False,False
+2014-12-01,41.9833333333,New Orleans Pelicans,New York Knicks,4,90-93,-5,layup,False,0,True,False
+2014-12-01,41.9833333333,New Orleans Pelicans,New York Knicks,4,91-93,-3,free throw,False,15,True,False
+2014-12-01,45.2333333333,New Orleans Pelicans,New York Knicks,4,97-93,3,free throw,False,15,True,False
+2014-12-01,45.2333333333,New Orleans Pelicans,New York Knicks,4,98-93,4,free throw,False,15,True,False
+2014-12-01,45.7333333333,New Orleans Pelicans,New York Knicks,4,100-96,2,two point shot,False,4,True,False
+2014-12-01,47.75,New Orleans Pelicans,New York Knicks,4,102-99,2,free throw,False,15,False,False
+2014-12-01,47.75,New Orleans Pelicans,New York Knicks,4,103-99,3,free throw,False,15,True,False
+2014-02-19,12.9333333333,New Orleans Pelicans,New York Knicks,2,26-26,-1,free throw,True,15,False,False
+2014-02-19,12.9333333333,New Orleans Pelicans,New York Knicks,2,26-27,0,free throw,True,15,True,False
+2014-02-19,14.0,New Orleans Pelicans,New York Knicks,2,29-32,1,layup,True,0,True,False
+2014-02-19,33.6666666667,New Orleans Pelicans,New York Knicks,3,74-68,-7,free throw,True,15,False,False
+2014-02-19,33.6666666667,New Orleans Pelicans,New York Knicks,3,74-68,-7,free throw,True,15,False,False
+2014-02-19,34.3333333333,New Orleans Pelicans,New York Knicks,3,76-68,-10,two point jumper,True,18,False,False
+2014-02-19,35.35,New Orleans Pelicans,New York Knicks,3,76-68,-10,layup,True,0,False,False
+2014-02-19,37.1833333333,New Orleans Pelicans,New York Knicks,4,83-70,-15,two point jumper,True,15,False,False
+2014-02-19,37.4333333333,New Orleans Pelicans,New York Knicks,4,83-72,-13,layup,True,0,True,False
+2014-02-19,39.95,New Orleans Pelicans,New York Knicks,4,83-80,-5,two point jumper,True,1,False,False
+2014-02-19,40.0333333333,New Orleans Pelicans,New York Knicks,4,83-80,-4,free throw,True,15,False,False
+2014-02-19,40.0333333333,New Orleans Pelicans,New York Knicks,4,83-81,-3,free throw,True,15,True,False
+2014-02-19,40.5666666667,New Orleans Pelicans,New York Knicks,4,83-81,-4,two point jumper,True,18,False,False
+2014-02-19,41.7,New Orleans Pelicans,New York Knicks,4,85-81,-6,two point jumper,True,16,False,False
+2014-02-19,45.5333333333,New Orleans Pelicans,New York Knicks,4,90-91,-1,two point jumper,True,16,True,False
+2014-11-16,6.95,New Orleans Pelicans,Philadelphia 76ers,1,15-19,2,layup,True,0,True,False
+2014-11-16,6.95,New Orleans Pelicans,Philadelphia 76ers,1,15-19,3,free throw,True,15,False,False
+2014-11-16,7.35,New Orleans Pelicans,Philadelphia 76ers,1,17-21,2,layup,True,0,True,False
+2014-11-16,11.1333333333,New Orleans Pelicans,Philadelphia 76ers,1,20-32,11,free throw,True,15,True,False
+2014-11-16,11.1333333333,New Orleans Pelicans,Philadelphia 76ers,1,20-32,11,free throw,True,15,False,False
+2014-11-16,14.3333333333,New Orleans Pelicans,Philadelphia 76ers,2,24-41,15,layup,True,0,True,False
+2014-11-16,17.3833333333,New Orleans Pelicans,Philadelphia 76ers,2,26-52,24,layup,True,0,True,False
+2014-11-16,17.3833333333,New Orleans Pelicans,Philadelphia 76ers,2,26-52,25,free throw,True,15,True,False
+2014-11-16,17.9166666667,New Orleans Pelicans,Philadelphia 76ers,2,29-54,23,layup,True,0,True,False
+2014-11-16,23.2,New Orleans Pelicans,Philadelphia 76ers,2,44-67,22,free throw,True,15,True,False
+2014-11-16,23.2,New Orleans Pelicans,Philadelphia 76ers,2,44-67,22,free throw,True,15,False,False
+2014-11-16,23.7666666667,New Orleans Pelicans,Philadelphia 76ers,2,46-67,19,two point jumper,True,17,False,False
+2014-11-16,36.0,New Orleans Pelicans,Philadelphia 76ers,3,66-103,34,three point jumper,True,68,False,False
+2014-11-16,37.1333333333,New Orleans Pelicans,Philadelphia 76ers,4,68-103,32,three point jumper,True,26,False,False
+2014-11-16,40.4166666667,New Orleans Pelicans,Philadelphia 76ers,4,77-114,35,two point shot,True,1,True,False
+2014-11-29,9.23333333333,New Orleans Pelicans,Philadelphia 76ers,1,24-24,-2,layup,False,0,True,True
+2014-11-29,11.1333333333,New Orleans Pelicans,Philadelphia 76ers,1,33-28,3,layup,False,0,True,True
+2014-11-29,11.6,New Orleans Pelicans,Philadelphia 76ers,1,34-30,3,free throw,False,15,True,True
+2014-11-29,11.6,New Orleans Pelicans,Philadelphia 76ers,1,35-30,4,free throw,False,15,True,True
+2014-11-29,13.0666666667,New Orleans Pelicans,Philadelphia 76ers,2,38-33,3,two point jumper,False,23,False,True
+2014-11-29,19.2833333333,New Orleans Pelicans,Philadelphia 76ers,2,51-45,4,layup,False,0,True,True
+2014-11-29,20.45,New Orleans Pelicans,Philadelphia 76ers,2,55-45,8,two point shot,False,1,True,True
+2014-11-29,23.0166666667,New Orleans Pelicans,Philadelphia 76ers,2,59-50,7,layup,False,0,False,True
+2014-11-29,30.85,New Orleans Pelicans,Philadelphia 76ers,3,78-64,12,layup,False,0,False,True
+2014-11-29,37.6333333333,New Orleans Pelicans,Philadelphia 76ers,4,91-79,10,layup,False,0,True,True
+2014-11-29,39.0666666667,New Orleans Pelicans,Philadelphia 76ers,4,95-83,10,layup,False,0,True,True
+2014-11-29,39.0666666667,New Orleans Pelicans,Philadelphia 76ers,4,95-83,11,free throw,False,15,False,True
+2014-11-29,41.3833333333,New Orleans Pelicans,Philadelphia 76ers,4,100-85,14,free throw,False,15,True,True
+2014-11-29,41.3833333333,New Orleans Pelicans,Philadelphia 76ers,4,101-85,15,free throw,False,15,True,True
+2014-02-10,10.1333333333,New Orleans Pelicans,Toronto Raptors,1,18-27,-11,two point jumper,False,19,False,False
+2014-02-10,11.0,New Orleans Pelicans,Toronto Raptors,1,19-29,-11,free throw,False,15,True,False
+2014-02-10,11.0,New Orleans Pelicans,Toronto Raptors,1,20-29,-10,free throw,False,15,True,False
+2014-02-10,14.9333333333,New Orleans Pelicans,Toronto Raptors,2,28-38,-12,layup,False,0,True,False
+2014-02-10,17.0333333333,New Orleans Pelicans,Toronto Raptors,2,33-42,-11,two point shot,False,4,True,False
+2014-02-10,20.3166666667,New Orleans Pelicans,Toronto Raptors,2,43-43,-2,two point jumper,False,22,False,False
+2014-02-10,20.9833333333,New Orleans Pelicans,Toronto Raptors,2,47-43,2,two point shot,False,4,True,False
+2014-02-10,24.0,New Orleans Pelicans,Toronto Raptors,2,49-49,-3,three point jumper,False,42,False,False
+2014-02-10,31.0666666667,New Orleans Pelicans,Toronto Raptors,3,60-73,-15,layup,False,0,True,False
+2014-02-10,33.65,New Orleans Pelicans,Toronto Raptors,3,66-82,-18,two point shot,False,3,True,False
+2014-02-10,34.1,New Orleans Pelicans,Toronto Raptors,3,68-82,-16,layup,False,0,True,False
+2014-02-10,34.55,New Orleans Pelicans,Toronto Raptors,3,68-82,-15,free throw,False,15,False,False
+2014-02-10,34.55,New Orleans Pelicans,Toronto Raptors,3,68-82,-15,free throw,False,15,False,False
+2014-02-10,35.65,New Orleans Pelicans,Toronto Raptors,3,69-82,-14,free throw,False,15,False,False
+2014-02-10,35.65,New Orleans Pelicans,Toronto Raptors,3,70-82,-13,free throw,False,15,True,False
+2014-02-10,36.6166666667,New Orleans Pelicans,Toronto Raptors,4,72-85,-15,two point shot,False,1,True,False
+2014-02-10,41.6333333333,New Orleans Pelicans,Toronto Raptors,4,86-89,-5,layup,False,0,False,False
+2014-02-10,42.8833333333,New Orleans Pelicans,Toronto Raptors,4,89-93,-6,two point shot,False,4,True,False
+2014-02-10,45.6,New Orleans Pelicans,Toronto Raptors,4,94-102,-10,two point shot,False,1,True,False
+2014-02-10,47.7333333333,New Orleans Pelicans,Toronto Raptors,4,101-106,-7,two point shot,False,1,True,False
+2014-11-26,11.0,New Orleans Pelicans,Golden State Warriors,1,26-18,-10,layup,True,0,False,False
+2014-11-26,12.5666666667,New Orleans Pelicans,Golden State Warriors,2,28-21,-9,layup,True,0,True,False
+2014-11-26,12.5666666667,New Orleans Pelicans,Golden State Warriors,2,28-21,-8,free throw,True,15,True,False
+2014-11-26,13.6166666667,New Orleans Pelicans,Golden State Warriors,2,31-22,-10,free throw,True,15,True,False
+2014-11-26,13.6166666667,New Orleans Pelicans,Golden State Warriors,2,31-22,-10,free throw,True,15,False,False
+2014-11-26,14.8,New Orleans Pelicans,Golden State Warriors,2,33-27,-8,layup,True,0,True,False
+2014-11-26,17.6,New Orleans Pelicans,Golden State Warriors,2,40-27,-15,two point jumper,True,11,False,False
+2014-11-26,35.8,New Orleans Pelicans,Golden State Warriors,3,76-77,-1,layup,True,0,True,False
+2014-11-26,36.0,New Orleans Pelicans,Golden State Warriors,3,76-77,-2,three point jumper,True,48,False,False
+2014-11-26,36.75,New Orleans Pelicans,Golden State Warriors,4,78-77,-3,two point jumper,True,3,False,False
+2014-11-26,36.9,New Orleans Pelicans,Golden State Warriors,4,78-79,-1,two point shot,True,13,True,False
+2014-11-26,43.1,New Orleans Pelicans,Golden State Warriors,4,93-89,-6,layup,True,0,True,False
+2014-11-26,47.2166666667,New Orleans Pelicans,Golden State Warriors,4,102-99,-5,unknown,True,4,False,False
+2014-01-18,7.98333333333,New Orleans Pelicans,Golden State Warriors,1,15-20,3,layup,True,0,True,False
+2014-01-18,8.55,New Orleans Pelicans,Golden State Warriors,1,17-20,1,unknown,True,7,False,False
+2014-01-18,8.78333333333,New Orleans Pelicans,Golden State Warriors,1,17-21,3,free throw,True,15,True,False
+2014-01-18,8.78333333333,New Orleans Pelicans,Golden State Warriors,1,17-22,4,free throw,True,15,True,False
+2014-01-18,12.9666666667,New Orleans Pelicans,Golden State Warriors,2,27-33,4,two point shot,True,1,True,False
+2014-01-18,24.0,New Orleans Pelicans,Golden State Warriors,2,52-54,0,layup,True,0,False,False
+2014-01-18,31.1,New Orleans Pelicans,Golden State Warriors,3,64-64,-2,two point shot,True,1,True,False
+2014-01-18,33.6833333333,New Orleans Pelicans,Golden State Warriors,3,73-66,-9,two point shot,True,2,True,False
+2014-01-18,35.9166666667,New Orleans Pelicans,Golden State Warriors,3,78-72,-8,layup,True,0,True,False
+2014-01-18,37.75,New Orleans Pelicans,Golden State Warriors,4,80-78,-4,layup,True,0,True,False
+2014-01-18,41.6,New Orleans Pelicans,Golden State Warriors,4,85-80,-7,two point jumper,True,21,False,False
+2014-12-18,9.06666666667,New Orleans Pelicans,Los Angeles Clippers,1,20-22,-5,three point jumper,False,24,False,True
+2014-12-18,9.8,New Orleans Pelicans,Los Angeles Clippers,1,20-22,-4,layup,False,0,False,True
+2014-12-18,24.0,New Orleans Pelicans,Los Angeles Clippers,2,45-52,-10,three point jumper,False,40,False,True
+2014-12-18,30.8833333333,New Orleans Pelicans,Los Angeles Clippers,3,53-70,-18,free throw,False,15,False,True
+2014-12-18,30.8833333333,New Orleans Pelicans,Los Angeles Clippers,3,54-70,-17,free throw,False,15,True,True
+2014-12-18,31.5333333333,New Orleans Pelicans,Los Angeles Clippers,3,55-72,-18,free throw,False,15,True,True
+2014-12-18,31.5333333333,New Orleans Pelicans,Los Angeles Clippers,3,56-72,-17,free throw,False,15,True,True
+2014-12-18,32.0666666667,New Orleans Pelicans,Los Angeles Clippers,3,56-74,-20,two point shot,False,2,False,True
+2014-12-18,35.6833333333,New Orleans Pelicans,Los Angeles Clippers,3,65-76,-13,layup,False,0,False,True
+2014-12-18,37.95,New Orleans Pelicans,Los Angeles Clippers,4,67-83,-18,two point jumper,False,5,False,True
+2014-12-18,40.2,New Orleans Pelicans,Los Angeles Clippers,4,73-90,-19,tip shot,False,0,False,True
+2014-12-18,41.1666666667,New Orleans Pelicans,Los Angeles Clippers,4,77-92,-17,layup,False,0,True,True
+2014-12-18,44.5,New Orleans Pelicans,Los Angeles Clippers,4,83-99,-18,layup,False,0,True,True
+2014-12-18,46.4333333333,New Orleans Pelicans,Los Angeles Clippers,4,90-103,-14,free throw,False,15,True,True
+2014-12-18,46.4333333333,New Orleans Pelicans,Los Angeles Clippers,4,91-103,-13,free throw,False,15,True,True
+2014-12-18,47.6666666667,New Orleans Pelicans,Los Angeles Clippers,4,94-108,-15,free throw,False,15,True,True
+2014-12-18,47.6666666667,New Orleans Pelicans,Los Angeles Clippers,4,95-108,-14,free throw,False,15,True,True
+2014-02-24,8.55,New Orleans Pelicans,Los Angeles Clippers,1,25-18,-8,free throw,True,15,False,False
+2014-02-24,8.55,New Orleans Pelicans,Los Angeles Clippers,1,25-18,-8,free throw,True,15,False,False
+2014-02-24,9.1,New Orleans Pelicans,Los Angeles Clippers,1,27-18,-11,layup,True,0,False,False
+2014-02-24,12.0,New Orleans Pelicans,Los Angeles Clippers,1,32-26,-8,layup,True,0,False,False
+2014-02-24,13.8833333333,New Orleans Pelicans,Los Angeles Clippers,2,35-31,-6,layup,True,0,True,False
+2014-02-24,14.6833333333,New Orleans Pelicans,Los Angeles Clippers,2,38-31,-9,layup,True,0,False,False
+2014-02-24,17.5666666667,New Orleans Pelicans,Los Angeles Clippers,2,49-37,-14,layup,True,0,True,False
+2014-02-24,18.8166666667,New Orleans Pelicans,Los Angeles Clippers,2,52-37,-17,two point jumper,True,3,False,False
+2014-02-24,19.5333333333,New Orleans Pelicans,Los Angeles Clippers,2,54-39,-17,hook shot,True,1,False,False
+2014-02-24,28.6,New Orleans Pelicans,Los Angeles Clippers,3,76-58,-20,layup,True,0,False,False
+2014-02-24,29.4833333333,New Orleans Pelicans,Los Angeles Clippers,3,78-60,-20,two point jumper,True,14,False,False
+2014-02-24,34.15,New Orleans Pelicans,Los Angeles Clippers,3,90-73,-20,three point jumper,True,23,False,False
+2014-02-24,37.3666666667,New Orleans Pelicans,Los Angeles Clippers,4,96-84,-14,layup,True,0,True,False
+2014-02-24,40.35,New Orleans Pelicans,Los Angeles Clippers,4,100-88,-14,layup,True,0,False,False
+2014-02-24,44.3166666667,New Orleans Pelicans,Los Angeles Clippers,4,114-97,-19,layup,True,0,True,False
+2014-03-01,0.566666666667,New Orleans Pelicans,Los Angeles Clippers,1,0-2,-5,three point jumper,False,25,False,True
+2014-03-01,2.4,New Orleans Pelicans,Los Angeles Clippers,1,3-7,-7,three point jumper,False,25,True,True
+2014-03-01,5.81666666667,New Orleans Pelicans,Los Angeles Clippers,1,6-17,-13,layup,False,0,False,True
+2014-03-01,5.85,New Orleans Pelicans,Los Angeles Clippers,1,6-17,-13,tip shot,False,0,False,True
+2014-03-01,8.85,New Orleans Pelicans,Los Angeles Clippers,1,8-25,-20,three point jumper,False,25,False,True
+2014-03-01,10.6,New Orleans Pelicans,Los Angeles Clippers,1,13-27,-16,layup,False,0,True,True
+2014-03-01,11.2333333333,New Orleans Pelicans,Los Angeles Clippers,1,13-30,-19,layup,False,0,False,True
+2014-03-01,11.2333333333,New Orleans Pelicans,Los Angeles Clippers,1,15-30,-17,two point shot,False,2,True,True
+2014-03-01,11.9666666667,New Orleans Pelicans,Los Angeles Clippers,1,17-30,-15,layup,False,0,True,True
+2014-03-01,21.15,New Orleans Pelicans,Los Angeles Clippers,2,30-47,-20,three point jumper,False,24,False,True
+2014-03-01,26.2166666667,New Orleans Pelicans,Los Angeles Clippers,3,42-55,-15,two point shot,False,6,True,True
+2014-03-01,32.6,New Orleans Pelicans,Los Angeles Clippers,3,48-73,-27,layup,False,0,True,True
+2014-03-01,32.6,New Orleans Pelicans,Los Angeles Clippers,3,49-73,-25,free throw,False,15,True,True
+2014-03-01,33.05,New Orleans Pelicans,Los Angeles Clippers,3,51-75,-26,layup,False,0,True,True
+2014-03-01,35.0166666667,New Orleans Pelicans,Los Angeles Clippers,3,55-77,-24,layup,False,0,True,True
+2014-03-01,35.0166666667,New Orleans Pelicans,Los Angeles Clippers,3,56-77,-22,free throw,False,15,True,True
+2014-03-01,39.2,New Orleans Pelicans,Los Angeles Clippers,4,61-82,-24,three point jumper,False,24,True,True
+2014-03-01,43.1666666667,New Orleans Pelicans,Los Angeles Clippers,4,65-90,-28,three point jumper,False,57,False,True
+2014-03-01,43.9166666667,New Orleans Pelicans,Los Angeles Clippers,4,65-92,-29,two point jumper,False,10,False,True
+2014-11-08,9.33333333333,New Orleans Pelicans,Los Angeles Lakers,1,23-25,0,two point jumper,True,20,False,True
+2014-11-08,13.7,New Orleans Pelicans,Los Angeles Lakers,2,29-35,4,layup,True,0,True,True
+2014-11-08,13.7,New Orleans Pelicans,Los Angeles Lakers,2,29-36,6,free throw,True,15,True,True
+2014-11-08,14.4666666667,New Orleans Pelicans,Los Angeles Lakers,2,29-36,5,two point jumper,True,10,False,True
+2014-11-08,24.0,New Orleans Pelicans,Los Angeles Lakers,2,48-55,5,two point jumper,True,15,False,True
+2014-11-08,33.9,New Orleans Pelicans,Los Angeles Lakers,3,63-67,1,three point jumper,True,25,False,True
+2014-11-08,35.7,New Orleans Pelicans,Los Angeles Lakers,3,66-69,1,two point jumper,True,21,True,True
+2014-11-08,38.3166666667,New Orleans Pelicans,Los Angeles Lakers,4,68-74,4,two point jumper,True,18,False,True
+2014-11-08,39.1333333333,New Orleans Pelicans,Los Angeles Lakers,4,68-74,4,two point jumper,True,19,False,True
+2014-11-08,39.7166666667,New Orleans Pelicans,Los Angeles Lakers,4,68-74,4,two point jumper,True,5,False,True
+2014-11-08,46.0833333333,New Orleans Pelicans,Los Angeles Lakers,4,81-90,7,two point shot,True,1,True,True
+2014-11-08,47.0,New Orleans Pelicans,Los Angeles Lakers,4,81-95,12,two point jumper,True,1,False,True
+2014-11-12,11.0333333333,New Orleans Pelicans,Los Angeles Lakers,1,16-20,-5,free throw,False,15,False,True
+2014-11-12,11.0333333333,New Orleans Pelicans,Los Angeles Lakers,1,17-20,-4,free throw,False,15,True,True
+2014-11-12,13.1333333333,New Orleans Pelicans,Los Angeles Lakers,2,19-24,-7,two point jumper,False,20,False,True
+2014-11-12,14.3666666667,New Orleans Pelicans,Los Angeles Lakers,2,21-27,-8,two point shot,False,4,True,True
+2014-11-12,16.6666666667,New Orleans Pelicans,Los Angeles Lakers,2,23-36,-16,three point jumper,False,25,False,True
+2014-11-12,22.1666666667,New Orleans Pelicans,Los Angeles Lakers,2,32-49,-19,layup,False,0,False,True
+2014-11-12,32.5166666667,New Orleans Pelicans,Los Angeles Lakers,3,54-78,-26,two point jumper,False,1,False,True
+2014-11-12,32.5833333333,New Orleans Pelicans,Los Angeles Lakers,3,56-78,-24,layup,False,0,True,True
+2014-11-12,32.5833333333,New Orleans Pelicans,Los Angeles Lakers,3,56-78,-23,free throw,False,15,False,True
+2014-11-12,33.7,New Orleans Pelicans,Los Angeles Lakers,3,56-82,-28,two point jumper,False,3,False,True
+2014-11-12,35.2666666667,New Orleans Pelicans,Los Angeles Lakers,3,60-86,-28,two point shot,False,6,False,True
+2014-11-12,36.95,New Orleans Pelicans,Los Angeles Lakers,4,68-88,-22,two point shot,False,4,True,True
+2014-11-12,36.95,New Orleans Pelicans,Los Angeles Lakers,4,68-88,-21,free throw,False,15,False,True
+2014-11-12,39.8333333333,New Orleans Pelicans,Los Angeles Lakers,4,78-94,-18,two point shot,False,2,True,True
+2014-11-12,39.8333333333,New Orleans Pelicans,Los Angeles Lakers,4,79-94,-16,free throw,False,15,True,True
+2014-11-12,40.2833333333,New Orleans Pelicans,Los Angeles Lakers,4,80-96,-17,free throw,False,15,True,True
+2014-11-12,40.2833333333,New Orleans Pelicans,Los Angeles Lakers,4,80-96,-17,free throw,False,15,False,True
+2014-11-12,41.1666666667,New Orleans Pelicans,Los Angeles Lakers,4,80-98,-20,layup,False,0,False,True
+2014-11-12,43.7333333333,New Orleans Pelicans,Los Angeles Lakers,4,83-105,-24,layup,False,0,False,True
+2014-11-12,44.9833333333,New Orleans Pelicans,Los Angeles Lakers,4,83-108,-27,two point jumper,False,23,False,True
+2014-11-05,14.55,New Orleans Pelicans,Phoenix Suns,2,22-30,6,two point jumper,True,11,False,True
+2014-11-05,15.2,New Orleans Pelicans,Phoenix Suns,2,24-30,4,layup,True,0,False,True
+2014-11-05,15.8,New Orleans Pelicans,Phoenix Suns,2,24-33,6,three point jumper,True,23,True,True
+2014-11-05,20.4166666667,New Orleans Pelicans,Phoenix Suns,2,34-45,9,layup,True,0,True,True
+2014-11-05,36.2,New Orleans Pelicans,Phoenix Suns,4,78-71,-9,two point jumper,True,22,True,True
+2014-11-05,36.6333333333,New Orleans Pelicans,Phoenix Suns,4,78-71,-9,layup,True,0,False,True
+2014-11-05,38.8166666667,New Orleans Pelicans,Phoenix Suns,4,82-77,-7,two point jumper,True,20,True,True
+2014-11-05,39.7666666667,New Orleans Pelicans,Phoenix Suns,4,84-79,-6,free throw,True,15,False,True
+2014-11-05,39.7666666667,New Orleans Pelicans,Phoenix Suns,4,84-79,-6,free throw,True,15,False,True
+2014-11-05,40.3166666667,New Orleans Pelicans,Phoenix Suns,4,85-79,-8,two point jumper,True,20,False,True
+2014-11-10,14.3833333333,New Orleans Pelicans,Phoenix Suns,2,19-23,-6,two point jumper,False,19,False,True
+2014-02-28,0.866666666667,New Orleans Pelicans,Phoenix Suns,1,2-0,0,layup,False,0,False,False
+2014-02-28,17.45,New Orleans Pelicans,Phoenix Suns,2,40-40,-3,three point jumper,False,25,True,False
+2014-02-28,19.6333333333,New Orleans Pelicans,Phoenix Suns,2,44-42,0,layup,False,0,True,False
+2014-02-28,19.85,New Orleans Pelicans,Phoenix Suns,2,46-42,2,two point shot,False,1,True,False
+2014-02-28,26.0,New Orleans Pelicans,Phoenix Suns,3,56-58,-4,two point shot,False,1,False,False
+2014-02-28,28.3166666667,New Orleans Pelicans,Phoenix Suns,3,62-61,-1,layup,False,0,False,False
+2014-02-28,30.8833333333,New Orleans Pelicans,Phoenix Suns,3,69-66,1,layup,False,0,True,False
+2014-02-28,32.1,New Orleans Pelicans,Phoenix Suns,3,73-66,5,layup,False,0,True,False
+2014-02-28,32.4666666667,New Orleans Pelicans,Phoenix Suns,3,75-66,7,layup,False,0,True,False
+2014-02-28,41.5666666667,New Orleans Pelicans,Phoenix Suns,4,91-98,-8,free throw,False,15,False,False
+2014-02-28,41.5666666667,New Orleans Pelicans,Phoenix Suns,4,92-98,-7,free throw,False,15,True,False
+2014-02-28,46.4833333333,New Orleans Pelicans,Phoenix Suns,4,100-106,-8,layup,False,0,False,False
+2014-02-28,47.3666666667,New Orleans Pelicans,Phoenix Suns,4,102-110,-10,two point jumper,False,4,False,False
+2014-12-23,11.3166666667,New Orleans Pelicans,Sacramento Kings,1,25-24,0,free throw,False,15,True,True
+2014-12-23,11.3166666667,New Orleans Pelicans,Sacramento Kings,1,26-24,1,free throw,False,15,True,True
+2014-12-23,13.75,New Orleans Pelicans,Sacramento Kings,2,28-31,-5,layup,False,0,False,True
+2014-12-23,14.8833333333,New Orleans Pelicans,Sacramento Kings,2,32-34,-4,layup,False,0,True,True
+2014-12-23,16.6333333333,New Orleans Pelicans,Sacramento Kings,2,36-38,-4,layup,False,0,True,True
+2014-12-23,21.4833333333,New Orleans Pelicans,Sacramento Kings,2,46-50,-6,two point shot,False,4,True,True
+2014-12-23,22.3333333333,New Orleans Pelicans,Sacramento Kings,2,48-50,-4,layup,False,0,True,True
+2014-12-23,23.2666666667,New Orleans Pelicans,Sacramento Kings,2,51-50,0,free throw,False,15,True,True
+2014-12-23,23.2666666667,New Orleans Pelicans,Sacramento Kings,2,52-50,1,free throw,False,15,True,True
+2014-12-23,29.7833333333,New Orleans Pelicans,Sacramento Kings,3,64-65,-3,two point jumper,False,4,False,True
+2014-12-23,32.0666666667,New Orleans Pelicans,Sacramento Kings,3,67-69,-3,free throw,False,15,True,True
+2014-12-23,32.0666666667,New Orleans Pelicans,Sacramento Kings,3,68-69,-2,free throw,False,15,True,True
+2014-12-23,32.7166666667,New Orleans Pelicans,Sacramento Kings,3,68-71,-5,layup,False,0,False,True
+2014-12-23,33.1,New Orleans Pelicans,Sacramento Kings,3,70-73,-5,layup,False,0,True,True
+2014-12-23,34.1333333333,New Orleans Pelicans,Sacramento Kings,3,73-75,-3,free throw,False,15,True,True
+2014-12-23,34.1333333333,New Orleans Pelicans,Sacramento Kings,3,73-75,-3,free throw,False,15,False,True
+2014-12-23,35.9166666667,New Orleans Pelicans,Sacramento Kings,3,77-77,-2,layup,False,0,True,True
+2014-12-23,36.4,New Orleans Pelicans,Sacramento Kings,4,77-77,-3,three point jumper,False,25,False,True
+2014-12-23,36.6166666667,New Orleans Pelicans,Sacramento Kings,4,77-77,-2,layup,False,0,False,True
+2014-12-23,40.5333333333,New Orleans Pelicans,Sacramento Kings,4,87-87,-1,free throw,False,15,True,True
+2014-12-23,40.5333333333,New Orleans Pelicans,Sacramento Kings,4,88-87,0,free throw,False,15,True,True
+2014-12-23,42.1,New Orleans Pelicans,Sacramento Kings,4,92-90,0,two point shot,False,7,True,True
+2014-12-23,45.2666666667,New Orleans Pelicans,Sacramento Kings,4,105-95,9,free throw,False,15,True,True
+2014-12-23,45.2666666667,New Orleans Pelicans,Sacramento Kings,4,106-95,10,free throw,False,15,True,True
+2014-12-23,46.6166666667,New Orleans Pelicans,Sacramento Kings,4,108-97,9,layup,False,0,False,True
+2014-01-21,8.8,New Orleans Pelicans,Sacramento Kings,1,24-16,-10,layup,True,0,True,True
+2014-01-21,11.1333333333,New Orleans Pelicans,Sacramento Kings,1,36-20,-17,free throw,True,15,True,True
+2014-01-21,11.1333333333,New Orleans Pelicans,Sacramento Kings,1,36-20,-17,free throw,True,15,False,True
+2014-01-21,12.0,New Orleans Pelicans,Sacramento Kings,1,38-20,-21,three point jumper,True,33,False,True
+2014-01-21,14.5,New Orleans Pelicans,Sacramento Kings,2,45-25,-21,free throw,True,15,True,True
+2014-01-21,14.5,New Orleans Pelicans,Sacramento Kings,2,45-26,-20,free throw,True,15,True,True
+2014-01-21,16.5,New Orleans Pelicans,Sacramento Kings,2,49-28,-23,layup,True,0,False,True
+2014-01-21,21.6833333333,New Orleans Pelicans,Sacramento Kings,2,60-47,-15,two point shot,True,1,True,True
+2014-01-21,22.0,New Orleans Pelicans,Sacramento Kings,2,60-48,-13,free throw,True,15,True,True
+2014-01-21,22.0,New Orleans Pelicans,Sacramento Kings,2,60-49,-12,free throw,True,15,True,True
+2014-01-21,22.5166666667,New Orleans Pelicans,Sacramento Kings,2,60-51,-11,two point jumper,True,1,True,True
+2014-01-21,23.4166666667,New Orleans Pelicans,Sacramento Kings,2,62-55,-9,two point jumper,True,1,True,True
+2014-01-21,34.75,New Orleans Pelicans,Sacramento Kings,3,88-68,-22,layup,True,0,True,True
+2014-01-21,38.4,New Orleans Pelicans,Sacramento Kings,4,91-74,-20,three point jumper,True,23,False,True
+2014-01-21,39.8,New Orleans Pelicans,Sacramento Kings,4,95-78,-19,layup,True,0,True,True
+2014-12-02,4.31666666667,New Orleans Pelicans,Chicago Bulls,1,4-4,-2,two point shot,False,1,False,True
+2014-12-02,4.53333333333,New Orleans Pelicans,Chicago Bulls,1,5-4,0,free throw,False,15,True,True
+2014-12-02,4.53333333333,New Orleans Pelicans,Chicago Bulls,1,6-4,1,free throw,False,15,True,True
+2014-12-02,10.2666666667,New Orleans Pelicans,Chicago Bulls,1,19-16,1,two point jumper,False,6,False,True
+2014-12-02,10.4833333333,New Orleans Pelicans,Chicago Bulls,1,19-18,-1,layup,False,0,False,True
+2014-12-02,11.5,New Orleans Pelicans,Chicago Bulls,1,24-21,1,layup,False,0,True,True
+2014-12-02,11.9666666667,New Orleans Pelicans,Chicago Bulls,1,24-21,1,layup,False,0,False,True
+2014-12-02,13.95,New Orleans Pelicans,Chicago Bulls,2,28-23,3,layup,False,0,True,True
+2014-12-02,13.95,New Orleans Pelicans,Chicago Bulls,2,29-23,5,free throw,False,15,True,True
+2014-12-02,14.5,New Orleans Pelicans,Chicago Bulls,2,31-25,4,layup,False,0,True,True
+2014-12-02,38.95,New Orleans Pelicans,Chicago Bulls,4,84-84,-2,layup,False,0,False,True
+2014-12-02,40.1666666667,New Orleans Pelicans,Chicago Bulls,4,88-87,-1,two point shot,False,16,True,True
+2014-12-02,41.9166666667,New Orleans Pelicans,Chicago Bulls,4,90-91,-3,layup,False,0,True,True
+2014-02-01,10.1333333333,New Orleans Pelicans,Chicago Bulls,1,19-19,-2,layup,True,0,True,True
+2014-02-01,11.35,New Orleans Pelicans,Chicago Bulls,1,21-23,0,layup,True,0,True,True
+2014-02-01,11.9833333333,New Orleans Pelicans,Chicago Bulls,1,21-23,0,unknown,True,8,False,True
+2014-02-01,17.45,New Orleans Pelicans,Chicago Bulls,2,24-35,8,three point jumper,True,23,False,True
+2014-02-01,17.9166666667,New Orleans Pelicans,Chicago Bulls,2,24-36,11,free throw,True,15,True,True
+2014-02-01,17.9166666667,New Orleans Pelicans,Chicago Bulls,2,24-37,12,free throw,True,15,True,True
+2014-02-01,18.5666666667,New Orleans Pelicans,Chicago Bulls,2,26-37,9,layup,True,0,False,True
+2014-02-01,19.25,New Orleans Pelicans,Chicago Bulls,2,26-37,9,two point jumper,True,18,False,True
+2014-02-01,35.1666666667,New Orleans Pelicans,Chicago Bulls,3,55-68,11,two point jumper,True,5,False,True
+2014-02-01,35.5333333333,New Orleans Pelicans,Chicago Bulls,3,55-70,13,layup,True,0,True,True
+2014-02-01,35.5333333333,New Orleans Pelicans,Chicago Bulls,3,55-71,15,free throw,True,15,True,True
+2014-02-01,37.1166666667,New Orleans Pelicans,Chicago Bulls,4,59-73,12,layup,True,0,True,True
+2014-02-01,40.3166666667,New Orleans Pelicans,Chicago Bulls,4,66-79,11,layup,True,0,False,True
+2014-02-01,42.2,New Orleans Pelicans,Chicago Bulls,4,69-80,9,two point jumper,True,9,False,True
+2014-02-01,43.85,New Orleans Pelicans,Chicago Bulls,4,69-84,13,two point jumper,True,11,False,True
+2014-02-01,45.3,New Orleans Pelicans,Chicago Bulls,4,72-86,12,two point shot,True,1,False,True
+2014-11-22,9.56666666667,New Orleans Pelicans,Cleveland Cavaliers,1,18-15,-5,layup,True,0,False,True
+2014-11-22,10.0166666667,New Orleans Pelicans,Cleveland Cavaliers,1,18-19,-1,layup,True,0,True,True
+2014-11-22,11.0666666667,New Orleans Pelicans,Cleveland Cavaliers,1,20-21,-1,two point shot,True,1,True,True
+2014-11-22,15.5,New Orleans Pelicans,Cleveland Cavaliers,2,29-27,-4,layup,True,0,True,True
+2014-11-22,16.6,New Orleans Pelicans,Cleveland Cavaliers,2,32-27,-8,three point jumper,True,25,False,True
+2014-11-22,30.2333333333,New Orleans Pelicans,Cleveland Cavaliers,3,64-57,-10,three point jumper,True,25,True,True
+2014-11-22,32.3,New Orleans Pelicans,Cleveland Cavaliers,3,64-61,-5,two point jumper,True,4,False,True
+2014-11-22,32.75,New Orleans Pelicans,Cleveland Cavaliers,3,64-63,-3,layup,True,0,True,True
+2014-11-22,34.35,New Orleans Pelicans,Cleveland Cavaliers,3,66-66,-2,layup,True,0,False,True
+2014-11-22,35.9,New Orleans Pelicans,Cleveland Cavaliers,3,71-68,-5,layup,True,0,False,True
+2014-11-22,37.7,New Orleans Pelicans,Cleveland Cavaliers,4,76-72,-5,free throw,True,15,True,True
+2014-11-22,37.7,New Orleans Pelicans,Cleveland Cavaliers,4,76-73,-4,free throw,True,15,True,True
+2014-11-22,40.3166666667,New Orleans Pelicans,Cleveland Cavaliers,4,82-77,-7,layup,True,0,True,True
+2014-11-22,42.9166666667,New Orleans Pelicans,Cleveland Cavaliers,4,90-81,-11,layup,True,0,False,True
+2014-11-22,44.2666666667,New Orleans Pelicans,Cleveland Cavaliers,4,93-85,-10,layup,True,0,False,True
+2014-11-22,46.5166666667,New Orleans Pelicans,Cleveland Cavaliers,4,95-93,-4,layup,True,0,False,True
+2014-11-22,47.0,New Orleans Pelicans,Cleveland Cavaliers,4,96-97,-1,layup,True,0,True,True
+2014-11-22,47.6833333333,New Orleans Pelicans,Cleveland Cavaliers,4,98-101,2,free throw,True,15,True,True
+2014-11-22,47.6833333333,New Orleans Pelicans,Cleveland Cavaliers,4,98-102,3,free throw,True,15,True,True
+2014-01-28,10.8333333333,New Orleans Pelicans,Cleveland Cavaliers,1,24-25,-3,two point jumper,False,17,True,False
+2014-01-28,33.9666666667,New Orleans Pelicans,Cleveland Cavaliers,3,81-60,18,three point jumper,False,27,False,False
+2014-01-28,37.1166666667,New Orleans Pelicans,Cleveland Cavaliers,4,85-65,18,layup,False,0,False,False
+2014-01-28,38.3,New Orleans Pelicans,Cleveland Cavaliers,4,85-68,15,two point shot,False,7,False,False
+2014-01-28,42.0,New Orleans Pelicans,Cleveland Cavaliers,4,90-75,13,layup,False,0,False,False
+2014-01-28,44.0166666667,New Orleans Pelicans,Cleveland Cavaliers,4,94-80,13,free throw,False,15,False,False
+2014-01-28,44.0166666667,New Orleans Pelicans,Cleveland Cavaliers,4,95-80,14,free throw,False,15,True,False
+2014-12-11,12.25,New Orleans Pelicans,Detroit Pistons,2,28-30,1,free throw,True,15,True,True
+2014-12-11,12.25,New Orleans Pelicans,Detroit Pistons,2,28-31,2,free throw,True,15,True,True
+2014-12-11,15.0833333333,New Orleans Pelicans,Detroit Pistons,2,33-38,3,two point shot,True,1,True,True
+2014-12-11,16.6,New Orleans Pelicans,Detroit Pistons,2,35-41,4,two point jumper,True,1,False,True
+2014-12-11,16.85,New Orleans Pelicans,Detroit Pistons,2,35-43,6,layup,True,0,True,True
+2014-12-11,17.3166666667,New Orleans Pelicans,Detroit Pistons,2,37-45,6,two point jumper,True,19,True,True
+2014-12-11,18.5666666667,New Orleans Pelicans,Detroit Pistons,2,37-49,10,layup,True,0,True,True
+2014-12-11,19.5333333333,New Orleans Pelicans,Detroit Pistons,2,39-50,10,free throw,True,15,True,True
+2014-12-11,19.5333333333,New Orleans Pelicans,Detroit Pistons,2,39-51,11,free throw,True,15,True,True
+2014-12-11,20.9,New Orleans Pelicans,Detroit Pistons,2,44-53,7,layup,True,0,False,True
+2014-12-11,38.7166666667,New Orleans Pelicans,Detroit Pistons,4,80-83,1,two point shot,True,3,False,True
+2014-12-11,52.8166666667,New Orleans Pelicans,Detroit Pistons,5,106-109,2,free throw,True,15,True,True
+2014-12-11,52.8166666667,New Orleans Pelicans,Detroit Pistons,5,106-110,3,free throw,True,15,True,True
+2014-10-30,8.41666666667,New Orleans Pelicans,Indiana Pacers,1,9-18,7,two point shot,True,3,True,False
+2014-10-30,11.6166666667,New Orleans Pelicans,Indiana Pacers,1,14-24,8,layup,True,0,False,False
+2014-10-30,12.7666666667,New Orleans Pelicans,Indiana Pacers,2,16-24,6,two point shot,True,15,False,False
+2014-10-30,34.6333333333,New Orleans Pelicans,Indiana Pacers,3,58-64,4,two point jumper,True,9,False,False
+2014-10-30,37.1333333333,New Orleans Pelicans,Indiana Pacers,4,63-70,5,two point shot,True,19,True,False
+2014-10-30,37.8833333333,New Orleans Pelicans,Indiana Pacers,4,63-70,5,two point jumper,True,20,False,False
+2014-01-04,11.35,New Orleans Pelicans,Indiana Pacers,1,27-13,12,two point jumper,False,1,False,False
+2014-01-04,13.75,New Orleans Pelicans,Indiana Pacers,2,31-17,12,layup,False,0,True,False
+2014-01-04,14.65,New Orleans Pelicans,Indiana Pacers,2,31-21,8,layup,False,0,False,False
+2014-01-04,18.5333333333,New Orleans Pelicans,Indiana Pacers,2,39-31,6,two point jumper,False,1,False,False
+2014-01-04,32.05,New Orleans Pelicans,Indiana Pacers,3,57-63,-8,two point jumper,False,1,False,False
+2014-01-04,34.2166666667,New Orleans Pelicans,Indiana Pacers,3,58-70,-13,free throw,False,15,True,False
+2014-01-04,34.2166666667,New Orleans Pelicans,Indiana Pacers,3,59-70,-12,free throw,False,15,True,False
+2014-01-04,34.6833333333,New Orleans Pelicans,Indiana Pacers,3,60-70,-11,free throw,False,15,True,False
+2014-01-04,34.6833333333,New Orleans Pelicans,Indiana Pacers,3,61-70,-10,free throw,False,15,True,False
+2014-01-04,36.0,New Orleans Pelicans,Indiana Pacers,3,61-74,-16,three point jumper,False,25,False,False
+2014-01-04,38.7166666667,New Orleans Pelicans,Indiana Pacers,4,65-80,-17,layup,False,0,True,False
+2014-01-04,38.7166666667,New Orleans Pelicans,Indiana Pacers,4,66-80,-15,free throw,False,15,True,False
+2014-01-04,39.3666666667,New Orleans Pelicans,Indiana Pacers,4,68-80,-14,two point jumper,False,5,True,False
+2014-01-04,39.9,New Orleans Pelicans,Indiana Pacers,4,68-82,-15,free throw,False,15,False,False
+2014-01-04,39.9,New Orleans Pelicans,Indiana Pacers,4,69-82,-14,free throw,False,15,True,False
+2014-01-04,40.85,New Orleans Pelicans,Indiana Pacers,4,69-86,-19,layup,False,0,False,False
+2014-02-12,10.75,New Orleans Pelicans,Milwaukee Bucks,1,23-17,4,layup,False,0,False,False
+2014-02-12,11.2333333333,New Orleans Pelicans,Milwaukee Bucks,1,23-17,4,layup,False,0,False,False
+2014-02-12,13.2666666667,New Orleans Pelicans,Milwaukee Bucks,2,27-23,2,layup,False,0,True,False
+2014-02-12,15.05,New Orleans Pelicans,Milwaukee Bucks,2,32-29,2,free throw,False,15,False,False
+2014-02-12,15.05,New Orleans Pelicans,Milwaukee Bucks,2,33-29,3,free throw,False,15,True,False
+2014-02-12,15.5666666667,New Orleans Pelicans,Milwaukee Bucks,2,35-31,2,two point shot,False,5,True,False
+2014-02-12,18.2333333333,New Orleans Pelicans,Milwaukee Bucks,2,35-34,-1,layup,False,0,False,False
+2014-02-12,35.15,New Orleans Pelicans,Milwaukee Bucks,3,80-73,5,layup,False,0,True,False
+2014-02-12,36.2666666667,New Orleans Pelicans,Milwaukee Bucks,4,84-76,7,free throw,False,15,True,False
+2014-02-12,36.2666666667,New Orleans Pelicans,Milwaukee Bucks,4,84-76,7,free throw,False,15,False,False
+2014-02-12,37.0,New Orleans Pelicans,Milwaukee Bucks,4,84-78,4,two point shot,False,1,False,False
+2014-02-12,39.15,New Orleans Pelicans,Milwaukee Bucks,4,86-84,0,layup,False,0,True,False
+2014-02-12,44.05,New Orleans Pelicans,Milwaukee Bucks,4,96-90,4,two point jumper,False,1,False,False
+2014-02-12,46.9,New Orleans Pelicans,Milwaukee Bucks,4,100-95,3,two point shot,False,1,True,False
+2014-12-04,8.75,New Orleans Pelicans,Dallas Mavericks,1,21-21,-1,free throw,True,15,True,True
+2014-12-04,8.75,New Orleans Pelicans,Dallas Mavericks,1,21-22,0,free throw,True,15,True,True
+2014-12-04,10.15,New Orleans Pelicans,Dallas Mavericks,1,26-22,-6,layup,True,0,False,True
+2014-12-04,13.0,New Orleans Pelicans,Dallas Mavericks,2,27-27,-1,free throw,True,15,True,True
+2014-12-04,13.0,New Orleans Pelicans,Dallas Mavericks,2,27-28,0,free throw,True,15,True,True
+2014-12-04,14.4,New Orleans Pelicans,Dallas Mavericks,2,27-30,0,three point jumper,True,25,False,True
+2014-12-04,17.1666666667,New Orleans Pelicans,Dallas Mavericks,2,35-37,0,layup,True,0,False,True
+2014-12-04,18.3833333333,New Orleans Pelicans,Dallas Mavericks,2,39-39,-2,layup,True,0,False,True
+2014-12-04,31.3166666667,New Orleans Pelicans,Dallas Mavericks,3,63-65,0,two point jumper,True,3,False,True
+2014-12-04,32.1,New Orleans Pelicans,Dallas Mavericks,3,65-69,2,layup,True,0,True,True
+2014-12-04,37.5833333333,New Orleans Pelicans,Dallas Mavericks,4,79-77,-4,two point jumper,True,18,False,True
+2014-12-04,38.7666666667,New Orleans Pelicans,Dallas Mavericks,4,83-78,-6,free throw,True,15,True,True
+2014-12-04,38.7666666667,New Orleans Pelicans,Dallas Mavericks,4,83-79,-5,free throw,True,15,True,True
+2014-01-10,11.1166666667,New Orleans Pelicans,Dallas Mavericks,1,29-22,-9,layup,True,0,False,True
+2014-01-10,22.8,New Orleans Pelicans,Dallas Mavericks,2,57-47,-12,layup,True,0,False,True
+2014-02-26,9.86666666667,New Orleans Pelicans,Dallas Mavericks,1,19-16,1,two point shot,False,1,False,True
+2014-02-26,12.0,New Orleans Pelicans,Dallas Mavericks,1,27-20,4,three point jumper,False,47,False,True
+2014-02-26,26.7666666667,New Orleans Pelicans,Dallas Mavericks,3,48-54,-8,two point shot,False,1,False,True
+2014-02-26,28.9833333333,New Orleans Pelicans,Dallas Mavericks,3,52-58,-8,two point shot,False,6,False,True
+2014-02-26,31.6666666667,New Orleans Pelicans,Dallas Mavericks,3,60-67,-9,layup,False,0,True,True
+2014-02-26,31.6666666667,New Orleans Pelicans,Dallas Mavericks,3,60-67,-8,free throw,False,15,False,True
+2014-02-26,32.6833333333,New Orleans Pelicans,Dallas Mavericks,3,62-69,-10,three point jumper,False,25,False,True
+2014-02-26,44.5166666667,New Orleans Pelicans,Dallas Mavericks,4,81-97,-18,layup,False,0,True,True
+2014-12-28,7.35,New Orleans Pelicans,Houston Rockets,1,20-18,0,layup,False,0,True,True
+2014-12-28,9.58333333333,New Orleans Pelicans,Houston Rockets,1,20-23,-5,hook shot,False,5,False,True
+2014-12-28,11.5333333333,New Orleans Pelicans,Houston Rockets,1,22-31,-11,two point shot,False,3,True,True
+2014-12-28,12.0,New Orleans Pelicans,Houston Rockets,1,22-31,-12,three point jumper,False,33,False,True
+2014-12-28,12.2,New Orleans Pelicans,Houston Rockets,2,22-31,-11,unknown,False,7,False,True
+2014-12-28,13.3166666667,New Orleans Pelicans,Houston Rockets,2,26-31,-7,two point shot,False,1,True,True
+2014-12-28,15.25,New Orleans Pelicans,Houston Rockets,2,30-34,-7,three point jumper,False,24,False,True
+2014-12-28,15.5666666667,New Orleans Pelicans,Houston Rockets,2,32-34,-4,layup,False,0,True,True
+2014-12-28,19.8166666667,New Orleans Pelicans,Houston Rockets,2,38-47,-11,two point shot,False,1,False,True
+2014-12-28,24.0,New Orleans Pelicans,Houston Rockets,2,52-52,-3,three point jumper,False,23,False,True
+2014-12-28,32.3166666667,New Orleans Pelicans,Houston Rockets,3,69-65,1,three point jumper,False,24,True,True
+2014-12-28,34.4166666667,New Orleans Pelicans,Houston Rockets,3,73-72,-1,two point shot,False,1,False,True
+2014-12-28,34.9,New Orleans Pelicans,Houston Rockets,3,73-72,-1,layup,False,0,False,True
+2014-12-28,37.7166666667,New Orleans Pelicans,Houston Rockets,4,76-78,-5,three point jumper,False,25,True,True
+2014-12-28,39.5,New Orleans Pelicans,Houston Rockets,4,80-81,-3,layup,False,0,True,True
+2014-12-28,42.6,New Orleans Pelicans,Houston Rockets,4,88-86,0,layup,False,0,False,True
+2014-12-28,43.7,New Orleans Pelicans,Houston Rockets,4,92-88,2,two point jumper,False,4,False,True
+2014-12-28,47.8833333333,New Orleans Pelicans,Houston Rockets,4,98-107,-11,layup,False,0,False,True
+2014-11-06,11.5333333333,New Orleans Pelicans,Memphis Grizzlies,1,33-18,13,two point shot,False,14,False,True
+2014-11-06,16.1666666667,New Orleans Pelicans,Memphis Grizzlies,2,41-25,14,layup,False,0,True,True
+2014-11-06,16.6,New Orleans Pelicans,Memphis Grizzlies,2,42-25,16,free throw,False,15,True,True
+2014-11-06,16.6,New Orleans Pelicans,Memphis Grizzlies,2,43-25,17,free throw,False,15,True,True
+2014-11-06,21.3333333333,New Orleans Pelicans,Memphis Grizzlies,2,46-33,10,three point jumper,False,26,False,True
+2014-11-06,22.1,New Orleans Pelicans,Memphis Grizzlies,2,47-35,10,two point shot,False,21,False,True
+2014-11-06,23.5166666667,New Orleans Pelicans,Memphis Grizzlies,2,49-39,8,two point shot,False,1,True,True
+2014-11-06,33.9833333333,New Orleans Pelicans,Memphis Grizzlies,3,75-52,21,layup,False,0,True,True
+2014-11-06,35.3,New Orleans Pelicans,Memphis Grizzlies,3,79-56,21,two point jumper,False,21,True,True
+2014-11-06,38.0,New Orleans Pelicans,Memphis Grizzlies,4,88-59,27,layup,False,0,True,True
+2014-11-06,45.2833333333,New Orleans Pelicans,Memphis Grizzlies,4,93-81,10,layup,False,0,False,True
+2014-11-06,46.2333333333,New Orleans Pelicans,Memphis Grizzlies,4,97-84,11,layup,False,0,True,True
+2014-11-06,47.5666666667,New Orleans Pelicans,Memphis Grizzlies,4,99-84,13,two point shot,False,1,True,True
+2014-12-13,20.2833333333,New Orleans Pelicans,Memphis Grizzlies,2,48-43,-6,free throw,True,15,True,False
+2014-12-13,20.2833333333,New Orleans Pelicans,Memphis Grizzlies,2,48-44,-5,free throw,True,15,True,False
+2014-12-13,23.25,New Orleans Pelicans,Memphis Grizzlies,2,54-52,-3,free throw,True,15,True,False
+2014-12-13,23.25,New Orleans Pelicans,Memphis Grizzlies,2,54-53,-2,free throw,True,15,True,False
+2014-12-13,24.0,New Orleans Pelicans,Memphis Grizzlies,2,54-54,-1,free throw,True,15,True,False
+2014-12-13,24.0,New Orleans Pelicans,Memphis Grizzlies,2,54-55,0,free throw,True,15,True,False
+2014-01-20,7.45,New Orleans Pelicans,Memphis Grizzlies,1,16-10,5,free throw,False,15,True,True
+2014-01-20,7.45,New Orleans Pelicans,Memphis Grizzlies,1,17-10,6,free throw,False,15,True,True
+2014-01-20,9.03333333333,New Orleans Pelicans,Memphis Grizzlies,1,19-15,1,three point jumper,False,26,False,True
+2014-01-20,14.0833333333,New Orleans Pelicans,Memphis Grizzlies,2,29-20,7,two point shot,False,7,True,True
+2014-01-20,15.5,New Orleans Pelicans,Memphis Grizzlies,2,29-22,5,two point shot,False,13,False,True
+2014-01-20,15.95,New Orleans Pelicans,Memphis Grizzlies,2,29-22,5,two point jumper,False,1,False,True
+2014-01-20,17.0666666667,New Orleans Pelicans,Memphis Grizzlies,2,32-24,6,two point jumper,False,3,False,True
+2014-01-20,37.0166666667,New Orleans Pelicans,Memphis Grizzlies,4,70-71,-3,layup,False,0,False,True
+2014-01-20,39.25,New Orleans Pelicans,Memphis Grizzlies,4,76-74,0,two point shot,False,1,True,True
+2014-01-20,39.8833333333,New Orleans Pelicans,Memphis Grizzlies,4,78-76,0,two point shot,False,1,True,True
+2014-01-20,39.8833333333,New Orleans Pelicans,Memphis Grizzlies,4,79-76,2,free throw,False,15,True,True
+2014-01-20,41.5,New Orleans Pelicans,Memphis Grizzlies,4,84-76,7,free throw,False,15,True,True
+2014-01-20,41.5,New Orleans Pelicans,Memphis Grizzlies,4,85-76,8,free throw,False,15,True,True
+2014-01-20,42.2,New Orleans Pelicans,Memphis Grizzlies,4,85-76,7,two point shot,False,19,False,True
+2014-01-20,43.9833333333,New Orleans Pelicans,Memphis Grizzlies,4,87-83,2,two point shot,False,1,False,True
+2014-01-20,45.9333333333,New Orleans Pelicans,Memphis Grizzlies,4,91-85,4,layup,False,0,True,True
+2014-01-20,46.8666666667,New Orleans Pelicans,Memphis Grizzlies,4,93-89,2,two point shot,False,5,True,True
+2014-11-01,9.23333333333,New Orleans Pelicans,Orlando Magic,1,16-20,-7,three point jumper,False,25,False,True
+2014-11-01,10.4833333333,New Orleans Pelicans,Orlando Magic,1,16-22,-8,layup,False,0,False,True
+2014-11-01,11.2166666667,New Orleans Pelicans,Orlando Magic,1,18-22,-6,two point jumper,False,10,False,True
+2014-11-01,12.0,New Orleans Pelicans,Orlando Magic,1,20-22,-5,three point jumper,False,58,False,True
+2014-11-01,16.85,New Orleans Pelicans,Orlando Magic,2,27-32,-7,layup,False,0,False,True
+2014-11-02,7.03333333333,New Orleans Pelicans,Charlotte Bobcats,1,8-18,8,two point jumper,True,4,False,False
+2014-11-02,7.48333333333,New Orleans Pelicans,Charlotte Bobcats,1,8-19,10,free throw,True,15,True,False
+2014-11-02,7.48333333333,New Orleans Pelicans,Charlotte Bobcats,1,8-20,11,free throw,True,15,True,False
+2014-11-02,8.83333333333,New Orleans Pelicans,Charlotte Bobcats,1,10-22,10,two point jumper,True,9,False,False
+2014-11-02,11.6,New Orleans Pelicans,Charlotte Bobcats,1,15-32,15,two point jumper,True,17,False,False
+2014-11-02,12.8166666667,New Orleans Pelicans,Charlotte Bobcats,2,15-37,20,two point shot,True,1,True,False
+2014-11-02,16.2,New Orleans Pelicans,Charlotte Bobcats,2,25-41,14,layup,True,0,False,False
+2014-11-02,21.9166666667,New Orleans Pelicans,Charlotte Bobcats,2,37-54,15,layup,True,0,True,False
+2014-11-02,24.0,New Orleans Pelicans,Charlotte Bobcats,2,41-56,12,three point jumper,True,40,False,False
+2014-11-02,33.9,New Orleans Pelicans,Charlotte Bobcats,3,59-74,13,layup,True,0,True,False
+2014-11-02,33.9,New Orleans Pelicans,Charlotte Bobcats,3,59-75,15,free throw,True,15,True,False
+2014-11-02,40.35,New Orleans Pelicans,Charlotte Bobcats,4,71-89,16,layup,True,0,True,False
+2014-11-02,41.2833333333,New Orleans Pelicans,Charlotte Bobcats,4,73-91,16,two point shot,True,1,True,False
+2014-11-02,42.1,New Orleans Pelicans,Charlotte Bobcats,4,73-93,18,layup,True,0,True,False
+2014-11-02,43.85,New Orleans Pelicans,Charlotte Bobcats,4,75-98,21,two point jumper,True,16,False,False
+2014-11-02,47.0833333333,New Orleans Pelicans,Charlotte Bobcats,4,80-105,23,layup,True,0,False,False
+2014-11-13,13.0,New Orleans Pelicans,Utah Jazz,2,31-22,7,layup,False,0,True,False
+2014-11-13,14.7,New Orleans Pelicans,Utah Jazz,2,34-27,5,two point jumper,False,1,True,False
+2014-11-13,15.3166666667,New Orleans Pelicans,Utah Jazz,2,36-27,7,two point shot,False,1,True,False
+2014-11-13,17.8166666667,New Orleans Pelicans,Utah Jazz,2,42-34,6,layup,False,0,True,False
+2014-11-13,17.8166666667,New Orleans Pelicans,Utah Jazz,2,43-34,8,free throw,False,15,True,False
+2014-11-13,24.0,New Orleans Pelicans,Utah Jazz,2,55-45,8,two point jumper,False,5,False,False
+2014-11-13,29.9166666667,New Orleans Pelicans,Utah Jazz,3,63-58,2,three point jumper,False,24,False,False
+2014-11-13,30.3166666667,New Orleans Pelicans,Utah Jazz,3,65-60,3,layup,False,0,True,False
+2014-11-13,33.2,New Orleans Pelicans,Utah Jazz,3,70-70,-2,layup,False,0,False,False
+2014-11-13,36.5666666667,New Orleans Pelicans,Utah Jazz,4,78-73,4,free throw,False,15,True,False
+2014-11-13,36.5666666667,New Orleans Pelicans,Utah Jazz,4,79-73,5,free throw,False,15,True,False
+2014-11-13,38.5666666667,New Orleans Pelicans,Utah Jazz,4,83-75,6,layup,False,0,False,False
+2014-11-13,41.0,New Orleans Pelicans,Utah Jazz,4,87-83,2,two point shot,False,12,True,False
+2014-11-13,43.0666666667,New Orleans Pelicans,Utah Jazz,4,93-92,-1,layup,False,0,True,False
+2014-11-13,44.0333333333,New Orleans Pelicans,Utah Jazz,4,97-94,1,layup,False,0,True,False
+2014-11-20,9.86666666667,New Orleans Pelicans,Utah Jazz,1,13-14,-1,layup,True,0,False,False
+2014-11-20,9.95,New Orleans Pelicans,Utah Jazz,1,13-16,1,layup,True,0,True,False
+2014-11-20,12.6333333333,New Orleans Pelicans,Utah Jazz,2,17-22,3,two point shot,True,1,True,False
+2014-11-20,13.3166666667,New Orleans Pelicans,Utah Jazz,2,19-23,3,free throw,True,15,True,False
+2014-11-20,13.3166666667,New Orleans Pelicans,Utah Jazz,2,19-23,3,free throw,True,15,False,False
+2014-11-20,15.8166666667,New Orleans Pelicans,Utah Jazz,2,24-29,3,layup,True,0,True,False
+2014-11-20,24.0,New Orleans Pelicans,Utah Jazz,2,41-45,1,three point jumper,True,39,False,False
+2014-11-20,32.5666666667,New Orleans Pelicans,Utah Jazz,3,61-65,3,free throw,True,15,True,False
+2014-11-20,32.5666666667,New Orleans Pelicans,Utah Jazz,3,61-66,4,free throw,True,15,True,False
+2014-11-20,33.95,New Orleans Pelicans,Utah Jazz,3,65-68,1,two point jumper,True,3,False,False
+2014-11-20,34.4333333333,New Orleans Pelicans,Utah Jazz,3,65-68,1,layup,True,0,False,False
+2014-11-20,37.0666666667,New Orleans Pelicans,Utah Jazz,4,71-75,2,layup,True,0,True,False
+2014-11-20,37.5666666667,New Orleans Pelicans,Utah Jazz,4,71-77,4,layup,True,0,True,False
+2014-11-20,40.4166666667,New Orleans Pelicans,Utah Jazz,4,75-87,10,layup,True,0,False,False
+2014-11-20,41.4833333333,New Orleans Pelicans,Utah Jazz,4,77-88,8,three point jumper,True,24,False,False
+2014-11-20,47.5666666667,New Orleans Pelicans,Utah Jazz,4,96-105,8,free throw,True,15,False,False
+2014-11-20,47.5666666667,New Orleans Pelicans,Utah Jazz,4,96-105,8,free throw,True,15,False,False
+2014-11-25,7.53333333333,New Orleans Pelicans,San Antonio Spurs,1,10-16,-8,layup,False,0,False,True
+2014-11-25,10.4,New Orleans Pelicans,San Antonio Spurs,1,19-24,-7,layup,False,0,True,True
+2014-11-25,12.0,New Orleans Pelicans,San Antonio Spurs,1,23-27,-6,layup,False,0,True,True
+2014-11-25,12.0,New Orleans Pelicans,San Antonio Spurs,1,24-27,-4,free throw,False,15,True,True
+2014-11-25,14.45,New Orleans Pelicans,San Antonio Spurs,2,26-31,-7,two point jumper,False,20,False,True
+2014-11-25,14.95,New Orleans Pelicans,San Antonio Spurs,2,26-31,-7,two point shot,False,2,False,True
+2014-11-25,15.2,New Orleans Pelicans,San Antonio Spurs,2,26-31,-7,tip shot,False,0,False,True
+2014-11-25,17.5,New Orleans Pelicans,San Antonio Spurs,2,28-38,-12,unknown,False,5,False,True
+2014-11-25,31.1,New Orleans Pelicans,San Antonio Spurs,3,50-72,-24,layup,False,0,True,True
+2014-11-25,33.1,New Orleans Pelicans,San Antonio Spurs,3,56-81,-27,layup,False,0,False,True
+2014-11-25,33.6166666667,New Orleans Pelicans,San Antonio Spurs,3,61-81,-22,layup,False,0,True,True
+2014-11-25,33.6166666667,New Orleans Pelicans,San Antonio Spurs,3,61-81,-21,free throw,False,15,True,True
+2014-11-25,37.25,New Orleans Pelicans,San Antonio Spurs,4,67-93,-29,three point jumper,False,26,False,True
+2014-11-25,38.5,New Orleans Pelicans,San Antonio Spurs,4,69-99,-32,layup,False,0,True,True
+2014-12-06,11.55,New Orleans Pelicans,Oklahoma City Thunder,1,24-25,0,free throw,True,15,True,True
+2014-12-06,11.55,New Orleans Pelicans,Oklahoma City Thunder,1,24-26,1,free throw,True,15,True,True
+2014-12-06,13.2666666667,New Orleans Pelicans,Oklahoma City Thunder,2,24-26,0,two point jumper,True,18,False,True
+2014-12-06,13.95,New Orleans Pelicans,Oklahoma City Thunder,2,26-26,-2,two point jumper,True,1,False,True
+2014-12-06,17.45,New Orleans Pelicans,Oklahoma City Thunder,2,35-35,-2,layup,True,0,True,True
+2014-12-06,17.45,New Orleans Pelicans,Oklahoma City Thunder,2,35-36,0,free throw,True,15,True,True
+2014-12-06,18.0333333333,New Orleans Pelicans,Oklahoma City Thunder,2,35-38,1,two point jumper,True,1,True,True
+2014-12-06,18.3833333333,New Orleans Pelicans,Oklahoma City Thunder,2,38-39,0,free throw,True,15,True,True
+2014-12-06,18.3833333333,New Orleans Pelicans,Oklahoma City Thunder,2,38-40,1,free throw,True,15,True,True
+2014-12-06,22.1,New Orleans Pelicans,Oklahoma City Thunder,2,50-48,-4,layup,True,0,True,True
+2014-12-06,24.0,New Orleans Pelicans,Oklahoma City Thunder,2,58-52,-9,three point jumper,True,45,False,True
+2014-12-06,33.45,New Orleans Pelicans,Oklahoma City Thunder,3,76-64,-15,three point jumper,True,23,False,True
+2014-12-06,33.8333333333,New Orleans Pelicans,Oklahoma City Thunder,3,76-64,-14,layup,True,0,False,True
+2014-12-21,9.98333333333,New Orleans Pelicans,Portland Trail Blazers,1,23-15,7,free throw,False,15,True,False
+2014-12-21,9.98333333333,New Orleans Pelicans,Portland Trail Blazers,1,24-15,8,free throw,False,15,True,False
+2014-12-21,11.2666666667,New Orleans Pelicans,Portland Trail Blazers,1,24-19,3,two point jumper,False,1,False,False
+2014-12-21,12.95,New Orleans Pelicans,Portland Trail Blazers,2,26-23,1,two point jumper,False,21,False,False
+2014-12-21,13.6333333333,New Orleans Pelicans,Portland Trail Blazers,2,28-23,3,layup,False,0,True,False
+2014-12-21,14.2,New Orleans Pelicans,Portland Trail Blazers,2,30-23,5,layup,False,0,True,False
+2014-12-21,15.1333333333,New Orleans Pelicans,Portland Trail Blazers,2,32-28,2,layup,False,0,True,False
+2014-12-21,16.4833333333,New Orleans Pelicans,Portland Trail Blazers,2,37-30,5,two point jumper,False,6,False,False
+2014-12-21,30.1,New Orleans Pelicans,Portland Trail Blazers,3,64-69,-7,layup,False,0,True,False
+2014-12-21,31.2,New Orleans Pelicans,Portland Trail Blazers,3,64-73,-11,layup,False,0,False,False
+2014-12-21,31.2333333333,New Orleans Pelicans,Portland Trail Blazers,3,67-73,-8,layup,False,0,True,False
+2014-12-21,31.2333333333,New Orleans Pelicans,Portland Trail Blazers,3,67-73,-7,free throw,False,15,True,False
+2014-12-21,34.2166666667,New Orleans Pelicans,Portland Trail Blazers,3,75-79,-6,layup,False,0,True,False
+2014-12-21,37.6833333333,New Orleans Pelicans,Portland Trail Blazers,4,82-91,-11,layup,False,0,False,False
+2014-12-21,38.0,New Orleans Pelicans,Portland Trail Blazers,4,84-91,-9,layup,False,0,True,False
+2014-12-21,38.95,New Orleans Pelicans,Portland Trail Blazers,4,86-93,-9,layup,False,0,False,False
+2014-12-21,38.95,New Orleans Pelicans,Portland Trail Blazers,4,86-93,-8,free throw,False,15,False,False
+2014-12-21,38.95,New Orleans Pelicans,Portland Trail Blazers,4,86-93,-8,free throw,False,15,False,False
+2014-12-21,39.45,New Orleans Pelicans,Portland Trail Blazers,4,86-96,-13,three point jumper,False,25,False,False
+2014-12-21,43.6,New Orleans Pelicans,Portland Trail Blazers,4,98-101,-5,two point jumper,False,21,False,False
+2014-12-21,43.6333333333,New Orleans Pelicans,Portland Trail Blazers,4,100-101,-3,layup,False,0,True,False
+2014-12-21,45.6833333333,New Orleans Pelicans,Portland Trail Blazers,4,103-103,-2,layup,False,0,False,False
+2014-12-21,46.9666666667,New Orleans Pelicans,Portland Trail Blazers,4,105-106,-3,two point jumper,False,5,False,False
+2014-12-21,47.0,New Orleans Pelicans,Portland Trail Blazers,4,105-106,-3,two point jumper,False,6,False,False
+2014-12-21,47.6666666667,New Orleans Pelicans,Portland Trail Blazers,4,107-108,-3,layup,False,0,True,False
+2014-12-21,48.0,New Orleans Pelicans,Portland Trail Blazers,4,107-110,-6,three point jumper,False,25,False,False
+2014-12-27,8.78333333333,New Orleans Pelicans,Denver Nuggets,1,20-21,-1,layup,True,0,False,False
+2014-12-27,11.35,New Orleans Pelicans,Denver Nuggets,1,25-30,3,layup,True,0,True,False
+2014-12-27,13.25,New Orleans Pelicans,Denver Nuggets,2,26-34,6,layup,True,0,False,False
+2014-12-27,15.5,New Orleans Pelicans,Denver Nuggets,2,26-36,8,two point jumper,True,19,False,False
+2014-12-27,15.9333333333,New Orleans Pelicans,Denver Nuggets,2,26-36,8,two point jumper,True,20,False,False
+2014-12-27,17.2333333333,New Orleans Pelicans,Denver Nuggets,2,28-41,11,two point shot,True,12,True,False
+2014-12-27,17.9166666667,New Orleans Pelicans,Denver Nuggets,2,30-43,11,two point shot,True,1,True,False
+2014-12-27,23.1666666667,New Orleans Pelicans,Denver Nuggets,2,43-55,11,free throw,True,15,True,False
+2014-12-27,23.1666666667,New Orleans Pelicans,Denver Nuggets,2,43-56,12,free throw,True,15,True,False
+2014-12-27,23.65,New Orleans Pelicans,Denver Nuggets,2,43-58,13,two point shot,True,2,True,False
+2014-12-27,34.8666666667,New Orleans Pelicans,Denver Nuggets,3,64-81,14,three point jumper,True,23,True,False
+2014-12-27,35.4166666667,New Orleans Pelicans,Denver Nuggets,3,64-81,15,layup,True,0,False,False
+2014-12-27,38.1333333333,New Orleans Pelicans,Denver Nuggets,4,70-86,14,two point jumper,True,19,True,False
+2014-12-27,38.9666666667,New Orleans Pelicans,Denver Nuggets,4,72-86,12,layup,True,0,False,False
+2014-12-27,39.45,New Orleans Pelicans,Denver Nuggets,4,74-88,11,three point jumper,True,25,False,False
+2014-12-27,46.65,New Orleans Pelicans,Denver Nuggets,4,87-101,12,layup,True,0,True,False
+2014-12-27,47.25,New Orleans Pelicans,Denver Nuggets,4,89-102,12,free throw,True,15,True,False
+2014-12-27,47.25,New Orleans Pelicans,Denver Nuggets,4,89-103,13,free throw,True,15,True,False
+2014-12-30,10.0166666667,New Orleans Pelicans,Portland Trail Blazers,1,15-23,6,two point shot,True,1,True,True
+2014-12-30,11.7166666667,New Orleans Pelicans,Portland Trail Blazers,1,21-26,3,layup,True,0,True,True
+2014-12-30,12.5833333333,New Orleans Pelicans,Portland Trail Blazers,2,23-26,1,layup,True,0,False,True
+2014-12-30,13.95,New Orleans Pelicans,Portland Trail Blazers,2,27-32,3,layup,True,0,True,True
+2014-12-30,14.75,New Orleans Pelicans,Portland Trail Blazers,2,33-33,-1,free throw,True,15,True,True
+2014-12-30,14.75,New Orleans Pelicans,Portland Trail Blazers,2,33-34,0,free throw,True,15,True,True
+2014-12-30,15.1333333333,New Orleans Pelicans,Portland Trail Blazers,2,33-36,1,layup,True,0,True,True
+2014-12-30,15.4333333333,New Orleans Pelicans,Portland Trail Blazers,2,33-38,3,layup,True,0,True,True
+2014-12-30,17.25,New Orleans Pelicans,Portland Trail Blazers,2,33-44,9,two point jumper,True,3,True,True
+2014-12-30,31.6,New Orleans Pelicans,Portland Trail Blazers,3,69-74,3,layup,True,0,True,True
+2014-12-30,33.9666666667,New Orleans Pelicans,Portland Trail Blazers,3,74-83,7,layup,True,0,True,True
+2014-12-30,34.3333333333,New Orleans Pelicans,Portland Trail Blazers,3,75-83,5,three point jumper,True,26,False,True
+2014-12-30,39.6333333333,New Orleans Pelicans,Portland Trail Blazers,4,89-92,1,two point jumper,True,11,False,True
+2014-12-30,44.7666666667,New Orleans Pelicans,Portland Trail Blazers,4,100-102,0,two point jumper,True,3,False,True
+2014-12-30,47.9833333333,New Orleans Pelicans,Portland Trail Blazers,4,108-110,0,two point shot,True,14,True,True
+2014-01-01,9.05,New Orleans Pelicans,Minnesota Timberwolves,1,23-21,0,two point shot,False,1,True,False
+2014-01-01,11.4,New Orleans Pelicans,Minnesota Timberwolves,1,25-31,-7,free throw,False,15,False,False
+2014-01-01,11.4,New Orleans Pelicans,Minnesota Timberwolves,1,26-31,-6,free throw,False,15,True,False
+2014-01-01,11.85,New Orleans Pelicans,Minnesota Timberwolves,1,26-33,-9,layup,False,0,False,False
+2014-01-01,13.65,New Orleans Pelicans,Minnesota Timberwolves,2,30-35,-7,layup,False,0,False,False
+2014-01-01,14.1333333333,New Orleans Pelicans,Minnesota Timberwolves,2,32-35,-5,layup,False,0,True,False
+2014-01-01,15.6833333333,New Orleans Pelicans,Minnesota Timberwolves,2,32-40,-10,two point shot,False,1,False,False
+2014-01-01,20.4333333333,New Orleans Pelicans,Minnesota Timberwolves,2,43-48,-8,three point jumper,False,25,True,False
+2014-01-01,31.4833333333,New Orleans Pelicans,Minnesota Timberwolves,3,57-87,-32,two point jumper,False,22,False,False
+2014-01-01,32.1666666667,New Orleans Pelicans,Minnesota Timberwolves,3,57-87,-32,layup,False,0,False,False
+2014-01-01,32.75,New Orleans Pelicans,Minnesota Timberwolves,3,61-87,-28,layup,False,0,True,False
+2014-01-01,33.2,New Orleans Pelicans,Minnesota Timberwolves,3,63-89,-28,two point shot,False,1,True,False
+2014-01-01,34.8,New Orleans Pelicans,Minnesota Timberwolves,3,70-94,-26,two point shot,False,15,True,False
+2014-01-01,35.3333333333,New Orleans Pelicans,Minnesota Timberwolves,3,71-97,-27,free throw,False,15,True,False
+2014-01-01,35.3333333333,New Orleans Pelicans,Minnesota Timberwolves,3,72-97,-26,free throw,False,15,True,False
+2014-01-01,37.7166666667,New Orleans Pelicans,Minnesota Timberwolves,4,79-102,-25,layup,False,0,False,False
+2014-01-07,11.9666666667,New Orleans Pelicans,Miami Heat,1,24-25,-3,layup,False,0,False,True
+2014-01-07,14.2,New Orleans Pelicans,Miami Heat,2,28-27,-1,two point shot,False,1,True,True
+2014-01-07,15.3833333333,New Orleans Pelicans,Miami Heat,2,30-29,-1,two point shot,False,1,False,True
+2014-01-07,15.4333333333,New Orleans Pelicans,Miami Heat,2,32-29,1,layup,False,0,True,True
+2014-01-07,15.7666666667,New Orleans Pelicans,Miami Heat,2,32-29,1,layup,False,0,False,True
+2014-01-07,16.2833333333,New Orleans Pelicans,Miami Heat,2,36-29,5,layup,False,0,True,True
+2014-01-07,32.35,New Orleans Pelicans,Miami Heat,3,61-63,-5,three point jumper,False,23,False,True
+2014-01-07,33.6166666667,New Orleans Pelicans,Miami Heat,3,61-66,-7,layup,False,0,False,True
+2014-01-07,34.7333333333,New Orleans Pelicans,Miami Heat,3,66-70,-7,three point jumper,False,25,True,True
+2014-01-07,38.3833333333,New Orleans Pelicans,Miami Heat,4,70-80,-12,unknown,False,7,False,True
+2014-01-07,40.95,New Orleans Pelicans,Miami Heat,4,75-87,-13,free throw,False,15,True,True
+2014-01-07,40.95,New Orleans Pelicans,Miami Heat,4,76-87,-12,free throw,False,15,True,True
+2014-01-07,42.4833333333,New Orleans Pelicans,Miami Heat,4,77-94,-18,free throw,False,15,True,True
+2014-01-07,42.4833333333,New Orleans Pelicans,Miami Heat,4,78-94,-17,free throw,False,15,True,True
+2014-01-08,10.9333333333,New Orleans Pelicans,Washington Wizards,1,25-23,-3,free throw,True,15,True,True
+2014-01-08,10.9333333333,New Orleans Pelicans,Washington Wizards,1,25-23,-3,free throw,True,15,False,True
+2014-01-08,12.0,New Orleans Pelicans,Washington Wizards,1,28-27,-3,two point jumper,True,12,False,True
+2014-01-08,13.8166666667,New Orleans Pelicans,Washington Wizards,2,33-28,-7,layup,True,0,False,True
+2014-01-08,14.6833333333,New Orleans Pelicans,Washington Wizards,2,33-28,-7,layup,True,0,False,True
+2014-01-08,20.2333333333,New Orleans Pelicans,Washington Wizards,2,45-34,-13,layup,True,0,False,True
+2014-01-08,32.4833333333,New Orleans Pelicans,Washington Wizards,3,79-57,-23,free throw,True,15,True,True
+2014-01-08,32.4833333333,New Orleans Pelicans,Washington Wizards,3,79-58,-22,free throw,True,15,True,True
+2014-01-26,10.7166666667,New Orleans Pelicans,Orlando Magic,1,19-21,0,layup,True,0,False,False
+2014-01-26,11.0333333333,New Orleans Pelicans,Orlando Magic,1,19-25,5,free throw,True,15,True,False
+2014-01-26,11.0333333333,New Orleans Pelicans,Orlando Magic,1,19-25,5,free throw,True,15,True,False
+2014-01-26,11.8666666667,New Orleans Pelicans,Orlando Magic,1,21-26,4,free throw,True,15,True,False
+2014-01-26,11.8666666667,New Orleans Pelicans,Orlando Magic,1,21-27,5,free throw,True,15,True,False
+2014-01-26,12.7,New Orleans Pelicans,Orlando Magic,2,21-30,8,free throw,True,15,True,False
+2014-01-26,12.7,New Orleans Pelicans,Orlando Magic,2,21-31,9,free throw,True,15,True,False
+2014-01-26,14.3333333333,New Orleans Pelicans,Orlando Magic,2,23-35,10,two point jumper,True,18,True,False
+2014-01-26,15.4666666667,New Orleans Pelicans,Orlando Magic,2,23-38,13,layup,True,0,False,False
+2014-01-26,22.7166666667,New Orleans Pelicans,Orlando Magic,2,39-52,11,two point jumper,True,22,False,False
+2014-01-26,23.95,New Orleans Pelicans,Orlando Magic,2,44-54,8,two point shot,True,1,True,False
+2014-01-26,37.4333333333,New Orleans Pelicans,Orlando Magic,4,71-77,4,two point shot,True,1,True,False
+2014-01-26,37.4333333333,New Orleans Pelicans,Orlando Magic,4,71-78,6,free throw,True,15,True,False
+2014-01-26,38.1333333333,New Orleans Pelicans,Orlando Magic,4,71-79,7,free throw,True,15,True,False
+2014-01-26,38.1333333333,New Orleans Pelicans,Orlando Magic,4,71-79,7,free throw,True,15,False,False
+2014-01-26,38.7166666667,New Orleans Pelicans,Orlando Magic,4,73-81,6,layup,True,0,True,False
+2014-01-26,39.4333333333,New Orleans Pelicans,Orlando Magic,4,75-83,6,layup,True,0,True,False
+2014-01-26,39.8,New Orleans Pelicans,Orlando Magic,4,75-85,8,two point jumper,True,17,True,False
+2014-01-26,43.25,New Orleans Pelicans,Orlando Magic,4,84-89,3,two point shot,True,1,True,False
+2014-01-26,43.85,New Orleans Pelicans,Orlando Magic,4,86-89,1,two point jumper,True,15,False,False
+2014-01-26,44.3666666667,New Orleans Pelicans,Orlando Magic,4,86-90,2,two point shot,True,4,False,False
+2014-01-26,47.3833333333,New Orleans Pelicans,Orlando Magic,4,92-98,5,free throw,True,15,False,False
+2014-01-26,47.3833333333,New Orleans Pelicans,Orlando Magic,4,92-99,6,free throw,True,15,True,False
+2014-01-26,47.7333333333,New Orleans Pelicans,Orlando Magic,4,92-99,5,layup,True,0,False,False
+2014-01-29,5.98333333333,New Orleans Pelicans,Minnesota Timberwolves,1,7-8,-3,two point shot,False,5,True,False
+2014-01-29,6.98333333333,New Orleans Pelicans,Minnesota Timberwolves,1,7-10,-6,three point jumper,False,22,False,False
+2014-01-29,9.65,New Orleans Pelicans,Minnesota Timberwolves,1,11-17,-8,layup,False,0,True,False
+2014-01-29,10.1333333333,New Orleans Pelicans,Minnesota Timberwolves,1,11-20,-10,free throw,False,15,False,False
+2014-01-29,10.1333333333,New Orleans Pelicans,Minnesota Timberwolves,1,11-20,-10,free throw,False,15,False,False
+2014-01-29,11.9666666667,New Orleans Pelicans,Minnesota Timberwolves,1,15-23,-9,free throw,False,15,True,False
+2014-01-29,11.9666666667,New Orleans Pelicans,Minnesota Timberwolves,1,16-23,-8,free throw,False,15,True,False
+2014-01-29,15.3666666667,New Orleans Pelicans,Minnesota Timberwolves,2,18-28,-12,layup,False,0,False,False
+2014-01-29,15.45,New Orleans Pelicans,Minnesota Timberwolves,2,18-28,-13,three point jumper,False,23,False,False
+2014-01-29,16.1666666667,New Orleans Pelicans,Minnesota Timberwolves,2,18-28,-12,layup,False,0,False,False
+2014-01-29,16.2,New Orleans Pelicans,Minnesota Timberwolves,2,18-28,-12,layup,False,0,False,False
+2014-01-29,22.9166666667,New Orleans Pelicans,Minnesota Timberwolves,2,35-41,-8,layup,False,0,False,False
+2014-01-29,23.8666666667,New Orleans Pelicans,Minnesota Timberwolves,2,35-45,-12,unknown,False,4,False,False
+2014-01-29,33.95,New Orleans Pelicans,Minnesota Timberwolves,3,54-63,-11,layup,False,0,False,False
+2014-01-29,34.3,New Orleans Pelicans,Minnesota Timberwolves,3,58-63,-7,layup,False,0,True,False
+2014-01-29,34.3,New Orleans Pelicans,Minnesota Timberwolves,3,59-63,-5,free throw,False,15,True,False
+2014-01-29,36.0,New Orleans Pelicans,Minnesota Timberwolves,3,62-67,-7,two point jumper,False,10,False,False
+2014-01-29,37.7666666667,New Orleans Pelicans,Minnesota Timberwolves,4,62-73,-14,three point jumper,False,25,False,False
+2014-01-29,45.9666666667,New Orleans Pelicans,Minnesota Timberwolves,4,75-84,-11,two point shot,False,1,True,False
+2014-02-03,8.56666666667,New Orleans Pelicans,San Antonio Spurs,1,17-19,0,two point shot,True,5,True,True
+2014-02-03,9.1,New Orleans Pelicans,San Antonio Spurs,1,19-19,-3,three point jumper,True,23,False,True
+2014-02-03,9.98333333333,New Orleans Pelicans,San Antonio Spurs,1,19-23,2,two point shot,True,4,True,True
+2014-02-07,8.0,New Orleans Pelicans,Minnesota Timberwolves,1,14-17,1,two point jumper,True,1,False,True
+2014-02-07,11.6833333333,New Orleans Pelicans,Minnesota Timberwolves,1,26-25,-3,two point shot,True,1,True,True
+2014-02-07,12.75,New Orleans Pelicans,Minnesota Timberwolves,2,28-25,-5,two point jumper,True,18,False,True
+2014-02-07,23.9833333333,New Orleans Pelicans,Minnesota Timberwolves,2,47-42,-7,layup,True,0,True,True
+2014-02-07,31.6666666667,New Orleans Pelicans,Minnesota Timberwolves,3,61-56,-6,free throw,True,15,False,True
+2014-02-07,31.6666666667,New Orleans Pelicans,Minnesota Timberwolves,3,61-57,-5,free throw,True,15,True,True
+2014-02-07,33.65,New Orleans Pelicans,Minnesota Timberwolves,3,65-59,-8,layup,True,0,False,True
+2014-02-07,34.1333333333,New Orleans Pelicans,Minnesota Timberwolves,3,65-59,-8,layup,True,0,False,True
+2014-02-07,35.25,New Orleans Pelicans,Minnesota Timberwolves,3,69-59,-12,two point jumper,True,19,False,True
+2014-02-07,36.3,New Orleans Pelicans,Minnesota Timberwolves,4,71-63,-10,layup,True,0,True,True
+2014-02-21,9.95,New Orleans Pelicans,Charlotte Bobcats,1,15-16,-4,three point jumper,False,23,False,False
+2014-02-21,11.2166666667,New Orleans Pelicans,Charlotte Bobcats,1,17-20,-5,layup,False,0,True,False
+2014-02-21,11.9833333333,New Orleans Pelicans,Charlotte Bobcats,1,17-25,-11,three point jumper,False,33,False,False
+2014-02-21,12.75,New Orleans Pelicans,Charlotte Bobcats,2,17-26,-11,layup,False,0,False,False
+2014-02-21,13.65,New Orleans Pelicans,Charlotte Bobcats,2,20-26,-8,layup,False,0,False,False
+2014-02-21,15.5,New Orleans Pelicans,Charlotte Bobcats,2,22-31,-11,layup,False,0,False,False
+2014-02-21,35.8666666667,New Orleans Pelicans,Charlotte Bobcats,3,59-68,-11,layup,False,0,False,False
+2014-02-21,40.9166666667,New Orleans Pelicans,Charlotte Bobcats,4,64-77,-15,two point shot,False,1,False,False
+2014-02-21,41.4833333333,New Orleans Pelicans,Charlotte Bobcats,4,68-79,-13,layup,False,0,True,False
+2014-02-21,45.6166666667,New Orleans Pelicans,Charlotte Bobcats,4,78-82,-7,three point jumper,False,23,False,False
+2014-02-21,47.0666666667,New Orleans Pelicans,Charlotte Bobcats,4,84-84,-2,layup,False,0,False,False
+2014-02-22,12.0,New Orleans Pelicans,Washington Wizards,1,21-24,-6,three point jumper,False,33,False,False
+2014-02-22,14.3,New Orleans Pelicans,Washington Wizards,2,23-28,-7,two point shot,False,1,True,False
+2014-02-22,16.85,New Orleans Pelicans,Washington Wizards,2,29-31,-4,two point shot,False,1,True,False
+2014-02-22,16.85,New Orleans Pelicans,Washington Wizards,2,30-31,-2,free throw,False,15,True,False
+2014-02-22,19.9166666667,New Orleans Pelicans,Washington Wizards,2,35-36,-3,two point jumper,False,15,False,False
+2014-02-22,34.0,New Orleans Pelicans,Washington Wizards,3,61-66,-8,three point jumper,False,26,True,False
+2014-02-22,40.4166666667,New Orleans Pelicans,Washington Wizards,4,81-78,1,two point jumper,False,10,False,False
+2014-02-22,40.5666666667,New Orleans Pelicans,Washington Wizards,4,81-78,1,two point jumper,False,21,False,False

@@ -1,0 +1,255 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-29,16.8166666667,Cleveland Cavaliers,Boston Celtics,2,22-39,-20,unknown,False,25,True,True
+2014-11-29,19.25,Cleveland Cavaliers,Boston Celtics,2,29-45,-19,three point jumper,False,23,False,True
+2014-11-29,22.0833333333,Cleveland Cavaliers,Boston Celtics,2,35-47,-14,two point jumper,False,21,False,True
+2014-11-29,37.55,Cleveland Cavaliers,Boston Celtics,4,60-79,-21,two point jumper,False,18,False,True
+2014-11-29,41.9166666667,Cleveland Cavaliers,Boston Celtics,4,68-86,-19,free throw,False,15,False,True
+2014-11-29,41.9166666667,Cleveland Cavaliers,Boston Celtics,4,69-86,-18,free throw,False,15,True,True
+2014-12-28,13.05,Cleveland Cavaliers,Boston Celtics,2,22-26,-7,three point jumper,False,25,False,False
+2014-12-28,13.3166666667,Cleveland Cavaliers,Boston Celtics,2,22-26,-7,three point jumper,False,25,False,False
+2014-12-28,13.6833333333,Cleveland Cavaliers,Boston Celtics,2,22-26,-6,two point jumper,False,17,False,False
+2014-12-28,36.4,Cleveland Cavaliers,Boston Celtics,4,66-85,-21,two point jumper,False,17,False,False
+2014-12-28,36.45,Cleveland Cavaliers,Boston Celtics,4,68-85,-19,dunk,False,0,True,False
+2014-12-28,39.15,Cleveland Cavaliers,Boston Celtics,4,74-86,-13,free throw,False,15,False,False
+2014-12-28,39.15,Cleveland Cavaliers,Boston Celtics,4,75-86,-12,free throw,False,15,True,False
+2014-12-28,39.6333333333,Cleveland Cavaliers,Boston Celtics,4,77-88,-13,two point shot,False,1,True,False
+2014-10-30,7.6,Cleveland Cavaliers,Brooklyn Nets,1,21-12,-12,three point jumper,True,25,False,True
+2014-10-30,10.2333333333,Cleveland Cavaliers,Brooklyn Nets,1,24-20,-6,two point jumper,True,18,False,True
+2014-10-30,33.7666666667,Cleveland Cavaliers,Brooklyn Nets,3,68-75,4,three point jumper,True,25,False,True
+2014-10-30,34.8,Cleveland Cavaliers,Brooklyn Nets,3,68-75,4,three point jumper,True,24,False,True
+2014-10-30,35.1333333333,Cleveland Cavaliers,Brooklyn Nets,3,68-75,6,free throw,True,15,False,True
+2014-10-30,35.1333333333,Cleveland Cavaliers,Brooklyn Nets,3,68-76,7,free throw,True,15,True,True
+2014-10-30,38.6333333333,Cleveland Cavaliers,Brooklyn Nets,4,76-80,3,free throw,True,15,True,True
+2014-10-30,38.6333333333,Cleveland Cavaliers,Brooklyn Nets,4,76-80,3,free throw,True,15,False,True
+2014-01-04,11.5833333333,Cleveland Cavaliers,Brooklyn Nets,1,17-22,-7,two point jumper,False,1,False,False
+2014-01-04,14.2166666667,Cleveland Cavaliers,Brooklyn Nets,2,21-27,-8,two point jumper,False,19,False,False
+2014-12-10,14.2166666667,Cleveland Cavaliers,New York Knicks,2,22-35,10,three point jumper,True,25,False,False
+2014-12-10,47.45,Cleveland Cavaliers,New York Knicks,4,92-109,15,two point jumper,True,15,True,False
+2014-01-30,6.91666666667,Cleveland Cavaliers,New York Knicks,1,13-28,-17,layup,False,0,True,True
+2014-01-30,34.65,Cleveland Cavaliers,New York Knicks,3,60-78,-19,free throw,False,15,False,True
+2014-01-30,34.65,Cleveland Cavaliers,New York Knicks,3,61-78,-18,free throw,False,15,True,True
+2014-01-30,37.45,Cleveland Cavaliers,New York Knicks,4,71-85,-16,layup,False,0,False,True
+2014-01-30,39.95,Cleveland Cavaliers,New York Knicks,4,76-98,-25,three point jumper,False,23,False,True
+2014-01-30,44.7,Cleveland Cavaliers,New York Knicks,4,80-108,-30,two point jumper,False,11,False,True
+2014-01-30,45.05,Cleveland Cavaliers,New York Knicks,4,82-110,-29,free throw,False,15,False,True
+2014-01-30,45.05,Cleveland Cavaliers,New York Knicks,4,83-110,-28,free throw,False,15,True,True
+2014-01-30,46.2166666667,Cleveland Cavaliers,New York Knicks,4,84-112,-31,three point jumper,False,23,False,True
+2014-11-09,33.6,Cleveland Cavaliers,Philadelphia 76ers,3,77-73,-6,two point jumper,True,19,False,True
+2014-01-07,16.5333333333,Cleveland Cavaliers,Philadelphia 76ers,2,29-45,14,two point jumper,True,17,False,False
+2014-01-07,39.4333333333,Cleveland Cavaliers,Philadelphia 76ers,4,72-103,29,dunk,True,0,True,False
+2014-01-07,42.8833333333,Cleveland Cavaliers,Philadelphia 76ers,4,80-105,23,two point jumper,True,14,False,False
+2014-01-07,45.4833333333,Cleveland Cavaliers,Philadelphia 76ers,4,84-107,21,two point shot,True,18,False,False
+2014-01-07,45.8166666667,Cleveland Cavaliers,Philadelphia 76ers,4,84-107,21,two point jumper,True,6,False,False
+2014-02-18,12.5666666667,Cleveland Cavaliers,Philadelphia 76ers,2,33-25,6,two point jumper,False,16,True,False
+2014-02-18,13.0166666667,Cleveland Cavaliers,Philadelphia 76ers,2,33-25,5,three point jumper,False,26,False,False
+2014-02-18,15.8666666667,Cleveland Cavaliers,Philadelphia 76ers,2,38-33,3,layup,False,0,False,False
+2014-02-18,34.75,Cleveland Cavaliers,Philadelphia 76ers,3,83-58,23,two point jumper,False,20,False,False
+2014-02-18,37.6333333333,Cleveland Cavaliers,Philadelphia 76ers,4,90-66,22,layup,False,0,True,False
+2014-02-18,41.1333333333,Cleveland Cavaliers,Philadelphia 76ers,4,103-74,27,layup,False,0,True,False
+2014-02-18,41.1333333333,Cleveland Cavaliers,Philadelphia 76ers,4,103-74,28,free throw,False,15,False,False
+2014-02-18,41.4166666667,Cleveland Cavaliers,Philadelphia 76ers,4,105-74,29,two point jumper,False,19,True,False
+2014-02-18,43.7333333333,Cleveland Cavaliers,Philadelphia 76ers,4,110-76,32,two point jumper,False,19,True,False
+2014-02-18,47.6166666667,Cleveland Cavaliers,Philadelphia 76ers,4,114-85,26,three point jumper,False,23,False,False
+2014-02-21,9.58333333333,Cleveland Cavaliers,Toronto Raptors,1,17-12,3,two point jumper,False,20,True,False
+2014-02-21,11.4333333333,Cleveland Cavaliers,Toronto Raptors,1,22-14,6,two point shot,False,1,True,False
+2014-02-21,13.6333333333,Cleveland Cavaliers,Toronto Raptors,2,24-20,2,two point jumper,False,13,False,False
+2014-02-21,14.2166666667,Cleveland Cavaliers,Toronto Raptors,2,24-20,1,three point jumper,False,25,False,False
+2014-02-21,15.7,Cleveland Cavaliers,Toronto Raptors,2,28-20,6,two point shot,False,1,True,False
+2014-02-21,34.4333333333,Cleveland Cavaliers,Toronto Raptors,3,61-72,-12,free throw,False,15,False,False
+2014-02-21,34.4333333333,Cleveland Cavaliers,Toronto Raptors,3,61-72,-12,free throw,False,15,False,False
+2014-02-21,35.3666666667,Cleveland Cavaliers,Toronto Raptors,3,61-74,-14,free throw,False,15,False,False
+2014-02-21,35.3666666667,Cleveland Cavaliers,Toronto Raptors,3,62-74,-13,free throw,False,15,True,False
+2014-02-21,36.5666666667,Cleveland Cavaliers,Toronto Raptors,4,67-76,-11,two point shot,False,1,True,False
+2014-02-25,9.48333333333,Cleveland Cavaliers,Toronto Raptors,1,17-17,-2,two point jumper,True,19,False,False
+2014-02-25,11.6333333333,Cleveland Cavaliers,Toronto Raptors,1,23-17,-8,layup,True,0,False,False
+2014-02-25,13.9666666667,Cleveland Cavaliers,Toronto Raptors,2,26-17,-12,three point jumper,True,25,False,False
+2014-02-25,14.55,Cleveland Cavaliers,Toronto Raptors,2,26-17,-11,layup,True,0,False,False
+2014-02-25,37.8166666667,Cleveland Cavaliers,Toronto Raptors,4,73-74,0,free throw,True,15,True,False
+2014-02-25,37.8166666667,Cleveland Cavaliers,Toronto Raptors,4,73-75,1,free throw,True,15,True,False
+2014-02-25,38.2666666667,Cleveland Cavaliers,Toronto Raptors,4,73-75,0,two point jumper,True,20,False,False
+2014-12-29,9.76666666667,Cleveland Cavaliers,Golden State Warriors,1,26-30,3,free throw,True,15,False,False
+2014-12-29,9.76666666667,Cleveland Cavaliers,Golden State Warriors,1,26-31,4,free throw,True,15,True,False
+2014-12-29,10.3666666667,Cleveland Cavaliers,Golden State Warriors,1,26-32,5,free throw,True,15,True,False
+2014-12-29,10.3666666667,Cleveland Cavaliers,Golden State Warriors,1,26-33,6,free throw,True,15,True,False
+2014-12-29,33.0166666667,Cleveland Cavaliers,Golden State Warriors,3,78-82,2,layup,True,0,False,False
+2014-12-29,37.5166666667,Cleveland Cavaliers,Golden State Warriors,4,85-84,-3,two point shot,True,1,False,False
+2014-02-05,8.08333333333,Cleveland Cavaliers,Los Angeles Lakers,1,24-13,-13,two point jumper,True,14,False,False
+2014-02-05,28.6666666667,Cleveland Cavaliers,Los Angeles Lakers,3,83-56,-29,two point jumper,True,17,False,False
+2014-02-05,29.3166666667,Cleveland Cavaliers,Los Angeles Lakers,3,83-58,-27,two point shot,True,1,True,False
+2014-02-05,31.3833333333,Cleveland Cavaliers,Los Angeles Lakers,3,88-64,-26,layup,True,0,True,False
+2014-02-05,31.8166666667,Cleveland Cavaliers,Los Angeles Lakers,3,90-66,-26,two point jumper,True,21,True,False
+2014-02-05,34.3,Cleveland Cavaliers,Los Angeles Lakers,3,96-76,-22,layup,True,0,True,False
+2014-02-05,34.7666666667,Cleveland Cavaliers,Los Angeles Lakers,3,98-76,-24,two point jumper,True,15,False,False
+2014-02-05,35.2,Cleveland Cavaliers,Los Angeles Lakers,3,98-79,-20,free throw,True,15,True,False
+2014-02-05,35.2,Cleveland Cavaliers,Los Angeles Lakers,3,98-80,-19,free throw,True,15,True,False
+2014-02-05,35.6333333333,Cleveland Cavaliers,Los Angeles Lakers,3,98-80,-20,two point jumper,True,20,False,False
+2014-02-05,37.75,Cleveland Cavaliers,Los Angeles Lakers,4,100-85,-18,three point jumper,True,25,False,False
+2014-02-05,43.95,Cleveland Cavaliers,Los Angeles Lakers,4,109-100,-10,free throw,True,15,True,False
+2014-02-05,43.95,Cleveland Cavaliers,Los Angeles Lakers,4,109-101,-9,free throw,True,15,True,False
+2014-02-05,46.7333333333,Cleveland Cavaliers,Los Angeles Lakers,4,114-107,-8,free throw,True,15,True,False
+2014-02-05,46.7333333333,Cleveland Cavaliers,Los Angeles Lakers,4,114-108,-7,free throw,True,15,True,False
+2014-01-12,39.7666666667,Cleveland Cavaliers,Sacramento Kings,4,68-106,-40,two point jumper,False,18,False,True
+2014-01-12,41.9833333333,Cleveland Cavaliers,Sacramento Kings,4,68-108,-42,two point jumper,False,1,False,True
+2014-01-12,42.85,Cleveland Cavaliers,Sacramento Kings,4,68-108,-42,two point jumper,False,23,False,True
+2014-01-12,45.0666666667,Cleveland Cavaliers,Sacramento Kings,4,72-116,-45,free throw,False,15,False,True
+2014-01-12,45.0666666667,Cleveland Cavaliers,Sacramento Kings,4,73-116,-44,free throw,False,15,True,True
+2014-01-12,45.6666666667,Cleveland Cavaliers,Sacramento Kings,4,75-116,-43,two point shot,False,1,True,True
+2014-01-12,46.6666666667,Cleveland Cavaliers,Sacramento Kings,4,76-118,-44,two point jumper,False,19,False,True
+2014-02-11,9.36666666667,Cleveland Cavaliers,Sacramento Kings,1,17-22,4,free throw,True,15,True,False
+2014-02-11,9.36666666667,Cleveland Cavaliers,Sacramento Kings,1,17-23,5,free throw,True,15,True,False
+2014-02-11,11.4833333333,Cleveland Cavaliers,Sacramento Kings,1,23-30,5,two point jumper,True,15,False,False
+2014-02-11,12.2666666667,Cleveland Cavaliers,Sacramento Kings,2,23-33,7,three point jumper,True,23,True,False
+2014-02-11,13.3333333333,Cleveland Cavaliers,Sacramento Kings,2,26-36,7,three point jumper,True,26,True,False
+2014-02-11,14.15,Cleveland Cavaliers,Sacramento Kings,2,28-36,7,free throw,True,15,False,False
+2014-02-11,14.15,Cleveland Cavaliers,Sacramento Kings,2,28-36,7,free throw,True,15,False,False
+2014-02-11,17.7833333333,Cleveland Cavaliers,Sacramento Kings,2,32-43,10,free throw,True,15,True,False
+2014-02-11,17.7833333333,Cleveland Cavaliers,Sacramento Kings,2,32-43,10,free throw,True,15,False,False
+2014-02-11,19.2333333333,Cleveland Cavaliers,Sacramento Kings,2,34-47,11,layup,True,0,True,False
+2014-02-11,19.2333333333,Cleveland Cavaliers,Sacramento Kings,2,34-47,12,free throw,True,15,False,False
+2014-02-11,19.35,Cleveland Cavaliers,Sacramento Kings,2,34-47,11,two point jumper,True,15,False,False
+2014-02-11,33.3666666667,Cleveland Cavaliers,Sacramento Kings,3,61-75,12,two point jumper,True,18,True,False
+2014-02-11,37.75,Cleveland Cavaliers,Sacramento Kings,4,73-84,9,dunk,True,0,True,False
+2014-02-11,39.0833333333,Cleveland Cavaliers,Sacramento Kings,4,77-86,7,layup,True,0,False,False
+2014-02-11,39.0833333333,Cleveland Cavaliers,Sacramento Kings,4,77-84,6,free throw,True,15,False,False
+2014-02-11,39.0833333333,Cleveland Cavaliers,Sacramento Kings,4,77-85,7,free throw,True,15,True,False
+2014-02-11,43.35,Cleveland Cavaliers,Sacramento Kings,4,85-100,12,three point jumper,True,28,True,False
+2014-11-30,12.3166666667,Cleveland Cavaliers,Chicago Bulls,2,25-27,-1,three point jumper,True,24,False,True
+2014-11-30,13.4,Cleveland Cavaliers,Chicago Bulls,2,29-29,-2,two point shot,True,1,True,True
+2014-11-30,14.3166666667,Cleveland Cavaliers,Chicago Bulls,2,31-29,-4,two point jumper,True,18,False,True
+2014-11-01,14.3333333333,Cleveland Cavaliers,Charlotte Bobcats,2,27-34,-10,three point jumper,False,26,False,False
+2014-11-01,34.7833333333,Cleveland Cavaliers,Charlotte Bobcats,3,66-71,-7,two point jumper,False,1,False,False
+2014-11-01,35.3833333333,Cleveland Cavaliers,Charlotte Bobcats,3,66-73,-10,three point jumper,False,25,False,False
+2014-11-02,13.1333333333,Cleveland Cavaliers,Indiana Pacers,2,18-21,-5,two point jumper,False,1,False,False
+2014-11-02,32.7333333333,Cleveland Cavaliers,Indiana Pacers,3,45-54,-11,layup,False,0,False,False
+2014-11-02,34.3666666667,Cleveland Cavaliers,Indiana Pacers,3,47-59,-14,layup,False,0,False,False
+2014-11-02,34.8833333333,Cleveland Cavaliers,Indiana Pacers,3,49-59,-13,three point jumper,False,27,False,False
+2014-11-04,12.2666666667,Cleveland Cavaliers,Minnesota Timberwolves,2,23-31,5,three point jumper,True,25,False,True
+2014-11-04,39.0166666667,Cleveland Cavaliers,Minnesota Timberwolves,4,68-78,7,three point jumper,True,25,False,True
+2014-11-06,12.0,Cleveland Cavaliers,Milwaukee Bucks,1,23-30,-10,three point jumper,False,26,False,False
+2014-11-06,14.25,Cleveland Cavaliers,Milwaukee Bucks,2,33-35,-5,three point jumper,False,26,True,False
+2014-11-06,15.5166666667,Cleveland Cavaliers,Milwaukee Bucks,2,33-40,-9,two point jumper,False,1,False,False
+2014-11-06,36.9333333333,Cleveland Cavaliers,Milwaukee Bucks,4,79-85,-9,three point jumper,False,28,False,False
+2014-11-13,10.9833333333,Cleveland Cavaliers,Minnesota Timberwolves,1,22-35,-15,layup,False,0,True,True
+2014-11-13,12.3166666667,Cleveland Cavaliers,Minnesota Timberwolves,2,24-38,-16,two point jumper,False,21,False,True
+2014-11-13,16.95,Cleveland Cavaliers,Minnesota Timberwolves,2,31-51,-22,two point jumper,False,3,False,True
+2014-11-13,35.5,Cleveland Cavaliers,Minnesota Timberwolves,3,74-108,-36,two point jumper,False,20,True,True
+2014-11-13,44.9,Cleveland Cavaliers,Minnesota Timberwolves,4,89-121,-34,two point jumper,False,19,False,True
+2014-11-13,45.45,Cleveland Cavaliers,Minnesota Timberwolves,4,89-121,-34,two point jumper,False,7,False,True
+2014-11-13,46.4833333333,Cleveland Cavaliers,Minnesota Timberwolves,4,93-121,-31,three point jumper,False,24,False,True
+2014-11-13,47.4166666667,Cleveland Cavaliers,Minnesota Timberwolves,4,95-121,-28,two point jumper,False,16,True,True
+2014-11-15,8.78333333333,Cleveland Cavaliers,Charlotte Bobcats,1,8-11,1,two point jumper,True,12,True,False
+2014-11-15,10.8833333333,Cleveland Cavaliers,Charlotte Bobcats,1,12-13,-1,two point jumper,True,18,False,False
+2014-11-20,40.1,Cleveland Cavaliers,Washington Wizards,4,82-67,-18,three point jumper,True,27,False,False
+2014-11-23,36.2666666667,Cleveland Cavaliers,San Antonio Spurs,4,69-96,-29,two point shot,False,19,True,True
+2014-11-23,36.8833333333,Cleveland Cavaliers,San Antonio Spurs,4,72-96,-27,three point jumper,False,25,True,True
+2014-11-23,40.9166666667,Cleveland Cavaliers,San Antonio Spurs,4,80-113,-35,two point jumper,False,17,True,True
+2014-11-23,42.0666666667,Cleveland Cavaliers,San Antonio Spurs,4,82-116,-37,three point jumper,False,25,False,True
+2014-11-23,43.2,Cleveland Cavaliers,San Antonio Spurs,4,84-116,-34,dunk,False,0,True,True
+2014-11-23,45.75,Cleveland Cavaliers,San Antonio Spurs,4,88-120,-33,free throw,False,15,False,True
+2014-11-23,45.75,Cleveland Cavaliers,San Antonio Spurs,4,88-120,-33,free throw,False,15,False,True
+2014-12-04,8.3,Cleveland Cavaliers,Denver Nuggets,1,17-24,4,three point jumper,True,25,True,True
+2014-12-04,9.83333333333,Cleveland Cavaliers,Denver Nuggets,1,19-24,3,two point jumper,True,17,False,True
+2014-12-04,10.5166666667,Cleveland Cavaliers,Denver Nuggets,1,21-28,5,layup,True,0,True,True
+2014-12-04,12.3166666667,Cleveland Cavaliers,Denver Nuggets,2,24-31,5,two point jumper,True,22,False,True
+2014-12-04,12.8833333333,Cleveland Cavaliers,Denver Nuggets,2,24-31,5,two point jumper,True,1,False,True
+2014-12-06,11.2,Cleveland Cavaliers,Atlanta Hawks,1,20-32,-15,three point jumper,False,23,False,True
+2014-12-06,45.15,Cleveland Cavaliers,Atlanta Hawks,4,83-102,-22,three point jumper,False,24,False,True
+2014-12-06,45.35,Cleveland Cavaliers,Atlanta Hawks,4,83-102,-21,unknown,False,6,False,True
+2014-12-13,11.6166666667,Cleveland Cavaliers,Orlando Magic,1,19-28,-11,two point jumper,False,22,False,True
+2014-12-13,13.3166666667,Cleveland Cavaliers,Orlando Magic,2,23-32,-11,layup,False,0,True,True
+2014-12-13,15.45,Cleveland Cavaliers,Orlando Magic,2,29-37,-10,two point shot,False,19,True,True
+2014-12-13,16.3166666667,Cleveland Cavaliers,Orlando Magic,2,31-38,-9,two point shot,False,1,True,True
+2014-12-13,17.2333333333,Cleveland Cavaliers,Orlando Magic,2,31-40,-12,three point jumper,False,25,False,True
+2014-12-17,14.1166666667,Cleveland Cavaliers,Portland Trail Blazers,2,33-36,1,two point shot,True,15,True,False
+2014-12-23,7.66666666667,Cleveland Cavaliers,Detroit Pistons,1,17-12,-8,three point jumper,True,25,False,True
+2014-12-23,9.75,Cleveland Cavaliers,Detroit Pistons,1,21-15,-8,two point jumper,True,17,False,True
+2014-12-23,10.6166666667,Cleveland Cavaliers,Detroit Pistons,1,24-15,-11,layup,True,0,False,True
+2014-12-23,42.4833333333,Cleveland Cavaliers,Detroit Pistons,4,99-77,-24,two point jumper,True,5,True,True
+2014-12-23,44.5666666667,Cleveland Cavaliers,Detroit Pistons,4,106-84,-24,dunk,True,0,True,True
+2014-12-23,45.1833333333,Cleveland Cavaliers,Detroit Pistons,4,108-84,-25,free throw,True,15,False,True
+2014-12-23,45.1833333333,Cleveland Cavaliers,Detroit Pistons,4,108-85,-24,free throw,True,15,True,True
+2014-12-23,47.0833333333,Cleveland Cavaliers,Detroit Pistons,4,113-90,-25,two point jumper,True,7,True,True
+2014-12-26,15.7666666667,Cleveland Cavaliers,Atlanta Hawks,2,29-33,2,two point jumper,True,8,False,False
+2014-12-31,9.31666666667,Cleveland Cavaliers,Indiana Pacers,1,20-14,5,free throw,False,15,True,False
+2014-12-31,9.31666666667,Cleveland Cavaliers,Indiana Pacers,1,21-14,6,free throw,False,15,True,False
+2014-12-31,9.86666666667,Cleveland Cavaliers,Indiana Pacers,1,21-16,3,layup,False,0,False,False
+2014-12-31,12.15,Cleveland Cavaliers,Indiana Pacers,2,27-23,2,dunk,False,0,True,False
+2014-12-31,14.6333333333,Cleveland Cavaliers,Indiana Pacers,2,31-29,0,two point jumper,False,21,False,False
+2014-12-31,38.7,Cleveland Cavaliers,Indiana Pacers,4,70-71,-3,two point jumper,False,20,True,False
+2014-01-02,8.31666666667,Cleveland Cavaliers,Orlando Magic,1,14-13,-3,two point jumper,True,20,False,True
+2014-01-02,10.7666666667,Cleveland Cavaliers,Orlando Magic,1,18-17,-3,two point jumper,True,20,False,True
+2014-01-02,36.0,Cleveland Cavaliers,Orlando Magic,3,62-57,-8,three point jumper,True,23,False,True
+2014-01-05,14.8833333333,Cleveland Cavaliers,Indiana Pacers,2,26-27,-1,two point shot,True,1,True,False
+2014-01-05,15.9333333333,Cleveland Cavaliers,Indiana Pacers,2,30-27,-5,two point shot,True,17,False,False
+2014-01-05,37.0,Cleveland Cavaliers,Indiana Pacers,4,71-58,-16,three point jumper,True,26,False,False
+2014-01-05,38.5666666667,Cleveland Cavaliers,Indiana Pacers,4,74-59,-16,free throw,True,15,True,False
+2014-01-05,38.5666666667,Cleveland Cavaliers,Indiana Pacers,4,74-60,-15,free throw,True,15,True,False
+2014-01-05,39.1166666667,Cleveland Cavaliers,Indiana Pacers,4,74-62,-14,layup,True,0,True,False
+2014-01-24,44.3,Cleveland Cavaliers,Milwaukee Bucks,4,65-89,22,two point jumper,True,19,False,True
+2014-01-24,46.0333333333,Cleveland Cavaliers,Milwaukee Bucks,4,70-91,19,tip shot,True,0,False,True
+2014-01-24,47.5666666667,Cleveland Cavaliers,Milwaukee Bucks,4,76-92,15,free throw,True,15,True,True
+2014-01-24,47.5666666667,Cleveland Cavaliers,Milwaukee Bucks,4,76-93,16,free throw,True,15,True,True
+2014-01-28,11.4333333333,Cleveland Cavaliers,New Orleans Pelicans,1,24-25,-1,two point jumper,True,17,False,True
+2014-01-28,17.4833333333,Cleveland Cavaliers,New Orleans Pelicans,2,35-41,4,two point jumper,True,17,True,True
+2014-01-28,33.55,Cleveland Cavaliers,New Orleans Pelicans,3,81-60,-22,free throw,True,15,True,True
+2014-01-28,33.55,Cleveland Cavaliers,New Orleans Pelicans,3,81-60,-22,free throw,True,15,False,True
+2014-01-28,38.6166666667,Cleveland Cavaliers,New Orleans Pelicans,4,85-70,-17,dunk,True,0,True,True
+2014-01-28,39.2666666667,Cleveland Cavaliers,New Orleans Pelicans,4,88-73,-18,three point jumper,True,24,True,True
+2014-01-28,41.4833333333,Cleveland Cavaliers,New Orleans Pelicans,4,90-75,-17,two point shot,True,13,False,True
+2014-01-28,42.1,Cleveland Cavaliers,New Orleans Pelicans,4,90-75,-16,free throw,True,15,False,True
+2014-01-28,42.1,Cleveland Cavaliers,New Orleans Pelicans,4,90-75,-16,free throw,True,15,False,True
+2014-01-28,43.7,Cleveland Cavaliers,New Orleans Pelicans,4,94-80,-17,three point jumper,True,23,True,True
+2014-01-28,44.2166666667,Cleveland Cavaliers,New Orleans Pelicans,4,95-81,-15,free throw,True,15,True,True
+2014-01-28,44.2166666667,Cleveland Cavaliers,New Orleans Pelicans,4,95-82,-14,free throw,True,15,True,True
+2014-01-28,44.7,Cleveland Cavaliers,New Orleans Pelicans,4,97-82,-18,three point jumper,True,24,False,True
+2014-01-28,47.5833333333,Cleveland Cavaliers,New Orleans Pelicans,4,100-89,-13,layup,True,0,True,True
+2014-02-01,12.0,Cleveland Cavaliers,Houston Rockets,1,23-31,-11,three point jumper,False,23,False,True
+2014-02-01,15.75,Cleveland Cavaliers,Houston Rockets,2,30-41,-13,layup,False,0,True,True
+2014-02-01,38.6333333333,Cleveland Cavaliers,Houston Rockets,4,77-87,-12,two point jumper,False,16,False,True
+2014-02-03,9.15,Cleveland Cavaliers,Dallas Mavericks,1,20-23,-5,two point jumper,False,21,False,False
+2014-02-03,11.3333333333,Cleveland Cavaliers,Dallas Mavericks,1,25-27,-4,two point jumper,False,19,False,False
+2014-02-03,13.4,Cleveland Cavaliers,Dallas Mavericks,2,25-29,-6,two point jumper,False,18,False,False
+2014-02-03,15.3833333333,Cleveland Cavaliers,Dallas Mavericks,2,35-35,-2,two point shot,False,1,True,False
+2014-02-03,17.0666666667,Cleveland Cavaliers,Dallas Mavericks,2,36-39,-4,free throw,False,15,True,False
+2014-02-03,17.0666666667,Cleveland Cavaliers,Dallas Mavericks,2,37-39,-3,free throw,False,15,True,False
+2014-02-03,21.9333333333,Cleveland Cavaliers,Dallas Mavericks,2,46-57,-13,two point jumper,False,19,True,False
+2014-02-03,22.4666666667,Cleveland Cavaliers,Dallas Mavericks,2,47-57,-11,free throw,False,15,True,False
+2014-02-03,22.4666666667,Cleveland Cavaliers,Dallas Mavericks,2,48-57,-10,free throw,False,15,True,False
+2014-02-03,34.7333333333,Cleveland Cavaliers,Dallas Mavericks,3,79-91,-15,three point jumper,False,25,True,False
+2014-02-03,38.3666666667,Cleveland Cavaliers,Dallas Mavericks,4,85-99,-17,three point jumper,False,25,False,False
+2014-02-03,43.2833333333,Cleveland Cavaliers,Dallas Mavericks,4,97-111,-16,two point jumper,False,12,False,False
+2014-02-07,15.75,Cleveland Cavaliers,Washington Wizards,2,44-43,-1,layup,False,0,True,True
+2014-02-07,17.85,Cleveland Cavaliers,Washington Wizards,2,51-49,0,two point jumper,False,22,True,True
+2014-02-07,18.8166666667,Cleveland Cavaliers,Washington Wizards,2,56-52,1,three point jumper,False,25,True,True
+2014-02-07,31.7,Cleveland Cavaliers,Washington Wizards,3,81-76,4,free throw,False,15,True,True
+2014-02-07,31.7,Cleveland Cavaliers,Washington Wizards,3,81-76,4,free throw,False,15,False,True
+2014-02-07,32.1166666667,Cleveland Cavaliers,Washington Wizards,3,81-76,2,three point jumper,False,26,False,True
+2014-02-09,12.3333333333,Cleveland Cavaliers,Memphis Grizzlies,2,18-22,2,two point jumper,True,18,False,True
+2014-02-09,15.95,Cleveland Cavaliers,Memphis Grizzlies,2,24-31,5,layup,True,0,False,True
+2014-02-09,15.95,Cleveland Cavaliers,Memphis Grizzlies,2,24-33,7,two point shot,True,1,True,True
+2014-02-12,6.91666666667,Cleveland Cavaliers,Detroit Pistons,1,11-18,-10,three point jumper,False,25,False,True
+2014-02-12,7.41666666667,Cleveland Cavaliers,Detroit Pistons,1,13-20,-9,two point shot,False,6,True,True
+2014-02-12,8.66666666667,Cleveland Cavaliers,Detroit Pistons,1,13-22,-11,two point jumper,False,1,False,True
+2014-02-12,13.5666666667,Cleveland Cavaliers,Detroit Pistons,2,24-28,-6,layup,False,0,False,True
+2014-02-19,10.25,Cleveland Cavaliers,Orlando Magic,1,6-22,14,two point jumper,True,20,False,False
+2014-02-19,12.7666666667,Cleveland Cavaliers,Orlando Magic,2,11-26,13,two point jumper,True,5,False,False
+2014-02-19,14.1166666667,Cleveland Cavaliers,Orlando Magic,2,15-30,13,layup,True,0,True,False
+2014-02-19,14.1166666667,Cleveland Cavaliers,Orlando Magic,2,15-31,15,free throw,True,15,True,False
+2014-02-19,14.6833333333,Cleveland Cavaliers,Orlando Magic,2,17-31,11,three point jumper,True,25,False,False
+2014-02-19,14.95,Cleveland Cavaliers,Orlando Magic,2,17-32,14,free throw,True,15,True,False
+2014-02-19,14.95,Cleveland Cavaliers,Orlando Magic,2,17-33,15,free throw,True,15,True,False
+2014-02-19,34.5833333333,Cleveland Cavaliers,Orlando Magic,3,64-70,4,two point jumper,True,18,False,False
+2014-02-19,37.0,Cleveland Cavaliers,Orlando Magic,4,70-72,0,tip shot,True,0,False,False
+2014-02-19,38.6333333333,Cleveland Cavaliers,Orlando Magic,4,72-77,3,two point jumper,True,20,True,False
+2014-02-19,40.95,Cleveland Cavaliers,Orlando Magic,4,75-82,4,three point jumper,True,26,False,False
+2014-02-23,10.0166666667,Cleveland Cavaliers,Washington Wizards,1,28-23,-7,layup,True,0,True,False
+2014-02-23,10.8833333333,Cleveland Cavaliers,Washington Wizards,1,30-23,-9,two point jumper,True,15,False,False
+2014-02-23,36.8,Cleveland Cavaliers,Washington Wizards,4,78-74,-6,two point shot,True,1,True,False
+2014-02-26,12.6333333333,Cleveland Cavaliers,Oklahoma City Thunder,2,28-27,-1,two point shot,False,1,True,True
+2014-02-26,36.55,Cleveland Cavaliers,Oklahoma City Thunder,4,72-79,-10,three point jumper,False,24,False,True
+2014-02-26,40.3833333333,Cleveland Cavaliers,Oklahoma City Thunder,4,88-86,0,two point jumper,False,19,True,True
+2014-02-26,42.1333333333,Cleveland Cavaliers,Oklahoma City Thunder,4,93-90,1,tip shot,False,0,False,True
+2014-03-01,12.25,Cleveland Cavaliers,Memphis Grizzlies,2,32-22,8,layup,False,0,True,True
+2014-03-01,12.7666666667,Cleveland Cavaliers,Memphis Grizzlies,2,34-25,7,two point jumper,False,18,True,True
+2014-03-01,14.6166666667,Cleveland Cavaliers,Memphis Grizzlies,2,40-29,8,three point jumper,False,27,False,True
+2014-03-01,38.75,Cleveland Cavaliers,Memphis Grizzlies,4,83-89,-8,two point jumper,False,21,False,True

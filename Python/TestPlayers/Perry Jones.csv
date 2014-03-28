@@ -1,0 +1,159 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-01-05,10.5,Oklahoma City Thunder,Boston Celtics,1,20-29,7,two point shot,True,1,True,False
+2014-01-05,11.1833333333,Oklahoma City Thunder,Boston Celtics,1,23-31,6,two point jumper,True,18,True,False
+2014-01-05,42.6333333333,Oklahoma City Thunder,Boston Celtics,4,90-111,18,three point jumper,True,24,False,False
+2014-01-05,43.2333333333,Oklahoma City Thunder,Boston Celtics,4,92-112,19,free throw,True,15,True,False
+2014-01-05,43.2333333333,Oklahoma City Thunder,Boston Celtics,4,92-113,20,free throw,True,15,True,False
+2014-01-05,44.0,Oklahoma City Thunder,Boston Celtics,4,94-115,19,two point jumper,True,1,False,False
+2014-01-05,44.3,Oklahoma City Thunder,Boston Celtics,4,95-115,18,two point shot,True,8,False,False
+2014-01-24,3.0,Oklahoma City Thunder,Boston Celtics,1,8-9,-3,two point shot,False,7,True,False
+2014-01-24,3.51666666667,Oklahoma City Thunder,Boston Celtics,1,8-9,-4,three point jumper,False,26,False,False
+2014-01-24,30.2,Oklahoma City Thunder,Boston Celtics,3,66-55,9,dunk,False,0,False,False
+2014-01-24,40.1,Oklahoma City Thunder,Boston Celtics,4,88-65,21,two point jumper,False,17,True,False
+2014-01-24,40.6666666667,Oklahoma City Thunder,Boston Celtics,4,90-67,21,two point jumper,False,18,True,False
+2014-01-24,43.6666666667,Oklahoma City Thunder,Boston Celtics,4,92-74,16,dunk,False,0,True,False
+2014-01-24,46.2333333333,Oklahoma City Thunder,Boston Celtics,4,97-77,19,free throw,False,15,True,False
+2014-01-24,46.2333333333,Oklahoma City Thunder,Boston Celtics,4,98-77,20,free throw,False,15,True,False
+2014-01-02,14.5666666667,Oklahoma City Thunder,Brooklyn Nets,2,32-33,-2,three point jumper,True,22,False,False
+2014-01-02,15.2166666667,Oklahoma City Thunder,Brooklyn Nets,2,34-38,1,three point jumper,True,23,True,False
+2014-01-02,19.35,Oklahoma City Thunder,Brooklyn Nets,2,37-50,11,dunk,True,0,True,False
+2014-01-02,22.1,Oklahoma City Thunder,Brooklyn Nets,2,43-55,9,three point jumper,True,23,True,False
+2014-01-02,38.4666666667,Oklahoma City Thunder,Brooklyn Nets,4,72-82,7,three point jumper,True,23,True,False
+2014-01-02,44.0,Oklahoma City Thunder,Brooklyn Nets,4,86-89,0,three point jumper,True,23,False,False
+2014-01-02,47.4,Oklahoma City Thunder,Brooklyn Nets,4,93-91,-4,two point shot,True,9,False,False
+2014-01-31,10.9666666667,Oklahoma City Thunder,Brooklyn Nets,1,30-16,12,two point jumper,False,17,False,False
+2014-01-31,12.3166666667,Oklahoma City Thunder,Brooklyn Nets,2,31-16,14,free throw,False,15,True,False
+2014-01-31,12.3166666667,Oklahoma City Thunder,Brooklyn Nets,2,32-16,15,free throw,False,15,True,False
+2014-01-31,13.3166666667,Oklahoma City Thunder,Brooklyn Nets,2,33-19,13,free throw,False,15,True,False
+2014-01-31,13.3166666667,Oklahoma City Thunder,Brooklyn Nets,2,34-19,14,free throw,False,15,True,False
+2014-01-31,17.2,Oklahoma City Thunder,Brooklyn Nets,2,44-21,20,three point jumper,False,23,True,False
+2014-01-31,38.05,Oklahoma City Thunder,Brooklyn Nets,4,91-62,27,two point jumper,False,1,True,False
+2014-01-31,42.1,Oklahoma City Thunder,Brooklyn Nets,4,103-77,24,layup,False,0,True,False
+2014-12-25,43.3166666667,Oklahoma City Thunder,New York Knicks,4,109-80,26,three point jumper,False,23,False,False
+2014-02-09,10.8333333333,Oklahoma City Thunder,New York Knicks,1,26-27,-1,layup,True,0,True,True
+2014-01-25,34.5166666667,Oklahoma City Thunder,Philadelphia 76ers,3,81-70,9,two point shot,False,5,True,False
+2014-01-25,35.3833333333,Oklahoma City Thunder,Philadelphia 76ers,3,83-71,10,two point shot,False,1,True,False
+2014-01-25,36.1333333333,Oklahoma City Thunder,Philadelphia 76ers,4,85-71,12,two point shot,False,1,True,False
+2014-12-22,15.1333333333,Oklahoma City Thunder,Toronto Raptors,2,34-33,-3,two point shot,True,1,True,True
+2014-12-22,15.5166666667,Oklahoma City Thunder,Toronto Raptors,2,34-35,-1,two point jumper,True,1,True,True
+2014-12-22,16.45,Oklahoma City Thunder,Toronto Raptors,2,36-37,-1,two point shot,True,5,True,True
+2014-12-22,44.2166666667,Oklahoma City Thunder,Toronto Raptors,4,95-93,-5,three point jumper,True,22,False,True
+2014-12-22,45.85,Oklahoma City Thunder,Toronto Raptors,4,98-94,-5,free throw,True,15,True,True
+2014-12-22,45.85,Oklahoma City Thunder,Toronto Raptors,4,98-95,-4,free throw,True,15,True,True
+2014-11-14,14.5666666667,Oklahoma City Thunder,Golden State Warriors,2,44-39,3,two point shot,False,1,True,False
+2014-01-17,13.1333333333,Oklahoma City Thunder,Golden State Warriors,2,34-41,5,two point jumper,True,17,False,True
+2014-01-17,40.35,Oklahoma City Thunder,Golden State Warriors,4,101-108,4,three point jumper,True,25,False,True
+2014-11-13,13.8833333333,Oklahoma City Thunder,Los Angeles Clippers,2,35-30,3,two point jumper,False,17,False,False
+2014-11-13,15.3333333333,Oklahoma City Thunder,Los Angeles Clippers,2,38-30,5,three point jumper,False,23,True,False
+2014-11-13,16.45,Oklahoma City Thunder,Los Angeles Clippers,2,42-31,9,two point jumper,False,3,True,False
+2014-11-21,46.8333333333,Oklahoma City Thunder,Los Angeles Clippers,4,90-102,11,free throw,True,15,False,False
+2014-11-21,46.8333333333,Oklahoma City Thunder,Los Angeles Clippers,4,90-103,12,free throw,True,15,True,False
+2014-12-13,9.5,Oklahoma City Thunder,Los Angeles Lakers,1,20-33,11,dunk,True,0,True,False
+2014-12-13,14.45,Oklahoma City Thunder,Los Angeles Lakers,2,33-44,8,three point jumper,True,22,False,False
+2014-12-13,34.5166666667,Oklahoma City Thunder,Los Angeles Lakers,3,72-94,20,dunk,True,0,True,False
+2014-12-13,39.05,Oklahoma City Thunder,Los Angeles Lakers,4,78-104,25,free throw,True,15,False,False
+2014-12-13,39.05,Oklahoma City Thunder,Los Angeles Lakers,4,78-105,26,free throw,True,15,True,False
+2014-12-13,39.55,Oklahoma City Thunder,Los Angeles Lakers,4,78-105,24,three point jumper,True,25,False,False
+2014-12-13,39.9666666667,Oklahoma City Thunder,Los Angeles Lakers,4,78-105,25,two point shot,True,1,False,False
+2014-12-13,41.25,Oklahoma City Thunder,Los Angeles Lakers,4,79-109,28,two point shot,True,1,True,False
+2014-12-13,42.35,Oklahoma City Thunder,Los Angeles Lakers,4,83-109,24,two point jumper,True,17,False,False
+2014-12-13,43.75,Oklahoma City Thunder,Los Angeles Lakers,4,87-113,24,two point shot,True,6,False,False
+2014-12-13,45.45,Oklahoma City Thunder,Los Angeles Lakers,4,90-115,23,two point shot,True,1,True,False
+2014-11-03,36.5,Oklahoma City Thunder,Phoenix Suns,4,70-69,-3,two point jumper,True,19,True,False
+2014-01-19,46.35,Oklahoma City Thunder,Sacramento Kings,4,91-108,16,free throw,True,15,True,False
+2014-01-19,46.35,Oklahoma City Thunder,Sacramento Kings,4,91-108,16,free throw,True,15,False,False
+2014-02-26,9.83333333333,Oklahoma City Thunder,Cleveland Cavaliers,1,23-27,2,two point jumper,True,1,True,False
+2014-02-26,10.3666666667,Oklahoma City Thunder,Cleveland Cavaliers,1,23-27,2,dunk,True,0,False,False
+2014-02-26,15.95,Oklahoma City Thunder,Cleveland Cavaliers,2,34-32,-3,free throw,True,15,True,False
+2014-02-26,15.95,Oklahoma City Thunder,Cleveland Cavaliers,2,34-33,-2,free throw,True,15,True,False
+2014-12-08,44.7166666667,Oklahoma City Thunder,Indiana Pacers,4,88-110,20,two point shot,True,1,True,False
+2014-12-08,46.5166666667,Oklahoma City Thunder,Indiana Pacers,4,93-114,19,two point jumper,True,1,True,False
+2014-12-08,46.8833333333,Oklahoma City Thunder,Indiana Pacers,4,93-116,21,two point shot,True,1,True,False
+2014-01-11,37.8166666667,Oklahoma City Thunder,Milwaukee Bucks,4,66-81,12,three point jumper,True,23,False,False
+2014-11-06,11.95,Oklahoma City Thunder,Dallas Mavericks,1,31-33,0,two point shot,True,1,True,False
+2014-11-06,13.5,Oklahoma City Thunder,Dallas Mavericks,2,35-37,0,dunk,True,0,True,False
+2014-12-29,12.6333333333,Oklahoma City Thunder,Houston Rockets,2,14-26,11,free throw,True,15,False,False
+2014-12-29,12.6333333333,Oklahoma City Thunder,Houston Rockets,2,14-26,11,free throw,True,15,False,False
+2014-12-29,34.1666666667,Oklahoma City Thunder,Houston Rockets,3,63-84,19,two point jumper,True,1,True,False
+2014-12-29,34.75,Oklahoma City Thunder,Houston Rockets,3,65-86,19,dunk,True,0,True,False
+2014-12-29,35.1833333333,Oklahoma City Thunder,Houston Rockets,3,67-88,19,layup,True,0,True,False
+2014-12-29,42.3166666667,Oklahoma City Thunder,Houston Rockets,4,80-109,27,two point shot,True,1,True,False
+2014-12-29,43.6666666667,Oklahoma City Thunder,Houston Rockets,4,81-111,28,two point shot,True,10,False,False
+2014-01-16,12.75,Oklahoma City Thunder,Houston Rockets,2,39-34,3,tip shot,False,0,False,False
+2014-12-11,24.0,Oklahoma City Thunder,Memphis Grizzlies,2,57-42,13,two point shot,False,1,True,True
+2014-12-11,42.7,Oklahoma City Thunder,Memphis Grizzlies,4,105-82,21,two point shot,False,7,True,True
+2014-12-11,44.3333333333,Oklahoma City Thunder,Memphis Grizzlies,4,109-89,19,free throw,False,15,False,True
+2014-12-11,44.3333333333,Oklahoma City Thunder,Memphis Grizzlies,4,109-89,19,free throw,False,15,False,True
+2014-12-11,45.5666666667,Oklahoma City Thunder,Memphis Grizzlies,4,111-93,16,two point jumper,False,19,False,True
+2014-12-11,45.6166666667,Oklahoma City Thunder,Memphis Grizzlies,4,111-93,17,free throw,False,15,False,True
+2014-12-11,45.6166666667,Oklahoma City Thunder,Memphis Grizzlies,4,112-93,18,free throw,False,15,True,True
+2014-12-11,46.2333333333,Oklahoma City Thunder,Memphis Grizzlies,4,112-95,15,two point jumper,False,14,False,True
+2014-02-03,12.7166666667,Oklahoma City Thunder,Memphis Grizzlies,2,18-20,-1,three point jumper,True,22,False,True
+2014-02-03,13.2,Oklahoma City Thunder,Memphis Grizzlies,2,20-21,0,free throw,True,15,True,True
+2014-02-03,13.2,Oklahoma City Thunder,Memphis Grizzlies,2,20-22,1,free throw,True,15,True,True
+2014-02-03,15.1833333333,Oklahoma City Thunder,Memphis Grizzlies,2,26-26,-2,layup,True,0,False,True
+2014-02-03,16.5333333333,Oklahoma City Thunder,Memphis Grizzlies,2,28-28,-3,three point jumper,True,23,False,True
+2014-02-28,25.1833333333,Oklahoma City Thunder,Memphis Grizzlies,3,44-60,13,three point jumper,True,25,True,True
+2014-01-22,16.7,Oklahoma City Thunder,San Antonio Spurs,2,41-37,1,three point jumper,False,25,True,True
+2014-01-22,17.2833333333,Oklahoma City Thunder,San Antonio Spurs,2,41-40,-2,three point jumper,False,25,False,True
+2014-01-22,37.0666666667,Oklahoma City Thunder,San Antonio Spurs,4,80-78,0,two point jumper,False,9,True,True
+2014-01-29,14.4333333333,Oklahoma City Thunder,Miami Heat,2,28-36,-10,two point jumper,False,1,False,False
+2014-01-29,15.0833333333,Oklahoma City Thunder,Miami Heat,2,31-36,-7,layup,False,0,False,False
+2014-01-29,25.6333333333,Oklahoma City Thunder,Miami Heat,3,64-52,9,three point jumper,False,24,True,False
+2014-01-29,38.8333333333,Oklahoma City Thunder,Miami Heat,4,96-75,19,two point jumper,False,17,False,False
+2014-02-20,14.0833333333,Oklahoma City Thunder,Miami Heat,2,38-21,-19,two point shot,True,8,True,True
+2014-02-20,14.0833333333,Oklahoma City Thunder,Miami Heat,2,38-22,-17,free throw,True,15,True,True
+2014-02-20,19.85,Oklahoma City Thunder,Miami Heat,2,44-36,-10,two point shot,True,1,True,True
+2014-02-20,32.0833333333,Oklahoma City Thunder,Miami Heat,3,75-58,-20,three point jumper,True,22,True,True
+2014-02-20,32.75,Oklahoma City Thunder,Miami Heat,3,76-58,-20,two point jumper,True,1,False,True
+2014-02-07,12.6166666667,Oklahoma City Thunder,Orlando Magic,2,39-25,11,three point jumper,False,23,True,False
+2014-02-07,13.25,Oklahoma City Thunder,Orlando Magic,2,39-25,12,two point jumper,False,11,False,False
+2014-02-07,14.5666666667,Oklahoma City Thunder,Orlando Magic,2,44-30,12,two point shot,False,4,True,False
+2014-02-07,40.3833333333,Oklahoma City Thunder,Orlando Magic,4,90-91,-4,three point jumper,False,23,False,False
+2014-11-10,35.7,Oklahoma City Thunder,Washington Wizards,3,73-65,-11,three point jumper,True,23,True,True
+2014-11-10,36.95,Oklahoma City Thunder,Washington Wizards,4,75-69,-8,two point jumper,True,14,True,True
+2014-11-10,42.0666666667,Oklahoma City Thunder,Washington Wizards,4,85-76,-12,three point jumper,True,22,False,True
+2014-02-01,9.75,Oklahoma City Thunder,Washington Wizards,1,13-21,-10,two point jumper,False,20,False,False
+2014-02-01,14.8833333333,Oklahoma City Thunder,Washington Wizards,2,20-33,-16,three point jumper,False,26,False,False
+2014-02-01,15.3666666667,Oklahoma City Thunder,Washington Wizards,2,20-33,-15,two point jumper,False,16,False,False
+2014-02-01,40.85,Oklahoma City Thunder,Washington Wizards,4,72-87,-18,three point jumper,False,23,False,False
+2014-02-01,45.0166666667,Oklahoma City Thunder,Washington Wizards,4,78-91,-15,two point shot,False,6,True,False
+2014-02-01,45.55,Oklahoma City Thunder,Washington Wizards,4,79-93,-15,free throw,False,15,True,False
+2014-02-01,45.55,Oklahoma City Thunder,Washington Wizards,4,79-93,-15,free throw,False,15,False,False
+2014-02-01,46.6333333333,Oklahoma City Thunder,Washington Wizards,4,80-93,-14,free throw,False,15,True,False
+2014-02-01,46.6333333333,Oklahoma City Thunder,Washington Wizards,4,81-93,-13,free throw,False,15,True,False
+2014-12-17,15.2666666667,Oklahoma City Thunder,Denver Nuggets,2,35-25,8,two point jumper,False,6,False,False
+2014-01-09,8.96666666667,Oklahoma City Thunder,Denver Nuggets,1,20-17,0,three point jumper,False,23,False,True
+2014-01-09,10.25,Oklahoma City Thunder,Denver Nuggets,1,22-22,-2,two point shot,False,7,True,True
+2014-01-09,10.8666666667,Oklahoma City Thunder,Denver Nuggets,1,22-24,-4,two point jumper,False,1,False,True
+2014-01-09,14.4666666667,Oklahoma City Thunder,Denver Nuggets,2,26-30,-6,two point jumper,False,16,False,True
+2014-01-09,37.1833333333,Oklahoma City Thunder,Denver Nuggets,4,66-89,-25,two point jumper,False,21,False,True
+2014-01-09,41.0,Oklahoma City Thunder,Denver Nuggets,4,73-91,-20,two point jumper,False,20,False,True
+2014-01-09,45.65,Oklahoma City Thunder,Denver Nuggets,4,81-96,-17,layup,False,0,True,True
+2014-11-01,13.25,Oklahoma City Thunder,Minnesota Timberwolves,2,24-36,-15,three point jumper,False,25,True,True
+2014-11-01,36.0,Oklahoma City Thunder,Minnesota Timberwolves,3,60-88,-31,three point jumper,False,56,False,True
+2014-11-01,39.75,Oklahoma City Thunder,Minnesota Timberwolves,4,65-97,-34,two point jumper,False,17,False,True
+2014-11-01,42.0333333333,Oklahoma City Thunder,Minnesota Timberwolves,4,69-100,-33,layup,False,0,False,True
+2014-11-01,44.5833333333,Oklahoma City Thunder,Minnesota Timberwolves,4,74-100,-29,three point jumper,False,25,False,True
+2014-11-01,45.95,Oklahoma City Thunder,Minnesota Timberwolves,4,78-100,-24,two point jumper,False,13,False,True
+2014-11-01,46.4833333333,Oklahoma City Thunder,Minnesota Timberwolves,4,78-100,-25,three point jumper,False,23,False,True
+2014-02-05,13.0833333333,Oklahoma City Thunder,Minnesota Timberwolves,2,25-28,1,dunk,True,0,True,False
+2014-02-05,18.5333333333,Oklahoma City Thunder,Minnesota Timberwolves,2,39-33,-8,two point jumper,True,11,False,False
+2014-02-05,19.3833333333,Oklahoma City Thunder,Minnesota Timberwolves,2,42-39,-5,two point jumper,True,23,True,False
+2014-02-05,35.4833333333,Oklahoma City Thunder,Minnesota Timberwolves,3,75-77,-1,three point jumper,True,23,False,False
+2014-02-05,37.0666666667,Oklahoma City Thunder,Minnesota Timberwolves,4,79-85,4,dunk,True,0,True,False
+2014-02-05,40.5,Oklahoma City Thunder,Minnesota Timberwolves,4,81-91,8,two point shot,True,9,False,False
+2014-02-05,42.1666666667,Oklahoma City Thunder,Minnesota Timberwolves,4,81-93,9,three point jumper,True,23,False,False
+2014-10-30,11.6666666667,Oklahoma City Thunder,Utah Jazz,1,29-28,-1,dunk,False,0,True,False
+2014-10-30,12.8166666667,Oklahoma City Thunder,Utah Jazz,2,30-29,0,free throw,False,15,True,False
+2014-10-30,12.8166666667,Oklahoma City Thunder,Utah Jazz,2,30-29,0,free throw,False,15,False,False
+2014-11-24,11.9833333333,Oklahoma City Thunder,Utah Jazz,1,13-22,6,three point jumper,True,23,True,True
+2014-11-24,17.4833333333,Oklahoma City Thunder,Utah Jazz,2,21-33,9,three point jumper,True,24,True,True
+2014-11-24,41.4166666667,Oklahoma City Thunder,Utah Jazz,4,53-86,31,two point shot,True,10,True,True
+2014-11-24,43.8833333333,Oklahoma City Thunder,Utah Jazz,4,56-90,32,two point shot,True,8,True,True
+2014-11-24,44.5666666667,Oklahoma City Thunder,Utah Jazz,4,56-90,32,two point jumper,True,16,False,True
+2014-11-24,47.65,Oklahoma City Thunder,Utah Jazz,4,70-95,22,three point jumper,True,25,True,True
+2014-12-04,13.0833333333,Oklahoma City Thunder,Portland Trail Blazers,2,31-29,0,two point shot,False,1,True,False
+2014-12-31,16.6,Oklahoma City Thunder,Portland Trail Blazers,2,28-36,7,free throw,True,15,False,False
+2014-12-31,16.6,Oklahoma City Thunder,Portland Trail Blazers,2,28-36,7,free throw,True,15,False,False
+2014-01-07,46.4666666667,Oklahoma City Thunder,Utah Jazz,4,99-110,-14,three point jumper,False,23,False,False

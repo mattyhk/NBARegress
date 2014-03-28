@@ -1,0 +1,125 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-02-22,14.9666666667,Sacramento Kings,Boston Celtics,2,25-32,5,two point shot,True,1,True,False
+2014-02-22,18.45,Sacramento Kings,Boston Celtics,2,29-37,6,two point jumper,True,6,False,False
+2014-01-02,8.98333333333,Sacramento Kings,Philadelphia 76ers,1,18-20,0,two point jumper,True,19,False,False
+2014-01-02,11.65,Sacramento Kings,Philadelphia 76ers,1,30-25,-7,two point jumper,True,7,False,False
+2014-01-02,31.6666666667,Sacramento Kings,Philadelphia 76ers,3,81-65,-18,tip shot,True,0,False,False
+2014-01-02,31.7,Sacramento Kings,Philadelphia 76ers,3,81-65,-18,tip shot,True,0,False,False
+2014-01-02,42.0666666667,Sacramento Kings,Philadelphia 76ers,4,103-93,-12,two point jumper,True,5,False,False
+2014-11-09,22.1166666667,Toronto Raptors,Utah Jazz,2,28-56,25,three point jumper,True,26,True,False
+2014-11-09,36.75,Toronto Raptors,Utah Jazz,4,60-95,33,layup,True,0,True,False
+2014-11-09,37.8833333333,Toronto Raptors,Utah Jazz,4,62-100,35,three point jumper,True,23,True,False
+2014-11-09,41.7833333333,Toronto Raptors,Utah Jazz,4,73-105,29,three point jumper,True,23,False,False
+2014-11-09,42.3833333333,Toronto Raptors,Utah Jazz,4,73-105,29,three point jumper,True,25,False,False
+2014-11-09,43.5666666667,Toronto Raptors,Utah Jazz,4,75-105,29,free throw,True,15,False,False
+2014-11-09,43.5666666667,Toronto Raptors,Utah Jazz,4,75-106,30,free throw,True,15,True,False
+2014-11-11,38.0666666667,Toronto Raptors,Houston Rockets,4,64-76,-15,three point jumper,False,25,False,False
+2014-11-13,21.6166666667,Toronto Raptors,Memphis Grizzlies,2,48-37,10,free throw,False,15,True,False
+2014-11-13,21.6166666667,Toronto Raptors,Memphis Grizzlies,2,49-37,11,free throw,False,15,True,False
+2014-11-13,22.4833333333,Toronto Raptors,Memphis Grizzlies,2,53-39,13,free throw,False,15,False,False
+2014-11-13,22.4833333333,Toronto Raptors,Memphis Grizzlies,2,53-39,13,free throw,False,15,False,False
+2014-11-13,23.5,Toronto Raptors,Memphis Grizzlies,2,54-44,9,free throw,False,15,True,False
+2014-11-13,23.5,Toronto Raptors,Memphis Grizzlies,2,55-44,10,free throw,False,15,True,False
+2014-11-15,11.65,Toronto Raptors,Chicago Bulls,1,27-16,-13,two point jumper,True,21,False,False
+2014-11-15,13.2666666667,Toronto Raptors,Chicago Bulls,2,29-16,-15,tip shot,True,0,False,False
+2014-11-15,13.3166666667,Toronto Raptors,Chicago Bulls,2,29-18,-13,dunk,True,0,True,False
+2014-11-15,14.2166666667,Toronto Raptors,Chicago Bulls,2,31-18,-15,two point jumper,True,20,False,False
+2014-11-15,36.6833333333,Toronto Raptors,Chicago Bulls,4,74-56,-20,two point jumper,True,8,True,False
+2014-11-15,38.8,Toronto Raptors,Chicago Bulls,4,80-62,-20,layup,True,0,False,False
+2014-11-29,22.2333333333,Toronto Raptors,Miami Heat,2,51-41,-12,two point shot,True,1,True,False
+2014-11-29,22.75,Toronto Raptors,Miami Heat,2,53-41,-14,two point jumper,True,18,False,False
+2014-02-05,13.2,Sacramento Kings,Toronto Raptors,2,25-34,7,two point shot,True,13,True,True
+2014-02-19,14.6333333333,Sacramento Kings,Golden State Warriors,2,36-31,-7,two point shot,True,2,True,True
+2014-02-19,30.2833333333,Sacramento Kings,Golden State Warriors,3,69-61,-10,two point jumper,True,17,True,True
+2014-02-28,9.0,Sacramento Kings,Los Angeles Lakers,1,21-23,-4,two point jumper,False,19,True,False
+2014-02-28,12.75,Sacramento Kings,Los Angeles Lakers,2,31-27,2,two point jumper,False,21,False,False
+2014-12-15,13.45,Sacramento Kings,Houston Rockets,2,31-34,1,layup,True,0,True,False
+2014-12-15,34.75,Sacramento Kings,Houston Rockets,3,71-81,8,two point shot,True,2,True,False
+2014-12-17,15.8166666667,Sacramento Kings,Charlotte Bobcats,2,26-42,-18,layup,False,0,True,False
+2014-12-17,15.8166666667,Sacramento Kings,Charlotte Bobcats,2,27-42,-16,free throw,False,15,True,False
+2014-12-17,27.0666666667,Sacramento Kings,Charlotte Bobcats,3,52-58,-8,two point shot,False,1,True,False
+2014-12-18,8.71666666667,Sacramento Kings,Atlanta Hawks,1,12-23,-13,layup,False,0,False,False
+2014-12-18,37.5666666667,Sacramento Kings,Atlanta Hawks,4,91-90,-1,two point jumper,False,20,True,False
+2014-12-18,39.0833333333,Sacramento Kings,Atlanta Hawks,4,93-98,-8,three point jumper,False,23,False,False
+2014-12-20,12.25,Sacramento Kings,Miami Heat,2,38-33,3,dunk,False,0,True,False
+2014-12-20,42.3833333333,Sacramento Kings,Miami Heat,4,93-116,-25,two point shot,False,1,True,False
+2014-12-20,44.2166666667,Sacramento Kings,Miami Heat,4,98-118,-21,free throw,False,15,True,False
+2014-12-20,44.2166666667,Sacramento Kings,Miami Heat,4,98-118,-21,free throw,False,15,False,False
+2014-12-20,45.9,Sacramento Kings,Miami Heat,4,98-120,-25,three point jumper,False,25,False,False
+2014-12-21,11.0,Sacramento Kings,Orlando Magic,1,23-28,-7,two point jumper,False,18,True,True
+2014-12-23,12.8,Sacramento Kings,New Orleans Pelicans,2,28-29,-1,layup,True,0,True,False
+2014-12-23,28.0333333333,Sacramento Kings,New Orleans Pelicans,3,62-62,-1,free throw,True,15,True,False
+2014-12-23,28.0333333333,Sacramento Kings,New Orleans Pelicans,3,62-63,0,free throw,True,15,True,False
+2014-12-23,32.3166666667,Sacramento Kings,New Orleans Pelicans,3,68-71,1,two point shot,True,1,True,False
+2014-12-23,34.4166666667,Sacramento Kings,New Orleans Pelicans,3,73-75,0,two point shot,True,1,False,False
+2014-12-27,12.3333333333,Sacramento Kings,Miami Heat,2,32-21,-13,two point jumper,True,18,True,True
+2014-12-27,13.8833333333,Sacramento Kings,Miami Heat,2,32-24,-9,free throw,True,15,True,True
+2014-12-27,13.8833333333,Sacramento Kings,Miami Heat,2,32-25,-8,free throw,True,15,True,True
+2014-12-27,15.65,Sacramento Kings,Miami Heat,2,36-29,-9,two point shot,True,1,True,True
+2014-12-27,17.2333333333,Sacramento Kings,Miami Heat,2,40-33,-9,two point shot,True,1,True,True
+2014-12-29,16.1666666667,Sacramento Kings,San Antonio Spurs,2,30-38,-10,two point jumper,False,18,False,False
+2014-12-31,23.5,Sacramento Kings,Houston Rockets,2,57-50,5,layup,False,0,True,True
+2014-12-31,23.5,Sacramento Kings,Houston Rockets,2,58-50,7,free throw,False,15,True,True
+2014-12-31,32.9666666667,Sacramento Kings,Houston Rockets,3,77-76,-1,layup,False,0,True,True
+2014-01-07,10.8333333333,Sacramento Kings,Portland Trail Blazers,1,28-22,-8,two point jumper,True,4,False,True
+2014-01-07,12.2666666667,Sacramento Kings,Portland Trail Blazers,2,35-24,-13,layup,True,0,False,True
+2014-01-07,14.3,Sacramento Kings,Portland Trail Blazers,2,40-36,-6,two point shot,True,1,True,True
+2014-01-07,47.5833333333,Sacramento Kings,Portland Trail Blazers,4,113-119,5,free throw,True,15,True,True
+2014-01-07,47.5833333333,Sacramento Kings,Portland Trail Blazers,4,113-119,5,free throw,True,15,False,True
+2014-01-10,13.6333333333,Sacramento Kings,Orlando Magic,2,24-22,-4,two point jumper,True,20,True,False
+2014-01-10,14.7,Sacramento Kings,Orlando Magic,2,25-26,-1,two point shot,True,2,True,False
+2014-01-12,36.3,Sacramento Kings,Cleveland Cavaliers,4,61-91,28,two point shot,True,3,True,False
+2014-01-12,37.05,Sacramento Kings,Cleveland Cavaliers,4,63-93,28,two point jumper,True,1,True,False
+2014-01-12,37.05,Sacramento Kings,Cleveland Cavaliers,4,63-94,30,free throw,True,15,True,False
+2014-01-12,42.7,Sacramento Kings,Cleveland Cavaliers,4,68-108,38,two point jumper,True,5,False,False
+2014-01-14,12.5666666667,Sacramento Kings,Indiana Pacers,2,22-25,-5,layup,False,0,True,True
+2014-01-14,12.95,Sacramento Kings,Indiana Pacers,2,24-25,-3,two point shot,False,1,True,True
+2014-01-14,40.1,Sacramento Kings,Indiana Pacers,4,78-99,-23,two point shot,False,1,True,True
+2014-01-14,42.6333333333,Sacramento Kings,Indiana Pacers,4,80-107,-29,two point jumper,False,19,False,True
+2014-01-15,9.91666666667,Sacramento Kings,Minnesota Timberwolves,1,22-18,3,free throw,False,15,False,True
+2014-01-15,9.91666666667,Sacramento Kings,Minnesota Timberwolves,1,22-18,3,free throw,False,15,False,True
+2014-01-15,12.7,Sacramento Kings,Minnesota Timberwolves,2,26-25,-1,two point shot,False,1,True,True
+2014-01-17,14.8333333333,Sacramento Kings,Memphis Grizzlies,2,27-25,0,tip shot,False,0,False,False
+2014-01-19,12.25,Sacramento Kings,Oklahoma City Thunder,2,30-28,0,dunk,False,0,False,True
+2014-01-19,36.4666666667,Sacramento Kings,Oklahoma City Thunder,4,74-92,-20,layup,False,0,False,True
+2014-01-19,37.6833333333,Sacramento Kings,Oklahoma City Thunder,4,74-92,-20,layup,False,0,False,True
+2014-01-21,12.95,Sacramento Kings,New Orleans Pelicans,2,40-22,17,free throw,False,15,False,False
+2014-01-21,12.95,Sacramento Kings,New Orleans Pelicans,2,40-22,17,free throw,False,15,False,False
+2014-01-21,23.2666666667,Sacramento Kings,New Orleans Pelicans,2,62-53,7,two point jumper,False,20,False,False
+2014-01-21,34.4166666667,Sacramento Kings,New Orleans Pelicans,3,88-66,21,free throw,False,15,True,False
+2014-01-21,34.4166666667,Sacramento Kings,New Orleans Pelicans,3,88-66,21,free throw,False,15,False,False
+2014-01-21,37.3333333333,Sacramento Kings,New Orleans Pelicans,4,91-74,15,layup,False,0,False,False
+2014-01-21,39.6333333333,Sacramento Kings,New Orleans Pelicans,4,95-76,17,dunk,False,0,True,False
+2014-01-21,47.7,Sacramento Kings,New Orleans Pelicans,4,114-97,15,two point jumper,False,19,False,False
+2014-01-24,18.0333333333,Sacramento Kings,Indiana Pacers,2,37-51,13,free throw,True,15,True,False
+2014-01-24,18.0333333333,Sacramento Kings,Indiana Pacers,2,37-52,14,free throw,True,15,True,False
+2014-01-24,26.95,Sacramento Kings,Indiana Pacers,3,60-65,3,hook shot,True,4,False,False
+2014-01-26,8.85,Sacramento Kings,Denver Nuggets,1,18-19,-1,layup,True,0,True,False
+2014-01-26,36.8666666667,Sacramento Kings,Denver Nuggets,4,97-93,-6,two point jumper,True,6,False,False
+2014-01-26,37.3166666667,Sacramento Kings,Denver Nuggets,4,97-95,-4,two point shot,True,1,True,False
+2014-01-27,14.5,Sacramento Kings,Utah Jazz,2,23-25,-3,free throw,False,15,True,True
+2014-01-27,14.5,Sacramento Kings,Utah Jazz,2,24-25,-2,free throw,False,15,True,True
+2014-01-29,21.15,Sacramento Kings,Memphis Grizzlies,2,44-40,-6,two point jumper,True,5,True,False
+2014-01-29,35.55,Sacramento Kings,Memphis Grizzlies,3,67-63,-6,layup,True,0,False,False
+2014-01-29,36.7,Sacramento Kings,Memphis Grizzlies,4,71-65,-8,two point jumper,True,16,True,False
+2014-01-31,6.53333333333,Sacramento Kings,Dallas Mavericks,1,12-16,-6,two point shot,False,1,True,False
+2014-01-31,7.81666666667,Sacramento Kings,Dallas Mavericks,1,14-19,-7,two point shot,False,1,True,False
+2014-01-31,14.3166666667,Sacramento Kings,Dallas Mavericks,2,26-29,-5,dunk,False,0,True,False
+2014-01-31,37.5666666667,Sacramento Kings,Dallas Mavericks,4,84-80,3,free throw,False,15,True,False
+2014-01-31,37.5666666667,Sacramento Kings,Dallas Mavericks,4,85-80,4,free throw,False,15,True,False
+2014-01-31,41.1,Sacramento Kings,Dallas Mavericks,4,87-87,-2,two point jumper,False,4,False,False
+2014-02-01,11.2333333333,Sacramento Kings,San Antonio Spurs,1,22-24,-4,two point jumper,False,6,True,False
+2014-02-01,38.2,Sacramento Kings,San Antonio Spurs,4,80-73,5,layup,False,0,False,False
+2014-02-03,10.1333333333,Sacramento Kings,Chicago Bulls,1,11-17,4,two point shot,True,1,False,True
+2014-02-03,10.7666666667,Sacramento Kings,Chicago Bulls,1,12-19,5,two point jumper,True,3,True,True
+2014-02-03,12.0,Sacramento Kings,Chicago Bulls,1,12-24,9,three point jumper,True,23,True,True
+2014-02-03,34.6833333333,Sacramento Kings,Chicago Bulls,3,55-68,11,two point shot,True,2,True,True
+2014-02-03,38.4,Sacramento Kings,Chicago Bulls,4,58-76,17,free throw,True,15,True,True
+2014-02-03,38.4,Sacramento Kings,Chicago Bulls,4,58-77,18,free throw,True,15,True,True
+2014-02-09,32.7333333333,Sacramento Kings,Washington Wizards,3,58-73,-17,two point shot,False,1,True,False
+2014-02-09,39.0833333333,Sacramento Kings,Washington Wizards,4,70-77,-9,two point jumper,False,18,False,False
+2014-02-11,12.5833333333,Sacramento Kings,Cleveland Cavaliers,2,26-33,-10,three point jumper,False,24,True,True
+2014-02-11,34.2666666667,Sacramento Kings,Cleveland Cavaliers,3,63-75,-14,two point shot,False,1,True,True
+2014-02-25,46.2333333333,Sacramento Kings,Houston Rockets,4,127-103,-26,two point jumper,True,6,False,False
+2014-02-25,47.3666666667,Sacramento Kings,Houston Rockets,4,129-103,-28,two point jumper,True,19,False,False
+2014-03-01,36.0,Sacramento Kings,Minnesota Timberwolves,3,84-70,-17,three point jumper,True,23,False,True

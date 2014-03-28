@@ -1,0 +1,430 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-19,11.5166666667,Houston Rockets,Boston Celtics,1,18-40,19,three point jumper,True,26,True,False
+2014-11-19,23.5833333333,Houston Rockets,Boston Celtics,2,44-68,22,two point shot,True,1,True,False
+2014-11-19,31.7833333333,Houston Rockets,Boston Celtics,3,53-86,31,layup,True,0,False,False
+2014-11-19,32.5666666667,Houston Rockets,Boston Celtics,3,55-88,30,three point jumper,True,24,False,False
+2014-11-19,33.9333333333,Houston Rockets,Boston Celtics,3,57-88,29,two point jumper,True,4,False,False
+2014-11-19,44.0166666667,Houston Rockets,Boston Celtics,4,72-101,26,three point jumper,True,25,False,False
+2014-01-13,9.95,Houston Rockets,Boston Celtics,1,17-21,-7,three point jumper,False,25,True,False
+2014-01-13,14.4666666667,Houston Rockets,Boston Celtics,2,28-29,-4,three point jumper,False,25,True,False
+2014-01-13,16.7833333333,Houston Rockets,Boston Celtics,2,32-31,-1,dunk,False,0,False,False
+2014-01-13,33.6833333333,Houston Rockets,Boston Celtics,3,79-59,18,two point shot,False,6,False,False
+2014-01-13,34.2166666667,Houston Rockets,Boston Celtics,3,79-61,15,three point jumper,False,25,False,False
+2014-01-13,35.0,Houston Rockets,Boston Celtics,3,81-63,16,two point shot,False,1,True,False
+2014-01-13,35.5333333333,Houston Rockets,Boston Celtics,3,84-65,16,three point jumper,False,24,True,False
+2014-01-13,36.6833333333,Houston Rockets,Boston Celtics,4,84-65,17,two point shot,False,6,False,False
+2014-01-13,38.2,Houston Rockets,Boston Celtics,4,84-69,12,three point jumper,False,23,False,False
+2014-01-13,44.4833333333,Houston Rockets,Boston Celtics,4,94-83,10,free throw,False,15,False,False
+2014-01-13,44.4833333333,Houston Rockets,Boston Celtics,4,95-83,11,free throw,False,15,True,False
+2014-11-29,10.5,Houston Rockets,Brooklyn Nets,1,10-27,15,two point shot,True,1,True,False
+2014-11-29,11.2333333333,Houston Rockets,Brooklyn Nets,1,14-33,16,three point jumper,True,25,True,False
+2014-11-29,15.65,Houston Rockets,Brooklyn Nets,2,24-43,17,two point jumper,True,3,False,False
+2014-11-29,33.8333333333,Houston Rockets,Brooklyn Nets,3,56-85,28,free throw,True,15,False,False
+2014-11-29,33.8333333333,Houston Rockets,Brooklyn Nets,3,56-86,29,free throw,True,15,True,False
+2014-11-29,35.5,Houston Rockets,Brooklyn Nets,3,60-92,29,three point jumper,True,24,True,False
+2014-11-29,38.5,Houston Rockets,Brooklyn Nets,4,69-96,25,two point jumper,True,8,True,False
+2014-11-29,41.0333333333,Houston Rockets,Brooklyn Nets,4,75-101,24,unknown,True,11,False,False
+2014-11-29,41.2166666667,Houston Rockets,Brooklyn Nets,4,75-103,26,layup,True,0,True,False
+2014-11-29,42.6333333333,Houston Rockets,Brooklyn Nets,4,79-103,22,two point shot,True,1,False,False
+2014-11-29,43.4833333333,Houston Rockets,Brooklyn Nets,4,79-109,27,three point jumper,True,25,True,False
+2014-11-14,13.0666666667,Houston Rockets,New York Knicks,2,30-23,5,layup,False,0,False,True
+2014-11-14,35.55,Houston Rockets,New York Knicks,3,74-72,1,free throw,False,15,False,True
+2014-11-14,35.55,Houston Rockets,New York Knicks,3,75-72,2,free throw,False,15,True,True
+2014-11-14,36.8,Houston Rockets,New York Knicks,4,78-75,0,three point jumper,False,26,True,True
+2014-11-14,41.2166666667,Houston Rockets,New York Knicks,4,89-86,0,three point jumper,False,23,False,True
+2014-01-03,12.9333333333,Houston Rockets,New York Knicks,2,25-23,-5,three point jumper,True,25,True,True
+2014-01-03,15.2166666667,Houston Rockets,New York Knicks,2,27-25,-5,three point jumper,True,25,False,True
+2014-01-03,16.8833333333,Houston Rockets,New York Knicks,2,30-31,-1,layup,True,0,True,True
+2014-11-13,10.25,Houston Rockets,Philadelphia 76ers,1,29-24,3,layup,False,0,True,False
+2014-11-13,11.4333333333,Houston Rockets,Philadelphia 76ers,1,31-27,2,layup,False,0,True,False
+2014-11-13,14.1833333333,Houston Rockets,Philadelphia 76ers,2,36-36,-3,three point jumper,False,25,True,False
+2014-11-13,16.5333333333,Houston Rockets,Philadelphia 76ers,2,39-43,-7,three point jumper,False,27,False,False
+2014-11-13,32.2166666667,Houston Rockets,Philadelphia 76ers,3,83-75,5,three point jumper,False,27,False,False
+2014-11-13,34.1833333333,Houston Rockets,Philadelphia 76ers,3,85-79,4,layup,False,0,True,False
+2014-11-13,35.4333333333,Houston Rockets,Philadelphia 76ers,3,90-80,7,three point jumper,False,26,True,False
+2014-11-13,38.4,Houston Rockets,Philadelphia 76ers,4,90-82,5,three point jumper,False,25,False,False
+2014-11-13,38.7,Houston Rockets,Philadelphia 76ers,4,92-82,8,two point shot,False,3,True,False
+2014-11-13,43.6666666667,Houston Rockets,Philadelphia 76ers,4,102-96,4,layup,False,0,True,False
+2014-11-13,44.2333333333,Houston Rockets,Philadelphia 76ers,4,102-96,3,three point jumper,False,25,False,False
+2014-11-11,8.23333333333,Houston Rockets,Toronto Raptors,1,15-17,0,two point jumper,True,5,False,True
+2014-11-11,9.46666666667,Houston Rockets,Toronto Raptors,1,17-19,1,free throw,True,15,True,True
+2014-11-11,9.46666666667,Houston Rockets,Toronto Raptors,1,17-20,2,free throw,True,15,True,True
+2014-11-11,26.8833333333,Houston Rockets,Toronto Raptors,3,37-49,10,layup,True,0,True,True
+2014-11-11,28.3166666667,Houston Rockets,Toronto Raptors,3,39-54,12,three point jumper,True,26,False,True
+2014-11-11,29.3166666667,Houston Rockets,Toronto Raptors,3,41-54,12,free throw,True,15,False,True
+2014-11-11,29.3166666667,Houston Rockets,Toronto Raptors,3,41-55,13,free throw,True,15,True,True
+2014-11-11,30.8166666667,Houston Rockets,Toronto Raptors,3,46-55,6,three point jumper,True,26,False,True
+2014-11-11,31.3833333333,Houston Rockets,Toronto Raptors,3,48-57,8,free throw,True,15,False,True
+2014-11-11,31.3833333333,Houston Rockets,Toronto Raptors,3,48-57,8,free throw,True,15,False,True
+2014-12-06,33.8166666667,Houston Rockets,Golden State Warriors,3,59-83,21,three point jumper,True,25,False,False
+2014-12-06,37.25,Houston Rockets,Golden State Warriors,4,69-89,17,three point jumper,True,23,False,False
+2014-12-06,38.4666666667,Houston Rockets,Golden State Warriors,4,71-89,16,two point jumper,True,7,False,False
+2014-12-06,47.05,Houston Rockets,Golden State Warriors,4,83-102,17,two point shot,True,6,True,False
+2014-12-13,10.0,Houston Rockets,Golden State Warriors,1,26-21,2,three point jumper,False,23,False,True
+2014-12-13,10.6166666667,Houston Rockets,Golden State Warriors,1,28-23,3,two point jumper,False,9,True,True
+2014-12-13,11.1333333333,Houston Rockets,Golden State Warriors,1,28-25,1,two point shot,False,7,False,True
+2014-12-13,13.1333333333,Houston Rockets,Golden State Warriors,2,32-31,-1,two point shot,False,4,True,True
+2014-12-13,13.1333333333,Houston Rockets,Golden State Warriors,2,33-31,1,free throw,False,15,True,True
+2014-12-13,29.85,Houston Rockets,Golden State Warriors,3,66-60,5,free throw,False,15,True,True
+2014-12-13,29.85,Houston Rockets,Golden State Warriors,3,66-60,5,free throw,False,15,False,True
+2014-12-13,31.6666666667,Houston Rockets,Golden State Warriors,3,69-65,2,two point shot,False,1,False,True
+2014-12-13,32.0,Houston Rockets,Golden State Warriors,3,72-65,4,three point jumper,False,26,True,True
+2014-12-13,34.6166666667,Houston Rockets,Golden State Warriors,3,77-69,6,two point shot,False,17,False,True
+2014-12-13,35.4333333333,Houston Rockets,Golden State Warriors,3,81-71,9,free throw,False,15,False,True
+2014-12-13,35.4333333333,Houston Rockets,Golden State Warriors,3,82-71,10,free throw,False,15,True,True
+2014-12-13,45.15,Houston Rockets,Golden State Warriors,4,100-98,-1,three point jumper,False,27,False,True
+2014-02-20,11.3833333333,Houston Rockets,Golden State Warriors,1,24-17,5,two point jumper,False,12,False,True
+2014-02-20,12.4666666667,Houston Rockets,Golden State Warriors,2,27-21,3,three point jumper,False,25,True,True
+2014-02-20,34.2333333333,Houston Rockets,Golden State Warriors,3,61-67,-8,two point shot,False,24,False,True
+2014-02-20,36.75,Houston Rockets,Golden State Warriors,4,69-73,-7,three point jumper,False,24,False,True
+2014-02-20,38.2,Houston Rockets,Golden State Warriors,4,69-73,-7,three point jumper,False,25,False,True
+2014-11-04,7.31666666667,Houston Rockets,Los Angeles Clippers,1,13-23,-13,three point jumper,False,25,True,False
+2014-11-04,9.16666666667,Houston Rockets,Los Angeles Clippers,1,19-30,-14,three point jumper,False,25,True,False
+2014-11-04,9.48333333333,Houston Rockets,Los Angeles Clippers,1,22-33,-14,three point jumper,False,25,True,False
+2014-11-04,11.8333333333,Houston Rockets,Los Angeles Clippers,1,25-42,-20,three point jumper,False,23,False,False
+2014-11-04,13.2,Houston Rockets,Los Angeles Clippers,2,29-42,-16,three point jumper,False,24,False,False
+2014-11-04,14.2,Houston Rockets,Los Angeles Clippers,2,33-45,-14,two point shot,False,5,True,False
+2014-11-04,14.2,Houston Rockets,Los Angeles Clippers,2,34-45,-12,free throw,False,15,True,False
+2014-11-04,20.9833333333,Houston Rockets,Los Angeles Clippers,2,57-70,-15,two point shot,False,1,True,False
+2014-11-04,22.6333333333,Houston Rockets,Los Angeles Clippers,2,61-76,-17,two point jumper,False,8,False,False
+2014-11-04,35.9666666667,Houston Rockets,Los Angeles Clippers,3,89-104,-18,three point jumper,False,25,False,False
+2014-11-04,36.4666666667,Houston Rockets,Los Angeles Clippers,4,91-107,-18,two point shot,False,8,True,False
+2014-11-04,40.0666666667,Houston Rockets,Los Angeles Clippers,4,101-112,-12,free throw,False,15,True,False
+2014-11-04,40.0666666667,Houston Rockets,Los Angeles Clippers,4,101-112,-12,free throw,False,15,False,False
+2014-11-04,40.7333333333,Houston Rockets,Los Angeles Clippers,4,102-114,-13,free throw,False,15,True,False
+2014-11-04,40.7333333333,Houston Rockets,Los Angeles Clippers,4,103-114,-12,free throw,False,15,True,False
+2014-11-04,42.7833333333,Houston Rockets,Los Angeles Clippers,4,108-125,-19,two point shot,False,15,False,False
+2014-11-09,8.2,Houston Rockets,Los Angeles Clippers,1,20-15,-8,three point jumper,True,26,True,True
+2014-11-09,11.5833333333,Houston Rockets,Los Angeles Clippers,1,22-25,0,three point jumper,True,25,False,True
+2014-11-09,33.5833333333,Houston Rockets,Los Angeles Clippers,3,65-71,3,three point jumper,True,25,False,True
+2014-11-09,34.5,Houston Rockets,Los Angeles Clippers,3,66-71,3,two point shot,True,18,False,True
+2014-11-09,37.3,Houston Rockets,Los Angeles Clippers,4,75-71,-7,three point jumper,True,25,False,True
+2014-11-07,12.6833333333,Houston Rockets,Los Angeles Lakers,2,38-19,-21,two point jumper,True,11,False,False
+2014-11-07,14.1333333333,Houston Rockets,Los Angeles Lakers,2,40-24,-17,free throw,True,15,True,False
+2014-11-07,14.1333333333,Houston Rockets,Los Angeles Lakers,2,40-25,-16,free throw,True,15,True,False
+2014-11-07,30.0,Houston Rockets,Los Angeles Lakers,3,71-61,-13,three point jumper,True,25,False,False
+2014-11-07,36.2166666667,Houston Rockets,Los Angeles Lakers,4,81-80,-4,three point jumper,True,25,True,False
+2014-11-07,40.6,Houston Rockets,Los Angeles Lakers,4,86-84,-5,three point jumper,True,25,False,False
+2014-01-08,19.6333333333,Houston Rockets,Los Angeles Lakers,2,45-40,-7,two point jumper,True,1,True,False
+2014-01-08,22.7166666667,Houston Rockets,Los Angeles Lakers,2,53-47,-8,two point shot,True,1,True,False
+2014-01-08,33.6,Houston Rockets,Los Angeles Lakers,3,67-77,9,free throw,True,15,False,False
+2014-01-08,33.6,Houston Rockets,Los Angeles Lakers,3,67-78,10,free throw,True,15,True,False
+2014-01-08,34.75,Houston Rockets,Los Angeles Lakers,3,68-83,12,three point jumper,True,25,False,False
+2014-01-08,36.3,Houston Rockets,Los Angeles Lakers,4,72-86,13,free throw,True,15,True,False
+2014-01-08,36.3,Houston Rockets,Los Angeles Lakers,4,72-87,14,free throw,True,15,True,False
+2014-01-08,38.15,Houston Rockets,Los Angeles Lakers,4,73-89,14,two point shot,True,6,True,False
+2014-01-08,39.8666666667,Houston Rockets,Los Angeles Lakers,4,75-92,14,three point jumper,True,26,False,False
+2014-02-19,36.7,Houston Rockets,Los Angeles Lakers,4,108-75,31,two point shot,False,15,True,True
+2014-02-19,38.6166666667,Houston Rockets,Los Angeles Lakers,4,112-79,31,layup,False,0,False,True
+2014-02-19,40.2833333333,Houston Rockets,Los Angeles Lakers,4,115-83,30,layup,False,0,False,True
+2014-02-19,41.5,Houston Rockets,Los Angeles Lakers,4,115-85,27,three point jumper,False,28,False,True
+2014-02-19,43.2833333333,Houston Rockets,Los Angeles Lakers,4,123-88,32,three point jumper,False,27,True,True
+2014-02-19,43.7333333333,Houston Rockets,Los Angeles Lakers,4,124-90,33,free throw,False,15,True,True
+2014-02-19,43.7333333333,Houston Rockets,Los Angeles Lakers,4,125-90,34,free throw,False,15,True,True
+2014-12-04,10.5,Houston Rockets,Phoenix Suns,1,22-17,-7,two point shot,True,14,False,False
+2014-12-04,11.4166666667,Houston Rockets,Phoenix Suns,1,25-18,-10,three point jumper,True,22,False,False
+2014-12-04,15.2,Houston Rockets,Phoenix Suns,2,29-27,-4,layup,True,0,False,False
+2014-12-04,15.2,Houston Rockets,Phoenix Suns,2,29-27,-4,two point shot,True,1,True,False
+2014-12-04,16.0333333333,Houston Rockets,Phoenix Suns,2,31-27,-6,two point jumper,True,3,False,False
+2014-12-04,16.8833333333,Houston Rockets,Phoenix Suns,2,31-27,-6,tip shot,True,0,False,False
+2014-12-04,26.7,Houston Rockets,Phoenix Suns,3,53-44,-11,dunk,True,0,True,False
+2014-12-04,28.1,Houston Rockets,Phoenix Suns,3,53-48,-7,layup,True,0,True,False
+2014-12-04,33.0,Houston Rockets,Phoenix Suns,3,61-58,-6,three point jumper,True,24,True,False
+2014-12-04,36.3833333333,Houston Rockets,Phoenix Suns,4,73-63,-12,layup,True,0,True,False
+2014-12-04,44.55,Houston Rockets,Phoenix Suns,4,87-74,-15,layup,True,0,False,False
+2014-12-04,45.1666666667,Houston Rockets,Phoenix Suns,4,90-77,-16,three point jumper,True,23,True,False
+2014-12-04,46.6833333333,Houston Rockets,Phoenix Suns,4,91-82,-11,two point jumper,True,1,False,False
+2014-02-05,13.4666666667,Houston Rockets,Phoenix Suns,2,33-37,2,two point jumper,True,6,False,True
+2014-02-05,14.3166666667,Houston Rockets,Phoenix Suns,2,37-40,0,three point jumper,True,22,True,True
+2014-02-05,15.8166666667,Houston Rockets,Phoenix Suns,2,44-40,-5,free throw,True,15,False,True
+2014-02-05,15.8166666667,Houston Rockets,Phoenix Suns,2,44-40,-5,free throw,True,15,False,True
+2014-02-23,11.9833333333,Houston Rockets,Phoenix Suns,1,30-16,11,three point jumper,False,25,False,True
+2014-02-23,12.9666666667,Houston Rockets,Phoenix Suns,2,32-18,12,layup,False,0,True,True
+2014-02-23,13.25,Houston Rockets,Phoenix Suns,2,34-18,14,layup,False,0,True,True
+2014-02-23,13.7,Houston Rockets,Phoenix Suns,2,34-18,14,two point jumper,False,1,False,True
+2014-02-23,37.1166666667,Houston Rockets,Phoenix Suns,4,86-94,-11,three point jumper,False,25,True,True
+2014-12-15,9.85,Houston Rockets,Sacramento Kings,1,24-20,1,three point jumper,False,24,False,True
+2014-12-15,12.7,Houston Rockets,Sacramento Kings,2,31-30,-2,three point jumper,False,24,True,True
+2014-12-15,30.85,Houston Rockets,Sacramento Kings,3,62-73,-12,free throw,False,15,True,True
+2014-12-15,30.85,Houston Rockets,Sacramento Kings,3,62-73,-12,free throw,False,15,False,True
+2014-12-15,33.1666666667,Houston Rockets,Sacramento Kings,3,66-77,-14,three point jumper,False,26,False,True
+2014-12-31,10.9166666667,Houston Rockets,Sacramento Kings,1,25-17,-10,two point shot,True,1,False,False
+2014-12-31,10.9666666667,Houston Rockets,Sacramento Kings,1,25-19,-8,layup,True,0,True,False
+2014-12-31,32.6666666667,Houston Rockets,Sacramento Kings,3,75-76,0,free throw,True,15,True,False
+2014-12-31,32.6666666667,Houston Rockets,Sacramento Kings,3,75-76,0,free throw,True,15,False,False
+2014-12-31,33.2,Houston Rockets,Sacramento Kings,3,77-76,-3,two point jumper,True,5,False,False
+2014-12-31,34.6833333333,Houston Rockets,Sacramento Kings,3,78-84,3,three point jumper,True,25,True,False
+2014-12-31,38.05,Houston Rockets,Sacramento Kings,4,82-88,4,two point shot,True,9,False,False
+2014-12-31,39.15,Houston Rockets,Sacramento Kings,4,86-88,0,layup,True,0,False,False
+2014-01-22,11.0166666667,Houston Rockets,Sacramento Kings,1,22-25,0,three point jumper,True,24,False,False
+2014-01-22,11.5,Houston Rockets,Sacramento Kings,1,22-27,2,three point jumper,True,25,False,False
+2014-01-22,12.7,Houston Rockets,Sacramento Kings,2,22-31,7,two point shot,True,1,True,False
+2014-01-22,14.2166666667,Houston Rockets,Sacramento Kings,2,24-34,7,three point jumper,True,25,True,False
+2014-01-22,18.1333333333,Houston Rockets,Sacramento Kings,2,29-40,9,layup,True,0,False,False
+2014-01-22,20.0333333333,Houston Rockets,Sacramento Kings,2,31-44,11,two point shot,True,9,False,False
+2014-01-22,30.2,Houston Rockets,Sacramento Kings,3,54-76,20,layup,True,0,True,False
+2014-01-22,31.9166666667,Houston Rockets,Sacramento Kings,3,60-76,13,three point jumper,True,25,False,False
+2014-01-22,34.0,Houston Rockets,Sacramento Kings,3,69-84,13,dunk,True,0,True,False
+2014-01-22,36.3166666667,Houston Rockets,Sacramento Kings,4,73-90,15,two point shot,True,5,True,False
+2014-01-22,38.5,Houston Rockets,Sacramento Kings,4,76-96,18,layup,True,0,True,False
+2014-01-22,41.6,Houston Rockets,Sacramento Kings,4,79-105,24,two point shot,True,15,True,False
+2014-01-22,42.6666666667,Houston Rockets,Sacramento Kings,4,81-110,26,three point jumper,True,24,True,False
+2014-01-22,46.8666666667,Houston Rockets,Sacramento Kings,4,93-119,24,two point jumper,True,4,True,False
+2014-02-25,38.5833333333,Houston Rockets,Sacramento Kings,4,107-83,22,two point jumper,False,6,False,True
+2014-02-25,42.8166666667,Houston Rockets,Sacramento Kings,4,117-94,20,three point jumper,False,25,False,True
+2014-02-25,46.3666666667,Houston Rockets,Sacramento Kings,4,129-103,24,two point shot,False,2,True,True
+2014-12-18,15.4666666667,Houston Rockets,Chicago Bulls,2,26-29,0,three point jumper,True,25,False,False
+2014-12-18,30.85,Houston Rockets,Chicago Bulls,3,65-71,3,three point jumper,True,23,True,False
+2014-12-18,33.4,Houston Rockets,Chicago Bulls,3,66-74,7,free throw,True,15,True,False
+2014-12-18,33.4,Houston Rockets,Chicago Bulls,3,66-75,8,free throw,True,15,True,False
+2014-12-18,34.5833333333,Houston Rockets,Chicago Bulls,3,66-78,11,free throw,True,15,True,False
+2014-12-18,34.5833333333,Houston Rockets,Chicago Bulls,3,66-79,12,free throw,True,15,True,False
+2014-12-18,37.0,Houston Rockets,Chicago Bulls,4,68-85,15,hook shot,True,8,False,False
+2014-12-18,37.3333333333,Houston Rockets,Chicago Bulls,4,68-87,17,layup,True,0,True,False
+2014-12-18,38.0,Houston Rockets,Chicago Bulls,4,70-89,17,dunk,True,0,True,False
+2014-12-18,38.8666666667,Houston Rockets,Chicago Bulls,4,70-89,16,three point jumper,True,25,False,False
+2014-12-18,40.5666666667,Houston Rockets,Chicago Bulls,4,75-91,13,three point jumper,True,25,False,False
+2014-02-01,12.8833333333,Houston Rockets,Cleveland Cavaliers,2,23-35,10,layup,True,0,True,False
+2014-02-01,13.3833333333,Houston Rockets,Cleveland Cavaliers,2,25-35,8,layup,True,0,False,False
+2014-02-01,15.0666666667,Houston Rockets,Cleveland Cavaliers,2,28-40,9,three point jumper,True,25,True,False
+2014-02-01,15.5,Houston Rockets,Cleveland Cavaliers,2,28-40,11,free throw,True,15,False,False
+2014-02-01,15.5,Houston Rockets,Cleveland Cavaliers,2,28-41,12,free throw,True,15,True,False
+2014-02-01,17.75,Houston Rockets,Cleveland Cavaliers,2,30-48,17,free throw,True,15,True,False
+2014-02-01,17.75,Houston Rockets,Cleveland Cavaliers,2,30-49,18,free throw,True,15,True,False
+2014-02-01,35.7833333333,Houston Rockets,Cleveland Cavaliers,3,73-84,9,layup,True,0,False,False
+2014-02-01,38.45,Houston Rockets,Cleveland Cavaliers,4,77-86,8,free throw,True,15,False,False
+2014-02-01,38.45,Houston Rockets,Cleveland Cavaliers,4,77-87,9,free throw,True,15,True,False
+2014-02-01,43.45,Houston Rockets,Cleveland Cavaliers,4,84-96,10,layup,True,0,False,False
+2014-12-21,16.7333333333,Houston Rockets,Detroit Pistons,2,51-33,15,three point jumper,False,24,True,False
+2014-12-21,20.6833333333,Houston Rockets,Detroit Pistons,2,57-47,7,three point jumper,False,27,False,False
+2014-12-21,21.9333333333,Houston Rockets,Detroit Pistons,2,59-49,8,two point jumper,False,15,False,False
+2014-12-21,31.5333333333,Houston Rockets,Detroit Pistons,3,77-63,12,two point shot,False,7,True,False
+2014-12-21,32.3333333333,Houston Rockets,Detroit Pistons,3,77-63,12,two point jumper,False,4,False,False
+2014-12-21,37.8166666667,Houston Rockets,Detroit Pistons,4,92-78,12,two point shot,False,12,True,False
+2014-12-21,41.0666666667,Houston Rockets,Detroit Pistons,4,99-84,13,layup,False,0,True,False
+2014-12-21,43.9166666667,Houston Rockets,Detroit Pistons,4,105-90,13,layup,False,0,True,False
+2014-12-21,45.8333333333,Houston Rockets,Detroit Pistons,4,110-93,16,free throw,False,15,True,False
+2014-12-21,45.8333333333,Houston Rockets,Detroit Pistons,4,111-93,17,free throw,False,15,True,False
+2014-03-01,10.7833333333,Houston Rockets,Detroit Pistons,1,20-38,16,two point shot,True,1,True,True
+2014-03-01,12.3833333333,Houston Rockets,Detroit Pistons,2,22-44,19,three point jumper,True,26,True,True
+2014-03-01,13.8666666667,Houston Rockets,Detroit Pistons,2,26-46,19,free throw,True,15,False,True
+2014-03-01,13.8666666667,Houston Rockets,Detroit Pistons,2,26-47,20,free throw,True,15,True,True
+2014-03-01,14.8,Houston Rockets,Detroit Pistons,2,28-48,19,free throw,True,15,True,True
+2014-03-01,14.8,Houston Rockets,Detroit Pistons,2,28-49,20,free throw,True,15,True,True
+2014-03-01,17.95,Houston Rockets,Detroit Pistons,2,33-54,18,three point jumper,True,25,True,True
+2014-03-01,33.4166666667,Houston Rockets,Detroit Pistons,3,72-89,14,three point jumper,True,25,True,True
+2014-03-01,35.0666666667,Houston Rockets,Detroit Pistons,3,78-94,15,free throw,True,15,True,True
+2014-03-01,35.0666666667,Houston Rockets,Detroit Pistons,3,78-95,16,free throw,True,15,True,True
+2014-03-01,38.5833333333,Houston Rockets,Detroit Pistons,4,89-102,10,three point jumper,True,25,False,True
+2014-12-20,9.18333333333,Houston Rockets,Indiana Pacers,1,16-20,-7,three point jumper,False,25,False,True
+2014-12-20,9.73333333333,Houston Rockets,Indiana Pacers,1,16-22,-8,two point jumper,False,11,False,True
+2014-12-20,13.3333333333,Houston Rockets,Indiana Pacers,2,23-29,-8,two point jumper,False,21,False,True
+2014-12-20,15.3,Houston Rockets,Indiana Pacers,2,27-36,-12,three point jumper,False,26,False,True
+2014-12-20,42.8166666667,Houston Rockets,Indiana Pacers,4,73-103,-33,three point jumper,False,25,False,True
+2014-12-20,43.5333333333,Houston Rockets,Indiana Pacers,4,73-103,-32,two point jumper,False,1,False,True
+2014-12-20,44.75,Houston Rockets,Indiana Pacers,4,75-105,-33,three point jumper,False,25,False,True
+2014-12-20,46.5333333333,Houston Rockets,Indiana Pacers,4,77-112,-38,three point jumper,False,24,False,True
+2014-12-20,47.1666666667,Houston Rockets,Indiana Pacers,4,81-114,-36,three point jumper,False,25,True,True
+2014-12-20,47.6666666667,Houston Rockets,Indiana Pacers,4,81-114,-36,three point jumper,False,26,False,True
+2014-01-18,10.0,Houston Rockets,Milwaukee Bucks,1,18-25,4,three point jumper,True,25,False,True
+2014-01-18,11.5833333333,Houston Rockets,Milwaukee Bucks,1,23-27,1,three point jumper,True,25,False,True
+2014-01-18,13.0666666667,Houston Rockets,Milwaukee Bucks,2,24-31,4,three point jumper,True,23,False,True
+2014-01-18,15.45,Houston Rockets,Milwaukee Bucks,2,28-38,7,three point jumper,True,23,False,True
+2014-01-18,15.5166666667,Houston Rockets,Milwaukee Bucks,2,28-40,10,layup,True,0,True,True
+2014-01-18,32.0333333333,Houston Rockets,Milwaukee Bucks,3,71-80,7,two point shot,True,1,True,True
+2014-01-18,34.3833333333,Houston Rockets,Milwaukee Bucks,3,73-89,14,layup,True,0,True,True
+2014-01-18,35.4833333333,Houston Rockets,Milwaukee Bucks,3,78-89,8,three point jumper,True,25,False,True
+2014-01-18,36.65,Houston Rockets,Milwaukee Bucks,4,80-91,9,two point shot,True,18,False,True
+2014-01-18,40.5333333333,Houston Rockets,Milwaukee Bucks,4,87-99,10,tip shot,True,0,False,True
+2014-01-18,47.6666666667,Houston Rockets,Milwaukee Bucks,4,102-114,9,three point jumper,True,23,False,True
+2014-02-08,37.2,Houston Rockets,Milwaukee Bucks,4,81-71,8,layup,False,0,False,False
+2014-02-08,38.3333333333,Houston Rockets,Milwaukee Bucks,4,83-73,7,three point jumper,False,26,False,False
+2014-11-01,1.55,Houston Rockets,Dallas Mavericks,1,1-0,-3,two point jumper,True,17,False,True
+2014-11-01,2.56666666667,Houston Rockets,Dallas Mavericks,1,4-7,0,three point jumper,True,25,True,True
+2014-11-01,3.26666666667,Houston Rockets,Dallas Mavericks,1,6-10,1,three point jumper,True,23,True,True
+2014-11-01,9.6,Houston Rockets,Dallas Mavericks,1,15-27,10,two point jumper,True,15,True,True
+2014-11-01,27.3833333333,Houston Rockets,Dallas Mavericks,3,52-64,9,three point jumper,True,23,True,True
+2014-11-01,28.45,Houston Rockets,Dallas Mavericks,3,56-64,7,free throw,True,15,False,True
+2014-11-01,28.45,Houston Rockets,Dallas Mavericks,3,56-65,8,free throw,True,15,True,True
+2014-11-01,32.75,Houston Rockets,Dallas Mavericks,3,68-76,6,layup,True,0,False,True
+2014-11-01,34.55,Houston Rockets,Dallas Mavericks,3,72-81,7,two point shot,True,11,False,True
+2014-11-20,9.75,Houston Rockets,Dallas Mavericks,1,33-23,8,two point shot,False,6,True,False
+2014-11-20,10.9833333333,Houston Rockets,Dallas Mavericks,1,35-26,7,layup,False,0,True,False
+2014-11-20,11.9666666667,Houston Rockets,Dallas Mavericks,1,40-29,8,three point jumper,False,25,True,False
+2014-11-20,12.45,Houston Rockets,Dallas Mavericks,2,42-29,11,two point shot,False,19,True,False
+2014-11-20,32.85,Houston Rockets,Dallas Mavericks,3,95-78,15,two point shot,False,5,True,False
+2014-12-23,12.3166666667,Houston Rockets,Dallas Mavericks,2,20-28,6,two point shot,True,3,True,False
+2014-12-23,12.75,Houston Rockets,Dallas Mavericks,2,22-28,5,free throw,True,15,False,False
+2014-12-23,12.75,Houston Rockets,Dallas Mavericks,2,22-29,6,free throw,True,15,True,False
+2014-12-23,34.9166666667,Houston Rockets,Dallas Mavericks,3,82-72,-12,two point shot,True,1,False,False
+2014-01-29,36.5,Houston Rockets,Dallas Mavericks,4,91-85,4,two point jumper,False,6,False,True
+2014-01-29,37.05,Houston Rockets,Dallas Mavericks,4,91-87,1,three point jumper,False,22,False,True
+2014-01-29,39.5833333333,Houston Rockets,Dallas Mavericks,4,98-93,3,two point shot,False,16,True,True
+2014-10-30,7.25,Houston Rockets,Charlotte Bobcats,1,12-9,-5,two point jumper,True,1,False,True
+2014-10-30,8.2,Houston Rockets,Charlotte Bobcats,1,14-9,-7,two point shot,True,20,False,True
+2014-10-30,9.06666666667,Houston Rockets,Charlotte Bobcats,1,14-11,-6,three point jumper,True,24,False,True
+2014-10-30,35.3666666667,Houston Rockets,Charlotte Bobcats,3,61-67,4,two point shot,True,8,True,True
+2014-10-30,36.8833333333,Houston Rockets,Charlotte Bobcats,4,62-69,5,two point shot,True,7,True,True
+2014-10-30,42.85,Houston Rockets,Charlotte Bobcats,4,68-80,9,three point jumper,True,26,False,True
+2014-11-05,13.1833333333,Houston Rockets,Portland Trail Blazers,2,32-33,-3,two point jumper,False,1,True,True
+2014-11-05,13.6166666667,Houston Rockets,Portland Trail Blazers,2,32-33,-4,three point jumper,False,24,False,True
+2014-11-05,16.5333333333,Houston Rockets,Portland Trail Blazers,2,38-36,1,free throw,False,15,False,True
+2014-11-05,16.5333333333,Houston Rockets,Portland Trail Blazers,2,39-36,2,free throw,False,15,True,True
+2014-11-05,31.2,Houston Rockets,Portland Trail Blazers,3,74-59,12,three point jumper,False,23,False,True
+2014-11-05,35.2333333333,Houston Rockets,Portland Trail Blazers,3,81-71,9,free throw,False,15,True,True
+2014-11-05,35.2333333333,Houston Rockets,Portland Trail Blazers,3,82-71,10,free throw,False,15,True,True
+2014-11-05,36.75,Houston Rockets,Portland Trail Blazers,4,86-75,9,two point jumper,False,5,True,True
+2014-11-16,8.05,Houston Rockets,Denver Nuggets,1,12-28,13,three point jumper,True,25,False,True
+2014-11-16,13.4666666667,Houston Rockets,Denver Nuggets,2,25-35,8,two point jumper,True,22,False,True
+2014-11-16,15.45,Houston Rockets,Denver Nuggets,2,28-45,15,two point shot,True,1,True,True
+2014-11-16,30.2166666667,Houston Rockets,Denver Nuggets,3,61-80,17,two point shot,True,1,True,True
+2014-11-16,32.8,Houston Rockets,Denver Nuggets,3,66-84,15,three point jumper,True,25,False,True
+2014-11-16,33.5166666667,Houston Rockets,Denver Nuggets,3,68-88,17,three point jumper,True,25,True,True
+2014-11-16,35.3333333333,Houston Rockets,Denver Nuggets,3,72-88,14,layup,True,0,False,True
+2014-11-16,47.3833333333,Houston Rockets,Denver Nuggets,4,108-122,12,two point jumper,True,20,False,True
+2014-11-23,9.58333333333,Houston Rockets,Minnesota Timberwolves,1,16-20,1,three point jumper,True,25,False,True
+2014-11-23,36.3833333333,Houston Rockets,Minnesota Timberwolves,4,74-85,8,three point jumper,True,23,True,True
+2014-11-23,37.8833333333,Houston Rockets,Minnesota Timberwolves,4,76-91,13,hook shot,True,7,False,True
+2014-11-23,39.7666666667,Houston Rockets,Minnesota Timberwolves,4,80-94,11,three point jumper,True,25,False,True
+2014-11-23,41.1,Houston Rockets,Minnesota Timberwolves,4,83-99,14,layup,True,0,True,True
+2014-11-23,41.7833333333,Houston Rockets,Minnesota Timberwolves,4,85-99,12,two point jumper,True,1,False,True
+2014-11-23,42.1666666667,Houston Rockets,Minnesota Timberwolves,4,85-99,11,three point jumper,True,25,False,True
+2014-11-23,47.3333333333,Houston Rockets,Minnesota Timberwolves,4,101-112,9,two point jumper,True,7,False,True
+2014-11-25,11.4166666667,Houston Rockets,Memphis Grizzlies,1,20-21,-4,three point jumper,False,26,True,True
+2014-11-25,13.3166666667,Houston Rockets,Memphis Grizzlies,2,21-24,-4,free throw,False,15,True,True
+2014-11-25,13.3166666667,Houston Rockets,Memphis Grizzlies,2,22-24,-3,free throw,False,15,True,True
+2014-11-25,14.1333333333,Houston Rockets,Memphis Grizzlies,2,22-24,-4,two point jumper,False,21,False,True
+2014-11-25,39.5666666667,Houston Rockets,Memphis Grizzlies,4,66-65,0,free throw,False,15,True,True
+2014-11-25,39.5666666667,Houston Rockets,Memphis Grizzlies,4,67-65,1,free throw,False,15,True,True
+2014-11-25,41.35,Houston Rockets,Memphis Grizzlies,4,71-69,-1,unknown,False,25,False,True
+2014-11-25,41.6,Houston Rockets,Memphis Grizzlies,4,73-69,2,two point shot,False,1,True,True
+2014-11-25,42.1666666667,Houston Rockets,Memphis Grizzlies,4,75-69,4,two point shot,False,5,True,True
+2014-11-25,43.95,Houston Rockets,Memphis Grizzlies,4,80-73,4,three point jumper,False,23,True,True
+2014-11-25,47.4,Houston Rockets,Memphis Grizzlies,4,91-84,6,free throw,False,15,True,True
+2014-11-25,47.4,Houston Rockets,Memphis Grizzlies,4,92-84,7,free throw,False,15,True,True
+2014-11-27,30.85,Houston Rockets,Atlanta Hawks,3,60-65,3,two point jumper,True,21,False,False
+2014-11-27,31.7833333333,Houston Rockets,Atlanta Hawks,3,60-69,8,free throw,True,15,True,False
+2014-11-27,31.7833333333,Houston Rockets,Atlanta Hawks,3,60-70,9,free throw,True,15,True,False
+2014-11-27,40.35,Houston Rockets,Atlanta Hawks,4,77-94,15,two point jumper,True,18,True,False
+2014-11-27,42.4833333333,Houston Rockets,Atlanta Hawks,4,79-102,20,three point jumper,True,23,True,False
+2014-11-27,43.2833333333,Houston Rockets,Atlanta Hawks,4,81-102,19,two point jumper,True,13,False,False
+2014-11-27,45.0166666667,Houston Rockets,Atlanta Hawks,4,84-107,21,layup,True,0,True,False
+2014-11-30,10.9833333333,Houston Rockets,San Antonio Spurs,1,27-24,0,three point jumper,False,25,False,True
+2014-11-30,11.9666666667,Houston Rockets,San Antonio Spurs,1,30-24,4,layup,False,0,True,True
+2014-11-30,13.2,Houston Rockets,San Antonio Spurs,2,35-26,7,layup,False,0,True,True
+2014-11-30,15.3333333333,Houston Rockets,San Antonio Spurs,2,41-26,13,two point shot,False,18,True,True
+2014-11-30,16.5333333333,Houston Rockets,San Antonio Spurs,2,43-30,11,two point shot,False,1,True,True
+2014-11-30,17.0,Houston Rockets,San Antonio Spurs,2,43-32,8,three point jumper,False,25,False,True
+2014-11-30,32.8666666667,Houston Rockets,San Antonio Spurs,3,79-73,4,two point jumper,False,18,False,True
+2014-11-30,37.8666666667,Houston Rockets,San Antonio Spurs,4,83-85,-5,three point jumper,False,25,False,True
+2014-12-02,9.78333333333,Houston Rockets,Utah Jazz,1,21-24,-6,three point jumper,False,24,True,False
+2014-12-02,14.7,Houston Rockets,Utah Jazz,2,30-37,-9,two point shot,False,1,True,False
+2014-12-02,17.7833333333,Houston Rockets,Utah Jazz,2,35-42,-10,three point jumper,False,25,True,False
+2014-12-02,33.1833333333,Houston Rockets,Utah Jazz,3,72-78,-8,two point shot,False,9,True,False
+2014-12-02,34.3,Houston Rockets,Utah Jazz,3,72-78,-7,free throw,False,15,False,False
+2014-12-02,34.3,Houston Rockets,Utah Jazz,3,72-78,-7,free throw,False,15,False,False
+2014-12-02,38.1166666667,Houston Rockets,Utah Jazz,4,81-84,-5,layup,False,0,True,False
+2014-12-02,38.1166666667,Houston Rockets,Utah Jazz,4,82-84,-3,free throw,False,15,True,False
+2014-12-02,40.4833333333,Houston Rockets,Utah Jazz,4,86-89,-6,three point jumper,False,25,False,False
+2014-12-02,43.1666666667,Houston Rockets,Utah Jazz,4,91-93,-5,three point jumper,False,24,False,False
+2014-12-08,9.83333333333,Houston Rockets,Orlando Magic,1,14-25,9,two point shot,True,16,False,True
+2014-12-08,14.5666666667,Houston Rockets,Orlando Magic,2,25-29,3,free throw,True,15,True,True
+2014-12-08,14.5666666667,Houston Rockets,Orlando Magic,2,25-30,4,free throw,True,15,True,True
+2014-12-08,15.6166666667,Houston Rockets,Orlando Magic,2,25-32,5,layup,True,0,True,True
+2014-12-08,31.6333333333,Houston Rockets,Orlando Magic,3,54-70,13,three point jumper,True,26,False,True
+2014-12-08,36.2,Houston Rockets,Orlando Magic,4,61-83,19,three point jumper,True,25,False,True
+2014-12-08,38.1333333333,Houston Rockets,Orlando Magic,4,68-89,19,dunk,True,0,True,True
+2014-12-12,12.8166666667,Houston Rockets,Portland Trail Blazers,2,22-24,-4,layup,False,0,True,False
+2014-12-12,14.5,Houston Rockets,Portland Trail Blazers,2,26-28,-4,two point jumper,False,7,False,False
+2014-12-12,31.6666666667,Houston Rockets,Portland Trail Blazers,3,59-67,-11,three point jumper,False,24,False,False
+2014-12-12,32.85,Houston Rockets,Portland Trail Blazers,3,64-68,-6,layup,False,0,True,False
+2014-12-12,34.0,Houston Rockets,Portland Trail Blazers,3,69-70,-2,free throw,False,15,True,False
+2014-12-12,34.0,Houston Rockets,Portland Trail Blazers,3,70-70,-1,free throw,False,15,True,False
+2014-12-12,36.95,Houston Rockets,Portland Trail Blazers,4,76-79,-6,three point jumper,False,26,False,False
+2014-12-12,46.8833333333,Houston Rockets,Portland Trail Blazers,4,98-109,-13,two point jumper,False,3,False,False
+2014-12-25,7.7,Houston Rockets,San Antonio Spurs,1,27-12,12,three point jumper,False,23,False,False
+2014-12-25,9.75,Houston Rockets,San Antonio Spurs,1,35-18,14,three point jumper,False,23,True,False
+2014-12-25,10.3333333333,Houston Rockets,San Antonio Spurs,1,35-21,12,two point jumper,False,16,False,False
+2014-12-25,12.6333333333,Houston Rockets,San Antonio Spurs,2,40-25,12,three point jumper,False,25,False,False
+2014-12-25,13.1833333333,Houston Rockets,San Antonio Spurs,2,40-27,11,two point jumper,False,9,False,False
+2014-12-25,34.75,Houston Rockets,San Antonio Spurs,3,81-73,5,three point jumper,False,25,False,False
+2014-12-25,36.3166666667,Houston Rockets,San Antonio Spurs,4,85-75,8,two point jumper,False,9,True,False
+2014-12-25,36.8833333333,Houston Rockets,San Antonio Spurs,4,85-77,6,two point jumper,False,8,False,False
+2014-12-25,38.2,Houston Rockets,San Antonio Spurs,4,87-81,4,two point shot,False,5,True,False
+2014-12-26,11.0,Houston Rockets,Memphis Grizzlies,1,21-25,2,layup,True,0,True,False
+2014-12-26,13.5666666667,Houston Rockets,Memphis Grizzlies,2,23-31,6,two point jumper,True,1,False,False
+2014-12-26,19.5,Houston Rockets,Memphis Grizzlies,2,39-37,-5,three point jumper,True,25,False,False
+2014-12-28,10.6833333333,Houston Rockets,New Orleans Pelicans,1,20-29,7,two point shot,True,1,True,False
+2014-12-28,12.5,Houston Rockets,New Orleans Pelicans,2,22-31,8,free throw,True,15,False,False
+2014-12-28,12.5,Houston Rockets,New Orleans Pelicans,2,22-31,8,free throw,True,15,False,False
+2014-12-28,13.5166666667,Houston Rockets,New Orleans Pelicans,2,26-31,2,three point jumper,True,26,False,False
+2014-12-28,14.2,Houston Rockets,New Orleans Pelicans,2,28-34,3,three point jumper,True,25,True,False
+2014-12-28,35.3833333333,Houston Rockets,New Orleans Pelicans,3,73-74,-1,layup,True,0,True,False
+2014-12-28,35.3833333333,Houston Rockets,New Orleans Pelicans,3,73-74,0,free throw,True,15,False,False
+2014-12-28,36.6333333333,Houston Rockets,New Orleans Pelicans,4,73-76,1,two point jumper,True,6,False,False
+2014-12-28,37.5666666667,Houston Rockets,New Orleans Pelicans,4,73-78,2,three point jumper,True,26,False,False
+2014-12-29,13.8833333333,Houston Rockets,Oklahoma City Thunder,2,17-28,-14,three point jumper,False,25,True,True
+2014-12-29,15.25,Houston Rockets,Oklahoma City Thunder,2,19-30,-12,free throw,False,15,False,True
+2014-12-29,15.25,Houston Rockets,Oklahoma City Thunder,2,20-30,-11,free throw,False,15,True,True
+2014-12-29,16.8166666667,Houston Rockets,Oklahoma City Thunder,2,25-37,-14,two point jumper,False,1,False,True
+2014-12-29,19.2,Houston Rockets,Oklahoma City Thunder,2,31-44,-15,two point shot,False,1,True,True
+2014-12-29,21.4166666667,Houston Rockets,Oklahoma City Thunder,2,36-50,-17,three point jumper,False,25,False,True
+2014-12-29,22.6166666667,Houston Rockets,Oklahoma City Thunder,2,40-54,-16,layup,False,0,True,True
+2014-12-29,23.5,Houston Rockets,Oklahoma City Thunder,2,43-56,-16,three point jumper,False,24,False,True
+2014-12-29,32.6166666667,Houston Rockets,Oklahoma City Thunder,3,58-78,-22,two point shot,False,1,True,True
+2014-12-29,33.9666666667,Houston Rockets,Oklahoma City Thunder,3,63-82,-21,two point shot,False,1,True,True
+2014-12-29,39.4333333333,Houston Rockets,Oklahoma City Thunder,4,78-95,-19,two point shot,False,6,True,True
+2014-12-29,41.4166666667,Houston Rockets,Oklahoma City Thunder,4,78-105,-30,three point jumper,False,23,False,True
+2014-12-29,43.95,Houston Rockets,Oklahoma City Thunder,4,81-111,-33,three point jumper,False,24,False,True
+2014-12-29,47.35,Houston Rockets,Oklahoma City Thunder,4,85-117,-34,two point jumper,False,5,False,True
+2014-12-29,47.6666666667,Houston Rockets,Oklahoma City Thunder,4,85-117,-33,free throw,False,15,False,True
+2014-12-29,47.6666666667,Houston Rockets,Oklahoma City Thunder,4,86-117,-32,free throw,False,15,True,True
+2014-01-10,15.1333333333,Houston Rockets,Atlanta Hawks,2,27-20,4,three point jumper,False,25,False,False
+2014-01-10,15.5,Houston Rockets,Atlanta Hawks,2,27-20,5,two point shot,False,9,False,False
+2014-01-11,12.3166666667,Houston Rockets,Washington Wizards,2,32-29,0,three point jumper,False,23,True,True
+2014-01-11,13.8166666667,Houston Rockets,Washington Wizards,2,32-29,1,two point jumper,False,7,False,True
+2014-01-11,14.05,Houston Rockets,Washington Wizards,2,33-29,3,free throw,False,15,True,True
+2014-01-11,14.05,Houston Rockets,Washington Wizards,2,34-29,4,free throw,False,15,True,True
+2014-01-11,14.9,Houston Rockets,Washington Wizards,2,36-31,3,two point shot,False,1,True,True
+2014-01-11,18.5666666667,Houston Rockets,Washington Wizards,2,48-38,7,three point jumper,False,25,True,True
+2014-01-11,21.0,Houston Rockets,Washington Wizards,2,56-42,12,dunk,False,0,True,True
+2014-01-11,35.0,Houston Rockets,Washington Wizards,3,93-75,17,free throw,False,15,True,True
+2014-01-11,35.0,Houston Rockets,Washington Wizards,3,94-75,18,free throw,False,15,True,True
+2014-01-15,12.7166666667,Houston Rockets,New Orleans Pelicans,2,19-32,-15,two point shot,False,7,False,True
+2014-01-20,13.3833333333,Houston Rockets,Portland Trail Blazers,2,30-40,7,three point jumper,True,26,True,True
+2014-01-20,14.45,Houston Rockets,Portland Trail Blazers,2,30-45,12,three point jumper,True,25,True,True
+2014-01-20,22.1,Houston Rockets,Portland Trail Blazers,2,49-68,17,two point shot,True,6,True,True
+2014-01-20,22.5,Houston Rockets,Portland Trail Blazers,2,49-71,19,three point jumper,True,25,True,True
+2014-01-20,23.9,Houston Rockets,Portland Trail Blazers,2,56-71,13,tip shot,True,0,False,True
+2014-01-20,31.7,Houston Rockets,Portland Trail Blazers,3,80-90,8,two point shot,True,2,True,True
+2014-01-20,32.1833333333,Houston Rockets,Portland Trail Blazers,3,80-90,8,two point jumper,True,22,False,True
+2014-01-20,35.3666666667,Houston Rockets,Portland Trail Blazers,3,89-102,12,free throw,True,15,True,True
+2014-01-20,35.3666666667,Houston Rockets,Portland Trail Blazers,3,89-103,13,free throw,True,15,True,True
+2014-01-20,38.3666666667,Houston Rockets,Portland Trail Blazers,4,93-110,14,three point jumper,True,25,False,True
+2014-01-20,46.9166666667,Houston Rockets,Portland Trail Blazers,4,110-124,11,three point jumper,True,25,False,True
+2014-01-24,10.1,Houston Rockets,Memphis Grizzlies,1,19-14,-7,two point jumper,True,1,False,False
+2014-01-24,12.75,Houston Rockets,Memphis Grizzlies,2,21-20,-4,three point jumper,True,23,False,False
+2014-01-24,15.4666666667,Houston Rockets,Memphis Grizzlies,2,25-22,-6,three point jumper,True,25,False,False
+2014-01-24,23.1666666667,Houston Rockets,Memphis Grizzlies,2,43-33,-13,three point jumper,True,25,True,False
+2014-01-24,33.3,Houston Rockets,Memphis Grizzlies,3,60-55,-7,layup,True,0,False,False
+2014-01-24,36.75,Houston Rockets,Memphis Grizzlies,4,64-66,0,layup,True,0,True,False
+2014-01-24,38.55,Houston Rockets,Memphis Grizzlies,4,68-69,-1,two point shot,True,7,False,False
+2014-01-25,12.5666666667,Houston Rockets,Memphis Grizzlies,2,16-18,-4,two point shot,False,6,True,False
+2014-01-25,16.6333333333,Houston Rockets,Memphis Grizzlies,2,23-30,-10,three point jumper,False,29,False,False
+2014-01-25,37.5833333333,Houston Rockets,Memphis Grizzlies,4,55-76,-22,free throw,False,15,True,False
+2014-01-25,37.5833333333,Houston Rockets,Memphis Grizzlies,4,56-76,-21,free throw,False,15,True,False
+2014-01-25,38.2166666667,Houston Rockets,Memphis Grizzlies,4,58-78,-22,two point shot,False,17,True,False
+2014-01-25,41.5666666667,Houston Rockets,Memphis Grizzlies,4,63-86,-26,three point jumper,False,25,True,False
+2014-01-25,47.75,Houston Rockets,Memphis Grizzlies,4,81-99,-21,three point jumper,False,24,False,False
+2014-01-28,8.46666666667,Houston Rockets,San Antonio Spurs,1,22-9,-15,two point shot,True,25,False,True
+2014-01-28,13.3166666667,Houston Rockets,San Antonio Spurs,2,33-22,-13,layup,True,0,True,True
+2014-01-28,13.3166666667,Houston Rockets,San Antonio Spurs,2,33-22,-12,free throw,True,15,False,True
+2014-01-28,13.8666666667,Houston Rockets,San Antonio Spurs,2,33-22,-14,three point jumper,True,23,False,True
+2014-01-28,15.3333333333,Houston Rockets,San Antonio Spurs,2,33-26,-9,two point jumper,True,6,True,True
+2014-01-28,16.4833333333,Houston Rockets,San Antonio Spurs,2,33-26,-8,free throw,True,15,False,True
+2014-01-28,16.4833333333,Houston Rockets,San Antonio Spurs,2,33-26,-8,free throw,True,15,False,True
+2014-01-28,40.7333333333,Houston Rockets,San Antonio Spurs,4,73-81,7,free throw,True,15,False,True
+2014-01-28,40.7333333333,Houston Rockets,San Antonio Spurs,4,73-82,8,free throw,True,15,True,True
+2014-02-10,12.8333333333,Houston Rockets,Minnesota Timberwolves,2,34-28,3,three point jumper,False,23,False,False
+2014-02-10,23.5666666667,Houston Rockets,Minnesota Timberwolves,2,63-56,6,free throw,False,15,True,False
+2014-02-10,23.5666666667,Houston Rockets,Minnesota Timberwolves,2,64-56,7,free throw,False,15,True,False

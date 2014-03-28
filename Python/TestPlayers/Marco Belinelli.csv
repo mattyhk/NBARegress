@@ -1,0 +1,561 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-20,9.86666666667,San Antonio Spurs,Boston Celtics,1,20-20,-2,layup,True,0,False,False
+2014-11-20,13.5,San Antonio Spurs,Boston Celtics,2,29-24,-7,layup,True,0,True,False
+2014-11-20,16.4833333333,San Antonio Spurs,Boston Celtics,2,31-33,0,two point jumper,True,16,True,False
+2014-11-20,17.6,San Antonio Spurs,Boston Celtics,2,33-35,0,two point jumper,True,20,True,False
+2014-11-20,17.95,San Antonio Spurs,Boston Celtics,2,33-35,0,two point jumper,True,21,False,False
+2014-11-20,42.5,San Antonio Spurs,Boston Celtics,4,81-100,16,three point jumper,True,27,True,False
+2014-11-20,44.4666666667,San Antonio Spurs,Boston Celtics,4,86-100,12,two point jumper,True,17,False,False
+2014-02-12,2.0,San Antonio Spurs,Boston Celtics,1,7-2,2,three point jumper,False,24,True,False
+2014-02-12,3.3,San Antonio Spurs,Boston Celtics,1,7-2,3,two point jumper,False,17,False,False
+2014-02-12,5.03333333333,San Antonio Spurs,Boston Celtics,1,11-2,7,two point jumper,False,18,True,False
+2014-02-12,5.91666666667,San Antonio Spurs,Boston Celtics,1,13-2,9,two point shot,False,10,True,False
+2014-02-12,6.6,San Antonio Spurs,Boston Celtics,1,14-4,9,free throw,False,15,True,False
+2014-02-12,6.6,San Antonio Spurs,Boston Celtics,1,15-4,10,free throw,False,15,True,False
+2014-02-12,7.35,San Antonio Spurs,Boston Celtics,1,15-7,5,three point jumper,False,26,False,False
+2014-02-12,11.2833333333,San Antonio Spurs,Boston Celtics,1,25-17,5,three point jumper,False,25,False,False
+2014-02-12,17.35,San Antonio Spurs,Boston Celtics,2,34-32,0,two point jumper,False,18,False,False
+2014-02-12,30.0333333333,San Antonio Spurs,Boston Celtics,3,59-56,1,two point jumper,False,19,True,False
+2014-02-12,36.0,San Antonio Spurs,Boston Celtics,3,71-66,3,two point jumper,False,20,False,False
+2014-02-12,43.6333333333,San Antonio Spurs,Boston Celtics,4,96-79,14,three point jumper,False,25,True,False
+2014-02-12,44.45,San Antonio Spurs,Boston Celtics,4,96-80,14,two point jumper,False,13,False,False
+2014-02-12,46.4666666667,San Antonio Spurs,Boston Celtics,4,104-87,15,two point shot,False,1,True,False
+2014-12-31,0.816666666667,San Antonio Spurs,Brooklyn Nets,1,2-3,-2,three point jumper,True,23,True,False
+2014-12-31,4.56666666667,San Antonio Spurs,Brooklyn Nets,1,4-14,8,layup,True,0,True,False
+2014-12-31,5.06666666667,San Antonio Spurs,Brooklyn Nets,1,4-14,7,three point jumper,True,27,False,False
+2014-12-31,15.1833333333,San Antonio Spurs,Brooklyn Nets,2,26-36,9,free throw,True,15,False,False
+2014-12-31,24.3666666667,San Antonio Spurs,Brooklyn Nets,3,36-61,23,layup,True,0,True,False
+2014-12-31,26.5833333333,San Antonio Spurs,Brooklyn Nets,3,38-65,24,three point jumper,True,25,True,False
+2014-02-06,3.2,San Antonio Spurs,Brooklyn Nets,1,8-4,1,three point jumper,False,26,True,True
+2014-02-06,11.05,San Antonio Spurs,Brooklyn Nets,1,24-15,7,two point shot,False,2,True,True
+2014-02-06,22.9,San Antonio Spurs,Brooklyn Nets,2,37-38,-2,free throw,False,15,False,True
+2014-02-06,25.75,San Antonio Spurs,Brooklyn Nets,3,41-44,-5,two point jumper,False,13,True,True
+2014-02-06,31.7,San Antonio Spurs,Brooklyn Nets,3,55-64,-11,two point jumper,False,16,True,True
+2014-02-06,31.7,San Antonio Spurs,Brooklyn Nets,3,56-64,-9,free throw,False,15,True,True
+2014-02-06,35.8333333333,San Antonio Spurs,Brooklyn Nets,3,68-75,-9,two point jumper,False,10,False,True
+2014-02-06,35.95,San Antonio Spurs,Brooklyn Nets,3,68-75,-10,three point jumper,False,25,False,True
+2014-02-06,43.7,San Antonio Spurs,Brooklyn Nets,4,82-92,-11,free throw,False,15,True,True
+2014-02-06,43.7,San Antonio Spurs,Brooklyn Nets,4,83-92,-10,free throw,False,15,True,True
+2014-11-10,2.96666666667,San Antonio Spurs,New York Knicks,1,10-0,8,layup,False,0,True,False
+2014-11-10,6.2,San Antonio Spurs,New York Knicks,1,21-4,14,three point jumper,False,25,True,False
+2014-11-10,16.6333333333,San Antonio Spurs,New York Knicks,2,45-22,22,free throw,False,15,True,False
+2014-11-10,16.6333333333,San Antonio Spurs,New York Knicks,2,46-22,23,free throw,False,15,True,False
+2014-11-10,34.7333333333,San Antonio Spurs,New York Knicks,3,90-57,30,three point jumper,False,29,False,False
+2014-11-10,37.6166666667,San Antonio Spurs,New York Knicks,4,96-62,32,two point jumper,False,22,True,False
+2014-01-02,0.7,San Antonio Spurs,New York Knicks,1,0-0,-2,two point jumper,True,16,False,False
+2014-01-02,1.5,San Antonio Spurs,New York Knicks,1,0-2,0,layup,True,0,True,False
+2014-01-02,2.06666666667,San Antonio Spurs,New York Knicks,1,2-5,0,three point jumper,True,25,True,False
+2014-01-02,3.7,San Antonio Spurs,New York Knicks,1,4-7,1,two point jumper,True,17,True,False
+2014-01-02,5.31666666667,San Antonio Spurs,New York Knicks,1,9-10,-2,three point jumper,True,23,True,False
+2014-01-02,14.05,San Antonio Spurs,New York Knicks,2,27-36,6,three point jumper,True,25,True,False
+2014-01-02,25.0666666667,San Antonio Spurs,New York Knicks,3,55-49,-8,two point jumper,True,1,True,False
+2014-01-02,26.9,San Antonio Spurs,New York Knicks,3,59-54,-7,two point jumper,True,1,True,False
+2014-01-02,27.5,San Antonio Spurs,New York Knicks,3,61-56,-7,layup,True,0,True,False
+2014-01-02,28.5666666667,San Antonio Spurs,New York Knicks,3,63-58,-7,two point jumper,True,22,True,False
+2014-01-02,31.6666666667,San Antonio Spurs,New York Knicks,3,72-64,-11,three point jumper,True,25,False,False
+2014-01-02,34.0833333333,San Antonio Spurs,New York Knicks,3,77-70,-8,free throw,True,15,True,False
+2014-01-02,34.0833333333,San Antonio Spurs,New York Knicks,3,77-71,-7,free throw,True,15,True,False
+2014-01-02,43.4166666667,San Antonio Spurs,New York Knicks,4,94-88,-9,three point jumper,True,25,True,False
+2014-01-02,45.1666666667,San Antonio Spurs,New York Knicks,4,96-94,-5,three point jumper,True,25,True,False
+2014-01-02,47.3833333333,San Antonio Spurs,New York Knicks,4,101-101,-3,three point jumper,True,25,True,False
+2014-01-02,47.7666666667,San Antonio Spurs,New York Knicks,4,103-101,-5,three point jumper,True,25,False,False
+2014-01-02,47.9833333333,San Antonio Spurs,New York Knicks,4,105-101,-7,three point jumper,True,25,False,False
+2014-11-11,9.86666666667,San Antonio Spurs,Philadelphia 76ers,1,24-13,8,three point jumper,False,25,True,False
+2014-11-11,10.4833333333,San Antonio Spurs,Philadelphia 76ers,1,24-13,8,three point jumper,False,23,False,False
+2014-11-11,11.4333333333,San Antonio Spurs,Philadelphia 76ers,1,31-13,16,two point shot,False,8,True,False
+2014-11-11,14.3,San Antonio Spurs,Philadelphia 76ers,2,31-18,10,three point jumper,False,27,False,False
+2014-11-11,18.9833333333,San Antonio Spurs,Philadelphia 76ers,2,41-30,8,three point jumper,False,23,True,False
+2014-11-11,32.6166666667,San Antonio Spurs,Philadelphia 76ers,3,77-53,22,layup,False,0,True,False
+2014-11-11,38.6833333333,San Antonio Spurs,Philadelphia 76ers,4,88-69,16,three point jumper,False,23,False,False
+2014-11-11,39.95,San Antonio Spurs,Philadelphia 76ers,4,90-69,19,layup,False,0,False,False
+2014-11-11,40.0,San Antonio Spurs,Philadelphia 76ers,4,92-69,21,two point jumper,False,16,True,False
+2014-12-10,13.05,San Antonio Spurs,Toronto Raptors,2,27-36,-10,free throw,False,15,True,True
+2014-12-10,13.05,San Antonio Spurs,Toronto Raptors,2,28-36,-9,free throw,False,15,True,True
+2014-12-10,14.9333333333,San Antonio Spurs,Toronto Raptors,2,34-38,-7,three point jumper,False,26,True,True
+2014-12-10,34.2166666667,San Antonio Spurs,Toronto Raptors,3,87-71,13,three point jumper,False,23,True,True
+2014-12-10,36.3,San Antonio Spurs,Toronto Raptors,4,89-74,12,three point jumper,False,27,False,True
+2014-12-10,38.1833333333,San Antonio Spurs,Toronto Raptors,4,100-78,20,layup,False,0,True,True
+2014-12-10,42.95,San Antonio Spurs,Toronto Raptors,4,110-86,22,two point shot,False,19,True,True
+2014-12-23,0.383333333333,San Antonio Spurs,Toronto Raptors,1,2-0,-5,three point jumper,True,25,False,False
+2014-12-23,2.83333333333,San Antonio Spurs,Toronto Raptors,1,4-6,-1,three point jumper,True,27,False,False
+2014-12-23,14.6333333333,San Antonio Spurs,Toronto Raptors,2,28-33,3,two point shot,True,1,True,False
+2014-12-23,15.25,San Antonio Spurs,Toronto Raptors,2,31-35,2,layup,True,0,True,False
+2014-12-23,18.9166666667,San Antonio Spurs,Toronto Raptors,2,37-42,2,three point jumper,True,23,False,False
+2014-12-23,29.6666666667,San Antonio Spurs,Toronto Raptors,3,59-65,3,three point jumper,True,23,False,False
+2014-12-23,30.85,San Antonio Spurs,Toronto Raptors,3,59-67,5,three point jumper,True,26,False,False
+2014-11-08,18.3166666667,San Antonio Spurs,Golden State Warriors,2,24-35,8,three point jumper,True,23,False,True
+2014-11-08,34.65,San Antonio Spurs,Golden State Warriors,3,55-62,4,three point jumper,True,25,True,True
+2014-11-08,43.5,San Antonio Spurs,Golden State Warriors,4,69-74,2,three point jumper,True,27,False,True
+2014-12-19,6.73333333333,San Antonio Spurs,Golden State Warriors,1,11-19,-10,two point jumper,False,19,False,True
+2014-12-19,10.0833333333,San Antonio Spurs,Golden State Warriors,1,13-23,-12,two point shot,False,17,True,True
+2014-12-19,11.0,San Antonio Spurs,Golden State Warriors,1,16-23,-10,three point jumper,False,26,True,True
+2014-12-19,11.3833333333,San Antonio Spurs,Golden State Warriors,1,18-23,-7,two point shot,False,1,True,True
+2014-12-19,14.4666666667,San Antonio Spurs,Golden State Warriors,2,20-30,-12,two point shot,False,25,False,True
+2014-12-19,26.6166666667,San Antonio Spurs,Golden State Warriors,3,57-55,-1,three point jumper,False,27,True,True
+2014-12-19,28.5666666667,San Antonio Spurs,Golden State Warriors,3,62-57,3,two point shot,False,14,True,True
+2014-12-19,29.6333333333,San Antonio Spurs,Golden State Warriors,3,65-59,3,three point jumper,False,25,True,True
+2014-12-19,31.1333333333,San Antonio Spurs,Golden State Warriors,3,65-61,1,three point jumper,False,26,False,True
+2014-12-19,31.4833333333,San Antonio Spurs,Golden State Warriors,3,67-61,4,two point shot,False,20,True,True
+2014-12-19,32.2333333333,San Antonio Spurs,Golden State Warriors,3,69-64,3,two point shot,False,22,True,True
+2014-12-19,32.8,San Antonio Spurs,Golden State Warriors,3,72-66,3,three point jumper,False,26,True,True
+2014-12-19,35.0166666667,San Antonio Spurs,Golden State Warriors,3,77-71,5,free throw,False,15,True,True
+2014-12-19,35.0166666667,San Antonio Spurs,Golden State Warriors,3,76-71,4,free throw,False,15,True,True
+2014-12-19,36.6333333333,San Antonio Spurs,Golden State Warriors,4,84-77,5,two point shot,False,17,True,True
+2014-12-19,37.9666666667,San Antonio Spurs,Golden State Warriors,4,84-79,2,unknown,False,25,False,True
+2014-12-19,38.7,San Antonio Spurs,Golden State Warriors,4,84-81,0,three point jumper,False,26,False,True
+2014-12-19,39.2666666667,San Antonio Spurs,Golden State Warriors,4,85-83,1,free throw,False,15,True,True
+2014-12-19,39.2666666667,San Antonio Spurs,Golden State Warriors,4,86-83,2,free throw,False,15,True,True
+2014-12-19,47.9,San Antonio Spurs,Golden State Warriors,4,102-102,-2,two point jumper,False,15,False,True
+2014-12-16,9.86666666667,San Antonio Spurs,Los Angeles Clippers,1,22-16,3,three point jumper,False,23,False,True
+2014-12-16,19.0666666667,San Antonio Spurs,Los Angeles Clippers,2,36-40,-7,three point jumper,False,28,True,True
+2014-12-16,19.6333333333,San Antonio Spurs,Los Angeles Clippers,2,39-42,-6,three point jumper,False,27,True,True
+2014-12-16,20.9666666667,San Antonio Spurs,Los Angeles Clippers,2,39-47,-11,three point jumper,False,24,False,True
+2014-12-16,24.25,San Antonio Spurs,Los Angeles Clippers,3,49-55,-8,two point jumper,False,18,False,True
+2014-12-16,25.0666666667,San Antonio Spurs,Los Angeles Clippers,3,49-57,-11,three point jumper,False,25,False,True
+2014-12-16,26.4,San Antonio Spurs,Los Angeles Clippers,3,54-59,-6,free throw,False,15,True,True
+2014-12-16,30.3166666667,San Antonio Spurs,Los Angeles Clippers,3,59-67,-10,unknown,False,13,False,True
+2014-12-16,45.8166666667,San Antonio Spurs,Los Angeles Clippers,4,87-106,-22,three point jumper,False,26,False,True
+2014-12-16,48.0,San Antonio Spurs,Los Angeles Clippers,4,92-115,-26,three point jumper,False,23,False,True
+2014-01-04,17.35,San Antonio Spurs,Los Angeles Clippers,2,25-47,20,two point jumper,True,12,False,False
+2014-01-04,18.2833333333,San Antonio Spurs,Los Angeles Clippers,2,25-50,22,three point jumper,True,23,True,False
+2014-01-04,22.1166666667,San Antonio Spurs,Los Angeles Clippers,2,29-64,33,layup,True,0,True,False
+2014-01-04,26.9333333333,San Antonio Spurs,Los Angeles Clippers,3,41-74,31,two point jumper,True,21,False,False
+2014-01-04,44.4833333333,San Antonio Spurs,Los Angeles Clippers,4,87-106,17,unknown,True,5,False,False
+2014-02-18,0.25,San Antonio Spurs,Los Angeles Clippers,1,3-0,0,three point jumper,False,23,True,True
+2014-02-18,0.883333333333,San Antonio Spurs,Los Angeles Clippers,1,3-2,-2,three point jumper,False,25,False,True
+2014-02-18,2.08333333333,San Antonio Spurs,Los Angeles Clippers,1,5-5,-2,two point jumper,False,11,False,True
+2014-02-18,5.13333333333,San Antonio Spurs,Los Angeles Clippers,1,9-13,-6,layup,False,0,True,True
+2014-02-18,16.8166666667,San Antonio Spurs,Los Angeles Clippers,2,35-34,-1,two point shot,False,1,True,True
+2014-02-18,18.45,San Antonio Spurs,Los Angeles Clippers,2,37-38,-3,two point jumper,False,1,False,True
+2014-02-18,19.2333333333,San Antonio Spurs,Los Angeles Clippers,2,37-39,-5,three point jumper,False,25,False,True
+2014-02-18,20.1833333333,San Antonio Spurs,Los Angeles Clippers,2,42-42,-3,three point jumper,False,24,True,True
+2014-02-18,21.8166666667,San Antonio Spurs,Los Angeles Clippers,2,44-50,-8,two point shot,False,9,False,True
+2014-02-18,27.5,San Antonio Spurs,Los Angeles Clippers,3,62-57,2,three point jumper,False,26,False,True
+2014-02-18,27.9666666667,San Antonio Spurs,Los Angeles Clippers,3,65-59,4,layup,False,0,True,True
+2014-02-18,31.4833333333,San Antonio Spurs,Los Angeles Clippers,3,69-67,0,two point jumper,False,14,True,True
+2014-02-18,31.4833333333,San Antonio Spurs,Los Angeles Clippers,3,70-67,2,free throw,False,15,True,True
+2014-02-18,32.7166666667,San Antonio Spurs,Los Angeles Clippers,3,73-69,1,three point jumper,False,23,True,True
+2014-02-18,33.9833333333,San Antonio Spurs,Los Angeles Clippers,3,74-71,1,two point shot,False,1,False,True
+2014-02-18,34.0166666667,San Antonio Spurs,Los Angeles Clippers,3,74-71,1,hook shot,False,8,False,True
+2014-02-18,43.0333333333,San Antonio Spurs,Los Angeles Clippers,4,99-91,6,two point jumper,False,19,True,True
+2014-11-01,12.9,San Antonio Spurs,Los Angeles Lakers,2,16-23,-9,hook shot,False,6,False,True
+2014-11-01,23.2833333333,San Antonio Spurs,Los Angeles Lakers,2,39-41,-5,three point jumper,False,26,False,True
+2014-11-01,38.6166666667,San Antonio Spurs,Los Angeles Lakers,4,69-69,-2,two point jumper,False,18,True,True
+2014-11-01,39.5166666667,San Antonio Spurs,Los Angeles Lakers,4,71-69,-1,three point jumper,False,23,False,True
+2014-11-01,41.2166666667,San Antonio Spurs,Los Angeles Lakers,4,73-74,-3,layup,False,0,False,True
+2014-11-06,8.61666666667,San Antonio Spurs,Phoenix Suns,1,15-20,3,two point jumper,True,20,False,True
+2014-11-06,12.95,San Antonio Spurs,Phoenix Suns,2,23-29,4,two point jumper,True,19,False,True
+2014-11-06,13.9,San Antonio Spurs,Phoenix Suns,2,25-29,2,two point jumper,True,19,False,True
+2014-11-06,15.7166666667,San Antonio Spurs,Phoenix Suns,2,31-32,-1,two point jumper,True,17,False,True
+2014-11-06,16.9833333333,San Antonio Spurs,Phoenix Suns,2,33-32,-2,free throw,True,15,False,True
+2014-11-06,16.9833333333,San Antonio Spurs,Phoenix Suns,2,33-33,-1,free throw,True,15,True,True
+2014-11-06,33.7833333333,San Antonio Spurs,Phoenix Suns,3,69-70,-1,two point jumper,True,1,False,True
+2014-11-06,34.8666666667,San Antonio Spurs,Phoenix Suns,3,69-73,1,three point jumper,True,25,True,True
+2014-12-18,1.31666666667,San Antonio Spurs,Phoenix Suns,1,4-6,-4,layup,False,0,True,True
+2014-12-18,2.86666666667,San Antonio Spurs,Phoenix Suns,1,6-9,-5,two point jumper,False,17,False,True
+2014-12-18,3.46666666667,San Antonio Spurs,Phoenix Suns,1,6-11,-7,layup,False,0,False,True
+2014-12-18,21.4833333333,San Antonio Spurs,Phoenix Suns,2,52-51,-2,three point jumper,False,26,True,True
+2014-12-18,37.5,San Antonio Spurs,Phoenix Suns,4,89-83,4,two point jumper,False,6,False,True
+2014-12-18,37.95,San Antonio Spurs,Phoenix Suns,4,89-85,2,two point jumper,False,9,False,True
+2014-12-18,39.0,San Antonio Spurs,Phoenix Suns,4,91-85,4,two point jumper,False,10,True,True
+2014-12-18,40.1333333333,San Antonio Spurs,Phoenix Suns,4,93-88,2,three point jumper,False,25,False,True
+2014-02-21,0.25,San Antonio Spurs,Phoenix Suns,1,0-0,-3,three point jumper,False,25,False,True
+2014-02-21,1.81666666667,San Antonio Spurs,Phoenix Suns,1,2-4,-4,two point jumper,False,21,False,True
+2014-02-21,8.56666666667,San Antonio Spurs,Phoenix Suns,1,14-16,-3,free throw,False,15,True,True
+2014-02-21,8.56666666667,San Antonio Spurs,Phoenix Suns,1,15-16,-2,free throw,False,15,True,True
+2014-02-21,19.8833333333,San Antonio Spurs,Phoenix Suns,2,28-43,-17,layup,False,0,False,True
+2014-02-21,21.75,San Antonio Spurs,Phoenix Suns,2,28-45,-19,two point jumper,False,20,False,True
+2014-02-21,23.1166666667,San Antonio Spurs,Phoenix Suns,2,35-45,-11,free throw,False,15,True,True
+2014-02-21,26.25,San Antonio Spurs,Phoenix Suns,3,37-51,-17,three point jumper,False,25,False,True
+2014-02-21,26.7,San Antonio Spurs,Phoenix Suns,3,37-53,-19,three point jumper,False,25,False,True
+2014-02-21,28.35,San Antonio Spurs,Phoenix Suns,3,41-55,-17,three point jumper,False,26,False,True
+2014-02-21,41.8833333333,San Antonio Spurs,Phoenix Suns,4,72-90,-19,free throw,False,15,True,True
+2014-02-21,41.8833333333,San Antonio Spurs,Phoenix Suns,4,73-90,-18,free throw,False,15,True,True
+2014-02-21,42.45,San Antonio Spurs,Phoenix Suns,4,74-92,-19,free throw,False,15,True,True
+2014-02-21,42.45,San Antonio Spurs,Phoenix Suns,4,75-92,-18,free throw,False,15,True,True
+2014-02-21,43.0,San Antonio Spurs,Phoenix Suns,4,77-93,-18,two point shot,False,5,True,True
+2014-02-21,43.0,San Antonio Spurs,Phoenix Suns,4,78-93,-16,free throw,False,15,True,True
+2014-12-29,2.95,San Antonio Spurs,Sacramento Kings,1,4-5,-1,two point jumper,True,16,True,True
+2014-12-29,3.65,San Antonio Spurs,Sacramento Kings,1,6-5,-3,two point jumper,True,18,False,True
+2014-12-29,4.35,San Antonio Spurs,Sacramento Kings,1,9-7,-5,three point jumper,True,26,False,True
+2014-12-29,4.75,San Antonio Spurs,Sacramento Kings,1,9-9,-2,two point jumper,True,17,False,True
+2014-12-29,17.95,San Antonio Spurs,Sacramento Kings,2,30-45,13,two point jumper,True,20,False,True
+2014-12-29,18.95,San Antonio Spurs,Sacramento Kings,2,33-47,12,two point jumper,True,17,True,True
+2014-12-29,20.45,San Antonio Spurs,Sacramento Kings,2,37-49,9,three point jumper,True,25,False,True
+2014-12-29,25.7666666667,San Antonio Spurs,Sacramento Kings,3,51-61,7,three point jumper,True,24,False,True
+2014-12-29,26.7166666667,San Antonio Spurs,Sacramento Kings,3,55-61,4,two point shot,True,1,False,True
+2014-12-29,27.15,San Antonio Spurs,Sacramento Kings,3,55-63,6,two point jumper,True,8,False,True
+2014-02-01,5.73333333333,San Antonio Spurs,Sacramento Kings,1,9-12,1,two point shot,True,1,True,True
+2014-02-01,9.86666666667,San Antonio Spurs,Sacramento Kings,1,20-17,-5,layup,True,0,False,True
+2014-02-01,11.4666666667,San Antonio Spurs,Sacramento Kings,1,22-24,0,two point jumper,True,1,False,True
+2014-02-01,18.3833333333,San Antonio Spurs,Sacramento Kings,2,38-36,-5,three point jumper,True,25,False,True
+2014-02-01,22.2666666667,San Antonio Spurs,Sacramento Kings,2,47-46,-4,three point jumper,True,23,False,True
+2014-02-01,22.9833333333,San Antonio Spurs,Sacramento Kings,2,49-49,-3,three point jumper,True,25,True,True
+2014-02-01,24.0,San Antonio Spurs,Sacramento Kings,2,53-52,-4,three point jumper,True,28,True,True
+2014-02-01,30.6333333333,San Antonio Spurs,Sacramento Kings,3,65-63,-5,three point jumper,True,25,False,True
+2014-02-01,31.1333333333,San Antonio Spurs,Sacramento Kings,3,67-63,-7,three point jumper,True,23,False,True
+2014-02-01,35.5,San Antonio Spurs,Sacramento Kings,3,76-69,-10,three point jumper,True,25,False,True
+2014-01-29,5.73333333333,San Antonio Spurs,Chicago Bulls,1,11-10,-4,three point jumper,True,24,False,False
+2014-01-29,7.06666666667,San Antonio Spurs,Chicago Bulls,1,15-10,-7,two point jumper,True,16,False,False
+2014-01-29,8.26666666667,San Antonio Spurs,Chicago Bulls,1,17-12,-7,layup,True,0,True,False
+2014-01-29,17.95,San Antonio Spurs,Chicago Bulls,2,24-30,5,free throw,True,15,True,False
+2014-01-29,17.95,San Antonio Spurs,Chicago Bulls,2,24-31,6,free throw,True,15,True,False
+2014-01-29,20.1666666667,San Antonio Spurs,Chicago Bulls,2,30-36,4,two point jumper,True,22,False,False
+2014-01-29,20.85,San Antonio Spurs,Chicago Bulls,2,32-36,1,three point jumper,True,24,False,False
+2014-01-29,24.2166666667,San Antonio Spurs,Chicago Bulls,3,40-39,-4,three point jumper,True,25,True,False
+2014-01-29,28.7833333333,San Antonio Spurs,Chicago Bulls,3,49-46,-5,layup,True,0,True,False
+2014-01-29,31.0666666667,San Antonio Spurs,Chicago Bulls,3,51-52,-2,three point jumper,True,25,False,False
+2014-01-29,38.2166666667,San Antonio Spurs,Chicago Bulls,4,76-65,-13,two point jumper,True,20,True,False
+2014-01-29,45.0,San Antonio Spurs,Chicago Bulls,4,87-73,-16,two point jumper,True,6,False,False
+2014-11-23,11.55,San Antonio Spurs,Cleveland Cavaliers,1,21-27,4,layup,True,0,False,False
+2014-11-23,11.9333333333,San Antonio Spurs,Cleveland Cavaliers,1,21-30,6,three point jumper,True,24,True,False
+2014-11-23,15.6166666667,San Antonio Spurs,Cleveland Cavaliers,2,26-40,13,free throw,True,15,True,False
+2014-11-23,20.75,San Antonio Spurs,Cleveland Cavaliers,2,28-55,25,two point jumper,True,7,False,False
+2014-11-23,21.65,San Antonio Spurs,Cleveland Cavaliers,2,28-57,28,free throw,True,15,False,False
+2014-11-23,21.65,San Antonio Spurs,Cleveland Cavaliers,2,28-58,29,free throw,True,15,True,False
+2014-11-23,22.2333333333,San Antonio Spurs,Cleveland Cavaliers,2,28-58,28,two point jumper,True,21,False,False
+2014-11-23,34.5,San Antonio Spurs,Cleveland Cavaliers,3,59-96,34,three point jumper,True,26,True,False
+2014-11-23,35.0,San Antonio Spurs,Cleveland Cavaliers,3,62-96,32,two point jumper,True,21,False,False
+2014-11-23,36.0,San Antonio Spurs,Cleveland Cavaliers,3,67-96,27,two point jumper,True,4,False,False
+2014-11-23,37.3833333333,San Antonio Spurs,Cleveland Cavaliers,4,74-96,20,two point jumper,True,20,False,False
+2014-11-23,38.9,San Antonio Spurs,Cleveland Cavaliers,4,74-105,29,two point shot,True,1,True,False
+2014-02-10,9.33333333333,San Antonio Spurs,Detroit Pistons,1,16-19,-5,two point jumper,False,21,True,False
+2014-02-10,13.2166666667,San Antonio Spurs,Detroit Pistons,2,24-27,-5,two point jumper,False,20,False,False
+2014-02-10,13.7,San Antonio Spurs,Detroit Pistons,2,27-27,-3,three point jumper,False,24,True,False
+2014-02-10,14.3,San Antonio Spurs,Detroit Pistons,2,29-29,-2,two point shot,False,19,True,False
+2014-02-10,15.3166666667,San Antonio Spurs,Detroit Pistons,2,29-31,-5,three point jumper,False,26,False,False
+2014-02-10,21.6666666667,San Antonio Spurs,Detroit Pistons,2,43-48,-8,three point jumper,False,30,False,False
+2014-02-10,23.05,San Antonio Spurs,Detroit Pistons,2,48-57,-12,three point jumper,False,24,True,False
+2014-02-10,29.5333333333,San Antonio Spurs,Detroit Pistons,3,54-73,-21,layup,False,0,True,False
+2014-02-10,32.7666666667,San Antonio Spurs,Detroit Pistons,3,62-81,-21,two point jumper,False,17,True,False
+2014-02-10,34.9333333333,San Antonio Spurs,Detroit Pistons,3,65-86,-23,two point shot,False,10,False,False
+2014-02-10,35.7666666667,San Antonio Spurs,Detroit Pistons,3,72-90,-21,three point jumper,False,29,True,False
+2014-02-10,36.0,San Antonio Spurs,Detroit Pistons,3,72-92,-23,three point jumper,False,49,False,False
+2014-02-10,37.5666666667,San Antonio Spurs,Detroit Pistons,4,74-94,-23,three point jumper,False,27,False,False
+2014-02-10,37.7,San Antonio Spurs,Detroit Pistons,4,77-94,-20,three point jumper,False,26,True,False
+2014-02-10,40.7,San Antonio Spurs,Detroit Pistons,4,83-98,-17,two point jumper,False,1,False,False
+2014-02-26,11.0666666667,San Antonio Spurs,Detroit Pistons,1,22-26,3,free throw,True,15,True,True
+2014-02-26,11.0666666667,San Antonio Spurs,Detroit Pistons,1,22-27,4,free throw,True,15,True,True
+2014-02-26,11.0666666667,San Antonio Spurs,Detroit Pistons,1,22-28,5,free throw,True,15,True,True
+2014-02-26,13.5,San Antonio Spurs,Detroit Pistons,2,33-33,-3,three point jumper,True,24,True,True
+2014-02-26,15.5666666667,San Antonio Spurs,Detroit Pistons,2,40-40,-3,three point jumper,True,25,True,True
+2014-02-26,17.4166666667,San Antonio Spurs,Detroit Pistons,2,45-44,-3,two point jumper,True,19,False,True
+2014-02-26,29.95,San Antonio Spurs,Detroit Pistons,3,69-71,-1,three point jumper,True,25,True,True
+2014-02-26,31.6333333333,San Antonio Spurs,Detroit Pistons,3,71-77,4,layup,True,0,True,True
+2014-02-26,31.6333333333,San Antonio Spurs,Detroit Pistons,3,71-78,6,free throw,True,15,True,True
+2014-02-26,33.6833333333,San Antonio Spurs,Detroit Pistons,3,75-83,6,two point shot,True,1,True,True
+2014-02-26,35.9833333333,San Antonio Spurs,Detroit Pistons,3,81-90,7,two point jumper,True,22,False,True
+2014-02-26,44.85,San Antonio Spurs,Detroit Pistons,4,101-114,10,three point jumper,True,23,True,True
+2014-12-07,15.6333333333,San Antonio Spurs,Indiana Pacers,2,24-35,9,two point jumper,True,18,False,False
+2014-12-07,16.8833333333,San Antonio Spurs,Indiana Pacers,2,26-37,9,layup,True,0,True,False
+2014-12-07,39.0,San Antonio Spurs,Indiana Pacers,4,93-71,-24,two point jumper,True,1,False,False
+2014-12-07,40.7833333333,San Antonio Spurs,Indiana Pacers,4,99-75,-26,two point jumper,True,20,True,False
+2014-12-07,43.2166666667,San Antonio Spurs,Indiana Pacers,4,106-82,-26,two point jumper,True,1,True,False
+2014-12-07,43.7,San Antonio Spurs,Indiana Pacers,4,106-85,-24,three point jumper,True,23,True,False
+2014-12-07,47.1833333333,San Antonio Spurs,Indiana Pacers,4,109-98,-13,two point shot,True,25,False,False
+2014-12-11,8.9,San Antonio Spurs,Milwaukee Bucks,1,25-10,13,two point jumper,False,1,True,False
+2014-12-11,12.0,San Antonio Spurs,Milwaukee Bucks,1,32-16,13,three point jumper,False,62,False,False
+2014-12-11,22.15,San Antonio Spurs,Milwaukee Bucks,2,57-36,19,layup,False,0,True,False
+2014-12-11,35.9166666667,San Antonio Spurs,Milwaukee Bucks,3,92-54,36,two point jumper,False,6,True,False
+2014-12-11,38.2,San Antonio Spurs,Milwaukee Bucks,4,94-58,33,three point jumper,False,23,False,False
+2014-12-11,38.95,San Antonio Spurs,Milwaukee Bucks,4,96-60,34,two point jumper,False,18,False,False
+2014-12-11,42.2333333333,San Antonio Spurs,Milwaukee Bucks,4,100-66,33,free throw,False,15,False,False
+2014-12-11,42.2333333333,San Antonio Spurs,Milwaukee Bucks,4,101-66,34,free throw,False,15,True,False
+2014-12-11,43.3833333333,San Antonio Spurs,Milwaukee Bucks,4,103-66,35,two point jumper,False,19,True,False
+2014-12-11,44.8,San Antonio Spurs,Milwaukee Bucks,4,105-68,35,two point jumper,False,1,True,False
+2014-01-19,2.61666666667,San Antonio Spurs,Milwaukee Bucks,1,8-5,-5,two point jumper,True,20,False,False
+2014-01-19,2.76666666667,San Antonio Spurs,Milwaukee Bucks,1,8-8,-3,three point jumper,True,25,True,False
+2014-01-19,4.03333333333,San Antonio Spurs,Milwaukee Bucks,1,8-10,0,two point jumper,True,18,True,False
+2014-01-19,8.26666666667,San Antonio Spurs,Milwaukee Bucks,1,16-18,1,free throw,True,15,True,False
+2014-01-19,8.26666666667,San Antonio Spurs,Milwaukee Bucks,1,16-19,2,free throw,True,15,True,False
+2014-01-19,14.05,San Antonio Spurs,Milwaukee Bucks,2,20-34,12,unknown,True,16,False,False
+2014-01-19,21.5166666667,San Antonio Spurs,Milwaukee Bucks,2,36-49,11,two point jumper,True,22,True,False
+2014-01-19,25.0,San Antonio Spurs,Milwaukee Bucks,3,41-53,9,three point jumper,True,25,False,False
+2014-01-19,39.75,San Antonio Spurs,Milwaukee Bucks,4,66-89,21,layup,True,0,True,False
+2014-01-19,41.25,San Antonio Spurs,Milwaukee Bucks,4,70-92,19,three point jumper,True,25,True,False
+2014-12-26,3.2,San Antonio Spurs,Dallas Mavericks,1,8-6,0,two point shot,False,1,True,True
+2014-12-26,16.5666666667,San Antonio Spurs,Dallas Mavericks,2,42-32,7,three point jumper,False,23,False,True
+2014-12-26,20.2333333333,San Antonio Spurs,Dallas Mavericks,2,51-43,5,three point jumper,False,23,False,True
+2014-12-26,25.8,San Antonio Spurs,Dallas Mavericks,3,60-56,2,layup,False,0,True,True
+2014-12-26,40.8166666667,San Antonio Spurs,Dallas Mavericks,4,96-85,8,three point jumper,False,25,False,True
+2014-01-08,8.51666666667,San Antonio Spurs,Dallas Mavericks,1,12-23,9,two point jumper,True,13,True,False
+2014-01-08,9.36666666667,San Antonio Spurs,Dallas Mavericks,1,12-23,9,two point jumper,True,11,False,False
+2014-01-08,13.0833333333,San Antonio Spurs,Dallas Mavericks,2,18-27,7,two point jumper,True,15,True,False
+2014-01-08,16.25,San Antonio Spurs,Dallas Mavericks,2,24-29,3,two point jumper,True,21,False,False
+2014-01-08,34.1333333333,San Antonio Spurs,Dallas Mavericks,3,59-74,12,three point jumper,True,25,True,False
+2014-01-08,34.1333333333,San Antonio Spurs,Dallas Mavericks,3,59-74,14,free throw,True,15,False,False
+2014-01-08,34.55,San Antonio Spurs,Dallas Mavericks,3,59-74,12,three point jumper,True,24,False,False
+2014-01-08,34.65,San Antonio Spurs,Dallas Mavericks,3,59-76,15,two point shot,True,1,True,False
+2014-01-08,35.9333333333,San Antonio Spurs,Dallas Mavericks,3,59-79,19,free throw,True,15,True,False
+2014-01-08,35.9333333333,San Antonio Spurs,Dallas Mavericks,3,59-80,20,free throw,True,15,True,False
+2014-01-08,38.0666666667,San Antonio Spurs,Dallas Mavericks,4,64-85,20,free throw,True,15,False,False
+2014-01-08,38.0666666667,San Antonio Spurs,Dallas Mavericks,4,64-86,21,free throw,True,15,True,False
+2014-01-08,38.5833333333,San Antonio Spurs,Dallas Mavericks,4,64-88,22,two point shot,True,6,True,False
+2014-01-08,40.2,San Antonio Spurs,Dallas Mavericks,4,68-93,22,three point jumper,True,23,True,False
+2014-11-30,9.15,San Antonio Spurs,Houston Rockets,1,21-19,-4,two point shot,True,1,True,False
+2014-11-30,10.6166666667,San Antonio Spurs,Houston Rockets,1,27-24,-6,three point jumper,True,25,True,False
+2014-11-30,12.0,San Antonio Spurs,Houston Rockets,1,30-24,-9,three point jumper,True,45,False,False
+2014-11-30,15.0166666667,San Antonio Spurs,Houston Rockets,2,39-26,-15,two point jumper,True,20,False,False
+2014-11-30,17.35,San Antonio Spurs,Houston Rockets,2,44-32,-14,two point jumper,True,18,False,False
+2014-11-30,18.5333333333,San Antonio Spurs,Houston Rockets,2,47-32,-17,two point shot,True,13,False,False
+2014-11-30,19.5666666667,San Antonio Spurs,Houston Rockets,2,52-32,-22,two point jumper,True,20,False,False
+2014-11-30,32.35,San Antonio Spurs,Houston Rockets,3,79-73,-9,three point jumper,True,25,True,False
+2014-11-30,36.5666666667,San Antonio Spurs,Houston Rockets,4,83-82,-3,layup,True,0,True,False
+2014-11-30,36.95,San Antonio Spurs,Houston Rockets,4,83-85,-1,three point jumper,True,23,True,False
+2014-11-30,38.25,San Antonio Spurs,Houston Rockets,4,83-88,2,three point jumper,True,26,True,False
+2014-11-30,39.7,San Antonio Spurs,Houston Rockets,4,85-90,3,two point jumper,True,20,True,False
+2014-11-30,47.8666666667,San Antonio Spurs,Houston Rockets,4,110-106,-7,three point jumper,True,24,False,False
+2014-12-25,0.583333333333,San Antonio Spurs,Houston Rockets,1,2-0,-4,two point jumper,True,20,False,True
+2014-12-25,12.9333333333,San Antonio Spurs,Houston Rockets,2,40-27,-15,two point jumper,True,20,True,True
+2014-12-25,15.0833333333,San Antonio Spurs,Houston Rockets,2,42-35,-9,layup,True,0,True,True
+2014-12-25,16.0666666667,San Antonio Spurs,Houston Rockets,2,45-37,-10,two point shot,True,18,True,True
+2014-12-25,25.25,San Antonio Spurs,Houston Rockets,3,64-51,-15,two point jumper,True,21,False,True
+2014-12-25,25.75,San Antonio Spurs,Houston Rockets,3,64-54,-13,three point jumper,True,25,True,True
+2014-12-25,28.6666666667,San Antonio Spurs,Houston Rockets,3,67-60,-10,three point jumper,True,26,False,True
+2014-12-25,30.7333333333,San Antonio Spurs,Houston Rockets,3,71-64,-10,three point jumper,True,25,False,True
+2014-01-28,15.1166666667,San Antonio Spurs,Houston Rockets,2,33-24,7,two point shot,False,14,False,False
+2014-01-28,16.2833333333,San Antonio Spurs,Houston Rockets,2,33-26,4,three point jumper,False,28,False,False
+2014-01-28,21.85,San Antonio Spurs,Houston Rockets,2,44-34,8,layup,False,0,True,False
+2014-01-28,23.0,San Antonio Spurs,Houston Rockets,2,46-38,6,layup,False,0,True,False
+2014-01-28,23.5166666667,San Antonio Spurs,Houston Rockets,2,46-39,4,three point jumper,False,23,False,False
+2014-01-28,25.0,San Antonio Spurs,Houston Rockets,3,48-44,2,two point jumper,False,1,True,False
+2014-01-28,26.3833333333,San Antonio Spurs,Houston Rockets,3,48-48,-3,three point jumper,False,23,False,False
+2014-01-28,32.9666666667,San Antonio Spurs,Houston Rockets,3,60-62,-4,layup,False,0,True,False
+2014-01-28,34.1666666667,San Antonio Spurs,Houston Rockets,3,62-67,-7,two point shot,False,28,False,False
+2014-01-28,39.5,San Antonio Spurs,Houston Rockets,4,72-81,-12,three point jumper,False,26,False,False
+2014-01-28,46.2166666667,San Antonio Spurs,Houston Rockets,4,88-90,-5,three point jumper,False,26,True,False
+2014-01-28,47.7,San Antonio Spurs,Houston Rockets,4,90-96,-9,three point jumper,False,24,False,False
+2014-10-30,12.8333333333,San Antonio Spurs,Memphis Grizzlies,2,22-20,-4,two point jumper,True,22,True,False
+2014-10-30,13.8166666667,San Antonio Spurs,Memphis Grizzlies,2,22-23,-2,three point jumper,True,23,False,False
+2014-10-30,34.0833333333,San Antonio Spurs,Memphis Grizzlies,3,51-70,17,two point shot,True,1,True,False
+2014-10-30,35.9833333333,San Antonio Spurs,Memphis Grizzlies,3,58-72,11,three point jumper,True,31,False,False
+2014-10-30,38.4,San Antonio Spurs,Memphis Grizzlies,4,64-76,11,free throw,True,15,False,False
+2014-10-30,38.4,San Antonio Spurs,Memphis Grizzlies,4,64-77,12,free throw,True,15,True,False
+2014-10-30,39.75,San Antonio Spurs,Memphis Grizzlies,4,68-79,9,two point jumper,True,1,False,False
+2014-11-22,13.1166666667,San Antonio Spurs,Memphis Grizzlies,2,28-23,3,layup,False,0,True,False
+2014-11-22,14.8333333333,San Antonio Spurs,Memphis Grizzlies,2,32-25,5,two point shot,False,1,True,False
+2014-11-22,15.9,San Antonio Spurs,Memphis Grizzlies,2,34-27,4,three point jumper,False,23,False,False
+2014-11-22,19.5666666667,San Antonio Spurs,Memphis Grizzlies,2,40-33,4,three point jumper,False,25,False,False
+2014-11-22,33.5666666667,San Antonio Spurs,Memphis Grizzlies,3,66-61,2,three point jumper,False,25,True,False
+2014-11-22,34.6,San Antonio Spurs,Memphis Grizzlies,3,70-65,3,two point jumper,False,1,True,False
+2014-11-22,35.9666666667,San Antonio Spurs,Memphis Grizzlies,3,71-65,4,two point jumper,False,1,False,False
+2014-01-07,1.96666666667,San Antonio Spurs,Memphis Grizzlies,1,2-2,-2,two point jumper,False,19,False,True
+2014-01-07,2.58333333333,San Antonio Spurs,Memphis Grizzlies,1,4-2,0,two point shot,False,1,True,True
+2014-01-07,3.96666666667,San Antonio Spurs,Memphis Grizzlies,1,8-6,0,two point jumper,False,19,False,True
+2014-01-07,5.6,San Antonio Spurs,Memphis Grizzlies,1,13-10,1,two point jumper,False,18,True,True
+2014-01-07,8.48333333333,San Antonio Spurs,Memphis Grizzlies,1,22-14,6,layup,False,0,True,True
+2014-01-07,9.06666666667,San Antonio Spurs,Memphis Grizzlies,1,24-16,6,layup,False,0,True,True
+2014-01-07,10.05,San Antonio Spurs,Memphis Grizzlies,1,24-20,2,layup,False,0,False,True
+2014-01-07,11.55,San Antonio Spurs,Memphis Grizzlies,1,24-22,1,free throw,False,15,False,True
+2014-01-07,11.55,San Antonio Spurs,Memphis Grizzlies,1,25-22,2,free throw,False,15,True,True
+2014-01-07,21.1666666667,San Antonio Spurs,Memphis Grizzlies,2,45-33,10,layup,False,0,True,True
+2014-01-07,26.9,San Antonio Spurs,Memphis Grizzlies,3,58-47,8,three point jumper,False,24,False,True
+2014-01-07,41.5333333333,San Antonio Spurs,Memphis Grizzlies,4,86-75,9,layup,False,0,True,True
+2014-01-07,46.0166666667,San Antonio Spurs,Memphis Grizzlies,4,96-84,9,three point jumper,False,25,True,True
+2014-01-07,47.5333333333,San Antonio Spurs,Memphis Grizzlies,4,96-90,3,three point jumper,False,25,False,True
+2014-11-25,9.36666666667,San Antonio Spurs,New Orleans Pelicans,1,14-24,7,three point jumper,True,24,True,False
+2014-11-25,10.9333333333,San Antonio Spurs,New Orleans Pelicans,1,19-27,5,three point jumper,True,27,True,False
+2014-11-25,12.45,San Antonio Spurs,New Orleans Pelicans,2,24-29,3,two point shot,True,11,True,False
+2014-11-25,14.25,San Antonio Spurs,New Orleans Pelicans,2,26-31,2,three point jumper,True,26,False,False
+2014-11-25,17.2,San Antonio Spurs,New Orleans Pelicans,2,28-38,7,three point jumper,True,25,False,False
+2014-11-25,37.55,San Antonio Spurs,New Orleans Pelicans,4,67-96,26,three point jumper,True,23,True,False
+2014-11-25,37.9666666667,San Antonio Spurs,New Orleans Pelicans,4,67-99,29,three point jumper,True,24,True,False
+2014-01-13,6.1,San Antonio Spurs,New Orleans Pelicans,1,14-16,-5,three point jumper,False,25,False,False
+2014-01-13,8.31666666667,San Antonio Spurs,New Orleans Pelicans,1,20-21,-3,two point jumper,False,22,False,False
+2014-01-13,11.7666666667,San Antonio Spurs,New Orleans Pelicans,1,24-28,-6,two point jumper,False,14,False,False
+2014-01-13,21.7333333333,San Antonio Spurs,New Orleans Pelicans,2,45-46,-3,layup,False,0,True,False
+2014-01-13,24.0,San Antonio Spurs,New Orleans Pelicans,2,51-52,-3,two point shot,False,1,True,False
+2014-01-13,37.6333333333,San Antonio Spurs,New Orleans Pelicans,4,83-77,4,layup,False,0,True,False
+2014-01-13,38.2,San Antonio Spurs,New Orleans Pelicans,4,86-77,6,three point jumper,False,31,True,False
+2014-01-13,39.3166666667,San Antonio Spurs,New Orleans Pelicans,4,86-80,4,two point shot,False,9,False,False
+2014-01-13,43.1,San Antonio Spurs,New Orleans Pelicans,4,89-88,-2,three point jumper,False,25,False,False
+2014-01-13,44.7166666667,San Antonio Spurs,New Orleans Pelicans,4,94-90,1,three point jumper,False,25,True,False
+2014-02-03,10.15,San Antonio Spurs,New Orleans Pelicans,1,20-23,-4,free throw,False,15,True,False
+2014-02-03,10.15,San Antonio Spurs,New Orleans Pelicans,1,21-23,-3,free throw,False,15,True,False
+2014-02-03,12.0,San Antonio Spurs,New Orleans Pelicans,1,25-27,-5,three point jumper,False,23,False,False
+2014-02-03,13.1333333333,San Antonio Spurs,New Orleans Pelicans,2,27-29,-4,layup,False,0,True,False
+2014-02-03,13.95,San Antonio Spurs,New Orleans Pelicans,2,29-31,-4,layup,False,0,True,False
+2014-02-03,36.4,San Antonio Spurs,New Orleans Pelicans,4,66-78,-14,two point jumper,False,22,True,False
+2014-02-03,37.0666666667,San Antonio Spurs,New Orleans Pelicans,4,66-80,-16,two point jumper,False,21,False,False
+2014-02-03,37.1833333333,San Antonio Spurs,New Orleans Pelicans,4,68-80,-14,two point shot,False,14,True,False
+2014-02-03,37.1833333333,San Antonio Spurs,New Orleans Pelicans,4,69-80,-12,free throw,False,15,True,False
+2014-02-03,38.8666666667,San Antonio Spurs,New Orleans Pelicans,4,70-82,-15,three point jumper,False,23,False,False
+2014-02-03,47.7,San Antonio Spurs,New Orleans Pelicans,4,100-93,6,free throw,False,15,True,False
+2014-02-03,47.7,San Antonio Spurs,New Orleans Pelicans,4,101-93,7,free throw,False,15,True,False
+2014-11-02,10.25,San Antonio Spurs,Portland Trail Blazers,1,15-18,-5,two point jumper,False,22,False,False
+2014-11-02,13.0666666667,San Antonio Spurs,Portland Trail Blazers,2,21-24,-5,two point jumper,False,12,True,False
+2014-11-02,31.2,San Antonio Spurs,Portland Trail Blazers,3,58-67,-11,layup,False,0,True,False
+2014-11-02,37.25,San Antonio Spurs,Portland Trail Blazers,4,76-85,-11,two point jumper,False,13,True,False
+2014-11-02,37.8166666667,San Antonio Spurs,Portland Trail Blazers,4,78-88,-12,two point jumper,False,1,True,False
+2014-11-02,40.7833333333,San Antonio Spurs,Portland Trail Blazers,4,87-94,-10,three point jumper,False,23,True,False
+2014-11-02,41.2833333333,San Antonio Spurs,Portland Trail Blazers,4,87-94,-9,two point shot,False,19,False,False
+2014-11-02,45.2333333333,San Antonio Spurs,Portland Trail Blazers,4,95-102,-9,layup,False,0,True,False
+2014-11-02,46.6,San Antonio Spurs,Portland Trail Blazers,4,100-104,-7,unknown,False,25,True,False
+2014-11-02,47.6833333333,San Antonio Spurs,Portland Trail Blazers,4,105-108,-6,three point jumper,False,24,True,False
+2014-11-05,1.56666666667,San Antonio Spurs,Denver Nuggets,1,2-6,-6,two point shot,False,6,False,False
+2014-11-05,5.1,San Antonio Spurs,Denver Nuggets,1,8-13,-7,layup,False,0,True,False
+2014-11-05,15.7,San Antonio Spurs,Denver Nuggets,2,29-35,-8,two point jumper,False,20,False,False
+2014-11-05,26.3333333333,San Antonio Spurs,Denver Nuggets,3,49-60,-13,layup,False,0,True,False
+2014-11-13,15.8,San Antonio Spurs,Washington Wizards,2,21-36,13,two point jumper,True,10,False,True
+2014-11-13,16.45,San Antonio Spurs,Washington Wizards,2,22-39,14,three point jumper,True,24,True,True
+2014-11-13,19.1333333333,San Antonio Spurs,Washington Wizards,2,26-45,17,layup,True,0,True,True
+2014-11-13,33.7833333333,San Antonio Spurs,Washington Wizards,3,57-65,5,three point jumper,True,25,True,True
+2014-11-13,39.3833333333,San Antonio Spurs,Washington Wizards,4,59-81,20,two point shot,True,16,True,True
+2014-11-13,43.0333333333,San Antonio Spurs,Washington Wizards,4,64-89,23,two point jumper,True,21,False,True
+2014-11-15,9.56666666667,San Antonio Spurs,Utah Jazz,1,12-21,-12,three point jumper,False,25,False,True
+2014-11-15,12.7,San Antonio Spurs,Utah Jazz,2,18-29,-13,two point shot,False,1,True,True
+2014-11-15,12.7,San Antonio Spurs,Utah Jazz,2,19-29,-11,free throw,False,15,True,True
+2014-11-27,13.1333333333,San Antonio Spurs,Oklahoma City Thunder,2,21-21,-2,two point shot,False,6,False,False
+2014-11-27,16.0666666667,San Antonio Spurs,Oklahoma City Thunder,2,29-30,-3,two point jumper,False,1,False,False
+2014-11-27,16.95,San Antonio Spurs,Oklahoma City Thunder,2,29-32,-6,three point jumper,False,23,False,False
+2014-11-27,41.2333333333,San Antonio Spurs,Oklahoma City Thunder,4,76-79,-5,two point jumper,False,19,True,False
+2014-11-27,41.9833333333,San Antonio Spurs,Oklahoma City Thunder,4,76-79,-6,three point jumper,False,24,False,False
+2014-11-27,45.7833333333,San Antonio Spurs,Oklahoma City Thunder,4,77-86,-12,three point jumper,False,27,False,False
+2014-11-27,46.3833333333,San Antonio Spurs,Oklahoma City Thunder,4,81-88,-9,two point jumper,False,13,True,False
+2014-11-27,47.6833333333,San Antonio Spurs,Oklahoma City Thunder,4,85-92,-9,two point shot,False,1,True,False
+2014-11-29,11.6333333333,San Antonio Spurs,Orlando Magic,1,26-24,1,free throw,False,15,True,False
+2014-11-29,11.6333333333,San Antonio Spurs,Orlando Magic,1,27-24,2,free throw,False,15,True,False
+2014-11-29,12.75,San Antonio Spurs,Orlando Magic,2,31-24,5,two point jumper,False,19,True,False
+2014-11-29,12.75,San Antonio Spurs,Orlando Magic,2,32-24,7,free throw,False,15,True,False
+2014-11-29,15.5,San Antonio Spurs,Orlando Magic,2,38-32,4,two point shot,False,14,True,False
+2014-11-29,16.35,San Antonio Spurs,Orlando Magic,2,38-32,4,two point jumper,False,8,False,False
+2014-11-29,17.4166666667,San Antonio Spurs,Orlando Magic,2,38-37,-1,two point jumper,False,22,False,False
+2014-11-29,17.6,San Antonio Spurs,Orlando Magic,2,41-37,1,three point jumper,False,25,True,False
+2014-11-29,18.3166666667,San Antonio Spurs,Orlando Magic,2,44-40,1,three point jumper,False,30,True,False
+2014-11-29,36.5666666667,San Antonio Spurs,Orlando Magic,4,84-70,11,three point jumper,False,25,True,False
+2014-11-29,37.5166666667,San Antonio Spurs,Orlando Magic,4,87-70,14,three point jumper,False,24,True,False
+2014-12-02,8.48333333333,San Antonio Spurs,Atlanta Hawks,1,17-17,-2,two point shot,True,9,True,True
+2014-12-02,13.8166666667,San Antonio Spurs,Atlanta Hawks,2,27-29,0,layup,True,0,True,True
+2014-12-02,16.7333333333,San Antonio Spurs,Atlanta Hawks,2,36-37,-2,three point jumper,True,25,True,True
+2014-12-02,19.2333333333,San Antonio Spurs,Atlanta Hawks,2,38-42,2,unknown,True,10,False,True
+2014-12-02,20.4833333333,San Antonio Spurs,Atlanta Hawks,2,42-44,0,two point shot,True,16,True,True
+2014-12-02,29.85,San Antonio Spurs,Atlanta Hawks,3,60-56,-6,two point shot,True,1,False,True
+2014-12-02,30.9166666667,San Antonio Spurs,Atlanta Hawks,3,60-58,-4,two point jumper,True,15,True,True
+2014-12-02,37.7166666667,San Antonio Spurs,Atlanta Hawks,4,74-77,1,two point shot,True,5,True,True
+2014-12-02,40.4166666667,San Antonio Spurs,Atlanta Hawks,4,78-84,3,three point jumper,True,23,False,True
+2014-12-13,9.21666666667,San Antonio Spurs,Minnesota Timberwolves,1,20-21,-2,three point jumper,True,23,True,True
+2014-12-13,13.25,San Antonio Spurs,Minnesota Timberwolves,2,30-29,-3,layup,True,0,False,True
+2014-12-13,15.95,San Antonio Spurs,Minnesota Timberwolves,2,31-34,1,layup,True,0,False,True
+2014-12-13,17.85,San Antonio Spurs,Minnesota Timberwolves,2,36-40,2,two point jumper,True,1,True,True
+2014-12-13,32.9333333333,San Antonio Spurs,Minnesota Timberwolves,3,82-77,-8,three point jumper,True,25,False,True
+2014-12-13,34.8,San Antonio Spurs,Minnesota Timberwolves,3,86-79,-9,two point shot,True,18,True,True
+2014-12-13,35.45,San Antonio Spurs,Minnesota Timberwolves,3,88-79,-12,three point jumper,True,25,False,True
+2014-12-13,36.2166666667,San Antonio Spurs,Minnesota Timberwolves,4,89-83,-9,three point jumper,True,23,True,True
+2014-12-13,36.8333333333,San Antonio Spurs,Minnesota Timberwolves,4,91-85,-8,two point shot,True,1,True,True
+2014-12-14,10.7833333333,San Antonio Spurs,Utah Jazz,1,19-15,1,three point jumper,False,24,True,False
+2014-12-14,12.5,San Antonio Spurs,Utah Jazz,2,26-19,4,three point jumper,False,23,True,False
+2014-12-14,35.2666666667,San Antonio Spurs,Utah Jazz,3,77-60,15,two point jumper,False,1,False,False
+2014-12-14,39.3333333333,San Antonio Spurs,Utah Jazz,4,84-70,12,two point jumper,False,19,True,False
+2014-12-14,46.4166666667,San Antonio Spurs,Utah Jazz,4,97-79,16,two point jumper,False,18,False,False
+2014-12-14,46.9666666667,San Antonio Spurs,Utah Jazz,4,100-79,18,three point jumper,False,26,True,False
+2014-12-21,0.2,San Antonio Spurs,Oklahoma City Thunder,1,0-3,0,three point jumper,True,25,True,False
+2014-12-21,0.583333333333,San Antonio Spurs,Oklahoma City Thunder,1,2-3,-1,layup,True,0,False,False
+2014-12-21,5.45,San Antonio Spurs,Oklahoma City Thunder,1,8-10,-1,three point jumper,True,23,True,False
+2014-12-21,6.03333333333,San Antonio Spurs,Oklahoma City Thunder,1,8-13,2,three point jumper,True,27,True,False
+2014-12-21,8.01666666667,San Antonio Spurs,Oklahoma City Thunder,1,12-17,3,layup,True,0,True,False
+2014-12-21,17.7,San Antonio Spurs,Oklahoma City Thunder,2,38-32,-9,three point jumper,True,25,True,False
+2014-12-21,21.5833333333,San Antonio Spurs,Oklahoma City Thunder,2,55-46,-12,three point jumper,True,25,True,False
+2014-12-21,22.6166666667,San Antonio Spurs,Oklahoma City Thunder,2,57-47,-13,three point jumper,True,26,False,False
+2014-12-21,40.9166666667,San Antonio Spurs,Oklahoma City Thunder,4,94-86,-10,two point jumper,True,14,False,False
+2014-12-21,40.9833333333,San Antonio Spurs,Oklahoma City Thunder,4,94-86,-10,layup,True,0,False,False
+2014-12-21,46.25,San Antonio Spurs,Oklahoma City Thunder,4,108-97,-14,three point jumper,True,24,False,False
+2014-01-12,7.06666666667,San Antonio Spurs,Minnesota Timberwolves,1,9-12,1,two point shot,True,1,True,False
+2014-01-12,7.06666666667,San Antonio Spurs,Minnesota Timberwolves,1,9-12,2,free throw,True,15,False,False
+2014-01-12,7.45,San Antonio Spurs,Minnesota Timberwolves,1,11-14,1,layup,True,0,True,False
+2014-01-12,10.8833333333,San Antonio Spurs,Minnesota Timberwolves,1,19-24,2,three point jumper,True,25,False,False
+2014-01-12,13.0166666667,San Antonio Spurs,Minnesota Timberwolves,2,23-30,5,layup,True,0,True,False
+2014-01-12,14.7166666667,San Antonio Spurs,Minnesota Timberwolves,2,28-31,2,free throw,True,15,True,False
+2014-01-12,14.7166666667,San Antonio Spurs,Minnesota Timberwolves,2,28-31,2,free throw,True,15,False,False
+2014-01-12,14.7166666667,San Antonio Spurs,Minnesota Timberwolves,2,28-32,3,free throw,True,15,True,False
+2014-01-12,22.7333333333,San Antonio Spurs,Minnesota Timberwolves,2,47-49,0,two point jumper,True,1,True,False
+2014-01-12,24.7166666667,San Antonio Spurs,Minnesota Timberwolves,3,49-52,0,three point jumper,True,28,False,False
+2014-01-12,33.2166666667,San Antonio Spurs,Minnesota Timberwolves,3,68-75,4,three point jumper,True,25,True,False
+2014-01-15,9.31666666667,San Antonio Spurs,Utah Jazz,1,18-20,0,two point jumper,True,1,True,True
+2014-01-15,12.6333333333,San Antonio Spurs,Utah Jazz,2,27-28,-1,two point jumper,True,16,False,True
+2014-01-15,14.0,San Antonio Spurs,Utah Jazz,2,29-32,1,layup,True,0,True,True
+2014-01-15,22.7666666667,San Antonio Spurs,Utah Jazz,2,44-50,4,two point shot,True,1,True,True
+2014-01-15,23.3666666667,San Antonio Spurs,Utah Jazz,2,44-50,4,two point jumper,True,21,False,True
+2014-01-15,33.5833333333,San Antonio Spurs,Utah Jazz,3,60-74,12,two point jumper,True,4,False,True
+2014-01-15,35.9833333333,San Antonio Spurs,Utah Jazz,3,69-81,10,two point jumper,True,18,False,True
+2014-01-15,36.0,San Antonio Spurs,Utah Jazz,3,69-81,10,two point shot,True,12,False,True
+2014-01-15,38.8333333333,San Antonio Spurs,Utah Jazz,4,75-86,9,two point jumper,True,21,False,True
+2014-01-15,41.1666666667,San Antonio Spurs,Utah Jazz,4,79-95,14,layup,True,0,True,True
+2014-01-15,42.3166666667,San Antonio Spurs,Utah Jazz,4,82-98,13,three point jumper,True,26,True,True
+2014-01-15,45.8666666667,San Antonio Spurs,Utah Jazz,4,90-102,9,three point jumper,True,23,False,True
+2014-01-15,47.7166666667,San Antonio Spurs,Utah Jazz,4,102-106,3,free throw,True,15,True,True
+2014-01-15,47.7166666667,San Antonio Spurs,Utah Jazz,4,102-107,4,free throw,True,15,True,True
+2014-01-15,47.95,San Antonio Spurs,Utah Jazz,4,105-108,2,free throw,True,15,True,True
+2014-01-15,47.95,San Antonio Spurs,Utah Jazz,4,105-109,3,free throw,True,15,True,True
+2014-01-17,1.88333333333,San Antonio Spurs,Portland Trail Blazers,1,4-6,0,two point jumper,True,15,True,False
+2014-01-17,1.88333333333,San Antonio Spurs,Portland Trail Blazers,1,4-7,2,free throw,True,15,True,False
+2014-01-17,3.63333333333,San Antonio Spurs,Portland Trail Blazers,1,6-10,2,two point jumper,True,17,False,False
+2014-01-17,5.35,San Antonio Spurs,Portland Trail Blazers,1,8-12,2,two point jumper,True,21,False,False
+2014-01-17,14.2,San Antonio Spurs,Portland Trail Blazers,2,29-32,2,free throw,True,15,True,False
+2014-01-17,14.2,San Antonio Spurs,Portland Trail Blazers,2,29-32,2,free throw,True,15,False,False
+2014-01-17,20.4333333333,San Antonio Spurs,Portland Trail Blazers,2,44-38,-9,three point jumper,True,23,False,False
+2014-01-17,24.6833333333,San Antonio Spurs,Portland Trail Blazers,3,54-51,-5,two point jumper,True,22,True,False
+2014-01-17,27.6333333333,San Antonio Spurs,Portland Trail Blazers,3,61-53,-10,two point jumper,True,16,False,False
+2014-01-17,29.6333333333,San Antonio Spurs,Portland Trail Blazers,3,67-60,-10,three point jumper,True,25,True,False
+2014-01-17,40.6666666667,San Antonio Spurs,Portland Trail Blazers,4,84-87,0,three point jumper,True,24,False,False
+2014-01-17,43.8166666667,San Antonio Spurs,Portland Trail Blazers,4,92-91,-3,layup,True,0,True,False
+2014-01-17,43.8166666667,San Antonio Spurs,Portland Trail Blazers,4,92-91,-2,free throw,True,15,False,False
+2014-01-17,45.6,San Antonio Spurs,Portland Trail Blazers,4,100-96,-7,three point jumper,True,23,True,False
+2014-01-17,46.2666666667,San Antonio Spurs,Portland Trail Blazers,4,102-96,-9,three point jumper,True,25,False,False
+2014-01-22,0.95,San Antonio Spurs,Oklahoma City Thunder,1,4-0,-7,three point jumper,True,23,False,False
+2014-01-22,2.06666666667,San Antonio Spurs,Oklahoma City Thunder,1,6-2,-6,two point shot,True,1,True,False
+2014-01-22,4.88333333333,San Antonio Spurs,Oklahoma City Thunder,1,12-7,-8,three point jumper,True,24,False,False
+2014-01-22,5.81666666667,San Antonio Spurs,Oklahoma City Thunder,1,14-9,-7,layup,True,0,True,False
+2014-01-22,14.5,San Antonio Spurs,Oklahoma City Thunder,2,36-33,-6,three point jumper,True,23,True,False
+2014-01-22,16.45,San Antonio Spurs,Oklahoma City Thunder,2,38-37,-3,layup,True,0,True,False
+2014-01-22,33.9166666667,San Antonio Spurs,Oklahoma City Thunder,3,71-73,0,two point jumper,True,19,True,False
+2014-01-22,41.1333333333,San Antonio Spurs,Oklahoma City Thunder,4,94-89,-7,layup,True,0,False,False
+2014-01-22,47.7166666667,San Antonio Spurs,Oklahoma City Thunder,4,110-105,-7,two point shot,True,6,True,False
+2014-01-24,5.78333333333,San Antonio Spurs,Atlanta Hawks,1,6-5,-1,two point jumper,False,21,False,False
+2014-01-24,17.3833333333,San Antonio Spurs,Atlanta Hawks,2,41-21,19,free throw,False,15,True,False
+2014-01-26,1.55,San Antonio Spurs,Miami Heat,1,0-5,-8,three point jumper,False,24,False,False
+2014-01-26,9.21666666667,San Antonio Spurs,Miami Heat,1,22-28,-9,three point jumper,False,26,False,False
+2014-01-26,9.78333333333,San Antonio Spurs,Miami Heat,1,22-30,-10,two point jumper,False,20,False,False
+2014-01-26,11.15,San Antonio Spurs,Miami Heat,1,26-34,-10,two point shot,False,18,True,False
+2014-01-26,11.9333333333,San Antonio Spurs,Miami Heat,1,28-34,-8,two point shot,False,14,True,False
+2014-01-26,27.0166666667,San Antonio Spurs,Miami Heat,3,59-66,-8,free throw,False,15,True,False
+2014-01-26,27.0166666667,San Antonio Spurs,Miami Heat,3,60-66,-7,free throw,False,15,True,False
+2014-01-26,29.6,San Antonio Spurs,Miami Heat,3,62-70,-11,three point jumper,False,23,False,False
+2014-01-26,31.85,San Antonio Spurs,Miami Heat,3,65-78,-15,two point jumper,False,18,False,False
+2014-01-26,33.1833333333,San Antonio Spurs,Miami Heat,3,70-83,-15,two point shot,False,6,True,False
+2014-01-26,33.1833333333,San Antonio Spurs,Miami Heat,3,70-83,-14,free throw,False,15,False,False
+2014-01-26,37.45,San Antonio Spurs,Miami Heat,4,72-95,-24,free throw,False,15,True,False
+2014-01-26,37.45,San Antonio Spurs,Miami Heat,4,73-95,-23,free throw,False,15,True,False
+2014-01-26,40.8166666667,San Antonio Spurs,Miami Heat,4,79-104,-27,two point jumper,False,21,True,False
+2014-02-05,14.2,San Antonio Spurs,Washington Wizards,2,27-37,-12,two point jumper,False,20,True,True
+2014-02-05,16.1666666667,San Antonio Spurs,Washington Wizards,2,30-41,-13,two point shot,False,1,True,True
+2014-02-05,21.7666666667,San Antonio Spurs,Washington Wizards,2,43-57,-16,layup,False,0,True,True
+2014-02-05,22.35,San Antonio Spurs,Washington Wizards,2,43-57,-17,three point jumper,False,25,False,True
+2014-02-05,36.9333333333,San Antonio Spurs,Washington Wizards,4,82-85,-6,three point jumper,False,26,False,True
+2014-02-05,37.5,San Antonio Spurs,Washington Wizards,4,84-87,-5,two point jumper,False,20,True,True
+2014-02-05,47.9166666667,San Antonio Spurs,Washington Wizards,4,99-99,-2,two point jumper,False,1,False,True
+2014-02-05,48.35,San Antonio Spurs,Washington Wizards,5,101-99,0,layup,False,0,True,True
+2014-02-05,52.8666666667,San Antonio Spurs,Washington Wizards,5,114-111,2,free throw,False,15,True,True
+2014-02-05,52.8666666667,San Antonio Spurs,Washington Wizards,5,115-111,3,free throw,False,15,True,True
+2014-02-05,53.2,San Antonio Spurs,Washington Wizards,6,115-115,-2,two point jumper,False,20,False,True
+2014-02-05,55.9833333333,San Antonio Spurs,Washington Wizards,6,119-117,0,two point shot,False,9,True,True
+2014-02-19,11.4166666667,San Antonio Spurs,Portland Trail Blazers,1,16-22,-8,two point jumper,False,1,False,True
+2014-02-19,11.55,San Antonio Spurs,Portland Trail Blazers,1,18-22,-6,layup,False,0,True,True
+2014-02-19,16.6333333333,San Antonio Spurs,Portland Trail Blazers,2,35-35,-2,layup,False,0,True,True
+2014-02-19,20.05,San Antonio Spurs,Portland Trail Blazers,2,40-41,-4,three point jumper,False,25,True,True
+2014-02-19,20.6,San Antonio Spurs,Portland Trail Blazers,2,43-41,-1,three point jumper,False,25,True,True
+2014-02-19,22.2166666667,San Antonio Spurs,Portland Trail Blazers,2,45-46,-3,two point jumper,False,17,True,True
+2014-02-19,24.8833333333,San Antonio Spurs,Portland Trail Blazers,3,56-54,-1,three point jumper,False,23,True,True
+2014-02-19,36.8333333333,San Antonio Spurs,Portland Trail Blazers,4,79-81,-5,three point jumper,False,23,False,True
+2014-02-19,44.6166666667,San Antonio Spurs,Portland Trail Blazers,4,99-93,3,three point jumper,False,26,False,True
+2014-02-19,46.4333333333,San Antonio Spurs,Portland Trail Blazers,4,104-101,0,three point jumper,False,25,True,True
+2014-02-19,47.9666666667,San Antonio Spurs,Portland Trail Blazers,4,110-106,3,free throw,False,15,True,True
+2014-02-19,47.9666666667,San Antonio Spurs,Portland Trail Blazers,4,111-106,4,free throw,False,15,True,True
+2014-02-28,15.7666666667,San Antonio Spurs,Charlotte Bobcats,2,34-23,-14,three point jumper,True,23,True,True
+2014-02-28,17.4833333333,San Antonio Spurs,Charlotte Bobcats,2,39-26,-15,layup,True,0,False,True
+2014-02-28,32.6,San Antonio Spurs,Charlotte Bobcats,3,55-59,1,three point jumper,True,23,False,True
+2014-02-28,33.1,San Antonio Spurs,Charlotte Bobcats,3,57-59,0,two point jumper,True,21,False,True
+2014-02-28,33.2166666667,San Antonio Spurs,Charlotte Bobcats,3,57-61,2,two point shot,True,3,True,True
+2014-02-28,36.2166666667,San Antonio Spurs,Charlotte Bobcats,4,65-68,1,two point shot,True,18,True,True
+2014-02-28,37.4666666667,San Antonio Spurs,Charlotte Bobcats,4,67-70,1,two point jumper,True,20,True,True
+2014-02-28,38.5,San Antonio Spurs,Charlotte Bobcats,4,70-72,0,two point shot,True,7,True,True
+2014-02-28,46.6166666667,San Antonio Spurs,Charlotte Bobcats,4,80-85,2,three point jumper,True,25,True,True

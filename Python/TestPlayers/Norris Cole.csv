@@ -1,0 +1,399 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-09,9.91666666667,Miami Heat,Boston Celtics,1,19-27,6,two point jumper,True,17,False,False
+2014-11-09,11.15,Miami Heat,Boston Celtics,1,23-31,6,two point jumper,True,21,True,False
+2014-11-09,37.3666666667,Miami Heat,Boston Celtics,4,85-89,1,three point jumper,True,25,True,False
+2014-01-21,11.7,Miami Heat,Boston Celtics,1,15-26,8,three point jumper,True,24,False,True
+2014-01-21,13.55,Miami Heat,Boston Celtics,2,17-31,12,two point jumper,True,19,False,True
+2014-01-21,15.25,Miami Heat,Boston Celtics,2,20-34,12,layup,True,0,False,True
+2014-01-21,16.5333333333,Miami Heat,Boston Celtics,2,22-40,16,layup,True,0,True,True
+2014-01-21,19.75,Miami Heat,Boston Celtics,2,33-42,6,three point jumper,True,24,False,True
+2014-01-21,39.4,Miami Heat,Boston Celtics,4,72-77,2,three point jumper,True,26,False,True
+2014-01-21,43.8166666667,Miami Heat,Boston Celtics,4,84-84,-2,two point jumper,True,20,False,True
+2014-11-01,14.0,Miami Heat,Brooklyn Nets,2,26-31,-7,two point shot,False,1,True,False
+2014-11-01,18.4833333333,Miami Heat,Brooklyn Nets,2,34-39,-7,layup,False,0,True,False
+2014-11-01,20.1,Miami Heat,Brooklyn Nets,2,36-42,-8,two point jumper,False,17,False,False
+2014-11-01,33.2833333333,Miami Heat,Brooklyn Nets,3,59-73,-16,layup,False,0,True,False
+2014-11-01,35.25,Miami Heat,Brooklyn Nets,3,64-77,-15,layup,False,0,False,False
+2014-01-10,4.28333333333,Miami Heat,Brooklyn Nets,1,10-10,-2,two point shot,False,6,True,True
+2014-01-10,5.56666666667,Miami Heat,Brooklyn Nets,1,14-15,-3,layup,False,0,True,True
+2014-01-10,10.0,Miami Heat,Brooklyn Nets,1,26-26,-3,three point jumper,False,23,False,True
+2014-01-10,16.35,Miami Heat,Brooklyn Nets,2,34-35,-3,layup,False,0,False,True
+2014-01-10,22.85,Miami Heat,Brooklyn Nets,2,45-49,-7,three point jumper,False,26,False,True
+2014-01-10,26.95,Miami Heat,Brooklyn Nets,3,49-57,-10,layup,False,0,False,True
+2014-01-10,28.5666666667,Miami Heat,Brooklyn Nets,3,53-62,-11,two point shot,False,6,True,True
+2014-01-10,29.2,Miami Heat,Brooklyn Nets,3,56-64,-11,three point jumper,False,23,True,True
+2014-01-10,36.9666666667,Miami Heat,Brooklyn Nets,4,68-78,-12,two point shot,False,19,True,True
+2014-01-10,40.95,Miami Heat,Brooklyn Nets,4,79-80,-3,layup,False,0,True,True
+2014-01-10,45.8333333333,Miami Heat,Brooklyn Nets,4,86-84,-1,three point jumper,False,26,True,True
+2014-01-10,50.9666666667,Miami Heat,Brooklyn Nets,5,89-91,-5,three point jumper,False,26,False,True
+2014-01-10,52.95,Miami Heat,Brooklyn Nets,5,93-93,-2,two point shot,False,1,True,True
+2014-01-09,2.68333333333,Miami Heat,New York Knicks,1,5-2,0,three point jumper,False,23,True,True
+2014-01-09,3.93333333333,Miami Heat,New York Knicks,1,8-4,2,layup,False,0,True,True
+2014-01-09,6.48333333333,Miami Heat,New York Knicks,1,15-9,4,two point shot,False,17,True,True
+2014-01-09,15.8333333333,Miami Heat,New York Knicks,2,33-33,-2,layup,False,0,True,True
+2014-01-09,18.8833333333,Miami Heat,New York Knicks,2,38-35,0,three point jumper,False,23,True,True
+2014-01-09,30.2,Miami Heat,New York Knicks,3,62-58,1,three point jumper,False,23,False,True
+2014-01-09,33.25,Miami Heat,New York Knicks,3,69-66,0,three point jumper,False,23,False,True
+2014-01-09,33.65,Miami Heat,New York Knicks,3,69-69,-2,layup,False,0,False,True
+2014-01-09,46.5833333333,Miami Heat,New York Knicks,4,89-98,-12,three point jumper,False,25,False,True
+2014-02-01,15.45,Miami Heat,New York Knicks,2,40-28,9,three point jumper,False,23,True,False
+2014-02-01,21.1666666667,Miami Heat,New York Knicks,2,50-40,7,three point jumper,False,23,False,False
+2014-02-01,39.25,Miami Heat,New York Knicks,4,86-79,5,two point shot,False,1,True,False
+2014-02-01,40.9833333333,Miami Heat,New York Knicks,4,90-81,7,layup,False,0,True,False
+2014-02-01,42.25,Miami Heat,New York Knicks,4,92-81,9,two point shot,False,18,True,False
+2014-02-27,10.6333333333,Miami Heat,New York Knicks,1,18-24,3,three point jumper,True,24,False,False
+2014-02-27,15.8166666667,Miami Heat,New York Knicks,2,25-36,9,two point shot,True,5,True,False
+2014-02-27,15.8166666667,Miami Heat,New York Knicks,2,25-37,11,free throw,True,15,True,False
+2014-02-27,18.4833333333,Miami Heat,New York Knicks,2,29-45,14,layup,True,0,True,False
+2014-02-27,21.2333333333,Miami Heat,New York Knicks,2,43-49,4,two point shot,True,1,True,False
+2014-02-27,38.5166666667,Miami Heat,New York Knicks,4,70-91,19,two point jumper,True,18,False,False
+2014-02-27,39.4333333333,Miami Heat,New York Knicks,4,70-95,23,layup,True,0,True,False
+2014-02-27,39.4333333333,Miami Heat,New York Knicks,4,70-95,24,free throw,True,15,False,False
+2014-02-27,40.8833333333,Miami Heat,New York Knicks,4,70-99,27,layup,True,0,True,False
+2014-02-27,42.0333333333,Miami Heat,New York Knicks,4,75-101,24,layup,True,0,False,False
+2014-02-27,45.0333333333,Miami Heat,New York Knicks,4,79-102,21,two point shot,True,6,False,False
+2014-10-30,5.41666666667,Miami Heat,Philadelphia 76ers,1,2-21,-21,two point jumper,False,1,False,False
+2014-10-30,8.9,Miami Heat,Philadelphia 76ers,1,9-28,-22,three point jumper,False,23,False,False
+2014-10-30,9.48333333333,Miami Heat,Philadelphia 76ers,1,11-29,-20,two point jumper,False,20,True,False
+2014-10-30,11.9333333333,Miami Heat,Philadelphia 76ers,1,14-33,-22,three point jumper,False,23,False,False
+2014-10-30,12.5166666667,Miami Heat,Philadelphia 76ers,2,16-34,-20,dunk,False,0,True,False
+2014-10-30,13.6333333333,Miami Heat,Philadelphia 76ers,2,20-34,-16,layup,False,0,True,False
+2014-10-30,14.8666666667,Miami Heat,Philadelphia 76ers,2,24-34,-12,layup,False,0,True,False
+2014-10-30,38.9,Miami Heat,Philadelphia 76ers,4,98-93,3,layup,False,0,True,False
+2014-01-17,11.0833333333,Miami Heat,Philadelphia 76ers,1,30-22,7,free throw,False,15,True,False
+2014-01-17,11.0833333333,Miami Heat,Philadelphia 76ers,1,31-22,8,free throw,False,15,True,False
+2014-01-17,11.7333333333,Miami Heat,Philadelphia 76ers,1,34-24,7,three point jumper,False,26,True,False
+2014-01-17,13.3166666667,Miami Heat,Philadelphia 76ers,2,40-24,14,layup,False,0,True,False
+2014-01-17,15.0666666667,Miami Heat,Philadelphia 76ers,2,42-27,13,two point shot,False,19,True,False
+2014-01-17,18.3166666667,Miami Heat,Philadelphia 76ers,2,46-34,10,two point jumper,False,19,False,False
+2014-01-17,19.0333333333,Miami Heat,Philadelphia 76ers,2,47-35,9,three point jumper,False,24,False,False
+2014-01-17,21.0333333333,Miami Heat,Philadelphia 76ers,2,52-37,13,layup,False,0,True,False
+2014-01-17,40.7,Miami Heat,Philadelphia 76ers,4,86-67,17,layup,False,0,True,False
+2014-11-05,9.45,Miami Heat,Toronto Raptors,1,14-20,-8,layup,False,0,False,False
+2014-11-05,11.9833333333,Miami Heat,Toronto Raptors,1,23-25,-4,unknown,False,6,False,False
+2014-11-05,17.5666666667,Miami Heat,Toronto Raptors,2,34-41,-9,two point jumper,False,1,True,False
+2014-11-05,36.75,Miami Heat,Toronto Raptors,4,80-74,4,layup,False,0,True,False
+2014-11-05,37.1833333333,Miami Heat,Toronto Raptors,4,82-74,6,two point shot,False,1,True,False
+2014-11-05,37.1833333333,Miami Heat,Toronto Raptors,4,82-74,7,free throw,False,15,False,False
+2014-11-05,41.2166666667,Miami Heat,Toronto Raptors,4,90-77,11,two point jumper,False,4,False,False
+2014-11-05,41.95,Miami Heat,Toronto Raptors,4,90-78,9,three point jumper,False,24,False,False
+2014-11-29,14.6833333333,Miami Heat,Toronto Raptors,2,34-25,6,three point jumper,False,24,True,True
+2014-11-29,15.8166666667,Miami Heat,Toronto Raptors,2,38-27,9,layup,False,0,True,True
+2014-11-29,19.4166666667,Miami Heat,Toronto Raptors,2,46-34,10,layup,False,0,False,True
+2014-11-29,19.85,Miami Heat,Toronto Raptors,2,46-34,9,three point jumper,False,25,False,True
+2014-11-29,33.6833333333,Miami Heat,Toronto Raptors,3,74-63,9,unknown,False,6,False,True
+2014-11-29,38.3166666667,Miami Heat,Toronto Raptors,4,80-70,8,two point shot,False,1,False,True
+2014-01-05,26.0166666667,Miami Heat,Toronto Raptors,3,58-56,-4,two point shot,True,12,True,False
+2014-01-05,31.3833333333,Miami Heat,Toronto Raptors,3,77-71,-9,three point jumper,True,24,True,False
+2014-01-05,33.0,Miami Heat,Toronto Raptors,3,77-75,-4,layup,True,0,False,False
+2014-01-05,35.0666666667,Miami Heat,Toronto Raptors,3,80-78,-3,free throw,True,15,True,False
+2014-01-05,35.0666666667,Miami Heat,Toronto Raptors,3,80-79,-2,free throw,True,15,True,False
+2014-01-05,43.7,Miami Heat,Toronto Raptors,4,89-92,1,layup,True,0,False,False
+2014-01-02,12.7,Miami Heat,Golden State Warriors,2,38-35,-6,three point jumper,True,24,False,False
+2014-01-02,17.3833333333,Miami Heat,Golden State Warriors,2,47-45,-5,three point jumper,True,24,False,False
+2014-01-02,35.9666666667,Miami Heat,Golden State Warriors,3,95-86,-10,free throw,True,15,True,False
+2014-01-02,35.9666666667,Miami Heat,Golden State Warriors,3,95-87,-9,free throw,True,15,True,False
+2014-01-02,36.7666666667,Miami Heat,Golden State Warriors,4,98-89,-11,layup,True,0,True,False
+2014-01-02,39.0,Miami Heat,Golden State Warriors,4,103-93,-12,layup,True,0,True,False
+2014-01-02,39.0,Miami Heat,Golden State Warriors,4,103-94,-10,free throw,True,15,True,False
+2014-02-12,6.06666666667,Miami Heat,Golden State Warriors,1,15-10,2,three point jumper,False,27,True,True
+2014-02-12,14.9,Miami Heat,Golden State Warriors,2,32-23,7,two point shot,False,9,False,True
+2014-02-12,16.4833333333,Miami Heat,Golden State Warriors,2,36-25,9,two point shot,False,17,True,True
+2014-02-12,17.7333333333,Miami Heat,Golden State Warriors,2,39-29,9,free throw,False,15,True,True
+2014-02-12,17.7333333333,Miami Heat,Golden State Warriors,2,40-29,10,free throw,False,15,True,True
+2014-02-12,19.85,Miami Heat,Golden State Warriors,2,48-34,12,layup,False,0,True,True
+2014-02-12,19.85,Miami Heat,Golden State Warriors,2,48-34,13,free throw,False,15,True,True
+2014-02-12,30.7,Miami Heat,Golden State Warriors,3,75-63,9,three point jumper,False,26,False,True
+2014-02-12,34.2666666667,Miami Heat,Golden State Warriors,3,77-72,3,layup,False,0,False,True
+2014-11-07,19.6,Miami Heat,Los Angeles Clippers,2,46-44,-5,three point jumper,True,25,False,False
+2014-11-07,29.6666666667,Miami Heat,Los Angeles Clippers,3,66-63,-5,two point jumper,True,20,False,False
+2014-11-07,37.0666666667,Miami Heat,Los Angeles Clippers,4,75-78,1,layup,True,0,False,False
+2014-11-07,40.7,Miami Heat,Los Angeles Clippers,4,80-91,9,tip shot,True,0,False,False
+2014-11-07,42.1666666667,Miami Heat,Los Angeles Clippers,4,84-94,8,layup,True,0,False,False
+2014-02-05,15.8166666667,Miami Heat,Los Angeles Clippers,2,47-32,13,layup,False,0,True,True
+2014-02-05,15.8166666667,Miami Heat,Los Angeles Clippers,2,48-32,15,free throw,False,15,True,True
+2014-02-05,19.6666666667,Miami Heat,Los Angeles Clippers,2,54-44,8,two point shot,False,4,False,True
+2014-02-05,32.0166666667,Miami Heat,Los Angeles Clippers,3,79-69,7,three point jumper,False,23,False,True
+2014-02-05,34.1333333333,Miami Heat,Los Angeles Clippers,3,88-72,13,three point jumper,False,27,False,True
+2014-02-05,37.7,Miami Heat,Los Angeles Clippers,4,91-79,10,two point shot,False,9,False,True
+2014-12-25,23.0666666667,Miami Heat,Los Angeles Lakers,2,51-43,5,three point jumper,False,24,False,False
+2014-12-25,34.9666666667,Miami Heat,Los Angeles Lakers,3,76-69,5,two point jumper,False,16,False,False
+2014-12-25,39.4333333333,Miami Heat,Los Angeles Lakers,4,83-81,0,layup,False,0,True,False
+2014-12-25,41.7,Miami Heat,Los Angeles Lakers,4,88-83,2,three point jumper,False,24,True,False
+2014-12-25,42.3166666667,Miami Heat,Los Angeles Lakers,4,88-83,3,layup,False,0,False,False
+2014-12-25,43.95,Miami Heat,Los Angeles Lakers,4,92-83,7,two point jumper,False,1,True,False
+2014-01-23,11.75,Miami Heat,Los Angeles Lakers,1,25-28,0,three point jumper,True,26,False,True
+2014-01-23,15.1833333333,Miami Heat,Los Angeles Lakers,2,29-40,10,free throw,True,15,True,True
+2014-01-23,15.1833333333,Miami Heat,Los Angeles Lakers,2,29-41,11,free throw,True,15,True,True
+2014-01-23,16.1666666667,Miami Heat,Los Angeles Lakers,2,30-43,11,layup,True,0,True,True
+2014-01-23,17.0333333333,Miami Heat,Los Angeles Lakers,2,32-43,9,two point shot,True,7,False,True
+2014-01-23,19.3833333333,Miami Heat,Los Angeles Lakers,2,36-47,9,two point shot,True,2,True,True
+2014-01-23,34.85,Miami Heat,Los Angeles Lakers,3,71-84,10,three point jumper,True,24,True,True
+2014-01-23,35.9666666667,Miami Heat,Los Angeles Lakers,3,75-85,8,two point jumper,True,18,False,True
+2014-01-23,36.7166666667,Miami Heat,Los Angeles Lakers,4,75-85,8,two point shot,True,12,False,True
+2014-01-23,39.1833333333,Miami Heat,Los Angeles Lakers,4,80-89,7,two point shot,True,1,True,True
+2014-11-25,0.4,Miami Heat,Phoenix Suns,1,0-0,-2,two point jumper,True,19,False,False
+2014-11-25,3.43333333333,Miami Heat,Phoenix Suns,1,5-4,-3,two point jumper,True,17,False,False
+2014-11-25,6.75,Miami Heat,Phoenix Suns,1,11-11,-2,layup,True,0,False,False
+2014-11-25,22.35,Miami Heat,Phoenix Suns,2,40-45,3,layup,True,0,True,False
+2014-11-25,24.8,Miami Heat,Phoenix Suns,3,47-50,0,three point jumper,True,26,False,False
+2014-11-25,35.6,Miami Heat,Phoenix Suns,3,71-77,3,three point jumper,True,26,False,False
+2014-02-11,8.76666666667,Miami Heat,Phoenix Suns,1,15-22,-9,layup,False,0,True,False
+2014-02-11,10.9333333333,Miami Heat,Phoenix Suns,1,16-25,-12,three point jumper,False,26,False,False
+2014-02-11,13.1833333333,Miami Heat,Phoenix Suns,2,22-25,-4,free throw,False,15,False,False
+2014-02-11,13.1833333333,Miami Heat,Phoenix Suns,2,23-25,-3,free throw,False,15,True,False
+2014-02-11,14.75,Miami Heat,Phoenix Suns,2,25-27,-4,two point shot,False,6,False,False
+2014-02-11,20.9166666667,Miami Heat,Phoenix Suns,2,40-40,-1,free throw,False,15,True,False
+2014-02-11,20.9166666667,Miami Heat,Phoenix Suns,2,41-40,0,free throw,False,15,True,False
+2014-02-11,23.1333333333,Miami Heat,Phoenix Suns,2,43-46,-6,three point jumper,False,23,False,False
+2014-02-11,33.7666666667,Miami Heat,Phoenix Suns,3,67-70,-6,three point jumper,False,24,False,False
+2014-02-11,38.0,Miami Heat,Phoenix Suns,4,77-75,0,two point jumper,False,1,True,False
+2014-02-11,40.6666666667,Miami Heat,Phoenix Suns,4,83-80,0,three point jumper,False,23,True,False
+2014-02-11,45.5166666667,Miami Heat,Phoenix Suns,4,92-89,1,two point jumper,False,19,False,False
+2014-12-20,14.1166666667,Miami Heat,Sacramento Kings,2,42-41,-3,layup,True,0,True,True
+2014-12-20,22.5333333333,Miami Heat,Sacramento Kings,2,61-60,-3,layup,True,0,False,True
+2014-12-20,31.2,Miami Heat,Sacramento Kings,3,75-85,8,layup,True,0,True,True
+2014-12-27,15.0666666667,Miami Heat,Sacramento Kings,2,36-27,7,two point jumper,False,7,True,False
+2014-12-27,20.3333333333,Miami Heat,Sacramento Kings,2,46-35,8,three point jumper,False,25,False,False
+2014-12-27,21.25,Miami Heat,Sacramento Kings,2,49-37,9,three point jumper,False,23,True,False
+2014-12-27,30.6333333333,Miami Heat,Sacramento Kings,3,67-61,3,three point jumper,False,23,True,False
+2014-12-27,34.2666666667,Miami Heat,Sacramento Kings,3,70-72,-3,free throw,False,15,True,False
+2014-12-27,34.2666666667,Miami Heat,Sacramento Kings,3,71-72,-2,free throw,False,15,True,False
+2014-12-27,35.9833333333,Miami Heat,Sacramento Kings,3,73-74,-3,two point jumper,False,1,False,False
+2014-12-27,36.95,Miami Heat,Sacramento Kings,4,75-74,-1,two point shot,False,22,True,False
+2014-12-27,51.0333333333,Miami Heat,Sacramento Kings,5,93-99,-7,free throw,False,15,False,False
+2014-12-27,51.0333333333,Miami Heat,Sacramento Kings,5,94-99,-6,free throw,False,15,True,False
+2014-10-29,11.85,Miami Heat,Chicago Bulls,1,15-17,-1,three point jumper,True,24,False,False
+2014-10-29,13.0,Miami Heat,Chicago Bulls,2,15-23,5,three point jumper,True,24,True,False
+2014-10-29,15.65,Miami Heat,Chicago Bulls,2,20-26,4,two point jumper,True,1,True,False
+2014-10-29,34.65,Miami Heat,Chicago Bulls,3,56-76,18,two point shot,True,2,True,False
+2014-10-29,37.1833333333,Miami Heat,Chicago Bulls,4,58-83,23,two point shot,True,1,True,False
+2014-10-29,40.9833333333,Miami Heat,Chicago Bulls,4,72-89,15,two point jumper,True,20,True,False
+2014-10-29,44.1,Miami Heat,Chicago Bulls,4,81-95,11,three point jumper,True,24,False,False
+2014-12-05,10.9166666667,Miami Heat,Chicago Bulls,1,20-24,-6,layup,False,0,False,True
+2014-12-05,12.7,Miami Heat,Chicago Bulls,2,22-29,-9,two point jumper,False,17,False,True
+2014-12-05,15.8166666667,Miami Heat,Chicago Bulls,2,25-36,-13,two point jumper,False,19,False,True
+2014-12-05,19.8166666667,Miami Heat,Chicago Bulls,2,32-48,-18,layup,False,0,True,True
+2014-12-05,28.5333333333,Miami Heat,Chicago Bulls,3,49-72,-25,two point jumper,False,14,True,True
+2014-12-05,32.5666666667,Miami Heat,Chicago Bulls,3,59-78,-21,two point jumper,False,8,False,True
+2014-12-05,34.8333333333,Miami Heat,Chicago Bulls,3,63-83,-22,layup,False,0,True,True
+2014-12-05,37.1333333333,Miami Heat,Chicago Bulls,4,67-87,-22,two point shot,False,6,True,True
+2014-12-05,42.3833333333,Miami Heat,Chicago Bulls,4,81-93,-14,two point shot,False,4,True,True
+2014-12-05,46.4666666667,Miami Heat,Chicago Bulls,4,84-103,-20,free throw,False,15,True,True
+2014-12-05,46.4666666667,Miami Heat,Chicago Bulls,4,85-103,-19,free throw,False,15,True,True
+2014-02-23,10.0166666667,Miami Heat,Chicago Bulls,1,18-16,-4,two point jumper,True,9,False,True
+2014-02-23,11.9833333333,Miami Heat,Chicago Bulls,1,24-20,-6,layup,True,0,False,True
+2014-02-23,13.65,Miami Heat,Chicago Bulls,2,24-20,-7,three point jumper,True,26,False,True
+2014-02-23,15.45,Miami Heat,Chicago Bulls,2,24-20,-6,two point jumper,True,21,False,True
+2014-11-27,10.4666666667,Miami Heat,Cleveland Cavaliers,1,20-22,-5,three point jumper,False,23,True,True
+2014-11-27,14.7,Miami Heat,Cleveland Cavaliers,2,32-28,1,three point jumper,False,23,True,True
+2014-11-27,20.3666666667,Miami Heat,Cleveland Cavaliers,2,42-33,6,three point jumper,False,24,False,True
+2014-12-14,12.4666666667,Miami Heat,Cleveland Cavaliers,2,29-35,3,three point jumper,True,23,False,True
+2014-12-14,17.4166666667,Miami Heat,Cleveland Cavaliers,2,42-48,4,layup,True,0,True,True
+2014-12-14,19.0333333333,Miami Heat,Cleveland Cavaliers,2,42-52,8,layup,True,0,False,True
+2014-12-14,20.7666666667,Miami Heat,Cleveland Cavaliers,2,45-56,10,free throw,True,15,False,True
+2014-12-14,20.7666666667,Miami Heat,Cleveland Cavaliers,2,45-56,10,free throw,True,15,True,True
+2014-12-14,21.4166666667,Miami Heat,Cleveland Cavaliers,2,45-60,13,layup,True,0,True,True
+2014-12-14,38.55,Miami Heat,Cleveland Cavaliers,4,88-91,1,two point shot,True,12,True,True
+2014-12-14,40.3166666667,Miami Heat,Cleveland Cavaliers,4,93-91,-4,two point jumper,True,20,False,True
+2014-12-14,45.25,Miami Heat,Cleveland Cavaliers,4,100-102,-1,three point jumper,True,23,False,True
+2014-12-14,45.4166666667,Miami Heat,Cleveland Cavaliers,4,100-104,2,layup,True,0,True,True
+2014-12-03,10.0,Miami Heat,Detroit Pistons,1,22-13,-11,two point jumper,True,17,False,True
+2014-12-03,15.4333333333,Miami Heat,Detroit Pistons,2,36-21,-18,three point jumper,True,24,False,True
+2014-12-03,32.2833333333,Miami Heat,Detroit Pistons,3,72-58,-16,two point jumper,True,17,False,True
+2014-12-03,32.7833333333,Miami Heat,Detroit Pistons,3,74-61,-16,three point jumper,True,24,True,True
+2014-12-03,37.5666666667,Miami Heat,Detroit Pistons,4,85-72,-15,layup,True,0,True,True
+2014-12-03,38.2,Miami Heat,Detroit Pistons,4,85-74,-13,two point shot,True,2,True,True
+2014-12-03,38.9333333333,Miami Heat,Detroit Pistons,4,85-76,-11,layup,True,0,True,True
+2014-12-08,12.5666666667,Miami Heat,Detroit Pistons,2,31-21,8,two point jumper,False,20,True,False
+2014-12-08,14.3833333333,Miami Heat,Detroit Pistons,2,35-29,4,layup,False,0,True,False
+2014-12-08,16.4166666667,Miami Heat,Detroit Pistons,2,42-33,7,two point shot,False,19,True,False
+2014-12-08,34.5333333333,Miami Heat,Detroit Pistons,3,87-70,16,free throw,False,15,True,False
+2014-12-08,34.5333333333,Miami Heat,Detroit Pistons,3,88-70,17,free throw,False,15,True,False
+2014-12-08,36.6833333333,Miami Heat,Detroit Pistons,4,91-70,19,two point jumper,False,6,False,False
+2014-02-03,11.6,Miami Heat,Detroit Pistons,1,29-32,0,three point jumper,True,23,False,False
+2014-02-03,14.65,Miami Heat,Detroit Pistons,2,35-39,2,two point jumper,True,19,False,False
+2014-02-03,29.7833333333,Miami Heat,Detroit Pistons,3,64-75,8,three point jumper,True,23,True,False
+2014-02-03,31.2833333333,Miami Heat,Detroit Pistons,3,68-77,7,layup,True,0,False,False
+2014-12-10,11.0166666667,Miami Heat,Indiana Pacers,1,28-15,11,two point shot,False,1,True,False
+2014-12-10,14.3166666667,Miami Heat,Indiana Pacers,2,34-25,7,two point shot,False,1,True,False
+2014-12-10,18.7833333333,Miami Heat,Indiana Pacers,2,38-29,6,three point jumper,False,25,False,False
+2014-12-10,23.6833333333,Miami Heat,Indiana Pacers,2,47-37,9,free throw,False,15,True,False
+2014-12-10,23.6833333333,Miami Heat,Indiana Pacers,2,47-37,9,free throw,False,15,False,False
+2014-12-10,35.3,Miami Heat,Indiana Pacers,3,64-68,-6,layup,False,0,True,False
+2014-12-10,36.3333333333,Miami Heat,Indiana Pacers,4,66-68,-4,two point shot,False,13,True,False
+2014-12-18,9.41666666667,Miami Heat,Indiana Pacers,1,19-16,-5,two point jumper,True,21,False,True
+2014-12-18,20.9833333333,Miami Heat,Indiana Pacers,2,45-37,-11,three point jumper,True,26,False,True
+2014-12-18,32.05,Miami Heat,Indiana Pacers,3,72-61,-14,three point jumper,True,24,True,True
+2014-12-18,34.35,Miami Heat,Indiana Pacers,3,74-64,-13,three point jumper,True,25,False,True
+2014-12-18,35.8333333333,Miami Heat,Indiana Pacers,3,76-69,-9,two point shot,True,12,False,True
+2014-11-12,14.3833333333,Miami Heat,Milwaukee Bucks,2,27-37,9,free throw,True,15,False,False
+2014-11-12,36.8833333333,Miami Heat,Milwaukee Bucks,4,62-86,21,three point jumper,True,25,False,False
+2014-11-12,39.0666666667,Miami Heat,Milwaukee Bucks,4,67-92,23,two point shot,True,6,True,False
+2014-11-12,41.6,Miami Heat,Milwaukee Bucks,4,76-102,23,three point jumper,True,22,True,False
+2014-11-12,44.1666666667,Miami Heat,Milwaukee Bucks,4,83-108,23,layup,True,0,False,False
+2014-11-12,47.4833333333,Miami Heat,Milwaukee Bucks,4,95-118,21,layup,True,0,True,False
+2014-11-15,9.75,Miami Heat,Dallas Mavericks,1,25-26,0,free throw,True,15,True,True
+2014-11-15,9.75,Miami Heat,Dallas Mavericks,1,25-27,1,free throw,True,15,True,True
+2014-11-15,12.5666666667,Miami Heat,Dallas Mavericks,2,32-33,-1,two point jumper,True,20,True,True
+2014-11-15,15.2,Miami Heat,Dallas Mavericks,2,35-43,6,two point shot,True,1,True,True
+2014-11-15,18.6,Miami Heat,Dallas Mavericks,2,40-49,6,three point jumper,True,23,False,True
+2014-11-15,34.8666666667,Miami Heat,Dallas Mavericks,3,74-80,5,free throw,True,15,True,True
+2014-11-15,34.8666666667,Miami Heat,Dallas Mavericks,3,74-81,6,free throw,True,15,True,True
+2014-11-15,40.3833333333,Miami Heat,Dallas Mavericks,4,89-96,4,three point jumper,True,26,True,True
+2014-02-18,11.4833333333,Miami Heat,Dallas Mavericks,1,30-26,2,layup,False,0,False,True
+2014-02-18,18.6666666667,Miami Heat,Dallas Mavericks,2,48-47,-2,three point jumper,False,23,True,True
+2014-02-18,22.2166666667,Miami Heat,Dallas Mavericks,2,57-50,4,three point jumper,False,23,False,True
+2014-02-18,33.9666666667,Miami Heat,Dallas Mavericks,3,78-76,0,two point shot,False,1,False,True
+2014-01-07,3.46666666667,Miami Heat,New Orleans Pelicans,1,8-12,1,three point jumper,True,23,True,False
+2014-01-07,5.16666666667,Miami Heat,New Orleans Pelicans,1,10-12,-1,three point jumper,True,25,False,False
+2014-01-07,9.05,Miami Heat,New Orleans Pelicans,1,18-20,0,two point shot,True,16,True,False
+2014-01-07,17.0333333333,Miami Heat,New Orleans Pelicans,2,36-31,-6,free throw,True,15,False,False
+2014-01-07,17.0333333333,Miami Heat,New Orleans Pelicans,2,36-32,-5,free throw,True,15,True,False
+2014-01-07,25.75,Miami Heat,New Orleans Pelicans,3,54-46,-11,three point jumper,True,24,True,False
+2014-01-07,32.0166666667,Miami Heat,New Orleans Pelicans,3,61-63,-1,three point jumper,True,24,False,False
+2014-01-07,33.4333333333,Miami Heat,New Orleans Pelicans,3,61-66,2,three point jumper,True,25,False,False
+2014-01-26,15.8,Miami Heat,San Antonio Spurs,2,36-38,0,two point jumper,True,20,False,True
+2014-01-26,19.1,Miami Heat,San Antonio Spurs,2,41-44,1,two point jumper,True,17,True,True
+2014-01-26,34.0,Miami Heat,San Antonio Spurs,3,70-87,15,two point jumper,True,9,True,True
+2014-01-26,34.7166666667,Miami Heat,San Antonio Spurs,3,70-87,14,three point jumper,True,25,False,True
+2014-01-26,34.9,Miami Heat,San Antonio Spurs,3,70-88,17,free throw,True,15,True,True
+2014-01-26,34.9,Miami Heat,San Antonio Spurs,3,70-89,18,free throw,True,15,True,True
+2014-01-26,38.25,Miami Heat,San Antonio Spurs,4,73-98,22,three point jumper,True,24,True,True
+2014-01-26,38.8166666667,Miami Heat,San Antonio Spurs,4,75-100,23,two point shot,True,16,True,True
+2014-01-26,45.5666666667,Miami Heat,San Antonio Spurs,4,91-106,12,three point jumper,True,23,False,True
+2014-11-19,9.61666666667,Miami Heat,Atlanta Hawks,1,17-17,-2,two point shot,True,1,True,False
+2014-11-19,10.9666666667,Miami Heat,Atlanta Hawks,1,22-20,-4,two point jumper,True,14,False,False
+2014-11-19,11.85,Miami Heat,Atlanta Hawks,1,23-24,-1,layup,True,0,True,False
+2014-11-19,19.2833333333,Miami Heat,Atlanta Hawks,2,38-36,-4,two point jumper,True,17,True,False
+2014-11-19,20.1666666667,Miami Heat,Atlanta Hawks,2,38-38,-2,layup,True,0,False,False
+2014-11-19,38.8666666667,Miami Heat,Atlanta Hawks,4,71-85,12,layup,True,0,False,False
+2014-11-19,39.4333333333,Miami Heat,Atlanta Hawks,4,73-85,9,three point jumper,True,25,False,False
+2014-11-19,41.9833333333,Miami Heat,Atlanta Hawks,4,78-92,12,layup,True,0,False,False
+2014-11-19,44.65,Miami Heat,Atlanta Hawks,4,80-97,15,two point jumper,True,16,False,False
+2014-11-19,47.8666666667,Miami Heat,Atlanta Hawks,4,88-102,12,layup,True,0,False,False
+2014-11-19,47.9,Miami Heat,Atlanta Hawks,4,88-104,14,two point shot,True,1,True,False
+2014-12-23,12.0,Miami Heat,Atlanta Hawks,1,23-33,7,three point jumper,True,26,True,True
+2014-12-23,13.45,Miami Heat,Atlanta Hawks,2,25-33,6,two point jumper,True,14,False,True
+2014-12-23,14.8166666667,Miami Heat,Atlanta Hawks,2,27-39,10,layup,True,0,False,True
+2014-12-23,16.7,Miami Heat,Atlanta Hawks,2,34-41,5,hook shot,True,5,False,True
+2014-12-23,34.35,Miami Heat,Atlanta Hawks,3,78-72,-8,two point jumper,True,16,True,True
+2014-12-23,35.9833333333,Miami Heat,Atlanta Hawks,3,84-77,-10,three point jumper,True,23,False,True
+2014-12-23,40.6333333333,Miami Heat,Atlanta Hawks,4,92-92,-3,three point jumper,True,23,False,True
+2014-01-20,9.83333333333,Miami Heat,Atlanta Hawks,1,24-25,-4,three point jumper,False,24,False,False
+2014-01-20,22.4333333333,Miami Heat,Atlanta Hawks,2,60-67,-9,layup,False,0,False,False
+2014-01-20,30.7,Miami Heat,Atlanta Hawks,3,81-84,-4,free throw,False,15,True,False
+2014-01-20,30.7,Miami Heat,Atlanta Hawks,3,82-84,-3,free throw,False,15,True,False
+2014-01-20,31.5333333333,Miami Heat,Atlanta Hawks,3,84-86,-4,layup,False,0,True,False
+2014-01-20,34.5833333333,Miami Heat,Atlanta Hawks,3,86-93,-10,three point jumper,False,25,False,False
+2014-01-20,45.8,Miami Heat,Atlanta Hawks,4,111-114,-6,three point jumper,False,24,True,False
+2014-01-20,46.3,Miami Heat,Atlanta Hawks,4,111-116,-8,three point jumper,False,25,False,False
+2014-11-16,1.18333333333,Miami Heat,Charlotte Bobcats,1,2-3,-3,layup,False,0,False,True
+2014-11-16,6.66666666667,Miami Heat,Charlotte Bobcats,1,13-9,3,free throw,False,15,True,True
+2014-11-16,6.66666666667,Miami Heat,Charlotte Bobcats,1,14-9,4,free throw,False,15,True,True
+2014-11-16,7.35,Miami Heat,Charlotte Bobcats,1,14-12,0,two point jumper,False,21,False,True
+2014-11-16,19.45,Miami Heat,Charlotte Bobcats,2,39-33,4,two point shot,False,18,True,True
+2014-11-16,25.8333333333,Miami Heat,Charlotte Bobcats,3,47-44,1,two point jumper,False,18,False,True
+2014-11-16,28.6333333333,Miami Heat,Charlotte Bobcats,3,54-49,3,layup,False,0,False,True
+2014-11-16,29.85,Miami Heat,Charlotte Bobcats,3,56-53,1,layup,False,0,True,True
+2014-11-16,44.1833333333,Miami Heat,Charlotte Bobcats,4,89-72,15,layup,False,0,True,True
+2014-11-16,47.5666666667,Miami Heat,Charlotte Bobcats,4,97-81,14,two point jumper,False,17,False,True
+2014-12-01,14.4,Miami Heat,Charlotte Bobcats,2,25-33,5,three point jumper,True,25,True,True
+2014-12-01,35.8666666667,Miami Heat,Charlotte Bobcats,3,73-61,-14,layup,True,0,False,True
+2014-12-01,41.1333333333,Miami Heat,Charlotte Bobcats,4,81-74,-9,two point jumper,True,16,True,True
+2014-01-18,9.35,Miami Heat,Charlotte Bobcats,1,23-21,0,layup,False,0,False,False
+2014-01-18,10.65,Miami Heat,Charlotte Bobcats,1,27-24,0,three point jumper,False,25,True,False
+2014-01-18,21.7166666667,Miami Heat,Charlotte Bobcats,2,50-57,-9,two point jumper,False,11,False,False
+2014-01-18,34.2666666667,Miami Heat,Charlotte Bobcats,3,70-74,-6,two point jumper,False,5,False,False
+2014-01-18,38.55,Miami Heat,Charlotte Bobcats,4,81-81,-3,three point jumper,False,23,False,False
+2014-11-03,11.9833333333,Miami Heat,Washington Wizards,1,27-33,3,three point jumper,True,26,False,False
+2014-11-03,12.9666666667,Miami Heat,Washington Wizards,2,29-33,2,two point jumper,True,14,False,False
+2014-11-03,17.3833333333,Miami Heat,Washington Wizards,2,34-44,7,three point jumper,True,24,True,False
+2014-11-03,34.1333333333,Miami Heat,Washington Wizards,3,59-82,20,three point jumper,True,26,True,False
+2014-11-03,35.9333333333,Miami Heat,Washington Wizards,3,64-87,20,three point jumper,True,27,True,False
+2014-11-20,11.3166666667,Miami Heat,Orlando Magic,1,25-20,2,three point jumper,False,26,True,False
+2014-11-20,14.7,Miami Heat,Orlando Magic,2,30-26,1,three point jumper,False,25,True,False
+2014-11-20,16.2833333333,Miami Heat,Orlando Magic,2,31-32,-3,two point jumper,False,12,False,False
+2014-11-20,37.8333333333,Miami Heat,Orlando Magic,4,90-71,17,layup,False,0,False,False
+2014-11-20,40.85,Miami Heat,Orlando Magic,4,102-76,23,three point jumper,False,26,True,False
+2014-11-20,41.6333333333,Miami Heat,Orlando Magic,4,102-76,24,two point jumper,False,7,False,False
+2014-11-23,10.2666666667,Miami Heat,Orlando Magic,1,14-13,-3,two point jumper,True,21,False,False
+2014-11-23,11.6833333333,Miami Heat,Orlando Magic,1,18-16,-5,three point jumper,True,24,False,False
+2014-11-23,15.3333333333,Miami Heat,Orlando Magic,2,31-20,-14,three point jumper,True,26,False,False
+2014-11-23,30.7833333333,Miami Heat,Orlando Magic,3,66-64,-5,three point jumper,True,25,True,False
+2014-11-23,31.85,Miami Heat,Orlando Magic,3,66-66,-2,two point jumper,True,20,True,False
+2014-11-23,35.9333333333,Miami Heat,Orlando Magic,3,77-71,-9,three point jumper,True,23,False,False
+2014-11-23,39.25,Miami Heat,Orlando Magic,4,82-78,-7,three point jumper,True,25,False,False
+2014-11-23,44.9833333333,Miami Heat,Orlando Magic,4,90-92,0,two point jumper,True,16,False,False
+2014-12-07,11.0166666667,Miami Heat,Minnesota Timberwolves,1,24-25,-3,two point jumper,False,22,False,False
+2014-12-07,15.5833333333,Miami Heat,Minnesota Timberwolves,2,35-27,6,two point jumper,False,14,False,False
+2014-12-07,21.1166666667,Miami Heat,Minnesota Timberwolves,2,51-36,12,three point jumper,False,23,False,False
+2014-12-07,37.3,Miami Heat,Minnesota Timberwolves,4,78-62,13,three point jumper,False,26,False,False
+2014-12-07,38.3,Miami Heat,Minnesota Timberwolves,4,82-62,18,layup,False,0,True,False
+2014-12-07,39.4333333333,Miami Heat,Minnesota Timberwolves,4,86-64,20,layup,False,0,True,False
+2014-12-16,12.6833333333,Miami Heat,Utah Jazz,2,22-29,4,three point jumper,True,23,True,False
+2014-12-16,16.1333333333,Miami Heat,Utah Jazz,2,31-32,-1,two point jumper,True,6,True,False
+2014-12-16,33.65,Miami Heat,Utah Jazz,3,68-80,10,two point shot,True,1,True,False
+2014-12-16,36.0,Miami Heat,Utah Jazz,3,71-83,9,three point jumper,True,30,False,False
+2014-12-16,37.75,Miami Heat,Utah Jazz,4,76-85,6,three point jumper,True,24,False,False
+2014-12-16,38.5666666667,Miami Heat,Utah Jazz,4,78-89,9,layup,True,0,True,False
+2014-12-16,41.45,Miami Heat,Utah Jazz,4,82-96,13,free throw,True,15,True,False
+2014-12-16,41.45,Miami Heat,Utah Jazz,4,82-97,14,free throw,True,15,True,False
+2014-12-16,46.1,Miami Heat,Utah Jazz,4,90-113,21,dunk,True,0,True,False
+2014-12-28,13.8166666667,Miami Heat,Portland Trail Blazers,2,32-36,-6,layup,False,0,False,True
+2014-12-28,21.2166666667,Miami Heat,Portland Trail Blazers,2,48-50,-5,three point jumper,False,24,True,True
+2014-12-28,35.0333333333,Miami Heat,Portland Trail Blazers,3,81-86,-7,layup,False,0,True,True
+2014-12-28,36.0,Miami Heat,Portland Trail Blazers,3,83-88,-7,layup,False,0,True,True
+2014-12-28,41.3833333333,Miami Heat,Portland Trail Blazers,4,89-92,-5,layup,False,0,False,True
+2014-12-28,42.7833333333,Miami Heat,Portland Trail Blazers,4,93-94,-3,layup,False,0,True,True
+2014-12-28,45.0,Miami Heat,Portland Trail Blazers,4,98-98,-2,layup,False,0,True,True
+2014-12-30,13.0666666667,Miami Heat,Denver Nuggets,2,31-32,-3,two point jumper,False,20,False,True
+2014-12-30,17.8833333333,Miami Heat,Denver Nuggets,2,35-39,-6,two point jumper,False,21,False,True
+2014-01-04,11.55,Miami Heat,Orlando Magic,1,28-24,1,three point jumper,False,25,True,False
+2014-01-04,18.1666666667,Miami Heat,Orlando Magic,2,40-36,1,three point jumper,False,26,False,False
+2014-01-04,38.5,Miami Heat,Orlando Magic,4,88-76,9,three point jumper,False,26,True,False
+2014-01-04,38.95,Miami Heat,Orlando Magic,4,88-76,10,layup,False,0,False,False
+2014-01-04,47.0333333333,Miami Heat,Orlando Magic,4,110-94,14,two point shot,False,20,True,False
+2014-01-15,1.31666666667,Miami Heat,Washington Wizards,1,2-4,-5,three point jumper,False,23,False,True
+2014-01-15,6.03333333333,Miami Heat,Washington Wizards,1,12-16,-7,three point jumper,False,24,False,True
+2014-01-15,9.85,Miami Heat,Washington Wizards,1,12-31,-21,two point jumper,False,18,False,True
+2014-01-15,18.75,Miami Heat,Washington Wizards,2,30-60,-32,two point jumper,False,19,True,True
+2014-01-15,19.85,Miami Heat,Washington Wizards,2,30-64,-36,two point jumper,False,21,False,True
+2014-01-15,29.45,Miami Heat,Washington Wizards,3,56-80,-27,three point jumper,False,23,True,True
+2014-01-15,32.3166666667,Miami Heat,Washington Wizards,3,66-84,-20,two point shot,False,1,True,True
+2014-01-15,33.4333333333,Miami Heat,Washington Wizards,3,69-84,-16,free throw,False,15,True,True
+2014-01-15,33.4333333333,Miami Heat,Washington Wizards,3,70-84,-15,free throw,False,15,True,True
+2014-01-15,35.0666666667,Miami Heat,Washington Wizards,3,75-84,-11,two point shot,False,17,True,True
+2014-01-15,39.0666666667,Miami Heat,Washington Wizards,4,83-92,-12,three point jumper,False,23,False,True
+2014-01-15,42.4833333333,Miami Heat,Washington Wizards,4,88-97,-11,two point shot,False,4,True,True
+2014-01-15,47.3833333333,Miami Heat,Washington Wizards,4,97-112,-17,layup,False,0,True,True
+2014-01-29,37.95,Miami Heat,Oklahoma City Thunder,4,96-75,-24,three point jumper,True,22,False,True
+2014-01-29,43.4833333333,Miami Heat,Oklahoma City Thunder,4,106-85,-23,two point jumper,True,1,False,True
+2014-02-08,11.15,Miami Heat,Utah Jazz,1,18-32,-16,two point jumper,False,20,False,False
+2014-02-08,14.3166666667,Miami Heat,Utah Jazz,2,24-34,-13,three point jumper,False,24,False,False
+2014-02-08,15.3333333333,Miami Heat,Utah Jazz,2,26-36,-12,two point jumper,False,1,True,False
+2014-02-08,17.95,Miami Heat,Utah Jazz,2,32-39,-10,three point jumper,False,23,True,False
+2014-02-08,18.75,Miami Heat,Utah Jazz,2,35-41,-9,three point jumper,False,23,True,False
+2014-02-08,19.4833333333,Miami Heat,Utah Jazz,2,35-43,-11,three point jumper,False,24,False,False
+2014-02-08,34.4833333333,Miami Heat,Utah Jazz,3,63-66,-4,free throw,False,15,False,False
+2014-02-08,34.4833333333,Miami Heat,Utah Jazz,3,64-66,-3,free throw,False,15,True,False
+2014-02-08,35.1,Miami Heat,Utah Jazz,3,64-68,-7,three point jumper,False,23,False,False
+2014-02-08,35.5,Miami Heat,Utah Jazz,3,66-68,-4,layup,False,0,True,False
+2014-02-08,41.6,Miami Heat,Utah Jazz,4,73-77,-5,free throw,False,15,False,False
+2014-02-08,41.6,Miami Heat,Utah Jazz,4,74-77,-4,free throw,False,15,True,False
+2014-02-20,15.4,Miami Heat,Oklahoma City Thunder,2,41-24,14,three point jumper,False,24,True,False
+2014-02-20,33.5,Miami Heat,Oklahoma City Thunder,3,76-60,14,two point jumper,False,5,False,False
+2014-02-20,34.5166666667,Miami Heat,Oklahoma City Thunder,3,76-63,11,unknown,False,5,False,False
+2014-02-20,35.0166666667,Miami Heat,Oklahoma City Thunder,3,76-65,8,three point jumper,False,25,False,False
+2014-02-20,47.4166666667,Miami Heat,Oklahoma City Thunder,4,103-81,20,two point shot,False,1,True,False
+2014-03-01,15.2,Miami Heat,Orlando Magic,2,35-39,2,layup,True,0,False,False
+2014-03-01,18.9833333333,Miami Heat,Orlando Magic,2,43-49,4,two point jumper,True,18,True,False
+2014-03-01,19.5333333333,Miami Heat,Orlando Magic,2,43-52,6,three point jumper,True,25,True,False
+2014-03-01,20.2833333333,Miami Heat,Orlando Magic,2,45-52,4,three point jumper,True,25,False,False
+2014-03-01,36.3833333333,Miami Heat,Orlando Magic,4,73-89,14,layup,True,0,False,False
+2014-03-01,38.4333333333,Miami Heat,Orlando Magic,4,77-96,16,three point jumper,True,24,False,False
+2014-03-01,38.95,Miami Heat,Orlando Magic,4,77-97,19,free throw,True,15,True,False
+2014-03-01,38.95,Miami Heat,Orlando Magic,4,77-98,20,free throw,True,15,True,False
+2014-03-01,39.5,Miami Heat,Orlando Magic,4,79-100,19,two point jumper,True,17,True,False
+2014-03-01,41.9833333333,Miami Heat,Orlando Magic,4,87-104,15,hook shot,True,5,False,False
+2014-03-01,45.9,Miami Heat,Orlando Magic,4,93-110,15,two point jumper,True,17,False,False

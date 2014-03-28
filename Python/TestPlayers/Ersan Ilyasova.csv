@@ -1,0 +1,550 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-11-01,4.16666666667,Milwaukee Bucks,Boston Celtics,1,4-4,-3,three point jumper,False,25,False,False
+2014-11-01,22.1166666667,Milwaukee Bucks,Boston Celtics,2,45-61,-18,two point shot,False,11,True,False
+2014-11-01,27.75,Milwaukee Bucks,Boston Celtics,3,50-68,-20,two point jumper,False,22,False,False
+2014-11-01,28.7,Milwaukee Bucks,Boston Celtics,3,50-70,-22,two point jumper,False,21,False,False
+2014-11-01,29.95,Milwaukee Bucks,Boston Celtics,3,54-72,-21,three point jumper,False,26,True,False
+2014-11-01,30.5666666667,Milwaukee Bucks,Boston Celtics,3,54-72,-20,two point jumper,False,19,False,False
+2014-12-03,11.1666666667,Milwaukee Bucks,Boston Celtics,1,21-26,-7,two point shot,False,1,True,False
+2014-12-03,14.55,Milwaukee Bucks,Boston Celtics,2,25-32,-9,two point jumper,False,19,False,False
+2014-12-03,31.75,Milwaukee Bucks,Boston Celtics,3,57-59,-4,two point shot,False,5,True,False
+2014-12-03,32.8333333333,Milwaukee Bucks,Boston Celtics,3,59-61,-4,layup,False,0,True,False
+2014-12-03,33.5333333333,Milwaukee Bucks,Boston Celtics,3,59-64,-7,two point jumper,False,23,False,False
+2014-12-03,41.85,Milwaukee Bucks,Boston Celtics,4,78-86,-9,free throw,False,15,True,False
+2014-12-07,10.65,Milwaukee Bucks,Brooklyn Nets,1,20-16,-6,two point jumper,True,1,True,False
+2014-12-07,11.3666666667,Milwaukee Bucks,Brooklyn Nets,1,20-16,-6,two point jumper,True,15,False,False
+2014-12-07,13.2,Milwaukee Bucks,Brooklyn Nets,2,22-18,-6,two point jumper,True,20,False,False
+2014-12-07,19.25,Milwaukee Bucks,Brooklyn Nets,2,31-34,1,two point jumper,True,1,True,False
+2014-12-07,22.35,Milwaukee Bucks,Brooklyn Nets,2,37-37,-3,three point jumper,True,26,False,False
+2014-12-07,33.1,Milwaukee Bucks,Brooklyn Nets,3,59-56,-5,two point jumper,True,8,False,False
+2014-12-27,1.18333333333,Milwaukee Bucks,Brooklyn Nets,1,1-0,0,free throw,False,15,True,True
+2014-12-27,1.18333333333,Milwaukee Bucks,Brooklyn Nets,1,2-0,1,free throw,False,15,True,True
+2014-12-27,3.43333333333,Milwaukee Bucks,Brooklyn Nets,1,2-8,-9,three point jumper,False,25,False,True
+2014-12-27,5.41666666667,Milwaukee Bucks,Brooklyn Nets,1,6-13,-9,tip shot,False,0,False,True
+2014-12-27,6.23333333333,Milwaukee Bucks,Brooklyn Nets,1,8-15,-9,two point jumper,False,5,False,True
+2014-12-27,7.98333333333,Milwaukee Bucks,Brooklyn Nets,1,10-18,-10,layup,False,0,False,True
+2014-12-27,9.15,Milwaukee Bucks,Brooklyn Nets,1,12-22,-13,three point jumper,False,26,False,True
+2014-12-27,17.45,Milwaukee Bucks,Brooklyn Nets,2,25-42,-19,two point jumper,False,3,True,True
+2014-12-27,18.7,Milwaukee Bucks,Brooklyn Nets,2,27-42,-18,three point jumper,False,24,False,True
+2014-12-27,20.5833333333,Milwaukee Bucks,Brooklyn Nets,2,31-44,-15,two point shot,False,1,True,True
+2014-12-27,23.4666666667,Milwaukee Bucks,Brooklyn Nets,2,37-48,-13,two point jumper,False,22,False,True
+2014-12-27,25.9333333333,Milwaukee Bucks,Brooklyn Nets,3,40-50,-13,three point jumper,False,23,False,True
+2014-12-27,27.3333333333,Milwaukee Bucks,Brooklyn Nets,3,42-55,-15,two point jumper,False,23,False,True
+2014-03-01,2.8,Milwaukee Bucks,Brooklyn Nets,1,5-5,-2,layup,True,0,False,True
+2014-03-01,2.81666666667,Milwaukee Bucks,Brooklyn Nets,1,5-7,0,layup,True,0,True,True
+2014-03-01,2.81666666667,Milwaukee Bucks,Brooklyn Nets,1,5-7,1,free throw,True,15,False,True
+2014-03-01,4.23333333333,Milwaukee Bucks,Brooklyn Nets,1,7-9,0,two point jumper,True,1,False,True
+2014-03-01,4.31666666667,Milwaukee Bucks,Brooklyn Nets,1,7-10,2,free throw,True,15,True,True
+2014-03-01,4.31666666667,Milwaukee Bucks,Brooklyn Nets,1,7-11,3,free throw,True,15,True,True
+2014-03-01,19.7333333333,Milwaukee Bucks,Brooklyn Nets,2,51-49,-5,three point jumper,True,27,True,True
+2014-03-01,23.0166666667,Milwaukee Bucks,Brooklyn Nets,2,55-53,-4,two point jumper,True,22,False,True
+2014-03-01,24.8166666667,Milwaukee Bucks,Brooklyn Nets,3,57-53,-6,two point jumper,True,1,False,True
+2014-03-01,27.1333333333,Milwaukee Bucks,Brooklyn Nets,3,61-57,-6,layup,True,0,True,True
+2014-03-01,28.2833333333,Milwaukee Bucks,Brooklyn Nets,3,65-58,-8,free throw,True,15,True,True
+2014-03-01,28.2833333333,Milwaukee Bucks,Brooklyn Nets,3,65-59,-7,free throw,True,15,True,True
+2014-03-01,30.1666666667,Milwaukee Bucks,Brooklyn Nets,3,68-62,-8,two point jumper,True,18,False,True
+2014-03-01,47.5,Milwaukee Bucks,Brooklyn Nets,4,104-96,-11,three point jumper,True,26,False,True
+2014-10-30,7.48333333333,Milwaukee Bucks,New York Knicks,1,8-15,-9,two point jumper,False,23,True,False
+2014-10-30,11.5833333333,Milwaukee Bucks,New York Knicks,1,18-22,-6,two point jumper,False,13,True,False
+2014-10-30,19.9833333333,Milwaukee Bucks,New York Knicks,2,29-42,-15,two point jumper,False,1,True,False
+2014-10-30,28.7333333333,Milwaukee Bucks,New York Knicks,3,41-60,-21,two point jumper,False,19,True,False
+2014-10-30,31.6333333333,Milwaukee Bucks,New York Knicks,3,50-65,-17,two point shot,False,1,True,False
+2014-12-18,2.25,Milwaukee Bucks,New York Knicks,1,8-8,-2,layup,True,0,True,False
+2014-12-18,4.1,Milwaukee Bucks,New York Knicks,1,11-10,-2,free throw,True,15,False,False
+2014-12-18,4.1,Milwaukee Bucks,New York Knicks,1,11-11,-1,free throw,True,15,True,False
+2014-12-18,7.03333333333,Milwaukee Bucks,New York Knicks,1,17-16,-4,three point jumper,True,26,False,False
+2014-12-18,7.35,Milwaukee Bucks,New York Knicks,1,17-18,-1,two point jumper,True,1,True,False
+2014-12-18,11.9666666667,Milwaukee Bucks,New York Knicks,1,22-22,-3,three point jumper,True,26,False,False
+2014-12-18,17.5,Milwaukee Bucks,New York Knicks,2,38-30,-9,free throw,True,15,True,False
+2014-12-18,17.5,Milwaukee Bucks,New York Knicks,2,38-31,-8,free throw,True,15,True,False
+2014-12-18,18.0666666667,Milwaukee Bucks,New York Knicks,2,38-31,-9,two point jumper,True,17,False,False
+2014-12-18,21.9333333333,Milwaukee Bucks,New York Knicks,2,45-40,-7,two point jumper,True,17,False,False
+2014-12-18,32.2666666667,Milwaukee Bucks,New York Knicks,3,60-61,-2,three point jumper,True,26,False,False
+2014-12-18,35.3166666667,Milwaukee Bucks,New York Knicks,3,65-66,-1,two point jumper,True,18,False,False
+2014-12-18,41.8833333333,Milwaukee Bucks,New York Knicks,4,73-73,-1,free throw,True,15,True,False
+2014-12-18,41.8833333333,Milwaukee Bucks,New York Knicks,4,73-74,0,free throw,True,15,True,False
+2014-12-18,47.4833333333,Milwaukee Bucks,New York Knicks,4,87-86,-2,free throw,True,15,True,False
+2014-12-18,47.4833333333,Milwaukee Bucks,New York Knicks,4,87-87,-1,free throw,True,15,True,False
+2014-12-18,49.9166666667,Milwaukee Bucks,New York Knicks,5,91-92,-1,layup,True,0,False,False
+2014-12-18,51.0333333333,Milwaukee Bucks,New York Knicks,5,94-92,-5,three point jumper,True,26,False,False
+2014-02-03,2.71666666667,Milwaukee Bucks,New York Knicks,1,0-6,4,tip shot,True,0,False,False
+2014-02-03,3.11666666667,Milwaukee Bucks,New York Knicks,1,0-8,6,two point jumper,True,20,True,False
+2014-02-03,3.7,Milwaukee Bucks,New York Knicks,1,3-8,3,two point shot,True,17,False,False
+2014-02-03,7.13333333333,Milwaukee Bucks,New York Knicks,1,7-13,3,three point jumper,True,23,False,False
+2014-02-03,16.75,Milwaukee Bucks,New York Knicks,2,31-29,-4,two point jumper,True,1,True,False
+2014-02-03,17.2833333333,Milwaukee Bucks,New York Knicks,2,31-29,-4,two point jumper,True,4,False,False
+2014-02-03,18.3833333333,Milwaukee Bucks,New York Knicks,2,31-30,-2,free throw,True,15,True,False
+2014-02-03,18.3833333333,Milwaukee Bucks,New York Knicks,2,31-31,-1,free throw,True,15,True,False
+2014-02-03,20.25,Milwaukee Bucks,New York Knicks,2,35-37,-1,three point jumper,True,24,True,False
+2014-02-03,24.7,Milwaukee Bucks,New York Knicks,3,45-50,3,two point jumper,True,1,False,False
+2014-02-03,28.0,Milwaukee Bucks,New York Knicks,3,49-56,6,free throw,True,15,True,False
+2014-02-03,28.0,Milwaukee Bucks,New York Knicks,3,49-57,7,free throw,True,15,True,False
+2014-02-03,32.9,Milwaukee Bucks,New York Knicks,3,60-64,2,two point jumper,True,16,False,False
+2014-02-03,39.9333333333,Milwaukee Bucks,New York Knicks,4,73-83,8,layup,True,0,True,False
+2014-02-03,46.0,Milwaukee Bucks,New York Knicks,4,92-92,-2,tip shot,True,0,False,False
+2014-11-22,1.51666666667,Milwaukee Bucks,Philadelphia 76ers,1,2-3,-3,hook shot,False,5,False,False
+2014-11-22,2.15,Milwaukee Bucks,Philadelphia 76ers,1,2-5,-5,two point jumper,False,1,False,False
+2014-11-22,3.0,Milwaukee Bucks,Philadelphia 76ers,1,3-7,-6,two point jumper,False,20,False,False
+2014-11-22,6.41666666667,Milwaukee Bucks,Philadelphia 76ers,1,13-17,-6,two point jumper,False,17,True,False
+2014-11-22,6.88333333333,Milwaukee Bucks,Philadelphia 76ers,1,15-17,-4,two point jumper,False,1,True,False
+2014-11-22,8.9,Milwaukee Bucks,Philadelphia 76ers,1,15-21,-9,three point jumper,False,23,False,False
+2014-11-22,15.3833333333,Milwaukee Bucks,Philadelphia 76ers,2,28-39,-13,two point jumper,False,22,True,False
+2014-11-22,19.4166666667,Milwaukee Bucks,Philadelphia 76ers,2,39-47,-10,two point shot,False,1,True,False
+2014-11-22,19.8166666667,Milwaukee Bucks,Philadelphia 76ers,2,41-47,-8,two point jumper,False,21,True,False
+2014-11-22,20.3,Milwaukee Bucks,Philadelphia 76ers,2,41-47,-9,three point jumper,False,26,False,False
+2014-11-22,21.0,Milwaukee Bucks,Philadelphia 76ers,2,43-49,-8,two point jumper,False,19,True,False
+2014-11-22,24.5666666667,Milwaukee Bucks,Philadelphia 76ers,3,55-57,-4,two point jumper,False,19,True,False
+2014-11-22,27.7,Milwaukee Bucks,Philadelphia 76ers,3,60-59,-1,two point shot,False,10,True,False
+2014-11-22,31.7,Milwaukee Bucks,Philadelphia 76ers,3,66-70,-6,two point jumper,False,14,False,False
+2014-11-22,44.0166666667,Milwaukee Bucks,Philadelphia 76ers,4,90-83,4,three point jumper,False,23,True,False
+2014-11-22,51.0,Milwaukee Bucks,Philadelphia 76ers,5,105-108,-5,two point jumper,False,22,False,False
+2014-11-22,52.8833333333,Milwaukee Bucks,Philadelphia 76ers,5,107-115,-11,three point jumper,False,28,False,False
+2014-02-24,3.51666666667,Milwaukee Bucks,Philadelphia 76ers,1,8-8,-2,layup,False,0,True,True
+2014-02-24,3.88333333333,Milwaukee Bucks,Philadelphia 76ers,1,10-10,-2,two point shot,False,8,True,True
+2014-02-24,5.78333333333,Milwaukee Bucks,Philadelphia 76ers,1,17-14,1,two point shot,False,15,True,True
+2014-02-24,7.38333333333,Milwaukee Bucks,Philadelphia 76ers,1,22-17,3,two point jumper,False,22,False,True
+2014-02-24,19.9833333333,Milwaukee Bucks,Philadelphia 76ers,2,61-38,21,layup,False,0,True,True
+2014-02-24,22.55,Milwaukee Bucks,Philadelphia 76ers,2,69-44,22,three point jumper,False,25,False,True
+2014-02-24,29.7,Milwaukee Bucks,Philadelphia 76ers,3,86-59,25,layup,False,0,True,True
+2014-02-24,29.8833333333,Milwaukee Bucks,Philadelphia 76ers,3,87-59,27,free throw,False,15,True,True
+2014-02-24,29.8833333333,Milwaukee Bucks,Philadelphia 76ers,3,88-59,28,free throw,False,15,True,True
+2014-02-24,31.0333333333,Milwaukee Bucks,Philadelphia 76ers,3,94-66,26,layup,False,0,True,True
+2014-02-24,32.4333333333,Milwaukee Bucks,Philadelphia 76ers,3,95-71,23,free throw,False,15,True,True
+2014-02-24,32.4333333333,Milwaukee Bucks,Philadelphia 76ers,3,96-71,24,free throw,False,15,True,True
+2014-02-24,33.3,Milwaukee Bucks,Philadelphia 76ers,3,98-73,23,two point jumper,False,1,True,True
+2014-02-24,34.1666666667,Milwaukee Bucks,Philadelphia 76ers,3,99-75,23,free throw,False,15,True,True
+2014-02-24,34.1666666667,Milwaukee Bucks,Philadelphia 76ers,3,100-75,24,free throw,False,15,True,True
+2014-11-02,1.43333333333,Milwaukee Bucks,Toronto Raptors,1,2-4,0,layup,True,0,True,False
+2014-11-02,3.15,Milwaukee Bucks,Toronto Raptors,1,6-6,-2,two point jumper,True,21,False,False
+2014-11-02,7.16666666667,Milwaukee Bucks,Toronto Raptors,1,14-13,-3,two point jumper,True,1,True,False
+2014-11-02,7.75,Milwaukee Bucks,Toronto Raptors,1,14-13,-3,two point jumper,True,1,False,False
+2014-11-02,15.8833333333,Milwaukee Bucks,Toronto Raptors,2,32-28,-7,three point jumper,True,25,True,False
+2014-11-02,16.4833333333,Milwaukee Bucks,Toronto Raptors,2,34-31,-6,three point jumper,True,26,True,False
+2014-11-02,17.4833333333,Milwaukee Bucks,Toronto Raptors,2,34-31,-5,two point jumper,True,18,False,False
+2014-11-02,22.9,Milwaukee Bucks,Toronto Raptors,2,47-44,-5,two point jumper,True,1,False,False
+2014-11-02,25.6166666667,Milwaukee Bucks,Toronto Raptors,3,53-48,-7,layup,True,0,True,False
+2014-11-02,26.3333333333,Milwaukee Bucks,Toronto Raptors,3,55-48,-9,two point jumper,True,13,False,False
+2014-11-02,26.95,Milwaukee Bucks,Toronto Raptors,3,57-48,-11,two point jumper,True,21,False,False
+2014-11-02,29.5333333333,Milwaukee Bucks,Toronto Raptors,3,57-55,-4,two point jumper,True,1,True,False
+2014-01-13,2.13333333333,Milwaukee Bucks,Toronto Raptors,1,5-2,1,two point shot,False,1,True,True
+2014-01-13,5.23333333333,Milwaukee Bucks,Toronto Raptors,1,9-12,-5,unknown,False,6,False,True
+2014-01-13,6.45,Milwaukee Bucks,Toronto Raptors,1,11-17,-8,two point jumper,False,1,True,True
+2014-01-13,6.95,Milwaukee Bucks,Toronto Raptors,1,13-17,-6,two point jumper,False,3,True,True
+2014-01-13,7.48333333333,Milwaukee Bucks,Toronto Raptors,1,16-17,-4,three point jumper,False,25,True,True
+2014-01-13,15.8833333333,Milwaukee Bucks,Toronto Raptors,2,32-46,-17,three point jumper,False,27,True,True
+2014-01-13,17.45,Milwaukee Bucks,Toronto Raptors,2,33-50,-18,free throw,False,15,True,True
+2014-01-13,17.45,Milwaukee Bucks,Toronto Raptors,2,34-50,-17,free throw,False,15,True,True
+2014-01-13,21.75,Milwaukee Bucks,Toronto Raptors,2,45-56,-14,three point jumper,False,27,True,True
+2014-01-13,22.4833333333,Milwaukee Bucks,Toronto Raptors,2,47-56,-11,two point shot,False,3,True,True
+2014-01-13,26.8166666667,Milwaukee Bucks,Toronto Raptors,3,56-65,-11,two point jumper,False,20,False,True
+2014-01-13,27.0,Milwaukee Bucks,Toronto Raptors,3,56-65,-11,two point shot,False,20,False,True
+2014-01-13,29.6333333333,Milwaukee Bucks,Toronto Raptors,3,60-73,-15,two point shot,False,1,True,True
+2014-01-13,30.1,Milwaukee Bucks,Toronto Raptors,3,60-75,-17,two point jumper,False,16,False,True
+2014-01-13,30.8166666667,Milwaukee Bucks,Toronto Raptors,3,61-75,-15,free throw,False,15,True,True
+2014-01-13,30.8166666667,Milwaukee Bucks,Toronto Raptors,3,62-75,-14,free throw,False,15,True,True
+2014-01-13,31.4166666667,Milwaukee Bucks,Toronto Raptors,3,64-75,-13,two point shot,False,2,True,True
+2014-01-13,32.2,Milwaukee Bucks,Toronto Raptors,3,66-78,-14,two point shot,False,17,True,True
+2014-01-13,32.7833333333,Milwaukee Bucks,Toronto Raptors,3,66-80,-16,tip shot,False,0,False,True
+2014-01-13,45.95,Milwaukee Bucks,Toronto Raptors,4,85-114,-31,layup,False,0,True,True
+2014-01-07,2.7,Milwaukee Bucks,Golden State Warriors,1,4-4,-2,layup,True,0,False,True
+2014-01-07,4.78333333333,Milwaukee Bucks,Golden State Warriors,1,11-11,-3,three point jumper,True,26,True,True
+2014-01-07,6.38333333333,Milwaukee Bucks,Golden State Warriors,1,13-13,-2,two point jumper,True,15,False,True
+2014-01-07,7.21666666667,Milwaukee Bucks,Golden State Warriors,1,15-17,0,layup,True,0,True,True
+2014-01-07,9.75,Milwaukee Bucks,Golden State Warriors,1,21-25,2,two point jumper,True,17,True,True
+2014-01-07,19.3833333333,Milwaukee Bucks,Golden State Warriors,2,46-39,-8,free throw,True,15,True,True
+2014-01-07,19.3833333333,Milwaukee Bucks,Golden State Warriors,2,46-40,-7,free throw,True,15,True,True
+2014-01-07,20.3333333333,Milwaukee Bucks,Golden State Warriors,2,48-42,-9,three point jumper,True,27,False,True
+2014-01-07,21.05,Milwaukee Bucks,Golden State Warriors,2,50-42,-9,free throw,True,15,False,True
+2014-01-07,21.05,Milwaukee Bucks,Golden State Warriors,2,50-43,-8,free throw,True,15,True,True
+2014-01-07,21.6833333333,Milwaukee Bucks,Golden State Warriors,2,50-43,-9,two point jumper,True,20,False,True
+2014-01-07,23.15,Milwaukee Bucks,Golden State Warriors,2,50-44,-7,free throw,True,15,True,True
+2014-01-07,23.15,Milwaukee Bucks,Golden State Warriors,2,50-45,-6,free throw,True,15,True,True
+2014-01-07,25.6166666667,Milwaukee Bucks,Golden State Warriors,3,55-48,-9,two point jumper,True,18,False,True
+2014-01-07,26.0,Milwaukee Bucks,Golden State Warriors,3,57-51,-9,three point jumper,True,25,True,True
+2014-01-07,26.5,Milwaukee Bucks,Golden State Warriors,3,57-53,-6,two point jumper,True,20,True,True
+2014-01-07,28.7833333333,Milwaukee Bucks,Golden State Warriors,3,63-55,-10,two point jumper,True,8,False,True
+2014-01-07,30.0333333333,Milwaukee Bucks,Golden State Warriors,3,68-55,-16,three point jumper,True,23,False,True
+2014-01-07,31.1666666667,Milwaukee Bucks,Golden State Warriors,3,73-57,-18,two point shot,True,5,True,True
+2014-01-07,42.95,Milwaukee Bucks,Golden State Warriors,4,87-74,-14,free throw,True,15,True,True
+2014-01-07,42.95,Milwaukee Bucks,Golden State Warriors,4,87-74,-14,free throw,True,15,False,True
+2014-01-07,44.1,Milwaukee Bucks,Golden State Warriors,4,90-75,-18,three point jumper,True,26,False,True
+2014-01-07,45.2666666667,Milwaukee Bucks,Golden State Warriors,4,95-75,-22,two point jumper,True,7,False,True
+2014-01-27,0.55,Milwaukee Bucks,Los Angeles Clippers,1,2-2,-2,two point jumper,True,18,True,True
+2014-01-27,1.71666666667,Milwaukee Bucks,Los Angeles Clippers,1,5-4,-4,three point jumper,True,26,False,True
+2014-01-27,3.45,Milwaukee Bucks,Los Angeles Clippers,1,12-7,-8,three point jumper,True,25,True,True
+2014-01-27,4.06666666667,Milwaukee Bucks,Los Angeles Clippers,1,14-7,-9,layup,True,0,False,True
+2014-01-27,4.53333333333,Milwaukee Bucks,Los Angeles Clippers,1,16-7,-12,three point jumper,True,26,False,True
+2014-01-27,17.7,Milwaukee Bucks,Los Angeles Clippers,2,43-34,-11,layup,True,0,False,True
+2014-01-27,19.0666666667,Milwaukee Bucks,Los Angeles Clippers,2,45-36,-11,two point jumper,True,19,False,True
+2014-01-27,21.7166666667,Milwaukee Bucks,Los Angeles Clippers,2,52-36,-18,layup,True,0,False,True
+2014-01-27,23.5333333333,Milwaukee Bucks,Los Angeles Clippers,2,62-40,-23,free throw,True,15,False,True
+2014-01-27,23.5333333333,Milwaukee Bucks,Los Angeles Clippers,2,62-41,-22,free throw,True,15,True,True
+2014-01-27,25.0166666667,Milwaukee Bucks,Los Angeles Clippers,3,66-43,-25,two point jumper,True,20,True,True
+2014-01-27,25.5666666667,Milwaukee Bucks,Los Angeles Clippers,3,69-43,-28,two point jumper,True,18,False,True
+2014-01-27,26.7,Milwaukee Bucks,Los Angeles Clippers,3,69-45,-26,layup,True,0,False,True
+2014-01-27,28.1666666667,Milwaukee Bucks,Los Angeles Clippers,3,72-49,-25,layup,True,0,True,True
+2014-01-27,30.0,Milwaukee Bucks,Los Angeles Clippers,3,75-51,-26,tip shot,True,0,False,True
+2014-01-27,30.7833333333,Milwaukee Bucks,Los Angeles Clippers,3,75-54,-24,three point jumper,True,26,False,True
+2014-01-27,32.2,Milwaukee Bucks,Los Angeles Clippers,3,77-56,-24,three point jumper,True,26,False,True
+2014-01-27,32.2833333333,Milwaukee Bucks,Los Angeles Clippers,3,77-56,-23,two point jumper,True,1,False,True
+2014-01-27,40.3166666667,Milwaukee Bucks,Los Angeles Clippers,4,95-63,-34,two point jumper,True,18,False,True
+2014-01-27,45.0333333333,Milwaukee Bucks,Los Angeles Clippers,4,109-74,-38,three point jumper,True,25,False,True
+2014-01-27,45.9,Milwaukee Bucks,Los Angeles Clippers,4,112-77,-36,free throw,True,15,True,True
+2014-01-27,45.9,Milwaukee Bucks,Los Angeles Clippers,4,112-78,-35,free throw,True,15,True,True
+2014-01-27,47.05,Milwaukee Bucks,Los Angeles Clippers,4,112-84,-30,layup,True,0,True,True
+2014-01-27,47.5833333333,Milwaukee Bucks,Los Angeles Clippers,4,114-86,-30,layup,True,0,True,True
+2014-12-31,2.11666666667,Milwaukee Bucks,Los Angeles Lakers,1,2-0,0,layup,False,0,True,True
+2014-12-31,3.31666666667,Milwaukee Bucks,Los Angeles Lakers,1,2-0,0,tip shot,False,0,False,True
+2014-12-31,3.33333333333,Milwaukee Bucks,Los Angeles Lakers,1,4-0,2,two point shot,False,1,True,True
+2014-12-31,3.7,Milwaukee Bucks,Los Angeles Lakers,1,6-0,4,layup,False,0,True,True
+2014-12-31,7.2,Milwaukee Bucks,Los Angeles Lakers,1,14-2,10,two point jumper,False,21,False,True
+2014-12-31,8.95,Milwaukee Bucks,Los Angeles Lakers,1,21-4,15,two point jumper,False,19,True,True
+2014-12-31,18.5333333333,Milwaukee Bucks,Los Angeles Lakers,2,34-23,8,three point jumper,False,25,False,True
+2014-12-31,19.6,Milwaukee Bucks,Los Angeles Lakers,2,36-25,9,two point shot,False,6,False,True
+2014-12-31,21.2,Milwaukee Bucks,Los Angeles Lakers,2,40-28,10,two point jumper,False,20,False,True
+2014-12-31,29.3833333333,Milwaukee Bucks,Los Angeles Lakers,3,53-42,9,two point jumper,False,1,False,True
+2014-12-31,31.3166666667,Milwaukee Bucks,Los Angeles Lakers,3,60-44,14,two point shot,False,20,True,True
+2014-12-31,42.5666666667,Milwaukee Bucks,Los Angeles Lakers,4,84-68,14,two point shot,False,19,True,True
+2014-12-31,43.85,Milwaukee Bucks,Los Angeles Lakers,4,85-71,13,free throw,False,15,False,True
+2014-12-31,43.85,Milwaukee Bucks,Los Angeles Lakers,4,86-71,14,free throw,False,15,True,True
+2014-12-31,45.9666666667,Milwaukee Bucks,Los Angeles Lakers,4,88-77,9,layup,False,0,True,True
+2014-12-31,47.7666666667,Milwaukee Bucks,Los Angeles Lakers,4,92-79,11,two point jumper,False,19,False,True
+2014-01-04,1.68333333333,Milwaukee Bucks,Phoenix Suns,1,2-3,-3,two point shot,False,1,True,False
+2014-01-04,4.38333333333,Milwaukee Bucks,Phoenix Suns,1,9-11,-4,two point jumper,False,1,True,False
+2014-01-04,18.1666666667,Milwaukee Bucks,Phoenix Suns,2,32-48,-19,three point jumper,False,25,False,False
+2014-01-04,20.3333333333,Milwaukee Bucks,Phoenix Suns,2,33-50,-20,three point jumper,False,24,False,False
+2014-01-04,22.4833333333,Milwaukee Bucks,Phoenix Suns,2,42-58,-18,layup,False,0,True,False
+2014-01-04,22.4833333333,Milwaukee Bucks,Phoenix Suns,2,42-58,-17,free throw,False,15,False,False
+2014-01-04,22.8666666667,Milwaukee Bucks,Phoenix Suns,2,44-58,-16,dunk,False,0,True,False
+2014-01-04,25.5166666667,Milwaukee Bucks,Phoenix Suns,3,49-61,-15,three point jumper,False,25,False,False
+2014-01-04,28.5333333333,Milwaukee Bucks,Phoenix Suns,3,55-74,-21,two point jumper,False,10,True,False
+2014-01-04,30.0333333333,Milwaukee Bucks,Phoenix Suns,3,59-78,-21,layup,False,0,True,False
+2014-01-29,3.18333333333,Milwaukee Bucks,Phoenix Suns,1,11-5,-9,three point jumper,True,23,False,False
+2014-01-29,4.2,Milwaukee Bucks,Phoenix Suns,1,13-9,-6,layup,True,0,False,False
+2014-01-29,4.53333333333,Milwaukee Bucks,Phoenix Suns,1,13-11,-4,two point jumper,True,18,True,False
+2014-01-29,6.28333333333,Milwaukee Bucks,Phoenix Suns,1,18-11,-10,three point jumper,True,25,False,False
+2014-01-29,12.7,Milwaukee Bucks,Phoenix Suns,2,32-21,-13,layup,True,0,True,False
+2014-01-29,14.75,Milwaukee Bucks,Phoenix Suns,2,32-25,-9,two point jumper,True,1,False,False
+2014-01-29,14.95,Milwaukee Bucks,Phoenix Suns,2,32-27,-7,layup,True,0,True,False
+2014-01-29,17.6333333333,Milwaukee Bucks,Phoenix Suns,2,42-30,-15,three point jumper,True,23,True,False
+2014-01-29,25.0666666667,Milwaukee Bucks,Phoenix Suns,3,64-50,-17,three point jumper,True,25,False,False
+2014-01-29,26.1166666667,Milwaukee Bucks,Phoenix Suns,3,66-53,-14,free throw,True,15,True,False
+2014-01-29,26.1166666667,Milwaukee Bucks,Phoenix Suns,3,66-54,-13,free throw,True,15,True,False
+2014-01-29,27.1166666667,Milwaukee Bucks,Phoenix Suns,3,69-57,-13,free throw,True,15,True,False
+2014-01-29,27.1166666667,Milwaukee Bucks,Phoenix Suns,3,69-58,-12,free throw,True,15,True,False
+2014-01-29,38.6333333333,Milwaukee Bucks,Phoenix Suns,4,98-90,-10,two point jumper,True,15,True,False
+2014-01-29,39.25,Milwaukee Bucks,Phoenix Suns,4,98-90,-10,hook shot,True,6,False,False
+2014-01-29,40.0666666667,Milwaukee Bucks,Phoenix Suns,4,100-93,-10,three point jumper,True,27,True,False
+2014-01-29,41.45,Milwaukee Bucks,Phoenix Suns,4,105-97,-10,layup,True,0,False,False
+2014-01-29,42.35,Milwaukee Bucks,Phoenix Suns,4,107-98,-10,free throw,True,15,True,False
+2014-01-29,42.35,Milwaukee Bucks,Phoenix Suns,4,107-99,-9,free throw,True,15,True,False
+2014-01-29,43.1333333333,Milwaukee Bucks,Phoenix Suns,4,109-102,-10,three point jumper,True,24,True,False
+2014-01-29,44.7,Milwaukee Bucks,Phoenix Suns,4,116-105,-12,free throw,True,15,True,False
+2014-01-29,44.7,Milwaukee Bucks,Phoenix Suns,4,116-106,-11,free throw,True,15,True,False
+2014-01-29,47.0833333333,Milwaukee Bucks,Phoenix Suns,4,124-113,-12,free throw,True,15,True,False
+2014-01-29,47.0833333333,Milwaukee Bucks,Phoenix Suns,4,124-114,-11,free throw,True,15,True,False
+2014-12-10,11.0333333333,Milwaukee Bucks,Chicago Bulls,1,18-14,2,two point jumper,False,21,True,True
+2014-12-10,14.3333333333,Milwaukee Bucks,Chicago Bulls,2,21-20,-1,two point jumper,False,16,False,True
+2014-12-10,16.85,Milwaukee Bucks,Chicago Bulls,2,27-26,-2,three point jumper,False,25,False,True
+2014-12-10,19.6,Milwaukee Bucks,Chicago Bulls,2,29-32,-5,two point jumper,False,19,False,True
+2014-12-10,20.9,Milwaukee Bucks,Chicago Bulls,2,31-38,-9,two point jumper,False,19,True,True
+2014-12-10,22.9,Milwaukee Bucks,Chicago Bulls,2,33-40,-9,two point jumper,False,22,True,True
+2014-12-10,33.4833333333,Milwaukee Bucks,Chicago Bulls,3,47-54,-10,three point jumper,False,25,False,True
+2014-12-10,37.6333333333,Milwaukee Bucks,Chicago Bulls,4,59-59,-2,two point jumper,False,1,True,True
+2014-12-10,40.4166666667,Milwaukee Bucks,Chicago Bulls,4,65-62,1,two point jumper,False,21,False,True
+2014-12-10,47.9333333333,Milwaukee Bucks,Chicago Bulls,4,76-72,3,free throw,False,15,True,True
+2014-12-10,47.9333333333,Milwaukee Bucks,Chicago Bulls,4,77-72,4,free throw,False,15,True,True
+2014-12-13,10.5833333333,Milwaukee Bucks,Chicago Bulls,1,26-16,-12,two point jumper,True,1,False,False
+2014-12-13,14.5,Milwaukee Bucks,Chicago Bulls,2,28-20,-10,two point jumper,True,15,False,False
+2014-12-13,14.7166666667,Milwaukee Bucks,Chicago Bulls,2,28-20,-10,tip shot,True,0,False,False
+2014-12-13,15.25,Milwaukee Bucks,Chicago Bulls,2,29-20,-10,free throw,True,15,False,False
+2014-12-13,15.25,Milwaukee Bucks,Chicago Bulls,2,29-21,-9,free throw,True,15,True,False
+2014-12-13,31.6,Milwaukee Bucks,Chicago Bulls,3,55-63,5,three point jumper,True,26,False,False
+2014-12-13,32.25,Milwaukee Bucks,Chicago Bulls,3,57-65,6,two point jumper,True,1,True,False
+2014-01-10,2.36666666667,Milwaukee Bucks,Chicago Bulls,1,0-5,2,three point jumper,True,25,True,False
+2014-01-10,3.83333333333,Milwaukee Bucks,Chicago Bulls,1,1-10,7,two point jumper,True,9,True,False
+2014-01-10,4.95,Milwaukee Bucks,Chicago Bulls,1,3-12,7,two point jumper,True,20,True,False
+2014-01-10,18.9166666667,Milwaukee Bucks,Chicago Bulls,2,35-34,-3,two point jumper,True,1,False,False
+2014-01-10,20.75,Milwaukee Bucks,Chicago Bulls,2,36-37,-2,three point jumper,True,23,True,False
+2014-01-10,24.45,Milwaukee Bucks,Chicago Bulls,3,47-45,-4,two point jumper,True,14,False,False
+2014-01-10,25.0166666667,Milwaukee Bucks,Chicago Bulls,3,47-45,-4,two point jumper,True,1,False,False
+2014-01-10,28.1666666667,Milwaukee Bucks,Chicago Bulls,3,53-45,-10,two point jumper,True,15,False,False
+2014-01-10,30.2,Milwaukee Bucks,Chicago Bulls,3,59-47,-14,two point jumper,True,22,False,False
+2014-01-10,31.85,Milwaukee Bucks,Chicago Bulls,3,59-50,-11,two point jumper,True,1,False,False
+2014-01-10,32.3333333333,Milwaukee Bucks,Chicago Bulls,3,62-52,-12,two point shot,True,1,True,False
+2014-01-10,42.3166666667,Milwaukee Bucks,Chicago Bulls,4,71-70,-3,two point jumper,True,21,True,False
+2014-01-10,45.7666666667,Milwaukee Bucks,Chicago Bulls,4,77-72,-7,layup,True,0,False,False
+2014-01-24,5.13333333333,Milwaukee Bucks,Cleveland Cavaliers,1,11-10,-1,two point shot,False,16,False,False
+2014-01-24,6.21666666667,Milwaukee Bucks,Cleveland Cavaliers,1,11-14,-5,two point shot,False,13,False,False
+2014-01-24,9.75,Milwaukee Bucks,Cleveland Cavaliers,1,14-23,-11,hook shot,False,8,False,False
+2014-01-24,15.75,Milwaukee Bucks,Cleveland Cavaliers,2,27-33,-8,two point jumper,False,17,True,False
+2014-01-24,16.45,Milwaukee Bucks,Cleveland Cavaliers,2,27-35,-11,three point jumper,False,25,False,False
+2014-01-24,17.1666666667,Milwaukee Bucks,Cleveland Cavaliers,2,27-37,-12,two point shot,False,20,False,False
+2014-01-24,24.7,Milwaukee Bucks,Cleveland Cavaliers,3,37-49,-14,unknown,False,6,False,False
+2014-01-24,26.8833333333,Milwaukee Bucks,Cleveland Cavaliers,3,44-52,-11,three point jumper,False,25,True,False
+2014-01-24,28.5,Milwaukee Bucks,Cleveland Cavaliers,3,44-54,-12,two point shot,False,15,False,False
+2014-01-24,30.2833333333,Milwaukee Bucks,Cleveland Cavaliers,3,46-58,-15,three point jumper,False,23,False,False
+2014-11-25,1.05,Milwaukee Bucks,Detroit Pistons,1,2-4,-4,two point jumper,False,17,True,True
+2014-11-25,2.5,Milwaukee Bucks,Detroit Pistons,1,2-10,-10,two point jumper,False,19,False,True
+2014-11-25,19.0666666667,Milwaukee Bucks,Detroit Pistons,2,28-57,-32,three point jumper,False,26,False,True
+2014-12-04,7.6,Milwaukee Bucks,Detroit Pistons,1,18-9,-12,three point jumper,True,28,False,True
+2014-12-04,7.78333333333,Milwaukee Bucks,Detroit Pistons,1,18-10,-9,free throw,True,15,True,True
+2014-12-04,7.78333333333,Milwaukee Bucks,Detroit Pistons,1,18-11,-8,free throw,True,15,True,True
+2014-12-04,8.5,Milwaukee Bucks,Detroit Pistons,1,18-11,-10,three point jumper,True,26,False,True
+2014-12-04,9.93333333333,Milwaukee Bucks,Detroit Pistons,1,22-15,-9,layup,True,0,True,True
+2014-12-04,11.0833333333,Milwaukee Bucks,Detroit Pistons,1,24-17,-9,two point jumper,True,14,False,True
+2014-12-04,12.8333333333,Milwaukee Bucks,Detroit Pistons,2,26-20,-7,free throw,True,15,True,True
+2014-12-04,12.8333333333,Milwaukee Bucks,Detroit Pistons,2,26-21,-6,free throw,True,15,True,True
+2014-12-04,14.5,Milwaukee Bucks,Detroit Pistons,2,30-25,-7,layup,True,0,True,True
+2014-12-04,15.7666666667,Milwaukee Bucks,Detroit Pistons,2,30-30,-2,layup,True,0,True,True
+2014-12-04,16.3833333333,Milwaukee Bucks,Detroit Pistons,2,31-33,-1,three point jumper,True,25,True,True
+2014-12-04,17.5666666667,Milwaukee Bucks,Detroit Pistons,2,31-36,2,three point jumper,True,27,True,True
+2014-12-04,20.15,Milwaukee Bucks,Detroit Pistons,2,38-41,1,layup,True,0,False,True
+2014-12-04,21.3,Milwaukee Bucks,Detroit Pistons,2,41-43,0,tip shot,True,0,False,True
+2014-12-04,35.5166666667,Milwaukee Bucks,Detroit Pistons,3,80-67,-15,two point jumper,True,1,True,True
+2014-12-04,36.15,Milwaukee Bucks,Detroit Pistons,4,80-69,-13,layup,True,0,True,True
+2014-12-04,36.5666666667,Milwaukee Bucks,Detroit Pistons,4,80-71,-11,layup,True,0,True,True
+2014-12-04,36.5666666667,Milwaukee Bucks,Detroit Pistons,4,80-71,-10,free throw,True,15,False,True
+2014-12-04,38.25,Milwaukee Bucks,Detroit Pistons,4,83-73,-13,three point jumper,True,23,False,True
+2014-12-04,39.6166666667,Milwaukee Bucks,Detroit Pistons,4,83-73,-12,two point jumper,True,20,False,True
+2014-12-04,42.2166666667,Milwaukee Bucks,Detroit Pistons,4,89-75,-16,two point jumper,True,7,False,True
+2014-12-04,45.2166666667,Milwaukee Bucks,Detroit Pistons,4,94-87,-9,tip shot,True,0,False,True
+2014-12-04,45.2333333333,Milwaukee Bucks,Detroit Pistons,4,94-87,-9,tip shot,True,0,False,True
+2014-12-04,46.3666666667,Milwaukee Bucks,Detroit Pistons,4,98-90,-10,two point shot,True,25,False,True
+2014-01-22,1.0,Milwaukee Bucks,Detroit Pistons,1,2-4,0,two point jumper,True,1,True,True
+2014-01-22,2.25,Milwaukee Bucks,Detroit Pistons,1,6-4,-4,two point jumper,True,20,False,True
+2014-01-22,3.05,Milwaukee Bucks,Detroit Pistons,1,8-4,-6,two point jumper,True,7,False,True
+2014-01-22,4.81666666667,Milwaukee Bucks,Detroit Pistons,1,12-5,-10,three point jumper,True,26,False,True
+2014-01-22,9.4,Milwaukee Bucks,Detroit Pistons,1,24-19,-7,two point shot,True,1,True,True
+2014-01-22,10.4,Milwaukee Bucks,Detroit Pistons,1,24-23,-3,layup,True,0,True,True
+2014-01-22,19.6666666667,Milwaukee Bucks,Detroit Pistons,2,42-44,0,layup,True,0,True,True
+2014-01-22,20.2166666667,Milwaukee Bucks,Detroit Pistons,2,42-44,0,two point jumper,True,17,False,True
+2014-01-22,22.0333333333,Milwaukee Bucks,Detroit Pistons,2,46-48,0,layup,True,0,True,True
+2014-01-22,23.4333333333,Milwaukee Bucks,Detroit Pistons,2,51-50,-4,three point jumper,True,26,False,True
+2014-01-22,29.45,Milwaukee Bucks,Detroit Pistons,3,72-63,-11,two point jumper,True,21,True,True
+2014-01-22,29.85,Milwaukee Bucks,Detroit Pistons,3,73-63,-13,three point jumper,True,26,False,True
+2014-02-22,0.566666666667,Milwaukee Bucks,Indiana Pacers,1,2-2,-2,two point jumper,True,22,True,False
+2014-02-22,2.96666666667,Milwaukee Bucks,Indiana Pacers,1,8-4,-7,three point jumper,True,23,False,False
+2014-02-22,5.38333333333,Milwaukee Bucks,Indiana Pacers,1,12-7,-7,two point jumper,True,22,False,False
+2014-02-22,29.1,Milwaukee Bucks,Indiana Pacers,3,60-54,-8,layup,True,0,True,False
+2014-02-22,29.1,Milwaukee Bucks,Indiana Pacers,3,60-55,-6,free throw,True,15,True,False
+2014-02-22,29.85,Milwaukee Bucks,Indiana Pacers,3,60-58,-5,three point jumper,True,24,True,False
+2014-02-22,31.25,Milwaukee Bucks,Indiana Pacers,3,66-60,-9,three point jumper,True,25,False,False
+2014-02-22,41.95,Milwaukee Bucks,Indiana Pacers,4,91-84,-9,two point jumper,True,20,True,False
+2014-02-22,45.7333333333,Milwaukee Bucks,Indiana Pacers,4,102-95,-9,two point jumper,True,21,True,False
+2014-02-27,1.15,Milwaukee Bucks,Indiana Pacers,1,2-2,-2,layup,False,0,True,True
+2014-02-27,3.2,Milwaukee Bucks,Indiana Pacers,1,5-9,-6,layup,False,0,False,True
+2014-02-27,6.41666666667,Milwaukee Bucks,Indiana Pacers,1,11-18,-9,layup,False,0,True,True
+2014-02-27,19.7333333333,Milwaukee Bucks,Indiana Pacers,2,36-44,-10,two point jumper,False,19,False,True
+2014-02-27,20.0833333333,Milwaukee Bucks,Indiana Pacers,2,38-44,-7,free throw,False,15,True,True
+2014-02-27,20.0833333333,Milwaukee Bucks,Indiana Pacers,2,38-44,-7,free throw,False,15,True,True
+2014-02-27,47.8666666667,Milwaukee Bucks,Indiana Pacers,4,94-99,-8,three point jumper,False,27,True,True
+2014-02-27,48.0,Milwaukee Bucks,Indiana Pacers,4,96-101,-7,tip shot,False,0,False,True
+2014-11-20,8.9,Milwaukee Bucks,Portland Trail Blazers,1,18-19,-1,layup,True,0,False,False
+2014-11-20,12.75,Milwaukee Bucks,Portland Trail Blazers,2,26-26,-2,two point jumper,True,1,False,False
+2014-11-20,34.85,Milwaukee Bucks,Portland Trail Blazers,3,70-62,-11,three point jumper,True,23,True,False
+2014-11-20,35.9166666667,Milwaukee Bucks,Portland Trail Blazers,3,70-64,-8,two point jumper,True,7,True,False
+2014-11-20,41.1,Milwaukee Bucks,Portland Trail Blazers,4,82-75,-9,two point shot,True,8,False,False
+2014-11-20,46.1333333333,Milwaukee Bucks,Portland Trail Blazers,4,89-78,-14,three point jumper,True,24,False,False
+2014-11-20,47.45,Milwaukee Bucks,Portland Trail Blazers,4,89-82,-9,two point jumper,True,1,False,False
+2014-11-20,47.7833333333,Milwaukee Bucks,Portland Trail Blazers,4,91-82,-12,three point jumper,True,25,False,False
+2014-11-23,3.81666666667,Milwaukee Bucks,Charlotte Bobcats,1,7-6,-3,two point shot,True,1,True,False
+2014-11-23,4.41666666667,Milwaukee Bucks,Charlotte Bobcats,1,9-6,-5,two point jumper,True,20,False,False
+2014-11-23,4.98333333333,Milwaukee Bucks,Charlotte Bobcats,1,11-8,-5,two point shot,True,1,True,False
+2014-11-23,7.73333333333,Milwaukee Bucks,Charlotte Bobcats,1,22-12,-12,layup,True,0,True,False
+2014-11-23,19.3166666667,Milwaukee Bucks,Charlotte Bobcats,2,39-35,-7,three point jumper,True,25,False,False
+2014-11-23,27.2,Milwaukee Bucks,Charlotte Bobcats,3,55-41,-17,three point jumper,True,26,False,False
+2014-11-23,27.9333333333,Milwaukee Bucks,Charlotte Bobcats,3,57-42,-16,free throw,True,15,True,False
+2014-11-23,27.9333333333,Milwaukee Bucks,Charlotte Bobcats,3,57-42,-16,free throw,True,15,False,False
+2014-11-27,1.25,Milwaukee Bucks,Washington Wizards,1,2-5,1,layup,True,0,True,True
+2014-11-27,1.93333333333,Milwaukee Bucks,Washington Wizards,1,2-7,3,two point jumper,True,21,True,True
+2014-11-27,2.96666666667,Milwaukee Bucks,Washington Wizards,1,2-9,4,three point jumper,True,26,False,True
+2014-11-27,22.8333333333,Milwaukee Bucks,Washington Wizards,2,47-44,-5,two point jumper,True,1,True,True
+2014-11-27,23.9666666667,Milwaukee Bucks,Washington Wizards,2,49-48,-3,two point jumper,True,22,True,True
+2014-11-27,28.4166666667,Milwaukee Bucks,Washington Wizards,3,58-56,-4,two point jumper,True,22,True,True
+2014-11-27,51.7666666667,Milwaukee Bucks,Washington Wizards,5,96-92,-6,layup,True,0,True,True
+2014-11-29,1.31666666667,Milwaukee Bucks,Charlotte Bobcats,1,0-2,-4,two point jumper,False,16,False,False
+2014-11-29,4.5,Milwaukee Bucks,Charlotte Bobcats,1,6-3,1,two point jumper,False,17,False,False
+2014-11-29,4.85,Milwaukee Bucks,Charlotte Bobcats,1,6-3,1,two point jumper,False,23,False,False
+2014-11-29,8.9,Milwaukee Bucks,Charlotte Bobcats,1,16-13,1,layup,False,0,False,False
+2014-11-29,14.7166666667,Milwaukee Bucks,Charlotte Bobcats,2,22-29,-9,two point jumper,False,10,False,False
+2014-11-29,16.8833333333,Milwaukee Bucks,Charlotte Bobcats,2,24-34,-12,two point jumper,False,22,False,False
+2014-12-06,0.75,Milwaukee Bucks,Washington Wizards,1,0-2,-4,two point jumper,False,20,False,True
+2014-12-06,9.41666666667,Milwaukee Bucks,Washington Wizards,1,26-22,3,free throw,False,15,False,True
+2014-12-06,9.41666666667,Milwaukee Bucks,Washington Wizards,1,27-22,4,free throw,False,15,True,True
+2014-12-06,18.6,Milwaukee Bucks,Washington Wizards,2,42-38,1,three point jumper,False,24,False,True
+2014-12-06,19.0666666667,Milwaukee Bucks,Washington Wizards,2,42-40,-1,three point jumper,False,26,False,True
+2014-12-06,19.9833333333,Milwaukee Bucks,Washington Wizards,2,44-40,2,two point jumper,False,23,True,True
+2014-12-06,32.8166666667,Milwaukee Bucks,Washington Wizards,3,72-63,7,layup,False,0,False,True
+2014-12-06,34.0833333333,Milwaukee Bucks,Washington Wizards,3,74-68,4,two point jumper,False,1,False,True
+2014-12-06,34.35,Milwaukee Bucks,Washington Wizards,3,74-68,3,three point jumper,False,26,False,True
+2014-12-06,36.8666666667,Milwaukee Bucks,Washington Wizards,4,79-76,2,free throw,False,15,True,True
+2014-12-06,36.8666666667,Milwaukee Bucks,Washington Wizards,4,80-76,3,free throw,False,15,True,True
+2014-12-06,49.8,Milwaukee Bucks,Washington Wizards,5,106-102,2,layup,False,0,True,True
+2014-12-11,6.21666666667,Milwaukee Bucks,San Antonio Spurs,1,17-6,-13,two point jumper,True,1,False,True
+2014-12-11,12.65,Milwaukee Bucks,San Antonio Spurs,2,34-18,-18,two point jumper,True,13,False,True
+2014-12-11,13.1166666667,Milwaukee Bucks,San Antonio Spurs,2,34-21,-16,three point jumper,True,24,True,True
+2014-12-11,15.45,Milwaukee Bucks,San Antonio Spurs,2,38-26,-14,two point jumper,True,1,False,True
+2014-12-11,15.8833333333,Milwaukee Bucks,San Antonio Spurs,2,41-28,-15,two point jumper,True,20,True,True
+2014-12-11,17.7333333333,Milwaukee Bucks,San Antonio Spurs,2,43-30,-15,layup,True,0,False,True
+2014-12-11,19.45,Milwaukee Bucks,San Antonio Spurs,2,49-30,-22,three point jumper,True,25,False,True
+2014-12-11,22.4166666667,Milwaukee Bucks,San Antonio Spurs,2,57-36,-23,layup,True,0,False,True
+2014-12-11,22.4833333333,Milwaukee Bucks,San Antonio Spurs,2,57-36,-23,tip shot,True,0,False,True
+2014-12-11,23.1,Milwaukee Bucks,San Antonio Spurs,2,59-38,-23,two point jumper,True,14,False,True
+2014-12-11,29.3166666667,Milwaukee Bucks,San Antonio Spurs,3,76-45,-33,two point jumper,True,10,False,True
+2014-12-11,33.9666666667,Milwaukee Bucks,San Antonio Spurs,3,84-49,-36,free throw,True,15,False,True
+2014-12-11,33.9666666667,Milwaukee Bucks,San Antonio Spurs,3,84-50,-35,free throw,True,15,True,True
+2014-12-11,34.4666666667,Milwaukee Bucks,San Antonio Spurs,3,86-52,-36,two point jumper,True,1,True,True
+2014-12-11,35.45,Milwaukee Bucks,San Antonio Spurs,3,90-52,-41,three point jumper,True,25,False,True
+2014-12-11,36.0,Milwaukee Bucks,San Antonio Spurs,3,92-54,-41,three point jumper,True,34,False,True
+2014-12-11,39.7,Milwaukee Bucks,San Antonio Spurs,4,96-60,-38,two point jumper,True,21,False,True
+2014-12-11,44.5666666667,Milwaukee Bucks,San Antonio Spurs,4,103-68,-37,two point shot,True,11,False,True
+2014-12-14,5.2,Milwaukee Bucks,Dallas Mavericks,1,10-9,-1,two point shot,False,23,False,True
+2014-12-14,19.7833333333,Milwaukee Bucks,Dallas Mavericks,2,38-50,-13,free throw,False,15,True,True
+2014-12-14,19.7833333333,Milwaukee Bucks,Dallas Mavericks,2,39-50,-12,free throw,False,15,True,True
+2014-12-14,22.1333333333,Milwaukee Bucks,Dallas Mavericks,2,41-56,-17,two point jumper,False,6,False,True
+2014-12-28,0.45,Milwaukee Bucks,Minnesota Timberwolves,1,0-0,-2,layup,True,0,False,True
+2014-12-28,4.16666666667,Milwaukee Bucks,Minnesota Timberwolves,1,10-8,-4,two point jumper,True,6,True,True
+2014-12-28,7.66666666667,Milwaukee Bucks,Minnesota Timberwolves,1,19-19,-3,three point jumper,True,23,False,True
+2014-12-28,24.5166666667,Milwaukee Bucks,Minnesota Timberwolves,3,64-55,-12,three point jumper,True,26,False,True
+2014-12-28,25.05,Milwaukee Bucks,Minnesota Timberwolves,3,66-55,-13,two point jumper,True,1,False,True
+2014-12-28,26.3166666667,Milwaukee Bucks,Minnesota Timberwolves,3,70-55,-17,two point jumper,True,6,False,True
+2014-12-28,27.8833333333,Milwaukee Bucks,Minnesota Timberwolves,3,77-55,-25,three point jumper,True,26,False,True
+2014-12-28,42.4833333333,Milwaukee Bucks,Minnesota Timberwolves,4,107-90,-19,layup,True,0,True,True
+2014-12-28,47.4166666667,Milwaukee Bucks,Minnesota Timberwolves,4,115-93,-24,tip shot,True,0,False,True
+2014-01-02,0.633333333333,Milwaukee Bucks,Utah Jazz,1,2-0,0,layup,False,0,True,False
+2014-01-02,1.5,Milwaukee Bucks,Utah Jazz,1,4-0,2,layup,False,0,True,False
+2014-01-02,2.31666666667,Milwaukee Bucks,Utah Jazz,1,4-3,-1,two point shot,False,1,False,False
+2014-01-02,3.68333333333,Milwaukee Bucks,Utah Jazz,1,6-8,-4,layup,False,0,True,False
+2014-01-02,8.73333333333,Milwaukee Bucks,Utah Jazz,1,16-12,1,three point jumper,False,25,False,False
+2014-01-02,26.5,Milwaukee Bucks,Utah Jazz,3,48-57,-11,two point jumper,False,14,False,False
+2014-01-02,29.2,Milwaukee Bucks,Utah Jazz,3,50-63,-15,two point jumper,False,23,False,False
+2014-01-02,29.5,Milwaukee Bucks,Utah Jazz,3,52-63,-13,layup,False,0,True,False
+2014-01-02,30.45,Milwaukee Bucks,Utah Jazz,3,52-63,-13,two point jumper,False,1,False,False
+2014-01-11,1.4,Milwaukee Bucks,Oklahoma City Thunder,1,0-4,-7,three point jumper,False,24,False,True
+2014-01-11,2.75,Milwaukee Bucks,Oklahoma City Thunder,1,0-4,-6,two point jumper,False,19,False,True
+2014-01-11,15.4,Milwaukee Bucks,Oklahoma City Thunder,2,17-22,-7,two point jumper,False,1,True,True
+2014-01-11,16.7333333333,Milwaukee Bucks,Oklahoma City Thunder,2,17-26,-12,three point jumper,False,25,False,True
+2014-01-11,21.0166666667,Milwaukee Bucks,Oklahoma City Thunder,2,25-37,-14,layup,False,0,False,True
+2014-01-11,25.2166666667,Milwaukee Bucks,Oklahoma City Thunder,3,42-44,-5,three point jumper,False,25,True,True
+2014-01-11,39.0,Milwaukee Bucks,Oklahoma City Thunder,4,75-81,-9,three point jumper,False,26,True,True
+2014-01-15,3.08333333333,Milwaukee Bucks,Memphis Grizzlies,1,0-6,4,two point jumper,True,1,False,False
+2014-01-15,4.31666666667,Milwaukee Bucks,Memphis Grizzlies,1,1-6,2,three point jumper,True,26,False,False
+2014-01-15,24.7666666667,Milwaukee Bucks,Memphis Grizzlies,3,42-39,-5,two point jumper,True,16,True,False
+2014-01-15,27.8166666667,Milwaukee Bucks,Memphis Grizzlies,3,47-41,-8,layup,True,0,False,False
+2014-01-15,38.6333333333,Milwaukee Bucks,Memphis Grizzlies,4,62-60,-4,tip shot,True,0,False,False
+2014-01-15,38.65,Milwaukee Bucks,Memphis Grizzlies,4,62-60,-4,tip shot,True,0,False,False
+2014-01-15,39.0833333333,Milwaukee Bucks,Memphis Grizzlies,4,62-60,-4,two point jumper,True,21,False,False
+2014-01-15,44.0,Milwaukee Bucks,Memphis Grizzlies,4,76-67,-11,tip shot,True,0,False,False
+2014-01-15,44.95,Milwaukee Bucks,Memphis Grizzlies,4,78-71,-9,layup,True,0,True,False
+2014-01-18,0.333333333333,Milwaukee Bucks,Houston Rockets,1,0-0,-2,two point jumper,False,12,False,False
+2014-01-18,1.7,Milwaukee Bucks,Houston Rockets,1,1-6,-6,free throw,False,15,True,False
+2014-01-18,1.7,Milwaukee Bucks,Houston Rockets,1,2-6,-5,free throw,False,15,True,False
+2014-01-18,2.56666666667,Milwaukee Bucks,Houston Rockets,1,4-8,-6,two point shot,False,17,False,False
+2014-01-18,30.3166666667,Milwaukee Bucks,Houston Rockets,3,66-75,-12,three point jumper,False,25,True,False
+2014-01-19,3.51666666667,Milwaukee Bucks,San Antonio Spurs,1,8-8,-2,two point jumper,False,11,False,True
+2014-01-19,4.31666666667,Milwaukee Bucks,San Antonio Spurs,1,10-10,-2,two point jumper,False,1,True,True
+2014-01-19,22.4833333333,Milwaukee Bucks,San Antonio Spurs,2,36-49,-15,two point shot,False,14,False,True
+2014-01-19,26.5666666667,Milwaukee Bucks,San Antonio Spurs,3,41-58,-20,three point jumper,False,24,False,True
+2014-01-19,28.95,Milwaukee Bucks,San Antonio Spurs,3,46-64,-20,two point jumper,False,17,False,True
+2014-01-25,0.383333333333,Milwaukee Bucks,Atlanta Hawks,1,0-0,-2,two point jumper,True,15,False,True
+2014-01-25,2.58333333333,Milwaukee Bucks,Atlanta Hawks,1,4-5,-2,three point jumper,True,25,False,True
+2014-01-25,3.61666666667,Milwaukee Bucks,Atlanta Hawks,1,6-7,-1,layup,True,0,True,True
+2014-01-25,4.66666666667,Milwaukee Bucks,Atlanta Hawks,1,7-11,2,two point jumper,True,1,True,True
+2014-01-25,7.2,Milwaukee Bucks,Atlanta Hawks,1,13-14,-2,three point jumper,True,24,False,True
+2014-01-25,18.7,Milwaukee Bucks,Atlanta Hawks,2,45-35,-12,layup,True,0,True,True
+2014-01-25,19.3166666667,Milwaukee Bucks,Atlanta Hawks,2,45-35,-12,two point jumper,True,19,False,True
+2014-01-25,20.25,Milwaukee Bucks,Atlanta Hawks,2,47-35,-14,layup,True,0,False,True
+2014-01-25,20.2833333333,Milwaukee Bucks,Atlanta Hawks,2,47-35,-14,tip shot,True,0,False,True
+2014-01-25,20.3166666667,Milwaukee Bucks,Atlanta Hawks,2,47-37,-12,layup,True,0,True,True
+2014-01-25,20.9333333333,Milwaukee Bucks,Atlanta Hawks,2,49-37,-14,tip shot,True,0,False,True
+2014-01-25,21.25,Milwaukee Bucks,Atlanta Hawks,2,49-40,-11,layup,True,0,True,True
+2014-01-25,21.25,Milwaukee Bucks,Atlanta Hawks,2,49-40,-10,free throw,True,15,True,True
+2014-01-25,21.6833333333,Milwaukee Bucks,Atlanta Hawks,2,49-40,-12,three point jumper,True,26,False,True
+2014-01-25,25.3833333333,Milwaukee Bucks,Atlanta Hawks,3,63-45,-20,two point jumper,True,18,False,True
+2014-01-25,27.1833333333,Milwaukee Bucks,Atlanta Hawks,3,69-47,-24,layup,True,0,False,True
+2014-01-31,1.36666666667,Milwaukee Bucks,Orlando Magic,1,1-3,-4,layup,False,0,False,False
+2014-01-31,17.1,Milwaukee Bucks,Orlando Magic,2,30-49,-21,layup,False,0,False,False
+2014-01-31,18.7833333333,Milwaukee Bucks,Orlando Magic,2,32-51,-21,two point jumper,False,5,False,False
+2014-01-31,21.15,Milwaukee Bucks,Orlando Magic,2,40-56,-19,three point jumper,False,25,True,False
+2014-01-31,21.65,Milwaukee Bucks,Orlando Magic,2,43-58,-18,three point jumper,False,25,True,False
+2014-01-31,26.2666666667,Milwaukee Bucks,Orlando Magic,3,48-69,-23,two point jumper,False,18,True,False
+2014-01-31,28.2,Milwaukee Bucks,Orlando Magic,3,54-72,-20,two point shot,False,22,True,False
+2014-01-31,28.85,Milwaukee Bucks,Orlando Magic,3,54-75,-24,three point jumper,False,25,False,False
+2014-01-31,29.2166666667,Milwaukee Bucks,Orlando Magic,3,54-75,-23,two point jumper,False,22,False,False
+2014-01-31,30.4166666667,Milwaukee Bucks,Orlando Magic,3,56-77,-23,two point shot,False,19,False,False
+2014-01-31,31.0333333333,Milwaukee Bucks,Orlando Magic,3,56-77,-23,two point jumper,False,5,False,False
+2014-02-01,0.583333333333,Milwaukee Bucks,Memphis Grizzlies,1,3-0,0,three point jumper,False,24,True,False
+2014-02-01,1.21666666667,Milwaukee Bucks,Memphis Grizzlies,1,3-0,1,two point jumper,False,22,False,False
+2014-02-01,5.21666666667,Milwaukee Bucks,Memphis Grizzlies,1,12-3,7,two point shot,False,16,False,False
+2014-02-01,7.41666666667,Milwaukee Bucks,Memphis Grizzlies,1,12-11,-1,two point jumper,False,5,False,False
+2014-02-01,8.76666666667,Milwaukee Bucks,Memphis Grizzlies,1,15-13,-1,three point jumper,False,26,True,False
+2014-02-01,10.05,Milwaukee Bucks,Memphis Grizzlies,1,17-15,0,layup,False,0,True,False
+2014-02-01,15.45,Milwaukee Bucks,Memphis Grizzlies,2,34-23,9,two point shot,False,11,True,False
+2014-02-01,17.1,Milwaukee Bucks,Memphis Grizzlies,2,38-26,10,layup,False,0,True,False
+2014-02-01,23.7666666667,Milwaukee Bucks,Memphis Grizzlies,2,49-40,7,two point shot,False,1,False,False
+2014-02-01,24.8166666667,Milwaukee Bucks,Memphis Grizzlies,3,51-45,3,unknown,False,25,False,False
+2014-02-01,32.3,Milwaukee Bucks,Memphis Grizzlies,3,61-53,7,free throw,False,15,True,False
+2014-02-01,32.3,Milwaukee Bucks,Memphis Grizzlies,3,62-53,8,free throw,False,15,True,False
+2014-02-01,32.3,Milwaukee Bucks,Memphis Grizzlies,3,62-53,8,free throw,False,15,False,False
+2014-02-01,33.95,Milwaukee Bucks,Memphis Grizzlies,3,64-58,4,two point shot,False,21,False,False
+2014-02-05,1.15,Milwaukee Bucks,Denver Nuggets,1,2-0,0,layup,False,0,False,False
+2014-02-05,4.6,Milwaukee Bucks,Denver Nuggets,1,9-6,0,three point jumper,False,25,False,False
+2014-02-05,5.48333333333,Milwaukee Bucks,Denver Nuggets,1,9-8,-1,tip shot,False,0,False,False
+2014-02-05,14.05,Milwaukee Bucks,Denver Nuggets,2,27-33,-9,three point jumper,False,25,False,False
+2014-02-05,14.3333333333,Milwaukee Bucks,Denver Nuggets,2,29-33,-6,two point jumper,False,20,True,False
+2014-02-05,16.0333333333,Milwaukee Bucks,Denver Nuggets,2,33-36,-5,two point jumper,False,19,True,False
+2014-02-05,18.2,Milwaukee Bucks,Denver Nuggets,2,39-38,-1,two point jumper,False,21,False,False
+2014-02-05,20.2166666667,Milwaukee Bucks,Denver Nuggets,2,39-45,-8,layup,False,0,False,False
+2014-02-05,20.55,Milwaukee Bucks,Denver Nuggets,2,43-45,-4,two point jumper,False,16,True,False
+2014-02-05,20.85,Milwaukee Bucks,Denver Nuggets,2,45-45,-2,two point jumper,False,17,True,False
+2014-02-05,23.2166666667,Milwaukee Bucks,Denver Nuggets,2,50-49,-1,layup,False,0,False,False
+2014-02-05,26.25,Milwaukee Bucks,Denver Nuggets,3,57-55,-1,three point jumper,False,26,False,False
+2014-02-05,26.7,Milwaukee Bucks,Denver Nuggets,3,57-57,-2,two point jumper,False,18,False,False
+2014-02-05,28.0333333333,Milwaukee Bucks,Denver Nuggets,3,59-61,-4,two point jumper,False,15,False,False
+2014-02-12,2.0,Milwaukee Bucks,New Orleans Pelicans,1,4-2,-3,free throw,True,15,False,True
+2014-02-12,2.0,Milwaukee Bucks,New Orleans Pelicans,1,4-3,-2,free throw,True,15,True,True
+2014-02-12,3.95,Milwaukee Bucks,New Orleans Pelicans,1,8-7,-3,two point jumper,True,19,True,True
+2014-02-12,5.28333333333,Milwaukee Bucks,New Orleans Pelicans,1,12-11,-3,dunk,True,0,True,True
+2014-02-12,6.28333333333,Milwaukee Bucks,New Orleans Pelicans,1,14-11,-5,layup,True,0,False,True
+2014-02-12,7.35,Milwaukee Bucks,New Orleans Pelicans,1,16-13,-5,two point jumper,True,20,False,True
+2014-02-12,16.3833333333,Milwaukee Bucks,New Orleans Pelicans,2,35-31,-6,two point jumper,True,22,False,True
+2014-02-12,20.1833333333,Milwaukee Bucks,New Orleans Pelicans,2,39-40,0,free throw,True,15,True,True
+2014-02-12,20.1833333333,Milwaukee Bucks,New Orleans Pelicans,2,39-41,1,free throw,True,15,True,True
+2014-02-12,21.25,Milwaukee Bucks,New Orleans Pelicans,2,41-44,2,free throw,True,15,True,True
+2014-02-12,21.25,Milwaukee Bucks,New Orleans Pelicans,2,41-45,3,free throw,True,15,True,True
+2014-02-12,21.6166666667,Milwaukee Bucks,New Orleans Pelicans,2,41-47,4,layup,True,0,True,True
+2014-02-12,24.3833333333,Milwaukee Bucks,New Orleans Pelicans,3,46-49,1,layup,True,0,False,True
+2014-02-12,27.8833333333,Milwaukee Bucks,New Orleans Pelicans,3,52-57,3,layup,True,0,False,True
+2014-02-12,31.6333333333,Milwaukee Bucks,New Orleans Pelicans,3,67-64,-4,free throw,True,15,False,True
+2014-02-12,31.6333333333,Milwaukee Bucks,New Orleans Pelicans,3,67-64,-4,free throw,True,15,False,True
+2014-02-12,42.8833333333,Milwaukee Bucks,New Orleans Pelicans,4,94-90,-6,two point shot,True,12,True,True
+2014-02-12,45.25,Milwaukee Bucks,New Orleans Pelicans,4,96-92,-6,two point jumper,True,21,False,True
+2014-02-12,47.1333333333,Milwaukee Bucks,New Orleans Pelicans,4,100-98,-5,three point jumper,True,26,True,True
+2014-02-18,3.75,Milwaukee Bucks,Orlando Magic,1,8-5,-6,three point jumper,True,26,True,True
+2014-02-18,4.2,Milwaukee Bucks,Orlando Magic,1,8-7,-3,layup,True,0,True,True
+2014-02-18,5.28333333333,Milwaukee Bucks,Orlando Magic,1,11-9,-5,three point jumper,True,26,False,True
+2014-02-18,23.5666666667,Milwaukee Bucks,Orlando Magic,2,45-50,3,layup,True,0,False,True
+2014-02-18,24.8333333333,Milwaukee Bucks,Orlando Magic,3,49-55,4,two point jumper,True,1,True,True
+2014-02-18,25.5,Milwaukee Bucks,Orlando Magic,3,52-55,1,two point jumper,True,1,False,True
+2014-02-18,28.7833333333,Milwaukee Bucks,Orlando Magic,3,59-63,2,two point jumper,True,22,False,True
+2014-02-18,30.3833333333,Milwaukee Bucks,Orlando Magic,3,66-67,-1,two point jumper,True,1,False,True
+2014-02-18,47.85,Milwaukee Bucks,Orlando Magic,4,97-101,3,free throw,True,15,True,True
+2014-02-18,47.85,Milwaukee Bucks,Orlando Magic,4,97-102,4,free throw,True,15,True,True
+2014-02-20,0.95,Milwaukee Bucks,Denver Nuggets,1,3-2,-3,two point shot,True,1,True,True
+2014-02-20,1.31666666667,Milwaukee Bucks,Denver Nuggets,1,3-2,-3,two point jumper,True,13,False,True
+2014-02-20,5.03333333333,Milwaukee Bucks,Denver Nuggets,1,11-7,-7,three point jumper,True,26,False,True
+2014-02-20,6.16666666667,Milwaukee Bucks,Denver Nuggets,1,16-9,-9,two point jumper,True,17,False,True
+2014-02-20,14.7,Milwaukee Bucks,Denver Nuggets,2,33-27,-8,two point jumper,True,7,False,True
+2014-02-20,20.2166666667,Milwaukee Bucks,Denver Nuggets,2,45-37,-10,layup,True,0,True,True
+2014-02-20,20.8666666667,Milwaukee Bucks,Denver Nuggets,2,45-37,-10,two point jumper,True,1,False,True
+2014-02-20,22.5,Milwaukee Bucks,Denver Nuggets,2,45-42,-5,layup,True,0,False,True
+2014-02-20,25.25,Milwaukee Bucks,Denver Nuggets,3,50-46,-6,layup,True,0,True,True
+2014-02-20,28.3166666667,Milwaukee Bucks,Denver Nuggets,3,56-53,-6,three point jumper,True,26,True,True
+2014-02-20,29.75,Milwaukee Bucks,Denver Nuggets,3,62-53,-10,free throw,True,15,False,True
+2014-02-20,29.75,Milwaukee Bucks,Denver Nuggets,3,62-54,-9,free throw,True,15,True,True
+2014-02-20,42.7333333333,Milwaukee Bucks,Denver Nuggets,4,86-75,-13,layup,True,0,False,True
+2014-02-20,46.0833333333,Milwaukee Bucks,Denver Nuggets,4,97-84,-16,three point jumper,True,25,False,True
+2014-02-20,46.5833333333,Milwaukee Bucks,Denver Nuggets,4,97-85,-13,free throw,True,15,True,True
+2014-02-20,46.5833333333,Milwaukee Bucks,Denver Nuggets,4,97-86,-12,free throw,True,15,True,True
+2014-02-20,47.4,Milwaukee Bucks,Denver Nuggets,4,101-90,-13,layup,True,0,True,True

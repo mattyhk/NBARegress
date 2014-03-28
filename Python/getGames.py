@@ -8,7 +8,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime, date
 import csv
 
-years = [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013]
+# years = [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013]
+years = [2014]
 teams = pd.read_csv('teams.csv', index_col=0, sep='\t')
 # print teams
 # {0} = prefix_1, {1} = year, {2} = prefix_2
@@ -35,8 +36,6 @@ overtime = []
 for year in years:
   print 'year is now ' + str(year)
   for index, row in teams.iterrows():
-    # print '>>>>>>>>>>>>>>>>>>>>>>>>>new team<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<'
-    # print 'team is: ' + str(index)
     _team = index
     r = requests.get(BASE_URL.format(row['prefix_1'], year, row['prefix_2']))
     table = BeautifulSoup(r.text).table
@@ -44,13 +43,10 @@ for year in years:
       columns = row.find_all('td')
       try:
         _id = columns[2].a['href'].split('?id=')[1]
-        # print 'game is: ' + str(_id)
         _home = True if columns[1].li.text == 'vs' else False
         _other_team = columns[1].find_all('a')[1]['href']
         _other_team = _other_team.split('/')[-1:][0]
-        # _other_team = teams['name'][teams['prefix_2'] == _other_team]
         _other_team = teamDict[_other_team]
-        # print "the other team is: " + str(_other_team)
         _score = columns[2].a.text.split(' ')[0].split('-')
         _extratime = True if len(columns[2].a.text.split(' ')) == 2 and columns[2].a.text.split(' ')[1] == 'OT' else False
         _won = True if columns[2].span.text == 'W' else False
@@ -86,21 +82,13 @@ for year in years:
             visit_team_score.append(_score[1])
 
       except Exception as e:
-        # print 'exception is '
-        # print e
         pass
 
 dic = {'id': game_id, 'date': dates, 'home_team': home_team, 'visit_team': visit_team,
         'home_team_score': home_team_score, 'visit_team_score': visit_team_score, 'overtime': overtime}
 
-print len(dic['id'])
-print len(dic['date'])
-print len(dic['home_team'])
-print len(dic['visit_team'])
-print len(dic['home_team_score'])
-print len(dic['visit_team_score'])
-print len(dic['overtime'])
 
 games = pd.DataFrame(dic).drop_duplicates(cols='id').set_index('id')
 
-games.to_csv('games.csv')
+# games.to_csv('games.csv')
+games.to_csv('2014games.csv')

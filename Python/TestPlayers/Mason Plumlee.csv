@@ -1,0 +1,270 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-12-10,14.0,Brooklyn Nets,Boston Celtics,2,24-36,11,free throw,True,15,True,False
+2014-12-10,14.0,Brooklyn Nets,Boston Celtics,2,24-37,12,free throw,True,15,True,False
+2014-12-10,37.8833333333,Brooklyn Nets,Boston Celtics,4,78-88,9,free throw,True,15,True,False
+2014-12-10,37.8833333333,Brooklyn Nets,Boston Celtics,4,78-89,10,free throw,True,15,True,False
+2014-11-03,45.6,Brooklyn Nets,Orlando Magic,4,84-101,-19,dunk,False,0,True,True
+2014-11-05,14.55,Brooklyn Nets,Utah Jazz,2,22-28,4,layup,True,0,False,False
+2014-11-05,35.3166666667,Brooklyn Nets,Utah Jazz,3,61-85,23,free throw,True,15,True,False
+2014-11-05,35.3166666667,Brooklyn Nets,Utah Jazz,3,61-85,23,free throw,True,15,False,False
+2014-11-05,40.2833333333,Brooklyn Nets,Utah Jazz,4,67-93,24,two point shot,True,14,False,False
+2014-11-05,43.5333333333,Brooklyn Nets,Utah Jazz,4,75-98,21,two point shot,True,2,True,False
+2014-11-05,44.3333333333,Brooklyn Nets,Utah Jazz,4,77-100,21,hook shot,True,9,False,False
+2014-11-05,44.7166666667,Brooklyn Nets,Utah Jazz,4,77-102,23,two point shot,True,1,True,False
+2014-11-05,47.1666666667,Brooklyn Nets,Utah Jazz,4,85-103,16,layup,True,0,False,False
+2014-11-09,12.6333333333,Brooklyn Nets,Indiana Pacers,2,25-23,-4,layup,True,0,True,False
+2014-11-09,13.5666666667,Brooklyn Nets,Indiana Pacers,2,27-28,-1,two point shot,True,3,True,False
+2014-11-09,18.2166666667,Brooklyn Nets,Indiana Pacers,2,31-34,1,two point shot,True,1,True,False
+2014-11-09,19.4166666667,Brooklyn Nets,Indiana Pacers,2,33-34,-1,layup,True,0,False,False
+2014-11-09,19.45,Brooklyn Nets,Indiana Pacers,2,33-34,-1,tip shot,True,0,False,False
+2014-11-13,32.9666666667,Brooklyn Nets,Sacramento Kings,3,51-72,-22,free throw,False,15,False,True
+2014-11-13,32.9666666667,Brooklyn Nets,Sacramento Kings,3,52-72,-21,free throw,False,15,True,True
+2014-11-13,45.85,Brooklyn Nets,Sacramento Kings,4,86-102,-18,dunk,False,0,True,True
+2014-11-13,45.85,Brooklyn Nets,Sacramento Kings,4,86-102,-17,free throw,False,15,False,True
+2014-11-15,11.8,Brooklyn Nets,Phoenix Suns,1,18-27,-11,dunk,False,0,True,False
+2014-11-15,13.2,Brooklyn Nets,Phoenix Suns,2,23-31,-10,layup,False,0,True,False
+2014-11-15,34.7833333333,Brooklyn Nets,Phoenix Suns,3,69-65,3,free throw,False,15,True,False
+2014-11-15,34.7833333333,Brooklyn Nets,Phoenix Suns,3,69-65,3,free throw,False,15,False,False
+2014-11-15,36.0,Brooklyn Nets,Phoenix Suns,3,73-67,4,dunk,False,0,True,False
+2014-11-16,7.1,Brooklyn Nets,Los Angeles Clippers,1,12-19,-8,free throw,False,15,False,False
+2014-11-16,7.1,Brooklyn Nets,Los Angeles Clippers,1,12-19,-8,free throw,False,15,False,False
+2014-11-16,11.25,Brooklyn Nets,Los Angeles Clippers,1,26-27,-3,two point shot,False,1,True,False
+2014-11-16,11.9166666667,Brooklyn Nets,Los Angeles Clippers,1,26-29,-5,two point jumper,False,1,False,False
+2014-11-16,12.25,Brooklyn Nets,Los Angeles Clippers,2,28-29,-3,two point shot,False,1,True,False
+2014-11-16,13.3166666667,Brooklyn Nets,Los Angeles Clippers,2,30-29,-1,two point shot,False,2,True,False
+2014-11-16,15.0666666667,Brooklyn Nets,Los Angeles Clippers,2,35-33,0,tip shot,False,0,False,False
+2014-11-16,34.75,Brooklyn Nets,Los Angeles Clippers,3,69-74,-6,free throw,False,15,False,False
+2014-11-16,34.75,Brooklyn Nets,Los Angeles Clippers,3,69-74,-6,free throw,False,15,False,False
+2014-11-16,35.4166666667,Brooklyn Nets,Los Angeles Clippers,3,72-74,-4,two point shot,False,1,True,False
+2014-11-16,35.4166666667,Brooklyn Nets,Los Angeles Clippers,3,72-74,-3,free throw,False,15,False,False
+2014-11-16,36.9,Brooklyn Nets,Los Angeles Clippers,4,76-81,-6,free throw,False,15,True,False
+2014-11-16,36.9,Brooklyn Nets,Los Angeles Clippers,4,77-81,-5,free throw,False,15,True,False
+2014-11-16,37.45,Brooklyn Nets,Los Angeles Clippers,4,77-81,-5,free throw,False,15,False,False
+2014-11-16,37.45,Brooklyn Nets,Los Angeles Clippers,4,78-81,-4,free throw,False,15,True,False
+2014-11-16,38.25,Brooklyn Nets,Los Angeles Clippers,4,81-84,-4,free throw,False,15,True,False
+2014-11-16,38.25,Brooklyn Nets,Los Angeles Clippers,4,81-84,-4,free throw,False,15,False,False
+2014-11-16,39.8833333333,Brooklyn Nets,Los Angeles Clippers,4,83-88,-7,two point shot,False,2,True,False
+2014-11-16,46.6833333333,Brooklyn Nets,Los Angeles Clippers,4,96-102,-8,two point shot,False,2,True,False
+2014-11-16,46.6833333333,Brooklyn Nets,Los Angeles Clippers,4,97-102,-6,free throw,False,15,True,False
+2014-11-16,47.15,Brooklyn Nets,Los Angeles Clippers,4,99-104,-7,two point shot,False,2,True,False
+2014-11-18,34.2666666667,Brooklyn Nets,Portland Trail Blazers,3,77-72,-6,free throw,True,15,True,True
+2014-11-18,34.2666666667,Brooklyn Nets,Portland Trail Blazers,3,77-73,-5,free throw,True,15,True,True
+2014-11-18,37.7666666667,Brooklyn Nets,Portland Trail Blazers,4,89-81,-9,free throw,True,15,True,True
+2014-11-18,37.7666666667,Brooklyn Nets,Portland Trail Blazers,4,89-82,-8,free throw,True,15,True,True
+2014-11-20,7.78333333333,Brooklyn Nets,Charlotte Bobcats,1,17-18,-2,free throw,False,15,True,False
+2014-11-20,7.78333333333,Brooklyn Nets,Charlotte Bobcats,1,18-18,-1,free throw,False,15,True,False
+2014-11-20,8.6,Brooklyn Nets,Charlotte Bobcats,1,22-19,1,dunk,False,0,True,False
+2014-11-20,13.25,Brooklyn Nets,Charlotte Bobcats,2,32-30,0,two point shot,False,2,True,False
+2014-11-20,14.6333333333,Brooklyn Nets,Charlotte Bobcats,2,35-34,0,free throw,False,15,False,False
+2014-11-20,14.6333333333,Brooklyn Nets,Charlotte Bobcats,2,36-34,1,free throw,False,15,True,False
+2014-11-20,33.0,Brooklyn Nets,Charlotte Bobcats,3,64-73,-11,two point shot,False,1,True,False
+2014-11-20,34.65,Brooklyn Nets,Charlotte Bobcats,3,66-79,-14,free throw,False,15,False,False
+2014-11-20,34.65,Brooklyn Nets,Charlotte Bobcats,3,66-79,-14,free throw,False,15,False,False
+2014-11-22,32.3333333333,Brooklyn Nets,Minnesota Timberwolves,3,48-82,-36,layup,False,0,False,True
+2014-11-22,40.95,Brooklyn Nets,Minnesota Timberwolves,4,67-101,-35,free throw,False,15,True,True
+2014-11-22,40.95,Brooklyn Nets,Minnesota Timberwolves,4,68-101,-34,free throw,False,15,True,True
+2014-11-22,46.6333333333,Brooklyn Nets,Minnesota Timberwolves,4,78-108,-32,hook shot,False,10,False,True
+2014-11-22,47.0,Brooklyn Nets,Minnesota Timberwolves,4,78-111,-34,free throw,False,15,False,True
+2014-11-22,47.0,Brooklyn Nets,Minnesota Timberwolves,4,78-111,-34,free throw,False,15,False,True
+2014-11-24,7.7,Brooklyn Nets,Detroit Pistons,1,12-14,0,two point jumper,True,1,True,True
+2014-11-24,36.4,Brooklyn Nets,Detroit Pistons,4,78-67,-12,free throw,True,15,True,True
+2014-11-24,36.4,Brooklyn Nets,Detroit Pistons,4,78-67,-12,free throw,True,15,False,True
+2014-11-24,37.3833333333,Brooklyn Nets,Detroit Pistons,4,83-68,-16,free throw,True,15,True,True
+2014-11-24,37.3833333333,Brooklyn Nets,Detroit Pistons,4,83-69,-15,free throw,True,15,True,True
+2014-11-24,42.5333333333,Brooklyn Nets,Detroit Pistons,4,96-85,-12,free throw,True,15,False,True
+2014-11-24,42.5333333333,Brooklyn Nets,Detroit Pistons,4,96-85,-12,free throw,True,15,False,True
+2014-11-26,6.88333333333,Brooklyn Nets,Toronto Raptors,1,18-9,7,two point shot,False,1,True,True
+2014-11-26,7.56666666667,Brooklyn Nets,Toronto Raptors,1,20-12,6,two point shot,False,1,True,True
+2014-11-26,23.1333333333,Brooklyn Nets,Toronto Raptors,2,55-51,2,two point shot,False,1,True,True
+2014-11-26,32.2166666667,Brooklyn Nets,Toronto Raptors,3,74-66,6,two point shot,False,1,True,True
+2014-11-26,32.2166666667,Brooklyn Nets,Toronto Raptors,3,75-66,8,free throw,False,15,True,True
+2014-11-26,34.7833333333,Brooklyn Nets,Toronto Raptors,3,77-74,1,layup,False,0,False,True
+2014-11-27,27.9666666667,Brooklyn Nets,Los Angeles Lakers,3,60-51,-11,two point shot,True,1,True,False
+2014-11-27,38.9666666667,Brooklyn Nets,Los Angeles Lakers,4,85-79,-8,two point shot,True,1,True,False
+2014-11-27,41.45,Brooklyn Nets,Los Angeles Lakers,4,88-85,-4,free throw,True,15,True,False
+2014-11-27,41.45,Brooklyn Nets,Los Angeles Lakers,4,88-86,-3,free throw,True,15,True,False
+2014-11-29,19.2,Brooklyn Nets,Houston Rockets,2,34-50,-18,two point shot,False,2,True,True
+2014-11-29,23.0,Brooklyn Nets,Houston Rockets,2,38-60,-24,two point shot,False,1,True,True
+2014-11-29,31.5333333333,Brooklyn Nets,Houston Rockets,3,50-80,-32,two point jumper,False,1,False,True
+2014-11-29,39.8833333333,Brooklyn Nets,Houston Rockets,4,73-98,-27,layup,False,0,True,True
+2014-11-29,42.2333333333,Brooklyn Nets,Houston Rockets,4,78-103,-26,free throw,False,15,True,True
+2014-11-29,42.2333333333,Brooklyn Nets,Houston Rockets,4,79-103,-25,free throw,False,15,True,True
+2014-11-29,44.75,Brooklyn Nets,Houston Rockets,4,85-109,-25,free throw,False,15,False,True
+2014-11-29,44.75,Brooklyn Nets,Houston Rockets,4,85-109,-25,free throw,False,15,False,True
+2014-11-29,44.8333333333,Brooklyn Nets,Houston Rockets,4,87-109,-24,layup,False,0,True,True
+2014-11-29,46.4333333333,Brooklyn Nets,Houston Rockets,4,91-111,-22,two point shot,False,1,True,True
+2014-11-29,46.7833333333,Brooklyn Nets,Houston Rockets,4,93-111,-20,two point shot,False,1,True,True
+2014-11-29,47.2166666667,Brooklyn Nets,Houston Rockets,4,95-111,-18,dunk,False,0,True,True
+2014-11-30,13.1333333333,Brooklyn Nets,Memphis Grizzlies,2,27-19,7,free throw,False,15,True,True
+2014-11-30,13.1333333333,Brooklyn Nets,Memphis Grizzlies,2,28-19,8,free throw,False,15,True,True
+2014-11-30,16.9166666667,Brooklyn Nets,Memphis Grizzlies,2,35-24,9,two point shot,False,1,True,True
+2014-11-30,35.4833333333,Brooklyn Nets,Memphis Grizzlies,3,73-63,8,two point shot,False,7,False,True
+2014-12-03,39.4,Brooklyn Nets,Denver Nuggets,4,97-73,-26,dunk,True,0,True,True
+2014-12-03,46.1666666667,Brooklyn Nets,Denver Nuggets,4,111-85,-28,layup,True,0,True,True
+2014-12-03,47.0,Brooklyn Nets,Denver Nuggets,4,111-85,-28,two point shot,True,5,False,True
+2014-12-05,41.8166666667,Brooklyn Nets,New York Knicks,4,97-65,-34,two point shot,True,8,True,True
+2014-12-05,42.7833333333,Brooklyn Nets,New York Knicks,4,102-68,-35,free throw,True,15,False,True
+2014-12-05,42.7833333333,Brooklyn Nets,New York Knicks,4,102-69,-34,free throw,True,15,True,True
+2014-12-05,43.4166666667,Brooklyn Nets,New York Knicks,4,102-72,-31,free throw,True,15,True,True
+2014-12-05,43.4166666667,Brooklyn Nets,New York Knicks,4,102-73,-30,free throw,True,15,True,True
+2014-12-05,45.6166666667,Brooklyn Nets,New York Knicks,4,107-78,-30,free throw,True,15,False,True
+2014-12-05,45.6166666667,Brooklyn Nets,New York Knicks,4,107-79,-29,free throw,True,15,True,True
+2014-12-05,47.55,Brooklyn Nets,New York Knicks,4,113-83,-32,layup,True,0,True,True
+2014-12-12,34.1,Brooklyn Nets,Los Angeles Clippers,3,60-77,15,two point shot,True,1,True,False
+2014-12-12,40.9166666667,Brooklyn Nets,Los Angeles Clippers,4,71-90,18,free throw,True,15,True,False
+2014-12-12,40.9166666667,Brooklyn Nets,Los Angeles Clippers,4,71-91,19,free throw,True,15,True,False
+2014-12-13,10.4833333333,Brooklyn Nets,Detroit Pistons,1,21-19,1,free throw,False,15,True,True
+2014-12-13,10.4833333333,Brooklyn Nets,Detroit Pistons,1,22-19,2,free throw,False,15,True,True
+2014-12-13,19.8833333333,Brooklyn Nets,Detroit Pistons,2,36-45,-11,layup,False,0,True,True
+2014-12-16,21.0833333333,Brooklyn Nets,Philadelphia 76ers,2,40-56,15,free throw,True,15,False,False
+2014-12-16,21.0833333333,Brooklyn Nets,Philadelphia 76ers,2,40-57,16,free throw,True,15,True,False
+2014-12-16,21.6166666667,Brooklyn Nets,Philadelphia 76ers,2,40-57,15,layup,True,0,False,False
+2014-12-16,37.1833333333,Brooklyn Nets,Philadelphia 76ers,4,75-102,25,two point jumper,True,6,True,False
+2014-12-16,44.5,Brooklyn Nets,Philadelphia 76ers,4,86-124,36,dunk,True,0,False,False
+2014-12-16,45.85,Brooklyn Nets,Philadelphia 76ers,4,88-129,39,two point shot,True,1,True,False
+2014-12-20,12.65,Brooklyn Nets,Philadelphia 76ers,2,32-31,0,free throw,False,15,True,False
+2014-12-20,12.65,Brooklyn Nets,Philadelphia 76ers,2,32-31,0,free throw,False,15,False,False
+2014-12-20,15.3166666667,Brooklyn Nets,Philadelphia 76ers,2,39-39,-2,dunk,False,0,True,False
+2014-12-20,37.5,Brooklyn Nets,Philadelphia 76ers,4,86-87,-3,two point jumper,False,6,False,False
+2014-12-23,16.3833333333,Brooklyn Nets,Indiana Pacers,2,26-24,-4,two point shot,True,1,True,True
+2014-12-23,16.9833333333,Brooklyn Nets,Indiana Pacers,2,29-26,-5,two point shot,True,1,True,True
+2014-12-23,20.4166666667,Brooklyn Nets,Indiana Pacers,2,37-32,-7,two point shot,True,2,False,True
+2014-12-23,40.9833333333,Brooklyn Nets,Indiana Pacers,4,89-69,-21,free throw,True,15,True,True
+2014-12-23,40.9833333333,Brooklyn Nets,Indiana Pacers,4,89-69,-21,free throw,True,15,False,True
+2014-12-23,41.8166666667,Brooklyn Nets,Indiana Pacers,4,93-71,-24,two point shot,True,1,True,True
+2014-12-23,48.0,Brooklyn Nets,Indiana Pacers,4,103-86,-20,three point jumper,True,25,False,True
+2014-12-25,38.95,Brooklyn Nets,Chicago Bulls,4,82-61,-23,layup,True,0,True,False
+2014-12-25,40.9166666667,Brooklyn Nets,Chicago Bulls,4,84-63,-23,two point jumper,True,1,False,False
+2014-12-25,40.95,Brooklyn Nets,Chicago Bulls,4,84-63,-23,tip shot,True,0,False,False
+2014-12-25,44.5333333333,Brooklyn Nets,Chicago Bulls,4,93-72,-22,free throw,True,15,True,False
+2014-12-25,44.5333333333,Brooklyn Nets,Chicago Bulls,4,93-73,-21,free throw,True,15,True,False
+2014-12-25,45.35,Brooklyn Nets,Chicago Bulls,4,95-75,-22,two point jumper,True,1,False,False
+2014-12-25,47.0,Brooklyn Nets,Chicago Bulls,4,95-77,-20,two point jumper,True,18,False,False
+2014-12-27,9.78333333333,Brooklyn Nets,Milwaukee Bucks,1,12-26,12,two point shot,True,2,True,False
+2014-12-27,29.5666666667,Brooklyn Nets,Milwaukee Bucks,3,45-59,13,free throw,True,15,False,False
+2014-12-27,29.5666666667,Brooklyn Nets,Milwaukee Bucks,3,45-60,14,free throw,True,15,True,False
+2014-12-27,30.0666666667,Brooklyn Nets,Milwaukee Bucks,3,45-62,15,two point shot,True,1,True,False
+2014-12-27,31.6333333333,Brooklyn Nets,Milwaukee Bucks,3,50-62,11,free throw,True,15,False,False
+2014-12-27,31.6333333333,Brooklyn Nets,Milwaukee Bucks,3,50-62,11,free throw,True,15,False,False
+2014-12-28,9.73333333333,Brooklyn Nets,Indiana Pacers,1,19-22,-5,two point shot,False,2,True,True
+2014-12-28,11.0833333333,Brooklyn Nets,Indiana Pacers,1,25-27,-4,two point shot,False,2,True,True
+2014-12-28,32.05,Brooklyn Nets,Indiana Pacers,3,69-76,-9,dunk,False,0,False,True
+2014-12-28,34.0,Brooklyn Nets,Indiana Pacers,3,74-83,-11,two point shot,False,1,True,True
+2014-12-31,6.91666666667,Brooklyn Nets,San Antonio Spurs,1,11-22,-13,dunk,False,0,True,True
+2014-12-31,12.8333333333,Brooklyn Nets,San Antonio Spurs,2,22-32,-12,two point shot,False,1,True,True
+2014-12-31,14.4333333333,Brooklyn Nets,San Antonio Spurs,2,24-36,-14,dunk,False,0,True,True
+2014-12-31,16.35,Brooklyn Nets,San Antonio Spurs,2,28-38,-12,two point shot,False,3,True,True
+2014-12-31,17.35,Brooklyn Nets,San Antonio Spurs,2,28-38,-12,tip shot,False,0,False,True
+2014-12-31,19.9166666667,Brooklyn Nets,San Antonio Spurs,2,32-45,-15,two point shot,False,2,False,True
+2014-12-31,23.9166666667,Brooklyn Nets,San Antonio Spurs,2,36-57,-23,tip shot,False,0,False,True
+2014-12-31,27.6166666667,Brooklyn Nets,San Antonio Spurs,3,42-65,-24,free throw,False,15,True,True
+2014-12-31,27.6166666667,Brooklyn Nets,San Antonio Spurs,3,43-65,-23,free throw,False,15,True,True
+2014-12-31,28.85,Brooklyn Nets,San Antonio Spurs,3,48-69,-23,two point shot,False,1,True,True
+2014-12-31,31.0333333333,Brooklyn Nets,San Antonio Spurs,3,52-75,-25,two point shot,False,8,True,True
+2014-12-31,32.2,Brooklyn Nets,San Antonio Spurs,3,54-78,-26,layup,False,0,False,True
+2014-12-31,35.15,Brooklyn Nets,San Antonio Spurs,3,63-93,-31,free throw,False,15,True,True
+2014-12-31,35.15,Brooklyn Nets,San Antonio Spurs,3,63-93,-31,free throw,False,15,False,True
+2014-01-02,7.1,Brooklyn Nets,Oklahoma City Thunder,1,13-13,-1,free throw,False,15,True,True
+2014-01-02,7.1,Brooklyn Nets,Oklahoma City Thunder,1,14-13,0,free throw,False,15,True,True
+2014-01-02,10.4166666667,Brooklyn Nets,Oklahoma City Thunder,1,26-24,0,two point shot,False,1,True,True
+2014-01-11,3.65,Brooklyn Nets,Toronto Raptors,1,6-6,-2,two point shot,False,1,True,False
+2014-01-11,42.1,Brooklyn Nets,Toronto Raptors,4,69-78,-11,two point shot,False,2,True,False
+2014-01-11,45.4166666667,Brooklyn Nets,Toronto Raptors,4,75-88,-15,two point shot,False,2,True,False
+2014-01-11,45.4166666667,Brooklyn Nets,Toronto Raptors,4,75-88,-14,free throw,False,15,False,False
+2014-01-16,46.2666666667,Brooklyn Nets,Atlanta Hawks,4,126-105,19,two point shot,False,1,True,True
+2014-01-16,47.0333333333,Brooklyn Nets,Atlanta Hawks,4,126-108,17,free throw,False,15,False,True
+2014-01-16,47.0333333333,Brooklyn Nets,Atlanta Hawks,4,127-108,18,free throw,False,15,True,True
+2014-01-20,45.2,Brooklyn Nets,New York Knicks,4,96-75,19,dunk,False,0,True,False
+2014-01-20,45.2,Brooklyn Nets,New York Knicks,4,97-75,21,free throw,False,15,True,False
+2014-01-20,47.8666666667,Brooklyn Nets,New York Knicks,4,103-80,22,free throw,False,15,True,False
+2014-01-20,47.8666666667,Brooklyn Nets,New York Knicks,4,103-80,22,free throw,False,15,False,False
+2014-01-21,45.3166666667,Brooklyn Nets,Orlando Magic,4,81-101,18,dunk,True,0,True,False
+2014-01-21,46.3833333333,Brooklyn Nets,Orlando Magic,4,83-101,16,dunk,True,0,False,False
+2014-01-31,22.3666666667,Brooklyn Nets,Oklahoma City Thunder,2,58-30,-30,two point shot,True,1,False,True
+2014-01-31,23.9,Brooklyn Nets,Oklahoma City Thunder,2,63-34,-30,free throw,True,15,False,True
+2014-01-31,23.9,Brooklyn Nets,Oklahoma City Thunder,2,63-35,-29,free throw,True,15,True,True
+2014-01-31,34.75,Brooklyn Nets,Oklahoma City Thunder,3,87-58,-31,two point shot,True,2,True,True
+2014-01-31,34.75,Brooklyn Nets,Oklahoma City Thunder,3,87-59,-29,free throw,True,15,True,True
+2014-01-31,36.3,Brooklyn Nets,Oklahoma City Thunder,4,89-61,-30,two point shot,True,1,True,True
+2014-01-31,36.3,Brooklyn Nets,Oklahoma City Thunder,4,89-62,-28,free throw,True,15,True,True
+2014-01-31,39.8833333333,Brooklyn Nets,Oklahoma City Thunder,4,95-69,-28,two point shot,True,2,True,True
+2014-01-31,41.3166666667,Brooklyn Nets,Oklahoma City Thunder,4,99-74,-27,two point shot,True,1,True,True
+2014-01-31,46.8833333333,Brooklyn Nets,Oklahoma City Thunder,4,118-93,-27,layup,True,0,True,True
+2014-02-01,7.06666666667,Brooklyn Nets,Indiana Pacers,1,18-12,4,dunk,False,0,True,False
+2014-02-01,35.5166666667,Brooklyn Nets,Indiana Pacers,3,69-72,-4,free throw,False,15,False,False
+2014-02-01,35.5166666667,Brooklyn Nets,Indiana Pacers,3,70-72,-3,free throw,False,15,True,False
+2014-02-01,35.9,Brooklyn Nets,Indiana Pacers,3,70-72,-4,layup,False,0,False,False
+2014-02-01,41.95,Brooklyn Nets,Indiana Pacers,4,80-85,-7,two point shot,False,1,True,False
+2014-02-01,41.95,Brooklyn Nets,Indiana Pacers,4,81-85,-5,free throw,False,15,True,False
+2014-02-03,7.78333333333,Brooklyn Nets,Philadelphia 76ers,1,4-18,13,free throw,True,15,True,True
+2014-02-03,7.78333333333,Brooklyn Nets,Philadelphia 76ers,1,4-19,14,free throw,True,15,True,True
+2014-02-03,29.5666666667,Brooklyn Nets,Philadelphia 76ers,3,56-71,13,dunk,True,0,True,True
+2014-02-03,30.6666666667,Brooklyn Nets,Philadelphia 76ers,3,59-75,14,layup,True,0,True,True
+2014-02-06,13.0833333333,Brooklyn Nets,San Antonio Spurs,2,24-19,-7,dunk,True,0,True,False
+2014-02-06,13.0833333333,Brooklyn Nets,San Antonio Spurs,2,24-20,-5,free throw,True,15,True,False
+2014-02-06,17.4833333333,Brooklyn Nets,San Antonio Spurs,2,30-28,-4,layup,True,0,True,False
+2014-02-06,47.1166666667,Brooklyn Nets,San Antonio Spurs,4,84-101,15,hook shot,True,8,False,False
+2014-02-06,47.3833333333,Brooklyn Nets,San Antonio Spurs,4,84-103,17,layup,True,0,True,False
+2014-02-07,8.6,Brooklyn Nets,Detroit Pistons,1,15-20,-6,free throw,False,15,True,True
+2014-02-07,8.6,Brooklyn Nets,Detroit Pistons,1,16-20,-5,free throw,False,15,True,True
+2014-02-07,9.46666666667,Brooklyn Nets,Detroit Pistons,1,17-22,-6,free throw,False,15,True,True
+2014-02-07,9.46666666667,Brooklyn Nets,Detroit Pistons,1,17-22,-6,free throw,False,15,False,True
+2014-02-07,17.7,Brooklyn Nets,Detroit Pistons,2,28-43,-16,free throw,False,15,False,True
+2014-02-07,17.7,Brooklyn Nets,Detroit Pistons,2,28-43,-16,free throw,False,15,False,True
+2014-02-07,28.85,Brooklyn Nets,Detroit Pistons,3,56-84,-29,free throw,False,15,True,True
+2014-02-07,28.85,Brooklyn Nets,Detroit Pistons,3,57-84,-28,free throw,False,15,True,True
+2014-02-07,29.7833333333,Brooklyn Nets,Detroit Pistons,3,57-86,-31,two point jumper,False,14,False,True
+2014-02-07,31.2,Brooklyn Nets,Detroit Pistons,3,65-89,-26,layup,False,0,True,True
+2014-02-07,32.75,Brooklyn Nets,Detroit Pistons,3,65-93,-30,hook shot,False,7,False,True
+2014-02-07,33.5333333333,Brooklyn Nets,Detroit Pistons,3,65-94,-31,layup,False,0,False,True
+2014-02-07,40.1333333333,Brooklyn Nets,Detroit Pistons,4,82-98,-18,two point jumper,False,3,False,True
+2014-02-07,42.1666666667,Brooklyn Nets,Detroit Pistons,4,82-100,-20,hook shot,False,5,False,True
+2014-02-07,42.5333333333,Brooklyn Nets,Detroit Pistons,4,84-100,-18,two point shot,False,1,True,True
+2014-02-07,43.7833333333,Brooklyn Nets,Detroit Pistons,4,86-100,-16,dunk,False,0,True,True
+2014-02-07,46.05,Brooklyn Nets,Detroit Pistons,4,92-102,-12,dunk,False,0,True,True
+2014-02-09,11.3333333333,Brooklyn Nets,New Orleans Pelicans,1,14-29,13,dunk,True,0,True,True
+2014-02-09,16.0333333333,Brooklyn Nets,New Orleans Pelicans,2,19-33,12,layup,True,0,True,True
+2014-02-09,16.85,Brooklyn Nets,New Orleans Pelicans,2,19-35,14,two point shot,True,1,True,True
+2014-02-09,17.8166666667,Brooklyn Nets,New Orleans Pelicans,2,19-38,17,two point shot,True,1,True,True
+2014-02-09,18.9833333333,Brooklyn Nets,New Orleans Pelicans,2,21-42,19,two point shot,True,1,True,True
+2014-02-09,19.4833333333,Brooklyn Nets,New Orleans Pelicans,2,21-43,21,free throw,True,15,True,True
+2014-02-09,19.4833333333,Brooklyn Nets,New Orleans Pelicans,2,21-44,22,free throw,True,15,True,True
+2014-02-09,19.75,Brooklyn Nets,New Orleans Pelicans,2,21-46,23,two point shot,True,2,True,True
+2014-02-09,24.0,Brooklyn Nets,New Orleans Pelicans,2,28-51,20,three point jumper,True,63,False,True
+2014-02-09,36.3333333333,Brooklyn Nets,New Orleans Pelicans,4,60-71,10,free throw,True,15,False,True
+2014-02-09,36.3333333333,Brooklyn Nets,New Orleans Pelicans,4,60-72,11,free throw,True,15,True,True
+2014-02-09,37.75,Brooklyn Nets,New Orleans Pelicans,4,63-75,11,free throw,True,15,True,True
+2014-02-09,37.75,Brooklyn Nets,New Orleans Pelicans,4,63-76,12,free throw,True,15,True,True
+2014-02-09,39.5166666667,Brooklyn Nets,New Orleans Pelicans,4,66-81,13,two point shot,True,1,True,True
+2014-02-09,39.5166666667,Brooklyn Nets,New Orleans Pelicans,4,66-81,14,free throw,True,15,False,True
+2014-02-09,43.7833333333,Brooklyn Nets,New Orleans Pelicans,4,74-88,13,free throw,True,15,True,True
+2014-02-09,43.7833333333,Brooklyn Nets,New Orleans Pelicans,4,74-88,13,free throw,True,15,False,True
+2014-02-09,47.5833333333,Brooklyn Nets,New Orleans Pelicans,4,81-93,10,two point shot,True,2,True,True
+2014-02-12,18.95,Brooklyn Nets,Charlotte Bobcats,2,36-40,2,two point shot,True,1,True,False
+2014-02-13,14.9333333333,Brooklyn Nets,Chicago Bulls,2,20-33,-14,free throw,False,15,True,False
+2014-02-13,14.9333333333,Brooklyn Nets,Chicago Bulls,2,20-33,-14,free throw,False,15,False,False
+2014-02-23,3.25,Brooklyn Nets,Los Angeles Lakers,1,9-3,4,two point jumper,False,3,False,True
+2014-02-23,7.81666666667,Brooklyn Nets,Los Angeles Lakers,1,29-12,15,two point shot,False,1,True,True
+2014-02-23,11.0,Brooklyn Nets,Los Angeles Lakers,1,33-18,13,two point shot,False,1,True,True
+2014-02-23,24.3,Brooklyn Nets,Los Angeles Lakers,3,65-47,16,two point shot,False,3,True,True
+2014-02-26,29.9833333333,Brooklyn Nets,Portland Trail Blazers,3,42-69,-29,layup,False,0,True,True
+2014-02-26,30.5333333333,Brooklyn Nets,Portland Trail Blazers,3,44-69,-27,two point jumper,False,4,True,True
+2014-02-26,30.9833333333,Brooklyn Nets,Portland Trail Blazers,3,46-71,-27,dunk,False,0,True,True
+2014-02-26,31.9833333333,Brooklyn Nets,Portland Trail Blazers,3,50-71,-23,two point shot,False,1,True,True
+2014-02-26,34.8,Brooklyn Nets,Portland Trail Blazers,3,56-78,-24,two point shot,False,1,True,True
+2014-02-26,43.0333333333,Brooklyn Nets,Portland Trail Blazers,4,73-104,-32,free throw,False,15,False,True
+2014-02-26,43.0333333333,Brooklyn Nets,Portland Trail Blazers,4,73-104,-32,free throw,False,15,False,True
+2014-02-26,44.0166666667,Brooklyn Nets,Portland Trail Blazers,4,73-109,-38,tip shot,False,0,False,True
+2014-02-27,13.95,Brooklyn Nets,Denver Nuggets,2,33-9,22,two point shot,False,1,True,False
+2014-02-27,15.3666666667,Brooklyn Nets,Denver Nuggets,2,39-13,24,two point shot,False,1,True,False
+2014-02-27,34.9,Brooklyn Nets,Denver Nuggets,3,86-50,35,free throw,False,15,True,False
+2014-02-27,34.9,Brooklyn Nets,Denver Nuggets,3,87-50,36,free throw,False,15,True,False
+2014-02-27,37.5,Brooklyn Nets,Denver Nuggets,4,92-56,35,free throw,False,15,True,False
+2014-02-27,37.5,Brooklyn Nets,Denver Nuggets,4,93-56,36,free throw,False,15,True,False
+2014-02-27,39.6166666667,Brooklyn Nets,Denver Nuggets,4,97-62,33,hook shot,False,7,False,False
+2014-02-27,44.9166666667,Brooklyn Nets,Denver Nuggets,4,109-81,26,dunk,False,0,True,False
+2014-03-01,2.5,Brooklyn Nets,Milwaukee Bucks,1,3-5,-4,layup,False,0,False,False
+2014-03-01,2.56666666667,Brooklyn Nets,Milwaukee Bucks,1,5-5,-2,two point shot,False,2,True,False
+2014-03-01,27.45,Brooklyn Nets,Milwaukee Bucks,3,63-57,4,layup,False,0,True,False
+2014-03-01,28.5666666667,Brooklyn Nets,Milwaukee Bucks,3,65-59,5,free throw,False,15,False,False
+2014-03-01,28.5666666667,Brooklyn Nets,Milwaukee Bucks,3,66-59,6,free throw,False,15,True,False

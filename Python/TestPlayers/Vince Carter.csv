@@ -1,0 +1,709 @@
+date,gameTime,team,opp,quarter,score,scoreDiff,shotType,home,distance,made,gameWon
+2014-02-09,8.48333333333,Dallas Mavericks,Boston Celtics,1,13-11,0,two point jumper,False,17,False,False
+2014-02-09,9.01666666667,Dallas Mavericks,Boston Celtics,1,13-13,-1,free throw,False,15,False,False
+2014-02-09,9.01666666667,Dallas Mavericks,Boston Celtics,1,14-13,0,free throw,False,15,True,False
+2014-02-09,10.1,Dallas Mavericks,Boston Celtics,1,17-13,1,unknown,False,25,True,False
+2014-02-09,11.1,Dallas Mavericks,Boston Celtics,1,17-16,-2,three point jumper,False,25,False,False
+2014-02-09,12.95,Dallas Mavericks,Boston Celtics,2,19-18,-2,three point jumper,False,25,False,False
+2014-02-09,18.2833333333,Dallas Mavericks,Boston Celtics,2,30-26,2,two point jumper,False,22,False,False
+2014-02-09,20.8166666667,Dallas Mavericks,Boston Celtics,2,35-33,1,free throw,False,15,True,False
+2014-02-09,20.8166666667,Dallas Mavericks,Boston Celtics,2,36-33,2,free throw,False,15,True,False
+2014-02-09,33.8333333333,Dallas Mavericks,Boston Celtics,3,68-52,13,three point jumper,False,25,False,False
+2014-02-09,34.2166666667,Dallas Mavericks,Boston Celtics,3,68-52,14,two point shot,False,8,False,False
+2014-02-09,39.2666666667,Dallas Mavericks,Boston Celtics,4,81-61,18,two point shot,False,10,False,False
+2014-02-09,39.3166666667,Dallas Mavericks,Boston Celtics,4,83-61,20,two point shot,False,1,True,False
+2014-02-09,39.8,Dallas Mavericks,Boston Celtics,4,86-63,20,three point jumper,False,24,True,False
+2014-02-09,40.4166666667,Dallas Mavericks,Boston Celtics,4,89-65,21,three point jumper,False,24,True,False
+2014-01-24,8.48333333333,Dallas Mavericks,Brooklyn Nets,1,10-14,-6,two point jumper,False,18,True,False
+2014-01-24,10.2166666667,Dallas Mavericks,Brooklyn Nets,1,14-16,-4,layup,False,0,True,False
+2014-01-24,11.4666666667,Dallas Mavericks,Brooklyn Nets,1,19-16,0,three point jumper,False,24,True,False
+2014-01-24,12.5666666667,Dallas Mavericks,Brooklyn Nets,2,21-21,-2,two point shot,False,22,False,False
+2014-01-24,13.0833333333,Dallas Mavericks,Brooklyn Nets,2,21-21,-2,two point jumper,False,14,False,False
+2014-01-24,13.3333333333,Dallas Mavericks,Brooklyn Nets,2,21-21,-2,two point jumper,False,20,False,False
+2014-01-24,19.7,Dallas Mavericks,Brooklyn Nets,2,33-43,-12,two point jumper,False,22,False,False
+2014-01-24,22.85,Dallas Mavericks,Brooklyn Nets,2,46-53,-10,three point jumper,False,23,True,False
+2014-01-24,23.3166666667,Dallas Mavericks,Brooklyn Nets,2,46-55,-12,three point jumper,False,24,False,False
+2014-01-24,32.1666666667,Dallas Mavericks,Brooklyn Nets,3,60-67,-9,two point shot,False,21,True,False
+2014-01-24,33.0166666667,Dallas Mavericks,Brooklyn Nets,3,64-69,-7,two point jumper,False,21,True,False
+2014-01-24,33.8333333333,Dallas Mavericks,Brooklyn Nets,3,66-71,-7,two point jumper,False,19,True,False
+2014-01-24,34.8666666667,Dallas Mavericks,Brooklyn Nets,3,68-74,-8,two point jumper,False,22,False,False
+2014-01-24,41.0333333333,Dallas Mavericks,Brooklyn Nets,4,86-93,-9,two point shot,False,9,True,False
+2014-01-24,46.0,Dallas Mavericks,Brooklyn Nets,4,93-100,-10,three point jumper,False,25,False,False
+2014-01-24,46.8833333333,Dallas Mavericks,Brooklyn Nets,4,95-102,-8,free throw,False,15,False,False
+2014-01-24,46.8833333333,Dallas Mavericks,Brooklyn Nets,4,96-102,-7,free throw,False,15,True,False
+2014-01-05,7.38333333333,Dallas Mavericks,New York Knicks,1,16-13,-6,three point jumper,True,25,False,False
+2014-01-05,8.2,Dallas Mavericks,New York Knicks,1,18-13,-6,free throw,True,15,False,False
+2014-01-05,8.2,Dallas Mavericks,New York Knicks,1,18-13,-6,free throw,True,15,False,False
+2014-01-05,11.6,Dallas Mavericks,New York Knicks,1,27-17,-12,layup,True,0,True,False
+2014-01-05,12.2,Dallas Mavericks,New York Knicks,2,29-17,-13,free throw,True,15,False,False
+2014-01-05,12.2,Dallas Mavericks,New York Knicks,2,29-18,-12,free throw,True,15,True,False
+2014-01-05,13.3166666667,Dallas Mavericks,New York Knicks,2,31-22,-11,two point shot,True,1,True,False
+2014-01-05,13.8166666667,Dallas Mavericks,New York Knicks,2,33-22,-13,two point jumper,True,19,False,False
+2014-01-05,16.45,Dallas Mavericks,New York Knicks,2,39-25,-15,free throw,True,15,True,False
+2014-01-05,16.45,Dallas Mavericks,New York Knicks,2,39-26,-14,free throw,True,15,True,False
+2014-01-05,16.95,Dallas Mavericks,New York Knicks,2,39-26,-16,three point jumper,True,26,False,False
+2014-01-05,18.4833333333,Dallas Mavericks,New York Knicks,2,41-28,-15,two point shot,True,24,False,False
+2014-01-05,32.5,Dallas Mavericks,New York Knicks,3,65-55,-13,three point jumper,True,24,True,False
+2014-01-05,37.0666666667,Dallas Mavericks,New York Knicks,4,68-62,-9,three point jumper,True,25,True,False
+2014-01-05,42.85,Dallas Mavericks,New York Knicks,4,82-70,-14,layup,True,0,False,False
+2014-01-05,44.05,Dallas Mavericks,New York Knicks,4,82-73,-12,three point jumper,True,25,False,False
+2014-01-05,44.7,Dallas Mavericks,New York Knicks,4,82-73,-11,two point shot,True,1,False,False
+2014-01-05,47.1666666667,Dallas Mavericks,New York Knicks,4,88-78,-13,three point jumper,True,25,False,False
+2014-02-24,7.45,Dallas Mavericks,New York Knicks,1,23-15,5,three point jumper,False,24,True,True
+2014-02-24,8.9,Dallas Mavericks,New York Knicks,1,24-17,5,two point jumper,False,23,False,True
+2014-02-24,9.78333333333,Dallas Mavericks,New York Knicks,1,27-17,7,three point jumper,False,24,True,True
+2014-02-24,10.4333333333,Dallas Mavericks,New York Knicks,1,27-17,7,three point jumper,False,26,False,True
+2014-02-24,11.4833333333,Dallas Mavericks,New York Knicks,1,31-19,9,three point jumper,False,25,True,True
+2014-02-24,16.3166666667,Dallas Mavericks,New York Knicks,2,43-35,5,three point jumper,False,25,False,True
+2014-02-24,16.4166666667,Dallas Mavericks,New York Knicks,2,43-35,6,layup,False,0,False,True
+2014-02-24,18.0333333333,Dallas Mavericks,New York Knicks,2,43-41,0,layup,False,0,False,True
+2014-02-24,18.4166666667,Dallas Mavericks,New York Knicks,2,46-41,2,three point jumper,False,25,True,True
+2014-02-24,23.4333333333,Dallas Mavericks,New York Knicks,2,57-57,-3,three point jumper,False,23,False,True
+2014-02-24,32.7833333333,Dallas Mavericks,New York Knicks,3,77-74,1,two point jumper,False,22,False,True
+2014-02-24,33.1166666667,Dallas Mavericks,New York Knicks,3,79-74,3,two point jumper,False,23,True,True
+2014-02-24,34.3333333333,Dallas Mavericks,New York Knicks,3,81-76,2,three point jumper,False,27,False,True
+2014-02-24,35.15,Dallas Mavericks,New York Knicks,3,86-76,7,three point jumper,False,23,True,True
+2014-02-24,36.5666666667,Dallas Mavericks,New York Knicks,4,87-85,-1,three point jumper,False,24,True,True
+2014-02-24,37.1166666667,Dallas Mavericks,New York Knicks,4,90-85,2,three point jumper,False,24,True,True
+2014-02-24,47.4166666667,Dallas Mavericks,New York Knicks,4,108-108,-3,three point jumper,False,24,False,True
+2014-11-18,9.05,Dallas Mavericks,Philadelphia 76ers,1,19-12,-9,unknown,True,15,False,True
+2014-11-18,12.6833333333,Dallas Mavericks,Philadelphia 76ers,2,21-21,-1,free throw,True,15,True,True
+2014-11-18,12.6833333333,Dallas Mavericks,Philadelphia 76ers,2,21-21,-1,free throw,True,15,False,True
+2014-11-18,18.85,Dallas Mavericks,Philadelphia 76ers,2,39-31,-11,three point jumper,True,25,False,True
+2014-11-18,31.95,Dallas Mavericks,Philadelphia 76ers,3,65-60,-8,three point jumper,True,26,False,True
+2014-11-18,32.25,Dallas Mavericks,Philadelphia 76ers,3,67-62,-7,two point jumper,True,21,True,True
+2014-11-18,37.0666666667,Dallas Mavericks,Philadelphia 76ers,4,73-77,1,three point jumper,True,26,True,True
+2014-02-21,10.6166666667,Dallas Mavericks,Philadelphia 76ers,1,37-15,19,three point jumper,False,25,True,True
+2014-02-21,15.95,Dallas Mavericks,Philadelphia 76ers,2,48-39,6,three point jumper,False,25,False,True
+2014-02-21,16.4166666667,Dallas Mavericks,Philadelphia 76ers,2,51-42,8,free throw,False,15,True,True
+2014-02-21,16.4166666667,Dallas Mavericks,Philadelphia 76ers,2,52-42,9,free throw,False,15,True,True
+2014-02-21,19.2,Dallas Mavericks,Philadelphia 76ers,2,55-45,8,layup,False,0,False,True
+2014-02-21,37.9666666667,Dallas Mavericks,Philadelphia 76ers,4,103-91,11,free throw,False,15,False,True
+2014-02-21,37.9666666667,Dallas Mavericks,Philadelphia 76ers,4,104-91,12,free throw,False,15,True,True
+2014-02-21,40.35,Dallas Mavericks,Philadelphia 76ers,4,112-94,17,free throw,False,15,True,True
+2014-02-21,41.25,Dallas Mavericks,Philadelphia 76ers,4,112-94,15,three point jumper,False,26,False,True
+2014-12-20,11.5,Dallas Mavericks,Toronto Raptors,1,22-31,7,layup,True,0,False,False
+2014-01-22,8.48333333333,Dallas Mavericks,Toronto Raptors,1,23-10,11,dunk,False,0,True,False
+2014-01-22,8.48333333333,Dallas Mavericks,Toronto Raptors,1,24-10,13,free throw,False,15,True,False
+2014-01-22,9.45,Dallas Mavericks,Toronto Raptors,1,28-13,13,layup,False,0,True,False
+2014-01-22,10.6833333333,Dallas Mavericks,Toronto Raptors,1,32-13,16,three point jumper,False,31,False,False
+2014-01-22,11.95,Dallas Mavericks,Toronto Raptors,1,34-15,17,layup,False,0,False,False
+2014-01-22,14.15,Dallas Mavericks,Toronto Raptors,2,36-21,13,two point shot,False,19,False,False
+2014-01-22,20.4666666667,Dallas Mavericks,Toronto Raptors,2,45-32,10,unknown,False,26,True,False
+2014-11-27,7.13333333333,Dallas Mavericks,Golden State Warriors,1,16-22,3,three point jumper,True,23,False,False
+2014-11-27,8.08333333333,Dallas Mavericks,Golden State Warriors,1,16-22,3,three point jumper,True,24,False,False
+2014-11-27,12.7,Dallas Mavericks,Golden State Warriors,2,22-28,4,two point shot,True,1,False,False
+2014-11-27,20.4,Dallas Mavericks,Golden State Warriors,2,36-51,13,two point shot,True,11,True,False
+2014-11-27,31.9833333333,Dallas Mavericks,Golden State Warriors,3,64-71,5,two point shot,True,13,True,False
+2014-11-27,34.4333333333,Dallas Mavericks,Golden State Warriors,3,69-73,2,two point jumper,True,18,False,False
+2014-11-27,35.1,Dallas Mavericks,Golden State Warriors,3,71-78,4,three point jumper,True,25,True,False
+2014-11-27,39.8,Dallas Mavericks,Golden State Warriors,4,77-92,13,two point jumper,True,19,False,False
+2014-11-27,43.9833333333,Dallas Mavericks,Golden State Warriors,4,87-99,10,two point jumper,True,1,False,False
+2014-12-11,7.03333333333,Dallas Mavericks,Golden State Warriors,1,13-10,1,two point jumper,False,15,True,False
+2014-12-11,7.66666666667,Dallas Mavericks,Golden State Warriors,1,13-10,1,two point jumper,False,13,False,False
+2014-12-11,10.5166666667,Dallas Mavericks,Golden State Warriors,1,19-11,5,three point jumper,False,25,True,False
+2014-12-11,20.6,Dallas Mavericks,Golden State Warriors,2,46-34,10,layup,False,0,True,False
+2014-12-11,21.1,Dallas Mavericks,Golden State Warriors,2,46-34,10,layup,False,0,False,False
+2014-12-11,22.25,Dallas Mavericks,Golden State Warriors,2,52-36,14,two point shot,False,26,False,False
+2014-12-11,34.9833333333,Dallas Mavericks,Golden State Warriors,3,72-63,6,three point jumper,False,27,False,False
+2014-12-11,37.65,Dallas Mavericks,Golden State Warriors,4,78-66,10,two point shot,False,18,True,False
+2014-12-11,40.3166666667,Dallas Mavericks,Golden State Warriors,4,82-74,6,unknown,False,14,False,False
+2014-01-03,9.16666666667,Dallas Mavericks,Los Angeles Clippers,1,20-29,6,three point jumper,True,26,False,False
+2014-01-03,11.45,Dallas Mavericks,Los Angeles Clippers,1,30-36,3,three point jumper,True,27,True,False
+2014-01-03,11.85,Dallas Mavericks,Los Angeles Clippers,1,33-39,3,three point jumper,True,25,True,False
+2014-01-03,12.75,Dallas Mavericks,Los Angeles Clippers,2,33-41,5,three point jumper,True,24,False,False
+2014-01-03,13.25,Dallas Mavericks,Los Angeles Clippers,2,33-41,5,three point jumper,True,25,False,False
+2014-01-03,16.3833333333,Dallas Mavericks,Los Angeles Clippers,2,42-50,6,two point jumper,True,5,False,False
+2014-01-03,34.15,Dallas Mavericks,Los Angeles Clippers,3,84-82,-5,three point jumper,True,26,False,False
+2014-01-03,39.2,Dallas Mavericks,Los Angeles Clippers,4,95-101,4,two point jumper,True,19,True,False
+2014-01-03,44.65,Dallas Mavericks,Los Angeles Clippers,4,105-110,3,two point shot,True,15,False,False
+2014-01-03,47.9833333333,Dallas Mavericks,Los Angeles Clippers,4,119-112,-10,three point jumper,True,23,False,False
+2014-01-15,11.2333333333,Dallas Mavericks,Los Angeles Clippers,1,30-30,-3,three point jumper,False,26,False,False
+2014-01-15,11.5833333333,Dallas Mavericks,Los Angeles Clippers,1,32-30,0,two point shot,False,1,True,False
+2014-01-15,12.55,Dallas Mavericks,Los Angeles Clippers,2,32-30,-1,three point jumper,False,27,False,False
+2014-01-15,22.35,Dallas Mavericks,Los Angeles Clippers,2,58-67,-12,three point jumper,False,25,False,False
+2014-01-15,33.0,Dallas Mavericks,Los Angeles Clippers,3,91-97,-8,two point shot,False,1,True,False
+2014-01-15,33.4166666667,Dallas Mavericks,Los Angeles Clippers,3,92-100,-9,free throw,False,15,True,False
+2014-01-15,33.4166666667,Dallas Mavericks,Los Angeles Clippers,3,93-100,-8,free throw,False,15,True,False
+2014-01-15,43.7833333333,Dallas Mavericks,Los Angeles Clippers,4,123-108,12,three point jumper,False,27,False,False
+2014-11-05,8.26666666667,Dallas Mavericks,Los Angeles Lakers,1,16-22,3,three point jumper,True,26,False,True
+2014-11-05,9.1,Dallas Mavericks,Los Angeles Lakers,1,18-29,8,three point jumper,True,25,True,True
+2014-11-05,12.8,Dallas Mavericks,Los Angeles Lakers,2,22-37,13,two point jumper,True,18,False,True
+2014-11-05,18.8833333333,Dallas Mavericks,Los Angeles Lakers,2,37-53,13,three point jumper,True,25,True,True
+2014-11-05,19.4833333333,Dallas Mavericks,Los Angeles Lakers,2,37-53,14,two point shot,True,26,False,True
+2014-11-05,20.0,Dallas Mavericks,Los Angeles Lakers,2,37-55,16,two point shot,True,2,True,True
+2014-11-05,32.65,Dallas Mavericks,Los Angeles Lakers,3,65-90,23,two point shot,True,19,False,True
+2014-11-05,35.6833333333,Dallas Mavericks,Los Angeles Lakers,3,77-94,14,three point jumper,True,26,False,True
+2014-11-05,36.6166666667,Dallas Mavericks,Los Angeles Lakers,4,79-94,13,two point shot,True,5,False,True
+2014-01-07,6.16666666667,Dallas Mavericks,Los Angeles Lakers,1,17-18,-1,two point shot,True,1,True,False
+2014-01-07,6.78333333333,Dallas Mavericks,Los Angeles Lakers,1,18-18,-3,three point jumper,True,26,False,False
+2014-01-07,11.9333333333,Dallas Mavericks,Los Angeles Lakers,1,31-33,-1,three point jumper,True,25,True,False
+2014-01-07,13.0666666667,Dallas Mavericks,Los Angeles Lakers,2,33-37,2,two point jumper,True,17,True,False
+2014-01-07,16.0666666667,Dallas Mavericks,Los Angeles Lakers,2,43-43,-2,two point jumper,True,17,False,False
+2014-01-07,17.45,Dallas Mavericks,Los Angeles Lakers,2,45-48,1,two point jumper,True,7,True,False
+2014-01-07,19.1,Dallas Mavericks,Los Angeles Lakers,2,45-51,3,three point jumper,True,25,True,False
+2014-01-07,23.2,Dallas Mavericks,Los Angeles Lakers,2,52-58,3,three point jumper,True,23,False,False
+2014-01-07,23.5,Dallas Mavericks,Los Angeles Lakers,2,53-60,5,layup,True,0,True,False
+2014-01-07,31.25,Dallas Mavericks,Los Angeles Lakers,3,71-77,5,free throw,True,15,True,False
+2014-01-07,31.25,Dallas Mavericks,Los Angeles Lakers,3,71-78,6,free throw,True,15,True,False
+2014-01-07,33.0833333333,Dallas Mavericks,Los Angeles Lakers,3,72-83,8,three point jumper,True,24,True,False
+2014-01-07,39.3166666667,Dallas Mavericks,Los Angeles Lakers,4,82-89,5,two point jumper,True,4,False,False
+2014-12-21,6.63333333333,Dallas Mavericks,Phoenix Suns,1,12-19,-9,two point jumper,False,18,True,False
+2014-12-21,10.05,Dallas Mavericks,Phoenix Suns,1,16-30,-16,two point jumper,False,21,False,False
+2014-12-21,12.8833333333,Dallas Mavericks,Phoenix Suns,2,27-40,-16,three point jumper,False,25,False,False
+2014-12-21,13.1166666667,Dallas Mavericks,Phoenix Suns,2,29-40,-13,two point shot,False,4,True,False
+2014-12-21,13.8166666667,Dallas Mavericks,Phoenix Suns,2,29-40,-14,three point jumper,False,23,False,False
+2014-12-21,21.05,Dallas Mavericks,Phoenix Suns,2,48-53,-7,two point shot,False,4,True,False
+2014-12-21,31.3833333333,Dallas Mavericks,Phoenix Suns,3,71-81,-12,two point jumper,False,1,False,False
+2014-12-21,33.2666666667,Dallas Mavericks,Phoenix Suns,3,75-83,-9,free throw,False,15,False,False
+2014-12-21,33.2666666667,Dallas Mavericks,Phoenix Suns,3,76-83,-8,free throw,False,15,True,False
+2014-12-21,35.1,Dallas Mavericks,Phoenix Suns,3,81-88,-8,free throw,False,15,True,False
+2014-12-21,35.1,Dallas Mavericks,Phoenix Suns,3,82-88,-7,free throw,False,15,True,False
+2014-12-21,35.6166666667,Dallas Mavericks,Phoenix Suns,3,82-91,-12,three point jumper,False,25,False,False
+2014-12-21,36.5666666667,Dallas Mavericks,Phoenix Suns,4,85-94,-12,three point jumper,False,25,True,False
+2014-12-21,36.9666666667,Dallas Mavericks,Phoenix Suns,4,87-94,-9,dunk,False,0,True,False
+2014-12-21,41.0333333333,Dallas Mavericks,Phoenix Suns,4,95-105,-13,three point jumper,False,24,False,False
+2014-01-17,7.98333333333,Dallas Mavericks,Phoenix Suns,1,28-19,6,three point jumper,False,26,True,True
+2014-01-17,10.4166666667,Dallas Mavericks,Phoenix Suns,1,34-25,7,two point jumper,False,19,False,True
+2014-01-17,11.5,Dallas Mavericks,Phoenix Suns,1,36-30,3,three point jumper,False,28,False,True
+2014-01-17,14.3833333333,Dallas Mavericks,Phoenix Suns,2,38-34,2,two point jumper,False,14,False,True
+2014-01-17,17.6333333333,Dallas Mavericks,Phoenix Suns,2,44-40,1,three point jumper,False,23,False,True
+2014-01-17,18.0333333333,Dallas Mavericks,Phoenix Suns,2,46-42,2,layup,False,0,True,True
+2014-01-17,31.6,Dallas Mavericks,Phoenix Suns,3,78-70,6,two point jumper,False,12,False,True
+2014-01-17,32.9166666667,Dallas Mavericks,Phoenix Suns,3,83-72,8,three point jumper,False,25,True,True
+2014-01-17,33.3333333333,Dallas Mavericks,Phoenix Suns,3,83-72,8,three point jumper,False,26,False,True
+2014-12-09,6.35,Dallas Mavericks,Sacramento Kings,1,12-23,-14,three point jumper,False,25,False,True
+2014-12-09,7.45,Dallas Mavericks,Sacramento Kings,1,12-25,-16,three point jumper,False,25,False,True
+2014-12-09,8.08333333333,Dallas Mavericks,Sacramento Kings,1,14-28,-16,layup,False,0,True,True
+2014-12-09,8.08333333333,Dallas Mavericks,Sacramento Kings,1,15-28,-14,free throw,False,15,True,True
+2014-12-09,9.18333333333,Dallas Mavericks,Sacramento Kings,1,17-29,-14,two point jumper,False,17,False,True
+2014-12-09,9.65,Dallas Mavericks,Sacramento Kings,1,19-29,-12,two point shot,False,12,True,True
+2014-12-09,19.7833333333,Dallas Mavericks,Sacramento Kings,2,43-46,-6,three point jumper,False,25,False,True
+2014-12-09,21.7166666667,Dallas Mavericks,Sacramento Kings,2,43-50,-9,layup,False,0,False,True
+2014-12-09,32.1833333333,Dallas Mavericks,Sacramento Kings,3,67-80,-15,two point shot,False,7,True,True
+2014-12-09,33.5666666667,Dallas Mavericks,Sacramento Kings,3,67-87,-22,two point jumper,False,1,False,True
+2014-12-09,35.35,Dallas Mavericks,Sacramento Kings,3,71-87,-18,layup,False,0,False,True
+2014-12-09,37.0,Dallas Mavericks,Sacramento Kings,4,73-94,-24,three point jumper,False,23,False,True
+2014-01-31,6.78333333333,Dallas Mavericks,Sacramento Kings,1,12-16,1,three point jumper,True,24,False,True
+2014-01-31,10.3666666667,Dallas Mavericks,Sacramento Kings,1,18-24,4,two point shot,True,1,True,True
+2014-01-31,10.9666666667,Dallas Mavericks,Sacramento Kings,1,20-24,2,layup,True,0,False,True
+2014-01-31,18.2833333333,Dallas Mavericks,Sacramento Kings,2,33-44,9,two point shot,True,1,True,True
+2014-01-31,30.7833333333,Dallas Mavericks,Sacramento Kings,3,72-61,-13,hook shot,True,4,False,True
+2014-01-31,43.6666666667,Dallas Mavericks,Sacramento Kings,4,90-92,-1,three point jumper,True,22,False,True
+2014-12-28,8.76666666667,Dallas Mavericks,Chicago Bulls,1,18-17,-2,three point jumper,False,24,True,False
+2014-12-28,9.4,Dallas Mavericks,Chicago Bulls,1,19-17,1,free throw,False,15,True,False
+2014-12-28,11.9833333333,Dallas Mavericks,Chicago Bulls,1,30-19,8,three point jumper,False,25,True,False
+2014-12-28,16.7833333333,Dallas Mavericks,Chicago Bulls,2,45-28,16,free throw,False,15,True,False
+2014-12-28,16.7833333333,Dallas Mavericks,Chicago Bulls,2,46-28,17,free throw,False,15,True,False
+2014-12-28,17.8833333333,Dallas Mavericks,Chicago Bulls,2,49-28,18,three point jumper,False,25,True,False
+2014-12-28,19.2833333333,Dallas Mavericks,Chicago Bulls,2,53-28,23,two point jumper,False,22,True,False
+2014-12-28,21.2166666667,Dallas Mavericks,Chicago Bulls,2,55-30,22,three point jumper,False,25,False,False
+2014-12-28,35.4833333333,Dallas Mavericks,Chicago Bulls,3,86-54,30,two point shot,False,1,True,False
+2014-12-28,35.9666666667,Dallas Mavericks,Chicago Bulls,3,86-56,28,two point jumper,False,1,False,False
+2014-12-28,36.8666666667,Dallas Mavericks,Chicago Bulls,4,86-56,27,three point jumper,False,25,False,False
+2014-12-28,41.7333333333,Dallas Mavericks,Chicago Bulls,4,88-72,14,layup,False,0,True,False
+2014-02-28,6.98333333333,Dallas Mavericks,Chicago Bulls,1,10-19,6,three point jumper,True,25,True,True
+2014-02-28,8.03333333333,Dallas Mavericks,Chicago Bulls,1,10-21,9,two point shot,True,7,False,True
+2014-02-28,8.6,Dallas Mavericks,Chicago Bulls,1,10-24,11,three point jumper,True,25,True,True
+2014-02-28,16.6333333333,Dallas Mavericks,Chicago Bulls,2,32-41,6,three point jumper,True,24,False,True
+2014-02-28,17.2,Dallas Mavericks,Chicago Bulls,2,35-43,6,two point shot,True,5,True,True
+2014-02-28,18.1666666667,Dallas Mavericks,Chicago Bulls,2,36-43,5,two point shot,True,16,False,True
+2014-02-28,18.6666666667,Dallas Mavericks,Chicago Bulls,2,36-46,7,three point jumper,True,25,True,True
+2014-02-28,19.0666666667,Dallas Mavericks,Chicago Bulls,2,38-49,8,three point jumper,True,24,True,True
+2014-02-28,32.8666666667,Dallas Mavericks,Chicago Bulls,3,71-72,-1,two point jumper,True,15,False,True
+2014-02-28,38.3666666667,Dallas Mavericks,Chicago Bulls,4,78-78,-3,three point jumper,True,24,False,True
+2014-02-28,43.5333333333,Dallas Mavericks,Chicago Bulls,4,87-85,-5,three point jumper,True,29,False,True
+2014-02-28,46.8,Dallas Mavericks,Chicago Bulls,4,94-85,-11,layup,True,0,False,True
+2014-02-28,46.9333333333,Dallas Mavericks,Chicago Bulls,4,94-85,-11,layup,True,0,False,True
+2014-02-28,47.4166666667,Dallas Mavericks,Chicago Bulls,4,96-88,-9,free throw,True,15,True,True
+2014-02-28,47.4166666667,Dallas Mavericks,Chicago Bulls,4,96-88,-9,free throw,True,15,False,True
+2014-02-28,47.9666666667,Dallas Mavericks,Chicago Bulls,4,100-91,-12,three point jumper,True,27,False,True
+2014-01-20,6.28333333333,Dallas Mavericks,Cleveland Cavaliers,1,14-12,-1,three point jumper,False,25,False,False
+2014-01-20,11.5333333333,Dallas Mavericks,Cleveland Cavaliers,1,29-21,6,layup,False,0,True,False
+2014-01-20,11.5333333333,Dallas Mavericks,Cleveland Cavaliers,1,30-21,8,free throw,False,15,True,False
+2014-01-20,12.0,Dallas Mavericks,Cleveland Cavaliers,1,30-23,5,two point shot,False,1,False,False
+2014-01-20,18.85,Dallas Mavericks,Cleveland Cavaliers,2,45-31,12,two point jumper,False,10,False,False
+2014-01-20,34.4333333333,Dallas Mavericks,Cleveland Cavaliers,3,79-66,10,three point jumper,False,25,False,False
+2014-01-20,37.5666666667,Dallas Mavericks,Cleveland Cavaliers,4,81-68,11,two point jumper,False,18,False,False
+2014-01-20,38.5,Dallas Mavericks,Cleveland Cavaliers,4,84-68,15,free throw,False,15,True,False
+2014-01-20,38.5,Dallas Mavericks,Cleveland Cavaliers,4,85-68,16,free throw,False,15,True,False
+2014-01-20,38.95,Dallas Mavericks,Cleveland Cavaliers,4,85-71,12,two point jumper,False,21,False,False
+2014-01-20,41.85,Dallas Mavericks,Cleveland Cavaliers,4,87-80,5,two point jumper,False,8,False,False
+2014-02-03,8.15,Dallas Mavericks,Cleveland Cavaliers,1,20-23,1,two point shot,True,4,True,True
+2014-02-03,10.4166666667,Dallas Mavericks,Cleveland Cavaliers,1,25-25,-2,two point shot,True,18,True,True
+2014-02-03,30.4166666667,Dallas Mavericks,Cleveland Cavaliers,3,64-73,6,three point jumper,True,23,False,True
+2014-02-03,31.2166666667,Dallas Mavericks,Cleveland Cavaliers,3,66-75,6,three point jumper,True,24,False,True
+2014-02-03,37.65,Dallas Mavericks,Cleveland Cavaliers,4,83-96,10,three point jumper,True,24,False,True
+2014-02-03,38.0833333333,Dallas Mavericks,Cleveland Cavaliers,4,85-99,11,three point jumper,True,23,True,True
+2014-01-26,9.18333333333,Dallas Mavericks,Detroit Pistons,1,20-21,-2,three point jumper,True,25,False,True
+2014-01-26,10.2166666667,Dallas Mavericks,Detroit Pistons,1,22-25,1,two point shot,True,6,True,True
+2014-01-26,17.3833333333,Dallas Mavericks,Detroit Pistons,2,35-41,3,three point jumper,True,26,False,True
+2014-01-26,19.4166666667,Dallas Mavericks,Detroit Pistons,2,37-47,8,two point shot,True,11,True,True
+2014-01-26,32.5,Dallas Mavericks,Detroit Pistons,3,73-75,-1,three point jumper,True,26,False,True
+2014-01-26,33.1666666667,Dallas Mavericks,Detroit Pistons,3,73-76,2,free throw,True,15,True,True
+2014-01-26,33.1666666667,Dallas Mavericks,Detroit Pistons,3,73-77,3,free throw,True,15,True,True
+2014-01-26,34.1,Dallas Mavericks,Detroit Pistons,3,77-77,-1,free throw,True,15,False,True
+2014-01-26,34.1,Dallas Mavericks,Detroit Pistons,3,77-77,-1,free throw,True,15,False,True
+2014-01-26,36.25,Dallas Mavericks,Detroit Pistons,4,81-87,3,three point jumper,True,27,True,True
+2014-01-26,36.8166666667,Dallas Mavericks,Detroit Pistons,4,81-88,6,free throw,True,15,True,True
+2014-01-26,36.8166666667,Dallas Mavericks,Detroit Pistons,4,81-89,7,free throw,True,15,True,True
+2014-01-26,38.3833333333,Dallas Mavericks,Detroit Pistons,4,81-94,10,three point jumper,True,26,False,True
+2014-01-26,42.5666666667,Dallas Mavericks,Detroit Pistons,4,96-103,5,layup,True,0,True,True
+2014-02-22,6.48333333333,Dallas Mavericks,Detroit Pistons,1,16-14,0,two point jumper,False,11,True,True
+2014-02-22,8.21666666667,Dallas Mavericks,Detroit Pistons,1,23-18,2,three point jumper,False,26,True,True
+2014-02-22,9.36666666667,Dallas Mavericks,Detroit Pistons,1,23-20,1,layup,False,0,False,True
+2014-02-22,9.41666666667,Dallas Mavericks,Detroit Pistons,1,23-20,1,tip shot,False,0,False,True
+2014-02-22,10.4,Dallas Mavericks,Detroit Pistons,1,23-22,-1,two point shot,False,1,False,True
+2014-02-22,11.55,Dallas Mavericks,Detroit Pistons,1,29-25,1,three point jumper,False,26,True,True
+2014-02-22,17.9166666667,Dallas Mavericks,Detroit Pistons,2,50-42,5,three point jumper,False,26,False,True
+2014-02-22,18.0333333333,Dallas Mavericks,Detroit Pistons,2,52-42,8,layup,False,0,True,True
+2014-02-22,18.7,Dallas Mavericks,Detroit Pistons,2,52-44,5,three point jumper,False,27,False,True
+2014-02-22,21.0333333333,Dallas Mavericks,Detroit Pistons,2,57-48,8,free throw,False,15,True,True
+2014-02-22,21.0333333333,Dallas Mavericks,Detroit Pistons,2,58-48,9,free throw,False,15,True,True
+2014-02-22,31.0,Dallas Mavericks,Detroit Pistons,3,76-69,6,free throw,False,15,True,True
+2014-02-22,31.0,Dallas Mavericks,Detroit Pistons,3,77-69,7,free throw,False,15,True,True
+2014-02-22,33.4333333333,Dallas Mavericks,Detroit Pistons,3,81-75,4,hook shot,False,8,False,True
+2014-02-22,34.35,Dallas Mavericks,Detroit Pistons,3,84-78,5,free throw,False,15,True,True
+2014-02-22,34.35,Dallas Mavericks,Detroit Pistons,3,84-78,5,free throw,False,15,False,True
+2014-02-22,37.8666666667,Dallas Mavericks,Detroit Pistons,4,93-86,4,three point jumper,False,27,True,True
+2014-02-22,38.5,Dallas Mavericks,Detroit Pistons,4,93-87,4,layup,False,0,False,True
+2014-02-22,45.8333333333,Dallas Mavericks,Detroit Pistons,4,111-100,8,three point jumper,False,25,False,True
+2014-02-12,7.81666666667,Dallas Mavericks,Indiana Pacers,1,12-12,-3,three point jumper,False,27,True,True
+2014-02-12,9.51666666667,Dallas Mavericks,Indiana Pacers,1,15-13,-1,three point jumper,False,23,True,True
+2014-02-12,11.7,Dallas Mavericks,Indiana Pacers,1,19-19,-2,layup,False,0,False,True
+2014-02-12,14.5666666667,Dallas Mavericks,Indiana Pacers,2,21-21,-2,two point shot,False,1,True,True
+2014-02-12,23.2,Dallas Mavericks,Indiana Pacers,2,42-40,0,two point jumper,False,18,False,True
+2014-02-12,24.0,Dallas Mavericks,Indiana Pacers,2,44-42,-1,three point jumper,False,42,False,True
+2014-02-12,33.6833333333,Dallas Mavericks,Indiana Pacers,3,60-60,-3,three point jumper,False,26,True,True
+2014-02-12,34.6166666667,Dallas Mavericks,Indiana Pacers,3,60-62,-4,two point jumper,False,1,False,True
+2014-02-12,35.0166666667,Dallas Mavericks,Indiana Pacers,3,60-62,-5,three point jumper,False,27,False,True
+2014-02-12,38.7666666667,Dallas Mavericks,Indiana Pacers,4,63-62,-2,three point jumper,False,27,False,True
+2014-02-12,40.2833333333,Dallas Mavericks,Indiana Pacers,4,65-62,1,two point jumper,False,1,False,True
+2014-11-09,9.11666666667,Dallas Mavericks,Milwaukee Bucks,1,24-15,7,two point shot,False,1,True,True
+2014-11-09,10.9,Dallas Mavericks,Milwaukee Bucks,1,31-19,11,free throw,False,15,True,True
+2014-11-09,10.9,Dallas Mavericks,Milwaukee Bucks,1,32-19,12,free throw,False,15,True,True
+2014-11-09,12.65,Dallas Mavericks,Milwaukee Bucks,2,35-22,12,free throw,False,15,True,True
+2014-11-09,12.65,Dallas Mavericks,Milwaukee Bucks,2,36-22,13,free throw,False,15,True,True
+2014-11-09,13.3166666667,Dallas Mavericks,Milwaukee Bucks,2,36-22,12,two point jumper,False,20,False,True
+2014-11-09,14.2666666667,Dallas Mavericks,Milwaukee Bucks,2,41-25,13,three point jumper,False,28,True,True
+2014-11-09,30.5,Dallas Mavericks,Milwaukee Bucks,3,64-56,6,layup,False,0,False,True
+2014-11-09,30.7,Dallas Mavericks,Milwaukee Bucks,3,64-56,5,three point jumper,False,24,False,True
+2014-11-09,33.8666666667,Dallas Mavericks,Milwaukee Bucks,3,66-61,2,three point jumper,False,24,False,True
+2014-11-09,34.25,Dallas Mavericks,Milwaukee Bucks,3,66-61,3,two point jumper,False,10,False,True
+2014-11-09,35.0333333333,Dallas Mavericks,Milwaukee Bucks,3,66-63,1,two point jumper,False,3,False,True
+2014-11-09,35.05,Dallas Mavericks,Milwaukee Bucks,3,68-63,3,layup,False,0,True,True
+2014-11-09,40.1,Dallas Mavericks,Milwaukee Bucks,4,78-71,5,layup,False,0,True,True
+2014-11-09,42.3833333333,Dallas Mavericks,Milwaukee Bucks,4,80-73,4,three point jumper,False,26,False,True
+2014-12-14,7.1,Dallas Mavericks,Milwaukee Bucks,1,12-15,1,layup,True,0,False,False
+2014-12-14,7.13333333333,Dallas Mavericks,Milwaukee Bucks,1,12-15,1,tip shot,True,0,False,False
+2014-12-14,7.13333333333,Dallas Mavericks,Milwaukee Bucks,1,12-15,1,tip shot,True,0,False,False
+2014-12-14,8.4,Dallas Mavericks,Milwaukee Bucks,1,16-21,2,unknown,True,25,True,False
+2014-12-14,8.86666666667,Dallas Mavericks,Milwaukee Bucks,1,19-24,2,three point jumper,True,24,True,False
+2014-12-14,9.21666666667,Dallas Mavericks,Milwaukee Bucks,1,21-25,3,free throw,True,15,True,False
+2014-12-14,20.05,Dallas Mavericks,Milwaukee Bucks,2,39-50,8,three point jumper,True,22,False,False
+2014-12-14,36.0,Dallas Mavericks,Milwaukee Bucks,3,61-93,29,three point jumper,True,28,True,False
+2014-12-14,39.0833333333,Dallas Mavericks,Milwaukee Bucks,4,65-95,29,free throw,True,15,True,False
+2014-12-14,39.0833333333,Dallas Mavericks,Milwaukee Bucks,4,65-95,29,free throw,True,15,False,False
+2014-12-14,39.95,Dallas Mavericks,Milwaukee Bucks,4,67-97,28,two point shot,True,20,True,False
+2014-12-14,45.4666666667,Dallas Mavericks,Milwaukee Bucks,4,86-104,16,two point shot,True,1,True,False
+2014-12-14,47.0833333333,Dallas Mavericks,Milwaukee Bucks,4,93-106,10,three point jumper,True,26,False,False
+2014-10-30,7.78333333333,Dallas Mavericks,Atlanta Hawks,1,18-24,4,two point jumper,True,19,True,True
+2014-10-30,8.35,Dallas Mavericks,Atlanta Hawks,1,18-24,4,two point jumper,True,19,False,True
+2014-10-30,8.65,Dallas Mavericks,Atlanta Hawks,1,18-26,6,two point shot,True,1,True,True
+2014-10-30,9.15,Dallas Mavericks,Atlanta Hawks,1,18-26,6,two point shot,True,17,False,True
+2014-10-30,9.35,Dallas Mavericks,Atlanta Hawks,1,18-28,8,two point shot,True,20,True,True
+2014-10-30,9.9,Dallas Mavericks,Atlanta Hawks,1,21-28,6,free throw,True,15,False,True
+2014-10-30,9.9,Dallas Mavericks,Atlanta Hawks,1,21-29,7,free throw,True,15,True,True
+2014-10-30,11.4666666667,Dallas Mavericks,Atlanta Hawks,1,28-31,0,three point jumper,True,24,False,True
+2014-10-30,13.0,Dallas Mavericks,Atlanta Hawks,2,30-37,5,two point shot,True,20,True,True
+2014-10-30,21.6,Dallas Mavericks,Atlanta Hawks,2,49-51,0,two point shot,True,1,True,True
+2014-10-30,23.5166666667,Dallas Mavericks,Atlanta Hawks,2,53-53,-3,three point jumper,True,22,False,True
+2014-10-30,24.0,Dallas Mavericks,Atlanta Hawks,2,55-53,-4,two point jumper,True,6,False,True
+2014-10-30,29.9166666667,Dallas Mavericks,Atlanta Hawks,3,68-67,-3,two point jumper,True,21,False,True
+2014-10-30,30.45,Dallas Mavericks,Atlanta Hawks,3,70-69,-3,two point shot,True,1,True,True
+2014-10-30,33.0333333333,Dallas Mavericks,Atlanta Hawks,3,70-79,6,three point jumper,True,26,True,True
+2014-10-30,35.45,Dallas Mavericks,Atlanta Hawks,3,76-86,8,two point shot,True,13,True,True
+2014-10-30,35.9666666667,Dallas Mavericks,Atlanta Hawks,3,79-86,4,three point jumper,True,25,False,True
+2014-10-30,41.9833333333,Dallas Mavericks,Atlanta Hawks,4,89-102,10,three point jumper,True,24,True,True
+2014-11-01,6.6,Dallas Mavericks,Houston Rockets,1,10-18,-11,three point jumper,False,27,False,False
+2014-11-01,8.4,Dallas Mavericks,Houston Rockets,1,12-25,-16,three point jumper,False,23,False,False
+2014-11-01,8.9,Dallas Mavericks,Houston Rockets,1,13-25,-13,free throw,False,15,True,False
+2014-11-01,8.9,Dallas Mavericks,Houston Rockets,1,14-25,-12,free throw,False,15,True,False
+2014-11-01,20.8333333333,Dallas Mavericks,Houston Rockets,2,40-56,-18,two point shot,False,1,True,False
+2014-11-01,28.7833333333,Dallas Mavericks,Houston Rockets,3,56-65,-12,three point jumper,False,25,False,False
+2014-11-01,31.6333333333,Dallas Mavericks,Houston Rockets,3,64-75,-13,two point shot,False,8,True,False
+2014-11-01,34.35,Dallas Mavericks,Houston Rockets,3,72-81,-11,two point shot,False,3,False,False
+2014-11-01,38.15,Dallas Mavericks,Houston Rockets,4,76-91,-17,two point jumper,False,17,False,False
+2014-11-02,9.0,Dallas Mavericks,Memphis Grizzlies,1,13-23,8,two point shot,True,1,False,False
+2014-11-02,9.95,Dallas Mavericks,Memphis Grizzlies,1,13-28,12,three point jumper,True,25,True,False
+2014-11-02,11.4166666667,Dallas Mavericks,Memphis Grizzlies,1,16-31,14,free throw,True,15,True,False
+2014-11-02,11.4166666667,Dallas Mavericks,Memphis Grizzlies,1,16-32,15,free throw,True,15,True,False
+2014-11-02,13.45,Dallas Mavericks,Memphis Grizzlies,2,18-37,17,two point jumper,True,21,True,False
+2014-11-02,19.3833333333,Dallas Mavericks,Memphis Grizzlies,2,28-48,18,layup,True,0,False,False
+2014-11-02,31.0666666667,Dallas Mavericks,Memphis Grizzlies,3,54-60,3,three point jumper,True,25,False,False
+2014-11-02,33.9166666667,Dallas Mavericks,Memphis Grizzlies,3,59-66,4,three point jumper,True,25,False,False
+2014-11-02,35.9166666667,Dallas Mavericks,Memphis Grizzlies,3,63-72,7,two point shot,True,6,True,False
+2014-11-02,35.9166666667,Dallas Mavericks,Memphis Grizzlies,3,63-73,9,free throw,True,15,True,False
+2014-11-02,37.3833333333,Dallas Mavericks,Memphis Grizzlies,4,67-76,8,free throw,True,15,True,False
+2014-11-02,37.3833333333,Dallas Mavericks,Memphis Grizzlies,4,67-76,8,free throw,True,15,False,False
+2014-11-02,42.0666666667,Dallas Mavericks,Memphis Grizzlies,4,77-92,12,three point jumper,True,24,False,False
+2014-11-06,11.0,Dallas Mavericks,Oklahoma City Thunder,1,29-31,-4,layup,False,0,False,True
+2014-11-06,16.6,Dallas Mavericks,Oklahoma City Thunder,2,39-41,-5,three point jumper,False,23,False,True
+2014-11-06,22.9833333333,Dallas Mavericks,Oklahoma City Thunder,2,51-57,-9,three point jumper,False,23,False,True
+2014-11-06,31.7,Dallas Mavericks,Oklahoma City Thunder,3,63-74,-13,two point shot,False,18,False,True
+2014-11-12,7.88333333333,Dallas Mavericks,Washington Wizards,1,26-19,-9,two point jumper,True,22,False,False
+2014-11-12,8.5,Dallas Mavericks,Washington Wizards,1,26-21,-7,two point shot,True,5,True,False
+2014-11-12,8.96666666667,Dallas Mavericks,Washington Wizards,1,26-21,-8,three point jumper,True,24,False,False
+2014-11-12,10.6666666667,Dallas Mavericks,Washington Wizards,1,29-30,-2,three point jumper,True,24,True,False
+2014-11-12,13.3166666667,Dallas Mavericks,Washington Wizards,2,36-36,-3,three point jumper,True,24,True,False
+2014-11-12,16.5666666667,Dallas Mavericks,Washington Wizards,2,38-44,3,three point jumper,True,24,False,False
+2014-11-12,23.4833333333,Dallas Mavericks,Washington Wizards,2,49-59,7,three point jumper,True,26,True,False
+2014-11-12,29.1333333333,Dallas Mavericks,Washington Wizards,3,59-71,9,three point jumper,True,25,False,False
+2014-11-12,29.6,Dallas Mavericks,Washington Wizards,3,62-73,9,layup,True,0,True,False
+2014-11-12,30.2,Dallas Mavericks,Washington Wizards,3,64-76,9,three point jumper,True,26,True,False
+2014-11-12,32.3666666667,Dallas Mavericks,Washington Wizards,3,71-78,4,three point jumper,True,25,False,False
+2014-11-12,33.4833333333,Dallas Mavericks,Washington Wizards,3,74-78,1,three point jumper,True,24,False,False
+2014-11-15,8.23333333333,Dallas Mavericks,Miami Heat,1,25-21,2,two point jumper,False,20,True,False
+2014-11-15,9.73333333333,Dallas Mavericks,Miami Heat,1,25-25,-3,three point jumper,False,24,False,False
+2014-11-15,11.5,Dallas Mavericks,Miami Heat,1,30-29,-2,three point jumper,False,24,True,False
+2014-11-15,11.9833333333,Dallas Mavericks,Miami Heat,1,30-31,-4,three point jumper,False,25,False,False
+2014-11-15,12.8166666667,Dallas Mavericks,Miami Heat,2,35-33,-1,three point jumper,False,24,True,False
+2014-11-15,15.3333333333,Dallas Mavericks,Miami Heat,2,35-43,-11,three point jumper,False,25,False,False
+2014-11-15,21.3333333333,Dallas Mavericks,Miami Heat,2,46-56,-12,layup,False,0,False,False
+2014-11-15,31.7833333333,Dallas Mavericks,Miami Heat,3,66-70,-5,free throw,False,15,True,False
+2014-11-15,31.7833333333,Dallas Mavericks,Miami Heat,3,67-70,-4,free throw,False,15,True,False
+2014-11-15,32.4,Dallas Mavericks,Miami Heat,3,68-70,-3,free throw,False,15,True,False
+2014-11-15,32.4,Dallas Mavericks,Miami Heat,3,69-70,-2,free throw,False,15,True,False
+2014-11-15,40.0,Dallas Mavericks,Miami Heat,4,89-93,-6,two point jumper,False,9,True,False
+2014-11-15,40.6666666667,Dallas Mavericks,Miami Heat,4,89-96,-9,layup,False,0,False,False
+2014-11-15,40.7,Dallas Mavericks,Miami Heat,4,91-96,-7,two point shot,False,1,True,False
+2014-11-15,41.7333333333,Dallas Mavericks,Miami Heat,4,93-96,-5,two point jumper,False,17,True,False
+2014-11-15,47.7833333333,Dallas Mavericks,Miami Heat,4,102-108,-9,three point jumper,False,24,True,False
+2014-11-16,5.7,Dallas Mavericks,Orlando Magic,1,9-14,-8,three point jumper,False,26,False,True
+2014-11-16,8.56666666667,Dallas Mavericks,Orlando Magic,1,20-20,-2,two point jumper,False,14,True,True
+2014-11-16,9.98333333333,Dallas Mavericks,Orlando Magic,1,25-22,1,two point jumper,False,8,True,True
+2014-11-16,10.75,Dallas Mavericks,Orlando Magic,1,27-22,2,three point jumper,False,26,False,True
+2014-11-16,11.3666666667,Dallas Mavericks,Orlando Magic,1,30-22,7,free throw,False,15,True,True
+2014-11-16,11.3666666667,Dallas Mavericks,Orlando Magic,1,31-22,8,free throw,False,15,True,True
+2014-11-16,12.0,Dallas Mavericks,Orlando Magic,1,31-24,4,three point jumper,False,31,False,True
+2014-11-16,12.95,Dallas Mavericks,Orlando Magic,2,31-24,4,three point jumper,False,26,False,True
+2014-11-16,21.65,Dallas Mavericks,Orlando Magic,2,51-38,10,three point jumper,False,25,True,True
+2014-11-16,30.35,Dallas Mavericks,Orlando Magic,3,77-66,8,three point jumper,False,23,True,True
+2014-11-16,41.3166666667,Dallas Mavericks,Orlando Magic,4,91-87,2,two point jumper,False,18,False,True
+2014-11-16,42.6666666667,Dallas Mavericks,Orlando Magic,4,91-87,1,three point jumper,False,26,False,True
+2014-11-20,7.1,Dallas Mavericks,Houston Rockets,1,27-19,-11,three point jumper,True,25,False,True
+2014-11-20,9.96666666667,Dallas Mavericks,Houston Rockets,1,33-23,-11,free throw,True,15,False,True
+2014-11-20,9.96666666667,Dallas Mavericks,Houston Rockets,1,33-24,-10,free throw,True,15,True,True
+2014-11-20,12.8166666667,Dallas Mavericks,Houston Rockets,2,42-29,-15,two point jumper,True,19,False,True
+2014-11-20,18.6333333333,Dallas Mavericks,Houston Rockets,2,52-44,-10,two point shot,True,15,False,True
+2014-11-20,22.4166666667,Dallas Mavericks,Houston Rockets,2,63-55,-11,three point jumper,True,25,False,True
+2014-11-20,22.7166666667,Dallas Mavericks,Houston Rockets,2,63-56,-8,free throw,True,15,True,True
+2014-11-20,22.7166666667,Dallas Mavericks,Houston Rockets,2,63-57,-7,free throw,True,15,True,True
+2014-11-20,32.65,Dallas Mavericks,Houston Rockets,3,93-77,-18,two point shot,True,6,True,True
+2014-11-20,32.65,Dallas Mavericks,Houston Rockets,3,93-78,-16,free throw,True,15,True,True
+2014-11-20,35.5833333333,Dallas Mavericks,Houston Rockets,3,101-86,-16,free throw,True,15,False,True
+2014-11-20,35.5833333333,Dallas Mavericks,Houston Rockets,3,101-87,-15,free throw,True,15,True,True
+2014-11-20,38.1166666667,Dallas Mavericks,Houston Rockets,4,101-89,-15,three point jumper,True,26,False,True
+2014-11-20,40.1666666667,Dallas Mavericks,Houston Rockets,4,104-97,-9,two point shot,True,14,True,True
+2014-11-22,9.0,Dallas Mavericks,Utah Jazz,1,10-25,12,three point jumper,True,26,True,False
+2014-11-22,10.8666666667,Dallas Mavericks,Utah Jazz,1,16-29,11,two point jumper,True,20,False,False
+2014-11-22,12.0,Dallas Mavericks,Utah Jazz,1,18-31,10,three point jumper,True,81,False,False
+2014-11-22,17.8833333333,Dallas Mavericks,Utah Jazz,2,24-44,17,three point jumper,True,27,True,False
+2014-11-22,30.6666666667,Dallas Mavericks,Utah Jazz,3,50-68,16,two point jumper,True,20,False,False
+2014-11-22,32.8166666667,Dallas Mavericks,Utah Jazz,3,60-76,14,layup,True,0,True,False
+2014-11-22,32.8166666667,Dallas Mavericks,Utah Jazz,3,60-76,15,free throw,True,15,False,False
+2014-11-22,35.0833333333,Dallas Mavericks,Utah Jazz,3,62-78,13,three point jumper,True,26,False,False
+2014-11-22,42.9833333333,Dallas Mavericks,Utah Jazz,4,83-90,4,three point jumper,True,25,False,False
+2014-11-23,7.38333333333,Dallas Mavericks,Denver Nuggets,1,16-15,-1,two point jumper,False,18,False,False
+2014-11-23,8.06666666667,Dallas Mavericks,Denver Nuggets,1,16-18,-4,unknown,False,6,False,False
+2014-11-23,9.95,Dallas Mavericks,Denver Nuggets,1,20-25,-7,unknown,False,6,False,False
+2014-11-23,10.2166666667,Dallas Mavericks,Denver Nuggets,1,22-26,-6,two point jumper,False,13,True,False
+2014-11-23,11.4833333333,Dallas Mavericks,Denver Nuggets,1,22-31,-11,two point shot,False,16,False,False
+2014-11-23,16.5666666667,Dallas Mavericks,Denver Nuggets,2,32-42,-13,three point jumper,False,28,False,False
+2014-11-23,30.4833333333,Dallas Mavericks,Denver Nuggets,3,70-76,-9,three point jumper,False,25,True,False
+2014-11-23,32.2166666667,Dallas Mavericks,Denver Nuggets,3,73-76,-6,three point jumper,False,26,True,False
+2014-11-23,32.5833333333,Dallas Mavericks,Denver Nuggets,3,75-76,-3,two point jumper,False,23,True,False
+2014-11-23,33.6833333333,Dallas Mavericks,Denver Nuggets,3,75-76,-3,two point jumper,False,15,False,False
+2014-11-23,35.6833333333,Dallas Mavericks,Denver Nuggets,3,78-84,-9,three point jumper,False,26,True,False
+2014-11-23,37.8166666667,Dallas Mavericks,Denver Nuggets,4,85-86,-4,three point jumper,False,25,True,False
+2014-11-25,8.21666666667,Dallas Mavericks,Denver Nuggets,1,21-25,2,two point shot,True,2,True,True
+2014-11-25,8.93333333333,Dallas Mavericks,Denver Nuggets,1,23-25,-1,three point jumper,True,28,False,True
+2014-11-25,10.6833333333,Dallas Mavericks,Denver Nuggets,1,27-25,-4,two point jumper,True,18,False,True
+2014-11-25,17.6,Dallas Mavericks,Denver Nuggets,2,41-35,-7,free throw,True,15,True,True
+2014-11-25,17.6,Dallas Mavericks,Denver Nuggets,2,41-36,-6,free throw,True,15,True,True
+2014-11-25,18.35,Dallas Mavericks,Denver Nuggets,2,43-36,-9,two point jumper,True,21,False,True
+2014-11-25,19.0666666667,Dallas Mavericks,Denver Nuggets,2,46-36,-12,unknown,True,5,False,True
+2014-11-25,29.9166666667,Dallas Mavericks,Denver Nuggets,3,72-59,-15,two point jumper,True,17,True,True
+2014-11-25,31.1,Dallas Mavericks,Denver Nuggets,3,74-61,-15,layup,True,0,False,True
+2014-11-25,32.0833333333,Dallas Mavericks,Denver Nuggets,3,76-63,-16,three point jumper,True,22,False,True
+2014-11-25,32.2,Dallas Mavericks,Denver Nuggets,3,76-65,-13,layup,True,0,True,True
+2014-11-25,34.4333333333,Dallas Mavericks,Denver Nuggets,3,81-72,-11,two point shot,True,21,False,True
+2014-11-25,36.0,Dallas Mavericks,Denver Nuggets,3,85-77,-11,three point jumper,True,26,False,True
+2014-11-25,38.0666666667,Dallas Mavericks,Denver Nuggets,4,89-81,-10,two point jumper,True,22,False,True
+2014-11-25,42.2833333333,Dallas Mavericks,Denver Nuggets,4,97-87,-13,three point jumper,True,25,False,True
+2014-11-29,9.2,Dallas Mavericks,Atlanta Hawks,1,23-23,-2,two point jumper,False,12,False,False
+2014-11-29,9.7,Dallas Mavericks,Atlanta Hawks,1,24-23,0,free throw,False,15,True,False
+2014-11-29,9.7,Dallas Mavericks,Atlanta Hawks,1,25-23,1,free throw,False,15,True,False
+2014-11-29,11.3166666667,Dallas Mavericks,Atlanta Hawks,1,28-23,2,three point jumper,False,25,True,False
+2014-11-29,12.5833333333,Dallas Mavericks,Atlanta Hawks,2,28-23,2,three point jumper,False,25,False,False
+2014-11-29,20.3666666667,Dallas Mavericks,Atlanta Hawks,2,45-30,13,two point jumper,False,4,False,False
+2014-11-29,30.0333333333,Dallas Mavericks,Atlanta Hawks,3,66-49,15,two point jumper,False,19,True,False
+2014-11-29,38.4,Dallas Mavericks,Atlanta Hawks,4,80-69,8,three point jumper,False,24,False,False
+2014-11-29,40.9166666667,Dallas Mavericks,Atlanta Hawks,4,83-76,5,two point shot,False,1,True,False
+2014-11-29,42.0333333333,Dallas Mavericks,Atlanta Hawks,4,83-77,3,three point jumper,False,26,False,False
+2014-11-29,47.9833333333,Dallas Mavericks,Atlanta Hawks,4,87-88,-3,two point jumper,False,20,False,False
+2014-11-30,8.78333333333,Dallas Mavericks,Minnesota Timberwolves,1,21-20,-3,two point jumper,True,10,False,False
+2014-11-30,10.0,Dallas Mavericks,Minnesota Timberwolves,1,21-22,-2,three point jumper,True,25,False,False
+2014-11-30,11.0,Dallas Mavericks,Minnesota Timberwolves,1,27-24,-5,two point shot,True,7,True,False
+2014-11-30,12.6833333333,Dallas Mavericks,Minnesota Timberwolves,2,32-24,-10,two point shot,True,5,False,False
+2014-11-30,19.0,Dallas Mavericks,Minnesota Timberwolves,2,41-37,-6,two point jumper,True,13,False,False
+2014-11-30,31.4166666667,Dallas Mavericks,Minnesota Timberwolves,3,69-71,-1,three point jumper,True,27,True,False
+2014-11-30,34.9833333333,Dallas Mavericks,Minnesota Timberwolves,3,79-75,-6,two point jumper,True,13,False,False
+2014-11-30,35.4333333333,Dallas Mavericks,Minnesota Timberwolves,3,81-75,-8,two point shot,True,5,False,False
+2014-11-30,35.45,Dallas Mavericks,Minnesota Timberwolves,3,81-77,-6,two point shot,True,2,True,False
+2014-11-30,35.9166666667,Dallas Mavericks,Minnesota Timberwolves,3,84-77,-10,three point jumper,True,25,False,False
+2014-11-30,36.3,Dallas Mavericks,Minnesota Timberwolves,4,84-77,-9,two point jumper,True,18,False,False
+2014-11-30,41.1333333333,Dallas Mavericks,Minnesota Timberwolves,4,92-87,-7,two point shot,True,7,True,False
+2014-11-30,41.1333333333,Dallas Mavericks,Minnesota Timberwolves,4,92-88,-5,free throw,True,15,True,False
+2014-12-03,6.38333333333,Dallas Mavericks,Charlotte Bobcats,1,8-12,1,three point jumper,True,26,True,True
+2014-12-03,8.51666666667,Dallas Mavericks,Charlotte Bobcats,1,12-16,1,three point jumper,True,25,False,True
+2014-12-03,8.76666666667,Dallas Mavericks,Charlotte Bobcats,1,12-16,3,free throw,True,15,False,True
+2014-12-03,8.76666666667,Dallas Mavericks,Charlotte Bobcats,1,12-16,3,free throw,True,15,False,True
+2014-12-03,10.1166666667,Dallas Mavericks,Charlotte Bobcats,1,16-19,2,free throw,True,15,True,True
+2014-12-03,10.1166666667,Dallas Mavericks,Charlotte Bobcats,1,16-20,3,free throw,True,15,True,True
+2014-12-03,35.9666666667,Dallas Mavericks,Charlotte Bobcats,3,67-60,-10,three point jumper,True,25,False,True
+2014-12-03,36.2166666667,Dallas Mavericks,Charlotte Bobcats,4,67-62,-7,two point shot,True,9,True,True
+2014-12-03,37.8,Dallas Mavericks,Charlotte Bobcats,4,69-65,-7,three point jumper,True,24,False,True
+2014-12-03,39.0666666667,Dallas Mavericks,Charlotte Bobcats,4,71-70,-4,three point jumper,True,25,True,True
+2014-12-03,39.5833333333,Dallas Mavericks,Charlotte Bobcats,4,73-70,-5,layup,True,0,False,True
+2014-12-04,7.2,Dallas Mavericks,New Orleans Pelicans,1,17-14,1,two point shot,False,1,True,False
+2014-12-04,7.75,Dallas Mavericks,New Orleans Pelicans,1,18-16,1,free throw,False,15,True,False
+2014-12-04,7.75,Dallas Mavericks,New Orleans Pelicans,1,19-16,2,free throw,False,15,True,False
+2014-12-04,11.6666666667,Dallas Mavericks,New Orleans Pelicans,1,26-24,0,two point jumper,False,1,False,False
+2014-12-04,15.4333333333,Dallas Mavericks,New Orleans Pelicans,2,33-33,-3,three point jumper,False,23,True,False
+2014-12-04,18.2,Dallas Mavericks,New Orleans Pelicans,2,39-39,-3,three point jumper,False,28,False,False
+2014-12-04,28.8166666667,Dallas Mavericks,New Orleans Pelicans,3,59-60,-4,three point jumper,False,24,True,False
+2014-12-04,30.5333333333,Dallas Mavericks,New Orleans Pelicans,3,63-65,-4,two point jumper,False,1,False,False
+2014-12-04,33.0333333333,Dallas Mavericks,New Orleans Pelicans,3,65-70,-7,two point jumper,False,21,False,False
+2014-12-04,34.75,Dallas Mavericks,New Orleans Pelicans,3,71-75,-7,three point jumper,False,27,True,False
+2014-12-04,41.5333333333,Dallas Mavericks,New Orleans Pelicans,4,88-86,0,layup,False,0,True,False
+2014-12-07,12.3666666667,Dallas Mavericks,Portland Trail Blazers,2,30-30,-2,layup,False,0,True,True
+2014-12-07,12.95,Dallas Mavericks,Portland Trail Blazers,2,30-33,-5,layup,False,0,False,True
+2014-12-07,13.0,Dallas Mavericks,Portland Trail Blazers,2,32-33,-3,two point jumper,False,10,True,True
+2014-12-07,20.65,Dallas Mavericks,Portland Trail Blazers,2,47-46,-1,layup,False,0,True,True
+2014-12-07,24.0,Dallas Mavericks,Portland Trail Blazers,2,55-53,-1,three point jumper,False,27,False,True
+2014-12-07,30.95,Dallas Mavericks,Portland Trail Blazers,3,71-66,2,three point jumper,False,28,False,True
+2014-12-07,32.0333333333,Dallas Mavericks,Portland Trail Blazers,3,71-71,-2,layup,False,0,False,True
+2014-12-07,36.6333333333,Dallas Mavericks,Portland Trail Blazers,4,79-76,1,layup,False,0,False,True
+2014-12-07,36.7666666667,Dallas Mavericks,Portland Trail Blazers,4,79-76,1,two point jumper,False,20,False,True
+2014-12-07,41.3833333333,Dallas Mavericks,Portland Trail Blazers,4,91-84,5,layup,False,0,True,True
+2014-12-07,43.2166666667,Dallas Mavericks,Portland Trail Blazers,4,93-88,2,three point jumper,False,28,False,True
+2014-12-18,11.4833333333,Dallas Mavericks,Memphis Grizzlies,1,21-26,4,free throw,True,15,False,False
+2014-12-18,11.4833333333,Dallas Mavericks,Memphis Grizzlies,1,21-27,5,free throw,True,15,True,False
+2014-12-18,13.1333333333,Dallas Mavericks,Memphis Grizzlies,2,21-30,6,three point jumper,True,26,True,False
+2014-12-18,19.7833333333,Dallas Mavericks,Memphis Grizzlies,2,33-45,10,layup,True,0,True,False
+2014-12-18,22.75,Dallas Mavericks,Memphis Grizzlies,2,37-52,13,layup,True,0,True,False
+2014-12-18,31.9166666667,Dallas Mavericks,Memphis Grizzlies,3,59-65,4,two point jumper,True,6,False,False
+2014-12-18,32.9333333333,Dallas Mavericks,Memphis Grizzlies,3,62-69,6,free throw,True,15,True,False
+2014-12-18,32.9333333333,Dallas Mavericks,Memphis Grizzlies,3,62-70,7,free throw,True,15,True,False
+2014-12-18,35.9833333333,Dallas Mavericks,Memphis Grizzlies,3,66-77,10,free throw,True,15,True,False
+2014-12-18,35.9833333333,Dallas Mavericks,Memphis Grizzlies,3,66-78,11,free throw,True,15,True,False
+2014-12-18,37.55,Dallas Mavericks,Memphis Grizzlies,4,66-82,14,two point jumper,True,21,True,False
+2014-12-18,38.3833333333,Dallas Mavericks,Memphis Grizzlies,4,66-82,13,three point jumper,True,27,False,False
+2014-12-23,7.85,Dallas Mavericks,Houston Rockets,1,13-16,-5,two point shot,False,1,True,True
+2014-12-23,9.33333333333,Dallas Mavericks,Houston Rockets,1,16-19,-5,two point jumper,False,23,False,True
+2014-12-23,10.7166666667,Dallas Mavericks,Houston Rockets,1,18-22,-6,two point shot,False,5,True,True
+2014-12-23,13.5,Dallas Mavericks,Houston Rockets,2,24-29,-7,two point shot,False,1,True,True
+2014-12-23,14.5166666667,Dallas Mavericks,Houston Rockets,2,29-34,-8,three point jumper,False,25,True,True
+2014-12-23,33.2166666667,Dallas Mavericks,Houston Rockets,3,79-68,8,three point jumper,False,28,True,True
+2014-12-23,33.7333333333,Dallas Mavericks,Houston Rockets,3,81-70,9,two point shot,False,12,True,True
+2014-12-23,35.7166666667,Dallas Mavericks,Houston Rockets,3,85-76,8,free throw,False,15,True,True
+2014-12-23,35.7166666667,Dallas Mavericks,Houston Rockets,3,86-76,9,free throw,False,15,True,True
+2014-12-23,36.0,Dallas Mavericks,Houston Rockets,3,86-78,5,three point jumper,False,47,False,True
+2014-12-26,6.1,Dallas Mavericks,San Antonio Spurs,1,12-12,-2,two point shot,True,21,False,False
+2014-12-26,6.78333333333,Dallas Mavericks,San Antonio Spurs,1,14-14,-2,two point shot,True,27,False,False
+2014-12-26,9.41666666667,Dallas Mavericks,San Antonio Spurs,1,18-18,-3,three point jumper,True,23,False,False
+2014-12-26,12.45,Dallas Mavericks,San Antonio Spurs,2,27-22,-7,two point shot,True,9,True,False
+2014-12-26,13.5166666667,Dallas Mavericks,San Antonio Spurs,2,32-25,-10,three point jumper,True,24,True,False
+2014-12-26,14.3666666667,Dallas Mavericks,San Antonio Spurs,2,32-27,-7,two point shot,True,1,True,False
+2014-12-26,14.3666666667,Dallas Mavericks,San Antonio Spurs,2,32-28,-5,free throw,True,15,True,False
+2014-12-26,17.8833333333,Dallas Mavericks,San Antonio Spurs,2,49-40,-10,free throw,True,15,True,False
+2014-12-26,17.8833333333,Dallas Mavericks,San Antonio Spurs,2,49-41,-9,free throw,True,15,True,False
+2014-12-26,18.4166666667,Dallas Mavericks,San Antonio Spurs,2,49-41,-10,two point shot,True,1,False,False
+2014-12-26,18.8166666667,Dallas Mavericks,San Antonio Spurs,2,51-41,-12,two point jumper,True,7,False,False
+2014-12-26,31.4166666667,Dallas Mavericks,San Antonio Spurs,3,72-67,-8,three point jumper,True,23,False,False
+2014-12-26,31.8166666667,Dallas Mavericks,San Antonio Spurs,3,74-68,-7,free throw,True,15,True,False
+2014-12-26,31.8166666667,Dallas Mavericks,San Antonio Spurs,3,74-69,-6,free throw,True,15,True,False
+2014-12-26,34.9333333333,Dallas Mavericks,San Antonio Spurs,3,80-75,-7,two point jumper,True,23,True,False
+2014-12-26,35.4,Dallas Mavericks,San Antonio Spurs,3,82-76,-7,free throw,True,15,True,False
+2014-12-26,35.4,Dallas Mavericks,San Antonio Spurs,3,82-77,-6,free throw,True,15,True,False
+2014-12-26,39.6833333333,Dallas Mavericks,San Antonio Spurs,4,94-82,-13,free throw,True,15,True,False
+2014-12-26,39.6833333333,Dallas Mavericks,San Antonio Spurs,4,94-83,-12,free throw,True,15,True,False
+2014-12-26,41.1333333333,Dallas Mavericks,San Antonio Spurs,4,96-85,-13,two point shot,True,6,False,False
+2014-12-26,44.6,Dallas Mavericks,San Antonio Spurs,4,102-98,-5,free throw,True,15,True,False
+2014-12-26,44.6,Dallas Mavericks,San Antonio Spurs,4,102-99,-4,free throw,True,15,True,False
+2014-12-30,7.63333333333,Dallas Mavericks,Minnesota Timberwolves,1,23-18,3,two point shot,False,1,True,False
+2014-12-30,8.53333333333,Dallas Mavericks,Minnesota Timberwolves,1,23-20,0,three point jumper,False,25,False,False
+2014-12-30,14.5666666667,Dallas Mavericks,Minnesota Timberwolves,2,33-28,3,two point jumper,False,20,False,False
+2014-12-30,30.8833333333,Dallas Mavericks,Minnesota Timberwolves,3,72-64,6,two point jumper,False,21,False,False
+2014-12-30,31.4166666667,Dallas Mavericks,Minnesota Timberwolves,3,72-66,4,two point jumper,False,14,False,False
+2014-12-30,34.6166666667,Dallas Mavericks,Minnesota Timberwolves,3,81-75,4,two point jumper,False,13,True,False
+2014-12-30,35.7666666667,Dallas Mavericks,Minnesota Timberwolves,3,81-79,-1,three point jumper,False,26,False,False
+2014-12-30,36.0,Dallas Mavericks,Minnesota Timberwolves,3,81-81,-3,three point jumper,False,26,False,False
+2014-12-30,41.85,Dallas Mavericks,Minnesota Timberwolves,4,88-90,-3,free throw,False,15,True,False
+2014-12-30,41.85,Dallas Mavericks,Minnesota Timberwolves,4,89-90,-2,free throw,False,15,True,False
+2014-12-30,42.35,Dallas Mavericks,Minnesota Timberwolves,4,89-90,-4,three point jumper,False,26,False,False
+2014-01-01,1.95,Dallas Mavericks,Washington Wizards,1,0-2,-5,three point jumper,False,24,False,True
+2014-01-01,11.4333333333,Dallas Mavericks,Washington Wizards,1,23-20,0,unknown,False,27,True,True
+2014-01-01,13.3833333333,Dallas Mavericks,Washington Wizards,2,25-23,-1,three point jumper,False,31,False,True
+2014-01-01,15.1333333333,Dallas Mavericks,Washington Wizards,2,29-23,4,two point jumper,False,1,False,True
+2014-01-01,18.4833333333,Dallas Mavericks,Washington Wizards,2,35-29,3,three point jumper,False,27,False,True
+2014-01-01,19.2166666667,Dallas Mavericks,Washington Wizards,2,35-32,1,two point jumper,False,12,False,True
+2014-01-01,34.1,Dallas Mavericks,Washington Wizards,3,59-55,1,three point jumper,False,23,True,True
+2014-01-01,42.6666666667,Dallas Mavericks,Washington Wizards,4,70-72,-4,two point shot,False,17,True,True
+2014-01-01,43.3166666667,Dallas Mavericks,Washington Wizards,4,73-74,-4,three point jumper,False,27,True,True
+2014-01-01,45.1166666667,Dallas Mavericks,Washington Wizards,4,76-74,1,free throw,False,15,True,True
+2014-01-01,45.1166666667,Dallas Mavericks,Washington Wizards,4,77-74,2,free throw,False,15,True,True
+2014-01-08,7.21666666667,Dallas Mavericks,San Antonio Spurs,1,10-19,-11,two point jumper,False,20,True,True
+2014-01-08,9.9,Dallas Mavericks,San Antonio Spurs,1,12-23,-14,three point jumper,False,25,False,True
+2014-01-08,12.25,Dallas Mavericks,San Antonio Spurs,2,16-25,-11,two point jumper,False,15,False,True
+2014-01-08,12.8666666667,Dallas Mavericks,San Antonio Spurs,2,18-25,-9,two point jumper,False,13,True,True
+2014-01-08,13.75,Dallas Mavericks,San Antonio Spurs,2,18-27,-11,layup,False,0,False,True
+2014-01-08,18.45,Dallas Mavericks,San Antonio Spurs,2,26-33,-9,two point jumper,False,18,False,True
+2014-01-08,22.75,Dallas Mavericks,San Antonio Spurs,2,36-44,-10,two point shot,False,1,True,True
+2014-01-08,31.45,Dallas Mavericks,San Antonio Spurs,3,53-63,-13,three point jumper,False,26,True,True
+2014-01-08,32.0666666667,Dallas Mavericks,San Antonio Spurs,3,53-65,-14,two point jumper,False,9,False,True
+2014-01-08,32.1,Dallas Mavericks,San Antonio Spurs,3,55-65,-12,layup,False,0,True,True
+2014-01-08,34.3666666667,Dallas Mavericks,San Antonio Spurs,3,59-74,-17,layup,False,0,False,True
+2014-01-08,36.0,Dallas Mavericks,San Antonio Spurs,3,62-82,-23,three point jumper,False,30,True,True
+2014-01-08,38.2666666667,Dallas Mavericks,San Antonio Spurs,4,64-86,-25,three point jumper,False,25,False,True
+2014-01-08,40.4833333333,Dallas Mavericks,San Antonio Spurs,4,68-93,-27,two point jumper,False,8,False,True
+2014-01-10,6.23333333333,Dallas Mavericks,New Orleans Pelicans,1,20-10,7,three point jumper,False,26,True,False
+2014-01-10,8.75,Dallas Mavericks,New Orleans Pelicans,1,24-15,7,two point shot,False,12,True,False
+2014-01-10,9.41666666667,Dallas Mavericks,New Orleans Pelicans,1,27-17,7,three point jumper,False,25,True,False
+2014-01-10,11.85,Dallas Mavericks,New Orleans Pelicans,1,29-24,2,three point jumper,False,26,False,False
+2014-01-10,18.7,Dallas Mavericks,New Orleans Pelicans,2,41-40,0,free throw,False,15,False,False
+2014-01-10,18.7,Dallas Mavericks,New Orleans Pelicans,2,42-40,1,free throw,False,15,True,False
+2014-01-10,19.2,Dallas Mavericks,New Orleans Pelicans,2,45-40,2,three point jumper,False,23,True,False
+2014-01-10,30.9166666667,Dallas Mavericks,New Orleans Pelicans,3,74-53,18,three point jumper,False,25,False,False
+2014-01-10,38.1333333333,Dallas Mavericks,New Orleans Pelicans,4,88-71,16,free throw,False,15,True,False
+2014-01-10,38.1333333333,Dallas Mavericks,New Orleans Pelicans,4,89-71,17,free throw,False,15,True,False
+2014-01-11,7.1,Dallas Mavericks,New Orleans Pelicans,1,9-8,-4,three point jumper,True,25,False,True
+2014-01-11,9.96666666667,Dallas Mavericks,New Orleans Pelicans,1,17-12,-8,three point jumper,True,25,False,True
+2014-01-11,10.25,Dallas Mavericks,New Orleans Pelicans,1,19-13,-7,free throw,True,15,True,True
+2014-01-11,10.25,Dallas Mavericks,New Orleans Pelicans,1,19-14,-6,free throw,True,15,True,True
+2014-01-11,10.7666666667,Dallas Mavericks,New Orleans Pelicans,1,19-16,-5,layup,True,0,True,True
+2014-01-11,11.45,Dallas Mavericks,New Orleans Pelicans,1,22-16,-7,free throw,True,15,False,True
+2014-01-11,11.45,Dallas Mavericks,New Orleans Pelicans,1,22-17,-6,free throw,True,15,True,True
+2014-01-11,12.95,Dallas Mavericks,New Orleans Pelicans,2,24-19,-7,two point jumper,True,19,False,True
+2014-01-11,34.1333333333,Dallas Mavericks,New Orleans Pelicans,3,68-76,5,three point jumper,True,23,False,True
+2014-01-11,34.5333333333,Dallas Mavericks,New Orleans Pelicans,3,70-79,6,three point jumper,True,23,True,True
+2014-01-11,36.3166666667,Dallas Mavericks,New Orleans Pelicans,4,77-84,5,two point jumper,True,17,False,True
+2014-01-11,39.4,Dallas Mavericks,New Orleans Pelicans,4,88-90,-1,three point jumper,True,23,False,True
+2014-01-11,44.15,Dallas Mavericks,New Orleans Pelicans,4,99-99,-2,layup,True,0,True,True
+2014-01-13,7.16666666667,Dallas Mavericks,Orlando Magic,1,12-17,3,two point jumper,True,19,False,False
+2014-01-13,9.31666666667,Dallas Mavericks,Orlando Magic,1,16-24,5,three point jumper,True,24,True,False
+2014-01-13,11.0166666667,Dallas Mavericks,Orlando Magic,1,16-28,10,two point shot,True,8,True,False
+2014-01-13,11.75,Dallas Mavericks,Orlando Magic,1,20-28,6,two point shot,True,2,False,False
+2014-01-13,18.4166666667,Dallas Mavericks,Orlando Magic,2,29-44,12,three point jumper,True,26,False,False
+2014-01-13,18.6666666667,Dallas Mavericks,Orlando Magic,2,29-47,15,three point jumper,True,25,True,False
+2014-01-13,19.0666666667,Dallas Mavericks,Orlando Magic,2,31-48,16,free throw,True,15,True,False
+2014-01-13,19.0666666667,Dallas Mavericks,Orlando Magic,2,31-49,17,free throw,True,15,True,False
+2014-01-13,33.9666666667,Dallas Mavericks,Orlando Magic,3,60-78,15,three point jumper,True,24,True,False
+2014-01-13,38.1333333333,Dallas Mavericks,Orlando Magic,4,68-87,17,two point jumper,True,1,False,False
+2014-01-13,42.6333333333,Dallas Mavericks,Orlando Magic,4,82-93,9,two point shot,True,7,True,False
+2014-01-13,43.4166666667,Dallas Mavericks,Orlando Magic,4,82-95,11,two point shot,True,20,True,False
+2014-01-18,11.4333333333,Dallas Mavericks,Portland Trail Blazers,1,33-20,-15,two point shot,True,1,True,False
+2014-01-18,11.4333333333,Dallas Mavericks,Portland Trail Blazers,1,33-21,-13,free throw,True,15,True,False
+2014-01-18,12.5666666667,Dallas Mavericks,Portland Trail Blazers,2,37-26,-14,three point jumper,True,25,True,False
+2014-01-18,13.2666666667,Dallas Mavericks,Portland Trail Blazers,2,39-26,-15,two point jumper,True,22,False,False
+2014-01-18,18.2,Dallas Mavericks,Portland Trail Blazers,2,52-38,-16,two point shot,True,10,False,False
+2014-01-18,20.3666666667,Dallas Mavericks,Portland Trail Blazers,2,54-45,-11,two point shot,True,1,True,False
+2014-01-18,20.3666666667,Dallas Mavericks,Portland Trail Blazers,2,54-46,-9,free throw,True,15,True,False
+2014-01-18,22.1333333333,Dallas Mavericks,Portland Trail Blazers,2,63-48,-17,two point jumper,True,6,False,False
+2014-01-18,31.6,Dallas Mavericks,Portland Trail Blazers,3,93-62,-33,two point jumper,True,14,False,False
+2014-01-18,31.9166666667,Dallas Mavericks,Portland Trail Blazers,3,96-64,-34,two point shot,True,1,True,False
+2014-01-29,9.0,Dallas Mavericks,Houston Rockets,1,24-23,-4,three point jumper,True,25,False,False
+2014-01-29,9.28333333333,Dallas Mavericks,Houston Rockets,1,24-23,-4,three point jumper,True,24,False,False
+2014-01-29,9.51666666667,Dallas Mavericks,Houston Rockets,1,24-25,-1,layup,True,0,True,False
+2014-01-29,12.8333333333,Dallas Mavericks,Houston Rockets,2,35-32,-5,two point shot,True,21,True,False
+2014-01-29,18.5333333333,Dallas Mavericks,Houston Rockets,2,48-42,-8,two point jumper,True,11,False,False
+2014-01-29,19.3833333333,Dallas Mavericks,Houston Rockets,2,51-45,-7,free throw,True,15,True,False
+2014-01-29,19.3833333333,Dallas Mavericks,Houston Rockets,2,51-46,-6,free throw,True,15,True,False
+2014-01-29,20.6166666667,Dallas Mavericks,Houston Rockets,2,54-49,-6,free throw,True,15,True,False
+2014-01-29,20.6166666667,Dallas Mavericks,Houston Rockets,2,54-50,-5,free throw,True,15,True,False
+2014-01-29,34.7833333333,Dallas Mavericks,Houston Rockets,3,89-82,-8,free throw,True,15,False,False
+2014-01-29,34.7833333333,Dallas Mavericks,Houston Rockets,3,89-83,-7,free throw,True,15,True,False
+2014-01-29,35.4166666667,Dallas Mavericks,Houston Rockets,3,89-85,-6,layup,True,0,True,False
+2014-01-29,38.2,Dallas Mavericks,Houston Rockets,4,96-90,-7,free throw,True,15,True,False
+2014-01-29,38.2,Dallas Mavericks,Houston Rockets,4,96-91,-6,free throw,True,15,True,False
+2014-01-29,43.2,Dallas Mavericks,Houston Rockets,4,104-95,-11,two point jumper,True,22,False,False
+2014-01-29,44.3,Dallas Mavericks,Houston Rockets,4,112-104,-11,three point jumper,True,25,True,False
+2014-01-29,45.2666666667,Dallas Mavericks,Houston Rockets,4,116-105,-12,free throw,True,15,True,False
+2014-01-29,45.2666666667,Dallas Mavericks,Houston Rockets,4,116-106,-11,free throw,True,15,True,False
+2014-01-29,45.2666666667,Dallas Mavericks,Houston Rockets,4,116-107,-10,free throw,True,15,True,False
+2014-01-29,46.85,Dallas Mavericks,Houston Rockets,4,117-113,-7,three point jumper,True,23,True,False
+2014-02-05,12.8,Dallas Mavericks,Memphis Grizzlies,2,23-28,-7,two point jumper,False,22,True,False
+2014-02-05,17.6666666667,Dallas Mavericks,Memphis Grizzlies,2,32-38,-8,two point jumper,False,19,False,False
+2014-02-05,33.0166666667,Dallas Mavericks,Memphis Grizzlies,3,67-65,0,two point jumper,False,8,False,False
+2014-02-05,34.15,Dallas Mavericks,Memphis Grizzlies,3,71-69,0,two point shot,False,1,True,False
+2014-02-05,35.8,Dallas Mavericks,Memphis Grizzlies,3,78-72,3,three point jumper,False,26,True,False
+2014-02-05,38.45,Dallas Mavericks,Memphis Grizzlies,4,85-74,9,two point shot,False,7,True,False
+2014-02-05,39.0666666667,Dallas Mavericks,Memphis Grizzlies,4,87-74,11,two point shot,False,1,True,False
+2014-02-05,40.2,Dallas Mavericks,Memphis Grizzlies,4,90-78,9,three point jumper,False,23,False,False
+2014-02-05,40.6666666667,Dallas Mavericks,Memphis Grizzlies,4,91-80,10,free throw,False,15,True,False
+2014-02-05,40.6666666667,Dallas Mavericks,Memphis Grizzlies,4,92-80,11,free throw,False,15,True,False
+2014-02-07,8.51666666667,Dallas Mavericks,Utah Jazz,1,21-21,-2,two point jumper,True,3,False,False
+2014-02-07,11.4166666667,Dallas Mavericks,Utah Jazz,1,23-28,2,three point jumper,True,25,True,False
+2014-02-07,19.0333333333,Dallas Mavericks,Utah Jazz,2,37-43,4,two point shot,True,11,True,False
+2014-02-07,19.6,Dallas Mavericks,Utah Jazz,2,37-43,3,three point jumper,True,26,False,False
+2014-02-07,19.8833333333,Dallas Mavericks,Utah Jazz,2,37-45,7,free throw,True,15,True,False
+2014-02-07,19.8833333333,Dallas Mavericks,Utah Jazz,2,37-45,7,free throw,True,15,False,False
+2014-02-07,32.95,Dallas Mavericks,Utah Jazz,3,64-71,6,free throw,True,15,False,False
+2014-02-07,32.95,Dallas Mavericks,Utah Jazz,3,64-72,7,free throw,True,15,True,False
+2014-02-07,38.4666666667,Dallas Mavericks,Utah Jazz,4,69-84,13,two point jumper,True,15,False,False
+2014-02-07,40.6,Dallas Mavericks,Utah Jazz,4,69-86,15,two point shot,True,10,True,False
+2014-02-11,7.53333333333,Dallas Mavericks,Charlotte Bobcats,1,20-16,2,two point jumper,False,23,True,True
+2014-02-11,10.6166666667,Dallas Mavericks,Charlotte Bobcats,1,24-24,-2,layup,False,0,False,True
+2014-02-11,11.15,Dallas Mavericks,Charlotte Bobcats,1,24-26,-4,two point shot,False,17,False,True
+2014-02-11,11.95,Dallas Mavericks,Charlotte Bobcats,1,24-28,-7,three point jumper,False,26,False,True
+2014-02-11,13.3166666667,Dallas Mavericks,Charlotte Bobcats,2,26-33,-9,layup,False,0,False,True
+2014-02-11,17.7833333333,Dallas Mavericks,Charlotte Bobcats,2,34-44,-12,layup,False,0,True,True
+2014-02-11,18.8166666667,Dallas Mavericks,Charlotte Bobcats,2,38-47,-11,two point jumper,False,17,True,True
+2014-02-11,19.6333333333,Dallas Mavericks,Charlotte Bobcats,2,38-47,-11,two point jumper,False,21,False,True
+2014-02-11,32.4833333333,Dallas Mavericks,Charlotte Bobcats,3,56-80,-27,three point jumper,False,26,False,True
+2014-02-11,32.8333333333,Dallas Mavericks,Charlotte Bobcats,3,58-82,-26,two point jumper,False,13,True,True
+2014-02-11,35.2,Dallas Mavericks,Charlotte Bobcats,3,65-86,-24,three point jumper,False,26,False,True
+2014-02-11,36.0,Dallas Mavericks,Charlotte Bobcats,3,65-89,-27,three point jumper,False,65,False,True
+2014-02-18,7.03333333333,Dallas Mavericks,Miami Heat,1,17-16,-4,three point jumper,True,26,False,False
+2014-02-18,10.1,Dallas Mavericks,Miami Heat,1,28-22,-8,layup,True,0,False,False
+2014-02-18,10.1166666667,Dallas Mavericks,Miami Heat,1,28-23,-6,free throw,True,15,True,False
+2014-02-18,10.1166666667,Dallas Mavericks,Miami Heat,1,28-24,-5,free throw,True,15,True,False
+2014-02-18,11.25,Dallas Mavericks,Miami Heat,1,30-25,-6,free throw,True,15,True,False
+2014-02-18,11.25,Dallas Mavericks,Miami Heat,1,30-26,-5,free throw,True,15,True,False
+2014-02-18,17.5333333333,Dallas Mavericks,Miami Heat,2,40-44,3,free throw,True,15,False,False
+2014-02-18,17.5333333333,Dallas Mavericks,Miami Heat,2,40-45,4,free throw,True,15,True,False
+2014-02-18,18.4833333333,Dallas Mavericks,Miami Heat,2,45-46,0,free throw,True,15,True,False
+2014-02-18,18.4833333333,Dallas Mavericks,Miami Heat,2,45-47,1,free throw,True,15,True,False
+2014-02-18,30.45,Dallas Mavericks,Miami Heat,3,68-74,3,three point jumper,True,24,False,False
+2014-02-18,31.2,Dallas Mavericks,Miami Heat,3,70-76,4,layup,True,0,True,False
+2014-02-18,33.6833333333,Dallas Mavericks,Miami Heat,3,78-76,-5,three point jumper,True,25,False,False
+2014-02-18,34.6666666667,Dallas Mavericks,Miami Heat,3,80-80,-1,free throw,True,15,True,False
+2014-02-18,34.6666666667,Dallas Mavericks,Miami Heat,3,80-81,0,free throw,True,15,True,False
+2014-02-18,36.0,Dallas Mavericks,Miami Heat,3,84-85,-1,tip shot,True,0,False,False
+2014-02-18,40.2166666667,Dallas Mavericks,Miami Heat,4,92-94,-1,three point jumper,True,25,True,False
+2014-02-18,40.2166666667,Dallas Mavericks,Miami Heat,4,92-95,2,free throw,True,15,True,False
+2014-02-18,41.4166666667,Dallas Mavericks,Miami Heat,4,98-95,-6,three point jumper,True,24,False,False
+2014-02-26,10.4833333333,Dallas Mavericks,New Orleans Pelicans,1,21-16,-8,three point jumper,True,24,False,False
+2014-02-26,11.1166666667,Dallas Mavericks,New Orleans Pelicans,1,22-18,-6,two point shot,True,1,True,False
+2014-02-26,12.5833333333,Dallas Mavericks,New Orleans Pelicans,2,28-20,-11,three point jumper,True,24,False,False
+2014-02-26,13.2,Dallas Mavericks,New Orleans Pelicans,2,28-23,-8,three point jumper,True,23,True,False
+2014-02-26,20.3166666667,Dallas Mavericks,New Orleans Pelicans,2,39-39,-2,two point shot,True,16,True,False
+2014-02-26,20.9166666667,Dallas Mavericks,New Orleans Pelicans,2,39-40,0,free throw,True,15,True,False
+2014-02-26,20.9166666667,Dallas Mavericks,New Orleans Pelicans,2,39-41,1,free throw,True,15,True,False
+2014-02-26,21.4333333333,Dallas Mavericks,New Orleans Pelicans,2,39-43,2,layup,True,0,True,False
+2014-02-26,34.9333333333,Dallas Mavericks,New Orleans Pelicans,3,64-74,9,free throw,True,15,True,False
+2014-02-26,34.9333333333,Dallas Mavericks,New Orleans Pelicans,3,64-75,10,free throw,True,15,True,False
+2014-02-26,36.3,Dallas Mavericks,New Orleans Pelicans,4,67-78,9,two point shot,True,1,False,False
+2014-02-26,37.5666666667,Dallas Mavericks,New Orleans Pelicans,4,69-80,9,two point shot,True,1,True,False
+2014-02-26,38.1166666667,Dallas Mavericks,New Orleans Pelicans,4,69-82,11,two point shot,True,9,True,False
