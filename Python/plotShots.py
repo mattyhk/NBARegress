@@ -1,3 +1,5 @@
+# Plots heat maps for different predictor variables against one another for individual players
+
 import csv
 import sys
 import numpy
